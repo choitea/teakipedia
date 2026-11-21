@@ -3846,9 +3846,112 @@ window.TEAFaiI18N = (function () {
     "partner.listTitle": "合作舖頭"
   };
 
+  /* ── 2026-11 UGC(사용자 생성 콘텐츠) 대응 — 커뮤니티 신고·이용 안내 ──
+     구글 플레이 UGC 정책용이라 6개 언어를 모두 직접 적었습니다(ja·yue 포함). */
+  var V16 = {
+    ko: {
+      "comm.rules": "욕설·광고·타인의 개인정보가 담긴 글은 숨김·삭제될 수 있어요. 부적절한 글은 ‘신고’로 알려 주세요.",
+      "comm.report": "신고",
+      "comm.reportTitle": "이 글 신고하기",
+      "comm.reportLead": "신고 사유를 골라 주세요. 신고한 글은 내 화면에서 바로 숨겨집니다.",
+      "comm.reportSpam": "스팸·광고",
+      "comm.reportAbuse": "욕설·부적절한 표현",
+      "comm.reportFalse": "허위·오해 정보",
+      "comm.reportOther": "기타",
+      "comm.reportSubmit": "신고하고 숨기기",
+      "comm.reported": "신고가 접수되었으며 이 글은 숨겨졌습니다.",
+      "comm.reportNote": "여러 번 신고된 글은 운영자가 확인한 뒤 삭제될 수 있습니다.",
+      "comm.reportAria": "{nick}님의 글 신고하기",
+      "comm.hiddenNote": "신고로 숨긴 글 {n}개",
+      "comm.undo": "되돌리기"
+    },
+    en: {
+      "comm.rules": "Posts with abuse, ads, or other people's personal info may be hidden or removed. Use “Report” to flag a post.",
+      "comm.report": "Report",
+      "comm.reportTitle": "Report this post",
+      "comm.reportLead": "Choose a reason. The post is hidden from your screen right away.",
+      "comm.reportSpam": "Spam or ads",
+      "comm.reportAbuse": "Abuse or offensive language",
+      "comm.reportFalse": "False or misleading info",
+      "comm.reportOther": "Other",
+      "comm.reportSubmit": "Report and hide",
+      "comm.reported": "Report received — this post is hidden.",
+      "comm.reportNote": "Posts reported repeatedly may be reviewed and removed by the operator.",
+      "comm.reportAria": "Report the post by {nick}",
+      "comm.hiddenNote": "Hidden after report: {n}",
+      "comm.undo": "Undo"
+    },
+    "zh-CN": {
+      "comm.rules": "含辱骂、广告或他人个人信息的帖子可能被隐藏或删除。发现不当内容请点“举报”。",
+      "comm.report": "举报",
+      "comm.reportTitle": "举报这篇帖子",
+      "comm.reportLead": "请选择举报理由。举报的帖子会立即在你的画面中隐藏。",
+      "comm.reportSpam": "垃圾信息·广告",
+      "comm.reportAbuse": "辱骂·不当表达",
+      "comm.reportFalse": "虚假·误导信息",
+      "comm.reportOther": "其他",
+      "comm.reportSubmit": "举报并隐藏",
+      "comm.reported": "举报已提交，该帖子已隐藏。",
+      "comm.reportNote": "被多次举报的帖子经运营者确认后可能被删除。",
+      "comm.reportAria": "举报{nick}的帖子",
+      "comm.hiddenNote": "已举报隐藏的帖子 {n} 篇",
+      "comm.undo": "恢复"
+    },
+    "zh-TW": {
+      "comm.rules": "含辱罵、廣告或他人個資的貼文可能被隱藏或刪除。發現不當內容請點「檢舉」。",
+      "comm.report": "檢舉",
+      "comm.reportTitle": "檢舉這篇貼文",
+      "comm.reportLead": "請選擇檢舉理由。檢舉的貼文會立即在你的畫面中隱藏。",
+      "comm.reportSpam": "垃圾訊息·廣告",
+      "comm.reportAbuse": "辱罵·不當表達",
+      "comm.reportFalse": "虛假·誤導資訊",
+      "comm.reportOther": "其他",
+      "comm.reportSubmit": "檢舉並隱藏",
+      "comm.reported": "檢舉已送出，此貼文已隱藏。",
+      "comm.reportNote": "被多次檢舉的貼文經營運者確認後可能被刪除。",
+      "comm.reportAria": "檢舉{nick}的貼文",
+      "comm.hiddenNote": "已檢舉隱藏的貼文 {n} 篇",
+      "comm.undo": "復原"
+    },
+    ja: {
+      "comm.rules": "暴言・広告・他人の個人情報を含む投稿は非表示または削除されることがあります。不適切な投稿は「通報」からお知らせください。",
+      "comm.report": "通報",
+      "comm.reportTitle": "この投稿を通報",
+      "comm.reportLead": "通報する理由を選んでください。通報した投稿はすぐにこの画面から非表示になります。",
+      "comm.reportSpam": "スパム・宣伝",
+      "comm.reportAbuse": "暴言・不適切な表現",
+      "comm.reportFalse": "虚偽・誤解を招く情報",
+      "comm.reportOther": "その他",
+      "comm.reportSubmit": "通報して非表示",
+      "comm.reported": "通報を受け付けました。この投稿は非表示にしました。",
+      "comm.reportNote": "複数回通報された投稿は、運営者の確認後に削除されることがあります。",
+      "comm.reportAria": "{nick}さんの投稿を通報",
+      "comm.hiddenNote": "通報で非表示にした投稿 {n} 件",
+      "comm.undo": "元に戻す"
+    }
+  };
+
+  /* 광동어(홍콩 구어체) — V16 문구를 廣東話로 */
+  var YUE6 = {
+    "comm.rules": "含粗口、廣告或者他人個人資料嘅帖子可能會被隱藏或者刪除。見到唔適當嘅內容，請㩒「舉報」。",
+    "comm.report": "舉報",
+    "comm.reportTitle": "舉報呢篇帖",
+    "comm.reportLead": "揀個舉報原因。舉報咗嘅帖會即刻喺你畫面度收埋。",
+    "comm.reportSpam": "垃圾訊息·廣告",
+    "comm.reportAbuse": "粗口·唔適當嘅說話",
+    "comm.reportFalse": "假消息·誤導資訊",
+    "comm.reportOther": "其他",
+    "comm.reportSubmit": "舉報並收埋",
+    "comm.reported": "收到你嘅舉報，呢篇帖已經收埋。",
+    "comm.reportNote": "俾人多次舉報嘅帖，營運者睇完之後可能會刪。",
+    "comm.reportAria": "舉報{nick}嘅帖",
+    "comm.hiddenNote": "舉報咗收埋嘅帖 {n} 篇",
+    "comm.undo": "還原"
+  };
+
   var dictFor = {};
 
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14];
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -3867,6 +3970,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE3) merged[k] = YUE3[k];
       for (k in YUE4) merged[k] = YUE4[k];
       for (k in YUE5) merged[k] = YUE5[k];
+      for (k in YUE6) merged[k] = YUE6[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;

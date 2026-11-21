@@ -5,6 +5,7 @@
      같은 화면이 서버 저장으로 바뀝니다.
    · 테이블 정의는 tea_fai_platform/schema.sql 과 맞춰 두었습니다.
        커뮤니티 글  → public.community_posts   (§15)
+     글 신고      → public.community_reports (§12-3, 없으면 기기 기록만)
        입점 신청    → public.shop_applications (§6)
        새 티백 등록 → public.community_posts (post_type=bag, 제목에 [새 티백])
        찻집 회원 업로드 → public.shop_applications (message 첫 줄에 [찻집 회원 업로드])
@@ -20,7 +21,8 @@ window.SUPABASE_CONFIG = {
   enabled: true,      // true 이고 url·anonKey 가 있으면 서버 모드
   tables: {
     posts: "community_posts",
-    applications: "shop_applications"
+    applications: "shop_applications",
+    reports: "community_reports"
   },
   timeoutMs: 8000
 };
@@ -170,6 +172,27 @@ window.TeaFaiSupabase = (function () {
     return request("GET", cfg().tables.posts, null, q);
   }
 
+  /* ---------- 커뮤니티 글 신고 ---------- */
+  /* 앱의 신고 한 건을 community_reports 행으로 옮깁니다.
+     표가 아직 없거나(404) 쓰기가 막혀 있어도 앱은 기기 기록으로 계속 동작합니다. */
+  function reportRow(rec) {
+    var r = rec || {};
+    var reason = String(r.reason || "other");
+    if (["spam", "abuse", "false", "other"].indexOf(reason) < 0) reason = "other";
+    return {
+      post_client_id: String(r.postId || "").slice(0, 80),
+      reason: reason,
+      lang: r.lang === "yue" ? "zh-TW" : r.lang || "ko"
+    };
+  }
+
+  function submitReport(rec) {
+    if (!rec || !rec.postId) {
+      return Promise.resolve({ ok: false, mode: "local", reason: "no_post" });
+    }
+    return request("POST", cfg().tables.reports || "community_reports", reportRow(rec), null, "return=minimal");
+  }
+
   /* ---------- 입점 신청 ---------- */
   /* 신청서 한 건을 shop_applications 행으로 옮깁니다.
      플랜·영업시간·태그·링크는 아직 전용 컬럼이 없어 message 에 함께 적습니다. */
@@ -280,6 +303,8 @@ window.TeaFaiSupabase = (function () {
     mode: mode,
     submitPost: submitPost,
     fetchPosts: fetchPosts,
+    submitReport: submitReport,
+    reportRow: reportRow,
     submitApplication: submitApplication,
     submitTeaBag: submitTeaBag,
     submitShopUpload: submitShopUpload,

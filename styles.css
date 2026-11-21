@@ -3079,6 +3079,91 @@ html[lang="zh-TW"] .quiz-q {
   color: var(--muted);
 }
 
+/* 커뮤니티 이용 안내 (UGC 정책) */
+.comm-rules {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--amber-light);
+  background: var(--amber-soft);
+  font-size: 11.5px;
+  line-height: 1.62;
+  color: #6d4a22;
+  overflow-wrap: anywhere;
+}
+
+.comm-hidden-note {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding: 9px 12px;
+  border-radius: 10px;
+  border: 1px dashed var(--line);
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.comm-hidden-note[hidden] {
+  display: none;
+}
+
+.comm-undo {
+  flex: 0 0 auto;
+  font-size: 11.5px;
+  color: #7a5227;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* 신고 사유 선택 시트 */
+.report-reasons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 4px 0 14px;
+}
+
+.report-reason {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  padding: 11px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--paper-2);
+  font-size: 12.5px;
+  line-height: 1.4;
+  color: var(--ink-soft);
+  text-align: left;
+  transition: background 0.18s, border-color 0.18s, color 0.18s;
+}
+
+.report-reason::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1.6px solid #cfc6b4;
+  background: var(--paper);
+}
+
+.report-reason.on {
+  border-color: var(--amber-light);
+  background: var(--amber-soft);
+  color: #6d4a22;
+}
+
+.report-reason.on::before {
+  border-color: var(--amber);
+  background: var(--amber);
+  box-shadow: inset 0 0 0 3px var(--paper-2);
+}
+
 .post {
   background: var(--paper-2);
   border: 1px solid var(--line);
@@ -3219,6 +3304,27 @@ html[lang="zh-TW"] .quiz-q {
   background: none;
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+/* 신고 버튼 — 글 카드 액션 줄 (도움돼요 옆) */
+.post-report {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 9px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--muted);
+  font-size: 11.5px;
+  line-height: 1.35;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+
+.post-report:hover,
+.post-report:focus-visible {
+  color: #8c4a3f;
+  border-color: #e2c3b8;
+  background: #fbf0ea;
 }
 
 /* ---------- 입점 신청 시트 ---------- */

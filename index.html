@@ -135,6 +135,9 @@
         <symbol id="ic-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
           <path d="M12 5v14M5 12h14" />
         </symbol>
+        <symbol id="ic-flag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M6 21V4.2c3.2-1.7 6.4-1.4 9.6 0V15c-3.2-1.4-6.4-1.7-9.6 0" />
+        </symbol>
         <symbol id="ic-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
           <path d="m6 6 12 12M18 6 6 18" />
         </symbol>
@@ -510,6 +513,8 @@
           </button>
         </div>
 
+        <p class="comm-rules" id="commRules" data-i18n="comm.rules">욕설·광고·타인의 개인정보가 담긴 글은 숨김·삭제될 수 있어요. 부적절한 글은 ‘신고’로 알려 주세요.</p>
+
         <form class="form-card" id="postForm" autocomplete="off" hidden>
           <div class="field">
             <label data-i18n="comm.type">글 종류</label>
@@ -540,6 +545,7 @@
         <div class="demo-note" id="commDemoNote"></div>
         <div class="chip-row" id="commFilterChips" role="group" aria-label="글 필터" data-i18n-aria="a11y.filter"></div>
         <div id="postList"></div>
+        <p class="comm-hidden-note" id="commHiddenNote" hidden></p>
       </section>
 
       <!-- ───────── 6. 시음 노트 ───────── -->
@@ -701,6 +707,28 @@
 
           <div id="applyResult" class="apply-result" hidden></div>
           <p class="sheet-help" data-i18n="apply.help">매장이 아니어도 궁금한 점은 rotroka@naver.com 으로 보내 주세요.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 커뮤니티 글 신고 시트 (Google Play UGC 정책 — 신고·차단) -->
+    <div class="modal" id="reportModal" hidden>
+      <div class="modal-back" data-report-close></div>
+      <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="reportTitle">
+        <div class="sheet-head">
+          <h2 id="reportTitle" data-i18n="comm.reportTitle">이 글 신고하기</h2>
+          <button class="sheet-close" type="button" data-report-close aria-label="닫기" data-i18n-aria="comm.close">
+            <svg width="16" height="16"><use href="#ic-close" /></svg>
+          </button>
+        </div>
+        <div class="sheet-body">
+          <p class="sheet-lead" data-i18n="comm.reportLead">신고 사유를 골라 주세요. 신고한 글은 내 화면에서 바로 숨겨집니다.</p>
+          <div class="report-reasons" id="reportReasons" role="radiogroup" aria-labelledby="reportTitle"></div>
+          <div class="form-row">
+            <button class="btn btn-dark" type="button" id="reportSubmit" data-i18n="comm.reportSubmit">신고하고 숨기기</button>
+            <button class="btn btn-ghost" type="button" data-report-close data-i18n="comm.close">닫기</button>
+          </div>
+          <p class="sheet-help" data-i18n="comm.reportNote">여러 번 신고된 글은 운영자가 확인한 뒤 삭제될 수 있습니다.</p>
         </div>
       </div>
     </div>

@@ -2276,11 +2276,14 @@
   var POSTS_KEY = "teafai.posts.v1";
   var APPS_KEY = "teafai.applications.v1";
   var REACT_KEY = "teafai.reactions.v1";
+  /* UGC 신고 — 신고 기록과 "내 화면에서 숨긴 글" 목록 (Google Play 정책 대응) */
+  var REPORTS_KEY = "teafai.reports.v1";
+  var HIDDEN_KEY = "teafai.posts.hidden.v1";
 
   var FEATURE = { bags: null, cafes: null, plans: null };
   var bagState = { q: "", brand: "all", type: "all", tag: "all", caffeine: "all", open: null };
   var cafeState = { q: "", region: "all", tag: "all", open: null };
-  var commState = { filter: "all", type: "review", rating: 0 };
+  var commState = { filter: "all", type: "review", rating: 0, reportId: null, reportReason: "spam", reportFocus: null };
   var applyState = { plan: null, tags: [], result: null };
 
   /* 취향 태그 가운데 화면에 보여 줄 8개 (TRAITS 어휘와 같습니다) */
@@ -3006,6 +3009,43 @@
     storeSet(REACT_KEY, map);
   }
 
+  /* ---------------- 신고·숨김 (UGC 정책) ----------------
+     신고는 이 기기에 먼저 기록하고, 서버(community_reports)가 열려 있으면
+     함께 올립니다. 신고한 글은 즉시 내 화면에서 숨기고, 새로고침해도 유지합니다. */
+  function loadHidden() {
+    var raw = storeGet(HIDDEN_KEY, []);
+    return Array.isArray(raw) ? raw : [];
+  }
+  function isPostHidden(id, list) {
+    return (list || loadHidden()).indexOf(id) >= 0;
+  }
+  function hidePost(id) {
+    var list = loadHidden();
+    if (list.indexOf(id) < 0) {
+      list.push(id);
+      storeSet(HIDDEN_KEY, list);
+    }
+  }
+  function unhidePost(id) {
+    storeSet(
+      HIDDEN_KEY,
+      loadHidden().filter(function (x) {
+        return x !== id;
+      })
+    );
+  }
+  function saveReportRecord(rec) {
+    var list = storeGet(REPORTS_KEY, []);
+    if (!Array.isArray(list)) list = [];
+    list.push(rec);
+    storeSet(REPORTS_KEY, list);
+  }
+  function postById(id) {
+    var all = allPosts();
+    for (var i = 0; i < all.length; i++) if (all[i].id === id) return all[i];
+    return null;
+  }
+
   function allPosts() {
     return SEED_POSTS.concat(loadPosts()).sort(function (a, b) {
       return (b.createdAt || 0) - (a.createdAt || 0);
@@ -3030,6 +3070,8 @@
     var subject = pv("teaName", p.teaName);
     return (
       '<article class="post" data-post="' +
+      esc(p.id) +
+      '" data-post-id="' +
       esc(p.id) +
       '">' +
       '<div class="post-top"><span class="post-type ' +
@@ -3071,6 +3113,13 @@
       " " +
       helpN +
       "</span></button>" +
+      '<button class="post-report" type="button" data-report data-id="' +
+      esc(p.id) +
+      '" aria-label="' +
+      esc(t("comm.reportAria", { nick: pv("nickname", p.nickname) })) +
+      '">' +
+      esc(t("comm.report")) +
+      "</button>" +
       (!p.seed
         ? '<button class="re-btn del" type="button" data-post-del="' + esc(p.id) + '">' + esc(t("comm.delete")) + "</button>"
         : "") +
@@ -3106,7 +3155,9 @@
   function renderPostList() {
     var list = $("#postList");
     if (!list) return;
+    var hiddenIds = loadHidden();
     var posts = allPosts().filter(function (p) {
+      if (isPostHidden(p.id, hiddenIds)) return false;
       return commState.filter === "all" || p.type === commState.filter;
     });
     var note = $("#commDemoNote");
@@ -3123,9 +3174,30 @@
     }
     if (!posts.length) {
       list.innerHTML = '<div class="empty">' + esc(t("comm.empty")) + "</div>";
+      renderHiddenNote(hiddenIds);
       return;
     }
     list.innerHTML = posts.map(postHtml).join("");
+    renderHiddenNote(hiddenIds);
+  }
+
+  /* 신고로 숨긴 글이 있으면 개수와 되돌리기를 보여 줍니다 */
+  function renderHiddenNote(hiddenIds) {
+    var note = $("#commHiddenNote");
+    if (!note) return;
+    var n = (hiddenIds || []).length;
+    if (!n) {
+      note.hidden = true;
+      note.innerHTML = "";
+      return;
+    }
+    note.hidden = false;
+    note.innerHTML =
+      "<span>" +
+      esc(t("comm.hiddenNote", { n: n })) +
+      '</span><button class="comm-undo" type="button" id="commUndoHide">' +
+      esc(t("comm.undo")) +
+      "</button>";
   }
 
   function renderPostForm() {
@@ -3196,6 +3268,111 @@
       sel.innerHTML = html;
       sel.value = prev || "";
     }
+  }
+
+  /* ---------------- 신고 시트 (사유 선택) ---------------- */
+  var REPORT_REASONS = [
+    { id: "spam", key: "comm.reportSpam" },
+    { id: "abuse", key: "comm.reportAbuse" },
+    { id: "false", key: "comm.reportFalse" },
+    { id: "other", key: "comm.reportOther" }
+  ];
+
+  function renderReportSheet() {
+    var wrap = $("#reportReasons");
+    if (!wrap) return;
+    wrap.innerHTML = "";
+    REPORT_REASONS.forEach(function (item) {
+      var on = commState.reportReason === item.id;
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "report-reason" + (on ? " on" : "");
+      btn.setAttribute("role", "radio");
+      btn.setAttribute("aria-checked", String(on));
+      btn.setAttribute("data-reason", item.id);
+      btn.textContent = t(item.key);
+      btn.addEventListener("click", function () {
+        commState.reportReason = item.id;
+        renderReportSheet();
+      });
+      wrap.appendChild(btn);
+    });
+  }
+
+  function openReport(id, fromEl) {
+    if (!postById(id)) return;
+    commState.reportId = id;
+    commState.reportReason = "spam";
+    commState.reportFocus = fromEl || null;
+    var modal = $("#reportModal");
+    if (!modal) return;
+    renderReportSheet();
+    modal.hidden = false;
+    document.body.classList.add("modal-open");
+    var first = $("#reportReasons .report-reason");
+    if (first) first.focus();
+  }
+
+  function closeReport() {
+    var modal = $("#reportModal");
+    if (!modal) return;
+    modal.hidden = true;
+    document.body.classList.remove("modal-open");
+    commState.reportId = null;
+    if (commState.reportFocus && commState.reportFocus.focus) {
+      try {
+        commState.reportFocus.focus();
+      } catch (e) {}
+    }
+    commState.reportFocus = null;
+  }
+
+  /* 신고 접수 — 기기에 기록 → 서버 신고표가 있으면 함께 전송 → 내 화면에서 숨김 */
+  function submitReport() {
+    var id = commState.reportId;
+    if (!id) return;
+    var post = postById(id);
+    var rec = {
+      postId: id,
+      reason: commState.reportReason || "other",
+      postType: (post && post.type) || "",
+      lang: lang,
+      createdAt: Date.now()
+    };
+    saveReportRecord(rec);
+    hidePost(id);
+    closeReport();
+    renderPostList();
+    toast(t("comm.reported"));
+    if (window.TeaFaiSupabase && typeof window.TeaFaiSupabase.submitReport === "function") {
+      try {
+        window.TeaFaiSupabase.submitReport(rec).catch(function () {});
+      } catch (e) {}
+    }
+  }
+
+  function bindReportSheet() {
+    var modal = $("#reportModal");
+    if (!modal) return;
+    var closers = modal.querySelectorAll("[data-report-close]");
+    for (var i = 0; i < closers.length; i++) {
+      closers[i].addEventListener("click", closeReport);
+    }
+    var submit = $("#reportSubmit");
+    if (submit) submit.addEventListener("click", submitReport);
+    var undo = $("#commHiddenNote");
+    if (undo) {
+      undo.addEventListener("click", function (e) {
+        var btn = e.target.closest ? e.target.closest("#commUndoHide") : null;
+        if (!btn) return;
+        var ids = loadHidden();
+        if (ids.length) unhidePost(ids[ids.length - 1]);
+        renderPostList();
+      });
+    }
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && modal && !modal.hidden) closeReport();
+    });
   }
 
   function bindCommunity() {
@@ -3284,6 +3461,11 @@
     var list = $("#postList");
     if (list) {
       list.addEventListener("click", function (e) {
+        var repBtn = e.target.closest ? e.target.closest("[data-report]") : null;
+        if (repBtn) {
+          openReport(repBtn.getAttribute("data-id"), repBtn);
+          return;
+        }
         var reactBtn = e.target.closest ? e.target.closest("[data-react]") : null;
         if (reactBtn) {
           var id = reactBtn.getAttribute("data-id");
@@ -3816,6 +3998,7 @@
     renderCommFilters();
     renderPostForm();
     renderPostList();
+    renderReportSheet();
     renderApplyMeta();
     renderBagMode();
     if (currentView === "quiz") renderQuiz();
@@ -3872,6 +4055,7 @@
     renderCommFilters();
     initGuideTabs();
     bindCommunity();
+    bindReportSheet();
     bindApply();
     bindQuiz();
     $("#noteForm").addEventListener("submit", submitNote);
