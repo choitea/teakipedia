@@ -59,54 +59,78 @@
       id: "milk-hongkong",
       q: "홍콩 밀크티",
       title: { ko: "홍콩식 밀크티 (완제품·분말)", en: "Hong Kong style milk tea", "zh-CN": "港式奶茶", "zh-TW": "港式奶茶", ja: "香港式ミルクティー", yue: "港式奶茶（現成·粉）" },
-      note: { ko: "진한 홍차에 연유를 넣은 홍콩식", en: "Strong black tea with evaporated milk", "zh-CN": "浓红茶加淡奶", "zh-TW": "濃紅茶加淡奶", yue: "濃紅茶加淡奶嘅港式" }
+      note: { ko: "진한 홍차에 연유를 넣은 홍콩식", en: "Strong black tea with evaporated milk", "zh-CN": "浓红茶加淡奶", "zh-TW": "濃紅茶加淡奶", yue: "濃紅茶加淡奶嘅港式" },
+      url: "https://link.coupang.com/a/iR15M5wWbI",
+      price: 6080,
+      thumb: "images/store/fin-milk-hongkong.jpg"
     },
     {
       id: "milk-powder",
       q: "밀크티 파우더",
       title: { ko: "밀크티 파우더·베이스", en: "Milk tea powder or base", "zh-CN": "奶茶粉·基底", "zh-TW": "奶茶粉·基底", ja: "ミルクティーパウダー", yue: "奶茶粉·基底" },
-      note: { ko: "집에서 밀크티 만들 때 쓰는 베이스", en: "For making milk tea at home", "zh-CN": "在家做奶茶用", "zh-TW": "在家做奶茶用", yue: "喺屋企整奶茶用嘅基底" }
+      note: { ko: "집에서 밀크티 만들 때 쓰는 베이스", en: "For making milk tea at home", "zh-CN": "在家做奶茶用", "zh-TW": "在家做奶茶用", yue: "喺屋企整奶茶用嘅基底" },
+      url: "https://link.coupang.com/a/iR162uSjtI",
+      price: 5780,
+      thumb: "images/store/fin-milk-powder.jpg"
     },
     {
       id: "milk-tapioca",
       q: "타피오카 펄",
       title: { ko: "타피오카 펄 (버블티)", en: "Tapioca pearls for bubble tea", "zh-CN": "珍珠粉圆", "zh-TW": "珍珠粉圓", ja: "タピオカパール", yue: "珍珠（珍珠奶茶用）" },
-      note: { ko: "버블티용 펄", en: "Pearls for bubble tea", "zh-CN": "做珍珠奶茶用", "zh-TW": "做珍珠奶茶用", yue: "整珍珠奶茶用嘅珍珠" }
+      note: { ko: "버블티용 펄", en: "Pearls for bubble tea", "zh-CN": "做珍珠奶茶用", "zh-TW": "做珍珠奶茶用", yue: "整珍珠奶茶用嘅珍珠" },
+      url: "https://link.coupang.com/a/iR18jIvX3s",
+      price: 8700,
+      thumb: "images/store/fin-milk-tapioca.jpg"
     },
     {
       id: "milk-evap",
       q: "연유",
       title: { ko: "연유 (홍콩 밀크티용)", en: "Evaporated milk", "zh-CN": "淡奶", "zh-TW": "淡奶", ja: "エバミルク", yue: "淡奶（港式奶茶用）" },
-      note: { ko: "홍콩 밀크티의 진한 맛", en: "The body of Hong Kong milk tea", "zh-CN": "港式奶茶的厚度", "zh-TW": "港式奶茶的厚度", yue: "港式奶茶嘅厚度" }
+      note: { ko: "홍콩 밀크티의 진한 맛", en: "The body of Hong Kong milk tea", "zh-CN": "港式奶茶的厚度", "zh-TW": "港式奶茶的厚度", yue: "港式奶茶嘅厚度" },
+      url: "https://link.coupang.com/a/iR19scSVy0",
+      price: 5400,
+      thumb: "images/store/fin-milk-evap.jpg"
     },
     {
       id: "black-ceylon-bag",
       q: "실론 홍차 티백",
       title: { ko: "실론 홍차 티백 (대용량)", en: "Ceylon black tea bags, large pack", "zh-CN": "锡兰红茶茶包（大包装）", "zh-TW": "錫蘭紅茶茶包（大包裝）", ja: "セイロン紅茶ティーバッグ", yue: "錫蘭紅茶茶包（大包）" },
-      note: { ko: "밀크티 베이스로 좋은 진한 홍차", en: "A strong tea for milk tea", "zh-CN": "适合做奶茶基底", "zh-TW": "適合做奶茶基底", yue: "啱做奶茶基底嘅濃紅茶" }
+      note: { ko: "밀크티 베이스로 좋은 진한 홍차", en: "A strong tea for milk tea", "zh-CN": "适合做奶茶基底", "zh-TW": "適合做奶茶基底", yue: "啱做奶茶基底嘅濃紅茶" },
+      url: "https://link.coupang.com/a/iR2aEhJymG",
+      price: 18900,
+      thumb: "images/store/fin-black-ceylon-bag.jpg"
     },
     {
       id: "black-assam-bag",
       q: "아삼 홍차",
       title: { ko: "아삼 홍차", en: "Assam black tea", "zh-CN": "阿萨姆红茶", "zh-TW": "阿薩姆紅茶", ja: "アッサム紅茶", yue: "阿薩姆紅茶" },
-      note: { ko: "몰트 향이 진한 홍차", en: "Malty and full", "zh-CN": "麦芽香浓", "zh-TW": "麥芽香濃", yue: "麥芽香濃嘅紅茶" }
+      note: { ko: "몰트 향이 진한 홍차", en: "Malty and full", "zh-CN": "麦芽香浓", "zh-TW": "麥芽香濃", yue: "麥芽香濃嘅紅茶" },
+      url: "https://link.coupang.com/a/iR2bNt6k2e",
+      price: 8900,
+      thumb: "images/store/fin-black-assam-bag.jpg"
     },
     {
       id: "black-earlgrey-bulk",
       q: "얼그레이 티백",
       title: { ko: "얼그레이 티백 (대용량)", en: "Earl Grey tea bags, large pack", "zh-CN": "伯爵茶包（大包装）", "zh-TW": "伯爵茶包（大包裝）", ja: "アールグレイ ティーバッグ", yue: "伯爵茶包（大包）" },
-      note: { ko: "매일 마시는 베르가못 홍차", en: "Everyday bergamot black tea", "zh-CN": "日常佛手柑红茶", "zh-TW": "日常佛手柑紅茶", yue: "日日飲嘅佛手柑紅茶" }
+      note: { ko: "매일 마시는 베르가못 홍차", en: "Everyday bergamot black tea", "zh-CN": "日常佛手柑红茶", "zh-TW": "日常佛手柑紅茶", yue: "日日飲嘅佛手柑紅茶" },
+      url: "https://link.coupang.com/a/iR2cSQYflY",
+      price: 24900,
+      thumb: "images/store/fin-black-earlgrey-bulk.jpg"
     },
     {
       id: "black-chai",
       q: "마살라 차이",
       title: { ko: "마살라 차이 (향신료 홍차)", en: "Masala chai", "zh-CN": "玛萨拉香料红茶", "zh-TW": "瑪薩拉香料紅茶", ja: "マサラチャイ", yue: "瑪薩拉香料茶" },
-      note: { ko: "우유와 향신료를 넣어 끓이는 인도 홍차", en: "Indian spiced milk tea", "zh-CN": "印度香料奶茶", "zh-TW": "印度香料奶茶", yue: "加奶同香料一齊煲嘅印度紅茶" }
+      note: { ko: "우유와 향신료를 넣어 끓이는 인도 홍차", en: "Indian spiced milk tea", "zh-CN": "印度香料奶茶", "zh-TW": "印度香料奶茶", yue: "加奶同香料一齊煲嘅印度紅茶" },
+      url: "https://link.coupang.com/a/iR2dTAmlAO",
+      price: 14400,
+      thumb: "images/store/fin-black-chai.jpg"
     }
   ];
 
   /* ---------------- 스토어 상태 ---------------- */
-  var storeState = { cat: "all", q: "" };
+  var storeState = { cat: "all", q: "", bagId: null };
 
   function affiliate() {
     return (bridge() && A.partner && A.partner.affiliate) || null;
@@ -135,7 +159,8 @@
         title: normTitle(it.title) || normTitle(it.name),
         sub: "",
         price: it.price_krw || null,
-        url: String(it.url)
+        url: String(it.url),
+        thumb: it.thumb || null
       });
     });
 
@@ -143,15 +168,17 @@
     bags.forEach(function (bag) {
       var brand = A.bagBrandName ? A.bagBrandName(bag) : bag.brand || "";
       var name = normTitle(bag.name);
+      var aff = bag.affiliate && bag.affiliate.url ? bag.affiliate : null;
       out.push({
         id: "bag-" + bag.id,
         cat: "bag",
-        paid: false,
+        paid: !!aff,
         badge: t("store.catBag"),
         title: (brand ? brand + " · " : "") + name,
         sub: t("bag.brew", { temp: bag.temp, dur: fmtDur(bag.seconds) }),
-        price: null,
-        url: SEARCH + encodeURIComponent((brand ? brand + " " : "") + name + " 티백")
+        price: (aff && aff.price) || null,
+        url: aff ? String(aff.url) : SEARCH + encodeURIComponent((brand ? brand + " " : "") + name + " 티백"),
+        thumb: (aff && aff.thumb) || bag.thumb || (bag.photo && bag.photo.f) || null
       });
     });
 
@@ -159,12 +186,13 @@
       out.push({
         id: "fin-" + f.id,
         cat: "milk",
-        paid: false,
+        paid: !!f.url,
         badge: t("store.catMilk"),
         title: normTitle(f.title),
         sub: normTitle(f.note),
-        price: null,
-        url: SEARCH + encodeURIComponent(f.q)
+        price: f.price || null,
+        url: f.url ? String(f.url) : SEARCH + encodeURIComponent(f.q),
+        thumb: f.thumb || null
       });
     });
     return out;
@@ -177,6 +205,7 @@
   function visibleStoreItems() {
     var q = storeState.q.trim().toLowerCase();
     return storeItems().filter(function (it) {
+      if (storeState.bagId && it.id !== "bag-" + storeState.bagId) return false;
       if (storeState.cat !== "all" && it.cat !== storeState.cat) return false;
       if (q && storeHaystack(it).indexOf(q) < 0) return false;
       return true;
@@ -203,6 +232,7 @@
       btn.textContent = t(c.key);
       btn.addEventListener("click", function () {
         storeState.cat = c.id;
+        storeState.bagId = null;
         renderStore();
       });
       wrap.appendChild(btn);
@@ -218,8 +248,15 @@
       '" target="_blank" rel="' +
       (it.paid ? "sponsored noopener" : "noopener") +
       '">' +
-      '<span class="store-thumb" aria-hidden="true">' +
+      '<span class="store-thumb' +
+      (it.thumb ? " has-photo" : "") +
+      '" aria-hidden="true">' +
+      '<em class="store-glyph">' +
       esc(glyph) +
+      "</em>" +
+      (it.thumb
+        ? '<img src="' + esc(it.thumb) + '" alt="" loading="lazy" decoding="async" width="160" height="160" />'
+        : "") +
       "</span>" +
       '<span class="store-body"><span class="store-badge' +
       (it.paid ? "" : " plain") +
@@ -255,6 +292,14 @@
     }
     var input = $("#storeSearchInput");
     if (input && input.value !== storeState.q) input.value = storeState.q;
+    /* 사진이 없는 상품만 한자 글리프로 남도록, 사진 로딩에 실패하면 글리프로 되돌립니다 */
+    [].forEach.call(list.querySelectorAll(".store-thumb img"), function (img) {
+      img.addEventListener("error", function () {
+        var wrap = img.parentNode;
+        img.parentNode.removeChild(img);
+        if (wrap) wrap.classList.remove("has-photo");
+      });
+    });
     /* 스토어를 다시 그릴 때 스마트렌즈의 문구도 현재 언어로 맞춥니다 */
     renderLens();
   }
@@ -263,10 +308,27 @@
   function openStoreFor(teaId) {
     var tea = D.byId(teaId);
     storeState.cat = "all";
+    storeState.bagId = null;
     storeState.q = tea ? tea.name : "";
     renderStore();
     if (bridge()) A.go("store");
     toast(t("store.forTea"));
+  }
+
+  /* 백과의 티백 "이 티백 사기" → 스토어의 그 티백 카드로 바로 갑니다 */
+  function openStoreForBag(bagId) {
+    var bags = (bridge() && A.feature && A.feature.bags && A.feature.bags.bags) || [];
+    var found = null;
+    bags.forEach(function (bag) {
+      if (bag.id === bagId) found = bag;
+    });
+    if (!found) return;
+    storeState.cat = "all";
+    storeState.q = "";
+    storeState.bagId = bagId;
+    renderStore();
+    if (bridge()) A.go("store");
+    toast(t("bag.buy"));
   }
 
   /* ---------------- 스마트렌즈 ---------------- */
@@ -872,6 +934,7 @@
     if (storeInput) {
       storeInput.addEventListener("input", function () {
         storeState.q = storeInput.value;
+        storeState.bagId = null;
         renderStore();
       });
     }
@@ -886,6 +949,7 @@
     renderLens: renderLens,
     renderMemberPanel: renderMemberPanel,
     openStoreFor: openStoreFor,
+    openStoreForBag: openStoreForBag,
     unlocked: unlocked,
     canUploadShop: canUploadShop,
     canUploadProduct: canUploadProduct,

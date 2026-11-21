@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "disclosure": {
     "ko": "쿠팡파트너스 활동의 일환으로, 이 링크를 통해 구매하시면 일정액의 수수료를 받습니다.",
     "en": "As a Coupang Partners affiliate, we receive a small commission when you buy through this link.",
@@ -40,7 +40,8 @@
       "coupang": {
         "product_id": "8647992025",
         "item_id": "25100630965"
-      }
+      },
+      "thumb": "images/store/coupang-kettle-temp-1.5l.jpg"
     },
     {
       "id": "coupang-glass-teapot-700",
@@ -80,7 +81,8 @@
         "fruit",
         "herb",
         "herbal"
-      ]
+      ],
+      "thumb": "images/store/coupang-glass-teapot-700.jpg"
     },
     {
       "id": "coupang-matcha-set-7",
@@ -115,7 +117,8 @@
       },
       "tea_ids": [
         "green-matcha"
-      ]
+      ],
+      "thumb": "images/store/coupang-matcha-set-7.jpg"
     },
     {
       "id": "coupang-gaiwan-120",
@@ -151,7 +154,8 @@
       "group_ids": [
         "oolong",
         "dark"
-      ]
+      ],
+      "thumb": "images/store/coupang-gaiwan-120.jpg"
     },
     {
       "id": "coupang-matcha-osulloc-40",
@@ -186,7 +190,8 @@
       },
       "tea_ids": [
         "green-matcha"
-      ]
+      ],
+      "thumb": "images/store/coupang-matcha-osulloc-40.jpg"
     },
     {
       "id": "coupang-longjing-250",
@@ -221,7 +226,8 @@
       },
       "tea_ids": [
         "green-longjing"
-      ]
+      ],
+      "thumb": "images/store/coupang-longjing-250.jpg"
     },
     {
       "id": "coupang-tieguanyin-125",
@@ -256,7 +262,8 @@
       },
       "tea_ids": [
         "oolong-tieguanyin"
-      ]
+      ],
+      "thumb": "images/store/coupang-tieguanyin-125.jpg"
     },
     {
       "id": "coupang-darjeeling-ahmad-200",
@@ -292,7 +299,8 @@
       "tea_ids": [
         "black-darjeeling-first",
         "black-darjeeling-second"
-      ]
+      ],
+      "thumb": "images/store/coupang-darjeeling-ahmad-200.jpg"
     },
     {
       "id": "coupang-earlgrey-125",
@@ -327,7 +335,8 @@
       },
       "tea_ids": [
         "blend-earlgrey"
-      ]
+      ],
+      "thumb": "images/store/coupang-earlgrey-125.jpg"
     },
     {
       "id": "coupang-puerh-dayi-7572",
@@ -362,7 +371,8 @@
       },
       "tea_ids": [
         "dark-shou"
-      ]
+      ],
+      "thumb": "images/store/coupang-puerh-dayi-7572.jpg"
     },
     {
       "id": "coupang-chamomile-60",
@@ -397,7 +407,8 @@
       },
       "tea_ids": [
         "herb-chamomile"
-      ]
+      ],
+      "thumb": "images/store/coupang-chamomile-60.jpg"
     },
     {
       "id": "coupang-rooibos-160",
@@ -432,7 +443,8 @@
       },
       "tea_ids": [
         "herb-rooibos"
-      ]
+      ],
+      "thumb": "images/store/coupang-rooibos-160.jpg"
     }
   ],
   "browse": [

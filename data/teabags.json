@@ -1,1288 +1,1418 @@
 {
- "version": 1,
- "updated": "2026-11-21T13:40",
- "note": "티백 33종·13개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 그 밖의 브랜드는 제품별 안내가 확인되지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). pack·향미 표기는 브랜드 공개 설명을 요약했습니다. 타 브랜드 밀크티 완제품은 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
- "brands": {
-  "twinings": {
-   "name": "Twinings",
-   "ko": "트와이닝스",
-   "country": "UK",
-   "zh-CN": "川宁",
-   "zh-TW": "川寧"
+  "version": 1,
+  "updated": "2026-11-22",
+  "note": "티백 33종·13개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 그 밖의 브랜드는 제품별 안내가 확인되지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). pack·향미 표기는 브랜드 공개 설명을 요약했습니다. 타 브랜드 밀크티 완제품은 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
+  "brands": {
+    "twinings": {
+      "name": "Twinings",
+      "ko": "트와이닝스",
+      "country": "UK",
+      "zh-CN": "川宁",
+      "zh-TW": "川寧"
+    },
+    "ahmad": {
+      "name": "Ahmad Tea",
+      "ko": "아흐마드티",
+      "country": "UK",
+      "zh-CN": "亚曼",
+      "zh-TW": "亞曼"
+    },
+    "dilmah": {
+      "name": "Dilmah",
+      "ko": "딜마",
+      "country": "LK",
+      "zh-CN": "迪尔玛",
+      "zh-TW": "迪爾瑪"
+    },
+    "twg": {
+      "name": "TWG Tea",
+      "ko": "TWG 티",
+      "country": "SG",
+      "zh-CN": "TWG Tea",
+      "zh-TW": "TWG Tea"
+    },
+    "mariage": {
+      "name": "Mariage Frères",
+      "ko": "마리아주 프레르",
+      "country": "FR",
+      "zh-CN": "Mariage Frères",
+      "zh-TW": "Mariage Frères"
+    },
+    "harney": {
+      "name": "Harney & Sons",
+      "ko": "하니 앤 선스",
+      "country": "US",
+      "zh-CN": "哈尼·桑斯",
+      "zh-TW": "哈尼·桑斯"
+    },
+    "lupicia": {
+      "name": "Lupicia",
+      "ko": "루피시아",
+      "country": "JP",
+      "zh-CN": "绿碧茶园",
+      "zh-TW": "綠碧茶園"
+    },
+    "yorkshire": {
+      "name": "Yorkshire Tea",
+      "ko": "요크셔 티",
+      "country": "UK",
+      "zh-CN": "约克郡茶",
+      "zh-TW": "約克郡茶"
+    },
+    "osulloc": {
+      "name": "Osulloc",
+      "ko": "오설록",
+      "country": "KR",
+      "zh-CN": "Osulloc",
+      "zh-TW": "Osulloc"
+    },
+    "damtuh": {
+      "name": "Damtuh",
+      "ko": "담터",
+      "country": "KR",
+      "zh-CN": "Damtuh",
+      "zh-TW": "Damtuh"
+    },
+    "dongsuh": {
+      "name": "Dongsuh",
+      "ko": "동서식품",
+      "country": "KR",
+      "zh-CN": "东西食品",
+      "zh-TW": "東西食品"
+    },
+    "ssanggye": {
+      "name": "Ssanggye Myeongcha",
+      "ko": "쌍계명차",
+      "country": "KR",
+      "zh-CN": "双溪名茶",
+      "zh-TW": "雙溪名茶"
+    },
+    "lipton": {
+      "name": "Lipton",
+      "ko": "립톤",
+      "country": "UK",
+      "zh-CN": "立顿",
+      "zh-TW": "立頓"
+    }
   },
-  "ahmad": {
-   "name": "Ahmad Tea",
-   "ko": "아흐마드티",
-   "country": "UK",
-   "zh-CN": "亚曼",
-   "zh-TW": "亞曼"
-  },
-  "dilmah": {
-   "name": "Dilmah",
-   "ko": "딜마",
-   "country": "LK",
-   "zh-CN": "迪尔玛",
-   "zh-TW": "迪爾瑪"
-  },
-  "twg": {
-   "name": "TWG Tea",
-   "ko": "TWG 티",
-   "country": "SG",
-   "zh-CN": "TWG Tea",
-   "zh-TW": "TWG Tea"
-  },
-  "mariage": {
-   "name": "Mariage Frères",
-   "ko": "마리아주 프레르",
-   "country": "FR",
-   "zh-CN": "Mariage Frères",
-   "zh-TW": "Mariage Frères"
-  },
-  "harney": {
-   "name": "Harney & Sons",
-   "ko": "하니 앤 선스",
-   "country": "US",
-   "zh-CN": "哈尼·桑斯",
-   "zh-TW": "哈尼·桑斯"
-  },
-  "lupicia": {
-   "name": "Lupicia",
-   "ko": "루피시아",
-   "country": "JP",
-   "zh-CN": "绿碧茶园",
-   "zh-TW": "綠碧茶園"
-  },
-  "yorkshire": {
-   "name": "Yorkshire Tea",
-   "ko": "요크셔 티",
-   "country": "UK",
-   "zh-CN": "约克郡茶",
-   "zh-TW": "約克郡茶"
-  },
-  "osulloc": {
-   "name": "Osulloc",
-   "ko": "오설록",
-   "country": "KR",
-   "zh-CN": "Osulloc",
-   "zh-TW": "Osulloc"
-  },
-  "damtuh": {
-   "name": "Damtuh",
-   "ko": "담터",
-   "country": "KR",
-   "zh-CN": "Damtuh",
-   "zh-TW": "Damtuh"
-  },
-  "dongsuh": {
-   "name": "Dongsuh",
-   "ko": "동서식품",
-   "country": "KR",
-   "zh-CN": "东西食品",
-   "zh-TW": "東西食品"
-  },
-  "ssanggye": {
-   "name": "Ssanggye Myeongcha",
-   "ko": "쌍계명차",
-   "country": "KR",
-   "zh-CN": "双溪名茶",
-   "zh-TW": "雙溪名茶"
-  },
-  "lipton": {
-   "name": "Lipton",
-   "ko": "립톤",
-   "country": "UK",
-   "zh-CN": "立顿",
-   "zh-TW": "立頓"
-  }
- },
- "bags": [
-  {
-   "id": "twinings-earl-grey",
-   "brand": "twinings",
-   "name": {
-    "ko": "얼그레이",
-    "en": "Earl Grey",
-    "zh-CN": "伯爵茶",
-    "zh-TW": "伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 25",
-   "tags": [
-    "a-floral",
-    "k-crisp",
-    "s-milk",
-    "s-hot",
-    "c-high",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "베르가못 향이 홍차의 묵직함 위에 또렷하게 얹힙니다. 우유를 넣어도 향이 살아 있어 밀크티 베이스로도 좋습니다.",
-    "en": "Bergamot sits clearly over a sturdy black tea, and the scent survives milk, so it also works as a milk-tea base.",
-    "zh-CN": "佛手柑香清晰浮在醇厚红茶之上，加奶后香气依然，可作奶茶基底。",
-    "zh-TW": "佛手柑香清晰浮在醇厚紅茶之上，加奶後香氣依然，可作奶茶基底。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/twinings-earl-grey.jpg",
-    "cr": "officemag.ru",
-    "pg": "https://www.officemag.ru/catalog/goods/620265/"
-   }
-  },
-  {
-   "id": "twinings-english-breakfast",
-   "brand": "twinings",
-   "name": {
-    "ko": "잉글리시 브렉퍼스트",
-    "en": "English Breakfast",
-    "zh-CN": "英式早餐茶",
-    "zh-TW": "英式早餐茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 210,
-   "bag": "2g × 25",
-   "tags": [
-    "a-malt",
-    "b-full",
-    "s-milk",
-    "s-hot",
-    "c-high",
-    "m-energy"
-   ],
-   "note": {
-    "ko": "아삼·실론 계열의 힘 있는 블렌드. 진하게 우려 우유를 조금 넣으면 아침 식사와 잘 맞습니다.",
-    "en": "A strong Assam–Ceylon blend; brewed firm with a splash of milk it suits breakfast.",
-    "zh-CN": "阿萨姆与锡兰的强劲拼配，浓泡后加少许牛奶适合早餐。",
-    "zh-TW": "阿薩姆與錫蘭的強勁拼配，濃泡後加少許牛奶適合早餐。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/twinings-english-breakfast.jpg",
-    "cr": "thanopoulos.gr",
-    "pg": "https://www.thanopoulos.gr/en/products/prwino-rofhmata/tsai-botana/twinings-english-breakfast-tsai-40tem-669857d6fab9240002ea0ef4/"
-   }
-  },
-  {
-   "id": "twinings-lady-grey",
-   "brand": "twinings",
-   "name": {
-    "ko": "레이디 그레이",
-    "en": "Lady Grey",
-    "zh-CN": "仕女伯爵茶",
-    "zh-TW": "仕女伯爵茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 25",
-   "tags": [
-    "a-floral",
-    "a-fruit",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "얼그레이에 레몬·오렌지 향을 더해 가볍고 산뜻합니다. 우유보다 맨잔이나 아이스로 마시기 좋습니다.",
-    "en": "Earl Grey softened with lemon and orange — light and bright, better plain or iced than with milk.",
-    "zh-CN": "在伯爵茶上添柠檬与橙香，轻快明亮，纯饮或冰饮比加奶更合适。",
-    "zh-TW": "在伯爵茶上添檸檬與橙香，輕快明亮，純飲或冰飲比加奶更合適。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/twinings-lady-grey.jpg",
-    "cr": "twinings.co.uk",
-    "pg": "https://twinings.co.uk/products/lady-grey-loose-tea-caddy-100g?gclid=Cj0KEQjw1ee_BRD3hK6x993YzeoBEiQA5RH_BCMBki5DY0NeWNQhbJ5VW72SSf6WD0JqylwdV7V3mcUaAr7o8P8HAQ"
-   }
-  },
-  {
-   "id": "twinings-pure-camomile",
-   "brand": "twinings",
-   "name": {
-    "ko": "퓨어 캐모마일",
-    "en": "Pure Camomile",
-    "zh-CN": "纯洋甘菊",
-    "zh-TW": "純洋甘菊"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "1g × 25",
-   "tags": [
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "c-low",
-    "m-calm",
-    "t-night"
-   ],
-   "note": {
-    "ko": "사과 같은 달큰한 꽃향. 카페인이 없어 잠들기 전 한 잔으로 좋고, 끓는 물에 4분 정도 우립니다.",
-    "en": "Sweet, apple-like floral notes. Caffeine-free and good before sleep; about four minutes in boiling water.",
-    "zh-CN": "带有苹果般的甜花香，无咖啡因，适合睡前，沸水冲泡约四分钟。",
-    "zh-TW": "帶有蘋果般的甜花香，無咖啡因，適合睡前，沸水沖泡約四分鐘。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb",
-   "photo": {
-    "f": "images/teabags/twinings-pure-camomile.jpg",
-    "cr": "usmall.ru",
-    "pg": "https://usmall.ru/product/16281504-twinings-pure-herbal-tea-pure-camomile-caffeine-free-50-tea-bags-265-oz-75-g-twinings?variant=141347736&color=no-color&size=2.65%20oz%20%2875%20g%29"
-   }
-  },
-  {
-   "id": "ahmad-earl-grey",
-   "brand": "ahmad",
-   "name": {
-    "ko": "얼그레이",
-    "en": "Earl Grey",
-    "zh-CN": "伯爵茶",
-    "zh-TW": "伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 100",
-   "tags": [
-    "a-floral",
-    "b-medium",
-    "k-crisp",
-    "s-milk",
-    "c-high",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "베르가못이 은은하게 퍼지는 실론 베이스 얼그레이. 대용량이라 매일 한 잔씩 마시기 좋습니다.",
-    "en": "A Ceylon-based Earl Grey with a gentle bergamot lift; the large box suits a daily cup.",
-    "zh-CN": "以锡兰为基底的伯爵茶，佛手柑柔和展开；大盒装适合每日一杯。",
-    "zh-TW": "以錫蘭為基底的伯爵茶，佛手柑柔和展開；大盒裝適合每日一杯。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/ahmad-earl-grey.jpg",
-    "cr": "tornado.shop",
-    "pg": "https://tornado.shop/chay-kofe-kakao/listovoy-chay/chay-ahmad-erl-grey-100g-chernyy/"
-   }
-  },
-  {
-   "id": "ahmad-english-breakfast",
-   "brand": "ahmad",
-   "name": {
-    "ko": "잉글리시 브렉퍼스트",
-    "en": "English Breakfast",
-    "zh-CN": "英式早餐茶",
-    "zh-TW": "英式早餐茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 210,
-   "bag": "2g × 100",
-   "tags": [
-    "a-malt",
-    "b-full",
-    "k-crisp",
-    "s-milk",
-    "c-high",
-    "m-energy"
-   ],
-   "note": {
-    "ko": "몰트의 고소함과 떫은맛의 균형이 좋은 데일리 블렌드. 우유·설탕을 넣어도 뭉개지지 않습니다.",
-    "en": "A daily blend balanced between malt sweetness and bite; it holds up to milk and sugar.",
-    "zh-CN": "麦芽甜香与收敛感平衡的日常拼配，加奶加糖也不失骨架。",
-    "zh-TW": "麥芽甜香與收斂感平衡的日常拼配，加奶加糖也不失骨架。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/ahmad-english-breakfast.jpg",
-    "cr": "Yandex Market",
-    "pg": "https://market.yandex.ru/card/ahmad-tea-chay-chernyy-english-breakfast-angliyskiy-zavtrak-listovoy-200-g/5736621022?utm_source_service=img&icookie=HYsriIZK2aDnr%2F3IZUr5WjcNd4MLH%2BjJzJwfxU%2FAR8Br6jFtGUF2cbYgM1TrMzlYvKTgxHN2yDVP%2Fwd19iSFq0kPHAU%3D&wprid=1795236116744132-10291682304973728390-tpmpbylodt7zpyoc-BAL&src_pof=972"
-   }
-  },
-  {
-   "id": "ahmad-english-tea-no1",
-   "brand": "ahmad",
-   "name": {
-    "ko": "잉글리시 티 넘버원",
-    "en": "English Tea No.1",
-    "zh-CN": "英式一号茶",
-    "zh-TW": "英式一號茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 100",
-   "tags": [
-    "a-floral",
-    "a-malt",
-    "k-sweet",
-    "s-milk",
-    "c-high"
-   ],
-   "note": {
-    "ko": "베르가못을 아주 옅게 더한 부드러운 홍차. 얼그레이가 너무 향긋하게 느껴질 때 좋은 선택입니다.",
-    "en": "A mellow black tea with a whisper of bergamot — a good choice when Earl Grey feels too perfumed.",
-    "zh-CN": "极淡佛手柑的柔和红茶，觉得伯爵茶香气过浓时可选它。",
-    "zh-TW": "極淡佛手柑的柔和紅茶，覺得伯爵茶香氣過濃時可選它。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/ahmad-english-tea-no1.jpg",
-    "cr": "officemag.ru",
-    "pg": "https://www.officemag.ru/catalog/goods/620023/"
-   }
-  },
-  {
-   "id": "ahmad-camomile-lemongrass",
-   "brand": "ahmad",
-   "name": {
-    "ko": "캐모마일 & 레몬그라스",
-    "en": "Camomile & Lemongrass",
-    "zh-CN": "洋甘菊柠檬草茶",
-    "zh-TW": "洋甘菊檸檬草茶"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "2g × 20",
-   "tags": [
-    "a-floral",
-    "a-grass",
-    "k-sweet",
-    "s-hot",
-    "c-low",
-    "m-calm"
-   ],
-   "note": {
-    "ko": "캐모마일의 달콤한 꽃향에 레몬그라스의 시트러스가 더해집니다. 식후 입가심이나 저녁에 좋습니다.",
-    "en": "Camomile sweetness lifted by lemongrass citrus; pleasant after a meal or in the evening.",
-    "zh-CN": "洋甘菊的甜花香加上柠檬草的柑橘感，适合餐后或夜晚。",
-    "zh-TW": "洋甘菊的甜花香加上檸檬草的柑橘感，適合餐後或夜晚。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb",
-   "photo": {
-    "f": "images/teabags/ahmad-camomile-lemongrass.jpg",
-    "cr": "migros.com.tr",
-    "pg": "https://www.migros.com.tr/ahmad-tea-special-blend-dokme-cay-400-g-p-2faa9c"
-   }
-  },
-  {
-   "id": "dilmah-earl-grey",
-   "brand": "dilmah",
-   "name": {
-    "ko": "얼그레이",
-    "en": "Earl Grey",
-    "zh-CN": "伯爵茶",
-    "zh-TW": "伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 25",
-   "tags": [
-    "a-floral",
-    "b-medium",
-    "k-crisp",
-    "s-milk",
-    "c-high",
-    "m-refresh"
-   ],
-   "note": {
-    "ko": "스리랑카 고지대 찻잎에 베르가못을 얹은 얼그레이. 맑은 수색과 깔끔한 뒷맛이 특징입니다.",
-    "en": "Sri Lankan high-grown leaf with bergamot: a clear liquor and a clean finish.",
-    "zh-CN": "斯里兰卡高地茶叶添佛手柑，汤色清亮、收尾干净。",
-    "zh-TW": "斯里蘭卡高地茶葉添佛手柑，湯色清亮、收尾乾淨。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/dilmah-earl-grey.jpg",
-    "cr": "rimi.ee",
-    "pg": "https://www.rimi.ee/epood/en/products/drinks/coffee-tea-cocoa/black-tea/tee-must-earl-grey-dilmah-20x1-5g/p/154062"
-   }
-  },
-  {
-   "id": "dilmah-english-breakfast",
-   "brand": "dilmah",
-   "name": {
-    "ko": "잉글리시 브렉퍼스트",
-    "en": "English Breakfast",
-    "zh-CN": "英式早餐茶",
-    "zh-TW": "英式早餐茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 210,
-   "bag": "2g × 25",
-   "tags": [
-    "a-malt",
-    "b-full",
-    "s-milk",
-    "c-high",
-    "m-energy"
-   ],
-   "note": {
-    "ko": "실론의 밝은 산미와 몰트가 균형을 이룹니다. 진하게 우려 우유를 넣으면 부드러운 밀크티가 됩니다.",
-    "en": "Bright Ceylon acidity balanced with malt; brewed strong with milk it makes a soft milk tea.",
-    "zh-CN": "锡兰明亮酸度与麦芽平衡，浓泡加奶即成柔顺奶茶。",
-    "zh-TW": "錫蘭明亮酸度與麥芽平衡，濃泡加奶即成柔順奶茶。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/dilmah-english-breakfast.jpg",
-    "cr": "fairprice.com.sg",
-    "pg": "https://www.fairprice.com.sg/product/dilmah-tea-bag-english-breakfast-25s-x-2g-10381329"
-   }
-  },
-  {
-   "id": "dilmah-jasmine-green",
-   "brand": "dilmah",
-   "name": {
-    "ko": "자스민 그린티",
-    "en": "Jasmine Green Tea",
-    "zh-CN": "茉莉绿茶",
-    "zh-TW": "茉莉綠茶"
-   },
-   "type": "green",
-   "caffeine": true,
-   "temp": 80,
-   "seconds": 120,
-   "bag": "2g × 25",
-   "tags": [
-    "a-floral",
-    "a-grass",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "재스민 꽃향이 녹차의 풋풋함 위에 부드럽게 얹힙니다. 80도에서 2분 이내로 우려야 떫지 않습니다.",
-    "en": "Jasmine sits softly over green freshness; two minutes at 80 °C keeps it from turning bitter.",
-    "zh-CN": "茉莉花香柔柔覆在绿茶青味上，80℃两分钟内出汤可避免苦涩。",
-    "zh-TW": "茉莉花香柔柔覆在綠茶青味上，80℃兩分鐘內出湯可避免苦澀。"
-   },
-   "brewSource": "category",
-   "guideGroup": "green",
-   "photo": {
-    "f": "images/teabags/dilmah-jasmine-green.jpg",
-    "cr": "za.iherb.com",
-    "pg": "ippr_z2C$qAzdH3FAzdH3Fzw_z&e3Btij6k_z&e3Bv54AzdH3Fr6517vp-6jetjofAzdH3FTotgtg2f-G6jjg-Tjw-Jwf4tgj-dc-Tjw-Bw2f-8-0m-5z-ca-2AzdH3F9nn0cAzdH3F?r=8"
-   }
-  },
-  {
-   "id": "twg-1837-black",
-   "brand": "twg",
-   "name": {
-    "ko": "1837 블랙티",
-    "en": "1837 Black Tea",
-    "zh-CN": "1837 红茶",
-    "zh-TW": "1837 紅茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2.5g × 15",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "b-full",
-    "k-sweet",
-    "s-hot",
-    "c-high",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "TWG의 시그니처 블렌드로, 과일과 꽃향이 겹겹이 쌓입니다. 잎이 고와 짧게 우려도 충분히 진합니다.",
-    "en": "TWG's signature blend, layered with fruit and flowers; fine leaf gives strength quickly.",
-    "zh-CN": "TWG 招牌拼配，果香与花香层层叠起；叶片细，短时间也能出味。",
-    "zh-TW": "TWG 招牌拼配，果香與花香層層疊起；葉片細，短時間也能出味。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/twg-1837-black.jpg",
-    "cr": "Yandex Market",
-    "pg": "https://market.yandex.ru/product--chai-chernyi-twg-1837/672924177?no-pda-redir=1&no-pda-redir=1&was_redir=2&utm_source_service=img&icookie=BsJRppVqFPl%2BVInX40kZwm2IuLBrBpEkdmRaQdtm%2Bkk%2FN7fLPPNPakIxUdkpVj4it2RTSQeSpjhX7ur0ET5HD2j3HWU%3D&wprid=1795236726928014-14608120596196602189-dyqo63xmx7xf7cak-BAL&src_pof=972"
-   }
-  },
-  {
-   "id": "twg-earl-grey-french-blue",
-   "brand": "twg",
-   "name": {
-    "ko": "얼그레이 프렌치 블루",
-    "en": "Earl Grey French Blue",
-    "zh-CN": "法式蓝伯爵茶",
-    "zh-TW": "法式藍伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2.5g × 15",
-   "tags": [
-    "a-floral",
-    "a-fruit",
-    "b-medium",
-    "k-crisp",
-    "s-milk",
-    "c-high"
-   ],
-   "note": {
-    "ko": "베르가못에 푸른 꽃잎을 더한 얼그레이. 향이 진해 우유를 넣어도 뚜렷하게 남습니다.",
-    "en": "Bergamot with blue cornflower petals; the perfume is strong enough to survive milk.",
-    "zh-CN": "佛手柑加上蓝色矢车菊花瓣，香气浓郁，加奶后仍然清晰。",
-    "zh-TW": "佛手柑加上藍色矢車菊花瓣，香氣濃郁，加奶後仍然清晰。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/twg-earl-grey-french-blue.jpg",
-    "cr": "asiateacompany.com",
-    "pg": "https://www.asiateacompany.com/en/products/twg-collector-s-teedose-french-earl-grey-tea-1kg"
-   }
-  },
-  {
-   "id": "twg-moroccan-mint",
-   "brand": "twg",
-   "name": {
-    "ko": "모로칸 민트",
-    "en": "Moroccan Mint",
-    "zh-CN": "摩洛哥薄荷茶",
-    "zh-TW": "摩洛哥薄荷茶"
-   },
-   "type": "green",
-   "caffeine": true,
-   "temp": 85,
-   "seconds": 150,
-   "bag": "2.5g × 15",
-   "tags": [
-    "a-herb",
-    "a-grass",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "m-refresh",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "녹차에 박하를 더한 청량한 블렌드. 뜨겁게도 차갑게도 좋고, 단맛을 조금 더하면 북아프리카식으로 즐길 수 있습니다.",
-    "en": "Green tea with mint — bright hot or iced, and a little sugar makes it North African in style.",
-    "zh-CN": "绿茶加薄荷，清爽，冷热皆宜；加一点糖便是北非喝法。",
-    "zh-TW": "綠茶加薄荷，清爽，冷熱皆宜；加一點糖便是北非喝法。"
-   },
-   "brewSource": "category",
-   "guideGroup": "green",
-   "photo": {
-    "f": "images/teabags/twg-moroccan-mint.jpg",
-    "cr": "Yandex Market",
-    "pg": "https://market.yandex.ru/card/marokkanskiy-myatnyy-chay-twg-2-x-120g/5137721955?utm_source_service=img&icookie=LwSoCl6qjbQ6VkhLfcXm6dPgB85erwphEqRg9hiHyvFYr9YBBW3bHoIrnln15HpWYvlYsk01WrHUhdrgV8mDj70ITRw%3D&wprid=1795236737253989-5707965066937829947-xre5sxnduclqyzmy-BAL&src_pof=972"
-   }
-  },
-  {
-   "id": "mariage-earl-grey-french-blue",
-   "brand": "mariage",
-   "name": {
-    "ko": "얼그레이 프렌치 블루",
-    "en": "Earl Grey French Blue",
-    "zh-CN": "法式蓝伯爵茶",
-    "zh-TW": "法式藍伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2.5g × 30",
-   "tags": [
-    "a-floral",
-    "a-fruit",
-    "b-medium",
-    "k-crisp",
-    "s-milk",
-    "c-high",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "베르가못과 꽃잎이 어우러진 프랑스식 얼그레이의 기준점. 향이 길게 남아 디저트와 잘 맞습니다.",
-    "en": "A benchmark French Earl Grey of bergamot and petals; the long finish pairs well with dessert.",
-    "zh-CN": "佛手柑与花瓣交织的法国伯爵茶标杆，余香悠长，适合配甜点。",
-    "zh-TW": "佛手柑與花瓣交織的法國伯爵茶標竿，餘香悠長，適合配甜點。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/mariage-earl-grey-french-blue.jpg",
-    "cr": "Yandex Market",
-    "pg": "https://market.yandex.ru/card/chay-mariage-freres-earl-grey-frantsuzskiy-siniy-2x100g/5137719404?utm_source_service=img&icookie=I9VPVf6V1rmf1Wrf%2FQAGGjVVfGwkyW4oWqJ5dFHd6naLNVlp5bIDhGt0gdUvBE9uU%2BVihSJ1yJABSzlXLDn40377MF0%3D&wprid=1795236748105238-16425230702188696174-v6inu6mbs7kzt4yx-BAL&src_pof=972"
-   }
-  },
-  {
-   "id": "mariage-marco-polo",
-   "brand": "mariage",
-   "name": {
-    "ko": "마르코 폴로",
-    "en": "Marco Polo",
-    "zh-CN": "马可波罗茶",
-    "zh-TW": "馬可波羅茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2.5g × 30",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "c-mid",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "중국 홍차에 과일·꽃향을 더한 블렌드. 향이 화려하지만 맛은 부드러워 처음 마시는 사람도 편합니다.",
-    "en": "Chinese black tea with fruit and flowers — showy in aroma, gentle in the cup.",
-    "zh-CN": "中国红茶添果香与花香，香气华美而口感柔和，初次尝试也轻松。",
-    "zh-TW": "中國紅茶添果香與花香，香氣華美而口感柔和，初次嘗試也輕鬆。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/mariage-marco-polo.jpg",
-    "cr": "wendywutours.co.uk",
-    "pg": "https://www.wendywutours.co.uk/blog/china/chinese-tea-a-first-timers-guide/?shared=email&msg=fail"
-   }
-  },
-  {
-   "id": "harney-paris",
-   "brand": "harney",
-   "name": {
-    "ko": "파리",
-    "en": "Paris",
-    "zh-CN": "巴黎茶",
-    "zh-TW": "巴黎茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 20",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "s-milk",
-    "c-mid",
-    "m-cozy"
-   ],
-   "note": {
-    "ko": "블랙커런트와 바닐라가 어우러진 부드러운 홍차. 우유를 넣으면 디저트 같은 한 잔이 됩니다.",
-    "en": "Blackcurrant and vanilla over a soft black tea; with milk it turns dessert-like.",
-    "zh-CN": "黑加仑与香草融合的柔和红茶，加奶后宛如甜点。",
-    "zh-TW": "黑加侖與香草融合的柔和紅茶，加奶後宛如甜點。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/harney-paris.jpg",
-    "cr": "cn.iherb.com",
-    "pg": "ippr_z2C$qAzdH3FAzdH3Fvg_z&e3Btij6k_z&e3Bv54AzdH3FHw6gjy-S5gf-Pw6tf-Tjw-da-Tjw-Swvijpf-8-9-5z-9a-2AzdH3F9d0cl"
-   }
-  },
-  {
-   "id": "harney-earl-grey-supreme",
-   "brand": "harney",
-   "name": {
-    "ko": "얼그레이 슈프림",
-    "en": "Earl Grey Supreme",
-    "zh-CN": "至尊伯爵茶",
-    "zh-TW": "至尊伯爵茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 95,
-   "seconds": 180,
-   "bag": "2g × 20",
-   "tags": [
-    "a-floral",
-    "b-full",
-    "k-crisp",
-    "s-milk",
-    "c-high"
-   ],
-   "note": {
-    "ko": "실버팁이 섞인 찻잎에 베르가못을 얹어 얼그레이보다 부드럽고 둥근 맛입니다.",
-    "en": "Silver-tipped leaf with bergamot — softer and rounder than a standard Earl Grey.",
-    "zh-CN": "带银针的茶叶配佛手柑，比一般伯爵茶更柔顺圆润。",
-    "zh-TW": "帶銀針的茶葉配佛手柑，比一般伯爵茶更柔順圓潤。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/harney-earl-grey-supreme.jpg",
-    "cr": "usmall.ru",
-    "pg": "https://usmall.ru/product/16274215-harney-sons-ht-tea-blends-winter-white-earl-grey-20-sachets-14-oz-40-g-harney-sons"
-   }
-  },
-  {
-   "id": "lupicia-momo-oolong",
-   "brand": "lupicia",
-   "name": {
-    "ko": "백도 우롱",
-    "en": "Momo Oolong (White Peach)",
-    "zh-CN": "白桃乌龙",
-    "zh-TW": "白桃烏龍"
-   },
-   "type": "oolong",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 150,
-   "bag": "2.5g × 10",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "c-mid",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "복숭아 향이 우롱의 꽃향과 자연스럽게 이어집니다. 향이 진하지만 맛은 가벼워 아이스로도 좋습니다.",
-    "en": "Peach carries into the oolong's own floral note — strong in scent, light in the mouth, good iced.",
-    "zh-CN": "蜜桃香与乌龙自身的花香自然衔接，香浓而味轻，冰饮也合适。",
-    "zh-TW": "蜜桃香與烏龍自身的花香自然銜接，香濃而味輕，冰飲也合適。"
-   },
-   "brewSource": "category",
-   "guideGroup": "oolong",
-   "photo": {
-    "f": "images/teabags/lupicia-momo-oolong.jpg",
-    "cr": "shopozz.ru",
-    "pg": "https://shopozz.ru/items/365691150477-lupicia-tea-honey-momo-oolong-super-grade"
-   }
-  },
-  {
-   "id": "yorkshire-tea",
-   "brand": "yorkshire",
-   "name": {
-    "ko": "요크셔 티",
-    "en": "Yorkshire Tea",
-    "zh-CN": "约克郡茶",
-    "zh-TW": "約克郡茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "3g × 40",
-   "tags": [
-    "a-malt",
-    "b-full",
-    "k-crisp",
-    "s-milk",
-    "c-high",
-    "m-energy"
-   ],
-   "note": {
-    "ko": "아삼·실론·아프리카 찻잎을 섞은 진하고 붉은 홍차. 물 200ml에 4분, 우유를 넣는 것이 기본입니다.",
-    "en": "A strong, reddish Assam–Ceylon–Africa blend; four minutes and a splash of milk is the house style.",
-    "zh-CN": "阿萨姆、锡兰与非洲茶叶拼配，汤色深红；200毫升水泡四分钟，加奶为标准喝法。",
-    "zh-TW": "阿薩姆、錫蘭與非洲茶葉拼配，湯色深紅；200毫升水泡四分鐘，加奶為標準喝法。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/yorkshire-tea.jpg",
-    "cr": "shopozz.ru",
-    "pg": "https://shopozz.ru/items/366626768768-yorkshire-tea-gold-black-tea-bags-160ct-pack-of-1"
-   }
-  },
-  {
-   "id": "yorkshire-gold",
-   "brand": "yorkshire",
-   "name": {
-    "ko": "요크셔 골드",
-    "en": "Yorkshire Gold",
-    "zh-CN": "约克郡金茶",
-    "zh-TW": "約克郡金茶"
-   },
-   "type": "black",
-   "caffeine": true,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "3g × 40",
-   "tags": [
-    "a-malt",
-    "a-floral",
-    "b-full",
-    "k-sweet",
-    "s-milk",
-    "c-high"
-   ],
-   "note": {
-    "ko": "요크셔 티보다 향이 섬세하고 단맛이 도드라집니다. 우유 없이도 부드러워 그대로 마셔도 좋습니다.",
-    "en": "More delicate and sweeter than the classic; soft enough to drink without milk.",
-    "zh-CN": "比经典款更细腻、更甜，不加奶也柔顺。",
-    "zh-TW": "比經典款更細膩、更甜，不加奶也柔順。"
-   },
-   "brewSource": "category",
-   "guideGroup": "black",
-   "photo": {
-    "f": "images/teabags/yorkshire-gold.jpg",
-    "cr": "kellys-expat-shopping.nl",
-    "pg": "https://www.kellys-expat-shopping.nl/en/yorkshire-gold-80-tea-bags.html"
-   }
-  },
-  {
-   "id": "osulloc-jeju-pure-green",
-   "brand": "osulloc",
-   "name": {
-    "ko": "제주 순수녹차",
-    "en": "Jeju Pure Green",
-    "zh-CN": "济州纯绿茶",
-    "zh-TW": "濟州純綠茶"
-   },
-   "type": "green",
-   "caffeine": true,
-   "temp": 70,
-   "seconds": 90,
-   "bag": "2g × 20",
-   "tags": [
-    "a-grass",
-    "a-roast",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "c-mid",
-    "m-refresh"
-   ],
-   "note": {
-    "ko": "제주 찻잎을 증기로 찌고 솥에 덖어 만든 순수 녹차. 오설록 안내대로 70도에서 1분 30초가 기준입니다.",
-    "en": "Pure Jeju leaf, steamed then pan-fired; Osulloc's own guidance is 70 °C for 1½ minutes.",
-    "zh-CN": "济州茶叶经蒸青与锅炒，按品牌说明以70℃冲泡一分半。",
-    "zh-TW": "濟州茶葉經蒸青與鍋炒，按品牌說明以70℃沖泡一分半。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "green",
-   "photo": {
-    "f": "images/teabags/osulloc-jeju-pure-green.jpg",
-    "cr": "shopozz.ru",
-    "pg": "https://shopozz.ru/items/116478486904-osulloc-pure-green-tea-mild-clean-tasting-aroma-usda-organic-premium-blended-"
-   }
-  },
-  {
-   "id": "osulloc-sejak",
-   "brand": "osulloc",
-   "name": {
-    "ko": "세작 20입",
-    "en": "Sejak (20 bags)",
-    "zh-CN": "细雀绿茶",
-    "zh-TW": "細雀綠茶"
-   },
-   "type": "green",
-   "caffeine": true,
-   "temp": 70,
-   "seconds": 90,
-   "bag": "2g × 20",
-   "tags": [
-    "a-roast",
-    "a-floral",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "곡우 무렵 어린 찻잎만으로 만든 제주 유기농 녹차. 견과류·난향·단맛이 오설록의 공식 테이스팅 노트입니다.",
-    "en": "Organic Jeju green from young leaves picked around Grain Rain; the house notes are nuts, orchid and sweetness.",
-    "zh-CN": "谷雨前后嫩叶制成的济州有机绿茶，官方风味笔记为坚果、兰香与甜味。",
-    "zh-TW": "穀雨前後嫩葉製成的濟州有機綠茶，官方風味筆記為堅果、蘭香與甜味。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "green",
-   "photo": {
-    "f": "images/teabags/osulloc-sejak.jpg",
-    "cr": "shopozz.ru",
-    "pg": "https://shopozz.ru/items/374753975579-osulloc-pure-green-tea-premium-organic-blended-tea-from-jeju-20-tea-bags"
-   }
-  },
-  {
-   "id": "osulloc-jeju-hojicha",
-   "brand": "osulloc",
-   "name": {
-    "ko": "제주 호지차",
-    "en": "Jeju Hojicha",
-    "zh-CN": "济州焙茶",
-    "zh-TW": "濟州焙茶"
-   },
-   "type": "green",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 120,
-   "bag": "2g × 20",
-   "tags": [
-    "a-roast",
-    "k-sweet",
-    "s-hot",
-    "s-milk",
-    "c-low",
-    "m-cozy",
-    "t-night"
-   ],
-   "note": {
-    "ko": "제주 녹차를 볶아 고소하고 균형 잡힌 맛. 카페인이 낮아 저녁이나 우유와 함께 마시기 좋습니다.",
-    "en": "Roasted Jeju green — nutty and balanced, low in caffeine, good in the evening or with milk.",
-    "zh-CN": "济州绿茶焙炒，香浓均衡、咖啡因较低，适合夜晚或加奶。",
-    "zh-TW": "濟州綠茶焙炒，香濃均衡、咖啡因較低，適合夜晚或加奶。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "green",
-   "photo": {
-    "f": "images/teabags/osulloc-jeju-hojicha.jpg",
-    "cr": "osulloc.com",
-    "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
-   }
-  },
-  {
-   "id": "osulloc-peach-camomile",
-   "brand": "osulloc",
-   "name": {
-    "ko": "피치 캐모마일",
-    "en": "Peach Camomile",
-    "zh-CN": "蜜桃洋甘菊",
-    "zh-TW": "蜜桃洋甘菊"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 90,
-   "seconds": 150,
-   "bag": "2g × 20",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "c-low",
-    "m-calm"
-   ],
-   "note": {
-    "ko": "캐모마일·레몬그라스·히비스커스에 복숭아 향을 더한 무카페인 블렌드. 달큰해 아이스로도 잘 어울립니다.",
-    "en": "Camomile, lemongrass and hibiscus with peach — caffeine-free and sweet enough to serve iced.",
-    "zh-CN": "洋甘菊、柠檬草与洛神花加上蜜桃香，无咖啡因，甜润适合冰饮。",
-    "zh-TW": "洋甘菊、檸檬草與洛神花加上蜜桃香，無咖啡因，甜潤適合冰飲。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "herb",
-   "photo": {
-    "f": "images/teabags/osulloc-peach-camomile.jpg",
-    "cr": "osulloc.com",
-    "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=Y&totalCount=169&prdTotalCount=5&reviewTotalCount=164&photoReviewTotalCount=77&sort=ranked&searchType=product&reviewType=&q=%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%20%EB%B8%94%EB%A0%8C%EB%93%9C"
-   }
-  },
-  {
-   "id": "osulloc-yuja-earlgrey",
-   "brand": "osulloc",
-   "name": {
-    "ko": "유자 얼그레이",
-    "en": "Yuja Earl Grey",
-    "zh-CN": "柚子伯爵茶",
-    "zh-TW": "柚子伯爵茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 150,
-   "bag": "2g × 20",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "베르가못 향에 제주 유자의 상큼함을 더했습니다. 뜨겁게 마시면 향이, 차갑게 마시면 단맛이 앞섭니다.",
-    "en": "Bergamot with the tang of Jeju yuja; hot brings out the perfume, iced the sweetness.",
-    "zh-CN": "佛手柑香中添济州柚子的清爽，热饮香气突出，冷饮甜味更明显。",
-    "zh-TW": "佛手柑香中添濟州柚子的清爽，熱飲香氣突出，冷飲甜味更明顯。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/osulloc-yuja-earlgrey.jpg",
-    "cr": "osulloc.com",
-    "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
-   }
-  },
-  {
-   "id": "osulloc-volcanic-oolong",
-   "brand": "osulloc",
-   "name": {
-    "ko": "제주 화산우롱차",
-    "en": "Jeju Volcanic Oolong",
-    "zh-CN": "济州火山乌龙茶",
-    "zh-TW": "濟州火山烏龍茶"
-   },
-   "type": "oolong",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 150,
-   "bag": "2g × 20",
-   "tags": [
-    "a-floral",
-    "a-roast",
-    "b-medium",
-    "k-sweet",
-    "s-hot",
-    "c-mid"
-   ],
-   "note": {
-    "ko": "제주에서 자란 잎을 30%가량 산화시켜 만든 우롱. 꽃향과 볶은 향이 함께 올라옵니다.",
-    "en": "Jeju leaf oxidised about 30 per cent — floral and lightly roasted at once.",
-    "zh-CN": "济州茶叶约三成发酵，花香与焙火香同时上扬。",
-    "zh-TW": "濟州茶葉約三成發酵，花香與焙火香同時上揚。"
-   },
-   "brewSource": "brand",
-   "guideGroup": "oolong",
-   "photo": {
-    "f": "images/teabags/osulloc-volcanic-oolong.jpg",
-    "cr": "osulloc.com",
-    "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
-   }
-  },
-  {
-   "id": "damtuh-camomile",
-   "brand": "damtuh",
-   "name": {
-    "ko": "캐모마일",
-    "en": "Camomile",
-    "zh-CN": "洋甘菊",
-    "zh-TW": "洋甘菊"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "1g × 10",
-   "tags": [
-    "a-floral",
-    "k-sweet",
-    "s-hot",
-    "c-low",
-    "m-calm",
-    "t-night"
-   ],
-   "note": {
-    "ko": "국내에서 흔히 만나는 데일리 캐모마일 티백. 꽃향이 은은하고 가격 부담이 적어 매일 마시기 좋습니다.",
-    "en": "An everyday Korean camomile bag: soft floral notes at a low price, easy to drink daily.",
-    "zh-CN": "韩国常见的日常洋甘菊茶包，花香柔和、价格轻松，适合每天喝。",
-    "zh-TW": "韓國常見的日常洋甘菊茶包，花香柔和、價格輕鬆，適合每天喝。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb"
-  },
-  {
-   "id": "damtuh-peppermint",
-   "brand": "damtuh",
-   "name": {
-    "ko": "페퍼민트",
-    "en": "Peppermint",
-    "zh-CN": "薄荷",
-    "zh-TW": "薄荷"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 240,
-   "bag": "1g × 10",
-   "tags": [
-    "a-herb",
-    "k-crisp",
-    "s-hot",
-    "s-iced",
-    "c-low",
-    "m-refresh"
-   ],
-   "note": {
-    "ko": "민트의 청량함이 곧바로 올라오는 무카페인 티백. 식후 입가심이나 아이스로 마시기 좋습니다.",
-    "en": "Straight-up cooling mint, caffeine-free; good after meals or over ice.",
-    "zh-CN": "薄荷清凉直接，无咖啡因，适合餐后或冰饮。",
-    "zh-TW": "薄荷清涼直接，無咖啡因，適合餐後或冰飲。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb"
-  },
-  {
-   "id": "damtuh-rooibos",
-   "brand": "damtuh",
-   "name": {
-    "ko": "루이보스",
-    "en": "Rooibos",
-    "zh-CN": "路易波士",
-    "zh-TW": "路易波士"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 300,
-   "bag": "1.5g × 10",
-   "tags": [
-    "a-roast",
-    "k-sweet",
-    "s-hot",
-    "s-milk",
-    "c-low",
-    "m-cozy",
-    "t-night"
-   ],
-   "note": {
-    "ko": "남아프리카 루이보스의 붉은 수색과 달큰한 맛. 카페인이 없고 우유와도 잘 어울립니다.",
-    "en": "South African rooibos with a red cup and gentle sweetness; caffeine-free and happy with milk.",
-    "zh-CN": "南非路易波士汤色红亮、甘甜，无咖啡因，与牛奶相合。",
-    "zh-TW": "南非路易波士湯色紅亮、甘甜，無咖啡因，與牛奶相合。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb",
-   "photo": {
-    "f": "images/teabags/damtuh-rooibos.jpg",
-    "cr": "sayweee.com",
-    "pg": "https://www.sayweee.com/en/product/Damtuh-Instant-Original-Coffee-Mix-1200g/1975492"
-   }
-  },
-  {
-   "id": "dongsuh-hyeonmi-green",
-   "brand": "dongsuh",
-   "name": {
-    "ko": "현미녹차",
-    "en": "Brown Rice Green Tea",
-    "zh-CN": "糙米绿茶",
-    "zh-TW": "糙米綠茶"
-   },
-   "type": "herbal",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 90,
-   "bag": "1.5g × 100",
-   "tags": [
-    "a-roast",
-    "a-grass",
-    "b-light",
-    "k-sweet",
-    "s-hot",
-    "c-low",
-    "p-meal"
-   ],
-   "note": {
-    "ko": "현미의 고소함과 녹차의 풋풋함이 반반. 대용량이라 식사 때 물처럼 마시기 좋습니다.",
-    "en": "Toasted rice and green tea in equal measure; the big box is made for everyday meals.",
-    "zh-CN": "糙米焦香与绿茶青味各半，大容量适合佐餐日常饮用。",
-    "zh-TW": "糙米焦香與綠茶青味各半，大容量適合佐餐日常飲用。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herbal",
-   "photo": {
-    "f": "images/teabags/dongsuh-hyeonmi-green.jpg",
-    "cr": "joom.ru",
-    "pg": "https://www.joom.ru/ru/products/61d7cae2b3d8620116f629dc?adj_campaign=recommendations&adj_t=1czb62l6"
-   }
-  },
-  {
-   "id": "ssanggye-muscat-black",
-   "brand": "ssanggye",
-   "name": {
-    "ko": "티클립스 머스캣홍차",
-    "en": "Teaclyps Muscat Black",
-    "zh-CN": "麝香葡萄红茶",
-    "zh-TW": "麝香葡萄紅茶"
-   },
-   "type": "blended",
-   "caffeine": true,
-   "temp": 90,
-   "seconds": 180,
-   "bag": "2g × 20",
-   "tags": [
-    "a-fruit",
-    "a-floral",
-    "b-medium",
-    "k-sweet",
-    "s-hot",
-    "s-iced",
-    "p-dessert"
-   ],
-   "note": {
-    "ko": "머스캣 향이 홍차에 또렷하게 얹힌 티클립스. 향이 화사해 아이스티로도 잘 어울립니다.",
-    "en": "Muscat grape laid clearly over black tea — bright enough for iced tea.",
-    "zh-CN": "麝香葡萄香清晰覆在红茶上，明亮，适合冰茶。",
-    "zh-TW": "麝香葡萄香清晰覆在紅茶上，明亮，適合冰茶。"
-   },
-   "brewSource": "category",
-   "guideGroup": "blended",
-   "photo": {
-    "f": "images/teabags/ssanggye-muscat-black.jpg",
-    "cr": "sktea.com",
-    "pg": "https://sktea.com/product/티클립스-머스캣홍차-20입/2368/"
-   }
-  },
-  {
-   "id": "lipton-rooibos",
-   "brand": "lipton",
-   "name": {
-    "ko": "허브티 루이보스",
-    "en": "Herbal Rooibos",
-    "zh-CN": "路易波士草本茶",
-    "zh-TW": "路易波士草本茶"
-   },
-   "type": "herb",
-   "caffeine": false,
-   "temp": 100,
-   "seconds": 300,
-   "bag": "1.5g × 10",
-   "tags": [
-    "a-roast",
-    "k-sweet",
-    "s-hot",
-    "c-low",
-    "m-cozy",
-    "t-night"
-   ],
-   "note": {
-    "ko": "부담 없이 마시는 루이보스 티백. 달큰한 맛이 은은해 우유나 꿀을 조금 더해도 좋습니다.",
-    "en": "An easy rooibos bag — mild sweetness that takes a little milk or honey.",
-    "zh-CN": "轻松易饮的路易波士茶包，甜味温润，可加少许牛奶或蜂蜜。",
-    "zh-TW": "輕鬆易飲的路易波士茶包，甜味溫潤，可加少許牛奶或蜂蜜。"
-   },
-   "brewSource": "category",
-   "guideGroup": "herb",
-   "photo": {
-    "f": "images/teabags/lipton-rooibos.jpg",
-    "cr": "shopozz.ru",
-    "pg": "https://shopozz.ru/items/304298903217-lipton-----refresh--orange-flavored-herbal-tea-3-boxes--84-bags------"
-   }
-  }
- ]
+  "bags": [
+    {
+      "id": "twinings-earl-grey",
+      "brand": "twinings",
+      "name": {
+        "ko": "얼그레이",
+        "en": "Earl Grey",
+        "zh-CN": "伯爵茶",
+        "zh-TW": "伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 25",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "베르가못 향이 홍차의 묵직함 위에 또렷하게 얹힙니다. 우유를 넣어도 향이 살아 있어 밀크티 베이스로도 좋습니다.",
+        "en": "Bergamot sits clearly over a sturdy black tea, and the scent survives milk, so it also works as a milk-tea base.",
+        "zh-CN": "佛手柑香清晰浮在醇厚红茶之上，加奶后香气依然，可作奶茶基底。",
+        "zh-TW": "佛手柑香清晰浮在醇厚紅茶之上，加奶後香氣依然，可作奶茶基底。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-earl-grey.jpg",
+        "cr": "officemag.ru",
+        "pg": "https://www.officemag.ru/catalog/goods/620265/"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1iCuM9Tw",
+        "price_krw": 6280
+      }
+    },
+    {
+      "id": "twinings-english-breakfast",
+      "brand": "twinings",
+      "name": {
+        "ko": "잉글리시 브렉퍼스트",
+        "en": "English Breakfast",
+        "zh-CN": "英式早餐茶",
+        "zh-TW": "英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 210,
+      "bag": "2g × 25",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "아삼·실론 계열의 힘 있는 블렌드. 진하게 우려 우유를 조금 넣으면 아침 식사와 잘 맞습니다.",
+        "en": "A strong Assam–Ceylon blend; brewed firm with a splash of milk it suits breakfast.",
+        "zh-CN": "阿萨姆与锡兰的强劲拼配，浓泡后加少许牛奶适合早餐。",
+        "zh-TW": "阿薩姆與錫蘭的強勁拼配，濃泡後加少許牛奶適合早餐。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-english-breakfast.jpg",
+        "cr": "thanopoulos.gr",
+        "pg": "https://www.thanopoulos.gr/en/products/prwino-rofhmata/tsai-botana/twinings-english-breakfast-tsai-40tem-669857d6fab9240002ea0ef4/"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1kfUpL8C",
+        "price_krw": 6900
+      }
+    },
+    {
+      "id": "twinings-lady-grey",
+      "brand": "twinings",
+      "name": {
+        "ko": "레이디 그레이",
+        "en": "Lady Grey",
+        "zh-CN": "仕女伯爵茶",
+        "zh-TW": "仕女伯爵茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 25",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "얼그레이에 레몬·오렌지 향을 더해 가볍고 산뜻합니다. 우유보다 맨잔이나 아이스로 마시기 좋습니다.",
+        "en": "Earl Grey softened with lemon and orange — light and bright, better plain or iced than with milk.",
+        "zh-CN": "在伯爵茶上添柠檬与橙香，轻快明亮，纯饮或冰饮比加奶更合适。",
+        "zh-TW": "在伯爵茶上添檸檬與橙香，輕快明亮，純飲或冰飲比加奶更合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-lady-grey.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/lady-grey-loose-tea-caddy-100g?gclid=Cj0KEQjw1ee_BRD3hK6x993YzeoBEiQA5RH_BCMBki5DY0NeWNQhbJ5VW72SSf6WD0JqylwdV7V3mcUaAr7o8P8HAQ"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1mi3zEwm",
+        "price_krw": 9980
+      }
+    },
+    {
+      "id": "twinings-pure-camomile",
+      "brand": "twinings",
+      "name": {
+        "ko": "퓨어 캐모마일",
+        "en": "Pure Camomile",
+        "zh-CN": "纯洋甘菊",
+        "zh-TW": "純洋甘菊"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "1g × 25",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-low",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "사과 같은 달큰한 꽃향. 카페인이 없어 잠들기 전 한 잔으로 좋고, 끓는 물에 4분 정도 우립니다.",
+        "en": "Sweet, apple-like floral notes. Caffeine-free and good before sleep; about four minutes in boiling water.",
+        "zh-CN": "带有苹果般的甜花香，无咖啡因，适合睡前，沸水冲泡约四分钟。",
+        "zh-TW": "帶有蘋果般的甜花香，無咖啡因，適合睡前，沸水沖泡約四分鐘。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-pure-camomile.jpg",
+        "cr": "usmall.ru",
+        "pg": "https://usmall.ru/product/16281504-twinings-pure-herbal-tea-pure-camomile-caffeine-free-50-tea-bags-265-oz-75-g-twinings?variant=141347736&color=no-color&size=2.65%20oz%20%2875%20g%29"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1oVZqkuW",
+        "price_krw": 8620
+      }
+    },
+    {
+      "id": "ahmad-earl-grey",
+      "brand": "ahmad",
+      "name": {
+        "ko": "얼그레이",
+        "en": "Earl Grey",
+        "zh-CN": "伯爵茶",
+        "zh-TW": "伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 100",
+      "tags": [
+        "a-floral",
+        "b-medium",
+        "k-crisp",
+        "s-milk",
+        "c-high",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "베르가못이 은은하게 퍼지는 실론 베이스 얼그레이. 대용량이라 매일 한 잔씩 마시기 좋습니다.",
+        "en": "A Ceylon-based Earl Grey with a gentle bergamot lift; the large box suits a daily cup.",
+        "zh-CN": "以锡兰为基底的伯爵茶，佛手柑柔和展开；大盒装适合每日一杯。",
+        "zh-TW": "以錫蘭為基底的伯爵茶，佛手柑柔和展開；大盒裝適合每日一杯。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-earl-grey.jpg",
+        "cr": "tornado.shop",
+        "pg": "https://tornado.shop/chay-kofe-kakao/listovoy-chay/chay-ahmad-erl-grey-100g-chernyy/"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1qreV9O0",
+        "price_krw": 7490
+      }
+    },
+    {
+      "id": "ahmad-english-breakfast",
+      "brand": "ahmad",
+      "name": {
+        "ko": "잉글리시 브렉퍼스트",
+        "en": "English Breakfast",
+        "zh-CN": "英式早餐茶",
+        "zh-TW": "英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 210,
+      "bag": "2g × 100",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "k-crisp",
+        "s-milk",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "몰트의 고소함과 떫은맛의 균형이 좋은 데일리 블렌드. 우유·설탕을 넣어도 뭉개지지 않습니다.",
+        "en": "A daily blend balanced between malt sweetness and bite; it holds up to milk and sugar.",
+        "zh-CN": "麦芽甜香与收敛感平衡的日常拼配，加奶加糖也不失骨架。",
+        "zh-TW": "麥芽甜香與收斂感平衡的日常拼配，加奶加糖也不失骨架。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-english-breakfast.jpg",
+        "cr": "Yandex Market",
+        "pg": "https://market.yandex.ru/card/ahmad-tea-chay-chernyy-english-breakfast-angliyskiy-zavtrak-listovoy-200-g/5736621022?utm_source_service=img&icookie=HYsriIZK2aDnr%2F3IZUr5WjcNd4MLH%2BjJzJwfxU%2FAR8Br6jFtGUF2cbYgM1TrMzlYvKTgxHN2yDVP%2Fwd19iSFq0kPHAU%3D&wprid=1795236116744132-10291682304973728390-tpmpbylodt7zpyoc-BAL&src_pof=972"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1smfYrca",
+        "price_krw": 7850
+      }
+    },
+    {
+      "id": "ahmad-english-tea-no1",
+      "brand": "ahmad",
+      "name": {
+        "ko": "잉글리시 티 넘버원",
+        "en": "English Tea No.1",
+        "zh-CN": "英式一号茶",
+        "zh-TW": "英式一號茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 100",
+      "tags": [
+        "a-floral",
+        "a-malt",
+        "k-sweet",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "베르가못을 아주 옅게 더한 부드러운 홍차. 얼그레이가 너무 향긋하게 느껴질 때 좋은 선택입니다.",
+        "en": "A mellow black tea with a whisper of bergamot — a good choice when Earl Grey feels too perfumed.",
+        "zh-CN": "极淡佛手柑的柔和红茶，觉得伯爵茶香气过浓时可选它。",
+        "zh-TW": "極淡佛手柑的柔和紅茶，覺得伯爵茶香氣過濃時可選它。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-english-tea-no1.jpg",
+        "cr": "officemag.ru",
+        "pg": "https://www.officemag.ru/catalog/goods/620023/"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1tCWY45I",
+        "price_krw": 13010
+      }
+    },
+    {
+      "id": "ahmad-camomile-lemongrass",
+      "brand": "ahmad",
+      "name": {
+        "ko": "캐모마일 & 레몬그라스",
+        "en": "Camomile & Lemongrass",
+        "zh-CN": "洋甘菊柠檬草茶",
+        "zh-TW": "洋甘菊檸檬草茶"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "a-grass",
+        "k-sweet",
+        "s-hot",
+        "c-low",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "캐모마일의 달콤한 꽃향에 레몬그라스의 시트러스가 더해집니다. 식후 입가심이나 저녁에 좋습니다.",
+        "en": "Camomile sweetness lifted by lemongrass citrus; pleasant after a meal or in the evening.",
+        "zh-CN": "洋甘菊的甜花香加上柠檬草的柑橘感，适合餐后或夜晚。",
+        "zh-TW": "洋甘菊的甜花香加上檸檬草的柑橘感，適合餐後或夜晚。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/ahmad-camomile-lemongrass.jpg",
+        "cr": "migros.com.tr",
+        "pg": "https://www.migros.com.tr/ahmad-tea-special-blend-dokme-cay-400-g-p-2faa9c"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1uKkehMW",
+        "price_krw": 16230
+      }
+    },
+    {
+      "id": "dilmah-earl-grey",
+      "brand": "dilmah",
+      "name": {
+        "ko": "얼그레이",
+        "en": "Earl Grey",
+        "zh-CN": "伯爵茶",
+        "zh-TW": "伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 25",
+      "tags": [
+        "a-floral",
+        "b-medium",
+        "k-crisp",
+        "s-milk",
+        "c-high",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "스리랑카 고지대 찻잎에 베르가못을 얹은 얼그레이. 맑은 수색과 깔끔한 뒷맛이 특징입니다.",
+        "en": "Sri Lankan high-grown leaf with bergamot: a clear liquor and a clean finish.",
+        "zh-CN": "斯里兰卡高地茶叶添佛手柑，汤色清亮、收尾干净。",
+        "zh-TW": "斯里蘭卡高地茶葉添佛手柑，湯色清亮、收尾乾淨。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/dilmah-earl-grey.jpg",
+        "cr": "rimi.ee",
+        "pg": "https://www.rimi.ee/epood/en/products/drinks/coffee-tea-cocoa/black-tea/tee-must-earl-grey-dilmah-20x1-5g/p/154062"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1v5VXKsm",
+        "price_krw": 14680
+      }
+    },
+    {
+      "id": "dilmah-english-breakfast",
+      "brand": "dilmah",
+      "name": {
+        "ko": "잉글리시 브렉퍼스트",
+        "en": "English Breakfast",
+        "zh-CN": "英式早餐茶",
+        "zh-TW": "英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 210,
+      "bag": "2g × 25",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "실론의 밝은 산미와 몰트가 균형을 이룹니다. 진하게 우려 우유를 넣으면 부드러운 밀크티가 됩니다.",
+        "en": "Bright Ceylon acidity balanced with malt; brewed strong with milk it makes a soft milk tea.",
+        "zh-CN": "锡兰明亮酸度与麦芽平衡，浓泡加奶即成柔顺奶茶。",
+        "zh-TW": "錫蘭明亮酸度與麥芽平衡，濃泡加奶即成柔順奶茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/dilmah-english-breakfast.jpg",
+        "cr": "fairprice.com.sg",
+        "pg": "https://www.fairprice.com.sg/product/dilmah-tea-bag-english-breakfast-25s-x-2g-10381329"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1xvTTCoK",
+        "price_krw": 8300
+      }
+    },
+    {
+      "id": "dilmah-jasmine-green",
+      "brand": "dilmah",
+      "name": {
+        "ko": "자스민 그린티",
+        "en": "Jasmine Green Tea",
+        "zh-CN": "茉莉绿茶",
+        "zh-TW": "茉莉綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 120,
+      "bag": "2g × 25",
+      "tags": [
+        "a-floral",
+        "a-grass",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "재스민 꽃향이 녹차의 풋풋함 위에 부드럽게 얹힙니다. 80도에서 2분 이내로 우려야 떫지 않습니다.",
+        "en": "Jasmine sits softly over green freshness; two minutes at 80 °C keeps it from turning bitter.",
+        "zh-CN": "茉莉花香柔柔覆在绿茶青味上，80℃两分钟内出汤可避免苦涩。",
+        "zh-TW": "茉莉花香柔柔覆在綠茶青味上，80℃兩分鐘內出湯可避免苦澀。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/dilmah-jasmine-green.jpg",
+        "cr": "za.iherb.com",
+        "pg": "ippr_z2C$qAzdH3FAzdH3Fzw_z&e3Btij6k_z&e3Bv54AzdH3Fr6517vp-6jetjofAzdH3FTotgtg2f-G6jjg-Tjw-Jwf4tgj-dc-Tjw-Bw2f-8-0m-5z-ca-2AzdH3F9nn0cAzdH3F?r=8"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1yLdTPtA",
+        "price_krw": 7700
+      }
+    },
+    {
+      "id": "twg-1837-black",
+      "brand": "twg",
+      "name": {
+        "ko": "1837 블랙티",
+        "en": "1837 Black Tea",
+        "zh-CN": "1837 红茶",
+        "zh-TW": "1837 紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "b-full",
+        "k-sweet",
+        "s-hot",
+        "c-high",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "TWG의 시그니처 블렌드로, 과일과 꽃향이 겹겹이 쌓입니다. 잎이 고와 짧게 우려도 충분히 진합니다.",
+        "en": "TWG's signature blend, layered with fruit and flowers; fine leaf gives strength quickly.",
+        "zh-CN": "TWG 招牌拼配，果香与花香层层叠起；叶片细，短时间也能出味。",
+        "zh-TW": "TWG 招牌拼配，果香與花香層層疊起；葉片細，短時間也能出味。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twg-1837-black.jpg",
+        "cr": "Yandex Market",
+        "pg": "https://market.yandex.ru/product--chai-chernyi-twg-1837/672924177?no-pda-redir=1&no-pda-redir=1&was_redir=2&utm_source_service=img&icookie=BsJRppVqFPl%2BVInX40kZwm2IuLBrBpEkdmRaQdtm%2Bkk%2FN7fLPPNPakIxUdkpVj4it2RTSQeSpjhX7ur0ET5HD2j3HWU%3D&wprid=1795236726928014-14608120596196602189-dyqo63xmx7xf7cak-BAL&src_pof=972"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1zWcMAGO",
+        "price_krw": 34650
+      }
+    },
+    {
+      "id": "twg-earl-grey-french-blue",
+      "brand": "twg",
+      "name": {
+        "ko": "얼그레이 프렌치 블루",
+        "en": "Earl Grey French Blue",
+        "zh-CN": "法式蓝伯爵茶",
+        "zh-TW": "法式藍伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "b-medium",
+        "k-crisp",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "베르가못에 푸른 꽃잎을 더한 얼그레이. 향이 진해 우유를 넣어도 뚜렷하게 남습니다.",
+        "en": "Bergamot with blue cornflower petals; the perfume is strong enough to survive milk.",
+        "zh-CN": "佛手柑加上蓝色矢车菊花瓣，香气浓郁，加奶后仍然清晰。",
+        "zh-TW": "佛手柑加上藍色矢車菊花瓣，香氣濃郁，加奶後仍然清晰。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twg-earl-grey-french-blue.jpg",
+        "cr": "asiateacompany.com",
+        "pg": "https://www.asiateacompany.com/en/products/twg-collector-s-teedose-french-earl-grey-tea-1kg"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1A0qIhb2",
+        "price_krw": 36500
+      }
+    },
+    {
+      "id": "twg-moroccan-mint",
+      "brand": "twg",
+      "name": {
+        "ko": "모로칸 민트",
+        "en": "Moroccan Mint",
+        "zh-CN": "摩洛哥薄荷茶",
+        "zh-TW": "摩洛哥薄荷茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 85,
+      "seconds": 150,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-herb",
+        "a-grass",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "m-refresh",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "녹차에 박하를 더한 청량한 블렌드. 뜨겁게도 차갑게도 좋고, 단맛을 조금 더하면 북아프리카식으로 즐길 수 있습니다.",
+        "en": "Green tea with mint — bright hot or iced, and a little sugar makes it North African in style.",
+        "zh-CN": "绿茶加薄荷，清爽，冷热皆宜；加一点糖便是北非喝法。",
+        "zh-TW": "綠茶加薄荷，清爽，冷熱皆宜；加一點糖便是北非喝法。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twg-moroccan-mint.jpg",
+        "cr": "Yandex Market",
+        "pg": "https://market.yandex.ru/card/marokkanskiy-myatnyy-chay-twg-2-x-120g/5137721955?utm_source_service=img&icookie=LwSoCl6qjbQ6VkhLfcXm6dPgB85erwphEqRg9hiHyvFYr9YBBW3bHoIrnln15HpWYvlYsk01WrHUhdrgV8mDj70ITRw%3D&wprid=1795236737253989-5707965066937829947-xre5sxnduclqyzmy-BAL&src_pof=972"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1Cab46nI",
+        "price_krw": 57130
+      }
+    },
+    {
+      "id": "mariage-earl-grey-french-blue",
+      "brand": "mariage",
+      "name": {
+        "ko": "얼그레이 프렌치 블루",
+        "en": "Earl Grey French Blue",
+        "zh-CN": "法式蓝伯爵茶",
+        "zh-TW": "法式藍伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 30",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "b-medium",
+        "k-crisp",
+        "s-milk",
+        "c-high",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "베르가못과 꽃잎이 어우러진 프랑스식 얼그레이의 기준점. 향이 길게 남아 디저트와 잘 맞습니다.",
+        "en": "A benchmark French Earl Grey of bergamot and petals; the long finish pairs well with dessert.",
+        "zh-CN": "佛手柑与花瓣交织的法国伯爵茶标杆，余香悠长，适合配甜点。",
+        "zh-TW": "佛手柑與花瓣交織的法國伯爵茶標竿，餘香悠長，適合配甜點。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/mariage-earl-grey-french-blue.jpg",
+        "cr": "Yandex Market",
+        "pg": "https://market.yandex.ru/card/chay-mariage-freres-earl-grey-frantsuzskiy-siniy-2x100g/5137719404?utm_source_service=img&icookie=I9VPVf6V1rmf1Wrf%2FQAGGjVVfGwkyW4oWqJ5dFHd6naLNVlp5bIDhGt0gdUvBE9uU%2BVihSJ1yJABSzlXLDn40377MF0%3D&wprid=1795236748105238-16425230702188696174-v6inu6mbs7kzt4yx-BAL&src_pof=972"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1DuZRNAa",
+        "price_krw": 46060
+      }
+    },
+    {
+      "id": "mariage-marco-polo",
+      "brand": "mariage",
+      "name": {
+        "ko": "마르코 폴로",
+        "en": "Marco Polo",
+        "zh-CN": "马可波罗茶",
+        "zh-TW": "馬可波羅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 30",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-mid",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "중국 홍차에 과일·꽃향을 더한 블렌드. 향이 화려하지만 맛은 부드러워 처음 마시는 사람도 편합니다.",
+        "en": "Chinese black tea with fruit and flowers — showy in aroma, gentle in the cup.",
+        "zh-CN": "中国红茶添果香与花香，香气华美而口感柔和，初次尝试也轻松。",
+        "zh-TW": "中國紅茶添果香與花香，香氣華美而口感柔和，初次嘗試也輕鬆。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/mariage-marco-polo.jpg",
+        "cr": "wendywutours.co.uk",
+        "pg": "https://www.wendywutours.co.uk/blog/china/chinese-tea-a-first-timers-guide/?shared=email&msg=fail"
+      }
+    },
+    {
+      "id": "harney-paris",
+      "brand": "harney",
+      "name": {
+        "ko": "파리",
+        "en": "Paris",
+        "zh-CN": "巴黎茶",
+        "zh-TW": "巴黎茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-mid",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "블랙커런트와 바닐라가 어우러진 부드러운 홍차. 우유를 넣으면 디저트 같은 한 잔이 됩니다.",
+        "en": "Blackcurrant and vanilla over a soft black tea; with milk it turns dessert-like.",
+        "zh-CN": "黑加仑与香草融合的柔和红茶，加奶后宛如甜点。",
+        "zh-TW": "黑加侖與香草融合的柔和紅茶，加奶後宛如甜點。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/harney-paris.jpg",
+        "cr": "cn.iherb.com",
+        "pg": "ippr_z2C$qAzdH3FAzdH3Fvg_z&e3Btij6k_z&e3Bv54AzdH3FHw6gjy-S5gf-Pw6tf-Tjw-da-Tjw-Swvijpf-8-9-5z-9a-2AzdH3F9d0cl"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1F0E83bM",
+        "price_krw": 56300
+      }
+    },
+    {
+      "id": "harney-earl-grey-supreme",
+      "brand": "harney",
+      "name": {
+        "ko": "얼그레이 슈프림",
+        "en": "Earl Grey Supreme",
+        "zh-CN": "至尊伯爵茶",
+        "zh-TW": "至尊伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "b-full",
+        "k-crisp",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "실버팁이 섞인 찻잎에 베르가못을 얹어 얼그레이보다 부드럽고 둥근 맛입니다.",
+        "en": "Silver-tipped leaf with bergamot — softer and rounder than a standard Earl Grey.",
+        "zh-CN": "带银针的茶叶配佛手柑，比一般伯爵茶更柔顺圆润。",
+        "zh-TW": "帶銀針的茶葉配佛手柑，比一般伯爵茶更柔順圓潤。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/harney-earl-grey-supreme.jpg",
+        "cr": "usmall.ru",
+        "pg": "https://usmall.ru/product/16274215-harney-sons-ht-tea-blends-winter-white-earl-grey-20-sachets-14-oz-40-g-harney-sons"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1G8HMHtc",
+        "price_krw": 35300
+      }
+    },
+    {
+      "id": "lupicia-momo-oolong",
+      "brand": "lupicia",
+      "name": {
+        "ko": "백도 우롱",
+        "en": "Momo Oolong (White Peach)",
+        "zh-CN": "白桃乌龙",
+        "zh-TW": "白桃烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-mid",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "복숭아 향이 우롱의 꽃향과 자연스럽게 이어집니다. 향이 진하지만 맛은 가벼워 아이스로도 좋습니다.",
+        "en": "Peach carries into the oolong's own floral note — strong in scent, light in the mouth, good iced.",
+        "zh-CN": "蜜桃香与乌龙自身的花香自然衔接，香浓而味轻，冰饮也合适。",
+        "zh-TW": "蜜桃香與烏龍自身的花香自然銜接，香濃而味輕，冰飲也合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/lupicia-momo-oolong.jpg",
+        "cr": "shopozz.ru",
+        "pg": "https://shopozz.ru/items/365691150477-lupicia-tea-honey-momo-oolong-super-grade"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1Ifg20zs",
+        "price_krw": 16640
+      }
+    },
+    {
+      "id": "yorkshire-tea",
+      "brand": "yorkshire",
+      "name": {
+        "ko": "요크셔 티",
+        "en": "Yorkshire Tea",
+        "zh-CN": "约克郡茶",
+        "zh-TW": "約克郡茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "3g × 40",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "k-crisp",
+        "s-milk",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "아삼·실론·아프리카 찻잎을 섞은 진하고 붉은 홍차. 물 200ml에 4분, 우유를 넣는 것이 기본입니다.",
+        "en": "A strong, reddish Assam–Ceylon–Africa blend; four minutes and a splash of milk is the house style.",
+        "zh-CN": "阿萨姆、锡兰与非洲茶叶拼配，汤色深红；200毫升水泡四分钟，加奶为标准喝法。",
+        "zh-TW": "阿薩姆、錫蘭與非洲茶葉拼配，湯色深紅；200毫升水泡四分鐘，加奶為標準喝法。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/yorkshire-tea.jpg",
+        "cr": "shopozz.ru",
+        "pg": "https://shopozz.ru/items/366626768768-yorkshire-tea-gold-black-tea-bags-160ct-pack-of-1"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1JzZsbzU",
+        "price_krw": 8840
+      }
+    },
+    {
+      "id": "yorkshire-gold",
+      "brand": "yorkshire",
+      "name": {
+        "ko": "요크셔 골드",
+        "en": "Yorkshire Gold",
+        "zh-CN": "约克郡金茶",
+        "zh-TW": "約克郡金茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "3g × 40",
+      "tags": [
+        "a-malt",
+        "a-floral",
+        "b-full",
+        "k-sweet",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "요크셔 티보다 향이 섬세하고 단맛이 도드라집니다. 우유 없이도 부드러워 그대로 마셔도 좋습니다.",
+        "en": "More delicate and sweeter than the classic; soft enough to drink without milk.",
+        "zh-CN": "比经典款更细腻、更甜，不加奶也柔顺。",
+        "zh-TW": "比經典款更細膩、更甜，不加奶也柔順。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/yorkshire-gold.jpg",
+        "cr": "kellys-expat-shopping.nl",
+        "pg": "https://www.kellys-expat-shopping.nl/en/yorkshire-gold-80-tea-bags.html"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1KDnqpZ6",
+        "price_krw": 13200
+      }
+    },
+    {
+      "id": "osulloc-jeju-pure-green",
+      "brand": "osulloc",
+      "name": {
+        "ko": "제주 순수녹차",
+        "en": "Jeju Pure Green",
+        "zh-CN": "济州纯绿茶",
+        "zh-TW": "濟州純綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 70,
+      "seconds": 90,
+      "bag": "2g × 20",
+      "tags": [
+        "a-grass",
+        "a-roast",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "c-mid",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "제주 찻잎을 증기로 찌고 솥에 덖어 만든 순수 녹차. 오설록 안내대로 70도에서 1분 30초가 기준입니다.",
+        "en": "Pure Jeju leaf, steamed then pan-fired; Osulloc's own guidance is 70 °C for 1½ minutes.",
+        "zh-CN": "济州茶叶经蒸青与锅炒，按品牌说明以70℃冲泡一分半。",
+        "zh-TW": "濟州茶葉經蒸青與鍋炒，按品牌說明以70℃沖泡一分半。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/osulloc-jeju-pure-green.jpg",
+        "cr": "shopozz.ru",
+        "pg": "https://shopozz.ru/items/116478486904-osulloc-pure-green-tea-mild-clean-tasting-aroma-usda-organic-premium-blended-"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1LWYgnq8",
+        "price_krw": 9000
+      }
+    },
+    {
+      "id": "osulloc-sejak",
+      "brand": "osulloc",
+      "name": {
+        "ko": "세작 20입",
+        "en": "Sejak (20 bags)",
+        "zh-CN": "细雀绿茶",
+        "zh-TW": "細雀綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 70,
+      "seconds": 90,
+      "bag": "2g × 20",
+      "tags": [
+        "a-roast",
+        "a-floral",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "곡우 무렵 어린 찻잎만으로 만든 제주 유기농 녹차. 견과류·난향·단맛이 오설록의 공식 테이스팅 노트입니다.",
+        "en": "Organic Jeju green from young leaves picked around Grain Rain; the house notes are nuts, orchid and sweetness.",
+        "zh-CN": "谷雨前后嫩叶制成的济州有机绿茶，官方风味笔记为坚果、兰香与甜味。",
+        "zh-TW": "穀雨前後嫩葉製成的濟州有機綠茶，官方風味筆記為堅果、蘭香與甜味。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/osulloc-sejak.jpg",
+        "cr": "shopozz.ru",
+        "pg": "https://shopozz.ru/items/374753975579-osulloc-pure-green-tea-premium-organic-blended-tea-from-jeju-20-tea-bags"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1MYjsMWi",
+        "price_krw": 21380
+      }
+    },
+    {
+      "id": "osulloc-jeju-hojicha",
+      "brand": "osulloc",
+      "name": {
+        "ko": "제주 호지차",
+        "en": "Jeju Hojicha",
+        "zh-CN": "济州焙茶",
+        "zh-TW": "濟州焙茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 120,
+      "bag": "2g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-low",
+        "m-cozy",
+        "t-night"
+      ],
+      "note": {
+        "ko": "제주 녹차를 볶아 고소하고 균형 잡힌 맛. 카페인이 낮아 저녁이나 우유와 함께 마시기 좋습니다.",
+        "en": "Roasted Jeju green — nutty and balanced, low in caffeine, good in the evening or with milk.",
+        "zh-CN": "济州绿茶焙炒，香浓均衡、咖啡因较低，适合夜晚或加奶。",
+        "zh-TW": "濟州綠茶焙炒，香濃均衡、咖啡因較低，適合夜晚或加奶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/osulloc-jeju-hojicha.jpg",
+        "cr": "osulloc.com",
+        "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1OPUKjhk",
+        "price_krw": 9110
+      }
+    },
+    {
+      "id": "osulloc-peach-camomile",
+      "brand": "osulloc",
+      "name": {
+        "ko": "피치 캐모마일",
+        "en": "Peach Camomile",
+        "zh-CN": "蜜桃洋甘菊",
+        "zh-TW": "蜜桃洋甘菊"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-low",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "캐모마일·레몬그라스·히비스커스에 복숭아 향을 더한 무카페인 블렌드. 달큰해 아이스로도 잘 어울립니다.",
+        "en": "Camomile, lemongrass and hibiscus with peach — caffeine-free and sweet enough to serve iced.",
+        "zh-CN": "洋甘菊、柠檬草与洛神花加上蜜桃香，无咖啡因，甜润适合冰饮。",
+        "zh-TW": "洋甘菊、檸檬草與洛神花加上蜜桃香，無咖啡因，甜潤適合冰飲。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/osulloc-peach-camomile.jpg",
+        "cr": "osulloc.com",
+        "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=Y&totalCount=169&prdTotalCount=5&reviewTotalCount=164&photoReviewTotalCount=77&sort=ranked&searchType=product&reviewType=&q=%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%20%EB%B8%94%EB%A0%8C%EB%93%9C"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1PYvWvbE",
+        "price_krw": 9110
+      }
+    },
+    {
+      "id": "osulloc-yuja-earlgrey",
+      "brand": "osulloc",
+      "name": {
+        "ko": "유자 얼그레이",
+        "en": "Yuja Earl Grey",
+        "zh-CN": "柚子伯爵茶",
+        "zh-TW": "柚子伯爵茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "베르가못 향에 제주 유자의 상큼함을 더했습니다. 뜨겁게 마시면 향이, 차갑게 마시면 단맛이 앞섭니다.",
+        "en": "Bergamot with the tang of Jeju yuja; hot brings out the perfume, iced the sweetness.",
+        "zh-CN": "佛手柑香中添济州柚子的清爽，热饮香气突出，冷饮甜味更明显。",
+        "zh-TW": "佛手柑香中添濟州柚子的清爽，熱飲香氣突出，冷飲甜味更明顯。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/osulloc-yuja-earlgrey.jpg",
+        "cr": "osulloc.com",
+        "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1Q0WpQv6",
+        "price_krw": 8800
+      }
+    },
+    {
+      "id": "osulloc-volcanic-oolong",
+      "brand": "osulloc",
+      "name": {
+        "ko": "제주 화산우롱차",
+        "en": "Jeju Volcanic Oolong",
+        "zh-CN": "济州火山乌龙茶",
+        "zh-TW": "濟州火山烏龍茶"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "a-roast",
+        "b-medium",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "제주에서 자란 잎을 30%가량 산화시켜 만든 우롱. 꽃향과 볶은 향이 함께 올라옵니다.",
+        "en": "Jeju leaf oxidised about 30 per cent — floral and lightly roasted at once.",
+        "zh-CN": "济州茶叶约三成发酵，花香与焙火香同时上扬。",
+        "zh-TW": "濟州茶葉約三成發酵，花香與焙火香同時上揚。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/osulloc-volcanic-oolong.jpg",
+        "cr": "osulloc.com",
+        "pg": "https://www.osulloc.com/kr/ko/shop/search/main/product?isSet=N&q=%EC%84%B8%EC%9E%91&p=0&size=24&sort=ranked&searchType=product"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1R1lktps",
+        "price_krw": 9110
+      }
+    },
+    {
+      "id": "damtuh-camomile",
+      "brand": "damtuh",
+      "name": {
+        "ko": "캐모마일",
+        "en": "Camomile",
+        "zh-CN": "洋甘菊",
+        "zh-TW": "洋甘菊"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "1g × 10",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-low",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "국내에서 흔히 만나는 데일리 캐모마일 티백. 꽃향이 은은하고 가격 부담이 적어 매일 마시기 좋습니다.",
+        "en": "An everyday Korean camomile bag: soft floral notes at a low price, easy to drink daily.",
+        "zh-CN": "韩国常见的日常洋甘菊茶包，花香柔和、价格轻松，适合每天喝。",
+        "zh-TW": "韓國常見的日常洋甘菊茶包，花香柔和、價格輕鬆，適合每天喝。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR08pjnWyO",
+        "price_krw": 14060
+      },
+      "thumb": "images/store/damtuh-camomile.jpg"
+    },
+    {
+      "id": "damtuh-peppermint",
+      "brand": "damtuh",
+      "name": {
+        "ko": "페퍼민트",
+        "en": "Peppermint",
+        "zh-CN": "薄荷",
+        "zh-TW": "薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "1g × 10",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-low",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "민트의 청량함이 곧바로 올라오는 무카페인 티백. 식후 입가심이나 아이스로 마시기 좋습니다.",
+        "en": "Straight-up cooling mint, caffeine-free; good after meals or over ice.",
+        "zh-CN": "薄荷清凉直接，无咖啡因，适合餐后或冰饮。",
+        "zh-TW": "薄荷清涼直接，無咖啡因，適合餐後或冰飲。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1fJpp5Mq",
+        "price_krw": 6800
+      },
+      "thumb": "images/store/damtuh-peppermint.jpg"
+    },
+    {
+      "id": "damtuh-rooibos",
+      "brand": "damtuh",
+      "name": {
+        "ko": "루이보스",
+        "en": "Rooibos",
+        "zh-CN": "路易波士",
+        "zh-TW": "路易波士"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 10",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-low",
+        "m-cozy",
+        "t-night"
+      ],
+      "note": {
+        "ko": "남아프리카 루이보스의 붉은 수색과 달큰한 맛. 카페인이 없고 우유와도 잘 어울립니다.",
+        "en": "South African rooibos with a red cup and gentle sweetness; caffeine-free and happy with milk.",
+        "zh-CN": "南非路易波士汤色红亮、甘甜，无咖啡因，与牛奶相合。",
+        "zh-TW": "南非路易波士湯色紅亮、甘甜，無咖啡因，與牛奶相合。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/damtuh-rooibos.jpg",
+        "cr": "sayweee.com",
+        "pg": "https://www.sayweee.com/en/product/Damtuh-Instant-Original-Coffee-Mix-1200g/1975492"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR1TgBuFAO",
+        "price_krw": 6100
+      }
+    },
+    {
+      "id": "dongsuh-hyeonmi-green",
+      "brand": "dongsuh",
+      "name": {
+        "ko": "현미녹차",
+        "en": "Brown Rice Green Tea",
+        "zh-CN": "糙米绿茶",
+        "zh-TW": "糙米綠茶"
+      },
+      "type": "herbal",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 90,
+      "bag": "1.5g × 100",
+      "tags": [
+        "a-roast",
+        "a-grass",
+        "b-light",
+        "k-sweet",
+        "s-hot",
+        "c-low",
+        "p-meal"
+      ],
+      "note": {
+        "ko": "현미의 고소함과 녹차의 풋풋함이 반반. 대용량이라 식사 때 물처럼 마시기 좋습니다.",
+        "en": "Toasted rice and green tea in equal measure; the big box is made for everyday meals.",
+        "zh-CN": "糙米焦香与绿茶青味各半，大容量适合佐餐日常饮用。",
+        "zh-TW": "糙米焦香與綠茶青味各半，大容量適合佐餐日常飲用。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herbal",
+      "photo": {
+        "f": "images/teabags/dongsuh-hyeonmi-green.jpg",
+        "cr": "joom.ru",
+        "pg": "https://www.joom.ru/ru/products/61d7cae2b3d8620116f629dc?adj_campaign=recommendations&adj_t=1czb62l6"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR11YIjbtk",
+        "price_krw": 6210
+      }
+    },
+    {
+      "id": "ssanggye-muscat-black",
+      "brand": "ssanggye",
+      "name": {
+        "ko": "티클립스 머스캣홍차",
+        "en": "Teaclyps Muscat Black",
+        "zh-CN": "麝香葡萄红茶",
+        "zh-TW": "麝香葡萄紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "b-medium",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "머스캣 향이 홍차에 또렷하게 얹힌 티클립스. 향이 화사해 아이스티로도 잘 어울립니다.",
+        "en": "Muscat grape laid clearly over black tea — bright enough for iced tea.",
+        "zh-CN": "麝香葡萄香清晰覆在红茶上，明亮，适合冰茶。",
+        "zh-TW": "麝香葡萄香清晰覆在紅茶上，明亮，適合冰茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ssanggye-muscat-black.jpg",
+        "cr": "sktea.com",
+        "pg": "https://sktea.com/product/티클립스-머스캣홍차-20입/2368/"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR13jXS4Iu",
+        "price_krw": 5870
+      }
+    },
+    {
+      "id": "lipton-rooibos",
+      "brand": "lipton",
+      "name": {
+        "ko": "허브티 루이보스",
+        "en": "Herbal Rooibos",
+        "zh-CN": "路易波士草本茶",
+        "zh-TW": "路易波士草本茶"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 10",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "c-low",
+        "m-cozy",
+        "t-night"
+      ],
+      "note": {
+        "ko": "부담 없이 마시는 루이보스 티백. 달큰한 맛이 은은해 우유나 꿀을 조금 더해도 좋습니다.",
+        "en": "An easy rooibos bag — mild sweetness that takes a little milk or honey.",
+        "zh-CN": "轻松易饮的路易波士茶包，甜味温润，可加少许牛奶或蜂蜜。",
+        "zh-TW": "輕鬆易飲的路易波士茶包，甜味溫潤，可加少許牛奶或蜂蜜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/lipton-rooibos.jpg",
+        "cr": "shopozz.ru",
+        "pg": "https://shopozz.ru/items/304298903217-lipton-----refresh--orange-flavored-herbal-tea-3-boxes--84-bags------"
+      },
+      "affiliate": {
+        "url": "https://link.coupang.com/a/iR14yY11H2",
+        "price_krw": 3300
+      }
+    }
+  ]
 }

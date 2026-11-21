@@ -2546,6 +2546,11 @@
       '">' +
       esc(t("bag.toGuide")) +
       "</button>" +
+      '<button class="btn btn-outline btn-block" type="button" data-bag-store="' +
+      esc(bag.id) +
+      '"><svg width="15" height="15" style="vertical-align:-2px;margin-right:5px"><use href="#ic-store"/></svg>' +
+      esc(t("bag.buy")) +
+      "</button>" +
       "</div></div></div></div>" +
       "</article>"
     );
@@ -2580,6 +2585,12 @@
           if (b.id === id) bag = b;
         });
         if (bag) setTimerBag(bag);
+      });
+    });
+    $$("[data-bag-store]", list).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var id = btn.getAttribute("data-bag-store");
+        if (window.TeaFaiExtra && window.TeaFaiExtra.openStoreForBag) window.TeaFaiExtra.openStoreForBag(id);
       });
     });
     $$("[data-bag-guide]", list).forEach(function (btn) {

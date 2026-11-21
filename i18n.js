@@ -679,7 +679,7 @@ window.TEAFaiI18N = (function () {
         "The monthly plans for personal, tea-house and maker members are handled by Google Play in-app billing. Google Play handles the payment method and card details; Teakipedia never receives or stores a card number. The app only reads the subscription state Google Play reports (the product purchased and whether it is valid) to unlock a membership level, and stores that level on your device. Cancelling and refunds follow Google Play's policies and procedures.",
       "pv.s7.title": "External links and the Coupang Partners programme",
       "pv.s7.body":
-        "The app links to a Naver blog, the Upaper e-book store, and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
+        "The app links to a Naver blog, the Upaper e-book store, a YouTube playlist (Teacat Tea House BGM), and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
       "pv.s7.note":
         "This posting is part of our Coupang Partners activity, and we receive a small commission from it.",
       "pv.s8.title": "Sharing with third parties and processing on our behalf",
@@ -776,7 +776,7 @@ window.TEAFaiI18N = (function () {
         "个人会员、茶馆会员、厂商会员的月费通过 Google Play 应用内购买处理。支付方式与卡片信息由 Google Play 处理，Teakipedia 不会直接收取或保存卡号。应用只读取 Google Play 告知的订阅状态（购买的商品与是否有效）来开启会员等级，并将该等级保存在本机。取消订阅与退款依 Google Play 的政策与流程。",
       "pv.s7.title": "外部链接与 Coupang 合作伙伴",
       "pv.s7.body":
-        "应用内有前往 Naver 博客、Upaper 电子书书店，以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
+        "应用内有前往 Naver 博客、Upaper 电子书书店、YouTube 播放列表（茶猫茶馆BGM），以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
       "pv.s7.note": "本贴文是 Coupang 合作伙伴活动的一部分，我们会因此获得一定金额的佣金。",
       "pv.s8.title": "第三方提供与委托处理",
       "pv.s8.body":
@@ -872,7 +872,7 @@ window.TEAFaiI18N = (function () {
         "個人會員、茶館會員、廠商會員的月費透過 Google Play 應用內購買處理。付款方式與卡片資訊由 Google Play 處理，Teakipedia 不會直接收取或保存卡號。應用只讀取 Google Play 告知的訂閱狀態（購買的商品與是否有效）來開啟會員等級，並把該等級保存在本機。取消訂閱與退款依 Google Play 的政策與流程。",
       "pv.s7.title": "外部連結與 Coupang 合作夥伴",
       "pv.s7.body":
-        "應用內有前往 Naver 部落格、Upaper 電子書書店，以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
+        "應用內有前往 Naver 部落格、Upaper 電子書書店、YouTube 播放清單（茶貓茶館BGM），以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
       "pv.s7.note": "本貼文是 Coupang 合作夥伴活動的一部分，我們會因此獲得一定金額的佣金。",
       "pv.s8.title": "第三方提供與委託處理",
       "pv.s8.body":
@@ -1384,6 +1384,7 @@ window.TEAFaiI18N = (function () {
       "bag.tagsTitle": "향미",
       "bag.toTimer": "타이머로 우리기",
       "bag.toGuide": "이 계열 백과 보기",
+      "bag.buy": "이 티백 사기",
       "bag.note": "우림 온도·시간은 브랜드 안내를 먼저 따르고, 확인되지 않은 제품은 같은 차종의 기준으로 적었습니다. 티백마다 조금씩 다를 수 있어요.",
       "bag.empty": "조건에 맞는 티백이 없습니다.",
       "bag.sourceBrand": "브랜드 안내 기준",
@@ -1537,6 +1538,7 @@ window.TEAFaiI18N = (function () {
       "bag.tagsTitle": "Aroma & taste",
       "bag.toTimer": "Start the timer",
       "bag.toGuide": "Open this tea family",
+      "bag.buy": "Buy this teabag",
       "bag.note": "Brewing follows the brand's own guidance first; where a brand gives none, the standard for that tea type is used. Bags vary a little.",
       "bag.empty": "No tea bags match these filters.",
       "bag.sourceBrand": "Brand guidance",
@@ -1690,6 +1692,7 @@ window.TEAFaiI18N = (function () {
       "bag.tagsTitle": "香气与味道",
       "bag.toTimer": "用计时器冲泡",
       "bag.toGuide": "查看该茶类百科",
+      "bag.buy": "购买此茶包",
       "bag.note": "冲泡温度与时间优先依据品牌说明；未注明者按同类茶的一般标准标注，各茶包可能略有差异。",
       "bag.empty": "没有符合条件的茶包。",
       "bag.sourceBrand": "品牌说明",
@@ -1843,6 +1846,7 @@ window.TEAFaiI18N = (function () {
       "bag.tagsTitle": "香氣與味道",
       "bag.toTimer": "用計時器沖泡",
       "bag.toGuide": "查看該茶類百科",
+      "bag.buy": "購買此茶包",
       "bag.note": "沖泡溫度與時間優先依品牌說明；未註明者按同類茶的一般標準標註，各茶包可能略有差異。",
       "bag.empty": "沒有符合條件的茶包。",
       "bag.sourceBrand": "品牌說明",
@@ -2569,6 +2573,7 @@ window.TEAFaiI18N = (function () {
     "bag.caffAll": "全部",
     "bag.toTimer": "用計時器泡",
     "bag.toGuide": "睇茶百科",
+    "bag.buy": "買呢款茶包",
     "bag.empty": "冇符合條件嘅茶包。",
     "bag.count": "{n}款茶包",
     "bag.brew": "{temp}度 · {dur}",
@@ -2608,6 +2613,8 @@ window.TEAFaiI18N = (function () {
       "ch.bookTitle": "전자책 《찻잎의 시간, 오늘의 한 잔》",
       "ch.bookSub": "유페이퍼 서점 · 얼그레이 편도 함께",
       "ch.blogTitle": "네이버 블로그",
+      "ch.bgmTitle": "티냥이 찻집 BGM",
+      "ch.bgmSub": "유튜브 재생목록 · 차 마실 때 틀어두는 잔잔한 로파이",
     },
     "en": {
       "privacy.link": "Privacy policy",
@@ -2615,6 +2622,8 @@ window.TEAFaiI18N = (function () {
       "ch.bookTitle": "E-book: Time of Tea Leaves, Today's Cup",
       "ch.bookSub": "On Upaper · the Earl Grey book too",
       "ch.blogTitle": "Naver blog",
+      "ch.bgmTitle": "Teacat Tea House BGM",
+      "ch.bgmSub": "YouTube playlist · calm lo-fi to pour a cup to",
     },
     "zh-CN": {
       "privacy.link": "隐私政策",
@@ -2622,6 +2631,8 @@ window.TEAFaiI18N = (function () {
       "ch.bookTitle": "电子书《茶叶的时间，今天的一杯》",
       "ch.bookSub": "Upaper 书店 · 伯爵茶篇一并",
       "ch.blogTitle": "Naver 博客",
+      "ch.bgmTitle": "茶猫茶馆BGM",
+      "ch.bgmSub": "YouTube 播放列表 · 喝茶时放的舒缓Lo-fi",
     },
     "zh-TW": {
       "privacy.link": "隱私政策",
@@ -2629,6 +2640,8 @@ window.TEAFaiI18N = (function () {
       "ch.bookTitle": "電子書《茶葉的時間，今天的一杯》",
       "ch.bookSub": "Upaper 書店 · 伯爵茶篇一併",
       "ch.blogTitle": "Naver 部落格",
+      "ch.bgmTitle": "茶貓茶館BGM",
+      "ch.bgmSub": "YouTube 播放清單 · 喝茶時放的舒緩Lo-fi",
     }
   };
 
@@ -2638,6 +2651,8 @@ window.TEAFaiI18N = (function () {
     "ch.bookTitle": "電子書《茶葉的時間，今天一杯》",
     "ch.bookSub": "Upaper 書店 · 伯爵茶篇一齊",
     "ch.blogTitle": "Naver 部落格",
+    "ch.bgmTitle": "茶貓茶館BGM",
+    "ch.bgmSub": "YouTube playlist · 飲茶聽嘅放鬆Lo-fi",
   };
 
   /* ── 2026-11 회원 등급 3단계 (개인 ⊂ 찻집 ⊂ 제조사) ── */
@@ -2993,7 +3008,7 @@ window.TEAFaiI18N = (function () {
     "pv.s6.title": "應用內定期訂閱同付款",
     "pv.s6.body": "個人會員、茶館會員、廠商會員嘅月費經 Google Play 應用內購買處理。付款方法同卡資料由 Google Play 處理，茶基百科唔會直接收或者存卡號。應用淨係讀 Google Play 講嘅訂閱狀態（買咗邊個商品、仲有冇效）嚟開會員等級，再將呢個等級存喺部機。取消訂閱同退款跟 Google Play 嘅政策同流程。",
     "pv.s7.title": "外部連結同 Coupang 合作夥伴",
-    "pv.s7.body": "應用入面有去 Naver 部落格、Upaper 電子書店，仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
+    "pv.s7.body": "應用入面有去 Naver 部落格、Upaper 電子書店、YouTube playlist（茶貓茶館BGM），仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
     "pv.s7.note": "呢篇貼文係 Coupang 合作夥伴活動嘅一部分，我哋會因此收到一筆佣金。",
     "pv.s8.title": "第三方提供同委託處理",
     "pv.s8.body": "茶基百科為咗伺服器儲存同付款，將處理委託畀下面嘅公司。唔會賣用戶資料，亦都唔會用喺目的以外嘅用途。",
@@ -3603,6 +3618,7 @@ window.TEAFaiI18N = (function () {
     "bag.brewLine": "{temp}度で{dur}",
     "bag.toTimer": "タイマーで淹れる",
     "bag.toGuide": "茶百科を見る",
+    "bag.buy": "このティーバッグを購入",
     "bag.empty": "条件に合うティーバッグがありません。",
     "bag.sourceBrand": "ブランド表示より",
     "bag.sourceCategory": "同類茶の基準より",
@@ -3644,6 +3660,8 @@ window.TEAFaiI18N = (function () {
     "ch.bookTitle": "電子書籍『茶葉の時間、今日の一杯』",
     "ch.bookSub": "Upaper 書店 · アールグレイ編も",
     "ch.blogTitle": "Naver ブログ",
+    "ch.bgmTitle": "茶猫ティーハウスBGM",
+    "ch.bgmSub": "YouTube プレイリスト · お茶の時間に流す穏やかなLo-fi",
     "privacy.link": "プライバシーポリシー",
     "quiz.q1": "ふだん、いつ・なぜお茶を飲みますか？",
     "quiz.q1a": "朝、目を覚まして集中したいとき",
@@ -3689,7 +3707,9 @@ window.TEAFaiI18N = (function () {
     "quiz.q10a": "落ち着いて整えたい",
     "quiz.q10b": "活力と集中がほしい",
     "quiz.q10c": "あたたかく慰められたい",
-    "quiz.q10d": "すっきり換気したい"
+    "quiz.q10d": "すっきり換気したい",
+      "ch.bgmTitle": "茶猫ティーハウスBGM",
+      "ch.bgmSub": "YouTube プレイリスト · お茶の時間に流す穏やかなLo-fi"
       }
   };
 
