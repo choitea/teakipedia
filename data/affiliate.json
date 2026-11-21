@@ -498,21 +498,5 @@
         "zh-TW": "查看書籍"
       }
     }
-  ],
-  "video": {
-    "vendor": "youtube",
-    "url": "https://www.youtube.com/@TeaFai",
-    "title": {
-      "ko": "티파이 채널 @TeaFai",
-      "en": "Tea Fai channel @TeaFai",
-      "zh-CN": "Tea Fai 频道 @TeaFai",
-      "zh-TW": "Tea Fai 頻道 @TeaFai"
-    },
-    "label": {
-      "ko": "영상 보기",
-      "en": "Watch the videos",
-      "zh-CN": "观看视频",
-      "zh-TW": "觀看影片"
-    }
-  }
+  ]
 }

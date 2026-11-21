@@ -35,7 +35,7 @@
 | `data/teabags.json` | 티백 33종·13개 브랜드 — 차종·카페인·향미 태그·우림 온도/시간·포장, 브랜드 4개 언어 표기 |
 | `data/onboarding_plans.json` | 입점 플랜(스탠다드 월 19,000원 / 프리미엄 스폰서 월 39,000원)·진행 절차·결제 안내 문구 — 이 파일만 고치면 화면에 반영 |
 | `supabase-adapter.js` | `SUPABASE_CONFIG` 설정 객체와 커뮤니티 글(`community_posts`)·입점 신청(`shop_applications`) 전송 어댑터. 지금은 Supabase `teakipedia`(`zbjvwvaluywjxzvnohcv`, 서울) 프로젝트에 연결되어 서버 모드로 동작. 공개용 publishable 키만 넣고, 쓰기는 RLS 정책으로만 열립니다 |
-| `data/affiliate.json` | 추천 찻잎·다구 둘러보기, 전자책, 유튜브 채널 연결 (쿠팡파트너스 숏링크 발급 전에는 검색 링크로 안내) |
+| `data/affiliate.json` | 추천 찻잎·다구 둘러보기, 전자책 (쿠팡파트너스 숏링크 발급 전에는 검색 링크로 안내) |
 | `manifest.webmanifest` | PWA 설치 정보 (이름·아이콘·테마 색) |
 | `sw.js` | 오프라인 캐시 — 앱 껍데기는 네트워크 우선, `data/`는 stale-while-revalidate (캐시 `teafai-v14`) |
 | `privacy.html` | 개인정보처리방침 (회원가입 없음, 노트·구독 상태는 기기 저장 / 커뮤니티 글·입점 신청·제품 등록은 Supabase 서울 리전) |

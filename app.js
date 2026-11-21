@@ -2151,11 +2151,10 @@
     });
 
     var items = [leaf, teaware].filter(Boolean);
-    if (!items.length && !aff.books && !aff.video) return null;
+    if (!items.length && !aff.books) return null;
     return {
       items: items,
       book: (aff.books || [])[0] || null,
-      video: aff.video || null,
       disclosure: aff.disclosure
     };
   }
@@ -2213,17 +2212,6 @@
           "</a>"
       );
     }
-    if (pack.video) {
-      links.push(
-        '<a class="bb-link" href="' +
-          esc(pack.video.url) +
-          '" target="_blank" rel="noopener" title="' +
-          esc(l10n(pack.video.title)) +
-          '"><svg width="12" height="12"><use href="#ic-youtube"/></svg>' +
-          esc(l10n(pack.video.label)) +
-          "</a>"
-      );
-    }
     if (links.length) html += '<div class="bb-links">' + links.join("") + "</div>";
     return html + "</div>";
   }
@@ -2260,17 +2248,7 @@
       return;
     }
     var tea = timerTea();
-    var aff = PARTNER.affiliate;
     var links = [];
-    if (aff && aff.video) {
-      links.push(
-        '<a class="de-link" href="' +
-          esc(aff.video.url) +
-          '" target="_blank" rel="noopener"><svg width="13" height="13"><use href="#ic-youtube"/></svg>' +
-          esc(t("buy.video")) +
-          "</a>"
-      );
-    }
     var shopList = shopsForTea(tea.id);
     shopList.forEach(function (shop) {
       links.push(

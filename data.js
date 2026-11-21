@@ -1,5 +1,5 @@
 /* ============================================================
-   티파이(Tea Fai) — 차 백과 & 우림 타이머
+   티키피디아(Teakipedia) — 차 백과 & 우림 타이머
    수록 데이터 출처
    · 《찻잎의 시간, 오늘의 한 잔》 (최티) — 1~6장, 부록 1·2
    · 《최초의 가향 홍차 — 얼그레이의 모든 것》 (최티) — 1~6장, 부록 1·2
@@ -8538,20 +8538,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "이름은 ‘백차’지만 백차가 아니라 녹차입니다. 봄에 잎이 연두빛 흰색을 띠는 백엽1호 품종으로 만듭니다.",
-        "살청 → 유념 → 건조. 잎이 여려 낮은 온도에서 짧게 덖습니다."
+        "살청 → 유념 → 건조. 잎이 여려 낮은 온도에서 짧게 덖습니다.",
+        "이름은 ‘백차’지만 백차가 아니라 녹차입니다. 봄에 잎이 연두빛 흰색을 띠는 백엽1호 품종으로 만듭니다."
       ],
       "en": [
-        "Despite the name it is a green tea, not a white tea: the cultivar 'Baiye 1' turns pale in spring.",
-        "Fired, rolled, dried — gently and briefly, because the leaf is thin."
+        "Fired, rolled, dried — gently and briefly, because the leaf is thin.",
+        "Despite the name it is a green tea, not a white tea: the cultivar 'Baiye 1' turns pale in spring."
       ],
       "zh-CN": [
-        "虽名为“白茶”，实际是绿茶，用的是春季叶色偏白的“白叶一号”品种。",
-        "炒青 → 揉捻 → 干燥，叶薄，低温短炒。"
+        "炒青 → 揉捻 → 干燥，叶薄，低温短炒。",
+        "虽名为“白茶”，实际是绿茶，用的是春季叶色偏白的“白叶一号”品种。"
       ],
       "zh-TW": [
-        "雖名為「白茶」，實際是綠茶，用的是春季葉色偏白的「白葉一號」品種。",
-        "炒青 → 揉捻 → 乾燥，葉薄，低溫短炒。"
+        "炒青 → 揉捻 → 乾燥，葉薄，低溫短炒。",
+        "雖名為「白茶」，實際是綠茶，用的是春季葉色偏白的「白葉一號」品種。"
       ]
     },
     "ko": {
@@ -8653,20 +8653,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "1915년 파나마 만국박람회에서 금상을 받았다는 기록이 전합니다.",
-        "살청 → 유념 → 건조. 개울가 안개가 많은 골짜기의 잎을 씁니다."
+        "살청 → 유념 → 건조. 개울가 안개가 많은 골짜기의 잎을 씁니다.",
+        "1915년 파나마 만국박람회에서 금상을 받았다는 기록이 전합니다."
       ],
       "en": [
-        "Records say it took a gold medal at the 1915 Panama-Pacific exposition.",
-        "Fired, rolled, dried; the leaf comes from a misty valley site."
+        "Fired, rolled, dried; the leaf comes from a misty valley site.",
+        "Records say it took a gold medal at the 1915 Panama-Pacific exposition."
       ],
       "zh-CN": [
-        "据记载1915年巴拿马万国博览会获金奖。",
-        "炒青 → 揉捻 → 干燥，鲜叶出自溪谷多雾的茶山。"
+        "炒青 → 揉捻 → 干燥，鲜叶出自溪谷多雾的茶山。",
+        "据记载1915年巴拿马万国博览会获金奖。"
       ],
       "zh-TW": [
-        "據記載1915年巴拿馬萬國博覽會獲金獎。",
-        "炒青 → 揉捻 → 乾燥，鮮葉出自溪谷多霧的茶山。"
+        "炒青 → 揉捻 → 乾燥，鮮葉出自溪谷多霧的茶山。",
+        "據記載1915年巴拿馬萬國博覽會獲金獎。"
       ]
     },
     "ko": {
@@ -8883,20 +8883,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "당대부터 몽정산 차가 공차로 올라갔다는 기록이 있어, 이름난 차 가운데서도 유서가 깊습니다.",
-        "살청 → 유념 → 삼초(三炒) → 삼유(三揉)로 잎을 곱게 비벼 말립니다."
+        "살청 → 유념 → 삼초(三炒) → 삼유(三揉)로 잎을 곱게 비벼 말립니다.",
+        "당대부터 몽정산 차가 공차로 올라갔다는 기록이 있어, 이름난 차 가운데서도 유서가 깊습니다."
       ],
       "en": [
-        "Mengding tea was already sent to the Tang court as tribute — one of the longest records in Chinese tea.",
-        "Fired, rolled, then fired and rolled twice more, which gives the fine curl."
+        "Fired, rolled, then fired and rolled twice more, which gives the fine curl.",
+        "Mengding tea was already sent to the Tang court as tribute — one of the longest records in Chinese tea."
       ],
       "zh-CN": [
-        "唐代蒙顶茶即为贡茶，渊源在名茶中数一数二。",
-        "炒青 → 揉捻 → 三炒三揉，揉成细卷。"
+        "炒青 → 揉捻 → 三炒三揉，揉成细卷。",
+        "唐代蒙顶茶即为贡茶，渊源在名茶中数一数二。"
       ],
       "zh-TW": [
-        "唐代蒙頂茶即為貢茶，淵源在名茶中數一數二。",
-        "炒青 → 揉捻 → 三炒三揉，揉成細卷。"
+        "炒青 → 揉捻 → 三炒三揉，揉成細卷。",
+        "唐代蒙頂茶即為貢茶，淵源在名茶中數一數二。"
       ]
     },
     "ko": {
@@ -9113,20 +9113,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "저장성 징닝의 산사 혜명사 주변에서 시작된 차로, 절 이름이 차 이름이 되었습니다.",
-        "살청 → 유념 → 건조. 싹이 곧고 잎이 여려 낮은 온도에서 덖습니다."
+        "살청 → 유념 → 건조. 싹이 곧고 잎이 여려 낮은 온도에서 덖습니다.",
+        "저장성 징닝의 산사 혜명사 주변에서 시작된 차로, 절 이름이 차 이름이 되었습니다."
       ],
       "en": [
-        "It grew up around Huiming temple in Jingning, Zhejiang — the temple gave the tea its name.",
-        "Fired, rolled, dried at low heat because the buds are tender."
+        "Fired, rolled, dried at low heat because the buds are tender.",
+        "It grew up around Huiming temple in Jingning, Zhejiang — the temple gave the tea its name."
       ],
       "zh-CN": [
-        "产于浙江景宁惠明寺一带，寺名成了茶名。",
-        "炒青 → 揉捻 → 干燥，芽嫩，低温轻炒。"
+        "炒青 → 揉捻 → 干燥，芽嫩，低温轻炒。",
+        "产于浙江景宁惠明寺一带，寺名成了茶名。"
       ],
       "zh-TW": [
-        "產於浙江景寧惠明寺一帶，寺名成了茶名。",
-        "炒青 → 揉捻 → 乾燥，芽嫩，低溫輕炒。"
+        "炒青 → 揉捻 → 乾燥，芽嫩，低溫輕炒。",
+        "產於浙江景寧惠明寺一帶，寺名成了茶名。"
       ]
     },
     "ko": {
@@ -9228,20 +9228,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "전남 보성은 한국에서 차밭이 가장 넓게 이어지는 곳입니다. 봄부터 초여름까지 우전·세작·중작·대작을 이어 땁니다.",
-        "살청(덖음) → 유념 → 건조. 대량 생산은 기계 덖음, 소규모 농가는 손덖음을 함께 씁니다."
+        "살청(덖음) → 유념 → 건조. 대량 생산은 기계 덖음, 소규모 농가는 손덖음을 함께 씁니다.",
+        "전남 보성은 한국에서 차밭이 가장 넓게 이어지는 곳입니다. 봄부터 초여름까지 우전·세작·중작·대작을 이어 땁니다."
       ],
       "en": [
-        "Boseong in Jeollanam-do has the widest tea fields in Korea, picking ujeon through daejak from spring into early summer.",
-        "Pan-fired, rolled, dried — machine-fired at scale, hand-fired on small farms."
+        "Pan-fired, rolled, dried — machine-fired at scale, hand-fired on small farms.",
+        "Boseong in Jeollanam-do has the widest tea fields in Korea, picking ujeon through daejak from spring into early summer."
       ],
       "zh-CN": [
-        "全罗南道宝城是韩国茶田最连片的地方，从春到初夏依次采雨前、细雀、中雀、大雀。",
-        "炒青 → 揉捻 → 干燥，量产多用机炒，小农户仍手工炒制。"
+        "炒青 → 揉捻 → 干燥，量产多用机炒，小农户仍手工炒制。",
+        "全罗南道宝城是韩国茶田最连片的地方，从春到初夏依次采雨前、细雀、中雀、大雀。"
       ],
       "zh-TW": [
-        "全羅南道寶城是韓國茶田最連片的地方，從春到初夏依次採雨前、細雀、中雀、大雀。",
-        "炒青 → 揉捻 → 乾燥，量產多用機炒，小農戶仍手工炒制。"
+        "炒青 → 揉捻 → 乾燥，量產多用機炒，小農戶仍手工炒制。",
+        "全羅南道寶城是韓國茶田最連片的地方，從春到初夏依次採雨前、細雀、中雀、大雀。"
       ]
     },
     "ko": {
@@ -9343,20 +9343,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "대만 신베이 삼협 지역은 1940년대 이후 중국식 녹차를 만들어 온 곳입니다. 이름은 장쑤 둥팅의 벽라춘에서 왔습니다.",
-        "살청 → 유념 → 건조. 나선형으로 곱게 꼬아 말립니다."
+        "살청 → 유념 → 건조. 나선형으로 곱게 꼬아 말립니다.",
+        "대만 신베이 삼협 지역은 1940년대 이후 중국식 녹차를 만들어 온 곳입니다. 이름은 장쑤 둥팅의 벽라춘에서 왔습니다."
       ],
       "en": [
-        "Sanxia, in New Taipei, has made Chinese-style green tea since the 1940s; the name comes from Biluochun of Dongting, Jiangsu.",
-        "Fired, rolled into fine spirals, dried."
+        "Fired, rolled into fine spirals, dried.",
+        "Sanxia, in New Taipei, has made Chinese-style green tea since the 1940s; the name comes from Biluochun of Dongting, Jiangsu."
       ],
       "zh-CN": [
-        "新北三峡自1940年代起制作中国式绿茶，名字源自江苏洞庭碧螺春。",
-        "炒青 → 揉捻 → 干燥，揉成细螺状。"
+        "炒青 → 揉捻 → 干燥，揉成细螺状。",
+        "新北三峡自1940年代起制作中国式绿茶，名字源自江苏洞庭碧螺春。"
       ],
       "zh-TW": [
-        "新北三峽自1940年代起製作中國式綠茶，名字源自江蘇洞庭碧螺春。",
-        "炒青 → 揉捻 → 乾燥，揉成細螺狀。"
+        "炒青 → 揉捻 → 乾燥，揉成細螺狀。",
+        "新北三峽自1940年代起製作中國式綠茶，名字源自江蘇洞庭碧螺春。"
       ]
     },
     "ko": {
@@ -9458,20 +9458,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "수확 전 1~2주만 차광막을 덮는 방식이라, 옥로(20일 안팎)와 센차(차광 없음) 사이에 놓입니다.",
-        "증청 → 유념 → 건조. 차광으로 아미노산이 늘고 카테킨이 줄어 감칠맛이 올라갑니다."
+        "증청 → 유념 → 건조. 차광으로 아미노산이 늘고 카테킨이 줄어 감칠맛이 올라갑니다.",
+        "수확 전 1~2주만 차광막을 덮는 방식이라, 옥로(20일 안팎)와 센차(차광 없음) 사이에 놓입니다."
       ],
       "en": [
-        "Covered for only one to two weeks before harvest — between gyokuro (about 20 days) and sencha (no cover).",
-        "Steamed, rolled, dried. Shading raises amino acids and lowers catechins, so umami goes up."
+        "Steamed, rolled, dried. Shading raises amino acids and lowers catechins, so umami goes up.",
+        "Covered for only one to two weeks before harvest — between gyokuro (about 20 days) and sencha (no cover)."
       ],
       "zh-CN": [
-        "采前只遮光1~2周，介于玉露（约20天）与煎茶（不遮光）之间。",
-        "蒸青 → 揉捻 → 干燥，遮光提高氨基酸、降低儿茶素。"
+        "蒸青 → 揉捻 → 干燥，遮光提高氨基酸、降低儿茶素。",
+        "采前只遮光1~2周，介于玉露（约20天）与煎茶（不遮光）之间。"
       ],
       "zh-TW": [
-        "採前只遮光1~2周，介於玉露（約20天）與煎茶（不遮光）之間。",
-        "蒸青 → 揉捻 → 乾燥，遮光提高胺基酸、降低兒茶素。"
+        "蒸青 → 揉捻 → 乾燥，遮光提高胺基酸、降低兒茶素。",
+        "採前只遮光1~2周，介於玉露（約20天）與煎茶（不遮光）之間。"
       ]
     },
     "ko": {
@@ -9573,20 +9573,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "일본 녹차는 대부분 증청이지만, 규슈 우레시노 등에서는 솥에 덖는 중국식 제법이 남아 있습니다.",
-        "살청(솥 덖음) → 유념 → 건조. 찌지 않아 해조류 향 대신 구수한 향이 납니다."
+        "살청(솥 덖음) → 유념 → 건조. 찌지 않아 해조류 향 대신 구수한 향이 납니다.",
+        "일본 녹차는 대부분 증청이지만, 규슈 우레시노 등에서는 솥에 덖는 중국식 제법이 남아 있습니다."
       ],
       "en": [
-        "Most Japanese green tea is steamed, but wok-firing survives in Kyushu, notably Ureshino.",
-        "Pan-fired, rolled, dried: no steaming, so the cup is toasty rather than seaweed-like."
+        "Pan-fired, rolled, dried: no steaming, so the cup is toasty rather than seaweed-like.",
+        "Most Japanese green tea is steamed, but wok-firing survives in Kyushu, notably Ureshino."
       ],
       "zh-CN": [
-        "日本绿茶多为蒸青，九州嬉野等地仍保留锅炒的中国式做法。",
-        "炒青 → 揉捻 → 干燥，不蒸，香气偏炒米而非海藻。"
+        "炒青 → 揉捻 → 干燥，不蒸，香气偏炒米而非海藻。",
+        "日本绿茶多为蒸青，九州嬉野等地仍保留锅炒的中国式做法。"
       ],
       "zh-TW": [
-        "日本綠茶多為蒸青，九州嬉野等地仍保留鍋炒的中國式做法。",
-        "炒青 → 揉捻 → 乾燥，不蒸，香氣偏炒米而非海藻。"
+        "炒青 → 揉捻 → 乾燥，不蒸，香氣偏炒米而非海藻。",
+        "日本綠茶多為蒸青，九州嬉野等地仍保留鍋炒的中國式做法。"
       ]
     },
     "ko": {
@@ -9688,20 +9688,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "저장성 신창현에서 만드는 용정 계열 녹차입니다. 시후 용정보다 채취가 이르고 가격이 낮은 편입니다.",
-        "살청 → 유념 → 압압 → 건조. 손바닥으로 눌러 납작하게 만듭니다."
+        "살청 → 유념 → 압압 → 건조. 손바닥으로 눌러 납작하게 만듭니다.",
+        "저장성 신창현에서 만드는 용정 계열 녹차입니다. 시후 용정보다 채취가 이르고 가격이 낮은 편입니다."
       ],
       "en": [
-        "A Longjing-style green made in Xinchang, Zhejiang: picked earlier and cheaper than West Lake Longjing.",
-        "Fired, rolled, pressed flat by hand, dried."
+        "Fired, rolled, pressed flat by hand, dried.",
+        "A Longjing-style green made in Xinchang, Zhejiang: picked earlier and cheaper than West Lake Longjing."
       ],
       "zh-CN": [
-        "浙江新昌的龙井类绿茶，采摘比西湖龙井早，价格更亲民。",
-        "炒青 → 揉捻 → 压扁 → 干燥。"
+        "炒青 → 揉捻 → 压扁 → 干燥。",
+        "浙江新昌的龙井类绿茶，采摘比西湖龙井早，价格更亲民。"
       ],
       "zh-TW": [
-        "浙江新昌的龍井類綠茶，採摘比西湖龍井早，價格更親民。",
-        "炒青 → 揉捻 → 壓扁 → 乾燥。"
+        "炒青 → 揉捻 → 壓扁 → 乾燥。",
+        "浙江新昌的龍井類綠茶，採摘比西湖龍井早，價格更親民。"
       ]
     },
     "ko": {
@@ -9918,20 +9918,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "1968년 푸젠 푸딩에서 전통 백차의 위조 시간을 늘리고 가볍게 유념해 만든 방식입니다.",
-        "위조 → 약한 유념 → 건조. 유념으로 잎 가장자리가 조금 산화해 붉은 테가 생깁니다."
+        "위조 → 약한 유념 → 건조. 유념으로 잎 가장자리가 조금 산화해 붉은 테가 생깁니다.",
+        "1968년 푸젠 푸딩에서 전통 백차의 위조 시간을 늘리고 가볍게 유념해 만든 방식입니다."
       ],
       "en": [
-        "Devised in Fuding, Fujian in 1968: a longer wither and a light roll, which takes white tea partway toward oolong.",
-        "Withered, lightly rolled, dried; the roll oxidises the leaf edges a little and leaves a red rim."
+        "Withered, lightly rolled, dried; the roll oxidises the leaf edges a little and leaves a red rim.",
+        "Devised in Fuding, Fujian in 1968: a longer wither and a light roll, which takes white tea partway toward oolong."
       ],
       "zh-CN": [
-        "1968年福建福鼎创制，延长萎凋并轻度揉捻。",
-        "萎凋 → 轻揉 → 干燥，揉捻使叶缘微氧化、带红边。"
+        "萎凋 → 轻揉 → 干燥，揉捻使叶缘微氧化、带红边。",
+        "1968年福建福鼎创制，延长萎凋并轻度揉捻。"
       ],
       "zh-TW": [
-        "1968年福建福鼎創製，延長萎凋並輕度揉捻。",
-        "萎凋 → 輕揉 → 乾燥，揉捻使葉緣微氧化、帶紅邊。"
+        "萎凋 → 輕揉 → 乾燥，揉捻使葉緣微氧化、帶紅邊。",
+        "1968年福建福鼎創製，延長萎凋並輕度揉捻。"
       ]
     },
     "ko": {
@@ -10148,20 +10148,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "광시 링윈의 산지에서 나는 백호가 많은 잎으로 만듭니다. 백차로도 녹차로도 가공합니다.",
-        "위조 → 건조의 기본을 지키되, 잎이 두꺼워 건조를 길게 잡습니다."
+        "위조 → 건조의 기본을 지키되, 잎이 두꺼워 건조를 길게 잡습니다.",
+        "광시 링윈의 산지에서 나는 백호가 많은 잎으로 만듭니다. 백차로도 녹차로도 가공합니다."
       ],
       "en": [
-        "Made in Lingyun, Guangxi from a bush whose buds carry heavy white down; the same leaf is also made into green tea.",
-        "Withered and dried, with a longer dry for a thick leaf."
+        "Withered and dried, with a longer dry for a thick leaf.",
+        "Made in Lingyun, Guangxi from a bush whose buds carry heavy white down; the same leaf is also made into green tea."
       ],
       "zh-CN": [
-        "广西凌云的白毫茶树，可制白茶也可制绿茶。",
-        "萎凋 → 干燥，叶厚，干燥时间较长。"
+        "萎凋 → 干燥，叶厚，干燥时间较长。",
+        "广西凌云的白毫茶树，可制白茶也可制绿茶。"
       ],
       "zh-TW": [
-        "廣西凌雲的白毫茶樹，可制白茶也可制綠茶。",
-        "萎凋 → 乾燥，葉厚，乾燥時間較長。"
+        "萎凋 → 乾燥，葉厚，乾燥時間較長。",
+        "廣西凌雲的白毫茶樹，可制白茶也可制綠茶。"
       ]
     },
     "ko": {
@@ -10263,20 +10263,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "후난 웨양 북항 일대에서 만드는 작은 황차입니다. 둥팅호 서쪽 물가의 차밭입니다.",
-        "살청 → 민황(黃湯) → 건조. 덖은 뒤 뭉쳐 두어 스스로 노랗게 익게 합니다."
+        "살청 → 민황(黃湯) → 건조. 덖은 뒤 뭉쳐 두어 스스로 노랗게 익게 합니다.",
+        "후난 웨양 북항 일대에서 만드는 작은 황차입니다. 둥팅호 서쪽 물가의 차밭입니다."
       ],
       "en": [
-        "A small yellow tea from Beigang near Yueyang, Hunan, west of Dongting Lake.",
-        "Fired, then 'men huang' — piled and wrapped so the leaf yellows itself — then dried."
+        "Fired, then 'men huang' — piled and wrapped so the leaf yellows itself — then dried.",
+        "A small yellow tea from Beigang near Yueyang, Hunan, west of Dongting Lake."
       ],
       "zh-CN": [
-        "湖南岳阳北港一带的小宗黄茶，位于洞庭湖西岸。",
-        "炒青 → 闷黄 → 干燥，趁热堆闷使叶色转黄。"
+        "炒青 → 闷黄 → 干燥，趁热堆闷使叶色转黄。",
+        "湖南岳阳北港一带的小宗黄茶，位于洞庭湖西岸。"
       ],
       "zh-TW": [
-        "湖南岳陽北港一帶的小宗黃茶，位於洞庭湖西岸。",
-        "炒青 → 悶黃 → 乾燥，趁熱堆悶使葉色轉黃。"
+        "炒青 → 悶黃 → 乾燥，趁熱堆悶使葉色轉黃。",
+        "湖南岳陽北港一帶的小宗黃茶，位於洞庭湖西岸。"
       ]
     },
     "ko": {
@@ -10378,20 +10378,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "후난 닝샹 위산에서 나는 황차로, 마지막 건조에 연기를 조금 쬐는 방식이 특징입니다.",
-        "살청 → 민황 → 훈연 건조. 잎에 옅은 솔 연기 향이 남습니다."
+        "살청 → 민황 → 훈연 건조. 잎에 옅은 솔 연기 향이 남습니다.",
+        "후난 닝샹 위산에서 나는 황차로, 마지막 건조에 연기를 조금 쬐는 방식이 특징입니다."
       ],
       "en": [
-        "A Hunan yellow tea from Weishan, Ningxiang, unusual for a light smoking at the final dry.",
-        "Fired, piled to yellow, then smoke-dried; a faint pine note stays in the leaf."
+        "Fired, piled to yellow, then smoke-dried; a faint pine note stays in the leaf.",
+        "A Hunan yellow tea from Weishan, Ningxiang, unusual for a light smoking at the final dry."
       ],
       "zh-CN": [
-        "湖南宁乡沩山黄茶，最后干燥略经烟熏。",
-        "炒青 → 闷黄 → 烟熏干燥，叶带淡松烟香。"
+        "炒青 → 闷黄 → 烟熏干燥，叶带淡松烟香。",
+        "湖南宁乡沩山黄茶，最后干燥略经烟熏。"
       ],
       "zh-TW": [
-        "湖南寧鄉溈山黃茶，最後乾燥略經煙燻。",
-        "炒青 → 悶黃 → 煙燻乾燥，葉帶淡松煙香。"
+        "炒青 → 悶黃 → 煙燻乾燥，葉帶淡松煙香。",
+        "湖南寧鄉溈山黃茶，最後乾燥略經煙燻。"
       ]
     },
     "ko": {
@@ -10493,20 +10493,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "저장 남부 핑양 일대에서 만드는 황차로, 청대에 공차로 올라갔다는 기록이 있습니다.",
-        "살청 → 민황 → 건조. 민황 시간을 짧게 잡아 녹차에 가까운 색을 냅니다."
+        "살청 → 민황 → 건조. 민황 시간을 짧게 잡아 녹차에 가까운 색을 냅니다.",
+        "저장 남부 핑양 일대에서 만드는 황차로, 청대에 공차로 올라갔다는 기록이 있습니다."
       ],
       "en": [
-        "A yellow tea from Pingyang in southern Zhejiang, recorded as tribute tea in the Qing.",
-        "Fired, piled briefly to yellow, dried — the short pile keeps it close to green."
+        "Fired, piled briefly to yellow, dried — the short pile keeps it close to green.",
+        "A yellow tea from Pingyang in southern Zhejiang, recorded as tribute tea in the Qing."
       ],
       "zh-CN": [
-        "浙江南部平阳一带的黄茶，清代曾为贡茶。",
-        "炒青 → 短时闷黄 → 干燥，色泽接近绿茶。"
+        "炒青 → 短时闷黄 → 干燥，色泽接近绿茶。",
+        "浙江南部平阳一带的黄茶，清代曾为贡茶。"
       ],
       "zh-TW": [
-        "浙江南部平陽一帶的黃茶，清代曾為貢茶。",
-        "炒青 → 短時悶黃 → 乾燥，色澤接近綠茶。"
+        "炒青 → 短時悶黃 → 乾燥，色澤接近綠茶。",
+        "浙江南部平陽一帶的黃茶，清代曾為貢茶。"
       ]
     },
     "ko": {
@@ -10608,20 +10608,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "안후이 서부의 굵은 잎으로 만드는 대형 황차입니다. ‘대차(大茶)’라는 이름처럼 잎이 크고 실합니다.",
-        "살청 → 민황 → 건조. 잎이 굵어 민황을 길게 잡고, 냄비에 끓이듯 우려 마시기도 합니다."
+        "살청 → 민황 → 건조. 잎이 굵어 민황을 길게 잡고, 냄비에 끓이듯 우려 마시기도 합니다.",
+        "안후이 서부의 굵은 잎으로 만드는 대형 황차입니다. ‘대차(大茶)’라는 이름처럼 잎이 크고 실합니다."
       ],
       "en": [
-        "A coarse-leaf yellow tea from western Anhui; 'da cha' (big tea) says it plainly — large leaf, strong brew.",
-        "Fired, piled long to yellow, dried; often boiled in a pot rather than infused."
+        "Fired, piled long to yellow, dried; often boiled in a pot rather than infused.",
+        "A coarse-leaf yellow tea from western Anhui; 'da cha' (big tea) says it plainly — large leaf, strong brew."
       ],
       "zh-CN": [
-        "皖西一带用较粗老叶做成的大宗黄茶，故名“大茶”。",
-        "炒青 → 长时闷黄 → 干燥，民间常煮饮。"
+        "炒青 → 长时闷黄 → 干燥，民间常煮饮。",
+        "皖西一带用较粗老叶做成的大宗黄茶，故名“大茶”。"
       ],
       "zh-TW": [
-        "皖西一帶用較粗老葉做成的大宗黃茶，故名「大茶」。",
-        "炒青 → 長時悶黃 → 乾燥，民間常煮飲。"
+        "炒青 → 長時悶黃 → 乾燥，民間常煮飲。",
+        "皖西一帶用較粗老葉做成的大宗黃茶，故名「大茶」。"
       ]
     },
     "ko": {
@@ -10723,20 +10723,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "후베이 위안안의 루위안사 주변에서 시작된 황차로, 청대 건륭 연간 기록이 남아 있습니다.",
-        "살청 → 민황 → 건조. 잎을 가늘게 꼬아 말립니다."
+        "살청 → 민황 → 건조. 잎을 가늘게 꼬아 말립니다.",
+        "후베이 위안안의 루위안사 주변에서 시작된 황차로, 청대 건륭 연간 기록이 남아 있습니다."
       ],
       "en": [
-        "A Hubei yellow tea from around Luyuan temple in Yuan'an, recorded in the Qianlong era of the Qing.",
-        "Fired, piled to yellow, rolled into fine strands, dried."
+        "Fired, piled to yellow, rolled into fine strands, dried.",
+        "A Hubei yellow tea from around Luyuan temple in Yuan'an, recorded in the Qianlong era of the Qing."
       ],
       "zh-CN": [
-        "湖北远安鹿苑寺一带的黄茶，清代乾隆年间已有记载。",
-        "炒青 → 闷黄 → 揉成细条 → 干燥。"
+        "炒青 → 闷黄 → 揉成细条 → 干燥。",
+        "湖北远安鹿苑寺一带的黄茶，清代乾隆年间已有记载。"
       ],
       "zh-TW": [
-        "湖北遠安鹿苑寺一帶的黃茶，清代乾隆年間已有記載。",
-        "炒青 → 悶黃 → 揉成細條 → 乾燥。"
+        "炒青 → 悶黃 → 揉成細條 → 乾燥。",
+        "湖北遠安鹿苑寺一帶的黃茶，清代乾隆年間已有記載。"
       ]
     },
     "ko": {
@@ -10838,20 +10838,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "계피나무 껍질 향이 나서 ‘육계’라는 이름이 붙었습니다. 무이산 암차 가운데 대홍포와 함께 가장 많이 심는 품종입니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조 → 숯불 배화. 배화를 여러 번 나누어 올립니다."
+        "위조 → 요청 → 살청 → 유념 → 건조 → 숯불 배화. 배화를 여러 번 나누어 올립니다.",
+        "계피나무 껍질 향이 나서 ‘육계’라는 이름이 붙었습니다. 무이산 암차 가운데 대홍포와 함께 가장 많이 심는 품종입니다."
       ],
       "en": [
-        "Named for a cinnamon-bark note; along with Da Hong Pao it is the most planted bush among the Wuyi rock teas.",
-        "Withered, shaken, fired, rolled, dried, then charcoal-baked in several rounds."
+        "Withered, shaken, fired, rolled, dried, then charcoal-baked in several rounds.",
+        "Named for a cinnamon-bark note; along with Da Hong Pao it is the most planted bush among the Wuyi rock teas."
       ],
       "zh-CN": [
-        "因带桂皮香而得名，与大红袍同为武夷岩茶种植最多的品种。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 炭焙，焙火分多次。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 炭焙，焙火分多次。",
+        "因带桂皮香而得名，与大红袍同为武夷岩茶种植最多的品种。"
       ],
       "zh-TW": [
-        "因帶桂皮香而得名，與大紅袍同為武夷巖茶種植最多的品種。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 炭焙，焙火分多次。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 炭焙，焙火分多次。",
+        "因帶桂皮香而得名，與大紅袍同為武夷巖茶種植最多的品種。"
       ]
     },
     "ko": {
@@ -10954,20 +10954,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "나무 나이가 많은 ‘노총(老叢)’일수록 이끼·목질 향이 깊어져 따로 높이 칩니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조 → 배화. 잎이 커 배화를 오래 잡습니다."
+        "위조 → 요청 → 살청 → 유념 → 건조 → 배화. 잎이 커 배화를 오래 잡습니다.",
+        "나무 나이가 많은 ‘노총(老叢)’일수록 이끼·목질 향이 깊어져 따로 높이 칩니다."
       ],
       "en": [
-        "Old bushes ('lao cong') are prized separately for a mossy, woody depth.",
-        "Withered, shaken, fired, rolled, dried, baked; the large leaf takes a long bake."
+        "Withered, shaken, fired, rolled, dried, baked; the large leaf takes a long bake.",
+        "Old bushes ('lao cong') are prized separately for a mossy, woody depth."
       ],
       "zh-CN": [
-        "树龄越老（老丛）苔藓气与木质香越深，单独高价。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火，叶大焙火时间长。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火，叶大焙火时间长。",
+        "树龄越老（老丛）苔藓气与木质香越深，单独高价。"
       ],
       "zh-TW": [
-        "樹齡越老（老叢）苔蘚氣與木質香越深，單獨高價。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火，葉大焙火時間長。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火，葉大焙火時間長。",
+        "樹齡越老（老叢）苔蘚氣與木質香越深，單獨高價。"
       ]
     },
     "ko": {
@@ -11069,20 +11069,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "해발 2,300m를 넘는 대만에서 가장 높은 차밭 중 하나로, 겨울에 눈이 오는 곳도 있습니다.",
-        "위조 → 요청 → 살청 → 유념(구형) → 건조. 낮은 온도로 잎이 두껍고 천천히 자랍니다."
+        "위조 → 요청 → 살청 → 유념(구형) → 건조. 낮은 온도로 잎이 두껍고 천천히 자랍니다.",
+        "해발 2,300m를 넘는 대만에서 가장 높은 차밭 중 하나로, 겨울에 눈이 오는 곳도 있습니다."
       ],
       "en": [
-        "One of Taiwan's highest tea areas, above 2,300 m, where it sometimes snows.",
-        "Withered, shaken, fired, rolled into balls, dried; the cold makes thick, slow-grown leaf."
+        "Withered, shaken, fired, rolled into balls, dried; the cold makes thick, slow-grown leaf.",
+        "One of Taiwan's highest tea areas, above 2,300 m, where it sometimes snows."
       ],
       "zh-CN": [
-        "海拔2300米以上，是台湾最高茶区之一，冬季偶有降雪。",
-        "萎凋 → 摇青 → 炒青 → 揉成球 → 干燥，低温使叶厚而生长慢。"
+        "萎凋 → 摇青 → 炒青 → 揉成球 → 干燥，低温使叶厚而生长慢。",
+        "海拔2300米以上，是台湾最高茶区之一，冬季偶有降雪。"
       ],
       "zh-TW": [
-        "海拔2300米以上，是臺灣最高茶區之一，冬季偶有降雪。",
-        "萎凋 → 搖青 → 炒青 → 揉成球 → 乾燥，低溫使葉厚而生長慢。"
+        "萎凋 → 搖青 → 炒青 → 揉成球 → 乾燥，低溫使葉厚而生長慢。",
+        "海拔2300米以上，是臺灣最高茶區之一，冬季偶有降雪。"
       ]
     },
     "ko": {
@@ -11184,20 +11184,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "난터우 주지 일대, 해발 1,600~1,800m의 삼나무 숲 사이 차밭에서 나는 고산차입니다.",
-        "위조 → 요청 → 살청 → 구형 유념 → 건조. 숲 그늘과 안개로 향이 맑습니다."
+        "위조 → 요청 → 살청 → 구형 유념 → 건조. 숲 그늘과 안개로 향이 맑습니다.",
+        "난터우 주지 일대, 해발 1,600~1,800m의 삼나무 숲 사이 차밭에서 나는 고산차입니다."
       ],
       "en": [
-        "High-mountain tea from cedar-forest plots at 1,600–1,800 m in Zhushan, Nantou.",
-        "Withered, shaken, fired, ball-rolled, dried; forest shade and fog keep the aroma clean."
+        "Withered, shaken, fired, ball-rolled, dried; forest shade and fog keep the aroma clean.",
+        "High-mountain tea from cedar-forest plots at 1,600–1,800 m in Zhushan, Nantou."
       ],
       "zh-CN": [
-        "南投竹山杉林溪一带，海拔1600~1800米柳杉林间的茶田。",
-        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥，林荫与雾气使香气清扬。"
+        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥，林荫与雾气使香气清扬。",
+        "南投竹山杉林溪一带，海拔1600~1800米柳杉林间的茶田。"
       ],
       "zh-TW": [
-        "南投竹山杉林溪一帶，海拔1600~1800米柳杉林間的茶田。",
-        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥，林蔭與霧氣使香氣清揚。"
+        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥，林蔭與霧氣使香氣清揚。",
+        "南投竹山杉林溪一帶，海拔1600~1800米柳杉林間的茶田。"
       ]
     },
     "ko": {
@@ -11299,20 +11299,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "타이중 허핑 일대, 해발 2,000m 안팎의 과수원 사이에서 자라는 고산차입니다.",
-        "위조 → 요청 → 살청 → 구형 유념 → 건조. 밤낮 온도차가 커 잎이 두껍습니다."
+        "위조 → 요청 → 살청 → 구형 유념 → 건조. 밤낮 온도차가 커 잎이 두껍습니다.",
+        "타이중 허핑 일대, 해발 2,000m 안팎의 과수원 사이에서 자라는 고산차입니다."
       ],
       "en": [
-        "Grown among orchards near Heping, Taichung, at around 2,000 m.",
-        "Withered, shaken, fired, ball-rolled, dried; wide day-night swings thicken the leaf."
+        "Withered, shaken, fired, ball-rolled, dried; wide day-night swings thicken the leaf.",
+        "Grown among orchards near Heping, Taichung, at around 2,000 m."
       ],
       "zh-CN": [
-        "台中和平一带，海拔约2000米的果园之间。",
-        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥，日夜温差大，叶质厚。"
+        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥，日夜温差大，叶质厚。",
+        "台中和平一带，海拔约2000米的果园之间。"
       ],
       "zh-TW": [
-        "臺中和平一帶，海拔約2000米的果園之間。",
-        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥，日夜溫差大，葉質厚。"
+        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥，日夜溫差大，葉質厚。",
+        "臺中和平一帶，海拔約2000米的果園之間。"
       ]
     },
     "ko": {
@@ -11414,20 +11414,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "안시의 황단(黃旦) 품종으로 만드는 차입니다. 향이 세차게 퍼져 ‘투천향(透天香)’이라는 별명이 있습니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조. 산화가 가벼워 꽃 향이 앞섭니다."
+        "위조 → 요청 → 살청 → 유념 → 건조. 산화가 가벼워 꽃 향이 앞섭니다.",
+        "안시의 황단(黃旦) 품종으로 만드는 차입니다. 향이 세차게 퍼져 ‘투천향(透天香)’이라는 별명이 있습니다."
       ],
       "en": [
-        "Made from the Huangdan cultivar of Anxi; its aroma is so forward the tea is nicknamed 'heaven-piercing fragrance'.",
-        "Withered, shaken, fired, rolled, dried; light oxidation keeps the flowers up front."
+        "Withered, shaken, fired, rolled, dried; light oxidation keeps the flowers up front.",
+        "Made from the Huangdan cultivar of Anxi; its aroma is so forward the tea is nicknamed 'heaven-piercing fragrance'."
       ],
       "zh-CN": [
-        "用安溪黄旦品种制成，香气高扬，俗称“透天香”。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，氧化轻，花香突出。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，氧化轻，花香突出。",
+        "用安溪黄旦品种制成，香气高扬，俗称“透天香”。"
       ],
       "zh-TW": [
-        "用安溪黃旦品種製成，香氣高揚，俗稱「透天香」。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，氧化輕，花香突出。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，氧化輕，花香突出。",
+        "用安溪黃旦品種製成，香氣高揚，俗稱「透天香」。"
       ]
     },
     "ko": {
@@ -11529,20 +11529,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "철관음과 같은 안시 지역에서 나지만 향이 가볍고 값이 낮아 ‘철관음의 동생’으로 불립니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조. 잎을 덜 비벼 향을 가볍게 남깁니다."
+        "위조 → 요청 → 살청 → 유념 → 건조. 잎을 덜 비벼 향을 가볍게 남깁니다.",
+        "철관음과 같은 안시 지역에서 나지만 향이 가볍고 값이 낮아 ‘철관음의 동생’으로 불립니다."
       ],
       "en": [
-        "From the same Anxi area as Tieguanyin but lighter and cheaper — often called Tieguanyin's younger sibling.",
-        "Withered, shaken, fired, rolled less, dried, which keeps the aroma light."
+        "Withered, shaken, fired, rolled less, dried, which keeps the aroma light.",
+        "From the same Anxi area as Tieguanyin but lighter and cheaper — often called Tieguanyin's younger sibling."
       ],
       "zh-CN": [
-        "与铁观音同产安溪，香气较轻、价格更低，俗称“铁观音的弟弟”。",
-        "萎凋 → 摇青 → 炒青 → 轻揉 → 干燥。"
+        "萎凋 → 摇青 → 炒青 → 轻揉 → 干燥。",
+        "与铁观音同产安溪，香气较轻、价格更低，俗称“铁观音的弟弟”。"
       ],
       "zh-TW": [
-        "與鐵觀音同產安溪，香氣較輕、價格更低，俗稱「鐵觀音的弟弟」。",
-        "萎凋 → 搖青 → 炒青 → 輕揉 → 乾燥。"
+        "萎凋 → 搖青 → 炒青 → 輕揉 → 乾燥。",
+        "與鐵觀音同產安溪，香氣較輕、價格更低，俗稱「鐵觀音的弟弟」。"
       ]
     },
     "ko": {
@@ -11644,20 +11644,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "잎이 커서 부처손(佛手)을 닮았다고 해서 이름이 붙었습니다. 푸젠 융춘 지역의 차입니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조. 잎이 두꺼워 향이 진하고 7포까지 갑니다."
+        "위조 → 요청 → 살청 → 유념 → 건조. 잎이 두꺼워 향이 진하고 7포까지 갑니다.",
+        "잎이 커서 부처손(佛手)을 닮았다고 해서 이름이 붙었습니다. 푸젠 융춘 지역의 차입니다."
       ],
       "en": [
-        "Named for leaves as big as a Buddha's-hand citron; it comes from Yongchun, Fujian.",
-        "Withered, shaken, fired, rolled, dried; the thick leaf holds aroma through many infusions."
+        "Withered, shaken, fired, rolled, dried; the thick leaf holds aroma through many infusions.",
+        "Named for leaves as big as a Buddha's-hand citron; it comes from Yongchun, Fujian."
       ],
       "zh-CN": [
-        "叶片大如佛手，故名，产自福建永春。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，叶厚耐泡。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，叶厚耐泡。",
+        "叶片大如佛手，故名，产自福建永春。"
       ],
       "zh-TW": [
-        "葉片大如佛手，故名，產自福建永春。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，葉厚耐泡。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，葉厚耐泡。",
+        "葉片大如佛手，故名，產自福建永春。"
       ]
     },
     "ko": {
@@ -11759,20 +11759,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "타이베이 무자 지역에서 19세기 말부터 만들어진 철관음입니다. 오랫동안 숯불에 배화해 두는 방식이 특징입니다.",
-        "위조 → 요청 → 살청 → 유념(구형) → 건조 → 숯불 배화. 배화를 여러 번 반복합니다."
+        "위조 → 요청 → 살청 → 유념(구형) → 건조 → 숯불 배화. 배화를 여러 번 반복합니다.",
+        "타이베이 무자 지역에서 19세기 말부터 만들어진 철관음입니다. 오랫동안 숯불에 배화해 두는 방식이 특징입니다."
       ],
       "en": [
-        "Tieguanyin made in Muzha, Taipei since the late 19th century, and known for long charcoal baking.",
-        "Withered, shaken, fired, ball-rolled, dried, then baked over charcoal in repeated rounds."
+        "Withered, shaken, fired, ball-rolled, dried, then baked over charcoal in repeated rounds.",
+        "Tieguanyin made in Muzha, Taipei since the late 19th century, and known for long charcoal baking."
       ],
       "zh-CN": [
-        "台北木栅自清末制作铁观音，以长时间炭焙著称。",
-        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥 → 炭焙，多次复焙。"
+        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥 → 炭焙，多次复焙。",
+        "台北木栅自清末制作铁观音，以长时间炭焙著称。"
       ],
       "zh-TW": [
-        "臺北木柵自清末製作鐵觀音，以長時間炭焙著稱。",
-        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥 → 炭焙，多次復焙。"
+        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥 → 炭焙，多次復焙。",
+        "臺北木柵自清末製作鐵觀音，以長時間炭焙著稱。"
       ]
     },
     "ko": {
@@ -11874,20 +11874,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "광둥 차오저우 봉황산의 단총 가운데 가장 널리 퍼진 향형입니다. 꿀과 난초 향이 겹칩니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화. 나무 한 그루에서 한 향을 냅니다."
+        "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화. 나무 한 그루에서 한 향을 냅니다.",
+        "광둥 차오저우 봉황산의 단총 가운데 가장 널리 퍼진 향형입니다. 꿀과 난초 향이 겹칩니다."
       ],
       "en": [
-        "The most widely planted aroma type among the Phoenix dancong of Chaozhou, Guangdong: honey over orchid.",
-        "Withered, shaken, fired, rolled, dried, lightly baked; each old bush gives its own aroma."
+        "Withered, shaken, fired, rolled, dried, lightly baked; each old bush gives its own aroma.",
+        "The most widely planted aroma type among the Phoenix dancong of Chaozhou, Guangdong: honey over orchid."
       ],
       "zh-CN": [
-        "潮州凤凰单丛中最普及的香型，蜜香叠兰香。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火，一树一香。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火，一树一香。",
+        "潮州凤凰单丛中最普及的香型，蜜香叠兰香。"
       ],
       "zh-TW": [
-        "潮州鳳凰單叢中最普及的香型，蜜香疊蘭香。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火，一樹一香。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火，一樹一香。",
+        "潮州鳳凰單叢中最普及的香型，蜜香疊蘭香。"
       ]
     },
     "ko": {
@@ -11989,20 +11989,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "이름은 거칠지만 향은 은은한 꽃 향이라 ‘은화향(銀花香)’으로도 부릅니다. 원래 이름은 재배지 흙 이름에서 왔다는 이야기가 전합니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화."
+        "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
+        "이름은 거칠지만 향은 은은한 꽃 향이라 ‘은화향(銀花香)’으로도 부릅니다. 원래 이름은 재배지 흙 이름에서 왔다는 이야기가 전합니다."
       ],
       "en": [
-        "The rough name hides a silvery floral aroma, so it is also sold as 'Yin Hua Xiang' (silver flower).",
-        "Withered, shaken, fired, rolled, dried, lightly baked."
+        "Withered, shaken, fired, rolled, dried, lightly baked.",
+        "The rough name hides a silvery floral aroma, so it is also sold as 'Yin Hua Xiang' (silver flower)."
       ],
       "zh-CN": [
-        "名字粗俗，香气却是清雅银花香，故又称“银花香”。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙。",
+        "名字粗俗，香气却是清雅银花香，故又称“银花香”。"
       ],
       "zh-TW": [
-        "名字粗俗，香氣卻是清雅銀花香，故又稱「銀花香」。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙。",
+        "名字粗俗，香氣卻是清雅銀花香，故又稱「銀花香」。"
       ]
     },
     "ko": {
@@ -12104,20 +12104,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "산화를 60% 안팎까지 올리고 배화한 대만의 전통식 우롱입니다. 1970년대 이후 가벼운 우롱에 밀려 줄었습니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조 → 배화. 산화가 깊어 물색이 붉습니다."
+        "위조 → 요청 → 살청 → 유념 → 건조 → 배화. 산화가 깊어 물색이 붉습니다.",
+        "산화를 60% 안팎까지 올리고 배화한 대만의 전통식 우롱입니다. 1970년대 이후 가벼운 우롱에 밀려 줄었습니다."
       ],
       "en": [
-        "Taiwan's older style, oxidised to around 60% and baked; it lost ground to light oolong from the 1970s.",
-        "Withered, shaken, fired, rolled, dried, baked; deeper oxidation gives the red liquor its name."
+        "Withered, shaken, fired, rolled, dried, baked; deeper oxidation gives the red liquor its name.",
+        "Taiwan's older style, oxidised to around 60% and baked; it lost ground to light oolong from the 1970s."
       ],
       "zh-CN": [
-        "台湾传统式乌龙，氧化约60%并焙火，1970年代后为轻发酵乌龙取代。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火，氧化深，汤色偏红。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火，氧化深，汤色偏红。",
+        "台湾传统式乌龙，氧化约60%并焙火，1970年代后为轻发酵乌龙取代。"
       ],
       "zh-TW": [
-        "臺灣傳統式烏龍，氧化約60%並焙火，1970年代後為輕發酵烏龍取代。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火，氧化深，湯色偏紅。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火，氧化深，湯色偏紅。",
+        "臺灣傳統式烏龍，氧化約60%並焙火，1970年代後為輕發酵烏龍取代。"
       ]
     },
     "ko": {
@@ -12219,20 +12219,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "타이북 치앙라이 도이매살롱 일대에서 만드는 우롱입니다. 20세기 후반 대만의 제법과 묘목이 들어와 자리 잡았습니다.",
-        "위조 → 요청 → 살청 → 구형 유념 → 건조. 태국 북부의 서늘한 고도에서 자랍니다."
+        "위조 → 요청 → 살청 → 구형 유념 → 건조. 태국 북부의 서늘한 고도에서 자랍니다.",
+        "타이북 치앙라이 도이매살롱 일대에서 만드는 우롱입니다. 20세기 후반 대만의 제법과 묘목이 들어와 자리 잡았습니다."
       ],
       "en": [
-        "Oolong from Doi Mae Salong in Chiang Rai, northern Thailand, where Taiwanese methods and seedlings arrived in the late 20th century.",
-        "Withered, shaken, fired, ball-rolled, dried, at cool northern Thai altitudes."
+        "Withered, shaken, fired, ball-rolled, dried, at cool northern Thai altitudes.",
+        "Oolong from Doi Mae Salong in Chiang Rai, northern Thailand, where Taiwanese methods and seedlings arrived in the late 20th century."
       ],
       "zh-CN": [
-        "泰国北部清莱美斯乐一带的乌龙，20世纪后期引入台湾工艺与茶苗。",
-        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。"
+        "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。",
+        "泰国北部清莱美斯乐一带的乌龙，20世纪后期引入台湾工艺与茶苗。"
       ],
       "zh-TW": [
-        "泰國北部清萊美斯樂一帶的烏龍，20世紀後期引入臺灣工藝與茶苗。",
-        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。"
+        "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。",
+        "泰國北部清萊美斯樂一帶的烏龍，20世紀後期引入臺灣工藝與茶苗。"
       ]
     },
     "ko": {
@@ -12334,20 +12334,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "베트남 선라성 목쩌우 고원의 차입니다. 20세기 초 프랑스가 차 재배를 들여왔고, 이후 대만식 우롱 제법도 들어왔습니다.",
-        "위조 → 요청 → 살청 → 유념 → 건조. 해발 1,000m 안팎의 서늘한 고원에서 자랍니다."
+        "위조 → 요청 → 살청 → 유념 → 건조. 해발 1,000m 안팎의 서늘한 고원에서 자랍니다.",
+        "베트남 선라성 목쩌우 고원의 차입니다. 20세기 초 프랑스가 차 재배를 들여왔고, 이후 대만식 우롱 제법도 들어왔습니다."
       ],
       "en": [
-        "Tea from the Moc Chau plateau in Son La, Vietnam. The French introduced tea growing in the early 20th century; Taiwanese oolong methods came later.",
-        "Withered, shaken, fired, rolled, dried at around 1,000 m."
+        "Withered, shaken, fired, rolled, dried at around 1,000 m.",
+        "Tea from the Moc Chau plateau in Son La, Vietnam. The French introduced tea growing in the early 20th century; Taiwanese oolong methods came later."
       ],
       "zh-CN": [
-        "越南山罗省木州高原的茶。20世纪初法国引入茶树栽培，后来也引进台湾乌龙工艺。",
-        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，海拔约1000米。"
+        "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥，海拔约1000米。",
+        "越南山罗省木州高原的茶。20世纪初法国引入茶树栽培，后来也引进台湾乌龙工艺。"
       ],
       "zh-TW": [
-        "越南山羅省木州高原的茶。20世紀初法國引入茶樹栽培，後來也引進臺灣烏龍工藝。",
-        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，海拔約1000米。"
+        "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥，海拔約1000米。",
+        "越南山羅省木州高原的茶。20世紀初法國引入茶樹栽培，後來也引進臺灣烏龍工藝。"
       ]
     },
     "ko": {
@@ -12449,20 +12449,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "정산소종 가운데 소나무 연기로 건조하지 않은 쪽입니다. 잎과 물색이 연기 없이 깨끗합니다.",
-        "위조 → 유념 → 산화 → 건조. 마지막 건조를 숯불에만 해 연기를 쐬지 않습니다."
+        "위조 → 유념 → 산화 → 건조. 마지막 건조를 숯불에만 해 연기를 쐬지 않습니다.",
+        "정산소종 가운데 소나무 연기로 건조하지 않은 쪽입니다. 잎과 물색이 연기 없이 깨끗합니다."
       ],
       "en": [
-        "The branch of Zhengshan Xiaozhong that is not smoke-dried: leaf and liquor are clean, without pine smoke.",
-        "Withered, rolled, oxidised, dried over charcoal only — no smoking."
+        "Withered, rolled, oxidised, dried over charcoal only — no smoking.",
+        "The branch of Zhengshan Xiaozhong that is not smoke-dried: leaf and liquor are clean, without pine smoke."
       ],
       "zh-CN": [
-        "正山小种中不经松烟熏焙的一路，叶与汤都不带烟味。",
-        "萎凋 → 揉捻 → 发酵 → 炭焙，不熏烟。"
+        "萎凋 → 揉捻 → 发酵 → 炭焙，不熏烟。",
+        "正山小种中不经松烟熏焙的一路，叶与汤都不带烟味。"
       ],
       "zh-TW": [
-        "正山小種中不經松煙燻焙的一路，葉與湯都不帶煙味。",
-        "萎凋 → 揉捻 → 發酵 → 炭焙，不燻煙。"
+        "萎凋 → 揉捻 → 發酵 → 炭焙，不燻煙。",
+        "正山小種中不經松煙燻焙的一路，葉與湯都不帶煙味。"
       ]
     },
     "ko": {
@@ -12564,20 +12564,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "광둥 잉더의 대엽종으로 만드는 홍차입니다. 진하고 밝은 물색으로 밀크티 베이스로도 씁니다.",
-        "위조 → 유념 → 산화 → 건조. 잎이 커 산화가 오래 걸립니다."
+        "위조 → 유념 → 산화 → 건조. 잎이 커 산화가 오래 걸립니다.",
+        "광둥 잉더의 대엽종으로 만드는 홍차입니다. 진하고 밝은 물색으로 밀크티 베이스로도 씁니다."
       ],
       "en": [
-        "A Guangdong black tea from large-leaf bushes at Yingde; strong and bright, and used as a milk-tea base.",
-        "Withered, rolled, oxidised, dried — the big leaf needs a long oxidation."
+        "Withered, rolled, oxidised, dried — the big leaf needs a long oxidation.",
+        "A Guangdong black tea from large-leaf bushes at Yingde; strong and bright, and used as a milk-tea base."
       ],
       "zh-CN": [
-        "广东英德大叶种红茶，浓强明亮，常作奶茶基底。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，叶大发酵时间长。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，叶大发酵时间长。",
+        "广东英德大叶种红茶，浓强明亮，常作奶茶基底。"
       ],
       "zh-TW": [
-        "廣東英德大葉種紅茶，濃強明亮，常作奶茶基底。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，葉大發酵時間長。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，葉大發酵時間長。",
+        "廣東英德大葉種紅茶，濃強明亮，常作奶茶基底。"
       ]
     },
     "ko": {
@@ -12678,20 +12678,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "흑해 연안 리제는 튀르키예 차 생산의 중심입니다. 작은 유리잔(차이 바르다)에 진하게 우려 마십니다.",
-        "위조 → 유념 → 산화 → 건조. 대부분 CTC에 가까운 잘게 부순 잎으로 만듭니다."
+        "위조 → 유념 → 산화 → 건조. 대부분 CTC에 가까운 잘게 부순 잎으로 만듭니다.",
+        "흑해 연안 리제는 튀르키예 차 생산의 중심입니다. 작은 유리잔(차이 바르다)에 진하게 우려 마십니다."
       ],
       "en": [
-        "Rize on the Black Sea coast is the centre of Turkish tea; it is brewed strong and served in small tulip glasses.",
-        "Withered, rolled, oxidised, dried; mostly finely broken leaf, close to CTC."
+        "Withered, rolled, oxidised, dried; mostly finely broken leaf, close to CTC.",
+        "Rize on the Black Sea coast is the centre of Turkish tea; it is brewed strong and served in small tulip glasses."
       ],
       "zh-CN": [
-        "黑海沿岸里泽是土耳其茶叶主产区，浓泡后用小郁金香杯饮用。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，多为细碎叶。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，多为细碎叶。",
+        "黑海沿岸里泽是土耳其茶叶主产区，浓泡后用小郁金香杯饮用。"
       ],
       "zh-TW": [
-        "黑海沿岸裡澤是土耳其茶葉主產區，濃泡後用小鬱金香杯飲用。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，多為細碎葉。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，多為細碎葉。",
+        "黑海沿岸裡澤是土耳其茶葉主產區，濃泡後用小鬱金香杯飲用。"
       ]
     },
     "ko": {
@@ -12792,20 +12792,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "말레이시아 캐머런 하이랜드의 해발 1,500m 고원 차밭에서 나는 홍차입니다. 1929년부터 이어진 농장이 유명합니다.",
-        "위조 → 유념 → 산화 → 건조. 대부분 CTC 방식으로 잘게 부숴 만듭니다."
+        "위조 → 유념 → 산화 → 건조. 대부분 CTC 방식으로 잘게 부숴 만듭니다.",
+        "말레이시아 캐머런 하이랜드의 해발 1,500m 고원 차밭에서 나는 홍차입니다. 1929년부터 이어진 농장이 유명합니다."
       ],
       "en": [
-        "Black tea from the Cameron Highlands in Malaysia, at around 1,500 m; one estate has been growing tea since 1929.",
-        "Withered, rolled, oxidised, dried; mostly CTC, finely broken."
+        "Withered, rolled, oxidised, dried; mostly CTC, finely broken.",
+        "Black tea from the Cameron Highlands in Malaysia, at around 1,500 m; one estate has been growing tea since 1929."
       ],
       "zh-CN": [
-        "马来西亚金马伦高原海拔约1500米的红茶，有1929年开园的茶园。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，多为CTC碎叶。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，多为CTC碎叶。",
+        "马来西亚金马伦高原海拔约1500米的红茶，有1929年开园的茶园。"
       ],
       "zh-TW": [
-        "馬來西亞金馬倫高原海拔約1500米的紅茶，有1929年開園的茶園。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，多為CTC碎葉。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，多為CTC碎葉。",
+        "馬來西亞金馬倫高原海拔約1500米的紅茶，有1929年開園的茶園。"
       ]
     },
     "ko": {
@@ -12906,20 +12906,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "르완다는 아프리카 동부의 고지대 차 생산국입니다. 해발 1,600~2,000m의 안개 낀 산지에서 잎이 천천히 자랍니다.",
-        "위조 → 유념 → 산화 → 건조. 대부분 CTC로 가공됩니다."
+        "위조 → 유념 → 산화 → 건조. 대부분 CTC로 가공됩니다.",
+        "르완다는 아프리카 동부의 고지대 차 생산국입니다. 해발 1,600~2,000m의 안개 낀 산지에서 잎이 천천히 자랍니다."
       ],
       "en": [
-        "Rwanda is an East African highland producer; leaf grows slowly in misty hills at 1,600–2,000 m.",
-        "Withered, rolled, oxidised, dried; mostly CTC."
+        "Withered, rolled, oxidised, dried; mostly CTC.",
+        "Rwanda is an East African highland producer; leaf grows slowly in misty hills at 1,600–2,000 m."
       ],
       "zh-CN": [
-        "卢旺达是东非高地茶产国，海拔1600~2000米雾山，叶生长慢。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，多为CTC。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，多为CTC。",
+        "卢旺达是东非高地茶产国，海拔1600~2000米雾山，叶生长慢。"
       ],
       "zh-TW": [
-        "盧安達是東非高地茶產國，海拔1600~2000米霧山，葉生長慢。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，多為CTC。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，多為CTC。",
+        "盧安達是東非高地茶產國，海拔1600~2000米霧山，葉生長慢。"
       ]
     },
     "ko": {
@@ -13020,20 +13020,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "인도 서벵골 북부, 다즐링 남쪽의 평원 지대입니다. 아삼과 다즐링 사이에 놓인 산지로 알려져 있습니다.",
-        "위조 → 유념 → 산화 → 건조. 평원의 진한 잎이라 아침 블렌드에 자주 들어갑니다."
+        "위조 → 유념 → 산화 → 건조. 평원의 진한 잎이라 아침 블렌드에 자주 들어갑니다.",
+        "인도 서벵골 북부, 다즐링 남쪽의 평원 지대입니다. 아삼과 다즐링 사이에 놓인 산지로 알려져 있습니다."
       ],
       "en": [
-        "The plains of northern West Bengal, south of Darjeeling and east of Assam — the belt between the two famous regions.",
-        "Withered, rolled, oxidised, dried; a strong plain-grown leaf often used in breakfast blends."
+        "Withered, rolled, oxidised, dried; a strong plain-grown leaf often used in breakfast blends.",
+        "The plains of northern West Bengal, south of Darjeeling and east of Assam — the belt between the two famous regions."
       ],
       "zh-CN": [
-        "印度西孟加拉北部平原，位于大吉岭以南、阿萨姆以东。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，浓强，常用于早餐拼配。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，浓强，常用于早餐拼配。",
+        "印度西孟加拉北部平原，位于大吉岭以南、阿萨姆以东。"
       ],
       "zh-TW": [
-        "印度西孟加拉北部平原，位於大吉嶺以南、阿薩姆以東。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，濃強，常用於早餐拼配。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，濃強，常用於早餐拼配。",
+        "印度西孟加拉北部平原，位於大吉嶺以南、阿薩姆以東。"
       ]
     },
     "ko": {
@@ -13134,20 +13134,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "다즐링은 봄(퍼스트), 여름(세컨드), 가을(오텀널) 세 시즌 차를 나눠 칩니다. 가을 차는 잎이 크고 짙으며 둥근 단맛이 특징입니다.",
-        "위조 → 유념 → 산화 → 건조. 세컨드 플러시보다 산화가 조금 더 진행됩니다."
+        "위조 → 유념 → 산화 → 건조. 세컨드 플러시보다 산화가 조금 더 진행됩니다.",
+        "다즐링은 봄(퍼스트), 여름(세컨드), 가을(오텀널) 세 시즌 차를 나눠 칩니다. 가을 차는 잎이 크고 짙으며 둥근 단맛이 특징입니다."
       ],
       "en": [
-        "Darjeeling is picked in three seasons — first flush, second flush and autumnal. The autumn leaf is larger, darker and rounder in sweetness.",
-        "Withered, rolled, oxidised, dried; slightly more oxidation than the second flush."
+        "Withered, rolled, oxidised, dried; slightly more oxidation than the second flush.",
+        "Darjeeling is picked in three seasons — first flush, second flush and autumnal. The autumn leaf is larger, darker and rounder in sweetness."
       ],
       "zh-CN": [
-        "大吉岭分春摘、夏摘、秋摘三季；秋摘叶大色深、甜味圆润。",
-        "萎凋 → 揉捻 → 发酵 → 干燥，发酵略重于夏摘。"
+        "萎凋 → 揉捻 → 发酵 → 干燥，发酵略重于夏摘。",
+        "大吉岭分春摘、夏摘、秋摘三季；秋摘叶大色深、甜味圆润。"
       ],
       "zh-TW": [
-        "大吉嶺分春摘、夏摘、秋摘三季；秋摘葉大色深、甜味圓潤。",
-        "萎凋 → 揉捻 → 發酵 → 乾燥，發酵略重於夏摘。"
+        "萎凋 → 揉捻 → 發酵 → 乾燥，發酵略重於夏摘。",
+        "大吉嶺分春摘、夏摘、秋摘三季；秋摘葉大色深、甜味圓潤。"
       ]
     },
     "ko": {
@@ -13249,20 +13249,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "경북 영덕은 동해 바람이 부는 곳으로, 소규모 농가가 재배한 잎으로 홍차를 만듭니다. 생산량이 적어 지역 안에서 주로 소비됩니다.",
-        "위조 → 유념 → 산화 → 건조. 여름잎을 완전 산화시켜 만듭니다."
+        "위조 → 유념 → 산화 → 건조. 여름잎을 완전 산화시켜 만듭니다.",
+        "경북 영덕은 동해 바람이 부는 곳으로, 소규모 농가가 재배한 잎으로 홍차를 만듭니다. 생산량이 적어 지역 안에서 주로 소비됩니다."
       ],
       "en": [
-        "Yeongdeok, on Korea's east coast, has small farms making black tea from locally grown leaf; volumes are small and mostly sold locally.",
-        "Withered, rolled, fully oxidised, dried — summer leaf."
+        "Withered, rolled, fully oxidised, dried — summer leaf.",
+        "Yeongdeok, on Korea's east coast, has small farms making black tea from locally grown leaf; volumes are small and mostly sold locally."
       ],
       "zh-CN": [
-        "韩国庆北盈德受东海海风影响，小农以本地鲜叶制红茶，产量少，多在当地销售。",
-        "萎凋 → 揉捻 → 全发酵 → 干燥，多用夏叶。"
+        "萎凋 → 揉捻 → 全发酵 → 干燥，多用夏叶。",
+        "韩国庆北盈德受东海海风影响，小农以本地鲜叶制红茶，产量少，多在当地销售。"
       ],
       "zh-TW": [
-        "韓國慶北盈德受東海海風影響，小農以本地鮮葉制紅茶，產量少，多在當地銷售。",
-        "萎凋 → 揉捻 → 全發酵 → 乾燥，多用夏葉。"
+        "萎凋 → 揉捻 → 全發酵 → 乾燥，多用夏葉。",
+        "韓國慶北盈德受東海海風影響，小農以本地鮮葉制紅茶，產量少，多在當地銷售。"
       ]
     },
     "ko": {
@@ -13364,20 +13364,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "차砖 안쪽에 ‘금화(金花)’라 부르는 누런 균사가 피는 것으로 유명합니다. 습도와 온도를 맞춰 두면 이 균이 자랍니다.",
-        "살청 → 유념 → 악퇴 → 압착 → 발화(發花) 건조. 발화 단계에서 금화가 생깁니다."
+        "살청 → 유념 → 악퇴 → 압착 → 발화(發花) 건조. 발화 단계에서 금화가 생깁니다.",
+        "차砖 안쪽에 ‘금화(金花)’라 부르는 누런 균사가 피는 것으로 유명합니다. 습도와 온도를 맞춰 두면 이 균이 자랍니다."
       ],
       "en": [
-        "Famous for the yellow 'golden flowers' that bloom inside the brick — a mould encouraged by controlled warmth and humidity.",
-        "Fired, rolled, piled, pressed, then dried in a 'flowering' stage where the golden flowers develop."
+        "Fired, rolled, piled, pressed, then dried in a 'flowering' stage where the golden flowers develop.",
+        "Famous for the yellow 'golden flowers' that bloom inside the brick — a mould encouraged by controlled warmth and humidity."
       ],
       "zh-CN": [
-        "以砖内长出“金花”（黄色菌花）闻名，靠温湿度控制培育。",
-        "炒青 → 揉捻 → 渥堆 → 压砖 → 发花干燥，发花阶段生成金花。"
+        "炒青 → 揉捻 → 渥堆 → 压砖 → 发花干燥，发花阶段生成金花。",
+        "以砖内长出“金花”（黄色菌花）闻名，靠温湿度控制培育。"
       ],
       "zh-TW": [
-        "以磚內長出「金花」（黃色菌花）聞名，靠溫溼度控制培育。",
-        "炒青 → 揉捻 → 渥堆 → 壓磚 → 發花乾燥，發花階段生成金花。"
+        "炒青 → 揉捻 → 渥堆 → 壓磚 → 發花乾燥，發花階段生成金花。",
+        "以磚內長出「金花」（黃色菌花）聞名，靠溫溼度控制培育。"
       ]
     },
     "ko": {
@@ -13479,20 +13479,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "대나무 껍질로 감아 압착한 긴 통차입니다. 옛 무게 단위로 1,000냥(약 36kg)에 해당해 이름이 붙었습니다.",
-        "살청 → 유념 → 악퇴 → 대나무 통에 압착 → 장기 건조. 통째로 두고 필요할 때 잘라 씁니다."
+        "살청 → 유념 → 악퇴 → 대나무 통에 압착 → 장기 건조. 통째로 두고 필요할 때 잘라 씁니다.",
+        "대나무 껍질로 감아 압착한 긴 통차입니다. 옛 무게 단위로 1,000냥(약 36kg)에 해당해 이름이 붙었습니다."
       ],
       "en": [
-        "A long log of tea compressed inside bamboo sheath; the name comes from its old weight of 1,000 liang, about 36 kg.",
-        "Fired, rolled, piled, pressed into bamboo, then dried for months; cut as needed."
+        "Fired, rolled, piled, pressed into bamboo, then dried for months; cut as needed.",
+        "A long log of tea compressed inside bamboo sheath; the name comes from its old weight of 1,000 liang, about 36 kg."
       ],
       "zh-CN": [
-        "用竹篾捆压成长柱形，旧制重千两（约36公斤），故名。",
-        "炒青 → 揉捻 → 渥堆 → 竹篾压制成柱 → 长期干燥，饮用时锯取。"
+        "炒青 → 揉捻 → 渥堆 → 竹篾压制成柱 → 长期干燥，饮用时锯取。",
+        "用竹篾捆压成长柱形，旧制重千两（约36公斤），故名。"
       ],
       "zh-TW": [
-        "用竹篾捆壓成長柱形，舊制重千兩（約36公斤），故名。",
-        "炒青 → 揉捻 → 渥堆 → 竹篾壓製成柱 → 長期乾燥，飲用時鋸取。"
+        "炒青 → 揉捻 → 渥堆 → 竹篾壓製成柱 → 長期乾燥，飲用時鋸取。",
+        "用竹篾捆壓成長柱形，舊制重千兩（約36公斤），故名。"
       ]
     },
     "ko": {
@@ -13594,20 +13594,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "쓰촨 야안에서 만드는 압착 흑차로, 티베트로 가는 ‘남로변차’ 계열입니다. 티베트에서는 우유와 소금을 더해 마십니다.",
-        "살청 → 유념 → 악퇴 → 압착 → 건조. 굵은 잎과 줄기를 섞어 단단히 누릅니다."
+        "살청 → 유념 → 악퇴 → 압착 → 건조. 굵은 잎과 줄기를 섞어 단단히 누릅니다.",
+        "쓰촨 야안에서 만드는 압착 흑차로, 티베트로 가는 ‘남로변차’ 계열입니다. 티베트에서는 우유와 소금을 더해 마십니다."
       ],
       "en": [
-        "A pressed dark tea from Ya'an, Sichuan, part of the 'southern route' brick tea trade to Tibet, where it is boiled with milk and salt.",
-        "Fired, rolled, piled, pressed, dried; coarse leaf and stem pressed hard."
+        "Fired, rolled, piled, pressed, dried; coarse leaf and stem pressed hard.",
+        "A pressed dark tea from Ya'an, Sichuan, part of the 'southern route' brick tea trade to Tibet, where it is boiled with milk and salt."
       ],
       "zh-CN": [
-        "四川雅安产的紧压黑茶，属销往西藏的“南路边茶”。",
-        "炒青 → 揉捻 → 渥堆 → 压制 → 干燥，粗叶带梗压紧。"
+        "炒青 → 揉捻 → 渥堆 → 压制 → 干燥，粗叶带梗压紧。",
+        "四川雅安产的紧压黑茶，属销往西藏的“南路边茶”。"
       ],
       "zh-TW": [
-        "四川雅安產的緊壓黑茶，屬銷往西藏的「南路邊茶」。",
-        "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥，粗葉帶梗壓緊。"
+        "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥，粗葉帶梗壓緊。",
+        "四川雅安產的緊壓黑茶，屬銷往西藏的「南路邊茶」。"
       ]
     },
     "ko": {
@@ -13823,20 +13823,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "후베이 자오리차오의 청전차입니다. 오래 묵힌 것을 ‘노청전’이라 부르며, 몽골·러시아로 가던 차 계열입니다.",
-        "살청 → 유념 → 악퇴 → 압착 → 건조. 잎과 줄기를 섞어 단단히 누릅니다."
+        "살청 → 유념 → 악퇴 → 압착 → 건조. 잎과 줄기를 섞어 단단히 누릅니다.",
+        "후베이 자오리차오의 청전차입니다. 오래 묵힌 것을 ‘노청전’이라 부르며, 몽골·러시아로 가던 차 계열입니다."
       ],
       "en": [
-        "The green-brick dark tea of Zhaoliqiao, Hubei; aged bricks are called lao qingzhuan and this is the family that once travelled to Mongolia and Russia.",
-        "Fired, rolled, piled, pressed, dried; leaf and stem pressed hard."
+        "Fired, rolled, piled, pressed, dried; leaf and stem pressed hard.",
+        "The green-brick dark tea of Zhaoliqiao, Hubei; aged bricks are called lao qingzhuan and this is the family that once travelled to Mongolia and Russia."
       ],
       "zh-CN": [
-        "湖北赵李桥的青砖茶，陈放者称“老青砖”，曾销往蒙古与俄罗斯。",
-        "炒青 → 揉捻 → 渥堆 → 压制 → 干燥。"
+        "炒青 → 揉捻 → 渥堆 → 压制 → 干燥。",
+        "湖北赵李桥的青砖茶，陈放者称“老青砖”，曾销往蒙古与俄罗斯。"
       ],
       "zh-TW": [
-        "湖北趙李橋的青磚茶，陳放者稱「老青磚」，曾銷往蒙古與俄羅斯。",
-        "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥。"
+        "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥。",
+        "湖北趙李橋的青磚茶，陳放者稱「老青磚」，曾銷往蒙古與俄羅斯。"
       ]
     },
     "ko": {
@@ -13938,20 +13938,20 @@ window.TEAFaiData = (function () {
     },
     "x": {
       "ko": [
-        "안화 흑차의 ‘상첨(湘尖)’ 가운데 가장 높은 등급입니다. 압착하지 않고 느슨하게 두는 흑차입니다.",
-        "살청 → 유념 → 악퇴 → 건조 → 용기에 담아 숙성. 압착하지 않아 잎 모양이 남습니다."
+        "살청 → 유념 → 악퇴 → 건조 → 용기에 담아 숙성. 압착하지 않아 잎 모양이 남습니다.",
+        "안화 흑차의 ‘상첨(湘尖)’ 가운데 가장 높은 등급입니다. 압착하지 않고 느슨하게 두는 흑차입니다."
       ],
       "en": [
-        "The top grade of Anhua's 'Xiangjian' dark teas, and unusual in not being pressed — the leaf stays loose.",
-        "Fired, rolled, piled, dried, then aged loose in containers."
+        "Fired, rolled, piled, dried, then aged loose in containers.",
+        "The top grade of Anhua's 'Xiangjian' dark teas, and unusual in not being pressed — the leaf stays loose."
       ],
       "zh-CN": [
-        "安化“湘尖”中等级最高者，不经压制，保持散叶。",
-        "炒青 → 揉捻 → 渥堆 → 干燥 → 装篓陈放。"
+        "炒青 → 揉捻 → 渥堆 → 干燥 → 装篓陈放。",
+        "安化“湘尖”中等级最高者，不经压制，保持散叶。"
       ],
       "zh-TW": [
-        "安化「湘尖」中等級最高者，不經壓制，保持散葉。",
-        "炒青 → 揉捻 → 渥堆 → 乾燥 → 裝簍陳放。"
+        "炒青 → 揉捻 → 渥堆 → 乾燥 → 裝簍陳放。",
+        "安化「湘尖」中等級最高者，不經壓制，保持散葉。"
       ]
     },
     "ko": {
@@ -18439,9 +18439,6 @@ window.TEAFaiData = (function () {
   /* ── END generated: research ── */
 
   var links = {
-    channel: "https://www.youtube.com/@TeaFai",
-    playlist: "https://youtu.be/5fkX0dfnHmE",
-    sleep: "https://youtu.be/sRJH76ZkajY",
     bookstore: "https://rotroka.upaper.kr",
     blog: "https://blog.naver.com/hongkongtea_kr"
   };

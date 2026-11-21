@@ -679,7 +679,7 @@ window.TEAFaiI18N = (function () {
         "The monthly plans for personal, tea-house and maker members are handled by Google Play in-app billing. Google Play handles the payment method and card details; Teakipedia never receives or stores a card number. The app only reads the subscription state Google Play reports (the product purchased and whether it is valid) to unlock a membership level, and stores that level on your device. Cancelling and refunds follow Google Play's policies and procedures.",
       "pv.s7.title": "External links and the Coupang Partners programme",
       "pv.s7.body":
-        "The app links to the Tea Fai YouTube channel, a Naver blog, the Upaper e-book store, and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
+        "The app links to a Naver blog, the Upaper e-book store, and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
       "pv.s7.note":
         "This posting is part of our Coupang Partners activity, and we receive a small commission from it.",
       "pv.s8.title": "Sharing with third parties and processing on our behalf",
@@ -776,7 +776,7 @@ window.TEAFaiI18N = (function () {
         "个人会员、茶馆会员、厂商会员的月费通过 Google Play 应用内购买处理。支付方式与卡片信息由 Google Play 处理，Teakipedia 不会直接收取或保存卡号。应用只读取 Google Play 告知的订阅状态（购买的商品与是否有效）来开启会员等级，并将该等级保存在本机。取消订阅与退款依 Google Play 的政策与流程。",
       "pv.s7.title": "外部链接与 Coupang 合作伙伴",
       "pv.s7.body":
-        "应用内有前往 Tea Fai YouTube 频道、Naver 博客、Upaper 电子书书店，以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
+        "应用内有前往 Naver 博客、Upaper 电子书书店，以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
       "pv.s7.note": "本贴文是 Coupang 合作伙伴活动的一部分，我们会因此获得一定金额的佣金。",
       "pv.s8.title": "第三方提供与委托处理",
       "pv.s8.body":
@@ -872,7 +872,7 @@ window.TEAFaiI18N = (function () {
         "個人會員、茶館會員、廠商會員的月費透過 Google Play 應用內購買處理。付款方式與卡片資訊由 Google Play 處理，Teakipedia 不會直接收取或保存卡號。應用只讀取 Google Play 告知的訂閱狀態（購買的商品與是否有效）來開啟會員等級，並把該等級保存在本機。取消訂閱與退款依 Google Play 的政策與流程。",
       "pv.s7.title": "外部連結與 Coupang 合作夥伴",
       "pv.s7.body":
-        "應用內有前往 Tea Fai YouTube 頻道、Naver 部落格、Upaper 電子書書店，以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
+        "應用內有前往 Naver 部落格、Upaper 電子書書店，以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
       "pv.s7.note": "本貼文是 Coupang 合作夥伴活動的一部分，我們會因此獲得一定金額的佣金。",
       "pv.s8.title": "第三方提供與委託處理",
       "pv.s8.body":
@@ -1252,8 +1252,7 @@ window.TEAFaiI18N = (function () {
       "shop.atTeaSub": "파트너 티룸",
       "buy.title": "이 차, 집에서 마시려면",
       "buy.sub": "추천 찻잎·다구",
-      "buy.priceNote": "판매처 기준가",
-      "buy.video": "이 차 이야기 보기"
+      "buy.priceNote": "판매처 기준가"
     },
     en: {
       "weekday.mon": "Mon",
@@ -1286,8 +1285,7 @@ window.TEAFaiI18N = (function () {
       "shop.atTeaSub": "Partner tea rooms",
       "buy.title": "To brew this at home",
       "buy.sub": "Leaves & teaware",
-      "buy.priceNote": "Seller's listed price",
-      "buy.video": "Watch the story of this tea"
+      "buy.priceNote": "Seller's listed price"
     },
     "zh-CN": {
       "weekday.mon": "周一",
@@ -1320,8 +1318,7 @@ window.TEAFaiI18N = (function () {
       "shop.atTeaSub": "合作茶室",
       "buy.title": "想在家泡这一杯",
       "buy.sub": "推荐茶叶与茶具",
-      "buy.priceNote": "卖家标价",
-      "buy.video": "看这款茶的故事"
+      "buy.priceNote": "卖家标价"
     },
     "zh-TW": {
       "weekday.mon": "週一",
@@ -1354,8 +1351,7 @@ window.TEAFaiI18N = (function () {
       "shop.atTeaSub": "合作茶室",
       "buy.title": "想在家泡這一杯",
       "buy.sub": "推薦茶葉與茶具",
-      "buy.priceNote": "賣家標價",
-      "buy.video": "看這款茶的故事"
+      "buy.priceNote": "賣家標價"
     }
   };
 
@@ -1992,7 +1988,6 @@ window.TEAFaiI18N = (function () {
       "a11y.tabbar": "주요 화면",
       "guide.origin": "원산지",
       "guide.quiz": "취향 테스트",
-      "guide.channel": "티파이 채널",
       "photo.exact": "해당 차 사진",
       "photo.family": "계열 대표 사진",
       "photo.credit": "사진 {artist} · {license}",
@@ -2093,7 +2088,6 @@ window.TEAFaiI18N = (function () {
       "a11y.tabbar": "Main screens",
       "guide.origin": "Origin",
       "guide.quiz": "Taste test",
-      "guide.channel": "Tea Fai channels",
       "photo.exact": "Photo of this tea",
       "photo.family": "Representative photo of the tea family",
       "photo.credit": "Photo {artist} · {license}",
@@ -2194,7 +2188,6 @@ window.TEAFaiI18N = (function () {
       "a11y.tabbar": "主要页面",
       "guide.origin": "产地",
       "guide.quiz": "口味测试",
-      "guide.channel": "Tea Fai 频道",
       "photo.exact": "该茶照片",
       "photo.family": "同类茶代表照片",
       "photo.credit": "照片 {artist} · {license}",
@@ -2295,7 +2288,6 @@ window.TEAFaiI18N = (function () {
       "a11y.tabbar": "主要頁面",
       "guide.origin": "產地",
       "guide.quiz": "口味測試",
-      "guide.channel": "Tea Fai 頻道",
       "photo.exact": "該茶照片",
       "photo.family": "同類茶代表照片",
       "photo.credit": "照片 {artist} · {license}",
@@ -2426,7 +2418,6 @@ window.TEAFaiI18N = (function () {
     "guide.title": "茶百科",
     "guide.origin": "產地",
     "guide.quiz": "口味測試",
-    "guide.channel": "Tea Fai 頻道",
     "guide.all": "全部",
     "guide.search": "搵茶名、香氣、產地",
     "guide.searchLeaf": "搵茶名、香氣、產地、國家",
@@ -2614,74 +2605,39 @@ window.TEAFaiI18N = (function () {
     "ko": {
       "privacy.link": "개인정보처리방침",
       "meta.desc": "녹차·우롱차·홍차·흑차·백차·황차·대용차·전통차·허브차·과일차 161종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 다섯 언어로 담은 티키피디아 앱.",
-      "ch.sub": "차 한 잔과 함께",
-      "ch.lofiLabel": "Lo-fi playlist",
-      "ch.lofiTitle": "우리기 좋은<br />로파이",
-      "ch.sleepLabel": "Sleep sound",
-      "ch.sleepTitle": "잠들기 전<br />수면 사운드",
       "ch.bookTitle": "전자책 《찻잎의 시간, 오늘의 한 잔》",
       "ch.bookSub": "유페이퍼 서점 · 얼그레이 편도 함께",
       "ch.blogTitle": "네이버 블로그",
-      "ch.youtubeTitle": "유튜브 채널 @TeaFai",
-      "ch.youtubeSub": "차 이야기와 우리기 영상",
     },
     "en": {
       "privacy.link": "Privacy policy",
       "meta.desc": "161 teas across eleven families — real leaf photos, origin, steeping temperatures and times, a store, partner tea rooms and tasting notes, in five languages.",
-      "ch.sub": "With your cup of tea",
-      "ch.lofiLabel": "Lo-fi playlist",
-      "ch.lofiTitle": "Lo-fi to<br />steep by",
-      "ch.sleepLabel": "Sleep sound",
-      "ch.sleepTitle": "Sound to<br />fall asleep to",
       "ch.bookTitle": "E-book: Time of Tea Leaves, Today's Cup",
       "ch.bookSub": "On Upaper · the Earl Grey book too",
       "ch.blogTitle": "Naver blog",
-      "ch.youtubeTitle": "YouTube @TeaFai",
-      "ch.youtubeSub": "Tea stories and brewing films",
     },
     "zh-CN": {
       "privacy.link": "隐私政策",
       "meta.desc": "十一个茶类共161种，真实茶叶照片与产地、冲泡温度与时间，商店、合作茶馆与品茶笔记，五种语言。",
-      "ch.sub": "配一杯茶",
-      "ch.lofiLabel": "Lo-fi playlist",
-      "ch.lofiTitle": "泡茶时听的<br />Lo-fi",
-      "ch.sleepLabel": "Sleep sound",
-      "ch.sleepTitle": "睡前<br />助眠声音",
       "ch.bookTitle": "电子书《茶叶的时间，今天的一杯》",
       "ch.bookSub": "Upaper 书店 · 伯爵茶篇一并",
       "ch.blogTitle": "Naver 博客",
-      "ch.youtubeTitle": "YouTube @TeaFai",
-      "ch.youtubeSub": "茶故事与冲泡影片",
     },
     "zh-TW": {
       "privacy.link": "隱私政策",
       "meta.desc": "十一個茶類共161種，真實茶葉照片與產地、沖泡溫度與時間，商店、合作茶館與品茶筆記，五種語言。",
-      "ch.sub": "配一杯茶",
-      "ch.lofiLabel": "Lo-fi playlist",
-      "ch.lofiTitle": "泡茶時聽的<br />Lo-fi",
-      "ch.sleepLabel": "Sleep sound",
-      "ch.sleepTitle": "睡前<br />助眠聲音",
       "ch.bookTitle": "電子書《茶葉的時間，今天的一杯》",
       "ch.bookSub": "Upaper 書店 · 伯爵茶篇一併",
       "ch.blogTitle": "Naver 部落格",
-      "ch.youtubeTitle": "YouTube @TeaFai",
-      "ch.youtubeSub": "茶故事與沖泡影片",
     }
   };
 
   /* 광동어 전용 추가 문구 */
   var YUE2 = {
     "privacy.link": "私隱政策",
-    "ch.sub": "配一杯茶",
-    "ch.lofiLabel": "Lo-fi playlist",
-    "ch.lofiTitle": "泡茶聽嘅<br />Lo-fi",
-    "ch.sleepLabel": "Sleep sound",
-    "ch.sleepTitle": "瞓前聽嘅<br />助眠聲",
     "ch.bookTitle": "電子書《茶葉的時間，今天一杯》",
     "ch.bookSub": "Upaper 書店 · 伯爵茶篇一齊",
     "ch.blogTitle": "Naver 部落格",
-    "ch.youtubeTitle": "YouTube @TeaFai",
-    "ch.youtubeSub": "茶故事同沖泡片",
   };
 
   /* ── 2026-11 회원 등급 3단계 (개인 ⊂ 찻집 ⊂ 제조사) ── */
@@ -3037,7 +2993,7 @@ window.TEAFaiI18N = (function () {
     "pv.s6.title": "應用內定期訂閱同付款",
     "pv.s6.body": "個人會員、茶館會員、廠商會員嘅月費經 Google Play 應用內購買處理。付款方法同卡資料由 Google Play 處理，茶基百科唔會直接收或者存卡號。應用淨係讀 Google Play 講嘅訂閱狀態（買咗邊個商品、仲有冇效）嚟開會員等級，再將呢個等級存喺部機。取消訂閱同退款跟 Google Play 嘅政策同流程。",
     "pv.s7.title": "外部連結同 Coupang 合作夥伴",
-    "pv.s7.body": "應用入面有去 Tea Fai YouTube 頻道、Naver 部落格、Upaper 電子書店，仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
+    "pv.s7.body": "應用入面有去 Naver 部落格、Upaper 電子書店，仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
     "pv.s7.note": "呢篇貼文係 Coupang 合作夥伴活動嘅一部分，我哋會因此收到一筆佣金。",
     "pv.s8.title": "第三方提供同委託處理",
     "pv.s8.body": "茶基百科為咗伺服器儲存同付款，將處理委託畀下面嘅公司。唔會賣用戶資料，亦都唔會用喺目的以外嘅用途。",
@@ -3137,7 +3093,6 @@ window.TEAFaiI18N = (function () {
     "buy.title": "想喺屋企沖呢一杯",
     "buy.sub": "推薦茶葉同茶具",
     "buy.priceNote": "賣家標價",
-    "buy.video": "睇呢款茶嘅故事",
     "tab.shops": "茶館",
     "title.shops": "搵茶館 — 茶基百科",
     "bag.type": "茶類",
@@ -3305,7 +3260,6 @@ window.TEAFaiI18N = (function () {
     "guide.toTimer": "タイマーで淹れる",
     "guide.origin": "産地",
     "guide.quiz": "お茶の好み診断",
-    "guide.channel": "Tea Fai チャンネル",
     "guide.source": "出典",
     "guide.sourceText": "『茶葉の時間、今日の一杯』『最初の着香紅茶 — アールグレイのすべて』（ChoiTea）。",
     "guide.sourceNote": "数値は書籍の付録表と各章の記述に基づきます。好みに合わせて±10秒で調整してください。",
@@ -3687,16 +3641,9 @@ window.TEAFaiI18N = (function () {
     "quiz.restart": "もう一度診断する",
     "quiz.origin": "産地",
     "quiz.firstSteep": "一煎目",
-    "ch.sub": "一杯のお茶とともに",
-    "ch.lofiLabel": "Lo-fi playlist",
-    "ch.lofiTitle": "淹れる時間の<br />Lo-fi",
-    "ch.sleepLabel": "Sleep sound",
-    "ch.sleepTitle": "眠る前の<br />サウンド",
     "ch.bookTitle": "電子書籍『茶葉の時間、今日の一杯』",
     "ch.bookSub": "Upaper 書店 · アールグレイ編も",
     "ch.blogTitle": "Naver ブログ",
-    "ch.youtubeTitle": "YouTube @TeaFai",
-    "ch.youtubeSub": "お茶の話と淹れ方の映像",
     "privacy.link": "プライバシーポリシー",
     "quiz.q1": "ふだん、いつ・なぜお茶を飲みますか？",
     "quiz.q1a": "朝、目を覚まして集中したいとき",
