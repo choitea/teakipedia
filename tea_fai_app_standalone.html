@@ -3109,6 +3109,91 @@ html[lang="zh-TW"] .quiz-q {
   color: var(--muted);
 }
 
+/* 커뮤니티 이용 안내 (UGC 정책) */
+.comm-rules {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--amber-light);
+  background: var(--amber-soft);
+  font-size: 11.5px;
+  line-height: 1.62;
+  color: #6d4a22;
+  overflow-wrap: anywhere;
+}
+
+.comm-hidden-note {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding: 9px 12px;
+  border-radius: 10px;
+  border: 1px dashed var(--line);
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.comm-hidden-note[hidden] {
+  display: none;
+}
+
+.comm-undo {
+  flex: 0 0 auto;
+  font-size: 11.5px;
+  color: #7a5227;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* 신고 사유 선택 시트 */
+.report-reasons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 4px 0 14px;
+}
+
+.report-reason {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  padding: 11px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--paper-2);
+  font-size: 12.5px;
+  line-height: 1.4;
+  color: var(--ink-soft);
+  text-align: left;
+  transition: background 0.18s, border-color 0.18s, color 0.18s;
+}
+
+.report-reason::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1.6px solid #cfc6b4;
+  background: var(--paper);
+}
+
+.report-reason.on {
+  border-color: var(--amber-light);
+  background: var(--amber-soft);
+  color: #6d4a22;
+}
+
+.report-reason.on::before {
+  border-color: var(--amber);
+  background: var(--amber);
+  box-shadow: inset 0 0 0 3px var(--paper-2);
+}
+
 .post {
   background: var(--paper-2);
   border: 1px solid var(--line);
@@ -3249,6 +3334,27 @@ html[lang="zh-TW"] .quiz-q {
   background: none;
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+/* 신고 버튼 — 글 카드 액션 줄 (도움돼요 옆) */
+.post-report {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 9px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--muted);
+  font-size: 11.5px;
+  line-height: 1.35;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+
+.post-report:hover,
+.post-report:focus-visible {
+  color: #8c4a3f;
+  border-color: #e2c3b8;
+  background: #fbf0ea;
 }
 
 /* ---------- 입점 신청 시트 ---------- */
@@ -5768,6 +5874,9 @@ h3 {
         <symbol id="ic-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
           <path d="M12 5v14M5 12h14" />
         </symbol>
+        <symbol id="ic-flag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M6 21V4.2c3.2-1.7 6.4-1.4 9.6 0V15c-3.2-1.4-6.4-1.7-9.6 0" />
+        </symbol>
         <symbol id="ic-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
           <path d="m6 6 12 12M18 6 6 18" />
         </symbol>
@@ -6143,6 +6252,8 @@ h3 {
           </button>
         </div>
 
+        <p class="comm-rules" id="commRules" data-i18n="comm.rules">욕설·광고·타인의 개인정보가 담긴 글은 숨김·삭제될 수 있어요. 부적절한 글은 ‘신고’로 알려 주세요.</p>
+
         <form class="form-card" id="postForm" autocomplete="off" hidden>
           <div class="field">
             <label data-i18n="comm.type">글 종류</label>
@@ -6173,6 +6284,7 @@ h3 {
         <div class="demo-note" id="commDemoNote"></div>
         <div class="chip-row" id="commFilterChips" role="group" aria-label="글 필터" data-i18n-aria="a11y.filter"></div>
         <div id="postList"></div>
+        <p class="comm-hidden-note" id="commHiddenNote" hidden></p>
       </section>
 
       <!-- ───────── 6. 시음 노트 ───────── -->
@@ -6338,6 +6450,28 @@ h3 {
       </div>
     </div>
 
+    <!-- 커뮤니티 글 신고 시트 (Google Play UGC 정책 — 신고·차단) -->
+    <div class="modal" id="reportModal" hidden>
+      <div class="modal-back" data-report-close></div>
+      <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="reportTitle">
+        <div class="sheet-head">
+          <h2 id="reportTitle" data-i18n="comm.reportTitle">이 글 신고하기</h2>
+          <button class="sheet-close" type="button" data-report-close aria-label="닫기" data-i18n-aria="comm.close">
+            <svg width="16" height="16"><use href="#ic-close" /></svg>
+          </button>
+        </div>
+        <div class="sheet-body">
+          <p class="sheet-lead" data-i18n="comm.reportLead">신고 사유를 골라 주세요. 신고한 글은 내 화면에서 바로 숨겨집니다.</p>
+          <div class="report-reasons" id="reportReasons" role="radiogroup" aria-labelledby="reportTitle"></div>
+          <div class="form-row">
+            <button class="btn btn-dark" type="button" id="reportSubmit" data-i18n="comm.reportSubmit">신고하고 숨기기</button>
+            <button class="btn btn-ghost" type="button" data-report-close data-i18n="comm.close">닫기</button>
+          </div>
+          <p class="sheet-help" data-i18n="comm.reportNote">여러 번 신고된 글은 운영자가 확인한 뒤 삭제될 수 있습니다.</p>
+        </div>
+      </div>
+    </div>
+
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
     <!-- 파트너·추천 데이터의 내장 사본(단일 파일 빌드에서 채웁니다). 온라인에서는 data/*.json 을 먼저 씁니다. -->
@@ -6351,6 +6485,7 @@ h3 {
      같은 화면이 서버 저장으로 바뀝니다.
    · 테이블 정의는 tea_fai_platform/schema.sql 과 맞춰 두었습니다.
        커뮤니티 글  → public.community_posts   (§15)
+     글 신고      → public.community_reports (§12-3, 없으면 기기 기록만)
        입점 신청    → public.shop_applications (§6)
        새 티백 등록 → public.community_posts (post_type=bag, 제목에 [새 티백])
        찻집 회원 업로드 → public.shop_applications (message 첫 줄에 [찻집 회원 업로드])
@@ -6366,7 +6501,8 @@ window.SUPABASE_CONFIG = {
   enabled: true,      // true 이고 url·anonKey 가 있으면 서버 모드
   tables: {
     posts: "community_posts",
-    applications: "shop_applications"
+    applications: "shop_applications",
+    reports: "community_reports"
   },
   timeoutMs: 8000
 };
@@ -6516,6 +6652,27 @@ window.TeaFaiSupabase = (function () {
     return request("GET", cfg().tables.posts, null, q);
   }
 
+  /* ---------- 커뮤니티 글 신고 ---------- */
+  /* 앱의 신고 한 건을 community_reports 행으로 옮깁니다.
+     표가 아직 없거나(404) 쓰기가 막혀 있어도 앱은 기기 기록으로 계속 동작합니다. */
+  function reportRow(rec) {
+    var r = rec || {};
+    var reason = String(r.reason || "other");
+    if (["spam", "abuse", "false", "other"].indexOf(reason) < 0) reason = "other";
+    return {
+      post_client_id: String(r.postId || "").slice(0, 80),
+      reason: reason,
+      lang: r.lang === "yue" ? "zh-TW" : r.lang || "ko"
+    };
+  }
+
+  function submitReport(rec) {
+    if (!rec || !rec.postId) {
+      return Promise.resolve({ ok: false, mode: "local", reason: "no_post" });
+    }
+    return request("POST", cfg().tables.reports || "community_reports", reportRow(rec), null, "return=minimal");
+  }
+
   /* ---------- 입점 신청 ---------- */
   /* 신청서 한 건을 shop_applications 행으로 옮깁니다.
      플랜·영업시간·태그·링크는 아직 전용 컬럼이 없어 message 에 함께 적습니다. */
@@ -6626,6 +6783,8 @@ window.TeaFaiSupabase = (function () {
     mode: mode,
     submitPost: submitPost,
     fetchPosts: fetchPosts,
+    submitReport: submitReport,
+    reportRow: reportRow,
     submitApplication: submitApplication,
     submitTeaBag: submitTeaBag,
     submitShopUpload: submitShopUpload,
@@ -10485,9 +10644,112 @@ window.TEAFaiI18N = (function () {
     "partner.listTitle": "合作舖頭"
   };
 
+  /* ── 2026-11 UGC(사용자 생성 콘텐츠) 대응 — 커뮤니티 신고·이용 안내 ──
+     구글 플레이 UGC 정책용이라 6개 언어를 모두 직접 적었습니다(ja·yue 포함). */
+  var V16 = {
+    ko: {
+      "comm.rules": "욕설·광고·타인의 개인정보가 담긴 글은 숨김·삭제될 수 있어요. 부적절한 글은 ‘신고’로 알려 주세요.",
+      "comm.report": "신고",
+      "comm.reportTitle": "이 글 신고하기",
+      "comm.reportLead": "신고 사유를 골라 주세요. 신고한 글은 내 화면에서 바로 숨겨집니다.",
+      "comm.reportSpam": "스팸·광고",
+      "comm.reportAbuse": "욕설·부적절한 표현",
+      "comm.reportFalse": "허위·오해 정보",
+      "comm.reportOther": "기타",
+      "comm.reportSubmit": "신고하고 숨기기",
+      "comm.reported": "신고가 접수되었으며 이 글은 숨겨졌습니다.",
+      "comm.reportNote": "여러 번 신고된 글은 운영자가 확인한 뒤 삭제될 수 있습니다.",
+      "comm.reportAria": "{nick}님의 글 신고하기",
+      "comm.hiddenNote": "신고로 숨긴 글 {n}개",
+      "comm.undo": "되돌리기"
+    },
+    en: {
+      "comm.rules": "Posts with abuse, ads, or other people's personal info may be hidden or removed. Use “Report” to flag a post.",
+      "comm.report": "Report",
+      "comm.reportTitle": "Report this post",
+      "comm.reportLead": "Choose a reason. The post is hidden from your screen right away.",
+      "comm.reportSpam": "Spam or ads",
+      "comm.reportAbuse": "Abuse or offensive language",
+      "comm.reportFalse": "False or misleading info",
+      "comm.reportOther": "Other",
+      "comm.reportSubmit": "Report and hide",
+      "comm.reported": "Report received — this post is hidden.",
+      "comm.reportNote": "Posts reported repeatedly may be reviewed and removed by the operator.",
+      "comm.reportAria": "Report the post by {nick}",
+      "comm.hiddenNote": "Hidden after report: {n}",
+      "comm.undo": "Undo"
+    },
+    "zh-CN": {
+      "comm.rules": "含辱骂、广告或他人个人信息的帖子可能被隐藏或删除。发现不当内容请点“举报”。",
+      "comm.report": "举报",
+      "comm.reportTitle": "举报这篇帖子",
+      "comm.reportLead": "请选择举报理由。举报的帖子会立即在你的画面中隐藏。",
+      "comm.reportSpam": "垃圾信息·广告",
+      "comm.reportAbuse": "辱骂·不当表达",
+      "comm.reportFalse": "虚假·误导信息",
+      "comm.reportOther": "其他",
+      "comm.reportSubmit": "举报并隐藏",
+      "comm.reported": "举报已提交，该帖子已隐藏。",
+      "comm.reportNote": "被多次举报的帖子经运营者确认后可能被删除。",
+      "comm.reportAria": "举报{nick}的帖子",
+      "comm.hiddenNote": "已举报隐藏的帖子 {n} 篇",
+      "comm.undo": "恢复"
+    },
+    "zh-TW": {
+      "comm.rules": "含辱罵、廣告或他人個資的貼文可能被隱藏或刪除。發現不當內容請點「檢舉」。",
+      "comm.report": "檢舉",
+      "comm.reportTitle": "檢舉這篇貼文",
+      "comm.reportLead": "請選擇檢舉理由。檢舉的貼文會立即在你的畫面中隱藏。",
+      "comm.reportSpam": "垃圾訊息·廣告",
+      "comm.reportAbuse": "辱罵·不當表達",
+      "comm.reportFalse": "虛假·誤導資訊",
+      "comm.reportOther": "其他",
+      "comm.reportSubmit": "檢舉並隱藏",
+      "comm.reported": "檢舉已送出，此貼文已隱藏。",
+      "comm.reportNote": "被多次檢舉的貼文經營運者確認後可能被刪除。",
+      "comm.reportAria": "檢舉{nick}的貼文",
+      "comm.hiddenNote": "已檢舉隱藏的貼文 {n} 篇",
+      "comm.undo": "復原"
+    },
+    ja: {
+      "comm.rules": "暴言・広告・他人の個人情報を含む投稿は非表示または削除されることがあります。不適切な投稿は「通報」からお知らせください。",
+      "comm.report": "通報",
+      "comm.reportTitle": "この投稿を通報",
+      "comm.reportLead": "通報する理由を選んでください。通報した投稿はすぐにこの画面から非表示になります。",
+      "comm.reportSpam": "スパム・宣伝",
+      "comm.reportAbuse": "暴言・不適切な表現",
+      "comm.reportFalse": "虚偽・誤解を招く情報",
+      "comm.reportOther": "その他",
+      "comm.reportSubmit": "通報して非表示",
+      "comm.reported": "通報を受け付けました。この投稿は非表示にしました。",
+      "comm.reportNote": "複数回通報された投稿は、運営者の確認後に削除されることがあります。",
+      "comm.reportAria": "{nick}さんの投稿を通報",
+      "comm.hiddenNote": "通報で非表示にした投稿 {n} 件",
+      "comm.undo": "元に戻す"
+    }
+  };
+
+  /* 광동어(홍콩 구어체) — V16 문구를 廣東話로 */
+  var YUE6 = {
+    "comm.rules": "含粗口、廣告或者他人個人資料嘅帖子可能會被隱藏或者刪除。見到唔適當嘅內容，請㩒「舉報」。",
+    "comm.report": "舉報",
+    "comm.reportTitle": "舉報呢篇帖",
+    "comm.reportLead": "揀個舉報原因。舉報咗嘅帖會即刻喺你畫面度收埋。",
+    "comm.reportSpam": "垃圾訊息·廣告",
+    "comm.reportAbuse": "粗口·唔適當嘅說話",
+    "comm.reportFalse": "假消息·誤導資訊",
+    "comm.reportOther": "其他",
+    "comm.reportSubmit": "舉報並收埋",
+    "comm.reported": "收到你嘅舉報，呢篇帖已經收埋。",
+    "comm.reportNote": "俾人多次舉報嘅帖，營運者睇完之後可能會刪。",
+    "comm.reportAria": "舉報{nick}嘅帖",
+    "comm.hiddenNote": "舉報咗收埋嘅帖 {n} 篇",
+    "comm.undo": "還原"
+  };
+
   var dictFor = {};
 
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14];
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -10506,6 +10768,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE3) merged[k] = YUE3[k];
       for (k in YUE4) merged[k] = YUE4[k];
       for (k in YUE5) merged[k] = YUE5[k];
+      for (k in YUE6) merged[k] = YUE6[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
@@ -34833,11 +35096,14 @@ window.TEAFaiDataYue = (function () {
   var POSTS_KEY = "teafai.posts.v1";
   var APPS_KEY = "teafai.applications.v1";
   var REACT_KEY = "teafai.reactions.v1";
+  /* UGC 신고 — 신고 기록과 "내 화면에서 숨긴 글" 목록 (Google Play 정책 대응) */
+  var REPORTS_KEY = "teafai.reports.v1";
+  var HIDDEN_KEY = "teafai.posts.hidden.v1";
 
   var FEATURE = { bags: null, cafes: null, plans: null };
   var bagState = { q: "", brand: "all", type: "all", tag: "all", caffeine: "all", open: null };
   var cafeState = { q: "", region: "all", tag: "all", open: null };
-  var commState = { filter: "all", type: "review", rating: 0 };
+  var commState = { filter: "all", type: "review", rating: 0, reportId: null, reportReason: "spam", reportFocus: null };
   var applyState = { plan: null, tags: [], result: null };
 
   /* 취향 태그 가운데 화면에 보여 줄 8개 (TRAITS 어휘와 같습니다) */
@@ -35563,6 +35829,43 @@ window.TEAFaiDataYue = (function () {
     storeSet(REACT_KEY, map);
   }
 
+  /* ---------------- 신고·숨김 (UGC 정책) ----------------
+     신고는 이 기기에 먼저 기록하고, 서버(community_reports)가 열려 있으면
+     함께 올립니다. 신고한 글은 즉시 내 화면에서 숨기고, 새로고침해도 유지합니다. */
+  function loadHidden() {
+    var raw = storeGet(HIDDEN_KEY, []);
+    return Array.isArray(raw) ? raw : [];
+  }
+  function isPostHidden(id, list) {
+    return (list || loadHidden()).indexOf(id) >= 0;
+  }
+  function hidePost(id) {
+    var list = loadHidden();
+    if (list.indexOf(id) < 0) {
+      list.push(id);
+      storeSet(HIDDEN_KEY, list);
+    }
+  }
+  function unhidePost(id) {
+    storeSet(
+      HIDDEN_KEY,
+      loadHidden().filter(function (x) {
+        return x !== id;
+      })
+    );
+  }
+  function saveReportRecord(rec) {
+    var list = storeGet(REPORTS_KEY, []);
+    if (!Array.isArray(list)) list = [];
+    list.push(rec);
+    storeSet(REPORTS_KEY, list);
+  }
+  function postById(id) {
+    var all = allPosts();
+    for (var i = 0; i < all.length; i++) if (all[i].id === id) return all[i];
+    return null;
+  }
+
   function allPosts() {
     return SEED_POSTS.concat(loadPosts()).sort(function (a, b) {
       return (b.createdAt || 0) - (a.createdAt || 0);
@@ -35587,6 +35890,8 @@ window.TEAFaiDataYue = (function () {
     var subject = pv("teaName", p.teaName);
     return (
       '<article class="post" data-post="' +
+      esc(p.id) +
+      '" data-post-id="' +
       esc(p.id) +
       '">' +
       '<div class="post-top"><span class="post-type ' +
@@ -35628,6 +35933,13 @@ window.TEAFaiDataYue = (function () {
       " " +
       helpN +
       "</span></button>" +
+      '<button class="post-report" type="button" data-report data-id="' +
+      esc(p.id) +
+      '" aria-label="' +
+      esc(t("comm.reportAria", { nick: pv("nickname", p.nickname) })) +
+      '">' +
+      esc(t("comm.report")) +
+      "</button>" +
       (!p.seed
         ? '<button class="re-btn del" type="button" data-post-del="' + esc(p.id) + '">' + esc(t("comm.delete")) + "</button>"
         : "") +
@@ -35663,7 +35975,9 @@ window.TEAFaiDataYue = (function () {
   function renderPostList() {
     var list = $("#postList");
     if (!list) return;
+    var hiddenIds = loadHidden();
     var posts = allPosts().filter(function (p) {
+      if (isPostHidden(p.id, hiddenIds)) return false;
       return commState.filter === "all" || p.type === commState.filter;
     });
     var note = $("#commDemoNote");
@@ -35680,9 +35994,30 @@ window.TEAFaiDataYue = (function () {
     }
     if (!posts.length) {
       list.innerHTML = '<div class="empty">' + esc(t("comm.empty")) + "</div>";
+      renderHiddenNote(hiddenIds);
       return;
     }
     list.innerHTML = posts.map(postHtml).join("");
+    renderHiddenNote(hiddenIds);
+  }
+
+  /* 신고로 숨긴 글이 있으면 개수와 되돌리기를 보여 줍니다 */
+  function renderHiddenNote(hiddenIds) {
+    var note = $("#commHiddenNote");
+    if (!note) return;
+    var n = (hiddenIds || []).length;
+    if (!n) {
+      note.hidden = true;
+      note.innerHTML = "";
+      return;
+    }
+    note.hidden = false;
+    note.innerHTML =
+      "<span>" +
+      esc(t("comm.hiddenNote", { n: n })) +
+      '</span><button class="comm-undo" type="button" id="commUndoHide">' +
+      esc(t("comm.undo")) +
+      "</button>";
   }
 
   function renderPostForm() {
@@ -35753,6 +36088,111 @@ window.TEAFaiDataYue = (function () {
       sel.innerHTML = html;
       sel.value = prev || "";
     }
+  }
+
+  /* ---------------- 신고 시트 (사유 선택) ---------------- */
+  var REPORT_REASONS = [
+    { id: "spam", key: "comm.reportSpam" },
+    { id: "abuse", key: "comm.reportAbuse" },
+    { id: "false", key: "comm.reportFalse" },
+    { id: "other", key: "comm.reportOther" }
+  ];
+
+  function renderReportSheet() {
+    var wrap = $("#reportReasons");
+    if (!wrap) return;
+    wrap.innerHTML = "";
+    REPORT_REASONS.forEach(function (item) {
+      var on = commState.reportReason === item.id;
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "report-reason" + (on ? " on" : "");
+      btn.setAttribute("role", "radio");
+      btn.setAttribute("aria-checked", String(on));
+      btn.setAttribute("data-reason", item.id);
+      btn.textContent = t(item.key);
+      btn.addEventListener("click", function () {
+        commState.reportReason = item.id;
+        renderReportSheet();
+      });
+      wrap.appendChild(btn);
+    });
+  }
+
+  function openReport(id, fromEl) {
+    if (!postById(id)) return;
+    commState.reportId = id;
+    commState.reportReason = "spam";
+    commState.reportFocus = fromEl || null;
+    var modal = $("#reportModal");
+    if (!modal) return;
+    renderReportSheet();
+    modal.hidden = false;
+    document.body.classList.add("modal-open");
+    var first = $("#reportReasons .report-reason");
+    if (first) first.focus();
+  }
+
+  function closeReport() {
+    var modal = $("#reportModal");
+    if (!modal) return;
+    modal.hidden = true;
+    document.body.classList.remove("modal-open");
+    commState.reportId = null;
+    if (commState.reportFocus && commState.reportFocus.focus) {
+      try {
+        commState.reportFocus.focus();
+      } catch (e) {}
+    }
+    commState.reportFocus = null;
+  }
+
+  /* 신고 접수 — 기기에 기록 → 서버 신고표가 있으면 함께 전송 → 내 화면에서 숨김 */
+  function submitReport() {
+    var id = commState.reportId;
+    if (!id) return;
+    var post = postById(id);
+    var rec = {
+      postId: id,
+      reason: commState.reportReason || "other",
+      postType: (post && post.type) || "",
+      lang: lang,
+      createdAt: Date.now()
+    };
+    saveReportRecord(rec);
+    hidePost(id);
+    closeReport();
+    renderPostList();
+    toast(t("comm.reported"));
+    if (window.TeaFaiSupabase && typeof window.TeaFaiSupabase.submitReport === "function") {
+      try {
+        window.TeaFaiSupabase.submitReport(rec).catch(function () {});
+      } catch (e) {}
+    }
+  }
+
+  function bindReportSheet() {
+    var modal = $("#reportModal");
+    if (!modal) return;
+    var closers = modal.querySelectorAll("[data-report-close]");
+    for (var i = 0; i < closers.length; i++) {
+      closers[i].addEventListener("click", closeReport);
+    }
+    var submit = $("#reportSubmit");
+    if (submit) submit.addEventListener("click", submitReport);
+    var undo = $("#commHiddenNote");
+    if (undo) {
+      undo.addEventListener("click", function (e) {
+        var btn = e.target.closest ? e.target.closest("#commUndoHide") : null;
+        if (!btn) return;
+        var ids = loadHidden();
+        if (ids.length) unhidePost(ids[ids.length - 1]);
+        renderPostList();
+      });
+    }
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && modal && !modal.hidden) closeReport();
+    });
   }
 
   function bindCommunity() {
@@ -35841,6 +36281,11 @@ window.TEAFaiDataYue = (function () {
     var list = $("#postList");
     if (list) {
       list.addEventListener("click", function (e) {
+        var repBtn = e.target.closest ? e.target.closest("[data-report]") : null;
+        if (repBtn) {
+          openReport(repBtn.getAttribute("data-id"), repBtn);
+          return;
+        }
         var reactBtn = e.target.closest ? e.target.closest("[data-react]") : null;
         if (reactBtn) {
           var id = reactBtn.getAttribute("data-id");
@@ -36373,6 +36818,7 @@ window.TEAFaiDataYue = (function () {
     renderCommFilters();
     renderPostForm();
     renderPostList();
+    renderReportSheet();
     renderApplyMeta();
     renderBagMode();
     if (currentView === "quiz") renderQuiz();
@@ -36429,6 +36875,7 @@ window.TEAFaiDataYue = (function () {
     renderCommFilters();
     initGuideTabs();
     bindCommunity();
+    bindReportSheet();
     bindApply();
     bindQuiz();
     $("#noteForm").addEventListener("submit", submitNote);
