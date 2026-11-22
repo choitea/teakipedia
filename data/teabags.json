@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-23",
-  "note": "티백 113종·15개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 타바론(타바론 공식몰)·아마드티(아마드티 공식 스토어)는 제품별 안내를 그대로 옮겼으며(brewSource: brand), 트와이닝은 공식 사이트가 물 온도를 밝히지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). 타바론·아마드티의 제품 안내가 없는 항목도 같은 차종 기준을 따랐습니다. 허브차·과일 인퓨전과 잎차 전용 제품, 여러 차가 섞인 선물·시음 세트는 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드). 아만프리미엄티는 공식몰(amanpremiumtea.co.kr)의 소량·대량 티백 중 차나무 잎을 쓴 홍차·가향차·백차·우롱차·보이차·녹차만 담았고, 루이보스·캐모마일·마테·민트·히비스커스 같은 허브차와 선물·시음 세트, 17종 중 선택하는 묶음 상품은 넣지 않았습니다. 같은 차의 10·50·100개입과 퍼플 리필 등 용량만 다른 포장은 대표 1종으로 합쳤고, 공식몰이 우림 온도를 밝히지 않아 차종 기준을 따랐습니다(brewSource: category).",
+  "note": "티백 169종·15개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 트와이닝은 공식 사이트(twinings.co.uk)의 Fruit & Herbal·Redbush 라인, 타바론은 공식몰의 허브차 카테고리, 아마드티는 아마드티 공식 스토어의 허브차·과일차, 아만프리미엄티는 공식몰의 티백 상품을 옮겼습니다. 우림 온도·시간은 트와이닝(끓는 물 3분)·타바론(100℃ 5분)·아마드티(100℃ 5분)가 공식 안내를 밝혀 그대로 적었고(brewSource: brand), 오설록·아만프리미엄티처럼 온도를 밝히지 않은 곳은 같은 차종의 일반 기준을 따랐습니다(brewSource: category). 무카페인 여부는 허브·과일 인퓨전을 caffeine: false로 두고, 마테가 든 아만프리미엄티 로스트 인 초콜릿만 true로 적었습니다. 같은 차의 10·50·100개입과 퍼플 리필처럼 용량만 다른 포장은 대표 1종으로 합쳤고, 잎차 전용 제품, 여러 차가 섞인 선물·시음 세트, 콜드브루 전용, 티 파우더와 아만프리미엄티의 17종 중 택1 묶음 상품은 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 560×560 흰 배경으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
   "brands": {
     "twinings": {
       "name": "Twinings",
@@ -4188,6 +4188,2007 @@
         "f": "images/teabags/aman-jasmine-green.jpg",
         "cr": "amanpremiumtea.co.kr",
         "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=282"
+      }
+    },
+    {
+      "id": "twinings-pure-peppermint",
+      "brand": "twinings",
+      "name": {
+        "ko": "페퍼민트",
+        "en": "Pure Peppermint",
+        "zh-CN": "纯薄荷",
+        "zh-TW": "純薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "박하 잎만 담은 무카페인 티백. 청량함이 곧바로 올라오고 뒤끝이 개운해 식후나 늦은 밤에 좋습니다.",
+        "en": "Pure peppermint leaf with nothing added. A bright, cooling cup that finishes clean, good after a meal or late at night.",
+        "zh-CN": "只装薄荷叶的无咖啡因茶包，清凉感直接、收口干净，适合餐后或深夜饮用。",
+        "zh-TW": "只裝薄荷葉的無咖啡因茶包，清涼感直接、收口乾淨，適合餐後或深夜飲用。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-pure-peppermint.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/pure-peppermint-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-pure-fennel",
+      "brand": "twinings",
+      "name": {
+        "ko": "페넬",
+        "en": "Pure Fennel",
+        "zh-CN": "纯茴香",
+        "zh-TW": "純茴香"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "회향(페넬) 향이 달큰하게 퍼지는 무카페인 티백. 식후 소화를 돕는 차로 알려져 있고, 우유 없이 마시는 편이 향을 잘 살립니다.",
+        "en": "Sweet, aniseed-like fennel on its own. A traditional after-dinner digestif that keeps its aroma best without milk.",
+        "zh-CN": "带有甘甜茴香香气的无咖啡因茶包，传统上作为餐后助消化的茶饮，不加牛奶更能保留香气。",
+        "zh-TW": "帶有甘甜茴香香氣的無咖啡因茶包，傳統上作為餐後助消化的茶飲，不加牛奶更能保留香氣。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-pure-fennel.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/pure-fennel-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-lemon-ginger",
+      "brand": "twinings",
+      "name": {
+        "ko": "레몬 & 생강",
+        "en": "Lemon & Ginger",
+        "zh-CN": "柠檬生姜",
+        "zh-TW": "檸檬生薑"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "a-grass",
+        "k-crisp",
+        "s-hot",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "레몬 껍질과 생강 뿌리를 함께 담아 상큼하면서 알싸합니다. 몸이 으슬으슬할 때나 식후에 진하게 우려 마시기 좋습니다.",
+        "en": "Lemon peel and ginger root together: zesty first, then a gentle warmth. Best brewed a little stronger when you feel a chill or after eating.",
+        "zh-CN": "柠檬果皮与生姜根同装，先是清爽后带辛暖，身体发冷或餐后泡浓一点很好。",
+        "zh-TW": "檸檬果皮與生薑根同裝，先是清爽後帶辛暖，身體發冷或餐後泡濃一點很好。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-lemon-ginger.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/lemon-ginger-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-spiced-ginger",
+      "brand": "twinings",
+      "name": {
+        "ko": "스파이스드 진저",
+        "en": "Spiced Ginger",
+        "zh-CN": "香料生姜",
+        "zh-TW": "香料生薑"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "생강 70%에 감초·시나몬·정향을 더해 달콤하고 매콤합니다. 감초가 들어 있어 고혈압이 있다면 많이 마시지 않는 편이 좋습니다.",
+        "en": "Ginger root with liquorice, cinnamon and clove: sweet first, then a peppery heat. Contains liquorice, so those with high blood pressure should keep intake modest.",
+        "zh-CN": "生姜为主，加入甘草、肉桂与丁香，先甜后辛。含甘草，血压偏高者宜适量。",
+        "zh-TW": "生薑為主，加入甘草、肉桂與丁香，先甜後辛。含甘草，血壓偏高者宜適量。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-spiced-ginger.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/spiced-ginger-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-buttermint",
+      "brand": "twinings",
+      "name": {
+        "ko": "버터민트",
+        "en": "Buttermint",
+        "zh-CN": "奶油薄荷",
+        "zh-TW": "奶油薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "페퍼민트에 바닐라 향을 더해 버터처럼 부드럽습니다. 민트의 청량함과 단 향이 함께 남습니다.",
+        "en": "Peppermint softened with vanilla: minty coolness up front, a buttery sweetness behind it.",
+        "zh-CN": "薄荷加入香草，口感像黄油般柔滑，清凉之后留有甜香。",
+        "zh-TW": "薄荷加入香草，口感像奶油般柔滑，清涼之後留有甜香。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-buttermint.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/buttermint-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-liquorice-spearmint",
+      "brand": "twinings",
+      "name": {
+        "ko": "리코리스 & 스피어민트",
+        "en": "Liquorice & Spearmint",
+        "zh-CN": "甘草留兰香",
+        "zh-TW": "甘草綠薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "감초의 단맛에 스피어민트와 레몬 껍질을 더했습니다. 설탕 없이도 달고, 감초가 들어 있어 고혈압이면 양을 줄이는 편이 좋습니다.",
+        "en": "Liquorice sweetness cooled by spearmint and lifted with lemon peel. Sweet without sugar, but contains liquorice, which those with high blood pressure should limit.",
+        "zh-CN": "甘草的甜味配上留兰香与柠檬皮，不加糖也甜；含甘草，血压偏高者应控制饮用量。",
+        "zh-TW": "甘草的甜味配上綠薄荷與檸檬皮，不加糖也甜；含甘草，血壓偏高者應控制飲用量。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-liquorice-spearmint.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/liquorice-spearmint-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-camomile-honey-vanilla",
+      "brand": "twinings",
+      "name": {
+        "ko": "캐모마일 허니 & 바닐라",
+        "en": "Camomile, Honey & Vanilla",
+        "zh-CN": "洋甘菊蜂蜜香草",
+        "zh-TW": "洋甘菊蜂蜜香草"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일 꽃에 꿀과 바닐라 향을 입혀 달큰합니다. 꽃향 위로 단 향이 길게 남아 잠들기 전 한 잔으로 좋습니다.",
+        "en": "Camomile flowers flavoured with honey and vanilla. The floral note gives way to a long sweetness, an easy cup before bed.",
+        "zh-CN": "洋甘菊花加上蜂蜜与香草香气，甜味绵长，睡前一杯很合适。",
+        "zh-TW": "洋甘菊花加上蜂蜜與香草香氣，甜味綿長，睡前一杯很合適。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-camomile-honey-vanilla.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/camomile-honey-vanilla-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-camomile-orange",
+      "brand": "twinings",
+      "name": {
+        "ko": "캐모마일 & 오렌지",
+        "en": "Camomile & Orange",
+        "zh-CN": "洋甘菊橙子",
+        "zh-TW": "洋甘菊橙子"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "캐모마일 꽃에 오렌지 향과 라임플라워를 더했습니다. 향이 가볍고 산뜻해 낮에도 부담 없이 마시기 좋습니다.",
+        "en": "Camomile with orange flavouring and limeflower. Light and airy rather than heavy, so it works in the daytime too.",
+        "zh-CN": "洋甘菊加入橙子香气与菩提花，轻盈清爽，白天喝也不觉负担。",
+        "zh-TW": "洋甘菊加入橙子香氣與菩提花，輕盈清爽，白天喝也不覺負擔。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-camomile-orange.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/camomile-orange-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-strawberry-raspberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "스트로베리 & 라즈베리",
+        "en": "Strawberry & Raspberry",
+        "zh-CN": "草莓覆盆子",
+        "zh-TW": "草莓覆盆子"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스를 바탕으로 딸기와 라즈베리 향을 더해 잼처럼 진합니다. 차게 마시면 베리 향이 더 살아납니다.",
+        "en": "Hibiscus-based with strawberry and raspberry flavouring, jammy and bright. Serve it chilled and the berries come forward.",
+        "zh-CN": "以洛神花为底，加入草莓与覆盆子香气，果酱般浓郁，冰镇后莓果香更明显。",
+        "zh-TW": "以洛神花為底，加入草莓與覆盆子香氣，果醬般濃郁，冰鎮後莓果香更明顯。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-strawberry-raspberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/strawberry-raspberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-cranberry-raspberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "크랜베리 & 라즈베리",
+        "en": "Cranberry & Raspberry",
+        "zh-CN": "蔓越莓覆盆子",
+        "zh-TW": "蔓越莓覆盆子"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "크랜베리의 새콤함에 라즈베리의 단 향이 겹칩니다. 붉은 수색이 곱고 아이스로도 잘 어울립니다.",
+        "en": "Tart cranberry rounded out by ripe raspberry. Deep red in the cup and just as good over ice.",
+        "zh-CN": "蔓越莓的酸配上成熟的覆盆子甜香，茶汤红艳，做冰饮也合适。",
+        "zh-TW": "蔓越莓的酸配上成熟的覆盆子甜香，茶湯紅豔，做冰飲也合適。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-cranberry-raspberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/cranberry-raspberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-mango-strawberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "망고 & 스트로베리",
+        "en": "Mango & Strawberry",
+        "zh-CN": "芒果草莓",
+        "zh-TW": "芒果草莓"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "망고의 열대 향에 딸기와 라임을 더했습니다. 단 향이 강해 아이스티로 만들면 잘 어울립니다.",
+        "en": "Tropical mango with strawberry and a squeeze of lime. Sweet and forward, and a natural for iced tea.",
+        "zh-CN": "芒果的热带香气加上草莓与青柠，甜香突出，很适合做成冰茶。",
+        "zh-TW": "芒果的熱帶香氣加上草莓與青檸，甜香突出，很適合做成冰茶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-mango-strawberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/mango-strawberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-blood-orange-cranberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "블러드 오렌지 & 크랜베리",
+        "en": "Blood Orange & Cranberry",
+        "zh-CN": "血橙蔓越莓",
+        "zh-TW": "血橙蔓越莓"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "블러드 오렌지·크랜베리·석류 향을 겹친 과일 인퓨전. 새콤하면서 향이 진해 차게 마셔도 심심하지 않습니다.",
+        "en": "Blood orange, cranberry and pomegranate layered together: tangy and aromatic, still full-bodied when chilled.",
+        "zh-CN": "血橙、蔓越莓与石榴香气叠加，酸香浓郁，冰饮也不显单薄。",
+        "zh-TW": "血橙、蔓越莓與石榴香氣疊加，酸香濃郁，冰飲也不顯單薄。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-blood-orange-cranberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/blood-orange-cranberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-blackcurrant-blueberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "블랙커런트 & 블루베리",
+        "en": "Blackcurrant & Blueberry",
+        "zh-CN": "黑加仑蓝莓",
+        "zh-TW": "黑加侖藍莓"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "블랙커런트와 블루베리에 레몬을 짜 넣은 듯한 향. 어린 시절 마시던 베리 주스 같은 달콤함이 납니다.",
+        "en": "Blackcurrant and blueberry with a squeeze of lemon, sweet in the way berry cordial is.",
+        "zh-CN": "黑加仑与蓝莓带一点柠檬，甜味像小时候喝的莓果果汁。",
+        "zh-TW": "黑加侖與藍莓帶一點檸檬，甜味像小時候喝的莓果果汁。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-blackcurrant-blueberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/blackcurrant-blueberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-raspberry-lemon",
+      "brand": "twinings",
+      "name": {
+        "ko": "라즈베리 & 레몬",
+        "en": "Raspberry & Lemon",
+        "zh-CN": "覆盆子柠檬",
+        "zh-TW": "覆盆子檸檬"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "라즈베리 향에 레몬 껍질과 장미 꽃잎을 더했습니다. 새콤함 뒤에 꽃향이 은은하게 남습니다.",
+        "en": "Raspberry with lemon peel and a sprinkle of rose petals; the tartness gives way to a soft floral finish.",
+        "zh-CN": "覆盆子香气加入柠檬皮与玫瑰花瓣，酸甜之后留下淡淡花香。",
+        "zh-TW": "覆盆子香氣加入檸檬皮與玫瑰花瓣，酸甜之後留下淡淡花香。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-raspberry-lemon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/raspberry-lemon-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-peach-orange",
+      "brand": "twinings",
+      "name": {
+        "ko": "피치 & 오렌지",
+        "en": "Peach & Orange",
+        "zh-CN": "蜜桃橙子",
+        "zh-TW": "蜜桃柳橙"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "복숭아 향에 오렌지 껍질과 바오밥 열매를 더했습니다. 달콤한 복숭아 위에 시트러스가 살짝 얹힙니다.",
+        "en": "Peach with orange peel and baobab fruit: sweet stone fruit with a citrus edge.",
+        "zh-CN": "蜜桃香气加入橙皮与猴面包树果，甜桃之上带一丝柑橘清爽。",
+        "zh-TW": "蜜桃香氣加入橙皮與猴麵包樹果，甜桃之上帶一絲柑橘清爽。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-peach-orange.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/peach-orange-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-peach-vanilla",
+      "brand": "twinings",
+      "name": {
+        "ko": "피치 & 바닐라",
+        "en": "Peach & Vanilla",
+        "zh-CN": "蜜桃香草",
+        "zh-TW": "蜜桃香草"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "복숭아에 바닐라를 더해 벨벳처럼 부드럽습니다. 단 향이 좋아 디저트와 함께 마시기 좋습니다.",
+        "en": "Peach rounded by vanilla, soft as velvet. Sweet enough to sit alongside dessert.",
+        "zh-CN": "蜜桃加上香草，口感如天鹅绒般柔和，甜香适合搭配甜点。",
+        "zh-TW": "蜜桃加上香草，口感如天鵝絨般柔和，甜香適合搭配甜點。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-peach-vanilla.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/peach-vanilla-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-peppermint-strawberry",
+      "brand": "twinings",
+      "name": {
+        "ko": "페퍼민트 & 스트로베리",
+        "en": "Peppermint & Strawberry",
+        "zh-CN": "薄荷草莓",
+        "zh-TW": "薄荷草莓"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-herb",
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "페퍼민트에 딸기 향을 더하고 검은 후추를 조금 넣었습니다. 청량함 끝에 알싸한 자극이 짧게 지나갑니다.",
+        "en": "Strawberry-flavoured peppermint with a touch of black pepper, so the cool mint ends on a short, peppery kick.",
+        "zh-CN": "薄荷加入草莓香气与少许黑胡椒，清凉之后有一丝辛劲。",
+        "zh-TW": "薄荷加入草莓香氣與少許黑胡椒，清涼之後有一絲辛勁。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-peppermint-strawberry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/peppermint-strawberry-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-strawberry-elderflower",
+      "brand": "twinings",
+      "name": {
+        "ko": "스트로베리 & 엘더플라워",
+        "en": "Strawberry & Elderflower",
+        "zh-CN": "草莓接骨木花",
+        "zh-TW": "草莓接骨木花"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "20 티백",
+      "tags": [
+        "a-fruit",
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "딸기에 엘더플라워와 주니퍼를 더했습니다. 브랜드는 영국 여름 정원의 향이라고 소개합니다.",
+        "en": "Strawberry with elderflower and juniper; Twinings describes it as an English summer garden in a glass.",
+        "zh-CN": "草莓加入接骨木花与杜松，品牌形容为英国夏日花园的香气。",
+        "zh-TW": "草莓加入接骨木花與杜松，品牌形容為英國夏日花園的香氣。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/twinings-strawberry-elderflower.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/strawberry-elderflower-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-redbush",
+      "brand": "twinings",
+      "name": {
+        "ko": "레드부시 (루이보스)",
+        "en": "Redbush (Rooibos)",
+        "zh-CN": "路易波士",
+        "zh-TW": "路易波士"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "20 티백",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy",
+        "t-night"
+      ],
+      "note": {
+        "ko": "남아프리카 루이보스 잎만 우린 차. 구리빛 수색에 달큰하고 떫지 않아 우유를 넣어도 좋습니다.",
+        "en": "Rooibos leaf on its own: copper-red, sweet and hardly astringent, so it takes milk well.",
+        "zh-CN": "只用南非路易波士叶，茶汤铜红、甘甜不涩，加牛奶也合适。",
+        "zh-TW": "只用南非路易波士葉，茶湯銅紅、甘甜不澀，加牛奶也合適。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-redbush.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/redbush-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-rooibos-honey",
+      "brand": "twinings",
+      "name": {
+        "ko": "루이보스 & 허니",
+        "en": "Rooibos & Honey",
+        "zh-CN": "路易波士蜂蜜",
+        "zh-TW": "路易波士蜂蜜"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "20 티백",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "루이보스에 꿀·무화과 향과 시나몬을 더했습니다. 설탕 없이도 달큰하고 향이 따뜻합니다.",
+        "en": "Rooibos with honey and fig flavouring and a little cinnamon: sweet without sugar, warm in aroma.",
+        "zh-CN": "路易波士加入蜂蜜、无花果香气与肉桂，不加糖也甘甜，香气温暖。",
+        "zh-TW": "路易波士加入蜂蜜、無花果香氣與肉桂，不加糖也甘甜，香氣溫暖。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/twinings-rooibos-honey.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/rooibos-honey-20-tea-bags"
+      }
+    },
+    {
+      "id": "tavalon-royal-camomile",
+      "brand": "tavalon",
+      "name": {
+        "ko": "로얄 캐모마일",
+        "en": "Royal Camomile",
+        "zh-CN": "皇家洋甘菊",
+        "zh-TW": "皇家洋甘菊"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 15",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일만 담아 사과 같은 달콤한 꽃향이 납니다. 300ml에 5분, 뚜껑을 덮어 우리면 향이 덜 날아갑니다.",
+        "en": "Camomile on its own, with the sweet apple-like note good flowers give. Steep 5 minutes in 300ml with the cup covered so the aroma stays in.",
+        "zh-CN": "只装洋甘菊，带有苹果般的甜花香。300ml 泡 5 分钟，盖上杯盖更能留住香气。",
+        "zh-TW": "只裝洋甘菊，帶有蘋果般的甜花香。300ml 泡 5 分鐘，蓋上杯蓋更能留住香氣。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-royal-camomile.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718396"
+      }
+    },
+    {
+      "id": "tavalon-cool-mint",
+      "brand": "tavalon",
+      "name": {
+        "ko": "쿨 민트",
+        "en": "Cool Mint",
+        "zh-CN": "清凉薄荷",
+        "zh-TW": "清涼薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 15",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "페퍼민트 잎만 사용해 청량감이 길게 남습니다. 식후 입가심이나 아이스로 마시기 좋습니다.",
+        "en": "Peppermint leaf only, so the cooling sensation lingers. Good as an after-meal rinse or over ice.",
+        "zh-CN": "只用薄荷叶，清凉感持久，适合餐后清口或做成冰饮。",
+        "zh-TW": "只用薄荷葉，清涼感持久，適合餐後清口或做成冰飲。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-cool-mint.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718395"
+      }
+    },
+    {
+      "id": "tavalon-serenity",
+      "brand": "tavalon",
+      "name": {
+        "ko": "세러니티",
+        "en": "Serenity",
+        "zh-CN": "静心",
+        "zh-TW": "靜心"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일·페퍼민트·레몬그라스·루이보스·바닐라를 섞은 블렌드. 꽃향과 민트가 번갈아 올라오고 끝에 바닐라가 남습니다.",
+        "en": "Camomile, peppermint, lemongrass, rooibos and vanilla. Floral and mint alternate and a vanilla note stays at the end.",
+        "zh-CN": "洋甘菊、薄荷、柠檬草、路易波士与香草混合，花香与薄荷交替，尾段留下香草。",
+        "zh-TW": "洋甘菊、薄荷、檸檬草、路易波士與香草混合，花香與薄荷交替，尾段留下香草。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-serenity.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718392"
+      }
+    },
+    {
+      "id": "tavalon-sweet-lemongrass",
+      "brand": "tavalon",
+      "name": {
+        "ko": "스위트 레몬그라스",
+        "en": "Sweet Lemongrass",
+        "zh-CN": "甜柠檬草",
+        "zh-TW": "甜檸檬草"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 15",
+      "tags": [
+        "a-grass",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "레몬그라스 특유의 시트러스 향이 달콤하게 퍼집니다. 브랜드는 비타민C가 풍부한 레몬향이라고 소개합니다.",
+        "en": "The citrus scent of lemongrass, sweet rather than sharp. Tavalon describes it as a lemon aroma rich in vitamin C.",
+        "zh-CN": "柠檬草特有的柑橘香甘甜地散开，品牌称其为富含维生素C的柠檬香。",
+        "zh-TW": "檸檬草特有的柑橘香甘甜地散開，品牌稱其為富含維生素C的檸檬香。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-sweet-lemongrass.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718394"
+      }
+    },
+    {
+      "id": "tavalon-rooibos-supreme",
+      "brand": "tavalon",
+      "name": {
+        "ko": "루이보스 슈프림",
+        "en": "Rooibos Supreme",
+        "zh-CN": "顶级路易波士",
+        "zh-TW": "頂級路易波士"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "남아프리카 프리미엄 루이보스 100%. 미네랄이 풍부하고 카페인이 없어 밤에도 부담 없습니다.",
+        "en": "100% South African rooibos. Mineral-rich and caffeine-free, so it suits the evening as well.",
+        "zh-CN": "100% 南非优质路易波士，富含矿物质且不含咖啡因，晚上也能安心喝。",
+        "zh-TW": "100% 南非優質路易波士，富含礦物質且不含咖啡因，晚上也能安心喝。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-rooibos-supreme.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718405"
+      }
+    },
+    {
+      "id": "tavalon-rooibos-vanilla",
+      "brand": "tavalon",
+      "name": {
+        "ko": "루이보스 바닐라",
+        "en": "Rooibos Vanilla",
+        "zh-CN": "路易波士香草",
+        "zh-TW": "路易波士香草"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "루이보스에 마다가스카르산 버번 바닐라 빈을 더했습니다. 향이 진하고 우유와 잘 어울립니다.",
+        "en": "Rooibos with Madagascan bourbon vanilla bean. Deeply aromatic and a good match for milk.",
+        "zh-CN": "路易波士加入马达加斯加波本香草荚，香气浓郁，与牛奶很搭。",
+        "zh-TW": "路易波士加入馬達加斯加波本香草莢，香氣濃郁，與牛奶很搭。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-rooibos-vanilla.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718397"
+      }
+    },
+    {
+      "id": "tavalon-rooibos-bilberry",
+      "brand": "tavalon",
+      "name": {
+        "ko": "루이보스 빌베리",
+        "en": "Rooibos Bilberry",
+        "zh-CN": "路易波士蓝莓",
+        "zh-TW": "路易波士藍莓"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "루이보스에 빌베리와 블랙커런트를 더해 베리 향이 달콤합니다. 루이보스의 구수함 위에 과일향이 얹힙니다.",
+        "en": "Rooibos with bilberry and blackcurrant: berry sweetness laid over the earthy rooibos base.",
+        "zh-CN": "路易波士加入蓝莓与黑加仑，莓果甜香叠在路易波士的醇厚之上。",
+        "zh-TW": "路易波士加入藍莓與黑加侖，莓果甜香疊在路易波士的醇厚之上。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-rooibos-bilberry.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718399"
+      }
+    },
+    {
+      "id": "tavalon-rooibos-lemon",
+      "brand": "tavalon",
+      "name": {
+        "ko": "루이보스 레몬",
+        "en": "Rooibos Lemon",
+        "zh-CN": "路易波士柠檬",
+        "zh-TW": "路易波士檸檬"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "루이보스에 천연 레몬향과 천연 민트향을 더했습니다. 상쾌한 향에 단맛이 은은하게 따라옵니다.",
+        "en": "Rooibos with natural lemon and mint flavourings: a fresh scent with a quiet sweetness behind it.",
+        "zh-CN": "路易波士加入天然柠檬与薄荷香料，香气清爽，甜味淡淡跟上。",
+        "zh-TW": "路易波士加入天然檸檬與薄荷香料，香氣清爽，甜味淡淡跟上。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-rooibos-lemon.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718406"
+      }
+    },
+    {
+      "id": "tavalon-crimson-punch",
+      "brand": "tavalon",
+      "name": {
+        "ko": "크림슨 펀치",
+        "en": "Crimson Punch",
+        "zh-CN": "绯红潘趣",
+        "zh-TW": "緋紅潘趣"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "4g × 15",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스·사과·오렌지·로즈힙을 섞어 새콤달콤합니다. 붉은 수색이 진해 아이스티로 만들면 잘 어울립니다.",
+        "en": "Hibiscus, apple, orange and rosehip: sweet and tart with a deep red colour that makes a fine iced tea.",
+        "zh-CN": "洛神花、苹果、橙子与玫瑰果混合，酸甜鲜明，茶汤浓红，很适合做冰茶。",
+        "zh-TW": "洛神花、蘋果、橙子與玫瑰果混合，酸甜鮮明，茶湯濃紅，很適合做冰茶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/tavalon-crimson-punch.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718393"
+      }
+    },
+    {
+      "id": "tavalon-fruit-dream",
+      "brand": "tavalon",
+      "name": {
+        "ko": "후르츠 드림",
+        "en": "Fruit Dream",
+        "zh-CN": "水果之梦",
+        "zh-TW": "水果之夢"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "4g × 15",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스·사과·로즈힙·엘더베리·오렌지필·건포도·블랙커런트를 섞은 베리 향 블렌드. 여러 과일이 겹쳐 향이 풍부합니다.",
+        "en": "Hibiscus, apple, rosehip, elderberry, orange peel, raisins and blackcurrant: a berry-led blend whose layers build a full aroma.",
+        "zh-CN": "洛神花、苹果、玫瑰果、接骨木莓、橙皮、葡萄干与黑加仑混合，莓果香层层叠加。",
+        "zh-TW": "洛神花、蘋果、玫瑰果、接骨木莓、橙皮、葡萄乾與黑加侖混合，莓果香層層疊加。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/tavalon-fruit-dream.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718400"
+      }
+    },
+    {
+      "id": "tavalon-caribbean-cocktail",
+      "brand": "tavalon",
+      "name": {
+        "ko": "캐리비안 칵테일",
+        "en": "Caribbean Cocktail",
+        "zh-CN": "加勒比鸡尾酒",
+        "zh-TW": "加勒比雞尾酒"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "4g × 15",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스·사과·로즈힙에 파인애플·망고·파파야를 더해 열대 과일 향이 풍부합니다. 차게 마시면 향이 더 살아납니다.",
+        "en": "Hibiscus, apple and rosehip with pineapple, mango and papaya: a full tropical aroma that opens up when served cold.",
+        "zh-CN": "洛神花、苹果、玫瑰果加入菠萝、芒果与木瓜，热带果香丰富，冰饮更突出。",
+        "zh-TW": "洛神花、蘋果、玫瑰果加入鳳梨、芒果與木瓜，熱帶果香豐富，冰飲更突出。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/tavalon-caribbean-cocktail.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718401"
+      }
+    },
+    {
+      "id": "tavalon-pink-rosebud",
+      "brand": "tavalon",
+      "name": {
+        "ko": "핑크 로즈버드",
+        "en": "Pink Rosebud",
+        "zh-CN": "粉红玫瑰花蕾",
+        "zh-TW": "粉紅玫瑰花蕾"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "장미 꽃봉오리를 그대로 우린 꽃차. 향이 섬세하고 수색이 연분홍으로 듭니다.",
+        "en": "Rose buds steeped whole. The scent is delicate and the liquor turns a pale pink.",
+        "zh-CN": "整朵玫瑰花蕾冲泡的花茶，香气细致，茶汤呈淡粉色。",
+        "zh-TW": "整朵玫瑰花蕾沖泡的花茶，香氣細緻，茶湯呈淡粉色。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/tavalon-pink-rosebud.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11186299"
+      }
+    },
+    {
+      "id": "ahmad-camomile-honey-vanilla",
+      "brand": "ahmad",
+      "name": {
+        "ko": "캐모마일 허니 & 바닐라",
+        "en": "Camomile Honey & Vanilla",
+        "zh-CN": "洋甘菊蜂蜜香草",
+        "zh-TW": "洋甘菊蜂蜜香草"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 20",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일 꽃에 꿀과 바닐라 향을 입혀 달콤합니다. 끓는 물에 5분 우려 마시고, 우유를 넣으면 디저트처럼 부드러워집니다.",
+        "en": "Camomile flowers with honey and vanilla flavouring. Brew 5 minutes in boiling water; a splash of milk makes it dessert-soft.",
+        "zh-CN": "洋甘菊花加上蜂蜜与香草香气，沸水泡 5 分钟，加牛奶会更像甜点般柔滑。",
+        "zh-TW": "洋甘菊花加上蜂蜜與香草香氣，沸水泡 5 分鐘，加牛奶會更像甜點般柔滑。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/ahmad-camomile-honey-vanilla.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/camomile-honey-vanilla-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-rooibos-cinnamon",
+      "brand": "ahmad",
+      "name": {
+        "ko": "루이보스 & 시나몬",
+        "en": "Rooibos & Cinnamon",
+        "zh-CN": "路易波士肉桂",
+        "zh-TW": "路易波士肉桂"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "루이보스에 시나몬을 더해 향이 따뜻하고 달큰합니다. 카페인이 없어 밤에 마셔도 잠을 방해하지 않습니다.",
+        "en": "Rooibos warmed with cinnamon: sweet and woody. Naturally caffeine-free, so it does not get in the way of sleep.",
+        "zh-CN": "路易波士加入肉桂，香气温暖甘甜，不含咖啡因，夜里喝也不影响睡眠。",
+        "zh-TW": "路易波士加入肉桂，香氣溫暖甘甜，不含咖啡因，夜裡喝也不影響睡眠。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/ahmad-rooibos-cinnamon.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/rooibos-cinnamon-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-rosehip-hibiscus-cherry",
+      "brand": "ahmad",
+      "name": {
+        "ko": "로즈힙 히비스커스 & 체리",
+        "en": "Rosehip, Hibiscus & Cherry",
+        "zh-CN": "玫瑰果洛神花樱桃",
+        "zh-TW": "玫瑰果洛神花櫻桃"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "로즈힙과 히비스커스에 체리 향을 더해 새콤하고 향긋합니다. 붉은 수색이 진해 아이스로도 잘 어울립니다.",
+        "en": "Rosehip and hibiscus with cherry flavouring: tart, fragrant and deep red, and just as good over ice.",
+        "zh-CN": "玫瑰果与洛神花加入樱桃香气，酸香浓郁、茶汤红艳，做冰饮也合适。",
+        "zh-TW": "玫瑰果與洛神花加入櫻桃香氣，酸香濃郁、茶湯紅豔，做冰飲也合適。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/ahmad-rosehip-hibiscus-cherry.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/rosehip-hibiscus-cherry-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-peppermint-lemon",
+      "brand": "ahmad",
+      "name": {
+        "ko": "페퍼민트 & 레몬",
+        "en": "Peppermint & Lemon",
+        "zh-CN": "薄荷柠檬",
+        "zh-TW": "薄荷檸檬"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.5g × 20",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "페퍼민트와 스피어민트에 레몬 껍질을 더했습니다. 브랜드는 식후 소화를 돕는 카페인 없는 차로 소개합니다.",
+        "en": "Peppermint and spearmint with lemon peel. Ahmad presents it as a caffeine-free digestive, one to reach for after a meal.",
+        "zh-CN": "薄荷与绿薄荷加入柠檬皮，品牌将其介绍为餐后助消化的无咖啡因茶。",
+        "zh-TW": "薄荷與綠薄荷加入檸檬皮，品牌將其介紹為餐後助消化的無咖啡因茶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/ahmad-peppermint-lemon.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/peppermint-lemon-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-lemon-ginger",
+      "brand": "ahmad",
+      "name": {
+        "ko": "레몬 & 진저",
+        "en": "Lemon & Ginger",
+        "zh-CN": "柠檬生姜",
+        "zh-TW": "檸檬生薑"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 20",
+      "tags": [
+        "a-grass",
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "레몬과 생강을 함께 담아 상큼하고 알싸합니다. 몸이 찰 때 진하게 우려 마시면 좋습니다.",
+        "en": "Lemon and ginger together, zesty then warm. Brew it strong when you feel the cold.",
+        "zh-CN": "柠檬与生姜同装，清爽之后带辛暖，身体发冷时泡浓一点很好。",
+        "zh-TW": "檸檬與生薑同裝，清爽之後帶辛暖，身體發冷時泡濃一點很好。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/ahmad-lemon-ginger.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/lemon-ginger-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-mixed-citrus",
+      "brand": "ahmad",
+      "name": {
+        "ko": "믹스 시트러스",
+        "en": "Mixed Citrus",
+        "zh-CN": "综合柑橘",
+        "zh-TW": "綜合柑橘"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "오렌지·레몬 등 시트러스 향을 모은 과일 인퓨전. 산뜻해 아이스티나 콤부차 베이스로도 쓰입니다.",
+        "en": "A fruit infusion of mixed citrus peels and flavourings. Bright enough for iced tea or as a kombucha base.",
+        "zh-CN": "汇集橙子、柠檬等柑橘香气的果茶，清爽，也可作冰茶或康普茶基底。",
+        "zh-TW": "匯集橙子、檸檬等柑橘香氣的果茶，清爽，也可作冰茶或康普茶基底。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/ahmad-mixed-citrus.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/mixed-citrus-infusion-teabags"
+      }
+    },
+    {
+      "id": "ahmad-mixed-berries-hibiscus",
+      "brand": "ahmad",
+      "name": {
+        "ko": "믹스베리 & 히비스커스",
+        "en": "Mixed Berries & Hibiscus",
+        "zh-CN": "混合莓果洛神花",
+        "zh-TW": "混合莓果洛神花"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스에 여러 베리를 더해 새콤달콤합니다. 차게 마시면 베리 향이 더 또렷해집니다.",
+        "en": "Hibiscus with mixed berries: sweet-sour and bright. Chilled, the berry notes come through more clearly.",
+        "zh-CN": "洛神花加入多种莓果，酸甜明亮，冰镇后莓果香更清晰。",
+        "zh-TW": "洛神花加入多種莓果，酸甜明亮，冰鎮後莓果香更清晰。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/ahmad-mixed-berries-hibiscus.jpg",
+        "cr": "uk.ahmadtea.com",
+        "pg": "https://uk.ahmadtea.com/products/mixed-berries-hibiscus-infusion-teabags"
+      }
+    },
+    {
+      "id": "aman-honeybush",
+      "brand": "aman",
+      "name": {
+        "ko": "허니부쉬",
+        "en": "Honeybush",
+        "zh-CN": "蜜树茶",
+        "zh-TW": "蜜樹茶"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 50",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "남아프리카 허니부쉬 잎 100% 티백. 루이보스와 같은 과의 차로 꿀 같은 단 향이 더 강하고 부드럽습니다.",
+        "en": "100% South African honeybush. A cousin of rooibos with a stronger honeyed sweetness and a softer body.",
+        "zh-CN": "100% 南非蜜树茶，与路易波士同科，蜜甜香更浓、口感更柔。",
+        "zh-TW": "100% 南非蜜樹茶，與路易波士同科，蜜甜香更濃、口感更柔。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-honeybush.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=140"
+      }
+    },
+    {
+      "id": "aman-rooibos",
+      "brand": "aman",
+      "name": {
+        "ko": "루이보스",
+        "en": "Rooibos",
+        "zh-CN": "路易波士",
+        "zh-TW": "路易波士"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 50",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "m-cozy",
+        "t-night"
+      ],
+      "note": {
+        "ko": "루이보스 롱컷 잎 100% 티백. 달큰하고 떫지 않아 우유나 꿀을 더해도 좋습니다.",
+        "en": "100% long-cut rooibos. Sweet and hardly astringent, so milk or honey sits well with it.",
+        "zh-CN": "100% 长切路易波士叶茶包，甘甜不涩，加牛奶或蜂蜜都合适。",
+        "zh-TW": "100% 長切路易波士葉茶包，甘甜不澀，加牛奶或蜂蜜都合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-rooibos.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=144"
+      }
+    },
+    {
+      "id": "aman-camomile",
+      "brand": "aman",
+      "name": {
+        "ko": "캐모마일",
+        "en": "Camomile",
+        "zh-CN": "洋甘菊",
+        "zh-TW": "洋甘菊"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "1.8g × 50",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일 꽃 100% 대용량 티백. 사과 같은 향이 은은해 매일 마셔도 질리지 않습니다.",
+        "en": "100% camomile flowers in a bulk box. The apple-like scent is gentle enough for every day.",
+        "zh-CN": "100% 洋甘菊花大容量茶包，苹果般香气淡雅，每天喝也不腻。",
+        "zh-TW": "100% 洋甘菊花大容量茶包，蘋果般香氣淡雅，每天喝也不膩。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-camomile.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=149"
+      }
+    },
+    {
+      "id": "aman-peppermint",
+      "brand": "aman",
+      "name": {
+        "ko": "페퍼민트",
+        "en": "Peppermint",
+        "zh-CN": "薄荷",
+        "zh-TW": "薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 50",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "페퍼민트 100% 티백. 멘톨 향이 강해 기분 전환이 필요할 때 좋고, 아이스로도 청량합니다.",
+        "en": "100% peppermint. The strong menthol lift is good for a reset, and it stays fresh over ice.",
+        "zh-CN": "100% 薄荷茶包，薄荷醇香强烈，适合提神换气，冰饮同样清凉。",
+        "zh-TW": "100% 薄荷茶包，薄荷醇香強烈，適合提神換氣，冰飲同樣清涼。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-peppermint.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=150"
+      }
+    },
+    {
+      "id": "aman-spearmint",
+      "brand": "aman",
+      "name": {
+        "ko": "스피아민트",
+        "en": "Spearmint",
+        "zh-CN": "留兰香",
+        "zh-TW": "綠薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 50",
+      "tags": [
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "스피아민트 100% 티백. 페퍼민트보다 부드럽고 단 향이 나 아이스로 마시기 좋습니다.",
+        "en": "100% spearmint. Softer and sweeter than peppermint, which makes it an easy mint to serve cold.",
+        "zh-CN": "100% 绿薄荷茶包，比薄荷更柔和甘甜，适合做冰饮。",
+        "zh-TW": "100% 綠薄荷茶包，比薄荷更柔和甘甜，適合做冰飲。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-spearmint.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=152"
+      }
+    },
+    {
+      "id": "aman-hibiscus",
+      "brand": "aman",
+      "name": {
+        "ko": "히비스커스",
+        "en": "Hibiscus",
+        "zh-CN": "洛神花",
+        "zh-TW": "洛神花"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "50 티백",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스 꽃잎 100%. 루비빛 수색에 신맛이 또렷해 아이스티나 블렌드 베이스로 좋습니다.",
+        "en": "100% hibiscus petals. Ruby-red with a clean sourness, good as an iced tea or a blending base.",
+        "zh-CN": "100% 洛神花瓣，茶汤宝石红、酸味鲜明，适合做冰茶或调配基底。",
+        "zh-TW": "100% 洛神花瓣，茶湯寶石紅、酸味鮮明，適合做冰茶或調配基底。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-hibiscus.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=225"
+      }
+    },
+    {
+      "id": "aman-over-the-rainbow",
+      "brand": "aman",
+      "name": {
+        "ko": "오버 더 레인보우",
+        "en": "Over the Rainbow",
+        "zh-CN": "彩虹之上",
+        "zh-TW": "彩虹之上"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-fruit",
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "딸기와 민트를 겹친 무카페인 허브 블렌드. 붉은 수색에 상큼한 향이 나 차게 마셔도 좋습니다.",
+        "en": "Strawberry and mint in a caffeine-free herbal blend. Red in the cup with a tangy scent that holds up cold.",
+        "zh-CN": "草莓与薄荷叠成的无咖啡因草本拼配，茶汤偏红，香气清爽，冰饮也好。",
+        "zh-TW": "草莓與薄荷疊成的無咖啡因草本拼配，茶湯偏紅，香氣清爽，冰飲也好。"
+      },
+      "brewSource": "category",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/aman-over-the-rainbow.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=59"
+      }
+    },
+    {
+      "id": "aman-what-a-feeling",
+      "brand": "aman",
+      "name": {
+        "ko": "왓 어 필링",
+        "en": "What a Feeling",
+        "zh-CN": "美妙感觉",
+        "zh-TW": "美妙感覺"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "열대 과일 향을 모은 무카페인 블렌드. 단 향이 강해 차게 마시면 과일주스처럼 느껴집니다.",
+        "en": "A caffeine-free blend of tropical fruit flavours. Sweet enough that served cold it reads almost like juice.",
+        "zh-CN": "汇集热带水果香气的无咖啡因拼配，甜香浓郁，冰镇后像果汁。",
+        "zh-TW": "匯集熱帶水果香氣的無咖啡因拼配，甜香濃郁，冰鎮後像果汁。"
+      },
+      "brewSource": "category",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/aman-what-a-feeling.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=107"
+      }
+    },
+    {
+      "id": "aman-bravo-my-life",
+      "brand": "aman",
+      "name": {
+        "ko": "브라보 마이 라이프",
+        "en": "Bravo My Life",
+        "zh-CN": "喝彩人生",
+        "zh-TW": "喝采人生"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-roast",
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "루이보스에 오렌지를 더한 무카페인 블렌드. 달큰한 루이보스 위에 시트러스가 가볍게 얹힙니다.",
+        "en": "Rooibos with orange in a caffeine-free blend: citrus floating over the rooibos sweetness.",
+        "zh-CN": "路易波士加入橙子的无咖啡因拼配，柑橘香轻轻覆在甘甜之上。",
+        "zh-TW": "路易波士加入橙子的無咖啡因拼配，柑橘香輕輕覆在甘甜之上。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-bravo-my-life.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=83"
+      }
+    },
+    {
+      "id": "aman-sweet-dream",
+      "brand": "aman",
+      "name": {
+        "ko": "스위트 드림",
+        "en": "Sweet Dream",
+        "zh-CN": "甜蜜梦乡",
+        "zh-TW": "甜蜜夢鄉"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "히비스커스·오렌지·딸기를 섞은 무카페인 블렌드. 새콤한 베리 향이 은은해 잠들기 전 한 잔으로 좋습니다.",
+        "en": "Hibiscus, orange and strawberry, caffeine-free. A gentle berry tartness that suits the last cup of the day.",
+        "zh-CN": "洛神花、橙子与草莓的无咖啡因拼配，莓果酸甜柔和，适合睡前来一杯。",
+        "zh-TW": "洛神花、橙子與草莓的無咖啡因拼配，莓果酸甜柔和，適合睡前來一杯。"
+      },
+      "brewSource": "category",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/aman-sweet-dream.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=37"
+      }
+    },
+    {
+      "id": "aman-peaceful-mind",
+      "brand": "aman",
+      "name": {
+        "ko": "피스풀 마인드",
+        "en": "Peaceful Mind",
+        "zh-CN": "平静之心",
+        "zh-TW": "平靜之心"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm",
+        "t-night"
+      ],
+      "note": {
+        "ko": "캐모마일을 중심으로 한 허브 블렌드. 꽃향이 부드럽게 깔려 저녁에 마시기 좋습니다.",
+        "en": "A camomile-led herbal blend. The floral note stays soft underneath, which makes it an evening cup.",
+        "zh-CN": "以洋甘菊为主的草本拼配，花香柔和铺底，适合傍晚饮用。",
+        "zh-TW": "以洋甘菊為主的草本拼配，花香柔和鋪底，適合傍晚飲用。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-peaceful-mind.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=29"
+      }
+    },
+    {
+      "id": "aman-refresh-mint",
+      "brand": "aman",
+      "name": {
+        "ko": "리프레쉬 민트",
+        "en": "Refresh Mint",
+        "zh-CN": "清新薄荷",
+        "zh-TW": "清新薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "10 티백",
+      "tags": [
+        "a-herb",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "민트를 중심으로 한 무카페인 블렌드. 청량함이 깔끔하게 지나가 식후 입가심에 좋습니다.",
+        "en": "A mint-led caffeine-free blend. The cooling note passes cleanly, which makes it a good after-meal cup.",
+        "zh-CN": "以薄荷为主的无咖啡因拼配，清凉感干净利落，适合餐后清口。",
+        "zh-TW": "以薄荷為主的無咖啡因拼配，清涼感乾淨俐落，適合餐後清口。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-refresh-mint.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=229"
+      }
+    },
+    {
+      "id": "aman-lost-in-fruit",
+      "brand": "aman",
+      "name": {
+        "ko": "로스트 인 프루이트",
+        "en": "Lost in Fruit",
+        "zh-CN": "迷失果香",
+        "zh-TW": "迷失果香"
+      },
+      "type": "fruit",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-none"
+      ],
+      "note": {
+        "ko": "히비스커스와 베리 믹스를 겹친 무카페인 블렌드. 새콤한 베리 향이 진해 아이스로도 잘 어울립니다.",
+        "en": "Hibiscus layered with a berry mix, caffeine-free. The tart berry note is strong enough for iced tea.",
+        "zh-CN": "洛神花叠上莓果混合的无咖啡因拼配，莓果酸香浓郁，做冰饮也合适。",
+        "zh-TW": "洛神花疊上莓果混合的無咖啡因拼配，莓果酸香濃郁，做冰飲也合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "fruit",
+      "photo": {
+        "f": "images/teabags/aman-lost-in-fruit.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=109"
+      }
+    },
+    {
+      "id": "aman-nana-mint",
+      "brand": "aman",
+      "name": {
+        "ko": "나나민트",
+        "en": "Nana Mint",
+        "zh-CN": "那那薄荷",
+        "zh-TW": "那那薄荷"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 10",
+      "tags": [
+        "a-herb",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-none",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "모로코 나나민트 100% 티백. 페퍼민트처럼 강하지 않고 단 향이 있어 설탕 없이도 달큰합니다.",
+        "en": "100% Moroccan nana mint. Less sharp than peppermint and sweetly scented, so it needs no sugar.",
+        "zh-CN": "100% 摩洛哥那那薄荷茶包，不如薄荷刺激、带甜香，不加糖也甘甜。",
+        "zh-TW": "100% 摩洛哥那那薄荷茶包，不如薄荷刺激、帶甜香，不加糖也甘甜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-nana-mint.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=61"
+      }
+    },
+    {
+      "id": "aman-lost-in-chocolate",
+      "brand": "aman",
+      "name": {
+        "ko": "로스트 인 초콜릿",
+        "en": "Lost in Chocolate",
+        "zh-CN": "沉醉巧克力",
+        "zh-TW": "沉醉巧克力"
+      },
+      "type": "herb",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-low",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "루이보스에 마테와 카카오를 더한 디저트 블렌드. 마테가 들어 있어 카페인이 있으니 밤보다는 낮에 마시기 좋습니다.",
+        "en": "Rooibos with mate and cocoa. Mate brings caffeine, so this is a daytime dessert cup rather than a nightcap.",
+        "zh-CN": "路易波士加入马黛与可可的甜点拼配，因含马黛而有咖啡因，适合白天饮用。",
+        "zh-TW": "路易波士加入馬黛與可可的甜點拼配，因含馬黛而有咖啡因，適合白天飲用。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-lost-in-chocolate.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=57"
+      }
+    },
+    {
+      "id": "aman-never-ending-story",
+      "brand": "aman",
+      "name": {
+        "ko": "네버엔딩 스토리",
+        "en": "Never Ending Story",
+        "zh-CN": "未完的故事",
+        "zh-TW": "未完的故事"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-none",
+        "m-calm"
+      ],
+      "note": {
+        "ko": "아만프리미엄티의 무카페인 허브 블렌드 가운데 하나. 공식몰에 배합 원료가 따로 적혀 있지 않아, 꽃과 허브 중심의 블렌드로 소개합니다.",
+        "en": "One of Aman Premium Tea's caffeine-free herbal blends. The official shop does not list its ingredients, so it is presented here as a floral-herbal blend.",
+        "zh-CN": "阿满高级茶的无咖啡因草本拼配之一，官方商城未列出配方原料，此处按花香草本拼配介绍。",
+        "zh-TW": "阿滿高級茶的無咖啡因草本拼配之一，官方商城未列出配方原料，此處按花香草本拼配介紹。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-never-ending-story.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=49"
+      }
+    },
+    {
+      "id": "aman-coco-cookie",
+      "brand": "aman",
+      "name": {
+        "ko": "코코쿠키",
+        "en": "Coco Cookie",
+        "zh-CN": "可可饼干",
+        "zh-TW": "可可餅乾"
+      },
+      "type": "herb",
+      "caffeine": false,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "10 티백",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "s-milk",
+        "c-none",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "루이보스를 바탕으로 한 무카페인 허브 블렌드. 이름처럼 코코아·쿠키를 닮은 달콤한 향을 노린 디저트 티입니다.",
+        "en": "A rooibos-based caffeine-free herbal blend made as a dessert tea, with the cocoa-and-cookie sweetness its name promises.",
+        "zh-CN": "以路易波士为底的无咖啡因草本拼配，如同名字，是追求可可饼干甜香的甜点茶。",
+        "zh-TW": "以路易波士為底的無咖啡因草本拼配，如同名字，是追求可可餅乾甜香的甜點茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "herb",
+      "photo": {
+        "f": "images/teabags/aman-coco-cookie.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=231"
       }
     }
   ]
