@@ -102,8 +102,8 @@
     },
     {
       id: "black-assam-bag",
-      q: "아삼 홍차",
-      title: { ko: "아삼 홍차", en: "Assam black tea", "zh-CN": "阿萨姆红茶", "zh-TW": "阿薩姆紅茶", ja: "アッサム紅茶", yue: "阿薩姆紅茶" },
+      q: "아쌈 홍차",
+      title: { ko: "아쌈 홍차", en: "Assam black tea", "zh-CN": "阿萨姆红茶", "zh-TW": "阿薩姆紅茶", ja: "アッサム紅茶", yue: "阿薩姆紅茶" },
       note: { ko: "몰트 향이 진한 홍차", en: "Malty and full", "zh-CN": "麦芽香浓", "zh-TW": "麥芽香濃", yue: "麥芽香濃嘅紅茶" },
       url: "https://link.coupang.com/a/iR2bNt6k2e",
       price: 8900,

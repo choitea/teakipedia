@@ -177,7 +177,7 @@ window.TEAFaiI18N = (function () {
       "a11y.filter": "차류 필터",
       "guide.all": "전체",
       "guide.empty":
-        "‘{q}’에 해당하는 차를 찾지 못했습니다.<br />산지(하동, 아삼), 향(머스캣, 꿀), 상황(식후)으로 다시 찾아보세요.",
+        "‘{q}’에 해당하는 차를 찾지 못했습니다.<br />산지(하동, 아쌈), 향(머스캣, 꿀), 상황(식후)으로 다시 찾아보세요.",
       "guide.ox": "산화도",
       "fact.temp": "물 온도",
       "fact.leaf": "잎 · 물",
@@ -613,8 +613,8 @@ window.TEAFaiI18N = (function () {
       "pv.h1": "Teakipedia Privacy Policy",
       "pv.lead":
         'Teakipedia is an app with a tea guide, a steeping timer, tasting notes, a tea-room directory and a community. It has <span class="key">no sign-up or sign-in, and simply using the app collects no personal data.</span> Only what you choose to send — a community post, a tea-house listing application, a maker product entry — is encrypted and stored on our server; tasting notes and app settings stay on your device.',
-      "pv.metaDate": "Effective 21 November 2026",
-      "pv.metaVersion": "Version 1.1",
+      "pv.metaDate": "Effective 23 November 2026",
+      "pv.metaVersion": "Version 1.2",
       "pv.metaContact": "Contact rotroka@gmail.com",
       "pv.s1.title": "What we collect and use",
       "pv.s1.body":
@@ -636,7 +636,7 @@ window.TEAFaiI18N = (function () {
       "pv.r4.v": "Product name, brand, tea type, barcode, note",
       "pv.r4.why": "Reviewing the addition to the tea bag list",
       "pv.s1.note":
-        "All transfers are encrypted, and the app contains no advertising SDK, traffic statistics or behaviour analytics. We do not collect your location, contacts, photos, device identifiers or card details. A photo chosen in Smart Lens is read only on your device and never uploaded.",
+        "All transfers are encrypted, and the app contains no advertising SDK, traffic statistics or behaviour analytics. We do not collect your location, contacts, photos, device identifiers or card details. A photo taken or chosen in Smart Lens is read only on your device; it is neither saved in the app nor uploaded.",
       "pv.s2.title": "What stays only on your device",
       "pv.s2.body":
         "The values below are stored in your device's browser local storage (localStorage) and are never sent to a server. Posts and applications sent from the screens in section 1 also leave a copy on your device.",
@@ -673,7 +673,7 @@ window.TEAFaiI18N = (function () {
         "So the app opens without a connection, Teakipedia keeps a copy of its own screen files (HTML, CSS, JS, icons) in your browser cache through a service worker. That is a copy of the app itself, not your personal data or your notes. When the app is updated, the files refresh automatically.",
       "pv.s5.title": "Device permissions",
       "pv.s5.body":
-        'Teakipedia <span class="key">requests no device permissions</span> — no camera, microphone, location, contacts, photos, notifications or storage. Smart Lens opens the device file picker to choose a photo, and the photo is read only inside the app. The end of a timer is announced inside the app by the screen and the chime; no push or background notification is sent.',
+        'Teakipedia <span class="key">requests no device permissions</span> — no camera, microphone, location, contacts, photos, notifications or storage. In Smart Lens, “Shoot” opens your device’s camera app and “Choose a photo” opens the file picker, and either way the app receives one photo. It reads that photo only on your device to look for a barcode, and never saves the photo in the app or sends it to a server. The end of a timer is announced inside the app by the screen and the chime; no push or background notification is sent.',
       "pv.s6.title": "In-app subscriptions and payment",
       "pv.s6.body":
         "The monthly plans for personal, tea-house and maker members are handled by Google Play in-app billing. Google Play handles the payment method and card details; Teakipedia never receives or stores a card number. The app only reads the subscription state Google Play reports (the product purchased and whether it is valid) to unlock a membership level, and stores that level on your device. Cancelling and refunds follow Google Play's policies and procedures.",
@@ -714,8 +714,8 @@ window.TEAFaiI18N = (function () {
       "pv.h1": "茶基百科 隐私政策",
       "pv.lead":
         'Teakipedia 是一款包含茶百科、冲泡计时、品茶笔记、茶馆查找与社区的应用。<span class="key">无需注册与登录，仅使用应用不会收集个人信息。</span>只有您主动按下“发送”的内容（社区贴文、茶馆入驻申请、厂商商品登记）会经加密保存到服务器；品茶笔记与应用设定只留在本机。',
-      "pv.metaDate": "生效日 2026年11月21日",
-      "pv.metaVersion": "版本 1.1",
+      "pv.metaDate": "生效日 2026年11月23日",
+      "pv.metaVersion": "版本 1.2",
       "pv.metaContact": "联系 rotroka@gmail.com",
       "pv.s1.title": "收集与利用的信息",
       "pv.s1.body":
@@ -736,7 +736,7 @@ window.TEAFaiI18N = (function () {
       "pv.r4.v": "商品名称、品牌、茶类、条形码、备注",
       "pv.r4.why": "审核并加入茶包列表",
       "pv.s1.note":
-        "传输全程加密，应用内没有广告 SDK、流量统计或行为分析工具。不收集位置、通讯录、照片、设备识别码与支付卡信息。智能镜头选择的照片只在本机读取，不会上传。",
+        "传输全程加密，应用内没有广告 SDK、流量统计或行为分析工具。不收集位置、通讯录、照片、设备识别码与支付卡信息。智能镜头拍下或选择的照片只在本机读取，不会保存在应用中，也不会传送。",
       "pv.s2.title": "只保存在设备上的信息",
       "pv.s2.body":
         "下列内容保存在使用者设备的浏览器本地存储（localStorage）中，不会传送到服务器。第1节画面中发送的贴文与申请也会在本机留一份副本。",
@@ -770,7 +770,7 @@ window.TEAFaiI18N = (function () {
         "为了让应用在没有网络时也能打开，Teakipedia 通过服务工作者把应用的画面文件（HTML、CSS、JS、图标）临时保存在设备浏览器缓存中。那只是应用本身的副本，不是使用者的个人信息或记录。应用更新时画面文件会自动换成最新版本。",
       "pv.s5.title": "设备权限",
       "pv.s5.body":
-        'Teakipedia <span class="key">不请求任何设备权限</span>——相机、麦克风、位置、通讯录、照片、通知、存储空间都不请求。智能镜头通过设备的文件选择器选取照片，所选照片只在应用内读取。计时结束只在应用画面内以显示和提示音告知，不发送推送或后台通知。',
+        'Teakipedia <span class="key">不请求任何设备权限</span>——相机、麦克风、位置、通讯录、照片、通知、存储空间都不请求。在智能镜头按“拍摄”会打开设备的相机应用，按“选择照片”会打开文件选择器，应用只收到一张照片；照片只在本机读取以识别条形码，不会保存在应用中，也不会传送到服务器。计时结束只在应用画面内以显示和提示音告知，不发送推送或后台通知。',
       "pv.s6.title": "应用内定期订阅与支付",
       "pv.s6.body":
         "个人会员、茶馆会员、厂商会员的月费通过 Google Play 应用内购买处理。支付方式与卡片信息由 Google Play 处理，Teakipedia 不会直接收取或保存卡号。应用只读取 Google Play 告知的订阅状态（购买的商品与是否有效）来开启会员等级，并将该等级保存在本机。取消订阅与退款依 Google Play 的政策与流程。",
@@ -810,8 +810,8 @@ window.TEAFaiI18N = (function () {
       "pv.h1": "茶基百科 隱私權政策",
       "pv.lead":
         'Teakipedia 是一款包含茶百科、沖泡計時、品茶筆記、茶館查找與社群的應用。<span class="key">無需註冊與登入，僅使用應用不會收集個人資訊。</span>只有您主動按下「送出」的內容（社群貼文、茶館入駐申請、廠商商品登記）會經加密保存到伺服器；品茶筆記與應用設定只留在本機。',
-      "pv.metaDate": "生效日 2026年11月21日",
-      "pv.metaVersion": "版本 1.1",
+      "pv.metaDate": "生效日 2026年11月23日",
+      "pv.metaVersion": "版本 1.2",
       "pv.metaContact": "聯絡 rotroka@gmail.com",
       "pv.s1.title": "收集與利用的資訊",
       "pv.s1.body":
@@ -832,7 +832,7 @@ window.TEAFaiI18N = (function () {
       "pv.r4.v": "商品名稱、品牌、茶類、條碼、備註",
       "pv.r4.why": "審核並加入茶包列表",
       "pv.s1.note":
-        "傳輸全程加密，應用內沒有廣告 SDK、流量統計或行為分析工具。不收集位置、通訊錄、照片、裝置識別碼與支付卡資訊。智慧鏡頭選擇的照片只在本機讀取，不會上傳。",
+        "傳輸全程加密，應用內沒有廣告 SDK、流量統計或行為分析工具。不收集位置、通訊錄、照片、裝置識別碼與支付卡資訊。智慧鏡頭拍下或選擇的照片只在本機讀取，不會保存在應用中，也不會傳送。",
       "pv.s2.title": "只保存在裝置上的資訊",
       "pv.s2.body":
         "下列內容保存在使用者裝置的瀏覽器本機儲存（localStorage）中，不會傳送到伺服器。第1節畫面送出的貼文與申請也會在本機留一份副本。",
@@ -866,7 +866,7 @@ window.TEAFaiI18N = (function () {
         "為了讓應用在沒有網路時也能開啟，Teakipedia 透過 Service Worker 把應用的畫面檔案（HTML、CSS、JS、圖示）暫時保存在裝置瀏覽器快取中。那只是應用本身的副本，不是使用者的個人資訊或記錄。應用更新時畫面檔案會自動換成最新版本。",
       "pv.s5.title": "裝置權限",
       "pv.s5.body":
-        'Teakipedia <span class="key">不請求任何裝置權限</span>——相機、麥克風、位置、通訊錄、照片、通知、儲存空間都不請求。智慧鏡頭透過裝置的檔案選擇器選取照片，所選照片只在應用內讀取。計時結束只在應用畫面內以顯示和提示音告知，不發送推播或背景通知。',
+        'Teakipedia <span class="key">不請求任何裝置權限</span>——相機、麥克風、位置、通訊錄、照片、通知、儲存空間都不請求。在智慧鏡頭按「拍攝」會開啟裝置的相機應用程式，按「選擇照片」會開啟檔案選擇器，應用只收到一張照片；照片只在本機讀取以辨識條碼，不會保存在應用中，也不會傳送到伺服器。計時結束只在應用畫面內以顯示和提示音告知，不發送推播或背景通知。',
       "pv.s6.title": "應用內定期訂閱與付款",
       "pv.s6.body":
         "個人會員、茶館會員、廠商會員的月費透過 Google Play 應用內購買處理。付款方式與卡片資訊由 Google Play 處理，Teakipedia 不會直接收取或保存卡號。應用只讀取 Google Play 告知的訂閱狀態（購買的商品與是否有效）來開啟會員等級，並把該等級保存在本機。取消訂閱與退款依 Google Play 的政策與流程。",
@@ -2955,8 +2955,8 @@ window.TEAFaiI18N = (function () {
     "pv.kicker": "Privacy Policy",
     "pv.h1": "茶基百科 私隱政策",
     "pv.lead": "茶基百科係一個有茶百科、沖泡計時、品茶筆記、搵茶館同社群嘅應用。<span class=\"key\">唔使註冊同登入，淨係開應用唔會收集你嘅個人資料。</span>只有你主動撳「送出」嘅內容（社群貼文、茶館入駐申請、廠商商品登記）先會加密存去伺服器；品茶筆記同應用設定淨係留喺部機。",
-    "pv.metaDate": "生效日 2026年11月21日",
-    "pv.metaVersion": "版本 1.1",
+    "pv.metaDate": "生效日 2026年11月23日",
+    "pv.metaVersion": "版本 1.2",
     "pv.metaContact": "聯絡 rotroka@gmail.com",
     "pv.s1.title": "收集同使用嘅資料",
     "pv.s1.body": "茶基百科唔會開帳號，亦都冇登入。只有喺下面四個畫面撳「送出」嗰陣，你填嘅內容先會經 HTTPS 加密送去伺服器（Supabase，首爾區）並存喺嗰度。",
@@ -2975,7 +2975,7 @@ window.TEAFaiI18N = (function () {
     "pv.r4.k": "新茶包登記（智能鏡頭）",
     "pv.r4.v": "商品名、品牌、茶類、條碼、備註",
     "pv.r4.why": "審核，再加入茶包列表",
-    "pv.s1.note": "傳輸全程加密，應用入面冇廣告 SDK、流量統計或者行為分析工具。唔會收集位置、通訊錄、相片、裝置識別碼同信用卡資料。智能鏡頭揀嘅相淨係喺部機讀，唔會上傳。",
+    "pv.s1.note": "傳輸全程加密，應用入面冇廣告 SDK、流量統計或者行為分析工具。唔會收集位置、通訊錄、相片、裝置識別碼同信用卡資料。智能鏡頭影或者揀嘅相淨係喺部機讀，唔會存入應用，亦唔會上傳。",
     "pv.s2.title": "淨係存喺部機嘅資料",
     "pv.s2.body": "下面嘅嘢存喺用戶部機嘅瀏覽器本機儲存（localStorage），唔會送去伺服器。第1節畫面送出嘅貼文同申請都會喺本機留一份副本。",
     "pv.thItem": "存啲咩",
@@ -3004,7 +3004,7 @@ window.TEAFaiI18N = (function () {
     "pv.s4.title": "為咗離線用而暫時保存",
     "pv.s4.body": "為咗冇網絡都用得，茶基百科會透過 Service Worker 將應用嘅畫面檔案（HTML、CSS、JS、圖示）暫時存喺部機瀏覽器嘅快取。嗰啲淨係應用本身嘅副本，唔係用戶嘅個人資料或者紀錄。應用更新嗰陣畫面檔案會自動換做最新版本。",
     "pv.s5.title": "裝置權限",
-    "pv.s5.body": "茶基百科 <span class=\"key\">唔會要求任何裝置權限</span>——相機、收音咪、位置、通訊錄、相片、通知、儲存空間全部都唔要求。智能鏡頭係用部機嘅檔案選擇器揀相，揀咗嘅相淨係喺應用入面讀。計時完淨係喺應用畫面用顯示同提示聲通知，唔會發推送或者背景通知。",
+    "pv.s5.body": "茶基百科 <span class=\"key\">唔會要求任何裝置權限</span>——相機、收音咪、位置、通訊錄、相片、通知、儲存空間全部都唔要求。智能鏡頭撳「影相」會開部機嘅相機應用，撳「揀相」會開檔案選擇器，應用淨係收到一張相；張相淨係喺部機讀嚟睇條碼，唔會存入應用，亦唔會送去伺服器。計時完淨係喺應用畫面用顯示同提示聲通知，唔會發推送或者背景通知。",
     "pv.s6.title": "應用內定期訂閱同付款",
     "pv.s6.body": "個人會員、茶館會員、廠商會員嘅月費經 Google Play 應用內購買處理。付款方法同卡資料由 Google Play 處理，茶基百科唔會直接收或者存卡號。應用淨係讀 Google Play 講嘅訂閱狀態（買咗邊個商品、仲有冇效）嚟開會員等級，再將呢個等級存喺部機。取消訂閱同退款跟 Google Play 嘅政策同流程。",
     "pv.s7.title": "外部連結同 Coupang 合作夥伴",
