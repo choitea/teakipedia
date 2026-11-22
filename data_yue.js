@@ -130,7 +130,7 @@ window.TEAFaiDataYue = (function () {
  },
  "green-jeju": {
   "t": {
-   "name": "濟州雨前（雀舌）",
+   "name": "濟州雨前",
    "oneLine": "穀雨前採嘅韓國第一片嫩葉——帶住春雨嘅柔和澀感。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
@@ -583,8 +583,8 @@ window.TEAFaiDataYue = (function () {
  },
  "oolong-jin-xuan": {
   "t": {
-   "name": "金萱烏龍（奶香烏龍）",
-   "oneLine": "奶香嚟自葉本身，係台茶十二號，柔順圓潤嘅烏龍。",
+   "name": "金萱烏龍",
+   "oneLine": "奶香嚟自葉本身，係台茶十二號，柔順圓潤嘅烏龍，又叫奶香烏龍。",
    "oxidation": "15~20%",
    "ratioNote": "150毫升配4克",
    "rounds": "3~4泡",
@@ -941,7 +941,7 @@ window.TEAFaiDataYue = (function () {
  },
  "black-ruby18": {
   "t": {
-   "name": "紅玉18號（日月潭）",
+   "name": "日月潭",
    "oneLine": "臺灣野生茶同緬甸阿薩姆嘅雜交種——薄荷同肉桂香。",
    "oxidation": "95%",
    "ratioNote": "200毫升配5克",
@@ -949,7 +949,7 @@ window.TEAFaiDataYue = (function () {
    "steepBasis": "95度泡3分鐘。",
    "origin": "南投魚池（日月潭）一帶，海拔600~800米。",
    "process": "萎凋 → 揉捻 → 發酵 → 乾燥。大葉種長時間發酵。",
-   "story": "1918年日本植物學家新井用緬甸阿薩姆同臺灣野生茶雜交育成，1999年命名為「紅玉」。",
+   "story": "1918年日本植物學家新井用緬甸阿薩姆同臺灣野生茶雜交育成。",
    "flavor": "薄荷、肉桂同肉豆蔻般嘅香料香，湯色深，餘韻長。",
    "pairing": "中菜、煙燻料理、奶茶。",
    "brewTip": "95度3分鐘。熱水令薄荷香更開。"
@@ -1329,7 +1329,7 @@ window.TEAFaiDataYue = (function () {
  },
  "herb-tteokcha": {
   "t": {
-   "name": "餅茶（韓國傳統）",
+   "name": "餅茶",
    "oneLine": "蒸葉壓成嘅茶餅——可以放好多年。",
    "oxidation": "輕微後發酵",
    "ratioNote": "一片（5克）配300毫升",
@@ -2271,7 +2271,7 @@ window.TEAFaiDataYue = (function () {
  },
  "oolong-dancong-yashixiang": {
   "t": {
-   "name": "鴨屎香（銀花香）",
+   "name": "鴨屎香",
    "oneLine": "個名粗俗，但香係清冷嘅銀花香。",
    "oxidation": "大約45%",
    "ratioNote": "110毫升蓋碗配7克",
