@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-23",
-  "note": "티백 96종·14개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 타바론(타바론 공식몰)·아마드티(아마드티 공식 스토어)는 제품별 안내를 그대로 옮겼으며(brewSource: brand), 트와이닝은 공식 사이트가 물 온도를 밝히지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). 타바론·아마드티의 제품 안내가 없는 항목도 같은 차종 기준을 따랐습니다. 허브차·과일 인퓨전과 잎차 전용 제품, 여러 차가 섞인 선물·시음 세트는 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
+  "note": "티백 113종·15개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 타바론(타바론 공식몰)·아마드티(아마드티 공식 스토어)는 제품별 안내를 그대로 옮겼으며(brewSource: brand), 트와이닝은 공식 사이트가 물 온도를 밝히지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). 타바론·아마드티의 제품 안내가 없는 항목도 같은 차종 기준을 따랐습니다. 허브차·과일 인퓨전과 잎차 전용 제품, 여러 차가 섞인 선물·시음 세트는 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드). 아만프리미엄티는 공식몰(amanpremiumtea.co.kr)의 소량·대량 티백 중 차나무 잎을 쓴 홍차·가향차·백차·우롱차·보이차·녹차만 담았고, 루이보스·캐모마일·마테·민트·히비스커스 같은 허브차와 선물·시음 세트, 17종 중 선택하는 묶음 상품은 넣지 않았습니다. 같은 차의 10·50·100개입과 퍼플 리필 등 용량만 다른 포장은 대표 1종으로 합쳤고, 공식몰이 우림 온도를 밝히지 않아 차종 기준을 따랐습니다(brewSource: category).",
   "brands": {
     "twinings": {
       "name": "Twinings",
@@ -100,6 +100,13 @@
       "country": "US",
       "zh-CN": "塔瓦隆",
       "zh-TW": "塔瓦隆"
+    },
+    "aman": {
+      "name": "Aman Premium Tea",
+      "ko": "아만프리미엄티",
+      "country": "KR",
+      "zh-CN": "阿满高级茶",
+      "zh-TW": "阿滿高級茶"
     }
   },
   "bags": [
@@ -3582,6 +3589,605 @@
         "f": "images/teabags/ahmad-clove.jpg",
         "cr": "아마드티 공식 스토어",
         "pg": "https://smartstore.naver.com/ahmadtea/products/11061218073"
+      }
+    },
+    {
+      "id": "aman-earl-grey",
+      "brand": "aman",
+      "name": {
+        "ko": "얼그레이",
+        "en": "Earl Grey",
+        "zh-CN": "伯爵茶",
+        "zh-TW": "伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "10 티백",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "아만프리미엄티에서 가장 많이 팔리는 홍차입니다. 베르가못 향이 날카롭지 않고 둥글게 얹혀 우유를 넣은 밀크티로도 향이 살아 있습니다.",
+        "en": "Aman Premium Tea's best-selling black tea: the bergamot sits round rather than sharp, and the scent survives milk, so it also works as a milk-tea base.",
+        "zh-CN": "阿满高级茶销量最好的伯爵红茶，佛手柑香气圆润不尖锐，加奶做奶茶香气依然。",
+        "zh-TW": "阿滿高級茶銷量最好的伯爵紅茶，佛手柑香氣圓潤不尖銳，加奶做奶茶香氣依然。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-earl-grey.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=221"
+      }
+    },
+    {
+      "id": "aman-french-grey",
+      "brand": "aman",
+      "name": {
+        "ko": "프렌치 그레이",
+        "en": "French Grey",
+        "zh-CN": "法式伯爵茶",
+        "zh-TW": "法式伯爵茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "k-crisp",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "얼그레이 계열의 가향 홍차로 베르가못 향이 은은하게 깔립니다. 향이 세지 않아 맨잔으로 천천히 마시기 좋습니다.",
+        "en": "A scented black tea in the Earl Grey family with a soft bergamot lift — gentle enough to drink plain, without milk.",
+        "zh-CN": "伯爵系调味红茶，佛手柑香气清淡，适合不加奶纯饮。",
+        "zh-TW": "伯爵系調味紅茶，佛手柑香氣清淡，適合不加奶純飲。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/aman-french-grey.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=53"
+      }
+    },
+    {
+      "id": "aman-blue-grey",
+      "brand": "aman",
+      "name": {
+        "ko": "블루 앤 그레이",
+        "en": "Blue & Grey",
+        "zh-CN": "蓝花伯爵茶",
+        "zh-TW": "藍花伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "얼그레이에 블루 콘플라워 꽃잎을 더한 블렌드입니다. 꽃잎이 향을 한층 화사하게 만들고 잔도 산뜻해 아이스로도 잘 맞습니다.",
+        "en": "Earl Grey with blue cornflower petals: a brighter, more floral cup that also works iced.",
+        "zh-CN": "在伯爵红茶中加入蓝矢车菊花瓣，香气更显明丽，冰饮也合适。",
+        "zh-TW": "在伯爵紅茶中加入藍矢車菊花瓣，香氣更顯明麗，冰飲也合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-blue-grey.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=278"
+      }
+    },
+    {
+      "id": "aman-english-breakfast",
+      "brand": "aman",
+      "name": {
+        "ko": "잉글리시 블랙퍼스트",
+        "en": "English Breakfast",
+        "zh-CN": "英式早餐茶",
+        "zh-TW": "英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 210,
+      "bag": "10 티백",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "아침 식사에 맞춘 힘 있는 홍차 블렌드입니다. 우유를 넣어도 맛이 묻히지 않아 밀크티 베이스로도 쓰입니다.",
+        "en": "A full-bodied breakfast blend that stands up to milk, so it doubles as a milk-tea base.",
+        "zh-CN": "醇厚的早餐拼配红茶，加奶也不失味道，可作奶茶基底。",
+        "zh-TW": "醇厚的早餐拼配紅茶，加奶也不失味道，可作奶茶基底。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-english-breakfast.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=223"
+      }
+    },
+    {
+      "id": "aman-keemun",
+      "brand": "aman",
+      "name": {
+        "ko": "기문홍차",
+        "en": "Keemun",
+        "zh-CN": "祁门红茶",
+        "zh-TW": "祁門紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-roast",
+        "a-malt",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "중국 10대 명차이자 세계 3대 홍차로 꼽히는 기문 홍차입니다. 은은한 훈연향과 부드러운 단맛이 있어 맨잔으로도 밀크티로도 좋습니다.",
+        "en": "Keemun, one of China's ten famous teas and the world's three great blacks: a faint smoky aroma with a soft sweetness, good plain or in milk tea.",
+        "zh-CN": "中国十大名茶、世界三大红茶之一的祁门红茶，带淡雅烟香与柔和甜味，纯饮或做奶茶皆宜。",
+        "zh-TW": "中國十大名茶、世界三大紅茶之一的祁門紅茶，帶淡雅煙香與柔和甜味，純飲或做奶茶皆宜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-keemun.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=136"
+      }
+    },
+    {
+      "id": "aman-uva",
+      "brand": "aman",
+      "name": {
+        "ko": "우바",
+        "en": "Uva",
+        "zh-CN": "乌瓦红茶",
+        "zh-TW": "烏瓦紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 50",
+      "tags": [
+        "a-malt",
+        "k-crisp",
+        "s-milk",
+        "s-hot",
+        "b-medium",
+        "c-high"
+      ],
+      "note": {
+        "ko": "스리랑카 우바 고지대 다원의 BOP 등급 홍차입니다. 민트를 닮은 청량한 향과 달콤함이 함께 나는 것이 우바의 특징입니다.",
+        "en": "A BOP Ceylon from the Uva highlands, known for the minty freshness that rides over its sweetness.",
+        "zh-CN": "斯里兰卡乌瓦高地茶园的 BOP 级红茶，以薄荷般的清凉感与甜香著称。",
+        "zh-TW": "斯里蘭卡烏瓦高地茶園的 BOP 級紅茶，以薄荷般的清涼感與甜香著稱。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-uva.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=141"
+      }
+    },
+    {
+      "id": "aman-darjeeling-first-flush",
+      "brand": "aman",
+      "name": {
+        "ko": "다즐링 퍼스트 플러시",
+        "en": "Darjeeling First Flush",
+        "zh-CN": "大吉岭初摘春茶",
+        "zh-TW": "大吉嶺初摘春茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "2.5g × 50",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "b-light",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "다즐링 시요크 다원의 첫 수확으로 만든 티백입니다. '홍차의 샴페인'이라 불리는 산뜻하고 꽃 같은 향이 살아 있어 진하게 우리기보다 가볍게 우려야 합니다.",
+        "en": "First flush from the Seeyok garden in Darjeeling: the fresh, floral character that earned Darjeeling the name 'champagne of teas'. Brew it light.",
+        "zh-CN": "大吉岭西约克茶园初摘茶包，保有“红茶香槟”般的清爽花香，宜轻泡不宜久闷。",
+        "zh-TW": "大吉嶺西約克茶園初摘茶包，保有「紅茶香檳」般的清爽花香，宜輕泡不宜久悶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-darjeeling-first-flush.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=162"
+      }
+    },
+    {
+      "id": "aman-darjeeling-second-flush",
+      "brand": "aman",
+      "name": {
+        "ko": "다즐링 세컨드 플러시",
+        "en": "Darjeeling Second Flush",
+        "zh-CN": "大吉岭夏摘红茶",
+        "zh-TW": "大吉嶺夏摘紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 50",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "s-hot",
+        "b-medium",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "같은 시요크 다원의 두 번째 수확 티백입니다. 첫 수확보다 향과 무게가 진해져 홍차다운 둥근 맛이 납니다.",
+        "en": "Second flush from the same Seeyok garden: deeper in aroma and body than the first flush, a rounder black tea.",
+        "zh-CN": "同一西约克茶园次摘茶包，香与味都比初摘更浓，红茶滋味更扎实。",
+        "zh-TW": "同一西約克茶園次摘茶包，香與味都比初摘更濃，紅茶滋味更紮實。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/aman-darjeeling-second-flush.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=164"
+      }
+    },
+    {
+      "id": "aman-big-hugging",
+      "brand": "aman",
+      "name": {
+        "ko": "빅 허깅",
+        "en": "Big Hugging",
+        "zh-CN": "香草拥抱红茶",
+        "zh-TW": "香草擁抱紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 10",
+      "tags": [
+        "k-sweet",
+        "a-roast",
+        "s-milk",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "바닐라 향을 입힌 홍차 블렌드입니다. 달콤하고 포근한 향이라 우유를 넣은 라테나 아이스티로도 잘 어울립니다.",
+        "en": "A vanilla-scented black blend — sweet and warm, good as a milk latte or iced.",
+        "zh-CN": "香草调味的红茶拼配，香甜温暖，加奶做拿铁或冰饮都合适。",
+        "zh-TW": "香草調味的紅茶拼配，香甜溫暖，加奶做拿鐵或冰飲都合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/aman-big-hugging.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=54"
+      }
+    },
+    {
+      "id": "aman-winter-story",
+      "brand": "aman",
+      "name": {
+        "ko": "윈터 스토리",
+        "en": "Winter Story",
+        "zh-CN": "冬日故事香料茶",
+        "zh-TW": "冬日故事香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 10",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "홍차에 향신료를 더한 차이 블렌드로, 달콤한 수정과 같은 맛이 납니다. 차이 라테나 밀크티로 마시기 좋습니다.",
+        "en": "A chai-style black blend with spices and a sweet, sujeonggwa-like warmth — made for chai lattes and milk tea.",
+        "zh-CN": "红茶加香料的印度风味拼配，带类似肉桂甜饮的暖甜味，适合做香料奶茶。",
+        "zh-TW": "紅茶加香料的印度風味拼配，帶類似肉桂甜飲的暖甜味，適合做香料奶茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/aman-winter-story.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=91"
+      }
+    },
+    {
+      "id": "aman-masala-chai",
+      "brand": "aman",
+      "name": {
+        "ko": "마살라 차이",
+        "en": "Masala Chai",
+        "zh-CN": "印度香料茶",
+        "zh-TW": "印度香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "3g × 10",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "홍차에 인도 향신료를 배합한 마살라 차이입니다. 향신료 향이 진해 우유와 설탕을 넣은 차이 라테로 가장 잘 어울립니다.",
+        "en": "A spice-forward masala chai blend, at its best as a chai latte with milk and sugar.",
+        "zh-CN": "印度香料配比浓郁的玛萨拉香料茶，加奶加糖做成香料奶茶最合适。",
+        "zh-TW": "印度香料配比濃郁的瑪薩拉香料茶，加奶加糖做成香料奶茶最合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/aman-masala-chai.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=252"
+      }
+    },
+    {
+      "id": "aman-white-peony",
+      "brand": "aman",
+      "name": {
+        "ko": "백차(백모단)",
+        "en": "White Peony",
+        "zh-CN": "白牡丹",
+        "zh-TW": "白牡丹"
+      },
+      "type": "white",
+      "caffeine": true,
+      "temp": 85,
+      "seconds": 180,
+      "bag": "2.5g × 50",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "b-light",
+        "c-low"
+      ],
+      "note": {
+        "ko": "백모단(白牡丹) 잎을 블렌딩 없이 그대로 담은 백차 티백입니다. 꽃향과 부드러운 단맛이 있어 낮은 온도로 우려야 떫지 않습니다.",
+        "en": "White Peony (Bai Mudan) leaf alone in a bag: floral and softly sweet, best brewed cooler so it stays smooth.",
+        "zh-CN": "白牡丹原叶白茶的茶包，花香与柔甜，用较低水温冲泡才不涩。",
+        "zh-TW": "白牡丹原葉白茶的茶包，花香與柔甜，用較低水溫沖泡才不澀。"
+      },
+      "brewSource": "category",
+      "guideGroup": "white",
+      "photo": {
+        "f": "images/teabags/aman-white-peony.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=145"
+      }
+    },
+    {
+      "id": "aman-ripe-puerh",
+      "brand": "aman",
+      "name": {
+        "ko": "보이차",
+        "en": "Pu-erh (Ripe)",
+        "zh-CN": "普洱熟茶",
+        "zh-TW": "普洱熟茶"
+      },
+      "type": "dark",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 240,
+      "bag": "2g × 50",
+      "tags": [
+        "a-roast",
+        "k-crisp",
+        "s-hot",
+        "b-full",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "운남성 보이숙차를 담은 티백입니다. 흙내음 같은 진향(陳香)과 부드러운 맛이 특징이라 진하게 우려도 텁텁하지 않습니다.",
+        "en": "Ripe pu-erh from Yunnan in a bag: earthy aged aroma and a smooth body that stays clean even when brewed strong.",
+        "zh-CN": "云南普洱熟茶茶包，带陈香与柔滑口感，久泡也不涩。",
+        "zh-TW": "雲南普洱熟茶茶包，帶陳香與柔滑口感，久泡也不澀。"
+      },
+      "brewSource": "category",
+      "guideGroup": "dark",
+      "photo": {
+        "f": "images/teabags/aman-ripe-puerh.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=158"
+      }
+    },
+    {
+      "id": "aman-tieguanyin-oolong",
+      "brand": "aman",
+      "name": {
+        "ko": "우롱차(철관음)",
+        "en": "Tieguanyin Oolong",
+        "zh-CN": "铁观音乌龙",
+        "zh-TW": "鐵觀音烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.2g × 50",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "b-medium",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "복건성 농향계 철관음으로 만든 우롱차 티백입니다. 구수한 향과 둥굴레 같은 단맛이 오래 남습니다.",
+        "en": "A roasted (nongxiang) Tieguanyin oolong from Fujian: toasted aroma with a lingering root-like sweetness.",
+        "zh-CN": "福建浓香型铁观音乌龙茶包，焙香明显，回甘悠长。",
+        "zh-TW": "福建濃香型鐵觀音烏龍茶包，焙香明顯，回甘悠長。"
+      },
+      "brewSource": "category",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/aman-tieguanyin-oolong.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=160"
+      }
+    },
+    {
+      "id": "aman-milky-oolong",
+      "brand": "aman",
+      "name": {
+        "ko": "밀키우롱",
+        "en": "Milky Oolong",
+        "zh-CN": "奶香乌龙",
+        "zh-TW": "奶香烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 150,
+      "bag": "10 티백",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "대만에서 개발된 밀키우롱 품종으로 만든 우롱차입니다. 버터와 우유를 닮은 향이 진하게 나 우유를 넣지 않아도 밀크티 같은 느낌이 납니다.",
+        "en": "A Taiwanese milky oolong: a strong butter-and-cream aroma that reads like milk tea even without milk.",
+        "zh-CN": "台湾培育的奶香乌龙，奶油与牛奶般的香气浓郁，不加奶也有奶茶感。",
+        "zh-TW": "台灣培育的奶香烏龍，奶油與牛奶般的香氣濃郁，不加奶也有奶茶感。"
+      },
+      "brewSource": "category",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/aman-milky-oolong.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=261"
+      }
+    },
+    {
+      "id": "aman-peach-oolong",
+      "brand": "aman",
+      "name": {
+        "ko": "피치우롱",
+        "en": "Peach Oolong",
+        "zh-CN": "蜜桃乌龙",
+        "zh-TW": "蜜桃烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 90,
+      "seconds": 180,
+      "bag": "10 티백",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "복숭아 향을 입힌 우롱차입니다. 달콤하고 상큼한 향이 우롱의 구수함과 어울려 아이스티로도 잘 맞습니다.",
+        "en": "Oolong scented with peach: a sweet, bright aroma over a toasted base, good iced too.",
+        "zh-CN": "蜜桃香乌龙茶，甜香清爽，衬着焙火底韵，冰饮也合适。",
+        "zh-TW": "蜜桃香烏龍茶，甜香清爽，襯著焙火底韻，冰飲也合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/aman-peach-oolong.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=262"
+      }
+    },
+    {
+      "id": "aman-jasmine-green",
+      "brand": "aman",
+      "name": {
+        "ko": "자스민",
+        "en": "Jasmine Green Tea",
+        "zh-CN": "茉莉绿茶",
+        "zh-TW": "茉莉綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 150,
+      "bag": "50 티백",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "자스민 향을 입힌 녹차입니다. 꽃향이 진하고 잔은 부드러워 진하게 우려도 쓴맛이 적습니다.",
+        "en": "Jasmine-scented green tea: a full floral nose with a soft cup that stays low in bitterness.",
+        "zh-CN": "茉莉花窨制的绿茶，花香饱满、口感柔顺，浓泡苦味也轻。",
+        "zh-TW": "茉莉花窨製的綠茶，花香飽滿、口感柔順，濃泡苦味也輕。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/aman-jasmine-green.jpg",
+        "cr": "amanpremiumtea.co.kr",
+        "pg": "https://amanpremiumtea.co.kr/product/detail.html?product_no=282"
       }
     }
   ]
