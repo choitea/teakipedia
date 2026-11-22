@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
-  "note": "티백 33종·13개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 그 밖의 브랜드는 제품별 안내가 확인되지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). pack·향미 표기는 브랜드 공개 설명을 요약했습니다. 타 브랜드 밀크티 완제품은 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
+  "updated": "2026-11-23",
+  "note": "티백 96종·14개 브랜드. 제품명은 각 브랜드가 실제로 판매하는 라인만 실었습니다. 오설록 제품의 우림 온도·시간은 오설록 공식 상품 안내(녹차 70℃ 1분 30초, 홍차·발효차·허브티 90℃ 2~3분)를 따랐고, 타바론(타바론 공식몰)·아마드티(아마드티 공식 스토어)는 제품별 안내를 그대로 옮겼으며(brewSource: brand), 트와이닝은 공식 사이트가 물 온도를 밝히지 않아 같은 차종의 일반 기준으로 적었습니다(brewSource: category). 타바론·아마드티의 제품 안내가 없는 항목도 같은 차종 기준을 따랐습니다. 허브차·과일 인퓨전과 잎차 전용 제품, 여러 차가 섞인 선물·시음 세트는 넣지 않았습니다. 제품 사진은 각 브랜드·판매처의 공개 상품 이미지를 카드용으로 정리해 넣었습니다(출처는 각 항목의 photo 필드).",
   "brands": {
     "twinings": {
       "name": "Twinings",
-      "ko": "트와이닝스",
+      "ko": "트와이닝",
       "country": "UK",
       "zh-CN": "川宁",
       "zh-TW": "川寧"
     },
     "ahmad": {
       "name": "Ahmad Tea",
-      "ko": "아흐마드티",
+      "ko": "아마드티",
       "country": "UK",
       "zh-CN": "亚曼",
       "zh-TW": "亞曼"
@@ -93,6 +93,13 @@
       "country": "UK",
       "zh-CN": "立顿",
       "zh-TW": "立頓"
+    },
+    "tavalon": {
+      "name": "Tavalon",
+      "ko": "타바론",
+      "country": "US",
+      "zh-CN": "塔瓦隆",
+      "zh-TW": "塔瓦隆"
     }
   },
   "bags": [
@@ -1412,6 +1419,2169 @@
       "affiliate": {
         "url": "https://link.coupang.com/a/iR14yY11H2",
         "price": 3300
+      }
+    },
+    {
+      "id": "twinings-everyday",
+      "brand": "twinings",
+      "name": {
+        "ko": "에브리데이",
+        "en": "Everyday",
+        "zh-CN": "日常红茶",
+        "zh-TW": "日常紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 80",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "아쌈·실론·중국 홍차를 섞은 매일 마시는 기본 홍차. 진하게 우려도 떫음이 적어 아침저녁으로 부담 없습니다.",
+        "en": "A daily blend of Assam, Ceylon and Chinese black teas; it takes a firm brew without turning harsh.",
+        "zh-CN": "阿萨姆、锡兰与中国红茶拼配的日常红茶，浓泡也不易涩。",
+        "zh-TW": "阿薩姆、錫蘭與中國紅茶拼配的日常紅茶，濃泡也不易澀。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-everyday.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/everyday-80-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-english-afternoon",
+      "brand": "twinings",
+      "name": {
+        "ko": "잉글리시 애프터눈",
+        "en": "English Afternoon",
+        "zh-CN": "英式下午茶",
+        "zh-TW": "英式下午茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 80",
+      "tags": [
+        "a-floral",
+        "a-malt",
+        "k-crisp",
+        "s-hot",
+        "c-mid",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "브렉퍼스트보다 가볍게 잡은 오후용 블렌드. 우유 없이 마셔도 부드럽고 간식과 잘 어울립니다.",
+        "en": "A lighter afternoon blend than breakfast tea — smooth without milk and good with sweets.",
+        "zh-CN": "比早餐茶轻盈的下午拼配，不加奶也柔顺，适合搭配点心。",
+        "zh-TW": "比早餐茶輕盈的下午拼配，不加奶也柔順，適合搭配點心。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-english-afternoon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/english-afternoon-80-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-assam",
+      "brand": "twinings",
+      "name": {
+        "ko": "아쌈",
+        "en": "Assam",
+        "zh-CN": "阿萨姆",
+        "zh-TW": "阿薩姆"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "인도 아쌈 지역의 진한 몰트 향. 우유를 넣으면 색이 짙어지고 단맛이 살아나 밀크티 베이스로도 좋습니다.",
+        "en": "Deep malt from Assam; milk deepens the colour and brings out sweetness, so it makes a good milk-tea base.",
+        "zh-CN": "印度阿萨姆的浓厚麦芽香，加奶后颜色加深、甜味突出，可作奶茶基底。",
+        "zh-TW": "印度阿薩姆的濃厚麥芽香，加奶後顏色加深、甜味突出，可作奶茶基底。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-assam.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/assam-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-ceylon",
+      "brand": "twinings",
+      "name": {
+        "ko": "실론",
+        "en": "Ceylon",
+        "zh-CN": "锡兰",
+        "zh-TW": "錫蘭"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 40",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-high"
+      ],
+      "note": {
+        "ko": "스리랑카 찻잎의 밝은 황금빛과 시트러스 같은 산뜻함. 우유 없이 마시는 스트레이트 홍차로 적합합니다.",
+        "en": "Bright gold and a citrus-like lift from Sri Lankan leaf — best drunk straight, without milk.",
+        "zh-CN": "斯里兰卡茶叶的明亮金黄与柑橘般清爽，适合纯饮。",
+        "zh-TW": "斯里蘭卡茶葉的明亮金黃與柑橘般清爽，適合純飲。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-ceylon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/ceylon-40-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-darjeeling",
+      "brand": "twinings",
+      "name": {
+        "ko": "다즐링",
+        "en": "Darjeeling",
+        "zh-CN": "大吉岭",
+        "zh-TW": "大吉嶺"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 150,
+      "bag": "2.5g × 40",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "히말라야 고산의 홍차. 포도 같은 향과 가벼운 떫음이 있어 진하게 우리기보다 짧게 우려야 합니다.",
+        "en": "Himalayan high-grown leaf with a grape-like aroma and light astringency; brew it short rather than strong.",
+        "zh-CN": "喜马拉雅高山红茶，带葡萄般香气与轻微涩感，宜短时间冲泡。",
+        "zh-TW": "喜馬拉雅高山紅茶，帶葡萄般香氣與輕微澀感，宜短時間沖泡。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-darjeeling.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/darjeeling-40-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-nambarrie",
+      "brand": "twinings",
+      "name": {
+        "ko": "남바리",
+        "en": "Nambarrie",
+        "zh-CN": "南巴里",
+        "zh-TW": "南巴里"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 80",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "북아일랜드에서 마시던 진한 데일리 블렌드. 우유와 설탕을 넣어도 맛이 무너지지 않습니다.",
+        "en": "A strong everyday blend drunk in Northern Ireland; it holds its shape with milk and sugar.",
+        "zh-CN": "北爱尔兰日常饮用的浓烈拼配，加奶加糖也不失结构。",
+        "zh-TW": "北愛爾蘭日常飲用的濃烈拼配，加奶加糖也不失結構。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-nambarrie.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/nambarrie-80-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-strong-english-breakfast",
+      "brand": "twinings",
+      "name": {
+        "ko": "스트롱 잉글리시 브렉퍼스트",
+        "en": "Strong English Breakfast",
+        "zh-CN": "浓英式早餐茶",
+        "zh-TW": "濃英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 210,
+      "bag": "2.5g × 120",
+      "tags": [
+        "a-malt",
+        "b-full",
+        "s-milk",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "잉글리시 브렉퍼스트를 더 진하게 잡은 버전. 우유를 넣어도 향이 남아 카페 아침 메뉴에 맞습니다.",
+        "en": "A stronger take on English Breakfast that keeps its flavour under milk — suited to a café breakfast.",
+        "zh-CN": "英式早餐茶的加浓版本，加奶后仍有茶香，适合咖啡馆早餐。",
+        "zh-TW": "英式早餐茶的加濃版本，加奶後仍有茶香，適合咖啡館早餐。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-strong-english-breakfast.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/strong-english-breakfast-120-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-english-breakfast-decaf",
+      "brand": "twinings",
+      "name": {
+        "ko": "디카페인 잉글리시 브렉퍼스트",
+        "en": "English Breakfast Decaffeinated",
+        "zh-CN": "低因英式早餐茶",
+        "zh-TW": "低因英式早餐茶"
+      },
+      "type": "black",
+      "caffeine": false,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 40",
+      "tags": [
+        "a-malt",
+        "b-medium",
+        "s-milk",
+        "s-hot",
+        "c-low"
+      ],
+      "note": {
+        "ko": "카페인을 뺀 잉글리시 브렉퍼스트. 저녁이나 카페인에 예민한 손님에게 같은 맛으로 낼 수 있습니다.",
+        "en": "English Breakfast without the caffeine — the same cup for the evening or a caffeine-sensitive guest.",
+        "zh-CN": "去除咖啡因的英式早餐茶，晚上或对咖啡因敏感的客人也能享用。",
+        "zh-TW": "去除咖啡因的英式早餐茶，晚上或對咖啡因敏感的客人也能享用。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-english-breakfast-decaf.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/english-breakfast-decaffeinated-40-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-earl-grey-decaf",
+      "brand": "twinings",
+      "name": {
+        "ko": "디카페인 얼그레이",
+        "en": "Earl Grey Decaffeinated",
+        "zh-CN": "低因伯爵茶",
+        "zh-TW": "低因伯爵茶"
+      },
+      "type": "black",
+      "caffeine": false,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 40",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "c-low"
+      ],
+      "note": {
+        "ko": "베르가못 향은 그대로 두고 카페인만 뺀 얼그레이. 늦은 시간에도 향을 즐기고 싶을 때 좋습니다.",
+        "en": "Earl Grey with the bergamot intact and the caffeine removed — for a fragrant cup late in the day.",
+        "zh-CN": "保留佛手柑香、去除咖啡因的伯爵茶，适合夜晚享用。",
+        "zh-TW": "保留佛手柑香、去除咖啡因的伯爵茶，適合夜晚享用。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-earl-grey-decaf.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/earl-grey-decaffeinated-40-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-strong-earl-grey",
+      "brand": "twinings",
+      "name": {
+        "ko": "스트롱 얼그레이",
+        "en": "Strong Earl Grey",
+        "zh-CN": "浓伯爵茶",
+        "zh-TW": "濃伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-floral",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "얼그레이의 베르가못을 더 진하게 올린 버전. 우유를 넣어도 향이 남아 밀크티로도 향이 살아 있습니다.",
+        "en": "Earl Grey with a heavier bergamot hand; the scent survives milk, so it works as a milk tea too.",
+        "zh-CN": "佛手柑加重的伯爵茶，加奶后香气仍在，可作奶茶。",
+        "zh-TW": "佛手柑加重的伯爵茶，加奶後香氣仍在，可作奶茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-strong-earl-grey.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/strong-earl-grey-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-vanilla-earl-grey",
+      "brand": "twinings",
+      "name": {
+        "ko": "바닐라 얼그레이",
+        "en": "Vanilla Earl Grey",
+        "zh-CN": "香草伯爵茶",
+        "zh-TW": "香草伯爵茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "베르가못 위에 바닐라의 달콤한 향을 얹었습니다. 홍차의 떫음이 줄어 디저트 대용으로도 좋습니다.",
+        "en": "Bergamot layered with sweet vanilla; the astringency softens, so it stands in for dessert.",
+        "zh-CN": "佛手柑上叠加香草甜香，涩感变柔，可当甜点搭配。",
+        "zh-TW": "佛手柑上疊加香草甜香，澀感變柔，可當甜點搭配。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/twinings-vanilla-earl-grey.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/vanilla-earl-grey-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-classic-chai",
+      "brand": "twinings",
+      "name": {
+        "ko": "클래식 차이",
+        "en": "Classic Chai",
+        "zh-CN": "经典香料茶",
+        "zh-TW": "經典香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "계피·생강·카다멈을 홍차에 더한 인도식 차이. 우유와 설탕을 넣고 끓이면 마살라 차이가 됩니다.",
+        "en": "An Indian-style chai of cinnamon, ginger and cardamom; simmer with milk and sugar for a proper masala chai.",
+        "zh-CN": "肉桂、生姜与小豆蔻加入红茶的印度风味，加奶加糖煮开即成马萨拉茶。",
+        "zh-TW": "肉桂、生薑與小豆蔻加入紅茶的印度風味，加奶加糖煮開即成馬薩拉茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-classic-chai.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/classic-chai-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-vanilla-chai",
+      "brand": "twinings",
+      "name": {
+        "ko": "바닐라 차이",
+        "en": "Vanilla Chai",
+        "zh-CN": "香草香料茶",
+        "zh-TW": "香草香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "차이의 향신료에 바닐라를 더해 부드럽게 만든 블렌드. 우유를 넣으면 향이 둥글게 정리됩니다.",
+        "en": "Chai spices rounded with vanilla; milk pulls it together into a soft, sweet cup.",
+        "zh-CN": "香料茶加入香草，风味更圆润，加奶后更加柔顺。",
+        "zh-TW": "香料茶加入香草，風味更圓潤，加奶後更加柔順。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-vanilla-chai.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/vanilla-chai-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-chai-ultra-spice",
+      "brand": "twinings",
+      "name": {
+        "ko": "차이 울트라 스파이스",
+        "en": "Chai Ultra Spice",
+        "zh-CN": "特浓香料茶",
+        "zh-TW": "特濃香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-roast",
+        "b-full",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "향신료를 강하게 잡은 차이. 우유를 넣어야 균형이 잡히고 맨물로는 자극적으로 느껴질 수 있습니다.",
+        "en": "A chai with the spices turned up; it needs milk to balance and can feel sharp on its own.",
+        "zh-CN": "香料加重的印度茶，需加奶平衡，纯饮偏刺激。",
+        "zh-TW": "香料加重的印度茶，需加奶平衡，純飲偏刺激。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-chai-ultra-spice.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/chai-ultra-spice-black-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-chai-spiced-apple",
+      "brand": "twinings",
+      "name": {
+        "ko": "차이 스파이스드 애플",
+        "en": "Chai Spiced Apple",
+        "zh-CN": "香料苹果茶",
+        "zh-TW": "香料蘋果茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "a-roast",
+        "k-sweet",
+        "s-milk"
+      ],
+      "note": {
+        "ko": "차이 향신료에 사과 향을 더했습니다. 가을·겨울에 우유를 넣어 마시기 좋은 달콤한 차입니다.",
+        "en": "Chai spice with apple; a sweet autumn-and-winter cup that takes milk well.",
+        "zh-CN": "香料茶加入苹果香，秋冬加奶饮用最合适。",
+        "zh-TW": "香料茶加入蘋果香，秋冬加奶飲用最合適。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-chai-spiced-apple.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/chai-spiced-apple-black-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-chai-pumpkin-spice",
+      "brand": "twinings",
+      "name": {
+        "ko": "차이 펌킨 스파이스",
+        "en": "Chai Pumpkin Spice",
+        "zh-CN": "南瓜香料茶",
+        "zh-TW": "南瓜香料茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 240,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk"
+      ],
+      "note": {
+        "ko": "호박과 계피·육두구 계열 향신료를 겹친 계절 차이. 우유를 넣으면 단맛이 살아납니다.",
+        "en": "Pumpkin with cinnamon-and-nutmeg spice, a seasonal chai that sweetens up with milk.",
+        "zh-CN": "南瓜与肉桂、肉豆蔻等香料叠加的季节茶，加奶后更甜。",
+        "zh-TW": "南瓜與肉桂、肉豆蔻等香料疊加的季節茶，加奶後更甜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-chai-pumpkin-spice.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/chai-pumpkin-spice-black-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-caramel-black",
+      "brand": "twinings",
+      "name": {
+        "ko": "캐러멜 블랙",
+        "en": "Caramel Black Tea",
+        "zh-CN": "焦糖红茶",
+        "zh-TW": "焦糖紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "k-sweet",
+        "a-roast",
+        "s-milk",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "캐러멜 향을 입힌 홍차. 단맛이 앞서지만 홍차의 몸통은 남아 있어 우유를 넣어도 됩니다.",
+        "en": "Black tea with a caramel overlay; sweet up front with the tea body still underneath, so milk works.",
+        "zh-CN": "焦糖风味红茶，甜香在前而茶体仍在，可加奶。",
+        "zh-TW": "焦糖風味紅茶，甜香在前而茶體仍在，可加奶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-caramel-black.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/caramel-black-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-cocoa-black",
+      "brand": "twinings",
+      "name": {
+        "ko": "코코아 블랙",
+        "en": "Cocoa Black Tea",
+        "zh-CN": "可可红茶",
+        "zh-TW": "可可紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "k-sweet",
+        "a-roast",
+        "s-milk",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "홍차에 코코아 향을 얹었습니다. 우유를 넣으면 초콜릿 밀크티에 가까워집니다.",
+        "en": "Black tea with cocoa; with milk it moves close to a chocolate milk tea.",
+        "zh-CN": "红茶加可可香，加奶后接近巧克力奶茶。",
+        "zh-TW": "紅茶加可可香，加奶後接近巧克力奶茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-cocoa-black.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/cocoa-black-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-cherry-cinnamon",
+      "brand": "twinings",
+      "name": {
+        "ko": "체리 & 시나몬",
+        "en": "Cherry & Cinnamon",
+        "zh-CN": "樱桃肉桂",
+        "zh-TW": "櫻桃肉桂"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "체리의 새콤함과 계피의 따뜻한 향이 같이 올라옵니다. 겨울에 우유를 넣어 마시기 좋습니다.",
+        "en": "Tart cherry and warm cinnamon rise together; a winter cup that takes milk well.",
+        "zh-CN": "樱桃酸香与肉桂暖香并起，冬天加奶好喝。",
+        "zh-TW": "櫻桃酸香與肉桂暖香並起，冬天加奶好喝。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-cherry-cinnamon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/cherry-cinnamon-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-orange-cinnamon",
+      "brand": "twinings",
+      "name": {
+        "ko": "오렌지 & 시나몬",
+        "en": "Orange & Cinnamon",
+        "zh-CN": "香橙肉桂",
+        "zh-TW": "香橙肉桂"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 25",
+      "tags": [
+        "a-fruit",
+        "a-roast",
+        "s-iced",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "오렌지 껍질과 계피를 홍차에 더했습니다. 향이 진해 아이스로도 잘 살아납니다.",
+        "en": "Orange peel and cinnamon over black tea; the aroma is strong enough to hold up iced.",
+        "zh-CN": "橙皮与肉桂加入红茶，香气浓郁，冰饮也撑得住。",
+        "zh-TW": "橙皮與肉桂加入紅茶，香氣濃郁，冰飲也撐得住。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-orange-cinnamon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/orange-and-cinnamon-tea-international-blend-25-envelopes"
+      }
+    },
+    {
+      "id": "twinings-black-tea-lemon",
+      "brand": "twinings",
+      "name": {
+        "ko": "블랙 티 레몬",
+        "en": "Black Tea with Lemon",
+        "zh-CN": "柠檬红茶",
+        "zh-TW": "檸檬紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 25",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "레몬 향을 더한 홍차. 진하게 우려 얼음을 채우면 카페 레몬 아이스티가 됩니다.",
+        "en": "Black tea with lemon; brew it strong over ice for a café-style lemon iced tea.",
+        "zh-CN": "柠檬风味红茶，浓泡后加冰即成咖啡馆柠檬冰茶。",
+        "zh-TW": "檸檬風味紅茶，濃泡後加冰即成咖啡館檸檬冰茶。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-black-tea-lemon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/black-tea-with-lemon-international-blend-25-envelopes"
+      }
+    },
+    {
+      "id": "twinings-black-tea-apple-cinnamon-raisin",
+      "brand": "twinings",
+      "name": {
+        "ko": "블랙 티 애플·시나몬·레이즌",
+        "en": "Black Tea with Apple, Cinnamon & Raisin",
+        "zh-CN": "苹果肉桂葡萄干红茶",
+        "zh-TW": "蘋果肉桂葡萄乾紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 25",
+      "tags": [
+        "a-fruit",
+        "a-roast",
+        "k-sweet",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "사과·계피·건포도를 함께 넣은 향. 건포도의 단맛이 붙어 우유 없이도 충분히 달콤합니다.",
+        "en": "Apple, cinnamon and raisin together; the raisin sweetness makes milk unnecessary.",
+        "zh-CN": "苹果、肉桂与葡萄干，葡萄干的甜味让纯饮已够甜。",
+        "zh-TW": "蘋果、肉桂與葡萄乾，葡萄乾的甜味讓純飲已夠甜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-black-tea-apple-cinnamon-raisin.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/black-tea-with-apple-cinnamon-raisin-international-blend-25-envelopes"
+      }
+    },
+    {
+      "id": "twinings-wild-berry",
+      "brand": "twinings",
+      "name": {
+        "ko": "와일드 베리",
+        "en": "Wild Berry Tea",
+        "zh-CN": "野莓红茶",
+        "zh-TW": "野莓紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 25",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "베리 향을 입힌 홍차. 산미가 있어 아이스티로 마실 때 가장 산뜻합니다.",
+        "en": "Black tea with wild-berry flavour; the acidity shows best over ice.",
+        "zh-CN": "野莓风味红茶，带酸度，冰饮最清爽。",
+        "zh-TW": "野莓風味紅茶，帶酸度，冰飲最清爽。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-wild-berry.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/wild-berry-tea-international-blend-25-envelopes"
+      }
+    },
+    {
+      "id": "twinings-pure-white",
+      "brand": "twinings",
+      "name": {
+        "ko": "퓨어 화이트 티",
+        "en": "Pure White Tea",
+        "zh-CN": "白茶",
+        "zh-TW": "白茶"
+      },
+      "type": "white",
+      "caffeine": true,
+      "temp": 85,
+      "seconds": 120,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "어린 잎을 말린 백차. 85℃ 정도에서 짧게 우려야 풀향과 단맛이 살고 떫음이 붙지 않습니다.",
+        "en": "White leaf, lightly dried; brew near 85 °C and briefly to keep the hay-like aroma and sweetness without astringency.",
+        "zh-CN": "白叶茶，约85℃短泡可保留干草香与甜味，不易出涩。",
+        "zh-TW": "白葉茶，約85℃短泡可保留乾草香與甜味，不易出澀。"
+      },
+      "brewSource": "category",
+      "guideGroup": "white",
+      "photo": {
+        "f": "images/teabags/twinings-pure-white.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/pure-white-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-pure-oolong",
+      "brand": "twinings",
+      "name": {
+        "ko": "퓨어 우롱 티",
+        "en": "Pure Oolong Tea",
+        "zh-CN": "乌龙茶",
+        "zh-TW": "烏龍茶"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 95,
+      "seconds": 180,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-floral",
+        "b-medium",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "반발효 우롱차. 꽃향과 부드러운 바디가 있어 두 번째 우리에도 맛이 급히 무너지지 않습니다.",
+        "en": "A semi-oxidised oolong with floral notes and a soft body that survives a second infusion.",
+        "zh-CN": "半发酵乌龙，花香与柔和茶体，回冲也不易崩。",
+        "zh-TW": "半發酵烏龍，花香與柔和茶體，回沖也不易崩。"
+      },
+      "brewSource": "category",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/twinings-pure-oolong.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/pure-oolong-tea-international-blend-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-green-black-blend",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 & 블랙 티 블렌드",
+        "en": "Green Tea & Black Tea Blend",
+        "zh-CN": "绿红拼配",
+        "zh-TW": "綠紅拼配"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 85,
+      "seconds": 120,
+      "bag": "2.5g × 80",
+      "tags": [
+        "a-grass",
+        "a-malt",
+        "k-crisp",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "녹차와 홍차를 섞은 블렌드. 온도는 녹차 쪽에 맞춰 85℃ 정도가 적당합니다.",
+        "en": "Green and black tea together; brew around 85 °C to suit the greener half.",
+        "zh-CN": "绿茶与红茶拼配，水温宜按绿茶取约85℃。",
+        "zh-TW": "綠茶與紅茶拼配，水溫宜按綠茶取約85℃。"
+      },
+      "brewSource": "category",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/twinings-green-black-blend.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-blend-80-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-pure-green",
+      "brand": "twinings",
+      "name": {
+        "ko": "퓨어 그린 티",
+        "en": "Pure Green Tea",
+        "zh-CN": "绿茶",
+        "zh-TW": "綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-grass",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "증청·덖음으로 만든 기본 녹차. 75℃에서 1분 30초면 풀향과 감칠맛이 남고 쓴맛이 덜합니다.",
+        "en": "A basic steamed-and-pan-fired green; 75 °C for about ninety seconds keeps the grassy umami and holds back bitterness.",
+        "zh-CN": "蒸青与炒青的基础绿茶，75℃约一分半可留青草鲜味、少苦。",
+        "zh-TW": "蒸青與炒青的基礎綠茶，75℃約一分半可留青草鮮味、少苦。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-pure-green.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/pure-green-tea-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-jasmine",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 & 자스민",
+        "en": "Green Tea & Jasmine",
+        "zh-CN": "茉莉绿茶",
+        "zh-TW": "茉莉綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "녹차에 자스민 꽃향을 입혔습니다. 향이 가벼워 75℃에서 짧게 우리는 편이 좋습니다.",
+        "en": "Green tea scented with jasmine; the aroma is light, so keep the water near 75 °C and the steep short.",
+        "zh-CN": "绿茶窨制茉莉花香，水温约75℃、短泡为宜。",
+        "zh-TW": "綠茶窨製茉莉花香，水溫約75℃、短泡為宜。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-jasmine.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-jasmine-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-lemon",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 & 레몬",
+        "en": "Green Tea & Lemon",
+        "zh-CN": "柠檬绿茶",
+        "zh-TW": "檸檬綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "a-grass",
+        "k-crisp",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "녹차에 레몬 향을 더했습니다. 차게 마시면 산미가 살아나 식후 입가심으로 좋습니다.",
+        "en": "Green tea with lemon; served cold the acidity wakes up and cleans the palate after a meal.",
+        "zh-CN": "绿茶加柠檬香，冷饮酸度更明显，适合餐后。",
+        "zh-TW": "綠茶加檸檬香，冷飲酸度更明顯，適合餐後。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-lemon.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-lemon-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-ginger",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 & 생강",
+        "en": "Green Tea & Ginger",
+        "zh-CN": "生姜绿茶",
+        "zh-TW": "生薑綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 120,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-grass",
+        "a-roast",
+        "s-hot",
+        "m-cozy"
+      ],
+      "note": {
+        "ko": "녹차에 생강의 알싸함을 더했습니다. 몸이 차가울 때 따뜻하게 마시기 좋습니다.",
+        "en": "Green tea with the bite of ginger; a warming cup when you feel chilled.",
+        "zh-CN": "绿茶加入生姜辛香，身体发冷时热饮正好。",
+        "zh-TW": "綠茶加入生薑辛香，身體發冷時熱飲正好。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-ginger.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-ginger-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-mango-lychee",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 망고 & 리치",
+        "en": "Green Tea, Mango & Lychee",
+        "zh-CN": "芒果荔枝绿茶",
+        "zh-TW": "芒果荔枝綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "망고와 리치의 열대 향을 녹차에 얹었습니다. 차게 마시면 향이 더 또렷합니다.",
+        "en": "Tropical mango and lychee on green tea; the aroma comes through more clearly iced.",
+        "zh-CN": "芒果与荔枝的热带香气附在绿茶上，冰饮香气更清晰。",
+        "zh-TW": "芒果與荔枝的熱帶香氣附在綠茶上，冰飲香氣更清晰。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-mango-lychee.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-mango-lychee-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-apple-pear",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 애플 & 페어",
+        "en": "Green Tea, Apple & Pear",
+        "zh-CN": "苹果梨绿茶",
+        "zh-TW": "蘋果梨綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "사과와 배의 향을 더한 녹차. 단맛이 은은해 아이스로도 부담이 없습니다.",
+        "en": "Green tea with apple and pear; the sweetness is gentle enough to serve iced.",
+        "zh-CN": "苹果与梨香绿茶，甜味淡雅，冰饮也轻松。",
+        "zh-TW": "蘋果與梨香綠茶，甜味淡雅，冰飲也輕鬆。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-apple-pear.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-apple-pear-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-pomegranate",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 & 석류",
+        "en": "Green Tea & Pomegranate",
+        "zh-CN": "石榴绿茶",
+        "zh-TW": "石榴綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "석류의 새콤한 향을 녹차에 더했습니다. 산미가 녹차의 풀향을 가리지 않습니다.",
+        "en": "Pomegranate over green tea; the tartness sits beside the grassy note rather than hiding it.",
+        "zh-CN": "石榴酸香加入绿茶，酸味不掩盖青草香。",
+        "zh-TW": "石榴酸香加入綠茶，酸味不掩蓋青草香。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-pomegranate.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-pomegranate-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-green-mint",
+      "brand": "twinings",
+      "name": {
+        "ko": "그린 티 & 민트",
+        "en": "Green Tea & Mint",
+        "zh-CN": "薄荷绿茶",
+        "zh-TW": "薄荷綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 120,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-herb",
+        "a-grass",
+        "k-crisp",
+        "m-refresh"
+      ],
+      "note": {
+        "ko": "녹차에 민트를 더했습니다. 80℃ 정도에서 우려야 민트의 청량함과 녹차의 쓴맛이 균형을 이룹니다.",
+        "en": "Green tea with mint; near 80 °C the mint's coolness and the tea's bitterness balance.",
+        "zh-CN": "绿茶加薄荷，约80℃时清凉感与茶苦平衡。",
+        "zh-TW": "綠茶加薄荷，約80℃時清涼感與茶苦平衡。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-green-mint.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/green-tea-mint-20-tea-bags"
+      }
+    },
+    {
+      "id": "twinings-salted-caramel-green",
+      "brand": "twinings",
+      "name": {
+        "ko": "솔티드 캐러멜 그린 티",
+        "en": "Salted Caramel Indulgence Green Tea",
+        "zh-CN": "咸焦糖绿茶",
+        "zh-TW": "鹹焦糖綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "k-sweet",
+        "a-roast",
+        "s-hot",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "녹차에 소금기 있는 캐러멜 향을 입혔습니다. 단 향이 강해 진하게 우리면 쓴맛이 앞섭니다.",
+        "en": "Green tea with a salted-caramel flavour; the sweet aroma is strong, so a long steep brings out bitterness.",
+        "zh-CN": "绿茶加咸焦糖香，甜香浓，久泡易出苦。",
+        "zh-TW": "綠茶加鹹焦糖香，甜香濃，久泡易出苦。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-salted-caramel-green.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/salted-caramel-indulgence-green-tea-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-gingerbread-green",
+      "brand": "twinings",
+      "name": {
+        "ko": "진저브레드 그린 티",
+        "en": "Gingerbread Indulgence Green Tea",
+        "zh-CN": "姜饼绿茶",
+        "zh-TW": "薑餅綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-hot",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "생강·계피·몰트를 겹친 진저브레드 향의 녹차. 겨울 디저트와 함께 마시기 좋습니다.",
+        "en": "Green tea with gingerbread spice — ginger, cinnamon and malt; made for winter sweets.",
+        "zh-CN": "姜饼香料（姜、肉桂、麦芽）绿茶，适合冬天配甜点。",
+        "zh-TW": "薑餅香料（薑、肉桂、麥芽）綠茶，適合冬天配甜點。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-gingerbread-green.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/gingerbread-indulgence-green-tea-20-envelopes"
+      }
+    },
+    {
+      "id": "twinings-simply-sencha",
+      "brand": "twinings",
+      "name": {
+        "ko": "심플리 센차",
+        "en": "Simply Sencha",
+        "zh-CN": "煎茶",
+        "zh-TW": "煎茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-grass",
+        "k-crisp",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "피라미드 티백에 든 센차. 잎이 넓게 펴져 75℃에서 1분 남짓이면 감칠맛이 살아납니다.",
+        "en": "Sencha in a pyramid bag where the leaf opens out; about a minute at 75 °C brings out its umami.",
+        "zh-CN": "金字塔茶包中的煎茶，叶片舒展，75℃约一分钟可出鲜味。",
+        "zh-TW": "金字塔茶包中的煎茶，葉片舒展，75℃約一分鐘可出鮮味。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-simply-sencha.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/simply-sencha-15-pyramid-bags-individually-wrapped"
+      }
+    },
+    {
+      "id": "twinings-strawberry-green",
+      "brand": "twinings",
+      "name": {
+        "ko": "스트로베리 그린 티",
+        "en": "Strawberry Green Tea",
+        "zh-CN": "草莓绿茶",
+        "zh-TW": "草莓綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 75,
+      "seconds": 90,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "딸기 향을 더한 녹차. 피라미드 백이라 잎이 넓게 펴져 향이 부드럽습니다.",
+        "en": "Green tea with strawberry in a pyramid bag; the open leaf keeps the aroma soft.",
+        "zh-CN": "草莓香绿茶，金字塔茶包让叶片舒展，香气柔和。",
+        "zh-TW": "草莓香綠茶，金字塔茶包讓葉片舒展，香氣柔和。"
+      },
+      "brewSource": "category",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/twinings-strawberry-green.jpg",
+        "cr": "twinings.co.uk",
+        "pg": "https://twinings.co.uk/products/strawberry-green-tea-15-pyramid-bags-individually-wrapped"
+      }
+    },
+    {
+      "id": "tavalon-mango-melange",
+      "brand": "tavalon",
+      "name": {
+        "ko": "망고 멜랑",
+        "en": "Mango Melange",
+        "zh-CN": "芒果调和红茶",
+        "zh-TW": "芒果調和紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-milk",
+        "s-iced",
+        "c-high"
+      ],
+      "note": {
+        "ko": "홍차에 천연 망고 오일과 망고 조각, 해바라기 꽃잎을 더했습니다. 열대 향이 앞서지만 홍차의 몸통은 남아 있습니다.",
+        "en": "Black tea with natural mango oil, mango pieces and sunflower petals; tropical up front with the tea's body underneath.",
+        "zh-CN": "红茶加入天然芒果油、芒果果粒与向日葵花瓣，热带香气之下仍有茶体。",
+        "zh-TW": "紅茶加入天然芒果油、芒果果粒與向日葵花瓣，熱帶香氣之下仍有茶體。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/tavalon-mango-melange.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718398"
+      }
+    },
+    {
+      "id": "tavalon-earl-grey-reserve",
+      "brand": "tavalon",
+      "name": {
+        "ko": "얼 그레이 리저브",
+        "en": "Earl Grey Reserve",
+        "zh-CN": "伯爵珍藏",
+        "zh-TW": "伯爵珍藏"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "천연 베르가못 오일로 향을 낸 얼그레이. 향이 은은하게 시작해 끝에 오래 남습니다.",
+        "en": "Earl Grey scented with natural bergamot oil; the aroma opens softly and lingers at the end.",
+        "zh-CN": "以天然佛手柑油赋香的伯爵茶，香气缓缓展开、尾韵悠长。",
+        "zh-TW": "以天然佛手柑油賦香的伯爵茶，香氣緩緩展開、尾韻悠長。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/tavalon-earl-grey-reserve.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718390"
+      }
+    },
+    {
+      "id": "tavalon-nyc-breakfast",
+      "brand": "tavalon",
+      "name": {
+        "ko": "NYC 브렉퍼스트",
+        "en": "NYC Breakfast",
+        "zh-CN": "纽约早餐茶",
+        "zh-TW": "紐約早餐茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-malt",
+        "b-medium",
+        "s-milk",
+        "s-hot",
+        "c-high",
+        "m-energy"
+      ],
+      "note": {
+        "ko": "스리랑카 홍차를 블렌딩한 정통 브렉퍼스트. 달콤하고 부드러워 우유 없이도 마시기 좋습니다.",
+        "en": "A classic breakfast blend of Sri Lankan black teas; sweet and soft enough to drink without milk.",
+        "zh-CN": "斯里兰卡红茶拼配的正统早餐茶，甜润柔和，不加奶也好喝。",
+        "zh-TW": "斯里蘭卡紅茶拼配的正統早餐茶，甜潤柔和，不加奶也好喝。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/tavalon-nyc-breakfast.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718387"
+      }
+    },
+    {
+      "id": "tavalon-noir-royal-truffle",
+      "brand": "tavalon",
+      "name": {
+        "ko": "NOIR 로얄 트러플 블랙",
+        "en": "Noir Royal Truffle Black",
+        "zh-CN": "黑松露红茶",
+        "zh-TW": "黑松露紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2.5g × 15",
+      "tags": [
+        "a-roast",
+        "b-full",
+        "s-milk",
+        "c-high"
+      ],
+      "note": {
+        "ko": "트러플 향을 입힌 홍차. 향이 강해 3분을 넘기지 말고, 우유를 넣으면 향이 부드러워집니다.",
+        "en": "Black tea scented with truffle; the aroma is strong, so keep the steep under three minutes — milk softens it.",
+        "zh-CN": "松露赋香红茶，香气强，冲泡勿超过三分钟，加奶后更柔。",
+        "zh-TW": "松露賦香紅茶，香氣強，沖泡勿超過三分鐘，加奶後更柔。"
+      },
+      "brewSource": "category",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/tavalon-noir-royal-truffle.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11183829"
+      }
+    },
+    {
+      "id": "tavalon-lucid-dream",
+      "brand": "tavalon",
+      "name": {
+        "ko": "루시드 드림",
+        "en": "Lucid Dream",
+        "zh-CN": "清梦红茶",
+        "zh-TW": "清夢紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "부드러운 실론 홍차에 꽃향과 과일의 단맛을 얹은 시그니처 블렌드. 우유보다 맨잔이 향을 잘 보여 줍니다.",
+        "en": "A signature blend of soft Ceylon with floral and fruit sweetness; it shows its aroma better without milk.",
+        "zh-CN": "柔和锡兰红茶叠加花香与果甜的标志性拼配，纯饮更能显香。",
+        "zh-TW": "柔和錫蘭紅茶疊加花香與果甜的代表性拼配，純飲更能顯香。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/tavalon-lucid-dream.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11192199"
+      }
+    },
+    {
+      "id": "tavalon-brown-rice-green",
+      "brand": "tavalon",
+      "name": {
+        "ko": "현미 녹차",
+        "en": "Brown Rice Green Tea",
+        "zh-CN": "玄米绿茶",
+        "zh-TW": "玄米綠茶"
+      },
+      "type": "green",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 180,
+      "bag": "3g × 15",
+      "tags": [
+        "a-roast",
+        "a-grass",
+        "k-crisp",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "녹차에 볶은 현미를 섞은 일본식 현미차. 고소한 볶음 향이 녹차의 풀향을 감싸 쓴맛이 적습니다.",
+        "en": "Japanese genmaicha of green tea with roasted brown rice; the toasted aroma wraps the grassy note and softens bitterness.",
+        "zh-CN": "绿茶拌入炒玄米的日式玄米茶，焙香包住青草味，苦感更低。",
+        "zh-TW": "綠茶拌入炒玄米的日式玄米茶，焙香包住青草味，苦感更低。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "green",
+      "photo": {
+        "f": "images/teabags/tavalon-brown-rice-green.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718411"
+      }
+    },
+    {
+      "id": "tavalon-jade-jasmine",
+      "brand": "tavalon",
+      "name": {
+        "ko": "제이드 자스민",
+        "en": "Jade Jasmine",
+        "zh-CN": "翠玉茉莉",
+        "zh-TW": "翠玉茉莉"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "b-light",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "우롱차에 자스민 향을 더했습니다. 꽃향이 앞서지만 우롱의 부드러운 바디가 받쳐 줍니다.",
+        "en": "Oolong scented with jasmine; the floral note leads with the oolong's soft body underneath.",
+        "zh-CN": "乌龙茶加入茉莉花香，花香在前，乌龙柔和的茶体承接。",
+        "zh-TW": "烏龍茶加入茉莉花香，花香在前，烏龍柔和的茶體承接。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/tavalon-jade-jasmine.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11192198"
+      }
+    },
+    {
+      "id": "tavalon-milky-oolong",
+      "brand": "tavalon",
+      "name": {
+        "ko": "밀키 우롱",
+        "en": "Milky Oolong",
+        "zh-CN": "奶香乌龙",
+        "zh-TW": "奶香烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "우유 같은 부드러운 향이 특징인 우롱. 우유를 넣지 않아도 크리미한 느낌이 납니다.",
+        "en": "An oolong with a creamy, milk-like aroma; it feels creamy even without milk.",
+        "zh-CN": "带奶香的乌龙茶，不加奶也有奶油般的柔滑感。",
+        "zh-TW": "帶奶香的烏龍茶，不加奶也有奶油般的柔滑感。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/tavalon-milky-oolong.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11186702"
+      }
+    },
+    {
+      "id": "tavalon-peach-oolong",
+      "brand": "tavalon",
+      "name": {
+        "ko": "피치 우롱",
+        "en": "Peach Oolong",
+        "zh-CN": "蜜桃乌龙",
+        "zh-TW": "蜜桃烏龍"
+      },
+      "type": "oolong",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 180,
+      "bag": "2g × 15",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "복숭아 과즙, 포모사 우롱, 마리골드를 블렌딩했습니다. 차게 마시면 복숭아 향이 더 살아납니다.",
+        "en": "Peach juice, Formosa oolong and marigold together; the peach comes through more on ice.",
+        "zh-CN": "蜜桃果汁、福尔摩沙乌龙与万寿菊拼配，冰饮时蜜桃香更明显。",
+        "zh-TW": "蜜桃果汁、福爾摩沙烏龍與萬壽菊拼配，冰飲時蜜桃香更明顯。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "oolong",
+      "photo": {
+        "f": "images/teabags/tavalon-peach-oolong.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=718391"
+      }
+    },
+    {
+      "id": "tavalon-coco-peony",
+      "brand": "tavalon",
+      "name": {
+        "ko": "코코 피오니",
+        "en": "Coco Peony",
+        "zh-CN": "椰香白牡丹",
+        "zh-TW": "椰香白牡丹"
+      },
+      "type": "white",
+      "caffeine": true,
+      "temp": 80,
+      "seconds": 180,
+      "bag": "2g × 15",
+      "tags": [
+        "a-floral",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "백차에 코코넛을 더했습니다. 80℃에서 짧게 우리면 코코넛 향이 앞서지 않고 차의 단맛이 남습니다.",
+        "en": "White tea with coconut; a short steep at 80 °C keeps the coconut from running over the tea's sweetness.",
+        "zh-CN": "白茶加入椰香，80℃短泡可让椰香不压过茶本身的甜味。",
+        "zh-TW": "白茶加入椰香，80℃短泡可讓椰香不壓過茶本身的甜味。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "white",
+      "photo": {
+        "f": "images/teabags/tavalon-coco-peony.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11186704"
+      }
+    },
+    {
+      "id": "tavalon-yuzu-puerh",
+      "brand": "tavalon",
+      "name": {
+        "ko": "유주 푸얼",
+        "en": "Yuzu Pu-erh",
+        "zh-CN": "柚子普洱",
+        "zh-TW": "柚子普洱"
+      },
+      "type": "dark",
+      "caffeine": true,
+      "temp": 100,
+      "seconds": 300,
+      "bag": "2g × 15",
+      "tags": [
+        "a-roast",
+        "a-fruit",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "보이차에 유자를 더했습니다. 보이차의 흙 같은 깊이와 유자의 산미가 나란히 지나갑니다.",
+        "en": "Pu-erh with yuzu; the earthy depth of the tea and the citrus acidity pass side by side.",
+        "zh-CN": "普洱加入柚子，普洱的泥土深度与柚子酸香并行。",
+        "zh-TW": "普洱加入柚子，普洱的泥土深度與柚子酸香並行。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "dark",
+      "photo": {
+        "f": "images/teabags/tavalon-yuzu-puerh.jpg",
+        "cr": "tavalon.co.kr",
+        "pg": "https://www.tavalon.co.kr/shopdetail.html?branduid=11188672"
+      }
+    },
+    {
+      "id": "ahmad-decaf-earl-grey",
+      "brand": "ahmad",
+      "name": {
+        "ko": "디카페인 얼그레이",
+        "en": "Decaffeinated Earl Grey",
+        "zh-CN": "低因伯爵茶",
+        "zh-TW": "低因伯爵茶"
+      },
+      "type": "black",
+      "caffeine": false,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-milk",
+        "c-low"
+      ],
+      "note": {
+        "ko": "카페인을 뺀 얼그레이. 베르가못 향은 남아 있어 늦은 밤에도 향을 즐길 수 있습니다.",
+        "en": "Earl Grey with the caffeine removed and the bergamot kept — a fragrant cup late at night.",
+        "zh-CN": "去除咖啡因的伯爵茶，佛手柑香仍在，深夜也能享用。",
+        "zh-TW": "去除咖啡因的伯爵茶，佛手柑香仍在，深夜也能享用。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-decaf-earl-grey.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/11554605608"
+      }
+    },
+    {
+      "id": "ahmad-darjeeling",
+      "brand": "ahmad",
+      "name": {
+        "ko": "다즐링",
+        "en": "Darjeeling",
+        "zh-CN": "大吉岭",
+        "zh-TW": "大吉嶺"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "히말라야 구릉에서 자란 홍차로 샴페인에 비유되는 향. 98℃에서 3분이면 백포도주 같은 향이 가장 잘 드러납니다.",
+        "en": "Himalayan-grown leaf with the aroma often likened to champagne; three minutes at 98 °C brings out its white-wine note.",
+        "zh-CN": "喜马拉雅丘陵红茶，香气常被比作香槟；98℃三分钟最能带出白葡萄酒般的香。",
+        "zh-TW": "喜馬拉雅丘陵紅茶，香氣常被比作香檳；98℃三分鐘最能帶出白葡萄酒般的香。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-darjeeling.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211505"
+      }
+    },
+    {
+      "id": "ahmad-ceylon",
+      "brand": "ahmad",
+      "name": {
+        "ko": "실론",
+        "en": "Ceylon",
+        "zh-CN": "锡兰",
+        "zh-TW": "錫蘭"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-floral",
+        "k-crisp",
+        "s-hot",
+        "s-iced",
+        "c-high"
+      ],
+      "note": {
+        "ko": "스리랑카 찻잎만 쓴 스트레이트. 진한 황금빛과 시트러스 향이 산뜻합니다.",
+        "en": "A straight Sri Lankan tea; deep gold in the cup with a fresh citrus lift.",
+        "zh-CN": "只用斯里兰卡茶叶的纯饮红茶，金黄浓郁、柑橘香清爽。",
+        "zh-TW": "只用斯里蘭卡茶葉的純飲紅茶，金黃濃郁、柑橘香清爽。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-ceylon.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211503"
+      }
+    },
+    {
+      "id": "ahmad-lemon-lime-twist",
+      "brand": "ahmad",
+      "name": {
+        "ko": "레몬 & 라임 트위스트",
+        "en": "Lemon & Lime Twist",
+        "zh-CN": "柠檬青柠红茶",
+        "zh-TW": "檸檬青檸紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "레몬향과 라임향에 실제 레몬·카피르라임 껍질을 더했습니다. 진하게 우려 얼음에 부으면 카페 레몬티가 됩니다.",
+        "en": "Lemon and lime flavour with real lemon and kaffir-lime peel; brew strong over ice for a café lemon tea.",
+        "zh-CN": "柠檬与青柠香加上真实柠檬皮、卡菲尔青柠皮，浓泡加冰即成柠檬冰茶。",
+        "zh-TW": "檸檬與青檸香加上真實檸檬皮、卡菲爾青檸皮，濃泡加冰即成檸檬冰茶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-lemon-lime-twist.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211491"
+      }
+    },
+    {
+      "id": "ahmad-peach-passion-fruit",
+      "brand": "ahmad",
+      "name": {
+        "ko": "피치 & 패션프루트",
+        "en": "Peach & Passion Fruit",
+        "zh-CN": "蜜桃百香果红茶",
+        "zh-TW": "蜜桃百香果紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "복숭아와 패션프루트 향에 과일 조각을 넣었습니다. 아이스티로 마시면 향이 더 선명합니다.",
+        "en": "Peach and passion fruit with pieces of fruit; the aroma is sharper when served iced.",
+        "zh-CN": "蜜桃与百香果香加上果粒，做成冰茶香气更鲜明。",
+        "zh-TW": "蜜桃與百香果香加上果粒，做成冰茶香氣更鮮明。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-peach-passion-fruit.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211488"
+      }
+    },
+    {
+      "id": "ahmad-strawberry-sensation",
+      "brand": "ahmad",
+      "name": {
+        "ko": "스트로베리 센세이션",
+        "en": "Strawberry Sensation",
+        "zh-CN": "草莓心动红茶",
+        "zh-TW": "草莓心動紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-milk",
+        "s-iced"
+      ],
+      "note": {
+        "ko": "실론 홍차 베이스에 딸기 향과 조각을 더했습니다. 우유를 넣으면 딸기 밀크티가 됩니다.",
+        "en": "Ceylon-based black tea with strawberry flavour and pieces; with milk it turns into a strawberry milk tea.",
+        "zh-CN": "锡兰红茶基底加入草莓香与果粒，加奶即成草莓奶茶。",
+        "zh-TW": "錫蘭紅茶基底加入草莓香與果粒，加奶即成草莓奶茶。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-strawberry-sensation.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211489"
+      }
+    },
+    {
+      "id": "ahmad-raspberry-indulgence",
+      "brand": "ahmad",
+      "name": {
+        "ko": "라즈베리 인덜전스",
+        "en": "Raspberry Indulgence",
+        "zh-CN": "覆盆子恋曲红茶",
+        "zh-TW": "覆盆子戀曲紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "p-dessert"
+      ],
+      "note": {
+        "ko": "라즈베리 향과 조각을 넣어 새콤달콤합니다. 홍차의 감칠맛이 뒤에서 받쳐 줍니다.",
+        "en": "Raspberry flavour and pieces give a sweet-tart cup, with the tea's body holding it from behind.",
+        "zh-CN": "覆盆子香与果粒带来酸甜，红茶厚度在后方支撑。",
+        "zh-TW": "覆盆子香與果粒帶來酸甜，紅茶厚度在後方支撐。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-raspberry-indulgence.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211487"
+      }
+    },
+    {
+      "id": "ahmad-mango-magic",
+      "brand": "ahmad",
+      "name": {
+        "ko": "망고 매직",
+        "en": "Mango Magic",
+        "zh-CN": "芒果魔法红茶",
+        "zh-TW": "芒果魔法紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "망고 조각과 향을 넣은 홍차. 끝에 망고의 단맛이 남아 아이스티로도 좋습니다.",
+        "en": "Black tea with mango pieces and flavour; the mango sweetness lingers and holds up iced.",
+        "zh-CN": "加入芒果果粒与香气的红茶，尾韵留下芒果甜味，冰饮也好。",
+        "zh-TW": "加入芒果果粒與香氣的紅茶，尾韻留下芒果甜味，冰飲也好。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-mango-magic.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211495"
+      }
+    },
+    {
+      "id": "ahmad-apricot-sunrise",
+      "brand": "ahmad",
+      "name": {
+        "ko": "애프리콧 썬라이즈",
+        "en": "Apricot Sunrise",
+        "zh-CN": "杏桃日出红茶",
+        "zh-TW": "杏桃日出紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-sweet",
+        "s-hot",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "살구 조각과 향을 더했습니다. 상큼하면서 부드러운 과즙감이 특징입니다.",
+        "en": "Apricot pieces and flavour; bright yet soft, with a juicy feel.",
+        "zh-CN": "加入杏桃果粒与香气，清爽而柔和的果汁感。",
+        "zh-TW": "加入杏桃果粒與香氣，清爽而柔和的果汁感。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-apricot-sunrise.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211493"
+      }
+    },
+    {
+      "id": "ahmad-blackcurrant-burst",
+      "brand": "ahmad",
+      "name": {
+        "ko": "블랙커런트 버스트",
+        "en": "Blackcurrant Burst",
+        "zh-CN": "黑加仑爆香红茶",
+        "zh-TW": "黑加侖爆香紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "블랙커런트 과육과 향을 넣었습니다. 스리랑카·케냐 찻잎의 산뜻한 베이스가 받쳐 줍니다.",
+        "en": "Blackcurrant flesh and flavour over a fresh Sri Lankan and Kenyan base.",
+        "zh-CN": "加入黑加仑果肉与香气，斯里兰卡、肯尼亚茶叶的清爽基底承接。",
+        "zh-TW": "加入黑加侖果肉與香氣，斯里蘭卡、肯亞茶葉的清爽基底承接。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-blackcurrant-burst.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211485"
+      }
+    },
+    {
+      "id": "ahmad-cinnamon-haze",
+      "brand": "ahmad",
+      "name": {
+        "ko": "시나몬 헤이즈",
+        "en": "Cinnamon Haze",
+        "zh-CN": "肉桂薄雾红茶",
+        "zh-TW": "肉桂薄霧紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-roast",
+        "k-sweet",
+        "s-milk",
+        "s-hot"
+      ],
+      "note": {
+        "ko": "계피 조각과 향을 더한 블렌딩 홍차. 따뜻한 향이 우유와 잘 맞습니다.",
+        "en": "A blended black tea with cinnamon pieces and flavour; the warm spice sits well with milk.",
+        "zh-CN": "加入肉桂片与香气的拼配红茶，暖香与牛奶很合。",
+        "zh-TW": "加入肉桂片與香氣的拼配紅茶，暖香與牛奶很合。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-cinnamon-haze.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211494"
+      }
+    },
+    {
+      "id": "ahmad-vanilla-cinnamon-apple",
+      "brand": "ahmad",
+      "name": {
+        "ko": "바닐라 시나몬 & 애플",
+        "en": "Vanilla Cinnamon & Apple",
+        "zh-CN": "香草肉桂苹果红茶",
+        "zh-TW": "香草肉桂蘋果紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "a-roast",
+        "k-sweet",
+        "s-milk"
+      ],
+      "note": {
+        "ko": "바닐라·계피·사과를 겹친 블렌드. 단 향이 앞서지만 홍차의 떫음이 균형을 잡습니다.",
+        "en": "Vanilla, cinnamon and apple layered together; sweet up front, with the tea's astringency keeping balance.",
+        "zh-CN": "香草、肉桂与苹果叠加，甜香在前，红茶的涩感维持平衡。",
+        "zh-TW": "香草、肉桂與蘋果疊加，甜香在前，紅茶的澀感維持平衡。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-vanilla-cinnamon-apple.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/11554477291"
+      }
+    },
+    {
+      "id": "ahmad-apple-refresh",
+      "brand": "ahmad",
+      "name": {
+        "ko": "애플 리프레시",
+        "en": "Apple Refresh",
+        "zh-CN": "苹果清爽红茶",
+        "zh-TW": "蘋果清爽紅茶"
+      },
+      "type": "blended",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-fruit",
+        "k-crisp",
+        "s-iced",
+        "c-mid"
+      ],
+      "note": {
+        "ko": "사과 향과 조각을 더했습니다. 맑은 붉은 수색에 사과 향이 또렷합니다.",
+        "en": "Apple flavour and pieces; a clear red liquor with a distinct apple note.",
+        "zh-CN": "加入苹果香与果粒，茶汤红亮、苹果香清晰。",
+        "zh-TW": "加入蘋果香與果粒，茶湯紅亮、蘋果香清晰。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "blended",
+      "photo": {
+        "f": "images/teabags/ahmad-apple-refresh.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/6102211486"
+      }
+    },
+    {
+      "id": "ahmad-clove",
+      "brand": "ahmad",
+      "name": {
+        "ko": "클로브",
+        "en": "Clove",
+        "zh-CN": "丁香红茶",
+        "zh-TW": "丁香紅茶"
+      },
+      "type": "black",
+      "caffeine": true,
+      "temp": 98,
+      "seconds": 180,
+      "bag": "2g × 20",
+      "tags": [
+        "a-roast",
+        "b-full",
+        "s-milk",
+        "s-hot",
+        "c-high"
+      ],
+      "note": {
+        "ko": "정향을 홍차에 더했습니다. 향이 강해 3분을 넘기지 말고, 우유를 넣으면 부드러워집니다.",
+        "en": "Black tea with clove; the spice is strong, so keep it to three minutes — milk softens it.",
+        "zh-CN": "红茶加入丁香，香气强，勿超过三分钟，加奶后更柔。",
+        "zh-TW": "紅茶加入丁香，香氣強，勿超過三分鐘，加奶後更柔。"
+      },
+      "brewSource": "brand",
+      "guideGroup": "black",
+      "photo": {
+        "f": "images/teabags/ahmad-clove.jpg",
+        "cr": "아마드티 공식 스토어",
+        "pg": "https://smartstore.naver.com/ahmadtea/products/11061218073"
       }
     }
   ]
