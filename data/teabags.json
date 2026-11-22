@@ -1444,10 +1444,10 @@
         "m-energy"
       ],
       "note": {
-        "ko": "아쌈·실론·중국 홍차를 섞은 매일 마시는 기본 홍차. 진하게 우려도 떫음이 적어 아침저녁으로 부담 없습니다.",
-        "en": "A daily blend of Assam, Ceylon and Chinese black teas; it takes a firm brew without turning harsh.",
-        "zh-CN": "阿萨姆、锡兰与中国红茶拼配的日常红茶，浓泡也不易涩。",
-        "zh-TW": "阿薩姆、錫蘭與中國紅茶拼配的日常紅茶，濃泡也不易澀。"
+        "ko": "아쌈의 몸통, 아프리카 찻잎의 힘, 윈난의 구수한 향을 섞은 매일 마시는 홍차. 진하게 우려도 떫음이 적어 아침저녁으로 부담 없습니다.",
+        "en": "A daily blend of Assam for body, African leaf for punch and toasty Yunnan; it takes a firm brew without turning harsh.",
+        "zh-CN": "以阿萨姆的厚度、非洲茶叶的力度与云南的焙香拼配的日常红茶，浓泡也不易涩。",
+        "zh-TW": "以阿薩姆的厚度、非洲茶葉的力度與雲南的焙香拼配的日常紅茶，濃泡也不易澀。"
       },
       "brewSource": "category",
       "guideGroup": "black",
@@ -2103,7 +2103,7 @@
         "s-hot"
       ],
       "note": {
-        "ko": "오렌지 껍질과 계피를 홍차에 더했습니다. 향이 진해 아이스로도 잘 살아납니다.",
+        "ko": "오렌지와 계피 향을 홍차에 더했습니다. 향이 진해 아이스로도 잘 살아납니다.",
         "en": "Orange peel and cinnamon over black tea; the aroma is strong enough to hold up iced.",
         "zh-CN": "橙皮与肉桂加入红茶，香气浓郁，冰饮也撑得住。",
         "zh-TW": "橙皮與肉桂加入紅茶，香氣濃郁，冰飲也撐得住。"
