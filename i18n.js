@@ -1022,7 +1022,7 @@ window.TEAFaiI18N = (function () {
       "quiz.kicker": "Find your cup",
       "quiz.title": "What tea suits me?",
       "quiz.lead":
-        "Answer ten questions and we pick from 301 teas — the six tea families, plus everyday, herbal and traditional teas.",
+        "Answer ten questions and we pick from 301 teas — the six tea families, everyday and herbal teas, blends and traditional teas.",
       "quiz.progress": "{n} / {total}",
       "quiz.backAria": "Previous question",
       "quiz.a11yProgress": "Progress",
@@ -1094,7 +1094,7 @@ window.TEAFaiI18N = (function () {
       "quiz.kicker": "Find your cup",
       "quiz.title": "找到适合我的茶",
       "quiz.lead":
-        "答完10题，就从六大茶类到代用茶·花草茶、传统茶共301款中为你挑选。",
+        "答完10题，就从六大茶类到代用茶·花草茶、拼配茶、传统茶共301款中为你挑选。",
       "quiz.progress": "{n} / {total}",
       "quiz.backAria": "上一题",
       "quiz.a11yProgress": "进度",
@@ -1166,7 +1166,7 @@ window.TEAFaiI18N = (function () {
       "quiz.kicker": "Find your cup",
       "quiz.title": "找到適合我的茶",
       "quiz.lead":
-        "答完10題，就從六大茶類到代用茶·花草茶、傳統茶共301款中為你挑選。",
+        "答完10題，就從六大茶類到代用茶·花草茶、拼配茶、傳統茶共301款中為你挑選。",
       "quiz.progress": "{n} / {total}",
       "quiz.backAria": "上一題",
       "quiz.a11yProgress": "進度",
@@ -2664,7 +2664,7 @@ window.TEAFaiI18N = (function () {
   var V12B = {
     "ko": {
       "privacy.link": "개인정보처리방침",
-      "meta.desc": "녹차·백차·황차·우롱차·홍차·흑차·대용차·전통차 301종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 여섯 언어로 담은 티키피디아 앱.",
+      "meta.desc": "녹차·우롱차·홍차·흑차·백차·황차·블렌딩차·전통차·대용차·허브차 301종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 여섯 언어로 담은 티키피디아 앱.",
       "ch.bookTitle": "전자책 《찻잎의 시간, 오늘의 한 잔》",
       "ch.bookSub": "유페이퍼 서점 · 얼그레이 편도 함께",
       "ch.blogTitle": "홍콩티 네이버 지도",
@@ -2673,7 +2673,7 @@ window.TEAFaiI18N = (function () {
     },
     "en": {
       "privacy.link": "Privacy policy",
-      "meta.desc": "301 teas across eight families — real leaf photos, origin, steeping temperatures and times, a store, partner tea rooms and tasting notes, in six languages.",
+      "meta.desc": "301 teas across nine families — real leaf photos, origin, steeping temperatures and times, a store, partner tea rooms and tasting notes, in six languages.",
       "ch.bookTitle": "E-book: Time of Tea Leaves, Today's Cup",
       "ch.bookSub": "On Upaper · the Earl Grey book too",
       "ch.blogTitle": "Hong Kong Tea · Naver Map",
@@ -2682,7 +2682,7 @@ window.TEAFaiI18N = (function () {
     },
     "zh-CN": {
       "privacy.link": "隐私政策",
-      "meta.desc": "八个茶类共301种，真实茶叶照片与产地、冲泡温度与时间，商店、合作茶馆与品茶笔记，六种语言。",
+      "meta.desc": "九个茶类共301种，真实茶叶照片与产地、冲泡温度与时间，商店、合作茶馆与品茶笔记，六种语言。",
       "ch.bookTitle": "电子书《茶叶的时间，今天的一杯》",
       "ch.bookSub": "Upaper 书店 · 伯爵茶篇一并",
       "ch.blogTitle": "香港茶 · Naver 地图",
@@ -2970,7 +2970,7 @@ window.TEAFaiI18N = (function () {
      내려가지 않도록 남은 키를 모두 廣東話로 적습니다. 짧은 라벨은 香港에서도 같은
      낱말을 쓰므로 繁體와 같습니다. ── */
   var YUE4 = {
-    "meta.desc": "八個茶類共301款，有真實茶葉相、產地、沖泡溫度同時間，仲有商店、合作茶館同品茶筆記，六種語言。",
+    "meta.desc": "九個茶類共301款，有真實茶葉相、產地、沖泡溫度同時間，仲有商店、合作茶館同品茶筆記，六種語言。",
     "brand.sub": "Teakipedia",
     "title.home": "茶基百科 — 茶百科同沖泡計時",
     "a11y.mood": "揀心情同場合",
@@ -3088,7 +3088,7 @@ window.TEAFaiI18N = (function () {
     "quiz.cardCta": "開始",
     "quiz.kicker": "Find your cup",
     "quiz.title": "搵啱自己飲嘅茶",
-    "quiz.lead": "答完10條，就由六大茶類到代用茶·花草茶、傳統茶一共301款入面幫你揀。",
+    "quiz.lead": "答完10條，就由六大茶類到代用茶·花草茶、拼配茶、傳統茶一共301款入面幫你揀。",
     "quiz.progress": "{n} / {total}",
     "quiz.backAria": "上一題",
     "quiz.a11yProgress": "進度",
@@ -3288,7 +3288,7 @@ window.TEAFaiI18N = (function () {
   /* ── 日本語 (ja) — 2026-11 추가. 없는 키는 영어 문구로 내려갑니다. ── */
   var VJA = {
     ja: {
-    "meta.desc": "緑茶・白茶・黄茶・烏龍茶・紅茶・黒茶・代用茶・伝統茶の301種を、実際の茶葉写真と産地つきで。淹れ方の温度と時間、ストア、パートナーの茶館、テイスティングノートを6言語で。",
+    "meta.desc": "緑茶・烏龍茶・紅茶・黒茶・白茶・黄茶・ブレンド茶・代用茶・伝統茶・ハーブティーの301種を、実際の茶葉写真と産地つきで。淹れ方の温度と時間、ストア、パートナーの茶館、テイスティングノートを6言語で。",
     "a11y.lang": "言語",
     "brand.name": "ティーキペディア",
     "brand.sub": "Teakipedia",
@@ -3704,7 +3704,7 @@ window.TEAFaiI18N = (function () {
     "quiz.cardTitle": "自分に合うお茶を探す",
     "quiz.cardSub": "10問・1分で301種から、あなたに合う一杯を",
     "quiz.cardCta": "はじめる",
-    "quiz.lead": "10問に答えると、8つの茶類301種から選びます。",
+    "quiz.lead": "10問に答えると、9の茶類301種から選びます。",
     "quiz.progress": "{n} / {total}",
     "quiz.backAria": "前の質問",
     "quiz.a11yProgress": "進み具合",
