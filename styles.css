@@ -5877,3 +5877,34 @@ h3 {
   color: var(--muted);
   margin-right: 2px;
 }
+
+/* ---------- 언어 버튼 최종: 국기·글자 1.5배, 폰에서는 3개씩 두 줄 ---------- */
+.lang-switch .lang-btn {
+  font-size: 15px;
+}
+
+.lang-flag {
+  width: 20px;
+  height: 14px;
+  display: inline-block;
+}
+
+@media (max-width: 899px) {
+  .app-header .lang-switch {
+    flex-wrap: wrap;
+  }
+
+  .app-header .lang-btn {
+    flex: 1 1 30%;
+    justify-content: center;
+    padding: 5px 3px;
+    font-size: 15px;
+    gap: 3px;
+  }
+
+  .app-header .lang-flag {
+    width: 20px;
+    height: 14px;
+    display: inline-block;
+  }
+}
