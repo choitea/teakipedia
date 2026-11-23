@@ -11053,7 +11053,6 @@ window.TEAFaiData = (function () {
     everyday: "茶の木の代わりに穀物・根・実を炒るか乾かして淹れる一杯。カフェインなしで一日のそばに。",
     traditional: "根・実・砂糖漬けを煮出した韓国の茶。体を温め、気を整える一杯。",
     herb: "ハーブをそのまま淹れる、香りのための一杯。",
-    fruit: "果実と花の甘酸っぱさを湯にほどいた一杯。"
   };
 
   var JA_GROUPS = {
@@ -11067,7 +11066,6 @@ window.TEAFaiData = (function () {
     everyday: "代用茶",
     traditional: "伝統茶",
     herb: "ハーブティー",
-    fruit: "フルーツティー"
   };
 
   /* ---------------- 계열 (6) ---------------- */
@@ -11411,12 +11409,12 @@ window.TEAFaiData = (function () {
         rounds: "1~2회",
         "steepBasis": "향신료가 들어간 블렌드는 5분, 밀크티용은 진하게 5~6분 우립니다.",
         process: "여러 산지의 차를 섞고 향신료·과일·꽃을 더합니다. 홍콩 밀크티는 여러 홍차를 섞어 진하게 우리고, 마살라 차이는 홍차에 향신료와 우유를 끓입니다.",
-        varieties: ["마살라 차이·러시안 캐러밴", "홍콩 밀크티·원앙·차옌", "레이디 그레이·애프터눈 블렌드"],
+        varieties: ["마살라 차이·러시안 캐러밴", "홍콩 블렌딩·차옌", "레이디 그레이·애프터눈 블렌드"],
         flavor: "여러 잎과 향신료가 겹치며 몸통이 두꺼워지고, 우유·설탕을 받아 냅니다.",
         pairing: "아침 식사, 진한 디저트, 매운 음식. 밀크티 계열은 단맛 있는 간식과.",
         keep: "향신료 블렌드는 향이 날아가지 않게 밀봉해 6개월. 밀크티용은 습기를 피합니다.",
         "brewTip": "끓는 물에 5분 이상, 밀크티는 8g으로 진하게. 향신료 블렌드는 한 번 끓여도 좋습니다.",
-        keywords: "블렌딩차 마살라 차이 러시안 캐러밴 홍콩 밀크티 원앙 얀여엉 차옌 레이디 그레이 애프터눈",
+        keywords: "블렌딩차 마살라 차이 러시안 캐러밴 홍콩 블렌딩 차옌 레이디 그레이 애프터눈",
       },
       en: {
         name: "Blended tea",
@@ -12110,104 +12108,6 @@ window.TEAFaiData = (function () {
         "brewTip": "花用95度沖5分鐘並冚蓋。沖太久會苦。",
         "keywords": "花草茶 洋甘菊 薄荷 薰衣草 香茅 菊花 洛神花 無咖啡因",
       }
-    },
-    {
-      id: "fruit",
-      kind: "group",
-      hanja: "果",
-      sub: "Fruit Tea",
-      accent: "#C05A45",
-      accentSoft: "#F8E7E0",
-      temp: 90,
-      tempRange: "80~95℃",
-      leaf: "5g",
-      water: "200ml",
-      steeps: [300, 360],
-      maxSteep: 2,
-      oxidationValue: 0,
-      ko: {
-        name: "과일차",
-        oneLine: "말린 과일과 껍질, 청으로 우린 잔 — 산뜻한 산미와 달콤함, 카페인 없이.",
-        oxidation: "무산화 · 카페인 없음",
-        ratioNote: "200ml에 5g, 청(유자·오미자)은 2큰술",
-        rounds: "1~2회",
-        steepBasis: "95도에서 5분. 청은 80도 물에 풀어야 향이 살아 있습니다.",
-        process:
-          "말린 과일 → (설탕·꿀에 절임) → 우림. 한국의 유자·모과·오미자는 청으로 절여 두고 물에 풀며, 서양 과일 블렌드는 말린 사과·베리·껍질에 향과 꽃잎을 더합니다.",
-        varieties: ["유자·모과·오미자·대추", "생강레몬·애플 시나몬", "베리 히비스커스·블러드 오렌지·패션프루트"],
-        flavor: "과일의 산미와 단맛, 껍질의 향 — 카페인이 없고 아이스로도 잘 어울립니다.",
-        pairing: "디저트, 브런치, 식후. 유자·모과는 겨울, 오미자·패션프루트는 여름에.",
-        keep: "청은 냉장 1년, 말린 과일 블렌드는 밀봉해 12개월. 향이 날아가지 않게 소분합니다.",
-        brewTip: "말린 과일은 95도에 5분, 청은 80도 물에 풀어야 향이 살아 있습니다. 아이스는 두 배로 진하게.",
-        keywords: "과일차 유자 모과 오미자 대추 생강레몬 애플시나몬 피치 히비스커스베리 블러드오렌지 패션프루트 카페인프리"
-      },
-      en: {
-        name: "Fruit tea",
-        oneLine: "Dried fruit, peel and cheong steeped into a cup — bright acidity and sweetness, without caffeine.",
-        oxidation: "None · caffeine-free",
-        ratioNote: "5 g to 200 ml; 2 spoons of cheong for citron or schisandra",
-        rounds: "1–2 infusions",
-        steepBasis: "95 °C for 5 minutes. Cheong needs 80 °C water to keep its aroma.",
-        process:
-          "Dried fruit → (preserved in sugar or honey) → steeped. Korean citron, quince and schisandra are preserved as cheong and spooned into water; western fruit blends mix dried apple, berries and peel with flavour and petals.",
-        varieties: [
-          "Citron · quince · schisandra · jujube",
-          "Ginger lemon · apple cinnamon",
-          "Berry hibiscus · blood orange · passion fruit"
-        ],
-        flavor: "The acidity and sweetness of fruit, the aroma of peel — no caffeine, and good over ice.",
-        pairing: "Desserts, brunch, after a meal. Citron and quince in winter; schisandra and passion fruit in summer.",
-        keep: "Cheong keeps a year in the fridge; dried fruit blends 12 months sealed. Split into small jars so the aroma stays.",
-        brewTip: "Dried fruit at 95 °C for 5 minutes; cheong in 80 °C water. Double the amount for iced tea.",
-        keywords: "fruit tea citron quince schisandra jujube ginger lemon apple cinnamon peach berry hibiscus blood orange passion fruit caffeine free"
-      },
-      "zh-CN": {
-        name: "水果茶",
-        oneLine: "用干燥果实、果皮与蜜渍泡出的一杯——清爽的酸与甜，无咖啡因。",
-        oxidation: "不发酵 · 无咖啡因",
-        ratioNote: "200毫升配5克，柚子、五味子蜜渍2勺",
-        rounds: "1~2泡",
-        steepBasis: "95度泡5分钟。蜜渍要用80度水冲开，香气才在。",
-        process:
-          "干燥果实 → （糖·蜜腌渍）→ 冲泡。韩国的柚子、木瓜、五味子腌成蜜渍后兑水，西式水果拼配则把干燥苹果、莓果、果皮与香气、花瓣混合。",
-        varieties: ["柚子·木瓜·五味子·红枣", "生姜柠檬·苹果肉桂", "莓果洛神·血橙·百香果"],
-        flavor: "果实的酸与甜、果皮的香——没有咖啡因，做成冰饮也合适。",
-        pairing: "甜点、早午餐、饭后。柚子、木瓜适合冬天，五味子、百香果适合夏天。",
-        keep: "蜜渍冷藏可存一年，干燥果实拼配密封可存12个月。香气易散，宜少量分装。",
-        brewTip: "干燥果实95度泡5分钟，蜜渍用80度水冲开。做冰饮用两倍的量。",
-        keywords: "水果茶 柚子 木瓜 五味子 红枣 生姜柠檬 苹果肉桂 蜜桃 莓果洛神 血橙 百香果 无咖啡因"
-      },
-      "zh-TW": {
-        name: "水果茶",
-        oneLine: "用乾燥果實、果皮與蜜漬泡出的一杯——清爽的酸與甜，無咖啡因。",
-        oxidation: "不發酵 · 無咖啡因",
-        ratioNote: "200毫升配5公克，柚子、五味子蜜漬2勺",
-        rounds: "1~2泡",
-        steepBasis: "95度泡5分鐘。蜜漬要用80度水沖開，香氣才在。",
-        process:
-          "乾燥果實 → （糖·蜜醃漬）→ 沖泡。韓國的柚子、木瓜、五味子醃成蜜漬後兌水，西式水果拼配則把乾燥蘋果、莓果、果皮與香氣、花瓣混合。",
-        varieties: ["柚子·木瓜·五味子·紅棗", "生薑檸檬·蘋果肉桂", "莓果洛神·血橙·百香果"],
-        flavor: "果實的酸與甜、果皮的香——沒有咖啡因，做成冰飲也合適。",
-        pairing: "甜點、早午餐、飯後。柚子、木瓜適合冬天，五味子、百香果適合夏天。",
-        keep: "蜜漬冷藏可存一年，乾燥果實拼配密封可存12個月。香氣易散，宜少量分裝。",
-        brewTip: "乾燥果實95度泡5分鐘，蜜漬用80度水沖開。做冰飲用兩倍的量。",
-        keywords: "水果茶 柚子 木瓜 五味子 紅棗 生薑檸檬 蘋果肉桂 蜜桃 莓果洛神 血橙 百香果 無咖啡因"
-      },
-      yue: {
-        "name": "水果茶",
-        "oneLine": "用乾果、果皮同蜜漬沖出嚟嘅一杯——清爽嘅酸同甜，無咖啡因。",
-        "oxidation": "不發酵 · 無咖啡因",
-        "ratioNote": "200毫升配5克，柚子、五味子蜜漬2羹",
-        "rounds": "1~2泡",
-        "steepBasis": "95度沖5分鐘。蜜漬要用80度水沖開，香氣先留得住。",
-        "process": "乾果 → （糖·蜜醃）→ 沖泡。韓國嘅柚子、木瓜、五味子醃成蜜漬之後兌水，西式水果拼配就將乾蘋果、莓果、果皮同香氣、花瓣撈埋。",
-        "varieties": ["柚子·木瓜·五味子·紅棗", "生薑檸檬·蘋果肉桂", "莓果洛神·血橙·百香果"],
-        "flavor": "果嘅酸同甜、果皮嘅香——冇咖啡因，整凍飲都啱。",
-        "pairing": "甜品、早午餐、飯後。柚子、木瓜啱冬天，五味子、百香果啱夏天。",
-        "keep": "蜜漬冷藏可以存一年，乾果拼配密封可以存12個月。香氣易散，細包分裝好啲。",
-        "brewTip": "乾果95度沖5分鐘，蜜漬用80度水沖開。整凍飲用雙倍份量。",
-        "keywords": "水果茶 柚子 木瓜 五味子 紅棗 生薑檸檬 蘋果肉桂 蜜桃 莓果洛神 血橙 百香果 無咖啡因",
-      }
     }
   ];
 
@@ -12220,7 +12120,7 @@ window.TEAFaiData = (function () {
       kind: "tea",
       hanja: "龍",
       sub: "Xihu Longjing",
-      alias: ["서호용정", "서호 용정", "용정"],
+      alias: ["용정차 (서호)","서호용정", "서호 용정", "용정"],
       hz: "西湖龍井",
       hs: "西湖龙井",
       rom: "Xihu Longjing",
@@ -12250,7 +12150,7 @@ window.TEAFaiData = (function () {
       maxSteep: 3,
       oxidationValue: 0,
       ko: {
-        name: "용정차 (서호)",
+        name: "용정",
         oneLine: "볶은 콩 같은 고소함과 납작하게 누른 잎 — 덖음 녹차의 기준.",
         oxidation: "0%",
         ratioNote: "150ml에 3g, 유리잔이면 물을 먼저",
@@ -12657,7 +12557,7 @@ window.TEAFaiData = (function () {
       kind: "tea",
       hanja: "抹",
       sub: "Matcha",
-      alias: ["말차"],
+      alias: ["마차"],
       hz: "抹茶",
       hs: "抹茶",
       rom: "Matcha",
@@ -12687,7 +12587,7 @@ window.TEAFaiData = (function () {
       maxSteep: 1,
       oxidationValue: 0,
       ko: {
-        name: "마차",
+        name: "말차",
         oneLine: "잎을 갈아 물에 그대로 마시는 차 — 향이 아니라 몸 전체로 마시는 녹차.",
         oxidation: "0%",
         ratioNote: "우스차 2g에 60ml, 고이차는 4g에 60ml",
@@ -13550,6 +13450,7 @@ window.TEAFaiData = (function () {
     {
       id: "green-hojicha",
       group: "green",
+      alias: ["호지차"],
       h: "焙",
       hz: "焙じ茶",
       hs: "焙茶",
@@ -13562,7 +13463,7 @@ window.TEAFaiData = (function () {
       s: [30, 20, 30],
       ox: 0,
       ko: [
-        "호지차",
+        "호지",
         "센차를 숯불에 볶아 카페인을 줄이고 고소함을 올린 차.",
         "0%",
         "130ml에 3g",
@@ -13621,6 +13522,7 @@ window.TEAFaiData = (function () {
     {
       id: "green-genmaicha",
       group: "green",
+      alias: ["겐마이차"],
       h: "玄",
       hz: "玄米茶",
       hs: "玄米茶",
@@ -13633,7 +13535,7 @@ window.TEAFaiData = (function () {
       s: [30, 20, 30],
       ox: 0,
       ko: [
-        "겐마이차",
+        "겐마이",
         "볶은 현미를 센차에 섞은 차 — 차와 밥의 중간.",
         "0%",
         "130ml에 3g (현미 포함)",
@@ -14853,6 +14755,7 @@ window.TEAFaiData = (function () {
     {
       id: "oolong-pouchong",
       group: "oolong",
+      alias: ["포종차"],
       h: "包",
       hz: "包種茶",
       hs: "包种茶",
@@ -14884,7 +14787,7 @@ window.TEAFaiData = (function () {
         ]
       },
       ko: {
-        name: "포종차",
+        name: "포종",
         oneLine: "향을 종이로 감싸 두던 데서 이름이 온, 타이완 북부의 가벼운 우롱.",
         oxidation: "8~12%",
         ratioNote: "150ml에 3g",
@@ -14940,6 +14843,7 @@ window.TEAFaiData = (function () {
     {
       id: "black-darjeeling-first",
       group: "black",
+      alias: ["다즐링 퍼스트 플러시", "다즐링 세컨드 플러시", "다즐링 오텀널"],
       h: "春",
       hz: "大吉嶺",
       hs: "大吉岭",
@@ -14952,7 +14856,7 @@ window.TEAFaiData = (function () {
       s: [150, 180, 210],
       ox: 85,
       ko: [
-        "다즐링 퍼스트 플러시",
+        "다즐링",
         "봄의 첫 싹, 포도와 꽃 — ‘차의 샴페인’.",
         "85%",
         "200ml에 3g",
@@ -15006,75 +14910,6 @@ window.TEAFaiData = (function () {
         "青葡萄、麝香葡萄與白花，輕盈、澀味少。",
         "司康、水果塔、白身魚。",
         "85~90度2分30秒。不加牛奶。"
-      ]
-    },
-    {
-      id: "black-darjeeling-second",
-      group: "black",
-      h: "麝",
-      hz: "大吉嶺夏摘",
-      hs: "大吉岭夏摘",
-      rom: "Darjeeling Second Flush",
-      sub: "Darjeeling Second Flush",
-      t: 95,
-      l: "3g",
-      s: [180, 210, 240],
-      ox: 90,
-      ko: [
-        "다즐링 세컨드 플러시",
-        "여름잎의 머스캣 — 다즐링 향이 가장 짙은 시기.",
-        "90%",
-        "200ml에 3g",
-        "1~2회",
-        "95도에서 3분, 2포 3분 30초.",
-        "인도 다즐링, 6~7월 채취.",
-        "위조 → 유념 → 산화(80~90%) → 건조. 여름에 차잎매미가 물어 머스캣 향이 생깁니다.",
-        "세컨드 플러시는 6~7월에 딴 잎으로, 차잎매미의 자극이 머스캣 향을 만든다고 알려져 있습니다.",
-        "머스캣·잘 익은 과일·꿀, 퍼스트보다 묵직합니다.",
-        "마들렌, 초콜릿, 훈제 요리.",
-        "95도에서 3분. 뜨거운 물이 향을 더 열어 줍니다."
-      ],
-      en: [
-        "Darjeeling Second Flush",
-        "Summer leaf with the muscatel — the strongest aroma Darjeeling gives.",
-        "90%",
-        "3 g to 200 ml",
-        "1–2 infusions",
-        "95 °C for 3 minutes, then 3½.",
-        "Darjeeling, India, picked in June and July.",
-        "Withering → rolling → oxidation to 80–90% → drying. A summer leafhopper bite is said to bring the muscatel.",
-        "Second flush comes from the June–July pick; the leafhopper's bite is what creates the muscatel note.",
-        "Muscatel, ripe fruit and honey, heavier than the first flush.",
-        "Madeleines, chocolate, smoked dishes.",
-        "95 °C for 3 minutes. Hotter water opens the aroma."
-      ],
-      "zh-CN": [
-        "大吉岭夏摘",
-        "夏日叶片的麝香葡萄香——大吉岭香气最浓的时节。",
-        "90%",
-        "200毫升配3克",
-        "1~2泡",
-        "95度泡3分钟，第二泡3分30秒。",
-        "印度大吉岭，6~7月采摘。",
-        "萎凋 → 揉捻 → 发酵（80~90%）→ 干燥。夏季小绿叶蝉咬过，产生麝香葡萄香。",
-        "夏摘是6~7月的叶，叶片受虫咬的刺激据说正是麝香葡萄香的来源。",
-        "麝香葡萄、熟果与蜂蜜，比春摘更有厚度。",
-        "玛德莲、巧克力、熏制料理。",
-        "95度3分钟。水热一点香气更开。"
-      ],
-      "zh-TW": [
-        "大吉嶺夏摘",
-        "夏日葉片的麝香葡萄香——大吉嶺香氣最濃的時節。",
-        "90%",
-        "200毫升配3公克",
-        "1~2泡",
-        "95度泡3分鐘，第二泡3分30秒。",
-        "印度大吉嶺，6~7月採摘。",
-        "萎凋 → 揉捻 → 發酵（80~90%）→ 乾燥。夏季小綠葉蟬咬過，產生麝香葡萄香。",
-        "夏摘是6~7月的葉，葉片受蟲咬的刺激據說正是麝香葡萄香的來源。",
-        "麝香葡萄、熟果與蜂蜜，比春摘更有厚度。",
-        "瑪德蓮、巧克力、燻製料理。",
-        "95度3分鐘。水熱一點香氣更開。"
       ]
     },
     {
@@ -17092,6 +16927,7 @@ window.TEAFaiData = (function () {
     {
       id: "blend-hongkong",
       group: "blended",
+      alias: ["홍콩식 밀크티"],
       h: "港",
       hz: "港式奶茶",
       hs: "港式奶茶",
@@ -17104,7 +16940,7 @@ window.TEAFaiData = (function () {
       m: 1,
       ox: 95,
       ko: [
-        "홍콩식 밀크티",
+        "홍콩 블렌딩",
         "진하게 우린 홍차에 무가당 연유를 더한 홍콩 차찬텡의 잔.",
         "95%",
         "200ml에 8g, 연유는 취향껏",
@@ -18463,6 +18299,7 @@ window.TEAFaiData = (function () {
     {
       id: "herb-chrysanthemum",
       group: "herb",
+      alias: ["국화차"],
       h: "菊",
       hz: "菊花茶",
       hs: "菊花茶",
@@ -18470,7 +18307,7 @@ window.TEAFaiData = (function () {
       sub: "Chrysanthemum Tea",
       ox: 0,
       ko: [
-        "국화차",
+        "국화",
         "가을 국화를 말려 우린 향긋한 꽃차.",
         "무산화 · 카페인 없음",
         "200ml에 2g(꽃 3~4송이)",
@@ -18589,438 +18426,6 @@ window.TEAFaiData = (function () {
         "柔和的花香與甜味，尾端有淡淡澀感。",
         "藥果、核桃糕、冬季甜點。",
         "蜜漬2勺兌80~90度水200毫升，連果肉一起放。"
-      ]
-    },
-    {
-      id: "fruit-gingerlemon",
-      group: "fruit",
-      h: "薑",
-      hz: "生姜柠檬茶",
-      hs: "生姜柠檬茶",
-      rom: "Ginger Lemon Tea",
-      sub: "Ginger Lemon",
-      t: 85,
-      tr: "80~90℃",
-      l: "청 1큰술 + 레몬 2쪽",
-      w: "200ml",
-      s: [300],
-      m: 1,
-      ox: 0,
-      ko: [
-        "생강레몬티",
-        "생강의 따뜻함에 레몬의 산미를 더한, 몸이 서늘할 때의 한 잔.",
-        "무산화 · 카페인 없음",
-        "생강청 1큰술 + 레몬 2쪽에 200ml",
-        "1회",
-        "80~90도 물에 생강청을 풀고 레몬은 마지막에 넣습니다.",
-        "한국의 생강차에 레몬을 더한 집의 차. 레몬은 지중해 원산입니다.",
-        "생강을 얇게 썰어 꿀이나 설탕에 절여 두고, 뜨거운 물에 레몬 슬라이스를 더해 마십니다.",
-        "생강차는 예부터 몸을 데우는 겨울 아침의 차였고, 레몬은 서양에서 들어와 산미를 더했습니다.",
-        "생강의 알싸한 온기, 레몬 껍질의 시트러스, 꿀의 단맛.",
-        "감기 기운이 있을 때, 아침 공복의 따뜻한 한 잔.",
-        "생강청은 냉장 2주, 말린 생강은 밀봉해 6개월."
-      ],
-      en: [
-        "Ginger Lemon Tea",
-        "Ginger's warmth with lemon's acidity — for a day when the body feels cold.",
-        "None · caffeine-free",
-        "1 spoon of ginger cheong plus 2 lemon slices to 200 ml",
-        "One brew",
-        "Stir the ginger cheong into 80–90 °C water and add the lemon last.",
-        "A home cup: Korean ginger tea with lemon. The lemon itself comes from the Mediterranean.",
-        "Thinly sliced ginger preserved in honey or sugar; hot water and a slice of lemon go in at the end.",
-        "Ginger tea has long warmed winter mornings; lemon came from the West and added the acidity.",
-        "The pungent warmth of ginger, citrus peel, honey sweetness.",
-        "When a cold is coming; a warm cup on an empty stomach in the morning.",
-        "Ginger cheong keeps two weeks in the fridge; dried ginger six months sealed."
-      ],
-      "zh-CN": [
-        "生姜柠檬茶",
-        "生姜的温热加上柠檬的酸，身体发冷时的一杯。",
-        "不发酵 · 无咖啡因",
-        "生姜蜜渍1勺 + 柠檬2片配200毫升",
-        "1次",
-        "把生姜蜜渍化在80~90度水里，柠檬最后放。",
-        "韩国的生姜茶加柠檬，是家里常做的一杯。柠檬原产地中海。",
-        "生姜切薄片用蜜或糖腌好，冲热水时加入柠檬片。",
-        "生姜茶自古就是冬天早上暖身的茶，柠檬从西方传入后添了酸味。",
-        "生姜辛香的暖意、柠檬皮的柑橘香、蜂蜜的甜。",
-        "快感冒时，或早晨空腹的一杯。",
-        "生姜蜜渍冷藏2周，干燥生姜密封6个月。"
-      ],
-      "zh-TW": [
-        "生薑檸檬茶",
-        "生薑的溫熱加上檸檬的酸，身體發冷時的一杯。",
-        "不發酵 · 無咖啡因",
-        "生薑蜜漬1勺 + 檸檬2片配200毫升",
-        "1次",
-        "把生薑蜜漬化在80~90度水裡，檸檬最後放。",
-        "韓國的生薑茶加檸檬，是家裡常做的一杯。檸檬原產地中海。",
-        "生薑切薄片用蜜或糖醃好，沖熱水時加入檸檬片。",
-        "生薑茶自古就是冬天早上暖身的茶，檸檬從西方傳入後添了酸味。",
-        "生薑辛香的暖意、檸檬皮的柑橘香、蜂蜜的甜。",
-        "快感冒時，或早晨空腹的一杯。",
-        "生薑蜜漬冷藏2週，乾燥生薑密封6個月。"
-      ]
-    },
-    {
-      id: "fruit-applecinnamon",
-      group: "fruit",
-      h: "蘋",
-      hz: "苹果肉桂茶",
-      hs: "苹果肉桂茶",
-      rom: "Apple Cinnamon",
-      sub: "Apple Cinnamon",
-      t: 95,
-      tr: "90~100℃",
-      l: "5g",
-      w: "200ml",
-      s: [360, 420],
-      m: 2,
-      ox: 0,
-      ko: [
-        "애플 시나몬",
-        "말린 사과와 계피 — 구운 과일 향이 겹친 과일 블렌드의 기본.",
-        "무산화 · 카페인 없음",
-        "200ml에 5g",
-        "1~2회",
-        "95도에서 6분. 계피는 8분을 넘기면 써집니다.",
-        "유럽과 북미의 가정용 블렌드. 말린 사과에 계피 껍질을 섞습니다.",
-        "말린 사과 조각에 계피를 섞어 우리거나, 사과를 살짝 볶아 향을 올린 뒤 우리기도 합니다.",
-        "사과와 계피는 유럽에서 겨울 음료의 기본 조합이었고, 말린 과일이 유통되면서 차로 마시게 되었습니다.",
-        "사과의 산미와 계피의 따뜻한 향, 끝의 단맛.",
-        "애플 파이, 시나몬 롤, 겨울 디저트.",
-        "95도에서 6~8분. 아이스로 마시려면 두 배로 진하게."
-      ],
-      en: [
-        "Apple Cinnamon",
-        "Dried apple and cinnamon — the baked-fruit heart of a fruit blend.",
-        "None · caffeine-free",
-        "5 g to 200 ml",
-        "1–2 infusions",
-        "6 minutes at 95 °C. Cinnamon turns bitter past eight.",
-        "A European and North American household blend: dried apple with cinnamon bark.",
-        "Dried apple pieces mixed with cinnamon, or apple lightly roasted first to lift the aroma.",
-        "Apple and cinnamon were the base of European winter drinks long before dried fruit made them a tea.",
-        "Apple acidity, the warm spice of cinnamon, sweetness at the end.",
-        "Apple pie, cinnamon rolls, winter desserts.",
-        "Six to eight minutes at 95 °C; double it for iced tea."
-      ],
-      "zh-CN": [
-        "苹果肉桂茶",
-        "干燥苹果与肉桂——烤水果般的香气，是水果拼配的基本款。",
-        "不发酵 · 无咖啡因",
-        "200毫升配5克",
-        "1~2泡",
-        "95度泡6分钟。肉桂超过8分钟会苦。",
-        "欧美家庭的常备拼配：干燥苹果加肉桂皮。",
-        "干燥苹果片与肉桂混合冲泡，或先把苹果略烘一下再泡，香气更高。",
-        "苹果与肉桂原是欧洲冬季饮品的经典组合，干燥水果流通后才成了茶。",
-        "苹果的酸、肉桂的温暖香气、尾端的甜。",
-        "苹果派、肉桂卷、冬季甜点。",
-        "95度泡6~8分钟。做冰饮用两倍的量。"
-      ],
-      "zh-TW": [
-        "蘋果肉桂茶",
-        "乾燥蘋果與肉桂——烤水果般的香氣，是水果拼配的基本款。",
-        "不發酵 · 無咖啡因",
-        "200毫升配5公克",
-        "1~2泡",
-        "95度泡6分鐘。肉桂超過8分鐘會苦。",
-        "歐美家庭的常備拼配：乾燥蘋果加肉桂皮。",
-        "乾燥蘋果片與肉桂混合沖泡，或先把蘋果略烘一下再泡，香氣更高。",
-        "蘋果與肉桂原是歐洲冬季飲品的經典組合，乾燥水果流通後才成了茶。",
-        "蘋果的酸、肉桂的溫暖香氣、尾端的甜。",
-        "蘋果派、肉桂捲、冬季甜點。",
-        "95度泡6~8分鐘。做冰飲用兩倍的量。"
-      ]
-    },
-    {
-      id: "fruit-peach",
-      group: "fruit",
-      h: "桃",
-      hz: "蜜桃花茶",
-      hs: "蜜桃花茶",
-      rom: "Peach Blossom",
-      sub: "Peach Blossom",
-      t: 90,
-      tr: "85~95℃",
-      l: "5g",
-      w: "200ml",
-      s: [300, 360],
-      m: 2,
-      ox: 0,
-      ko: [
-        "피치 블로썸",
-        "복숭아 향에 꽃잎을 얹은, 봄 같은 한 잔.",
-        "무산화 · 카페인 없음",
-        "200ml에 5g",
-        "1~2회",
-        "90도에서 5분. 꽃잎은 마지막 2분에 넣으면 향이 살아 있습니다.",
-        "유럽식 과일 블렌드. 복숭아 향을 입힌 사과·히비스커스에 꽃잎을 더합니다.",
-        "말린 사과와 히비스커스에 복숭아 향을 입히고 꽃잎을 섞습니다.",
-        "복숭아는 유럽에서 여름 과일의 대표였고, 향을 입힌 과일 블렌드는 20세기 티살롱에서 자리 잡았습니다.",
-        "잘 익은 복숭아의 향, 부드러운 산미, 꽃잎의 향.",
-        "과일 타르트, 브런치, 아이스티.",
-        "90도에서 5분. 아이스로 마실 때는 얼음을 고려해 두 배로 진하게."
-      ],
-      en: [
-        "Peach Blossom",
-        "Peach aroma with petals on top — a cup that tastes like spring.",
-        "None · caffeine-free",
-        "5 g to 200 ml",
-        "1–2 infusions",
-        "Five minutes at 90 °C. Add the petals in the last two minutes to keep their scent.",
-        "A European fruit blend: dried apple and hibiscus scented with peach, plus petals.",
-        "Dried apple and hibiscus scented with peach, then mixed with flower petals.",
-        "Peach was Europe's summer fruit, and scented fruit blends settled into tea salons in the twentieth century.",
-        "Ripe peach aroma, a soft acidity, the scent of petals.",
-        "Fruit tarts, brunch, iced tea.",
-        "Five minutes at 90 °C; double it when pouring over ice."
-      ],
-      "zh-CN": [
-        "蜜桃花茶",
-        "蜜桃香里加上花瓣，像春天的一杯。",
-        "不发酵 · 无咖啡因",
-        "200毫升配5克",
-        "1~2泡",
-        "90度泡5分钟。花瓣在最后2分钟放，香气更好。",
-        "欧式水果拼配：加了蜜桃香的苹果、洛神花，再混入花瓣。",
-        "干燥苹果与洛神花加蜜桃香，再拌入花瓣。",
-        "蜜桃是欧洲夏天的代表水果，加香水果拼配在20世纪的茶沙龙里定下了样子。",
-        "熟透蜜桃的香、柔和的酸、花瓣的香。",
-        "水果塔、早午餐、冰茶。",
-        "90度泡5分钟。做冰饮时考虑到冰块，用两倍的量。"
-      ],
-      "zh-TW": [
-        "蜜桃花茶",
-        "蜜桃香裡加上花瓣，像春天的一杯。",
-        "不發酵 · 無咖啡因",
-        "200毫升配5公克",
-        "1~2泡",
-        "90度泡5分鐘。花瓣在最後2分鐘放，香氣更好。",
-        "歐式水果拼配：加了蜜桃香的蘋果、洛神花，再混入花瓣。",
-        "乾燥蘋果與洛神花加蜜桃香，再拌入花瓣。",
-        "蜜桃是歐洲夏天的代表水果，加香水果拼配在20世紀的茶沙龍裡定下了樣子。",
-        "熟透蜜桃的香、柔和的酸、花瓣的香。",
-        "水果塔、早午餐、冰茶。",
-        "90度泡5分鐘。做冰飲時考慮到冰塊，用兩倍的量。"
-      ]
-    },
-    {
-      id: "fruit-berryhibiscus",
-      group: "fruit",
-      h: "莓",
-      hz: "莓果洛神花茶",
-      hs: "莓果洛神花茶",
-      rom: "Berry Hibiscus",
-      sub: "Berry Hibiscus",
-      t: 95,
-      tr: "90~100℃",
-      l: "5g",
-      w: "200ml",
-      s: [300, 360],
-      m: 2,
-      ox: 0,
-      ko: [
-        "히비스커스 베리",
-        "히비스커스의 산미에 베리와 로즈힙을 더한, 붉고 상큼한 잔.",
-        "무산화 · 카페인 없음",
-        "200ml에 5g",
-        "1~2회",
-        "95도에서 5~7분. 꿀이나 설탕을 조금 더하면 산미가 둥글어집니다.",
-        "유럽·북미의 과일 블렌드. 히비스커스는 북아프리카 원산으로, 로즈힙·엘더베리와 자주 섞입니다.",
-        "히비스커스 꽃받침에 로즈힙·엘더베리·딸기 조각을 섞어 우립니다.",
-        "히비스커스는 이집트·수단에서 오래 마시던 꽃차로, 유럽에서는 과일 블렌드의 산미를 맡습니다.",
-        "크랜베리 같은 강한 산미, 베리의 단맛, 붉은 물색.",
-        "치즈케이크, 상큼한 디저트, 아이스티.",
-        "95도에서 5~7분. 아이스로 마시면 산미가 더 또렷합니다."
-      ],
-      en: [
-        "Berry Hibiscus",
-        "Hibiscus acidity with berries and rosehip — a red, bracing cup.",
-        "None · caffeine-free",
-        "5 g to 200 ml",
-        "1–2 infusions",
-        "Five to seven minutes at 95 °C. A little honey rounds the acidity.",
-        "A European and North American fruit blend. Hibiscus comes from North Africa and is often mixed with rosehip and elderberry.",
-        "Hibiscus calyces mixed with rosehip, elderberry and strawberry pieces.",
-        "Hibiscus has long been drunk in Egypt and Sudan; in Europe it carries the acidity of a fruit blend.",
-        "A cranberry-like acidity, berry sweetness, a red liquor.",
-        "Cheesecake, sharp desserts, iced tea.",
-        "Five to seven minutes at 95 °C; iced, the acidity is even clearer."
-      ],
-      "zh-CN": [
-        "莓果洛神花茶",
-        "洛神花的酸加上莓果与玫瑰果，红而清爽的一杯。",
-        "不发酵 · 无咖啡因",
-        "200毫升配5克",
-        "1~2泡",
-        "95度泡5~7分钟。加一点蜂蜜或糖，酸会圆润。",
-        "欧美水果拼配。洛神花原产北非，常与玫瑰果、接骨木莓混合。",
-        "洛神花萼加玫瑰果、接骨木莓、草莓果干一起冲泡。",
-        "洛神花在埃及、苏丹喝了很久，在欧洲则负责水果拼配里的酸。",
-        "像蔓越莓般的强酸、莓果的甜、红色的茶汤。",
-        "芝士蛋糕、清爽的甜点、冰茶。",
-        "95度泡5~7分钟。做成冰饮酸味更清楚。"
-      ],
-      "zh-TW": [
-        "莓果洛神花茶",
-        "洛神花的酸加上莓果與玫瑰果，紅而清爽的一杯。",
-        "不發酵 · 無咖啡因",
-        "200毫升配5公克",
-        "1~2泡",
-        "95度泡5~7分鐘。加一點蜂蜜或糖，酸會圓潤。",
-        "歐美水果拼配。洛神花原產北非，常與玫瑰果、接骨木莓混合。",
-        "洛神花萼加玫瑰果、接骨木莓、草莓果乾一起沖泡。",
-        "洛神花在埃及、蘇丹喝了很久，在歐洲則負責水果拼配裡的酸。",
-        "像蔓越莓般的強酸、莓果的甜、紅色的茶湯。",
-        "起司蛋糕、清爽的甜點、冰茶。",
-        "95度泡5~7分鐘。做成冰飲酸味更清楚。"
-      ]
-    },
-    {
-      id: "fruit-bloodorange",
-      group: "fruit",
-      h: "橙",
-      hz: "血橙茶",
-      hs: "血橙茶",
-      rom: "Blood Orange",
-      sub: "Blood Orange",
-      t: 90,
-      tr: "85~95℃",
-      l: "5g",
-      w: "200ml",
-      s: [300, 360],
-      m: 2,
-      ox: 0,
-      ko: [
-        "블러드 오렌지",
-        "블러드 오렌지 껍질과 과육의 향을 입힌, 산뜻한 시트러스 과일차.",
-        "무산화 · 카페인 없음",
-        "200ml에 5g",
-        "1~2회",
-        "90도에서 5분. 껍질이 많으면 7분을 넘기지 않습니다.",
-        "지중해 시칠리아가 대표 산지인 블러드 오렌지를 쓰는 과일 블렌드.",
-        "말린 오렌지 껍질과 사과·히비스커스에 블러드 오렌지 향을 더합니다.",
-        "시칠리아의 블러드 오렌지는 겨울의 차가운 밤이 붉은 색을 만든다고 알려져 있습니다.",
-        "오렌지 껍질의 쌉싸름한 향, 산미, 옅은 단맛.",
-        "브런치, 팬케이크, 아이스로.",
-        "90도에서 5분. 껍질의 쌉싸름함이 좋다면 7분까지."
-      ],
-      en: [
-        "Blood Orange",
-        "Blood orange peel and flesh in a bright citrus fruit tea.",
-        "None · caffeine-free",
-        "5 g to 200 ml",
-        "1–2 infusions",
-        "Five minutes at 90 °C; with plenty of peel, stop by seven.",
-        "A fruit blend built on blood orange, whose best-known home is Sicily.",
-        "Dried orange peel and apple with hibiscus, scented with blood orange.",
-        "Sicilian blood oranges are said to take their red from cold winter nights.",
-        "The bittersweet aroma of orange peel, acidity, a light sweetness.",
-        "Brunch, pancakes, served iced.",
-        "Five minutes at 90 °C; up to seven if you like the peel's bitterness."
-      ],
-      "zh-CN": [
-        "血橙茶",
-        "加入血橙果皮与果肉香气，清爽的柑橘水果茶。",
-        "不发酵 · 无咖啡因",
-        "200毫升配5克",
-        "1~2泡",
-        "90度泡5分钟。果皮多时不要超过7分钟。",
-        "以地中海西西里为代表产地的血橙做成的果茶拼配。",
-        "干燥橙皮、苹果、洛神花加上血橙香。",
-        "据说西西里血橙的红色来自冬天寒冷的夜晚。",
-        "橙皮的微苦香、酸味、淡淡的甜。",
-        "早午餐、松饼，做冰饮也好。",
-        "90度泡5分钟。喜欢果皮的微苦可以泡到7分钟。"
-      ],
-      "zh-TW": [
-        "血橙茶",
-        "加入血橙果皮與果肉香氣，清爽的柑橘水果茶。",
-        "不發酵 · 無咖啡因",
-        "200毫升配5公克",
-        "1~2泡",
-        "90度泡5分鐘。果皮多時不要超過7分鐘。",
-        "以地中海西西里為代表產地的血橙做成的果茶拼配。",
-        "乾燥橙皮、蘋果、洛神花加上血橙香。",
-        "據說西西里血橙的紅色來自冬天寒冷的夜晚。",
-        "橙皮的微苦香、酸味、淡淡的甜。",
-        "早午餐、鬆餅，做冰飲也好。",
-        "90度泡5分鐘。喜歡果皮的微苦可以泡到7分鐘。"
-      ]
-    },
-    {
-      id: "fruit-passionfruit",
-      group: "fruit",
-      h: "百",
-      hz: "百香果茶",
-      hs: "百香果茶",
-      rom: "Passion Fruit",
-      sub: "Passion Fruit",
-      t: 90,
-      tr: "85~95℃",
-      l: "5g",
-      w: "200ml",
-      s: [300],
-      m: 1,
-      ox: 0,
-      ko: [
-        "패션프루트",
-        "열대 과일의 강한 향과 산미로 여름에 어울리는 잔.",
-        "무산화 · 카페인 없음",
-        "200ml에 5g",
-        "1회",
-        "90도에서 5분 후 얼음 위에. 차갑게 마시려면 두 배로 진하게.",
-        "남미 원산 패션프루트를 쓰는 열대 과일 블렌드.",
-        "말린 망고·파인애플에 패션프루트 향과 꽃잎을 더합니다.",
-        "패션프루트는 브라질·파라과이 원산으로, 20세기에 유럽과 아시아의 여름 음료로 퍼졌습니다.",
-        "패션프루트의 새콤한 향, 열대 과일의 단맛.",
-        "아이스티, 요거트, 여름 디저트.",
-        "90도에서 5분. 얼음을 넣으면 산미가 살아납니다."
-      ],
-      en: [
-        "Passion Fruit",
-        "Tropical aroma and sharp acidity — a cup for summer.",
-        "None · caffeine-free",
-        "5 g to 200 ml",
-        "One brew",
-        "Five minutes at 90 °C, then over ice. Double it to drink cold.",
-        "A tropical fruit blend built on passion fruit, native to South America.",
-        "Dried mango and pineapple with passion fruit flavour and petals.",
-        "Passion fruit comes from Brazil and Paraguay and spread into summer drinks in Europe and Asia in the twentieth century.",
-        "The sharp scent of passion fruit, tropical sweetness.",
-        "Iced tea, yoghurt, summer desserts.",
-        "Five minutes at 90 °C; over ice the acidity comes forward."
-      ],
-      "zh-CN": [
-        "百香果茶",
-        "热带水果强烈的香气与酸味，适合夏天的一杯。",
-        "不发酵 · 无咖啡因",
-        "200毫升配5克",
-        "1次",
-        "90度泡5分钟后加冰块。要喝冷的就用两倍的量。",
-        "以南美原产百香果做成的热带水果拼配。",
-        "干燥芒果、菠萝加上百香果香与花瓣。",
-        "百香果原产巴西、巴拉圭，20世纪传开成为欧洲与亚洲的夏日饮品。",
-        "百香果的酸香、热带水果的甜。",
-        "冰茶、酸奶、夏季甜点。",
-        "90度泡5分钟。加冰块酸味更明显。"
-      ],
-      "zh-TW": [
-        "百香果茶",
-        "熱帶水果強烈的香氣與酸味，適合夏天的一杯。",
-        "不發酵 · 無咖啡因",
-        "200毫升配5公克",
-        "1次",
-        "90度泡5分鐘後加冰塊。要喝冷的就用兩倍的量。",
-        "以南美原產百香果做成的熱帶水果拼配。",
-        "乾燥芒果、鳳梨加上百香果香與花瓣。",
-        "百香果原產巴西、巴拉圭，20世紀傳開成為歐洲與亞洲的夏日飲品。",
-        "百香果的酸香、熱帶水果的甜。",
-        "冰茶、優格、夏季甜點。",
-        "90度泡5分鐘。加冰塊酸味更明顯。"
       ]
     },
 
@@ -19237,7 +18642,6 @@ window.TEAFaiData = (function () {
     "white-gongmei": "t-afternoon t-night a-floral a-roast b-medium k-sweet r-clean s-hot w-gongfu p-meal c-low m-cozy",
     /* 홍차 */
     "black-darjeeling-first": "t-morning t-afternoon a-floral b-light k-crisp r-clean s-hot s-iced w-quick p-dessert c-high m-refresh",
-    "black-darjeeling-second": "t-afternoon a-floral a-malt a-fruit b-medium k-sweet s-hot w-quick p-dessert c-high",
     "black-assam": "t-morning a-malt b-full k-sweet s-milk s-hot w-quick p-meal p-dessert c-high m-energy",
     "black-nilgiri": "t-morning t-afternoon a-herb a-malt b-light k-crisp r-clean s-hot s-iced w-quick c-high m-refresh",
     "black-nuwaraeliya": "t-morning a-floral a-herb b-light k-crisp r-clean s-hot s-iced w-quick c-high m-refresh",
@@ -19297,12 +18701,6 @@ window.TEAFaiData = (function () {
     "fruit-mogwa": "t-afternoon t-night a-fruit a-floral b-light k-sweet s-hot w-quick p-dessert c-none m-cozy",
     "fruit-omija": "t-afternoon a-fruit a-herb b-light k-crisp s-iced w-quick p-solo c-none m-refresh",
     "fruit-daechu": "t-night a-roast a-fruit b-medium k-sweet s-hot w-quick p-dessert c-none m-cozy m-calm",
-    "fruit-gingerlemon": "t-morning t-afternoon a-herb a-fruit b-medium k-crisp s-hot w-quick p-meal c-none m-energy",
-    "fruit-applecinnamon": "t-afternoon t-night a-fruit a-roast b-medium k-sweet k-blend s-hot w-quick p-dessert c-none m-cozy",
-    "fruit-peach": "t-afternoon a-fruit a-floral b-light k-sweet k-blend s-hot s-iced w-quick p-dessert c-none m-calm",
-    "fruit-berryhibiscus": "t-afternoon a-fruit a-herb b-light k-crisp k-blend s-iced w-quick p-dessert c-none m-refresh",
-    "fruit-bloodorange": "t-morning t-afternoon a-fruit a-herb b-light k-crisp k-blend s-hot s-iced w-quick p-meal c-none m-energy",
-    "fruit-passionfruit": "t-afternoon a-fruit a-herb b-light k-crisp k-blend s-iced w-quick p-dessert c-none m-refresh"
   };
 
   /* ── BEGIN generated: research ── */
@@ -20164,7 +19562,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "혜명차",
+      "name": "혜명",
       "oneLine": "절 이름을 그대로 가진, 저장 산사의 봄잎.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
@@ -20509,7 +19907,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "카부세차",
+      "name": "카부세",
       "oneLine": "수확 전 짧게 가린 잎 — 센차와 옥로 사이의 감칠맛.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
@@ -20624,7 +20022,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "카마이리차",
+      "name": "카마이리",
       "oneLine": "일본에서 드물게 솥에 덖는 녹차 — 구수함이 남는 잎.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
@@ -21659,7 +21057,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "환서황대차",
+      "name": "환서황대",
       "oneLine": "잎이 크고 굵은 안후이의 대형 황차 — 끓여 마시는 차.",
       "oxidation": "약 20%",
       "ratioNote": "200ml에 5g",
@@ -21731,6 +21129,7 @@ window.TEAFaiData = (function () {
     "hanja": "鹿",
     "sub": "Yu'an Luyuan",
     "alias": [
+      "원안녹원차",
       "원안녹원",
       "녹원차"
     ],
@@ -21774,7 +21173,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "원안녹원차",
+      "name": "원안녹원",
       "oneLine": "청대 기록이 남은 후베이 황차 — 가늘게 꼰 잎.",
       "oxidation": "약 15%",
       "ratioNote": "150ml에 3g",
@@ -23043,7 +22442,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "압시향",
+      "name": "압시 우롱",
       "oneLine": "거친 이름 뒤에 은은한 꽃 향이 있는 봉황단총.",
       "oxidation": "약 45%",
       "ratioNote": "개완 110ml에 7g",
@@ -23735,7 +23134,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "리제 차",
+      "name": "리제",
       "oneLine": "작은 유리잔에 진하게 — 흑해 연안의 매일 차.",
       "oxidation": "약 95%",
       "ratioNote": "150ml에 4g",
@@ -24140,120 +23539,6 @@ window.TEAFaiData = (function () {
       "brewTip": "95度三分鐘，適合早晨拼配。",
       "keep": "密封乾燥。",
       "keywords": "杜阿爾斯 印度 西孟加拉 紅茶"
-    },
-    "originCountryCode": "in"
-  },
-  {
-    "id": "black-darjeeling-autumn",
-    "group": "black",
-    "kind": "tea",
-    "hanja": "秋",
-    "sub": "Darjeeling Autumnal",
-    "alias": [
-      "다즐링 오텀널",
-      "가을 다즐링"
-    ],
-    "hz": "大吉嶺秋摘",
-    "hs": "大吉岭秋摘",
-    "rom": "Darjeeling Autumnal",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      180,
-      180
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 90,
-    "traits": "t-morning t-afternoon a-fruit a-malt b-medium k-sweet r-clean s-hot s-milk p-meal c-mid m-cozy",
-    "originCountry": {
-      "ko": "인도",
-      "en": "India",
-      "zh-CN": "印度",
-      "zh-TW": "印度"
-    },
-    "x": {
-      "ko": [
-        "위조 → 유념 → 산화 → 건조. 세컨드 플러시보다 산화가 조금 더 진행됩니다.",
-        "다즐링은 봄(퍼스트), 여름(세컨드), 가을(오텀널) 세 시즌 차를 나눠 칩니다. 가을 차는 잎이 크고 짙으며 둥근 단맛이 특징입니다."
-      ],
-      "en": [
-        "Withered, rolled, oxidised, dried; slightly more oxidation than the second flush.",
-        "Darjeeling is picked in three seasons — first flush, second flush and autumnal. The autumn leaf is larger, darker and rounder in sweetness."
-      ],
-      "zh-CN": [
-        "萎凋 → 揉捻 → 发酵 → 干燥，发酵略重于夏摘。",
-        "大吉岭分春摘、夏摘、秋摘三季；秋摘叶大色深、甜味圆润。"
-      ],
-      "zh-TW": [
-        "萎凋 → 揉捻 → 發酵 → 乾燥，發酵略重於夏摘。",
-        "大吉嶺分春摘、夏摘、秋摘三季；秋摘葉大色深、甜味圓潤。"
-      ]
-    },
-    "ko": {
-      "name": "다즐링 오텀널",
-      "oneLine": "큰 잎과 둥근 단맛 — 다즐링의 가을.",
-      "oxidation": "약 90%",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 3분, 2포 3분.",
-      "origin": "인도 서벵골 다즐링, 10~11월 채취.",
-      "process": "위조 → 유념 → 산화 → 건조.",
-      "story": "다즐링은 시즌별로 차를 나눠 칩니다. 가을 차는 겨울을 앞두고 잎이 두꺼워지며 향이 안정됩니다.",
-      "flavor": "말린 과일과 꿀, 부드러운 몰트. 봄·여름 차보다 향이 차분합니다.",
-      "pairing": "오후의 차, 구운 과자, 가벼운 디저트.",
-      "brewTip": "95도에서 3분. 우유보다는 그대로 마시는 편이 좋습니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "다즐링 오텀널 가을차 인도 홍차"
-    },
-    "en": {
-      "name": "Darjeeling Autumnal",
-      "oneLine": "Large leaf and round sweetness — Darjeeling in autumn.",
-      "oxidation": "about 90%",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C: 3 minutes, then 3.",
-      "origin": "Darjeeling, West Bengal, India; picked October–November.",
-      "process": "Withered, rolled, oxidised, dried.",
-      "story": "Darjeeling is graded by season; autumn leaf thickens before winter and the aroma settles.",
-      "flavor": "Dried fruit, honey, soft malt — calmer than the spring and summer flushes.",
-      "pairing": "Afternoon tea, baked biscuits, light desserts.",
-      "brewTip": "Three minutes at 95 °C; better without milk.",
-      "keep": "Sealed and dry.",
-      "keywords": "Darjeeling autumnal autumn flush India black tea"
-    },
-    "zh-CN": {
-      "name": "大吉岭秋摘",
-      "oneLine": "大叶与圆润甜味，大吉岭的秋天。",
-      "oxidation": "约90%",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡3分钟，第二泡3分钟。",
-      "origin": "印度西孟加拉大吉岭，10~11月采摘。",
-      "process": "萎凋 → 揉捻 → 发酵 → 干燥。",
-      "story": "大吉岭按季节分级，秋叶在入冬前变厚，香气沉稳。",
-      "flavor": "果干、蜂蜜与柔和麦芽，比春夏茶平静。",
-      "pairing": "下午茶、烤饼干、清淡甜点。",
-      "brewTip": "95度三分钟，建议不加奶。",
-      "keep": "密封干燥。",
-      "keywords": "大吉岭 秋摘 印度 红茶"
-    },
-    "zh-TW": {
-      "name": "大吉嶺秋摘",
-      "oneLine": "大葉與圓潤甜味，大吉嶺的秋天。",
-      "oxidation": "約90%",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡3分鐘，第二泡3分鐘。",
-      "origin": "印度西孟加拉大吉嶺，10~11月採摘。",
-      "process": "萎凋 → 揉捻 → 發酵 → 乾燥。",
-      "story": "大吉嶺按季節分級，秋葉在入冬前變厚，香氣沉穩。",
-      "flavor": "果乾、蜂蜜與柔和麥芽，比春夏茶平靜。",
-      "pairing": "下午茶、烤餅乾、清淡甜點。",
-      "brewTip": "95度三分鐘，建議不加奶。",
-      "keep": "密封乾燥。",
-      "keywords": "大吉嶺 秋摘 印度 紅茶"
     },
     "originCountryCode": "in"
   },
@@ -25113,7 +24398,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "계화차",
+      "name": "계화우롱",
       "oneLine": "가을 계화 꽃 향을 차잎에 옮긴, 살구빛 단맛의 차.",
       "oxidation": "약 60% (베이스에 따름)",
       "ratioNote": "200ml에 3g",
@@ -25522,119 +24807,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "th"
   },
   {
-    "id": "blend-yuenyeung",
-    "group": "blended",
-    "kind": "tea",
-    "hanja": "鴛",
-    "sub": "Yuenyeung",
-    "alias": [
-      "얀여엉",
-      "원앙차"
-    ],
-    "hz": "鴛鴦",
-    "hs": "鸳鸯",
-    "rom": "Yuenyeung",
-    "temp": 95,
-    "tempRange": "95~100℃",
-    "leaf": "6g",
-    "water": "150ml",
-    "steeps": [
-      300
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 95,
-    "traits": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-hot s-milk p-meal c-high m-energy",
-    "originCountry": {
-      "ko": "홍콩",
-      "en": "Hong Kong",
-      "zh-CN": "香港",
-      "zh-TW": "香港"
-    },
-    "x": {
-      "ko": [
-        "홍콩 차찬텡의 단골 메뉴로, 진한 홍차와 커피를 7:3 안팎으로 섞고 연유나 우유를 더합니다.",
-        "홍차를 진하게 우리고 커피를 섞은 뒤 연유·우유로 농도를 맞춥니다."
-      ],
-      "en": [
-        "A cha chaan teng staple: strong milk tea blended with coffee, roughly seven to three, sweetened with condensed milk.",
-        "Strong black tea mixed with coffee, then adjusted with condensed or evaporated milk."
-      ],
-      "zh-CN": [
-        "茶餐厅常见饮品，浓奶茶与咖啡约七三混合，加炼乳调味。",
-        "浓红茶混咖啡，再用炼乳或淡奶调浓度。"
-      ],
-      "zh-TW": [
-        "茶餐廳常見飲品，濃奶茶與咖啡約七三混合，加煉乳調味。",
-        "濃紅茶混咖啡，再用煉乳或淡奶調濃度。"
-      ]
-    },
-    "ko": {
-      "name": "원앙",
-      "oneLine": "홍차와 커피를 섞은 홍콩 차찬텡의 잔.",
-      "oxidation": "약 95%",
-      "ratioNote": "150ml에 6g, 커피·연유는 취향껏",
-      "rounds": "1회",
-      "steepBasis": "95도에서 5분 진하게 우리고 커피를 7:3 정도로 섞습니다.",
-      "origin": "홍콩 차찬텡. 베이스는 세일론·아쌈 블렌드.",
-      "process": "진한 홍차에 커피를 섞고 연유나 우유로 농도를 맞춥니다.",
-      "story": "이름은 두 마리 새가 한 몸처럼 붙어 있는 원앙에서 왔습니다. 차와 커피가 섞인 모습을 빗댄 것입니다.",
-      "flavor": "홍차의 몰트와 커피의 쓴맛, 연유의 단맛이 겹칩니다.",
-      "pairing": "홍콩식 토스트, 계란 요리, 아침.",
-      "brewTip": "차를 진하게 우리는 것이 핵심입니다. 커피는 진한 에스프레소를 조금.",
-      "keep": "차잎은 밀봉해 건조하게.",
-      "keywords": "원앙 얀여엉 원앙차 홍콩 커피 홍차"
-    },
-    "en": {
-      "name": "Yuenyeung",
-      "oneLine": "Black tea and coffee in one Hong Kong cup.",
-      "oxidation": "about 95%",
-      "ratioNote": "6 g to 150 ml; coffee and condensed milk to taste",
-      "rounds": "1 brew",
-      "steepBasis": "Brew strong for 5 minutes at 95 °C, then mix with coffee about 7:3.",
-      "origin": "Hong Kong cha chaan teng, on a Ceylon–Assam base.",
-      "process": "Strong milk tea mixed with coffee, adjusted with condensed or evaporated milk.",
-      "story": "The name comes from the mandarin duck, a pair joined as one — tea and coffee in a single cup.",
-      "flavor": "Malt, coffee bitterness and condensed-milk sweetness together.",
-      "pairing": "Hong Kong toast, egg dishes, breakfast.",
-      "brewTip": "Brew the tea strong; add a little strong espresso.",
-      "keep": "Keep the leaf sealed and dry.",
-      "keywords": "yuenyeung Hong Kong coffee milk tea cha chaan teng"
-    },
-    "zh-CN": {
-      "name": "鸳鸯",
-      "oneLine": "红茶与咖啡同在一杯，香港茶餐厅的味道。",
-      "oxidation": "约95%",
-      "ratioNote": "150毫升配6克，咖啡与炼乳随口味",
-      "rounds": "1次",
-      "steepBasis": "95度泡5分钟至浓，再与咖啡约七三混合。",
-      "origin": "香港茶餐厅，茶坯为锡兰与阿萨姆拼配。",
-      "process": "浓奶茶混入咖啡，用炼乳或淡奶调浓淡。",
-      "story": "名字取自鸳鸯——两只鸟合为一体，喻茶与咖啡同杯。",
-      "flavor": "麦芽、咖啡的苦与炼乳的甜叠在一起。",
-      "pairing": "港式多士、蛋类料理、早餐。",
-      "brewTip": "茶要浓，咖啡用少量浓缩。",
-      "keep": "茶叶密封干燥。",
-      "keywords": "鸳鸯 香港 咖啡 奶茶 茶餐厅"
-    },
-    "zh-TW": {
-      "name": "鴛鴦",
-      "oneLine": "紅茶與咖啡同在一杯，香港茶餐廳的味道。",
-      "oxidation": "約95%",
-      "ratioNote": "150毫升配6克，咖啡與煉乳隨口味",
-      "rounds": "1次",
-      "steepBasis": "95度泡5分鐘至濃，再與咖啡約七三混合。",
-      "origin": "香港茶餐廳，茶坯為錫蘭與阿薩姆拼配。",
-      "process": "濃奶茶混入咖啡，用煉乳或淡奶調濃淡。",
-      "story": "名字取自鴛鴦——兩隻鳥合為一體，喻茶與咖啡同杯。",
-      "flavor": "麥芽、咖啡的苦與煉乳的甜疊在一起。",
-      "pairing": "港式多士、蛋類料理、早餐。",
-      "brewTip": "茶要濃，咖啡用少量濃縮。",
-      "keep": "茶葉密封乾燥。",
-      "keywords": "鴛鴦 香港 咖啡 奶茶 茶餐廳"
-    },
-    "originCountryCode": "hk"
-  },
-  {
     "id": "blend-moroccan-mint",
     "group": "green",
     "kind": "tea",
@@ -25684,7 +24856,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "모로코 민트티",
+      "name": "모로코 민트",
       "oneLine": "중국 건차에 신선한 박하와 설탕 — 높이 부어 마시는 차.",
       "oxidation": "약 5% (녹차 베이스)",
       "ratioNote": "200ml에 4g, 박하 한 줌·설탕은 취향껏",
@@ -26710,7 +25882,6 @@ window.TEAFaiData = (function () {
   "black-cameron": "t-morning t-afternoon a-malt a-roast b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
   "black-rwanda": "t-morning t-afternoon a-malt b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
   "black-dooars": "t-morning t-afternoon a-malt a-roast b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
-  "black-darjeeling-autumn": "t-morning t-afternoon a-fruit a-malt b-medium k-sweet r-clean s-hot s-milk p-meal c-mid m-cozy",
   "black-yeongdeok": "t-morning t-afternoon a-malt a-floral b-medium k-sweet r-clean s-hot s-milk p-dessert c-mid m-cozy",
   "dark-fuzhuan": "t-afternoon t-night a-herb a-roast b-full k-grain r-clean s-hot w-gongfu p-meal c-high m-cozy",
   "dark-qianliang": "t-afternoon t-night a-herb a-roast b-full k-grain r-clean s-hot w-gongfu p-meal c-high m-cozy",
@@ -26722,7 +25893,6 @@ window.TEAFaiData = (function () {
   "blend-rose": "t-afternoon t-night a-floral a-fruit b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
   "blend-lychee": "t-morning t-afternoon a-fruit a-floral b-medium k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
   "blend-thaitea": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-iced s-milk p-dessert c-high m-energy",
-  "blend-yuenyeung": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-hot s-milk p-meal c-high m-energy",
   "blend-moroccan-mint": "t-morning t-afternoon a-herb a-grass b-light k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
   "blend-russian-caravan": "t-morning t-afternoon a-roast a-malt b-full k-sweet r-smoke s-hot s-milk p-meal c-high m-cozy",
   "blend-irish-breakfast": "t-morning a-malt b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
@@ -27024,14 +26194,6 @@ window.TEAFaiData = (function () {
     "lic": "",
     "lu": "",
     "pg": "ippr_z2C$qAzdH3FAzdH3Fooo_z&e3Bejj6_z&e3Bv54AzdH3Fri5p5AzdH3F9nc9naldl"
-  },
-  "black-darjeeling-second": {
-    "f": "black-darjeeling-second.jpg",
-    "m": "exact",
-    "cr": "shopozz.ru",
-    "lic": "",
-    "lu": "",
-    "pg": "https://shopozz.ru/items/226805660081-darjeeling-first-flush-tea--2026-fresh-gielie-sftgfop1-loose-leaf-blend-1-kg"
   },
   "black-assam": {
     "f": "black-assam.jpg",
@@ -27465,54 +26627,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": "https://redmall.ru/taobao/dlya-zdorovya/produkti-pitaniya/dobavki-k-blyudam/myaso-kategoriya-suhoyi-tovari/sushenie-produkti/drugie-sushenie-produkti/_l093275496844.html"
   },
-  "fruit-gingerlemon": {
-    "f": "fruit-gingerlemon.jpg",
-    "m": "exact",
-    "cr": "Fumikas Sagisavas",
-    "lic": "CC0",
-    "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "pg": "https://commons.wikimedia.org/wiki/File:Dried_lemon_slices.jpg"
-  },
-  "fruit-applecinnamon": {
-    "f": "fruit-applecinnamon.jpg",
-    "m": "exact",
-    "cr": "commons.wikimedia.org",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "fruit-peach": {
-    "f": "fruit-peach.jpg",
-    "m": "exact",
-    "cr": "shop.thesourcebulkfoods.com.au",
-    "lic": "",
-    "lu": "",
-    "pg": "https://shop.thesourcebulkfoods.com.au/product/australian-dried-peaches/"
-  },
-  "fruit-berryhibiscus": {
-    "f": "fruit-berryhibiscus.jpg",
-    "m": "family",
-    "cr": "Fumikas Sagisavas",
-    "lic": "CC0",
-    "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "pg": "https://commons.wikimedia.org/wiki/File:Dried_fruit_tea_(20240909).jpg"
-  },
-  "fruit-bloodorange": {
-    "f": "fruit-bloodorange.jpg",
-    "m": "exact",
-    "cr": "bluewindmill.hk",
-    "lic": "",
-    "lu": "",
-    "pg": "https://bluewindmill.hk/product-category/%E6%B0%B4%E6%9E%9C%E6%B7%B7%E5%90%88%E8%8C%B6/?v=0446c16e2e66"
-  },
-  "fruit-passionfruit": {
-    "f": "fruit-passionfruit.jpg",
-    "m": "exact",
-    "cr": "Fumikas Sagisavas",
-    "lic": "CC0",
-    "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "pg": "https://commons.wikimedia.org/wiki/File:Freeze-dried_passion_fruit_cubes.jpg"
-  },
   "green-zhuyeqing": {
     "f": "green-zhuyeqing.jpg",
     "m": "family",
@@ -27849,14 +26963,6 @@ window.TEAFaiData = (function () {
     "lu": "https://creativecommons.org/licenses/by-sa/4.0",
     "pg": "https://commons.wikimedia.org/wiki/File:Assam-hajua.jpg"
   },
-  "black-darjeeling-autumn": {
-    "f": "black-darjeeling-autumn.jpg",
-    "m": "family",
-    "cr": "ru.teaandwhisk.com",
-    "lic": "",
-    "lu": "",
-    "pg": "https://ru.teaandwhisk.com/collections/new-items/products/golden-tips-yingde-black-tea"
-  },
   "black-yeongdeok": {
     "f": "black-yeongdeok.jpg",
     "m": "exact",
@@ -27944,14 +27050,6 @@ window.TEAFaiData = (function () {
     "lic": "CC BY-SA 3.0",
     "lu": "https://creativecommons.org/licenses/by-sa/3.0",
     "pg": "https://commons.wikimedia.org/wiki/File:CTC_tea.jpg"
-  },
-  "blend-yuenyeung": {
-    "f": "blend-yuenyeung.jpg",
-    "m": "exact",
-    "cr": "amitea.co.il",
-    "lic": "",
-    "lu": "",
-    "pg": "https://www.amitea.co.il/pages/big-tea-sets"
   },
   "blend-moroccan-mint": {
     "f": "blend-moroccan-mint.jpg",
@@ -28345,15 +27443,6 @@ window.TEAFaiData = (function () {
     "code": "tw"
   },
   "black-darjeeling-first": {
-    "ko": "인도",
-    "en": "India",
-    "zh-CN": "印度",
-    "zh-TW": "印度",
-    "yue": "印度",
-    "ja": "インド",
-    "code": "in"
-  },
-  "black-darjeeling-second": {
     "ko": "인도",
     "en": "India",
     "zh-CN": "印度",
@@ -28848,60 +27937,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "fruit-gingerlemon": {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "fruit-applecinnamon": {
-    "ko": "독일",
-    "en": "Germany",
-    "zh-CN": "德国",
-    "zh-TW": "德國",
-    "yue": "德國",
-    "ja": "ドイツ",
-    "code": "de"
-  },
-  "fruit-peach": {
-    "ko": "독일",
-    "en": "Germany",
-    "zh-CN": "德国",
-    "zh-TW": "德國",
-    "yue": "德國",
-    "ja": "ドイツ",
-    "code": "de"
-  },
-  "fruit-berryhibiscus": {
-    "ko": "독일",
-    "en": "Germany",
-    "zh-CN": "德国",
-    "zh-TW": "德國",
-    "yue": "德國",
-    "ja": "ドイツ",
-    "code": "de"
-  },
-  "fruit-bloodorange": {
-    "ko": "독일",
-    "en": "Germany",
-    "zh-CN": "德国",
-    "zh-TW": "德國",
-    "yue": "德國",
-    "ja": "ドイツ",
-    "code": "de"
-  },
-  "fruit-passionfruit": {
-    "ko": "독일",
-    "en": "Germany",
-    "zh-CN": "德国",
-    "zh-TW": "德國",
-    "yue": "德國",
-    "ja": "ドイツ",
-    "code": "de"
-  },
   "green-zhuyeqing": {
     "ko": "중국",
     "en": "China",
@@ -29280,15 +28315,6 @@ window.TEAFaiData = (function () {
     "ja": "インド",
     "code": "in"
   },
-  "black-darjeeling-autumn": {
-    "ko": "인도",
-    "en": "India",
-    "zh-CN": "印度",
-    "zh-TW": "印度",
-    "yue": "印度",
-    "ja": "インド",
-    "code": "in"
-  },
   "black-yeongdeok": {
     "ko": "한국",
     "en": "South Korea",
@@ -29387,15 +28413,6 @@ window.TEAFaiData = (function () {
     "yue": "泰國",
     "ja": "タイ",
     "code": "th"
-  },
-  "blend-yuenyeung": {
-    "ko": "홍콩",
-    "en": "Hong Kong",
-    "zh-CN": "香港",
-    "zh-TW": "香港",
-    "yue": "香港",
-    "ja": "香港",
-    "code": "hk"
   },
   "blend-moroccan-mint": {
     "ko": "모로코",
@@ -30397,22 +29414,6 @@ window.TEAFaiDataYue = (function () {
    "brewTip": "85~90度2分30秒。唔好加牛奶。"
   }
  },
- "black-darjeeling-second": {
-  "t": {
-   "name": "大吉嶺夏摘",
-   "oneLine": "夏天葉嘅麝香葡萄香——大吉嶺香氣最濃嘅時候。",
-   "oxidation": "90%",
-   "ratioNote": "200毫升配3克",
-   "rounds": "1~2泡",
-   "steepBasis": "95度泡3分鐘，第二泡3分30秒。",
-   "origin": "印度大吉嶺，6~7月採摘。",
-   "process": "萎凋 → 揉捻 → 發酵（80~90%）→ 乾燥。夏天畀小綠葉蟬咬過，生出麝香葡萄香。",
-   "story": "夏摘係6~7月嘅葉，據講葉畀蟲咬嘅刺激就係麝香葡萄香嘅來源。",
-   "flavor": "麝香葡萄、熟果同蜜糖，比春摘更有厚度。",
-   "pairing": "瑪德蓮、朱古力、煙燻料理。",
-   "brewTip": "95度3分鐘。水熱啲香氣更開。"
-  }
- },
  "black-assam": {
   "t": {
    "name": "阿薩姆",
@@ -31229,102 +30230,6 @@ window.TEAFaiDataYue = (function () {
    "flavor": "柔和嘅花香同甜味，尾段有淡淡澀感。",
    "pairing": "藥果、核桃糕、冬天嘅甜品。",
    "brewTip": "蜜漬2羹兌80~90度水200毫升，連果肉一齊放。"
-  }
- },
- "fruit-gingerlemon": {
-  "t": {
-   "name": "生薑檸檬茶",
-   "oneLine": "生薑嘅溫熱加埋檸檬嘅酸，身體發冷嗰陣嘅一杯。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "生薑蜜漬1羹 + 檸檬2片配200毫升",
-   "rounds": "1次",
-   "steepBasis": "將生薑蜜漬化喺80~90度水裏面，檸檬最後放。",
-   "origin": "韓國嘅生薑茶加檸檬，係屋企成日做嘅一杯。檸檬原產地中海。",
-   "process": "生薑切薄片用蜜或者糖醃好，沖熱水嗰陣加檸檬片。",
-   "story": "生薑茶自古就係冬天朝早暖身嘅茶，檸檬由西方傳入之後添咗酸味。",
-   "flavor": "生薑辛香嘅暖意、檸檬皮嘅柑橘香、蜜糖嘅甜。",
-   "pairing": "快感冒嗰陣，或者朝早空肚嘅一杯。",
-   "brewTip": "生薑蜜漬冷藏放2星期，乾生薑密封可以放6個月。"
-  }
- },
- "fruit-applecinnamon": {
-  "t": {
-   "name": "蘋果肉桂茶",
-   "oneLine": "乾蘋果同肉桂——烤水果般嘅香氣，係水果拼配嘅基本款。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "200毫升配5克",
-   "rounds": "1~2泡",
-   "steepBasis": "95度泡6分鐘。肉桂超過8分鐘會苦。",
-   "origin": "歐美家庭嘅常備拼配：乾蘋果加肉桂皮。",
-   "process": "乾蘋果片同肉桂混合沖泡，或者先將蘋果略烘一下再泡，香氣更高。",
-   "story": "蘋果同肉桂本來係歐洲冬天飲品嘅經典配搭，乾果流通之後先變成茶。",
-   "flavor": "蘋果嘅酸、肉桂嘅溫暖香氣、尾段嘅甜。",
-   "pairing": "蘋果批、肉桂卷、冬天嘅甜品。",
-   "brewTip": "95度泡6~8分鐘。整凍飲用兩倍份量。"
-  }
- },
- "fruit-peach": {
-  "t": {
-   "name": "蜜桃花茶",
-   "oneLine": "蜜桃香裏面加花瓣，好似春天嘅一杯。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "200毫升配5克",
-   "rounds": "1~2泡",
-   "steepBasis": "90度泡5分鐘。花瓣喺最後2分鐘放，香氣更好。",
-   "origin": "歐式水果拼配：加咗蜜桃香嘅蘋果、洛神花，再混入花瓣。",
-   "process": "乾蘋果同洛神花加蜜桃香，再拌入花瓣。",
-   "story": "蜜桃係歐洲夏天代表水果，加香水果拼配喺20世紀嘅茶沙龍裏面定咗型。",
-   "flavor": "熟透蜜桃嘅香、柔和嘅酸、花瓣嘅香。",
-   "pairing": "水果撻、早午餐、凍茶。",
-   "brewTip": "90度泡5分鐘。整凍飲要計埋冰塊，用兩倍份量。"
-  }
- },
- "fruit-berryhibiscus": {
-  "t": {
-   "name": "莓果洛神花茶",
-   "oneLine": "洛神花嘅酸加埋莓果同玫瑰果，紅而清爽嘅一杯。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "200毫升配5克",
-   "rounds": "1~2泡",
-   "steepBasis": "95度泡5~7分鐘。加少少蜜糖或者糖，酸會圓潤啲。",
-   "origin": "歐美水果拼配。洛神花原產北非，常同玫瑰果、接骨木莓混合。",
-   "process": "洛神花萼同玫瑰果、接骨木莓、草莓乾一齊沖泡。",
-   "story": "洛神花喺埃及、蘇丹飲咗好久，喺歐洲就負責水果拼配裏面嘅酸。",
-   "flavor": "似蔓越莓般嘅強酸、莓果嘅甜、紅色嘅茶湯。",
-   "pairing": "芝士蛋糕、清爽嘅甜品、凍茶。",
-   "brewTip": "95度泡5~7分鐘。整凍飲酸味更清楚。"
-  }
- },
- "fruit-bloodorange": {
-  "t": {
-   "name": "血橙茶",
-   "oneLine": "加入血橙果皮同果肉香氣，清爽嘅柑橘水果茶。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "200毫升配5克",
-   "rounds": "1~2泡",
-   "steepBasis": "90度泡5分鐘。果皮多就唔好超過7分鐘。",
-   "origin": "以地中海西西里為代表產地嘅血橙做成嘅果茶拼配。",
-   "process": "乾橙皮、蘋果、洛神花加血橙香。",
-   "story": "據講西西里血橙嘅紅色嚟自冬天寒冷嘅夜晚。",
-   "flavor": "橙皮嘅微苦香、酸味、淡淡嘅甜。",
-   "pairing": "早午餐、鬆餅，整凍飲都得好。",
-   "brewTip": "90度泡5分鐘。鍾意果皮微苦可以泡到7分鐘。"
-  }
- },
- "fruit-passionfruit": {
-  "t": {
-   "name": "百香果茶",
-   "oneLine": "熱帶水果強烈嘅香氣同酸味，啱夏天嘅一杯。",
-   "oxidation": "唔發酵 · 冇咖啡因",
-   "ratioNote": "200毫升配5克",
-   "rounds": "1次",
-   "steepBasis": "90度泡5分鐘之後加冰塊。要飲凍就用兩倍份量。",
-   "origin": "用南美原產百香果做成嘅熱帶水果拼配。",
-   "process": "乾芒果、菠蘿加百香果香同花瓣。",
-   "story": "百香果原產巴西、巴拉圭，20世紀傳開，成為歐洲同亞洲嘅夏日飲品。",
-   "flavor": "百香果嘅酸香、熱帶水果嘅甜。",
-   "pairing": "凍茶、乳酪、夏天嘅甜品。",
-   "brewTip": "90度泡5分鐘。加冰塊酸味更明顯。"
   }
  },
  "green-zhuyeqing": {
@@ -32251,28 +31156,6 @@ window.TEAFaiDataYue = (function () {
    "印度西孟加拉北部平原，喺大吉嶺以南、阿薩姆以東。"
   ]
  },
- "black-darjeeling-autumn": {
-  "t": {
-   "name": "大吉嶺秋摘",
-   "oneLine": "大葉同圓潤嘅甜，大吉嶺嘅秋天。",
-   "oxidation": "大約90%",
-   "ratioNote": "200毫升配3克",
-   "rounds": "2泡",
-   "steepBasis": "95度泡3分鐘，第二泡3分鐘。",
-   "origin": "印度西孟加拉大吉嶺，10~11月採摘。",
-   "process": "萎凋 → 揉捻 → 發酵 → 乾燥。",
-   "story": "大吉嶺按季節分級，秋葉喺入冬前變厚，香氣沉穩。",
-   "flavor": "果乾、蜜糖同柔和麥芽，比春夏茶平靜。",
-   "pairing": "下午茶、烤餅乾、清淡甜品。",
-   "brewTip": "95度三分鐘，建議唔加奶。",
-   "keep": "密封乾燥。",
-   "keywords": "大吉嶺 秋摘 印度 紅茶"
-  },
-  "x": [
-   "萎凋 → 揉捻 → 發酵 → 乾燥，發酵略重過夏摘。",
-   "大吉嶺分春摘、夏摘、秋摘三季；秋摘葉大色深、甜味圓潤。"
-  ]
- },
  "black-yeongdeok": {
   "t": {
    "name": "盈德紅茶",
@@ -32513,28 +31396,6 @@ window.TEAFaiDataYue = (function () {
   "x": [
    "濃紅茶加煉奶同糖，淋喺冰上面，呈橙紅色。",
    "碎紅茶濃泡，加煉奶同糖，淋落冰塊上面。"
-  ]
- },
- "blend-yuenyeung": {
-  "t": {
-   "name": "鴛鴦",
-   "oneLine": "紅茶同咖啡喺同一杯，香港茶餐廳嘅味道。",
-   "oxidation": "大約95%",
-   "ratioNote": "150毫升配6克，咖啡同煉奶按個人口味",
-   "rounds": "1次",
-   "steepBasis": "95度泡5分鐘至濃，再同咖啡大約七三混合。",
-   "origin": "香港茶餐廳，茶底係錫蘭同阿薩姆拼配。",
-   "process": "濃奶茶混入咖啡，用煉奶或者淡奶調濃淡。",
-   "story": "個名取自鴛鴦——兩隻雀合為一體，比喻茶同咖啡同一杯。",
-   "flavor": "麥芽、咖啡嘅苦同煉奶嘅甜疊埋一齊。",
-   "pairing": "港式多士、蛋類料理、早餐。",
-   "brewTip": "茶要濃，咖啡用少量濃縮。",
-   "keep": "茶葉密封乾燥。",
-   "keywords": "鴛鴦 香港 咖啡 奶茶 茶餐廳"
-  },
-  "x": [
-   "茶餐廳常見飲品，濃奶茶同咖啡大約七三混合，加煉奶調味。",
-   "濃紅茶混咖啡，再用煉奶或者淡奶調濃度。"
   ]
  },
  "blend-moroccan-mint": {
@@ -32779,16 +31640,6 @@ window.TEAFaiDataYue = (function () {
         yue: "蜜漬2羹"
       }
     },
-    "fruit-gingerlemon": {
-      l: {
-        ko: "청 1큰술 + 레몬 2쪽",
-        en: "1 tbsp cheong + 2 lemon slices",
-        "zh-CN": "蜜渍1勺 + 柠檬2片",
-        "zh-TW": "蜜漬1勺 + 檸檬2片",
-        ja: "チェジョン大さじ1 + レモン2切れ",
-        yue: "蜜漬1羹 + 檸檬2片"
-      }
-    }
   };
 
   /* 언어별로 조립된 사본의 온도·용량을 그 언어 문구로 바꿔 끼웁니다.
