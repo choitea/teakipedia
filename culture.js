@@ -812,7 +812,7 @@ window.TEAFaiCulture = [
   "id": "culture-britain",
   "img": "images/culture/culture-britain.jpg",
   "related": [
-   "blend-afternoon",
+   "blend-ladygrey",
    "blend-englishbreakfast"
   ],
   "summary": {
@@ -1350,7 +1350,7 @@ window.TEAFaiCulture = [
   "id": "culture-russia",
   "img": "images/culture/culture-russia.jpg",
   "related": [
-   "blend-russian-caravan"
+   "black-lapsang"
   ],
   "summary": {
    "en": "Water kept boiling in a samovar, strong zavarka concentrate diluted to taste — Russia's way of tea, with jam on the side, sugar cubes between the teeth, and the samovar as a companion of long train journeys.",
@@ -1926,14 +1926,7 @@ window.TEAFaiCulture = [
       "산화도 10~20% · 물 온도 80~85℃ · 잎 · 물 3g / 200ml · 포다 1분 30초"
      ]
     },
-    {
-     "h": "블렌딩차 香",
-     "p": [
-      "여러 차와 향신료·과일을 섞어 만드는 차 — 홍콩 밀크티부터 마살라 차이까지.",
-      "산화도 베이스에 따름 · 물 온도 85~100℃ · 잎 · 물 3g / 200ml · 포다 3분"
-     ]
-    },
-    {
+        {
      "h": "대용차 · 허브차 代",
      "p": [
       "차나무 대신 곡물·뿌리·열매를 볶거나 말려 우린 대용차와, 꽃과 잎을 그대로 우린 허브차 — 카페인 없이 하루 곁에.",
@@ -2011,14 +2004,7 @@ window.TEAFaiCulture = [
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
-    {
-     "h": "Blended tea 香",
-     "p": [
-      "Teas mixed with spice, fruit or other teas — from Hong Kong milk tea to masala chai.",
-      "Oxidation Depends on the base · Water 85~100℃ · Leaf · water 3g / 200ml · First steep 3 min"
-     ]
-    },
-    {
+        {
      "h": "Everyday & herbal tea 代",
      "p": [
       "Grains, roots and fruit roasted or dried instead of the tea bush, and flowers and leaves steeped as they are — caffeine-free, always at hand.",
@@ -2096,14 +2082,7 @@ window.TEAFaiCulture = [
       "发酵度 10~20% · 水温 80~85℃ · 茶量 · 水 3g / 200ml · 泡茶 1分30秒"
      ]
     },
-    {
-     "h": "拼配茶 香",
-     "p": [
-      "把几种茶与香料、果实拼在一起——从港式奶茶到马萨拉茶。",
-      "发酵度 依基底而定 · 水温 85~100℃ · 茶量 · 水 3g / 200ml · 泡茶 3分"
-     ]
-    },
-    {
+        {
      "h": "代用茶 · 花草茶 代",
      "p": [
       "不用茶树，把谷物、根与果实炒过或晒干来泡，再加上把花与叶直接泡开的花草茶——无咖啡因，随时在手边。",
@@ -2181,14 +2160,7 @@ window.TEAFaiCulture = [
       "發酵度 10~20% · 水溫 80~85℃ · 茶量 · 水 3g / 200ml · 泡茶 1分30秒"
      ]
     },
-    {
-     "h": "拼配茶 香",
-     "p": [
-      "把幾款茶與香料、果實拼在一起——從港式奶茶到馬薩拉茶。",
-      "發酵度 依基底而定 · 水溫 85~100℃ · 茶量 · 水 3g / 200ml · 泡茶 3分"
-     ]
-    },
-    {
+        {
      "h": "代用茶 · 花草茶 代",
      "p": [
       "不用茶樹，把穀物、根與果實炒過或曬乾來泡，再加上把花與葉直接泡開的花草茶——無咖啡因，隨時在手邊。",
@@ -2266,14 +2238,7 @@ window.TEAFaiCulture = [
       "発酵度 10–20% · 湯温 80~85℃ · 茶葉 3g / 200ml · 一煎目 1分30秒"
      ]
     },
-    {
-     "h": "ブレンド茶 香",
-     "p": [
-      "いくつもの茶や香辛料を合わせたお茶。香港ミルクティーからマサラチャイまで。",
-      "発酵度 ベースによる · 湯温 85~100℃ · 茶葉 3g / 200ml · 一煎目 3分"
-     ]
-    },
-    {
+        {
      "h": "代用茶・ハーブティー 代",
      "p": [
       "穀物・根・実を炒るか乾かして淹れる一杯と、花や葉をそのまま淹れるハーブティー。カフェインなしで一日のそばに。",
@@ -2351,14 +2316,7 @@ window.TEAFaiCulture = [
       "發酵度 10~20% · 水溫 80~85℃ · 茶葉 3g / 200ml · 泡茶 1分30秒"
      ]
     },
-    {
-     "h": "拼配茶 香",
-     "p": [
-      "將幾款茶同香料、果實拼埋一齊——由港式奶茶到馬薩拉茶。",
-      "發酵度 睇基底 · 水溫 85~100℃ · 茶葉 3g / 200ml · 泡茶 3分"
-     ]
-    },
-    {
+        {
      "h": "代用茶 · 花草茶 代",
      "p": [
       "唔用茶樹，用穀物、根同果實炒過或者曬乾嚟沖，再加埋將花同葉直接沖開嘅花草茶——無咖啡因，隨時喺手邊。",

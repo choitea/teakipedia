@@ -30,7 +30,6 @@ window.TEAFaiData = (function () {
     oolong: "狙ったところで正確に止める半発酵の芸術。",
     black: "完全発酵。赤い水色とミルクに負けない力はここから生まれる。",
     dark: "時間が保存期間ではなく材料になるお茶。",
-    blended: "いくつもの茶や香辛料を合わせたお茶。香港ミルクティーからマサラチャイまで。",
     everyday: "穀物・根・実を炒るか乾かして淹れる一杯と、花や葉をそのまま淹れるハーブティー。カフェインなしで一日のそばに。",
     traditional: "根・実・砂糖漬けを煮出した韓国の茶。体を温め、気を整える一杯。",
   };
@@ -42,7 +41,6 @@ window.TEAFaiData = (function () {
     oolong: "烏龍茶",
     black: "紅茶",
     dark: "黒茶・プーアル茶",
-    blended: "ブレンド茶",
     everyday: "代用茶・ハーブティー",
     traditional: "伝統茶",
   };
@@ -365,113 +363,7 @@ window.TEAFaiData = (function () {
         "brewTip": "80~85度。唔好直接用滾水，先倒去另一個杯降溫。葉浮起就30秒後輕輕壓一壓。",
         "keywords": "黃茶 悶黃 君山銀針 蒙頂黃芽 霍山黃芽 六大茶類 稀有",
       }
-    },
-    {
-      id: "blended",
-      kind: "group",
-      hanja: "香",
-      sub: "Blended Tea",
-      accent: "#6F6486",
-      "accentSoft": "#ECE8F1",
-      temp: 96,
-      "tempRange": "85~100℃",
-      leaf: "3g",
-      water: "200ml",
-      steeps: [180, 240, 240],
-      "maxSteep": 2,
-      "oxidationValue": 90,
-      ko: {
-        name: "블렌딩차",
-        "oneLine": "여러 차와 향신료·과일을 섞어 만드는 차 — 홍콩 밀크티부터 마살라 차이까지.",
-        oxidation: "베이스에 따름",
-        "ratioNote": "3g에 200ml, 밀크티 블렌드는 8g에 200ml",
-        rounds: "1~2회",
-        "steepBasis": "향신료가 들어간 블렌드는 5분, 밀크티용은 진하게 5~6분 우립니다.",
-        process: "여러 산지의 차를 섞고 향신료·과일·꽃을 더합니다. 홍콩 밀크티는 여러 홍차를 섞어 진하게 우리고, 마살라 차이는 홍차에 향신료와 우유를 끓입니다.",
-        varieties: ["마살라 차이·러시안 캐러밴", "홍콩 블렌딩·차옌", "레이디 그레이·애프터눈 블렌드"],
-        flavor: "여러 잎과 향신료가 겹치며 몸통이 두꺼워지고, 우유·설탕을 받아 냅니다.",
-        pairing: "아침 식사, 진한 디저트, 매운 음식. 밀크티 계열은 단맛 있는 간식과.",
-        keep: "향신료 블렌드는 향이 날아가지 않게 밀봉해 6개월. 밀크티용은 습기를 피합니다.",
-        "brewTip": "끓는 물에 5분 이상, 밀크티는 8g으로 진하게. 향신료 블렌드는 한 번 끓여도 좋습니다.",
-        keywords: "블렌딩차 마살라 차이 러시안 캐러밴 홍콩 블렌딩 차옌 레이디 그레이 애프터눈",
-      },
-      en: {
-        name: "Blended tea",
-        "oneLine": "Teas mixed with spice, fruit or other teas — from Hong Kong milk tea to masala chai.",
-        oxidation: "Depends on the base",
-        "ratioNote": "3 g to 200 ml; 8 g for milk-tea blends",
-        rounds: "1–2 infusions",
-        "steepBasis": "Spiced blends want 5 minutes; milk-tea blends are steeped strong for 5–6.",
-        process: "Teas from several estates are combined and spices, fruit or flowers added. Hong Kong milk tea blends several blacks and brews them strong; masala chai boils black tea with spices and milk.",
-        varieties: ["Masala chai · Russian caravan", "Hong Kong milk tea · yuenyeung · cha yen", "Lady Grey · afternoon blend"],
-        flavor: "Layers of leaf and spice give a thicker body that carries milk and sugar.",
-        pairing: "Breakfast, rich desserts, spicy food. Milk-tea blends with something sweet.",
-        keep: "Seal spiced blends for 6 months so the aroma stays; keep milk-tea blends dry.",
-        "brewTip": "Five minutes or more in boiling water; 8 g for milk tea. Spiced blends can be simmered once.",
-        keywords: "blended tea masala chai russian caravan hong kong milk tea yuenyeung cha yen lady grey afternoon",
-      },
-      "zh-CN": {
-        name: "拼配茶",
-        "oneLine": "把几种茶与香料、果实拼在一起——从港式奶茶到马萨拉茶。",
-        oxidation: "依基底而定",
-        "ratioNote": "200毫升配3克，奶茶拼配8克",
-        rounds: "1~2泡",
-        "steepBasis": "加香料的拼配泡5分钟；奶茶用要浓，泡5~6分钟。",
-        process: "把不同产地的茶拼在一起，再加入香料、果实或花。港式奶茶用几种红茶拼配浓泡，马萨拉茶则把红茶与香料、牛奶一起煮。",
-        varieties: ["马萨拉茶·俄罗斯商队茶", "港式奶茶·鸳鸯·泰式奶茶", "仕女伯爵·下午茶拼配"],
-        flavor: "叶片与香料层层叠加，茶体更厚，能承受牛奶与糖。",
-        pairing: "早餐、浓郁甜点、辛辣食物。奶茶类适合搭配甜点。",
-        keep: "香料拼配密封可存6个月；奶茶用拼配要避潮。",
-        "brewTip": "沸水泡5分钟以上，奶茶用8克浓泡。香料拼配可以再煮一次。",
-        keywords: "拼配茶 马萨拉 俄罗斯商队 港式奶茶 鸳鸯 泰式奶茶 仕女伯爵 下午茶",
-      },
-      "zh-TW": {
-        name: "拼配茶",
-        "oneLine": "把幾款茶與香料、果實拼在一起——從港式奶茶到馬薩拉茶。",
-        oxidation: "依基底而定",
-        "ratioNote": "200毫升配3公克，奶茶拼配8公克",
-        rounds: "1~2泡",
-        "steepBasis": "加香料的拼配泡5分鐘；奶茶用要濃，泡5~6分鐘。",
-        process: "把不同產地的茶拼在一起，再加入香料、果實或花。港式奶茶用幾款紅茶拼配濃泡，馬薩拉茶則把紅茶與香料、牛奶一起煮。",
-        varieties: ["馬薩拉茶·俄羅斯商隊茶", "港式奶茶·鴛鴦·泰式奶茶", "仕女伯爵·下午茶拼配"],
-        flavor: "葉片與香料層層疊加，茶體更厚，能承受牛奶與糖。",
-        pairing: "早餐、濃郁甜點、辛辣食物。奶茶類適合搭配甜點。",
-        keep: "香料拼配密封可存6個月；奶茶用拼配要避潮。",
-        "brewTip": "沸水泡5分鐘以上，奶茶用8公克濃泡。香料拼配可以再煮一次。",
-        keywords: "拼配茶 馬薩拉 俄羅斯商隊 港式奶茶 鴛鴦 泰式奶茶 仕女伯爵 下午茶",
-      },
-      ja: {
-        name: "ブレンド茶",
-        "oneLine": "いくつもの茶に香辛料や果実を合わせた茶 — 香港ミルクティーからマサラチャイまで。",
-        oxidation: "ベースによる",
-        "ratioNote": "200mlに3g、ミルクティー用は8g",
-        rounds: "1~2煎",
-        "steepBasis": "香辛料入りは5分、ミルクティー用は濃く5~6分。",
-        process: "産地の異なる茶を合わせ、香辛料・果実・花を加えます。香港ミルクティーは紅茶を何種かブレンドして濃く淹れ、マサラチャイは紅茶を香辛料と牛乳で煮ます。",
-        varieties: ["マサラチャイ・ロシアンキャラバン", "香港ミルクティー・ユンヨン・タイティー", "レディグレイ・アフタヌーンブレンド"],
-        flavor: "葉と香辛料が重なり、ミルクや砂糖を受け止める厚みが出ます。",
-        pairing: "朝食、濃いデザート、辛い料理。ミルクティー系は甘い菓子と。",
-        keep: "香辛料ブレンドは密閉して6か月。ミルクティー用は湿気を避けて。",
-        "brewTip": "沸騰した湯で5分以上、ミルクティーは8gで濃く。香辛料ブレンドは一度煮てもよい。",
-        keywords: "ブレンド茶 マサラチャイ ロシアンキャラバン 香港ミルクティー ユンヨン タイティー レディグレイ アフタヌーン",
-      },
-      yue: {
-        name: "拼配茶",
-        "oneLine": "將幾款茶同香料、果實拼埋一齊——由港式奶茶到馬薩拉茶。",
-        oxidation: "睇基底",
-        "ratioNote": "200毫升配3克，奶茶拼配8克",
-        rounds: "1~2泡",
-        "steepBasis": "有香料嘅拼配沖5分鐘；奶茶用要濃，沖5~6分鐘。",
-        process: "唔同產地嘅茶拼埋一齊，再加香料、果實或者花。港式奶茶用幾款紅茶拼配濃沖，馬薩拉茶就將紅茶同香料、奶一齊煮。",
-        varieties: ["馬薩拉茶·俄羅斯商隊茶", "港式奶茶·鴛鴦·泰式奶茶", "仕女伯爵·下午茶拼配"],
-        flavor: "葉同香料層層疊，茶體厚，頂得住奶同糖。",
-        pairing: "早餐、濃味甜品、辣嘢。奶茶類配甜嘢最啱。",
-        keep: "香料拼配密封可以存6個月；奶茶用拼配要避潮。",
-        "brewTip": "沸水沖5分鐘以上，奶茶用8克濃沖。香料拼配可以再煲一次。",
-        keywords: "拼配茶 馬薩拉 俄羅斯商隊 港式奶茶 鴛鴦 泰式奶茶 仕女伯爵 下午茶",
-      },
-    },
-    {
+    },    {
       id: "oolong",
       kind: "group",
       hanja: "烏",
@@ -4701,7 +4593,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "blend-masala",
-      group: "blended",
+      group: "black",
       h: "香",
       hz: "馬薩拉茶",
       hs: "马萨拉茶",
@@ -5531,7 +5423,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "blend-ladygrey",
-      group: "blended",
+      group: "black",
       h: "淑",
       hz: "仕女伯爵",
       hs: "仕女伯爵",
@@ -5667,78 +5559,7 @@ window.TEAFaiData = (function () {
         "培根蛋、吐司、早餐。",
         "3~4分鐘。加奶則5公克配150毫升。"
       ]
-    },
-    {
-      id: "blend-afternoon",
-      group: "blended",
-      h: "午",
-      hz: "下午茶",
-      hs: "下午茶",
-      rom: "Afternoon Tea",
-      sub: "Afternoon Tea",
-      t: 92,
-      tr: "90~95℃",
-      l: "3g",
-      s: [150, 180, 210],
-      ox: 90,
-      ko: [
-        "애프터눈 티",
-        "오후의 가벼운 한 잔 — 다즐링·실론 중심의 섬세한 블렌드.",
-        "90%",
-        "200ml에 3g",
-        "1~2회",
-        "90~95도에서 3분.",
-        "영국 애프터눈 티 블렌드. 다즐링·실론을 가볍게 섞습니다.",
-        "향이 섬세한 홍차를 중심으로 배합해 우유 없이 마시도록 만듭니다.",
-        "19세기 영국 상류층의 오후 4시 티타임에서 자리 잡은 배합입니다.",
-        "꽃·시트러스·옅은 몰트, 가볍습니다.",
-        "스콘, 마들렌, 샌드위치.",
-        "3분. 우유 없이 마십니다."
-      ],
-      en: [
-        "Afternoon Tea",
-        "A light afternoon cup — a delicate blend built on Darjeeling and Ceylon.",
-        "90%",
-        "3 g to 200 ml",
-        "1–2 infusions",
-        "90–95 °C for 3 minutes.",
-        "A British afternoon blend of Darjeeling and Ceylon, kept light.",
-        "Delicate black teas are the base, so it is meant to be drunk without milk.",
-        "The blend settled in from the four o'clock tea of 19th-century Britain.",
-        "Flowers, citrus and light malt.",
-        "Scones, madeleines, sandwiches.",
-        "3 minutes, no milk."
-      ],
-      "zh-CN": [
-        "下午茶",
-        "午后的轻盈一杯——以大吉岭、锡兰为主的细腻拼配。",
-        "90%",
-        "200毫升配3克",
-        "1~2泡",
-        "90~95度泡3分钟。",
-        "英式下午茶拼配，大吉岭与锡兰轻拼。",
-        "以香气细致的红茶为主体，设计成不加奶喝。",
-        "19世纪英国上流社会下午四点的茶会固定下来的拼配。",
-        "花香、柑橘与淡麦芽，轻盈。",
-        "司康、玛德莲、三明治。",
-        "3分钟，不加奶。"
-      ],
-      "zh-TW": [
-        "下午茶",
-        "午後的輕盈一杯——以大吉嶺、錫蘭為主的細膩拼配。",
-        "90%",
-        "200毫升配3公克",
-        "1~2泡",
-        "90~95度泡3分鐘。",
-        "英式下午茶拼配，大吉嶺與錫蘭輕拼。",
-        "以香氣細緻的紅茶為主體，設計成不加奶喝。",
-        "19世紀英國上流社會下午四點的茶會固定下來的拼配。",
-        "花香、柑橘與淡麥芽，輕盈。",
-        "司康、瑪德蓮、三明治。",
-        "3分鐘，不加奶。"
-      ]
-    },
-    {
+    },    {
       id: "blend-jasmine",
       group: "green",
       h: "茉",
@@ -5811,7 +5632,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "blend-hongkong",
-      group: "blended",
+      group: "black",
       alias: ["홍콩식 밀크티"],
       h: "港",
       hz: "港式奶茶",
@@ -7555,8 +7376,7 @@ window.TEAFaiData = (function () {
     "blend-earlgrey": "t-morning t-afternoon a-herb a-floral b-medium k-crisp k-blend r-clean s-hot s-iced s-milk w-quick p-dessert c-high m-refresh",
     "blend-ladygrey": "t-afternoon a-herb a-floral a-fruit b-light k-sweet k-blend s-hot w-quick p-dessert c-high m-calm",
     "blend-englishbreakfast": "t-morning a-malt b-full k-crisp k-blend s-milk s-hot w-quick p-meal c-high m-energy",
-    "blend-afternoon": "t-afternoon a-floral a-herb b-light k-crisp k-blend s-hot s-iced w-quick p-dessert c-high m-calm",
-    "blend-jasmine": "t-afternoon a-floral b-light k-sweet k-blend s-hot w-quick p-dessert c-mid m-calm",
+        "blend-jasmine": "t-afternoon a-floral b-light k-sweet k-blend s-hot w-quick p-dessert c-mid m-calm",
     "blend-hongkong": "t-morning t-afternoon a-malt b-full k-sweet k-blend s-milk w-quick p-dessert c-high m-cozy",
     "blend-masala": "t-morning a-malt a-herb b-full k-sweet k-blend s-milk w-quick p-dessert c-high m-cozy m-energy",
     /* 대용차 */
@@ -13580,7 +13400,7 @@ window.TEAFaiData = (function () {
   },
   {
     "id": "blend-thaitea",
-    "group": "blended",
+    "group": "black",
     "kind": "tea",
     "hanja": "泰",
     "sub": "Thai Tea (Cha Yen)",
@@ -13805,123 +13625,7 @@ window.TEAFaiData = (function () {
       "keywords": "摩洛哥薄荷茶 珠茶 馬格里布 薄荷"
     },
     "originCountryCode": "ma"
-  },
-  {
-    "id": "blend-russian-caravan",
-    "group": "blended",
-    "kind": "tea",
-    "hanja": "俄",
-    "sub": "Russian Caravan",
-    "alias": [
-      "러시안 캐러밴",
-      "상단차"
-    ],
-    "hz": "俄羅斯商隊茶",
-    "hs": "俄罗斯商队茶",
-    "rom": "Russian Caravan",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      210,
-      180,
-      210
-    ],
-    "maxSteep": 3,
-    "oxidationValue": 90,
-    "traits": "t-morning t-afternoon a-roast a-malt b-full k-sweet r-smoke s-hot s-milk p-meal c-high m-cozy",
-    "originCountry": {
-      "ko": "러시아",
-      "en": "Russia",
-      "zh-CN": "俄罗斯",
-      "zh-TW": "俄羅斯"
-    },
-    "x": {
-      "ko": [
-        "중국 홍차와 훈연차를 섞은 블렌드입니다. 옛 육로 차 무역길에서 차가 연기 냄새를 머금었다는 이야기에서 이름이 왔습니다.",
-        "기문·정산소종 같은 중국 홍차를 중심으로 훈연 향이 나는 차를 조금 섞습니다."
-      ],
-      "en": [
-        "A blend of Chinese black teas with a smoked component; the name recalls the old overland caravan route and the smoke the tea picked up.",
-        "Mostly Chinese black teas such as Keemun with a little smoked tea."
-      ],
-      "zh-CN": [
-        "中国红茶与烟熏茶拼配，名字来自旧时陆路商队的烟味传说。",
-        "以祁门等中国红茶为主，少量烟熏茶。"
-      ],
-      "zh-TW": [
-        "中國紅茶與煙燻茶拼配，名字來自舊時陸路商隊的煙味傳說。",
-        "以祁門等中國紅茶為主，少量煙燻茶。"
-      ]
-    },
-    "ko": {
-      "name": "러시안 캐러밴",
-      "oneLine": "중국 홍차에 옅은 연기를 더한, 옛 상단길의 블렌드.",
-      "oxidation": "약 90%",
-      "ratioNote": "200ml에 3g",
-      "rounds": "3회",
-      "steepBasis": "95도에서 3분 30초, 2포 3분, 3포 3분 30초.",
-      "origin": "러시아의 차 문화에서 이름을 얻은 블렌드. 베이스는 중국 홍차.",
-      "process": "기문 등 중국 홍차에 훈연차를 소량 섞습니다.",
-      "story": "17~19세기 육로로 차를 실어 오는 동안 연기 냄새가 배었다는 이야기가 이름의 유래로 전합니다.",
-      "flavor": "몰트와 말린 과일, 옅은 솔 연기. 우유를 넣으면 연기가 부드러워집니다.",
-      "pairing": "아침 식사, 훈제 요리, 검은 빵.",
-      "brewTip": "95도에서 3분 30초. 연기 향이 강하면 우유를 조금 더합니다.",
-      "keep": "밀봉해 서늘하게. 연기 향이 다른 차로 옮지 않게 따로 둡니다.",
-      "keywords": "러시안 캐러밴 상단차 훈연 블렌드 홍차"
-    },
-    "en": {
-      "name": "Russian Caravan",
-      "oneLine": "Chinese black tea with a thread of smoke — the old caravan blend.",
-      "oxidation": "about 90%",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "3 infusions",
-      "steepBasis": "95 °C: 3½ minutes, then 3, then 3½.",
-      "origin": "A blend named in Russian tea culture, on Chinese black tea.",
-      "process": "Chinese black teas such as Keemun with a little smoked tea.",
-      "story": "The name recalls tea carried overland for months, picking up the smoke of campfires.",
-      "flavor": "Malt, dried fruit, faint pine smoke; milk softens the smoke.",
-      "pairing": "Breakfast, smoked food, dark bread.",
-      "brewTip": "3½ minutes at 95 °C; add a little milk if the smoke is strong.",
-      "keep": "Sealed and cool, away from other teas.",
-      "keywords": "Russian Caravan smoked blend Keemun"
-    },
-    "zh-CN": {
-      "name": "俄罗斯商队茶",
-      "oneLine": "中国红茶带一缕烟香，旧商队路线的拼配。",
-      "oxidation": "约90%",
-      "ratioNote": "200毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "95度泡3分30秒，第二泡3分钟，第三泡3分30秒。",
-      "origin": "得名于俄罗斯茶文化，茶坯为中国红茶。",
-      "process": "祁门等中国红茶拼少量烟熏茶。",
-      "story": "名字源自数月陆路运输中茶叶沾染篝火烟味的传说。",
-      "flavor": "麦芽与果干，带轻微松烟，加奶转柔。",
-      "pairing": "早餐、熏制食物、黑面包。",
-      "brewTip": "95度三分半，烟重可加奶。",
-      "keep": "密封阴凉，避免串味。",
-      "keywords": "俄罗斯商队茶 烟熏 拼配 红茶"
-    },
-    "zh-TW": {
-      "name": "俄羅斯商隊茶",
-      "oneLine": "中國紅茶帶一縷煙香，舊商隊路線的拼配。",
-      "oxidation": "約90%",
-      "ratioNote": "200毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "95度泡3分30秒，第二泡3分鐘，第三泡3分30秒。",
-      "origin": "得名於俄羅斯茶文化，茶坯為中國紅茶。",
-      "process": "祁門等中國紅茶拼少量煙燻茶。",
-      "story": "名字源自數月陸路運輸中茶葉沾染篝火煙味的傳說。",
-      "flavor": "麥芽與果乾，帶輕微松煙，加奶轉柔。",
-      "pairing": "早餐、燻制食物、黑麵包。",
-      "brewTip": "95度三分半，煙重可加奶。",
-      "keep": "密封陰涼，避免串味。",
-      "keywords": "俄羅斯商隊茶 煙燻 拼配 紅茶"
-    },
-    "originCountryCode": "ru"
-  },
-  {
+  },  {
     "id": "blend-irish-breakfast",
     "group": "black",
     "kind": "tea",
@@ -19603,8 +19307,7 @@ window.TEAFaiData = (function () {
   "blend-lychee": "t-morning t-afternoon a-fruit a-floral b-medium k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
   "blend-thaitea": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-iced s-milk p-dessert c-high m-energy",
   "blend-moroccan-mint": "t-morning t-afternoon a-herb a-grass b-light k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
-  "blend-russian-caravan": "t-morning t-afternoon a-roast a-malt b-full k-sweet r-smoke s-hot s-milk p-meal c-high m-cozy",
-  "blend-irish-breakfast": "t-morning a-malt b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
+    "blend-irish-breakfast": "t-morning a-malt b-full k-crisp r-clean s-hot s-milk p-meal c-high m-energy",
   "herb-cassia-seed": "t-morning t-afternoon t-night a-roast a-roast b-medium k-grain r-clean s-hot p-meal c-none m-calm",
   "herb-burdock": "t-morning t-afternoon t-night a-roast a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
   "herb-gugija": "t-morning t-afternoon t-night a-fruit a-herb b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
@@ -20120,15 +19823,7 @@ window.TEAFaiData = (function () {
     "lu": "https://creativecommons.org/licenses/by-sa/3.0",
     "pg": "https://commons.wikimedia.org/wiki/File:Assam-Tee_SFTGFOP1.jpg"
   },
-  "blend-afternoon": {
-    "f": "blend-afternoon.jpg",
-    "m": "family",
-    "cr": "Gogerr",
-    "lic": "CC BY-SA 4.0",
-    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
-    "pg": "https://commons.wikimedia.org/wiki/File:Assam_tea_(4).jpg"
-  },
-  "blend-jasmine": {
+    "blend-jasmine": {
     "f": "blend-jasmine.jpg",
     "m": "exact",
     "cr": "Fumikas Sagisavas",
@@ -21096,15 +20791,7 @@ window.TEAFaiData = (function () {
     "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "pg": "https://commons.wikimedia.org/wiki/File:Dried_mint_leaves_tea.jpg"
   },
-  "blend-russian-caravan": {
-    "f": "blend-russian-caravan.jpg",
-    "m": "family",
-    "cr": "Martijn Alblas at nl.wikipedia",
-    "lic": "CC BY-SA 2.5",
-    "lu": "https://creativecommons.org/licenses/by-sa/2.5",
-    "pg": "https://commons.wikimedia.org/wiki/File:India_assam_bukhial.jpg"
-  },
-  "blend-irish-breakfast": {
+    "blend-irish-breakfast": {
     "f": "blend-irish-breakfast.jpg",
     "m": "family",
     "cr": "Gogerr",
@@ -21731,16 +21418,7 @@ window.TEAFaiData = (function () {
     "ja": "イギリス",
     "code": "uk"
   },
-  "blend-afternoon": {
-    "ko": "영국",
-    "en": "United Kingdom",
-    "zh-CN": "英国",
-    "zh-TW": "英國",
-    "yue": "英國",
-    "ja": "イギリス",
-    "code": "uk"
-  },
-  "blend-jasmine": {
+    "blend-jasmine": {
     "ko": "중국",
     "en": "China",
     "zh-CN": "中国",
@@ -22829,16 +22507,7 @@ window.TEAFaiData = (function () {
     "ja": "モロッコ",
     "code": "ma"
   },
-  "blend-russian-caravan": {
-    "ko": "러시아",
-    "en": "Russia",
-    "zh-CN": "俄罗斯",
-    "zh-TW": "俄羅斯",
-    "yue": "俄羅斯",
-    "ja": "ロシア",
-    "code": "ru"
-  },
-  "blend-irish-breakfast": {
+    "blend-irish-breakfast": {
     "ko": "아일랜드",
     "en": "Ireland",
     "zh-CN": "爱尔兰",

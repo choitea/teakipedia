@@ -1067,23 +1067,7 @@ window.TEAFaiDataYue = (function () {
    "brewTip": "3~4分鐘。加奶就用5克配150毫升。"
   }
  },
- "blend-afternoon": {
-  "t": {
-   "name": "下午茶",
-   "oneLine": "午後輕盈嘅一杯——以大吉嶺、錫蘭為主嘅細膩拼配。",
-   "oxidation": "90%",
-   "ratioNote": "200毫升配3克",
-   "rounds": "1~2泡",
-   "steepBasis": "90~95度泡3分鐘。",
-   "origin": "英式下午茶拼配，大吉嶺同錫蘭輕拼。",
-   "process": "以香氣細緻嘅紅茶為主體，設計成唔加奶飲。",
-   "story": "19世紀英國上流社會下午四點嘅茶會固定落嚟嘅拼配。",
-   "flavor": "花香、柑橘同淡麥芽，輕盈。",
-   "pairing": "司康、瑪德蓮、三文治。",
-   "brewTip": "3分鐘，唔加奶。"
-  }
- },
- "blend-jasmine": {
+  "blend-jasmine": {
   "t": {
    "name": "茉莉花茶",
    "oneLine": "用夜晚開嘅茉莉一層層窨入綠茶嘅茶。",
@@ -3543,29 +3527,7 @@ window.TEAFaiDataYue = (function () {
    "珠茶短泡，加薄荷同糖，高沖起泡。"
   ]
  },
- "blend-russian-caravan": {
-  "t": {
-   "name": "俄羅斯商隊茶",
-   "oneLine": "中國紅茶帶一縷煙香，舊商隊路線嘅拼配。",
-   "oxidation": "大約90%",
-   "ratioNote": "200毫升配3克",
-   "rounds": "3泡",
-   "steepBasis": "95度泡3分30秒，第二泡3分鐘，第三泡3分30秒。",
-   "origin": "得名於俄羅斯茶文化，茶底用中國紅茶。",
-   "process": "祁門等中國紅茶拼少量煙燻茶。",
-   "story": "個名源自幾個月陸路運輸途中，茶葉沾到篝火煙味嘅傳說。",
-   "flavor": "麥芽同乾果，帶輕微松煙，加奶會轉柔。",
-   "pairing": "早餐、煙燻嘢食、黑麵包。",
-   "brewTip": "95度三分半，煙味重可以加奶。",
-   "keep": "密封陰涼，唔好串味。",
-   "keywords": "俄羅斯商隊茶 煙燻 拼配 紅茶"
-  },
-  "x": [
-   "中國紅茶同煙燻茶拼配，個名嚟自舊時陸路商隊嘅煙味傳說。",
-   "以祁門等中國紅茶為主，加少量煙燻茶。"
-  ]
- },
- "blend-irish-breakfast": {
+  "blend-irish-breakfast": {
   "t": {
    "name": "愛爾蘭早餐茶",
    "oneLine": "以阿薩姆為主，係早餐拼配之中最濃嘅一支。",
