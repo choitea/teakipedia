@@ -4597,10 +4597,6 @@ body.modal-open {
 }
 
 /* 고정 블록 안쪽 세로 여백은 조금 촘촘하게 — 목록에 남는 높이를 넓힙니다 */
-.guide-sticky .quiz-strip {
-  margin-bottom: 10px;
-}
-
 .guide-sticky .seg {
   margin-bottom: 10px;
 }
@@ -4795,7 +4791,6 @@ body.modal-open {
     padding: 7px 12px;
   }
 
-  .guide-sticky .quiz-strip,
   .guide-sticky .seg {
     grid-column: 1;
     max-width: none;

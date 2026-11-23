@@ -144,8 +144,8 @@
       sec.classList.toggle("active", sec.id === "view-" + view);
     });
     $$(".tab").forEach(function (tab) {
-      /* 취향 테스트는 차 백과에서 열리므로 백과 탭을 켜 둡니다 */
-      var on = tab.getAttribute("data-view") === (view === "quiz" ? "guide" : view);
+      /* 취향 테스트는 노트에서 열리므로 노트 탭을 켜 둡니다 */
+      var on = tab.getAttribute("data-view") === (view === "quiz" ? "notes" : view);
       tab.classList.toggle("active", on);
       if (on) tab.setAttribute("aria-current", "page");
       else tab.removeAttribute("aria-current");
@@ -1509,7 +1509,7 @@
   function quizBack() {
     window.clearTimeout(quizState.timer);
     if (quizState.step === 0) {
-      go("guide");
+      go("notes");
       return;
     }
     quizState.step -= 1;

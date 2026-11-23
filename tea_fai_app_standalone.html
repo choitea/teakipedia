@@ -4627,10 +4627,6 @@ body.modal-open {
 }
 
 /* 고정 블록 안쪽 세로 여백은 조금 촘촘하게 — 목록에 남는 높이를 넓힙니다 */
-.guide-sticky .quiz-strip {
-  margin-bottom: 10px;
-}
-
 .guide-sticky .seg {
   margin-bottom: 10px;
 }
@@ -4825,7 +4821,6 @@ body.modal-open {
     padding: 7px 12px;
   }
 
-  .guide-sticky .quiz-strip,
   .guide-sticky .seg {
     grid-column: 1;
     max-width: none;
@@ -6069,17 +6064,8 @@ h3 {
     <main class="viewport">
       <!-- ───────── 1. 차 백과 (기본 화면) ───────── -->
       <section class="view active" id="view-guide" aria-label="차 백과" data-i18n-aria="tab.guide">
-        <!-- 취향 테스트 카드 · 잎차/티백 탭 · 검색창 · 계열 칩 — 스크롤해도 위에 붙어 있습니다 -->
+        <!-- 잎차/티백 탭 · 검색창 · 계열 칩 — 스크롤해도 위에 붙어 있습니다 -->
         <div class="guide-sticky" id="guideSticky">
-          <button class="quiz-strip" type="button" id="quizBanner">
-            <span class="qs-spark" aria-hidden="true">✦</span>
-            <span class="qs-text">
-              <b data-i18n="quiz.cardTitle">나에게 맞는 차 찾기</b>
-              <span data-i18n="quiz.cardSub">10문항 · 1분이면 194종 중 내게 맞는 차를 찾아드립니다.</span>
-            </span>
-            <span class="qs-cta"><span data-i18n="quiz.cardCta">시작</span><svg width="13" height="13"><use href="#ic-arrow" /></svg></span>
-          </button>
-
           <div class="seg" role="group" aria-label="잎차·티백 전환" data-i18n-aria="a11y.filter">
             <button class="seg-btn active" type="button" id="segLeaf" data-guide-tab="leaf" aria-pressed="true">
               <svg width="15" height="15"><use href="#ic-leaf" /></svg><span data-i18n="guide.tabLeaf">잎차</span><em id="segLeafCount"></em>
@@ -6416,6 +6402,15 @@ h3 {
           <h1 id="notesTitle" data-i18n="notes.title">시음 노트</h1>
           <p data-i18n="notes.lead">오늘 우린 차를 한 줄로 남겨 두면, 다음 잔이 조금 더 정확해집니다.</p>
         </div>
+
+        <button class="quiz-strip" type="button" id="quizBanner">
+          <span class="qs-spark" aria-hidden="true">✦</span>
+          <span class="qs-text">
+            <b data-i18n="quiz.cardTitle">나에게 맞는 차 찾기</b>
+            <span data-i18n="quiz.cardSub">10문항 · 1분이면 194종 중 내게 맞는 차를 찾아드립니다.</span>
+          </span>
+          <span class="qs-cta"><span data-i18n="quiz.cardCta">시작</span><svg width="13" height="13"><use href="#ic-arrow" /></svg></span>
+        </button>
 
         <div class="note-stats">
           <div class="note-stat">
@@ -40914,8 +40909,8 @@ window.TEAFaiCulture = [
       sec.classList.toggle("active", sec.id === "view-" + view);
     });
     $$(".tab").forEach(function (tab) {
-      /* 취향 테스트는 차 백과에서 열리므로 백과 탭을 켜 둡니다 */
-      var on = tab.getAttribute("data-view") === (view === "quiz" ? "guide" : view);
+      /* 취향 테스트는 노트에서 열리므로 노트 탭을 켜 둡니다 */
+      var on = tab.getAttribute("data-view") === (view === "quiz" ? "notes" : view);
       tab.classList.toggle("active", on);
       if (on) tab.setAttribute("aria-current", "page");
       else tab.removeAttribute("aria-current");
@@ -42279,7 +42274,7 @@ window.TEAFaiCulture = [
   function quizBack() {
     window.clearTimeout(quizState.timer);
     if (quizState.step === 0) {
-      go("guide");
+      go("notes");
       return;
     }
     quizState.step -= 1;
