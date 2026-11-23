@@ -89,7 +89,7 @@
 
   /* 계열 버튼·백과 목록 순서 — 녹차·우롱차·홍차·흑차(보이차)·백차·황차 다음에
      블렌딩차·대용차·전통차·허브차·과일차가 옵니다. */
-  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "everyday", "traditional", "fruit"];
+  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "everyday", "fruit"];
 
   function orderedGroups() {
     var out = [];
@@ -1453,7 +1453,7 @@
         { key: "quiz.q6a", tags: { "k-sweet": 7, "b-medium": 1 } },
         { key: "quiz.q6b", tags: { "k-crisp": 7, "r-clean": 1 } },
         { key: "quiz.q6c", tags: { "k-blend": 10, "a-fruit": 2, "a-floral": 2 }, groups: ["black"] },
-        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday", "traditional"] }
+        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday"] }
       ]
     },
     {
