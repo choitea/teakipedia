@@ -5739,3 +5739,87 @@ h3 {
   display: none;
 }
 }
+
+/* ---------- 타이머 차종 칩: 가로 스크롤 없이 전체 펼침 ---------- */
+.chip-row.wrap {
+  flex-wrap: wrap;
+  overflow-x: visible;
+  scroll-snap-type: none;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+/* ---------- 차 문화 ---------- */
+.culture-cat {
+  font-size: 16.5px;
+  margin: 20px 0 10px;
+}
+.culture-cat:first-child {
+  margin-top: 2px;
+}
+.culture-card {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin: 0 0 10px;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+}
+.culture-card b {
+  display: block;
+  font-size: 15.5px;
+  margin-bottom: 4px;
+}
+.culture-card span {
+  display: block;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--muted);
+}
+.culture-back {
+  border: 1px solid var(--line);
+  background: var(--paper-2);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  padding: 7px 13px;
+  font-size: 12.5px;
+  cursor: pointer;
+  margin-bottom: 14px;
+}
+.culture-title {
+  font-size: 22px;
+  line-height: 1.35;
+  margin: 0 0 8px;
+}
+.culture-summary {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 0 6px;
+}
+.culture-sec h3 {
+  font-size: 15px;
+  margin: 18px 0 6px;
+}
+.culture-sec p {
+  font-size: 14.5px;
+  line-height: 1.75;
+  margin: 0 0 8px;
+}
+.culture-related {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 22px;
+}
+.culture-related > span {
+  font-size: 13px;
+  color: var(--muted);
+  margin-right: 2px;
+}

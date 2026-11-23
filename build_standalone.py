@@ -15,6 +15,7 @@ html = (BASE / "index.html").read_text(encoding="utf-8")
 css = (BASE / "styles.css").read_text(encoding="utf-8")
 data_js = (BASE / "data.js").read_text(encoding="utf-8")
 data_yue_js = (BASE / "data_yue.js").read_text(encoding="utf-8")
+culture_js = (BASE / "culture.js").read_text(encoding="utf-8")
 i18n_js = (BASE / "i18n.js").read_text(encoding="utf-8")
 app_js = (BASE / "app.js").read_text(encoding="utf-8")
 features_js = (BASE / "features.js").read_text(encoding="utf-8")
@@ -38,7 +39,7 @@ for code, fname in (("ko", "ko"), ("en", "en"), ("zh-CN", "zh-CN"), ("zh-TW", "z
 flag_js = "<script>window.TEAFaiFlags = " + json.dumps(flags) + ";</script>\n    "
 
 html = html.replace(
-    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
+    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="culture.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
     flag_js
     + "<script>\n"
     + supabase_js
@@ -48,6 +49,8 @@ html = html.replace(
     + data_js
     + "\n</script>\n    <script>\n"
     + data_yue_js
+    + "\n</script>\n    <script>\n"
+    + culture_js
     + "\n</script>\n    <script>\n"
     + app_js
     + "\n</script>\n    <script>\n"

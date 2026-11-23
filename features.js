@@ -53,7 +53,7 @@
   /* ---------------- 밀크티·홍차 완제품 (쿠팡 검색 링크) ----------------
      발급받은 쿠팡파트너스 단축 링크가 없는 품목이라, 있는 척하는 가짜 링크
      대신 실제 쿠팡 검색 주소를 씁니다. paid:false 이므로 대가성 문구와 분리됩니다. */
-  var SEARCH = "https://www.coupang.com/np/search?q=";
+  var SEARCH = "https://www.coupang.com/np/search?lptag=AF2343239&q=";
   var FINISHED = [
     {
       id: "milk-hongkong",
@@ -172,7 +172,7 @@
       out.push({
         id: "bag-" + bag.id,
         cat: "bag",
-        paid: !!aff,
+        paid: true,
         badge: t("store.catBag"),
         title: (brand ? brand + " · " : "") + name,
         sub: t("bag.brew", { temp: bag.temp, dur: fmtDur(bag.seconds) }),
@@ -186,7 +186,7 @@
       out.push({
         id: "fin-" + f.id,
         cat: "milk",
-        paid: !!f.url,
+        paid: true,
         badge: t("store.catMilk"),
         title: normTitle(f.title),
         sub: normTitle(f.note),

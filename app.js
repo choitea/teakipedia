@@ -85,11 +85,11 @@
   /* ---------------- 화면 전환 ---------------- */
   /* 차 백과가 1번 탭이자 기본 첫 화면입니다. */
   var currentView = "guide";
-  var VIEWS = ["guide", "timer", "store", "partner", "community", "notes", "quiz"];
+  var VIEWS = ["guide", "culture", "timer", "store", "partner", "community", "notes", "quiz"];
 
   /* 계열 버튼·백과 목록 순서 — 녹차·우롱차·홍차·흑차(보이차)·백차·황차 다음에
      블렌딩차·대용차·전통차·허브차·과일차가 옵니다. */
-  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "blended", "everyday", "traditional", "herb", "fruit"];
+  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "blended", "everyday", "traditional", "fruit"];
 
   function orderedGroups() {
     var out = [];
@@ -158,6 +158,7 @@
     }
     if (view === "community") renderPostList();
     if (view === "store") renderStore();
+    if (view === "culture") renderCulture();
     if (view === "guide") {
       renderTeaList();
       renderBagList();
@@ -170,8 +171,122 @@
     });
   });
 
+
   /* ============================================================
-     1. 차 백과 (기본 첫 화면) — 계열 필터 · 161종 · 실물 사진 · 원산지
+     차 문화 — 나라별 다례 · 다구 입문 · 차 상식 (culture.js)
+     ============================================================ */
+  var cultureOpenId = null;
+
+  function cultureField(obj) {
+    if (!obj) return "";
+    if (obj[lang]) return obj[lang];
+    if (lang === "yue" && obj["zh-TW"]) return obj["zh-TW"];
+    return obj.ko || obj.en || "";
+  }
+
+  function renderCulture() {
+    var listEl = $("#cultureList");
+    var detailEl = $("#cultureDetail");
+    if (!listEl || !detailEl) return;
+    var arts = window.TEAFaiCulture || [];
+    var art = null;
+    if (cultureOpenId) {
+      arts.forEach(function (x) {
+        if (x.id === cultureOpenId) art = x;
+      });
+      if (!art) cultureOpenId = null;
+    }
+    if (art) {
+      listEl.hidden = true;
+      detailEl.hidden = false;
+      var body =
+        art.body && (art.body[lang] || (lang === "yue" ? art.body["zh-TW"] : null) || art.body.ko) || [];
+      var html =
+        '<button type="button" class="culture-back" id="cultureBack">' +
+        esc(t("culture.back")) +
+        "</button>" +
+        '<h1 class="culture-title">' +
+        esc(cultureField(art.title)) +
+        "</h1>" +
+        '<p class="culture-summary">' +
+        esc(cultureField(art.summary)) +
+        "</p>";
+      body.forEach(function (sec) {
+        html += '<div class="culture-sec"><h3>' + esc(sec.h || "") + "</h3>";
+        var ps = Array.isArray(sec.p) ? sec.p : [sec.p];
+        ps.forEach(function (p) {
+          html += "<p>" + esc(p || "") + "</p>";
+        });
+        html += "</div>";
+      });
+      var rel = (art.related || []).filter(function (id) {
+        return !!D.byId(id);
+      });
+      if (rel.length) {
+        html += '<div class="culture-related"><span>' + esc(t("culture.related")) + "</span>";
+        rel.forEach(function (id) {
+          var tea = D.byId(id);
+          html +=
+            '<button type="button" class="chip small" data-reltea="' +
+            esc(id) +
+            '">' +
+            esc(tea.name) +
+            "</button>";
+        });
+        html += "</div>";
+      }
+      detailEl.innerHTML = html;
+      var back = $("#cultureBack", detailEl);
+      if (back)
+        back.addEventListener("click", function () {
+          cultureOpenId = null;
+          renderCulture();
+          window.scrollTo(0, 0);
+        });
+      $$("[data-reltea]", detailEl).forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          openTeaInGuide(btn.getAttribute("data-reltea"));
+        });
+      });
+      return;
+    }
+    detailEl.hidden = true;
+    listEl.hidden = false;
+    var cats = [
+      ["ceremony", t("culture.cat.ceremony")],
+      ["ware", t("culture.cat.ware")],
+      ["basics", t("culture.cat.basics")]
+    ];
+    var out = "";
+    cats.forEach(function (pair) {
+      var items = arts.filter(function (x) {
+        return x.cat === pair[0];
+      });
+      if (!items.length) return;
+      out += '<h2 class="culture-cat">' + esc(pair[1]) + "</h2>";
+      items.forEach(function (x) {
+        out +=
+          '<button type="button" class="culture-card" data-culture="' +
+          esc(x.id) +
+          '"><b>' +
+          esc(cultureField(x.title)) +
+          "</b><span>" +
+          esc(cultureField(x.summary)) +
+          "</span></button>";
+      });
+    });
+    listEl.innerHTML = out;
+    $$("[data-culture]", listEl).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        cultureOpenId = btn.getAttribute("data-culture");
+        renderCulture();
+        window.scrollTo(0, 0);
+      });
+    });
+  }
+
+  /* ============================================================
+     1. 차 백과 (기본 첫 화면) — 계열 필터 · 195종 · 실물 사진 · 원산지
      ============================================================ */
   /* 취향 태그 비교의 기준 차 — 퀴즈 결과가 있으면 그 차 */
   function referenceTeaId() {
@@ -1310,7 +1425,7 @@
         { key: "quiz.q6a", tags: { "k-sweet": 7, "b-medium": 1 } },
         { key: "quiz.q6b", tags: { "k-crisp": 7, "r-clean": 1 } },
         { key: "quiz.q6c", tags: { "k-blend": 10, "a-fruit": 2, "a-floral": 2 }, groups: ["blended"] },
-        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday", "traditional", "herb"] }
+        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday", "traditional"] }
       ]
     },
     {

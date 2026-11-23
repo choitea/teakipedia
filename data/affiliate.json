@@ -1,514 +1,514 @@
 {
-  "version": 2,
-  "updated": "2026-11-22",
-  "disclosure": {
-    "ko": "쿠팡파트너스 활동의 일환으로, 이 링크를 통해 구매하시면 일정액의 수수료를 받습니다.",
-    "en": "As a Coupang Partners affiliate, we receive a small commission when you buy through this link.",
-    "zh-CN": "本站参与 Coupang Partners（酷澎合作伙伴）活动，您通过此链接购买时我们会获得一定比例的佣金。",
-    "zh-TW": "本站參與 Coupang Partners（酷澎合作夥伴）活動，您透過此連結購買時我們會獲得一定比例的佣金。",
-    "yue": "本站參加 Coupang Partners（酷澎合作夥伴）活動，你經呢條連結買嘢，我哋會收到少少佣金。"
+ "version": 2,
+ "updated": "2026-11-22",
+ "disclosure": {
+  "ko": "쿠팡파트너스 활동의 일환으로, 이 링크를 통해 구매하시면 일정액의 수수료를 받습니다.",
+  "en": "As a Coupang Partners affiliate, we receive a small commission when you buy through this link.",
+  "zh-CN": "本站参与 Coupang Partners（酷澎合作伙伴）活动，您通过此链接购买时我们会获得一定比例的佣金。",
+  "zh-TW": "本站參與 Coupang Partners（酷澎合作夥伴）活動，您透過此連結購買時我們會獲得一定比例的佣金。",
+  "yue": "本站參加 Coupang Partners（酷澎合作夥伴）活動，你經呢條連結買嘢，我哋會收到少少佣金。"
+ },
+ "note": "쿠팡파트너스에서 발급한 단축 URL(link.coupang.com)만 items 에 넣습니다. tea_ids·group_ids 로 그 차(계열)에만 연결하고, 같은 kind(leaf·teaware)가 여럿이면 priority 가 높은 하나만 표시됩니다. 연결된 상품이 없는 차는 browse 의 검색 링크로 넘어갑니다. price_krw 는 발급 시점 판매가이고, paid:true 항목이 표시될 때만 대가성 문구가 함께 나옵니다.",
+ "items": [
+  {
+   "id": "coupang-kettle-temp-1.5l",
+   "kind": "teaware",
+   "vendor": "coupang",
+   "priority": 15,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "전기포트",
+    "en": "Kettle",
+    "zh-CN": "电水壶",
+    "zh-TW": "電水壺"
+   },
+   "title": {
+    "ko": "키친아트 온도조절 유리 전기포트 1.5L",
+    "en": "Kitchenart temperature-control glass kettle, 1.5 L",
+    "zh-CN": "Kitchenart 调温玻璃电水壶 1.5L",
+    "zh-TW": "Kitchenart 調溫玻璃電水壺 1.5L"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 25900,
+   "url": "https://link.coupang.com/a/iO870xvP7k",
+   "coupang": {
+    "product_id": "8647992025",
+    "item_id": "25100630965"
+   },
+   "thumb": "images/store/coupang-kettle-temp-1.5l.jpg"
   },
-  "note": "쿠팡파트너스에서 발급한 단축 URL(link.coupang.com)만 items 에 넣습니다. tea_ids·group_ids 로 그 차(계열)에만 연결하고, 같은 kind(leaf·teaware)가 여럿이면 priority 가 높은 하나만 표시됩니다. 연결된 상품이 없는 차는 browse 의 검색 링크로 넘어갑니다. price_krw 는 발급 시점 판매가이고, paid:true 항목이 표시될 때만 대가성 문구가 함께 나옵니다.",
-  "items": [
-    {
-      "id": "coupang-kettle-temp-1.5l",
-      "kind": "teaware",
-      "vendor": "coupang",
-      "priority": 15,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "전기포트",
-        "en": "Kettle",
-        "zh-CN": "电水壶",
-        "zh-TW": "電水壺"
-      },
-      "title": {
-        "ko": "키친아트 온도조절 유리 전기포트 1.5L",
-        "en": "Kitchenart temperature-control glass kettle, 1.5 L",
-        "zh-CN": "Kitchenart 调温玻璃电水壶 1.5L",
-        "zh-TW": "Kitchenart 調溫玻璃電水壺 1.5L"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 25900,
-      "url": "https://link.coupang.com/a/iO870xvP7k",
-      "coupang": {
-        "product_id": "8647992025",
-        "item_id": "25100630965"
-      },
-      "thumb": "images/store/coupang-kettle-temp-1.5l.jpg"
-    },
-    {
-      "id": "coupang-glass-teapot-700",
-      "kind": "teaware",
-      "vendor": "coupang",
-      "priority": 20,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "티포트",
-        "en": "Teapot",
-        "zh-CN": "茶壶",
-        "zh-TW": "茶壺"
-      },
-      "title": {
-        "ko": "사마도요 내열유리 티포트 700ml",
-        "en": "Samadoyo heat-resistant glass teapot, 700 ml",
-        "zh-CN": "Samadoyo 耐热玻璃茶壶 700ml",
-        "zh-TW": "Samadoyo 耐熱玻璃茶壺 700ml"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 15530,
-      "url": "https://link.coupang.com/a/iO85rp1CUe",
-      "coupang": {
-        "product_id": "1821870685",
-        "item_id": "2370862"
-      },
-      "group_ids": [
-        "white",
-        "yellow",
-        "blended",
-        "fruit",
-        "herb",
-        "herbal"
-      ],
-      "thumb": "images/store/coupang-glass-teapot-700.jpg"
-    },
-    {
-      "id": "coupang-matcha-set-7",
-      "kind": "teaware",
-      "vendor": "coupang",
-      "priority": 30,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "다구",
-        "en": "Teaware",
-        "zh-CN": "茶具",
-        "zh-TW": "茶具"
-      },
-      "title": {
-        "ko": "57도씨 말차 다도 7종세트 (다완·차선·차시)",
-        "en": "57°C matcha set of seven — bowl, whisk and scoop",
-        "zh-CN": "57度氏 抹茶茶道七件套（茶碗·茶筅·茶匙）",
-        "zh-TW": "57度氏 抹茶茶道七件組（茶碗·茶筅·茶匙）"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 29800,
-      "url": "https://link.coupang.com/a/iO9oytvTSC",
-      "coupang": {
-        "product_id": "9031912285",
-        "item_id": "26493545116"
-      },
-      "tea_ids": [
-        "green-matcha"
-      ],
-      "thumb": "images/store/coupang-matcha-set-7.jpg"
-    },
-    {
-      "id": "coupang-gaiwan-120",
-      "kind": "teaware",
-      "vendor": "coupang",
-      "priority": 25,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "개완",
-        "en": "Gaiwan",
-        "zh-CN": "盖碗",
-        "zh-TW": "蓋碗"
-      },
-      "title": {
-        "ko": "대익차 홍익 개완 120ml",
-        "en": "Dayi Hongyi gaiwan, 120 ml",
-        "zh-CN": "大益 红益盖碗 120ml",
-        "zh-TW": "大益 紅益蓋碗 120ml"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 16320,
-      "url": "https://link.coupang.com/a/iO9p9EXodw",
-      "coupang": {
-        "product_id": "7561252270",
-        "item_id": "19920711827"
-      },
-      "group_ids": [
-        "oolong",
-        "dark"
-      ],
-      "thumb": "images/store/coupang-gaiwan-120.jpg"
-    },
-    {
-      "id": "coupang-matcha-osulloc-40",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 30,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "말차",
-        "en": "Matcha",
-        "zh-CN": "抹茶",
-        "zh-TW": "抹茶"
-      },
-      "title": {
-        "ko": "오설록 프리미엄 말차 40g",
-        "en": "Osulloc premium matcha, 40 g",
-        "zh-CN": "Osulloc 高级抹茶 40g",
-        "zh-TW": "Osulloc 高級抹茶 40g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 19300,
-      "url": "https://link.coupang.com/a/iO9jJc0B0C",
-      "coupang": {
-        "product_id": "7706800083",
-        "item_id": "20648191945"
-      },
-      "tea_ids": [
-        "green-matcha"
-      ],
-      "thumb": "images/store/coupang-matcha-osulloc-40.jpg"
-    },
-    {
-      "id": "coupang-longjing-250",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "녹차",
-        "en": "Green tea",
-        "zh-CN": "绿茶",
-        "zh-TW": "綠茶"
-      },
-      "title": {
-        "ko": "중국 명차 용정차 250g",
-        "en": "Longjing green tea, 250 g",
-        "zh-CN": "中国名茶 龙井茶 250g",
-        "zh-TW": "中國名茶 龍井茶 250g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 27360,
-      "url": "https://link.coupang.com/a/iO9icsiaqa",
-      "coupang": {
-        "product_id": "9742443704",
-        "item_id": "29161479579"
-      },
-      "tea_ids": [
-        "green-longjing"
-      ],
-      "thumb": "images/store/coupang-longjing-250.jpg"
-    },
-    {
-      "id": "coupang-tieguanyin-125",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "우롱차",
-        "en": "Oolong",
-        "zh-CN": "乌龙茶",
-        "zh-TW": "烏龍茶"
-      },
-      "title": {
-        "ko": "안계 철관음 우롱차 125g (2026 신차)",
-        "en": "Anxi Tieguanyin oolong, 125 g (2026 harvest)",
-        "zh-CN": "安溪铁观音乌龙茶 125g（2026年新茶）",
-        "zh-TW": "安溪鐵觀音烏龍茶 125g（2026年新茶）"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 18950,
-      "url": "https://link.coupang.com/a/iO9aXFUj92",
-      "coupang": {
-        "product_id": "9623645827",
-        "item_id": "28739069254"
-      },
-      "tea_ids": [
-        "oolong-tieguanyin"
-      ],
-      "thumb": "images/store/coupang-tieguanyin-125.jpg"
-    },
-    {
-      "id": "coupang-darjeeling-ahmad-200",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "홍차",
-        "en": "Black tea",
-        "zh-CN": "红茶",
-        "zh-TW": "紅茶"
-      },
-      "title": {
-        "ko": "아마드티 다즐링 홍차 잎차 200g",
-        "en": "Ahmad Tea Darjeeling loose leaf, 200 g",
-        "zh-CN": "Ahmad Tea 大吉岭红茶散茶 200g",
-        "zh-TW": "Ahmad Tea 大吉嶺紅茶散茶 200g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 18950,
-      "url": "https://link.coupang.com/a/iO9dESAU9s",
-      "coupang": {
-        "product_id": "8181911523",
-        "item_id": "15501787314"
-      },
-      "tea_ids": [
-        "black-darjeeling-first",
-        "black-darjeeling-second"
-      ],
-      "thumb": "images/store/coupang-darjeeling-ahmad-200.jpg"
-    },
-    {
-      "id": "coupang-earlgrey-125",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "가향차",
-        "en": "Blended",
-        "zh-CN": "调味茶",
-        "zh-TW": "調味茶"
-      },
-      "title": {
-        "ko": "테일러스오브헤로게이트 얼 그레이 잎차 125g",
-        "en": "Taylors of Harrogate Earl Grey loose leaf, 125 g",
-        "zh-CN": "Taylors of Harrogate 伯爵红茶散茶 125g",
-        "zh-TW": "Taylors of Harrogate 伯爵紅茶散茶 125g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 10880,
-      "url": "https://link.coupang.com/a/iO9e8Iz6Oq",
-      "coupang": {
-        "product_id": "143047285",
-        "item_id": "415561772"
-      },
-      "tea_ids": [
-        "blend-earlgrey"
-      ],
-      "thumb": "images/store/coupang-earlgrey-125.jpg"
-    },
-    {
-      "id": "coupang-puerh-dayi-7572",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "보이차",
-        "en": "Pu-erh",
-        "zh-CN": "普洱茶",
-        "zh-TW": "普洱茶"
-      },
-      "title": {
-        "ko": "대익 보이차 7572 숙차 357g",
-        "en": "Dayi 7572 ripe pu-erh cake, 357 g",
-        "zh-CN": "大益 7572 熟茶 357g",
-        "zh-TW": "大益 7572 熟茶 357g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 33000,
-      "url": "https://link.coupang.com/a/iO9gHi7HyK",
-      "coupang": {
-        "product_id": "8856177208",
-        "item_id": "28770230777"
-      },
-      "tea_ids": [
-        "dark-shou"
-      ],
-      "thumb": "images/store/coupang-puerh-dayi-7572.jpg"
-    },
-    {
-      "id": "coupang-chamomile-60",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "허브차",
-        "en": "Herbal",
-        "zh-CN": "花草茶",
-        "zh-TW": "花草茶"
-      },
-      "title": {
-        "ko": "다비앙 유기농 캐모마일 60g",
-        "en": "Dabiang organic chamomile, 60 g",
-        "zh-CN": "Dabiang 有机洋甘菊 60g",
-        "zh-TW": "Dabiang 有機洋甘菊 60g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 13000,
-      "url": "https://link.coupang.com/a/iO9lgN5ZTM",
-      "coupang": {
-        "product_id": "7684655609",
-        "item_id": "27067899788"
-      },
-      "tea_ids": [
-        "herb-chamomile"
-      ],
-      "thumb": "images/store/coupang-chamomile-60.jpg"
-    },
-    {
-      "id": "coupang-rooibos-160",
-      "kind": "leaf",
-      "vendor": "coupang",
-      "priority": 10,
-      "is_active": true,
-      "paid": true,
-      "badge": {
-        "ko": "허브차",
-        "en": "Herbal",
-        "zh-CN": "花草茶",
-        "zh-TW": "花草茶"
-      },
-      "title": {
-        "ko": "다비앙 유기농 루이보스 160g",
-        "en": "Dabiang organic rooibos, 160 g",
-        "zh-CN": "Dabiang 有机路易波士 160g",
-        "zh-TW": "Dabiang 有機路易波士 160g"
-      },
-      "label": {
-        "ko": "쿠팡에서 보기",
-        "en": "View on Coupang",
-        "zh-CN": "在酷澎查看",
-        "zh-TW": "在酷澎查看"
-      },
-      "price_krw": 13000,
-      "url": "https://link.coupang.com/a/iO9mTbNUBg",
-      "coupang": {
-        "product_id": "7572746763",
-        "item_id": "27897619036"
-      },
-      "tea_ids": [
-        "herb-rooibos"
-      ],
-      "thumb": "images/store/coupang-rooibos-160.jpg"
-    }
-  ],
-  "browse": [
-    {
-      "kind": "leaf",
-      "vendor": "coupang",
-      "url": "https://www.coupang.com/np/search?q={q}",
-      "query": "{koName} 찻잎",
-      "paid": false,
-      "badge": {
-        "ko": "찻잎",
-        "en": "Loose leaf",
-        "zh-CN": "茶叶",
-        "zh-TW": "茶葉"
-      },
-      "label": {
-        "ko": "둘러보기",
-        "en": "Browse",
-        "zh-CN": "浏览",
-        "zh-TW": "瀏覽"
-      }
-    },
-    {
-      "kind": "teaware",
-      "vendor": "coupang",
-      "url": "https://www.coupang.com/np/search?q={q}",
-      "query": "다구 티팟",
-      "paid": false,
-      "badge": {
-        "ko": "다구",
-        "en": "Teaware",
-        "zh-CN": "茶具",
-        "zh-TW": "茶具"
-      },
-      "label": {
-        "ko": "둘러보기",
-        "en": "Browse",
-        "zh-CN": "浏览",
-        "zh-TW": "瀏覽"
-      },
-      "title": {
-        "ko": "티팟·다구",
-        "en": "Teapot & cups",
-        "zh-CN": "茶壶茶具",
-        "zh-TW": "茶壺茶具"
-      }
-    }
-  ],
-  "books": [
-    {
-      "vendor": "upaper",
-      "url": "https://rotroka.upaper.kr",
-      "title": {
-        "ko": "《찻잎의 시간, 오늘의 한 잔》",
-        "en": "《The Time of Tea Leaves, Today's Cup》",
-        "zh-CN": "《茶叶的时间，今天的一杯》",
-        "zh-TW": "《茶葉的時間，今天的一杯》"
-      },
-      "label": {
-        "ko": "책 보기",
-        "en": "See the book",
-        "zh-CN": "查看书籍",
-        "zh-TW": "查看書籍"
-      }
-    }
-  ]
+  {
+   "id": "coupang-glass-teapot-700",
+   "kind": "teaware",
+   "vendor": "coupang",
+   "priority": 20,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "티포트",
+    "en": "Teapot",
+    "zh-CN": "茶壶",
+    "zh-TW": "茶壺"
+   },
+   "title": {
+    "ko": "사마도요 내열유리 티포트 700ml",
+    "en": "Samadoyo heat-resistant glass teapot, 700 ml",
+    "zh-CN": "Samadoyo 耐热玻璃茶壶 700ml",
+    "zh-TW": "Samadoyo 耐熱玻璃茶壺 700ml"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 15530,
+   "url": "https://link.coupang.com/a/iO85rp1CUe",
+   "coupang": {
+    "product_id": "1821870685",
+    "item_id": "2370862"
+   },
+   "group_ids": [
+    "white",
+    "yellow",
+    "blended",
+    "fruit",
+    "herb",
+    "herbal"
+   ],
+   "thumb": "images/store/coupang-glass-teapot-700.jpg"
+  },
+  {
+   "id": "coupang-matcha-set-7",
+   "kind": "teaware",
+   "vendor": "coupang",
+   "priority": 30,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "다구",
+    "en": "Teaware",
+    "zh-CN": "茶具",
+    "zh-TW": "茶具"
+   },
+   "title": {
+    "ko": "57도씨 말차 다도 7종세트 (다완·차선·차시)",
+    "en": "57°C matcha set of seven — bowl, whisk and scoop",
+    "zh-CN": "57度氏 抹茶茶道七件套（茶碗·茶筅·茶匙）",
+    "zh-TW": "57度氏 抹茶茶道七件組（茶碗·茶筅·茶匙）"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 29800,
+   "url": "https://link.coupang.com/a/iO9oytvTSC",
+   "coupang": {
+    "product_id": "9031912285",
+    "item_id": "26493545116"
+   },
+   "tea_ids": [
+    "green-matcha"
+   ],
+   "thumb": "images/store/coupang-matcha-set-7.jpg"
+  },
+  {
+   "id": "coupang-gaiwan-120",
+   "kind": "teaware",
+   "vendor": "coupang",
+   "priority": 25,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "개완",
+    "en": "Gaiwan",
+    "zh-CN": "盖碗",
+    "zh-TW": "蓋碗"
+   },
+   "title": {
+    "ko": "대익차 홍익 개완 120ml",
+    "en": "Dayi Hongyi gaiwan, 120 ml",
+    "zh-CN": "大益 红益盖碗 120ml",
+    "zh-TW": "大益 紅益蓋碗 120ml"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 16320,
+   "url": "https://link.coupang.com/a/iO9p9EXodw",
+   "coupang": {
+    "product_id": "7561252270",
+    "item_id": "19920711827"
+   },
+   "group_ids": [
+    "oolong",
+    "dark"
+   ],
+   "thumb": "images/store/coupang-gaiwan-120.jpg"
+  },
+  {
+   "id": "coupang-matcha-osulloc-40",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 30,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "말차",
+    "en": "Matcha",
+    "zh-CN": "抹茶",
+    "zh-TW": "抹茶"
+   },
+   "title": {
+    "ko": "오설록 프리미엄 말차 40g",
+    "en": "Osulloc premium matcha, 40 g",
+    "zh-CN": "Osulloc 高级抹茶 40g",
+    "zh-TW": "Osulloc 高級抹茶 40g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 19300,
+   "url": "https://link.coupang.com/a/iO9jJc0B0C",
+   "coupang": {
+    "product_id": "7706800083",
+    "item_id": "20648191945"
+   },
+   "tea_ids": [
+    "green-matcha"
+   ],
+   "thumb": "images/store/coupang-matcha-osulloc-40.jpg"
+  },
+  {
+   "id": "coupang-longjing-250",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "녹차",
+    "en": "Green tea",
+    "zh-CN": "绿茶",
+    "zh-TW": "綠茶"
+   },
+   "title": {
+    "ko": "중국 명차 용정차 250g",
+    "en": "Longjing green tea, 250 g",
+    "zh-CN": "中国名茶 龙井茶 250g",
+    "zh-TW": "中國名茶 龍井茶 250g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 27360,
+   "url": "https://link.coupang.com/a/iO9icsiaqa",
+   "coupang": {
+    "product_id": "9742443704",
+    "item_id": "29161479579"
+   },
+   "tea_ids": [
+    "green-longjing"
+   ],
+   "thumb": "images/store/coupang-longjing-250.jpg"
+  },
+  {
+   "id": "coupang-tieguanyin-125",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "우롱차",
+    "en": "Oolong",
+    "zh-CN": "乌龙茶",
+    "zh-TW": "烏龍茶"
+   },
+   "title": {
+    "ko": "안계 철관음 우롱차 125g (2026 신차)",
+    "en": "Anxi Tieguanyin oolong, 125 g (2026 harvest)",
+    "zh-CN": "安溪铁观音乌龙茶 125g（2026年新茶）",
+    "zh-TW": "安溪鐵觀音烏龍茶 125g（2026年新茶）"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 18950,
+   "url": "https://link.coupang.com/a/iO9aXFUj92",
+   "coupang": {
+    "product_id": "9623645827",
+    "item_id": "28739069254"
+   },
+   "tea_ids": [
+    "oolong-tieguanyin"
+   ],
+   "thumb": "images/store/coupang-tieguanyin-125.jpg"
+  },
+  {
+   "id": "coupang-darjeeling-ahmad-200",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "홍차",
+    "en": "Black tea",
+    "zh-CN": "红茶",
+    "zh-TW": "紅茶"
+   },
+   "title": {
+    "ko": "아마드티 다즐링 홍차 잎차 200g",
+    "en": "Ahmad Tea Darjeeling loose leaf, 200 g",
+    "zh-CN": "Ahmad Tea 大吉岭红茶散茶 200g",
+    "zh-TW": "Ahmad Tea 大吉嶺紅茶散茶 200g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 18950,
+   "url": "https://link.coupang.com/a/iO9dESAU9s",
+   "coupang": {
+    "product_id": "8181911523",
+    "item_id": "15501787314"
+   },
+   "tea_ids": [
+    "black-darjeeling-first",
+    "black-darjeeling-second"
+   ],
+   "thumb": "images/store/coupang-darjeeling-ahmad-200.jpg"
+  },
+  {
+   "id": "coupang-earlgrey-125",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "가향차",
+    "en": "Blended",
+    "zh-CN": "调味茶",
+    "zh-TW": "調味茶"
+   },
+   "title": {
+    "ko": "테일러스오브헤로게이트 얼 그레이 잎차 125g",
+    "en": "Taylors of Harrogate Earl Grey loose leaf, 125 g",
+    "zh-CN": "Taylors of Harrogate 伯爵红茶散茶 125g",
+    "zh-TW": "Taylors of Harrogate 伯爵紅茶散茶 125g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 10880,
+   "url": "https://link.coupang.com/a/iO9e8Iz6Oq",
+   "coupang": {
+    "product_id": "143047285",
+    "item_id": "415561772"
+   },
+   "tea_ids": [
+    "blend-earlgrey"
+   ],
+   "thumb": "images/store/coupang-earlgrey-125.jpg"
+  },
+  {
+   "id": "coupang-puerh-dayi-7572",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "보이차",
+    "en": "Pu-erh",
+    "zh-CN": "普洱茶",
+    "zh-TW": "普洱茶"
+   },
+   "title": {
+    "ko": "대익 보이차 7572 숙차 357g",
+    "en": "Dayi 7572 ripe pu-erh cake, 357 g",
+    "zh-CN": "大益 7572 熟茶 357g",
+    "zh-TW": "大益 7572 熟茶 357g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 33000,
+   "url": "https://link.coupang.com/a/iO9gHi7HyK",
+   "coupang": {
+    "product_id": "8856177208",
+    "item_id": "28770230777"
+   },
+   "tea_ids": [
+    "dark-shou"
+   ],
+   "thumb": "images/store/coupang-puerh-dayi-7572.jpg"
+  },
+  {
+   "id": "coupang-chamomile-60",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "허브차",
+    "en": "Herbal",
+    "zh-CN": "花草茶",
+    "zh-TW": "花草茶"
+   },
+   "title": {
+    "ko": "다비앙 유기농 캐모마일 60g",
+    "en": "Dabiang organic chamomile, 60 g",
+    "zh-CN": "Dabiang 有机洋甘菊 60g",
+    "zh-TW": "Dabiang 有機洋甘菊 60g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 13000,
+   "url": "https://link.coupang.com/a/iO9lgN5ZTM",
+   "coupang": {
+    "product_id": "7684655609",
+    "item_id": "27067899788"
+   },
+   "tea_ids": [
+    "herb-chamomile"
+   ],
+   "thumb": "images/store/coupang-chamomile-60.jpg"
+  },
+  {
+   "id": "coupang-rooibos-160",
+   "kind": "leaf",
+   "vendor": "coupang",
+   "priority": 10,
+   "is_active": true,
+   "paid": true,
+   "badge": {
+    "ko": "허브차",
+    "en": "Herbal",
+    "zh-CN": "花草茶",
+    "zh-TW": "花草茶"
+   },
+   "title": {
+    "ko": "다비앙 유기농 루이보스 160g",
+    "en": "Dabiang organic rooibos, 160 g",
+    "zh-CN": "Dabiang 有机路易波士 160g",
+    "zh-TW": "Dabiang 有機路易波士 160g"
+   },
+   "label": {
+    "ko": "쿠팡에서 보기",
+    "en": "View on Coupang",
+    "zh-CN": "在酷澎查看",
+    "zh-TW": "在酷澎查看"
+   },
+   "price_krw": 13000,
+   "url": "https://link.coupang.com/a/iO9mTbNUBg",
+   "coupang": {
+    "product_id": "7572746763",
+    "item_id": "27897619036"
+   },
+   "tea_ids": [
+    "herb-rooibos"
+   ],
+   "thumb": "images/store/coupang-rooibos-160.jpg"
+  }
+ ],
+ "browse": [
+  {
+   "kind": "leaf",
+   "vendor": "coupang",
+   "url": "https://www.coupang.com/np/search?q={q}&lptag=AF2343239",
+   "query": "{koName} 찻잎",
+   "paid": true,
+   "badge": {
+    "ko": "찻잎",
+    "en": "Loose leaf",
+    "zh-CN": "茶叶",
+    "zh-TW": "茶葉"
+   },
+   "label": {
+    "ko": "둘러보기",
+    "en": "Browse",
+    "zh-CN": "浏览",
+    "zh-TW": "瀏覽"
+   }
+  },
+  {
+   "kind": "teaware",
+   "vendor": "coupang",
+   "url": "https://www.coupang.com/np/search?q={q}&lptag=AF2343239",
+   "query": "다구 티팟",
+   "paid": true,
+   "badge": {
+    "ko": "다구",
+    "en": "Teaware",
+    "zh-CN": "茶具",
+    "zh-TW": "茶具"
+   },
+   "label": {
+    "ko": "둘러보기",
+    "en": "Browse",
+    "zh-CN": "浏览",
+    "zh-TW": "瀏覽"
+   },
+   "title": {
+    "ko": "티팟·다구",
+    "en": "Teapot & cups",
+    "zh-CN": "茶壶茶具",
+    "zh-TW": "茶壺茶具"
+   }
+  }
+ ],
+ "books": [
+  {
+   "vendor": "upaper",
+   "url": "https://rotroka.upaper.kr",
+   "title": {
+    "ko": "《찻잎의 시간, 오늘의 한 잔》",
+    "en": "《The Time of Tea Leaves, Today's Cup》",
+    "zh-CN": "《茶叶的时间，今天的一杯》",
+    "zh-TW": "《茶葉的時間，今天的一杯》"
+   },
+   "label": {
+    "ko": "책 보기",
+    "en": "See the book",
+    "zh-CN": "查看书籍",
+    "zh-TW": "查看書籍"
+   }
+  }
+ ]
 }

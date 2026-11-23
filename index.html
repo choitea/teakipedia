@@ -7,7 +7,7 @@
     <meta
       name="description"
       data-i18n-content="meta.desc"
-      content="녹차·우롱차·홍차·흑차·백차·황차·가향차·대용차·허브차·과일차 161종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 한 곳에 담은 티키피디아 앱."
+      content="녹차·우롱차·홍차·흑차·백차·황차·블렌딩차·전통차·대용차·허브차 195종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 한 곳에 담은 티키피디아 앱."
     />
     <meta name="theme-color" content="#F7F3EB" />
     <meta name="color-scheme" content="light" />
@@ -47,6 +47,10 @@
         <symbol id="ic-book" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
           <path d="M12 6.3C10.4 4.9 8.3 4.3 5.5 4.3v13.4c2.8 0 4.9.6 6.5 2 1.6-1.4 3.7-2 6.5-2V4.3c-2.8 0-4.9.6-6.5 2z" />
           <path d="M12 6.3v13.4" />
+        </symbol>
+        <symbol id="ic-culture" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 11h13v4.5A4.5 4.5 0 0 1 12.5 20h-4A4.5 4.5 0 0 1 4 15.5z" />
+          <path d="M17 12.2h.9a2.8 2.8 0 0 1 0 5.6H17M8.2 3.4c0 1.2-1 1.6-1 2.8M12.7 3.4c0 1.2-1 1.6-1 2.8" />
         </symbol>
         <symbol id="ic-note" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
           <path d="M5 4.5h9.5L19 9v10.5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-14a1 1 0 0 1 1-1z" />
@@ -206,6 +210,7 @@
       <!-- PC·태블릿(900px~)에서만 보이는 상단 홈페이지형 내비게이션 -->
       <nav class="topnav" aria-label="주요 화면" data-i18n-aria="a11y.tabbar">
         <button class="tab" type="button" data-view="guide" aria-current="page"><span data-i18n="tab.guide">차 백과</span></button>
+        <button class="tab" type="button" data-view="culture"><span data-i18n="tab.culture">차 문화</span></button>
         <button class="tab" type="button" data-view="timer"><span data-i18n="tab.timer">타이머</span></button>
         <button class="tab" type="button" data-view="store"><span data-i18n="tab.store">스토어</span></button>
         <button class="tab" type="button" data-view="partner"><span data-i18n="tab.partner">파트너</span></button>
@@ -224,7 +229,7 @@
             <span class="qs-spark" aria-hidden="true">✦</span>
             <span class="qs-text">
               <b data-i18n="quiz.cardTitle">나에게 맞는 차 찾기</b>
-              <span data-i18n="quiz.cardSub">10문항 · 1분이면 161종 중 내게 맞는 차를 찾아드립니다.</span>
+              <span data-i18n="quiz.cardSub">10문항 · 1분이면 195종 중 내게 맞는 차를 찾아드립니다.</span>
             </span>
             <span class="qs-cta"><span data-i18n="quiz.cardCta">시작</span><svg width="13" height="13"><use href="#ic-arrow" /></svg></span>
           </button>
@@ -346,6 +351,16 @@
       </section>
 
       <!-- ───────── 2. 우림 타이머 ───────── -->
+      <section class="view" id="view-culture" aria-labelledby="cultureTitle">
+        <div class="view-head" style="margin-bottom: 12px">
+          <p class="eyebrow" data-i18n="culture.kicker">Tea culture</p>
+          <h1 id="cultureTitle" data-i18n="culture.title">차 문화</h1>
+          <p data-i18n="culture.intro">나라별 다례와 다구, 차를 처음 만나는 분을 위한 기초 상식을 모았습니다.</p>
+        </div>
+        <div id="cultureList"></div>
+        <div id="cultureDetail" hidden></div>
+      </section>
+
       <section class="view" id="view-timer" aria-labelledby="timerTitle">
         <div class="view-head" style="margin-bottom: 12px">
           <p class="eyebrow" data-i18n="timer.kicker">Steeping timer</p>
@@ -360,7 +375,7 @@
         </div>
 
         <div class="chip-row" id="groupChips" role="group" aria-label="계열 선택" data-i18n-aria="a11y.group"></div>
-        <div class="chip-row" id="teaChips" role="group" aria-label="차 종류 선택" data-i18n-aria="a11y.tea"></div>
+        <div class="chip-row wrap" id="teaChips" role="group" aria-label="차 종류 선택" data-i18n-aria="a11y.tea"></div>
 
         <div class="timer-stage">
           <div class="ring" id="ring">
@@ -623,6 +638,9 @@
       <button class="tab active" type="button" data-view="guide" aria-current="page">
         <svg><use href="#ic-book" /></svg><span data-i18n="tab.guide">차 백과</span>
       </button>
+      <button class="tab" type="button" data-view="culture">
+        <svg><use href="#ic-culture" /></svg><span data-i18n="tab.culture">차 문화</span>
+      </button>
       <button class="tab" type="button" data-view="timer">
         <svg><use href="#ic-timer" /></svg><span data-i18n="tab.timer">타이머</span>
       </button>
@@ -741,6 +759,7 @@
     <script src="i18n.js"></script>
     <script src="data.js"></script>
     <script src="data_yue.js"></script>
+    <script src="culture.js"></script>
     <script src="app.js"></script>
     <script src="features.js"></script>
   </body>

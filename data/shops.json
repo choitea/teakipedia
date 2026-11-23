@@ -1,18 +1,18 @@
 {
  "version": 2,
  "updated": "2026-11-21",
- "note": "1호 파트너 티룸 2곳(홍콩티·풍성한뷔페)을 파트너 목록 맨 위에 고정 노출합니다(pinned: 숫자가 클수록 위). 좌표는 카카오맵 주소 지오코딩 결과(2026-11-20), 가격·영업시간은 네이버 스마트플레이스 공개 정보 기준. 6개 언어(한·영·간체·번체·일본어·광동어) 문구를 갖습니다. 확인되지 않은 값은 null 로 둡니다. 이 파일은 앱 껍데기 프리캐시에 넣지 않고 stale-while-revalidate 로 갱신합니다.",
+ "note": "최상위 파트너 홍콩티(불광점)를 파트너 목록 맨 위에 고정 노출합니다(pinned: 숫자가 클수록 위). 좌표는 카카오맵 주소 지오코딩 결과(2026-11-20), 가격·영업시간은 네이버 스마트플레이스 공개 정보 기준. 6개 언어(한·영·간체·번체·일본어·광동어) 문구를 갖습니다. 확인되지 않은 값은 null 로 둡니다. 이 파일은 앱 껍데기 프리캐시에 넣지 않고 stale-while-revalidate 로 갱신합니다.",
  "shops": [
   {
    "slug": "hongkongtea-bulgwang",
    "pinned": 2,
    "name": {
-    "ko": "홍콩티 (불광점)",
-    "en": "Hong Kong Tea (Bulgwang)",
-    "zh-CN": "香港茶（佛光店）",
-    "zh-TW": "香港茶（佛光店）",
-    "ja": "香港茶（仏光店）",
-    "yue": "香港茶（佛光店）"
+    "ko": "홍콩티 (NC불광점 지하1층)",
+    "en": "Hong Kong Tea (NC Bulgwang B1)",
+    "zh-CN": "香港茶（NC佛光店地下一层）",
+    "zh-TW": "香港茶（NC佛光店地下一樓）",
+    "ja": "香港茶（NC仏光店 地下1階）",
+    "yue": "香港茶（NC佛光店地庫一樓）"
    },
    "partner": true,
    "tier": 1,
@@ -144,143 +144,6 @@
       "yue": "雲吞麵"
      },
      "price": null,
-     "signature": false,
-     "teaId": null
-    }
-   ]
-  },
-  {
-   "slug": "pungsungh-buffet-sindang",
-   "pinned": 1,
-   "name": {
-    "ko": "풍성한뷔페 (신당점)",
-    "en": "Pungsungh Buffet (Sindang)",
-    "zh-CN": "丰盛自助餐（新堂店）",
-    "zh-TW": "豐盛自助餐（新堂店）",
-    "ja": "豊盛ビュッフェ（新堂店）",
-    "yue": "豐盛自助餐（新堂店）"
-   },
-   "partner": true,
-   "tier": 1,
-   "region": {
-    "ko": "서울 중구",
-    "en": "Jung-gu, Seoul",
-    "zh-CN": "首尔 中区",
-    "zh-TW": "首爾 中區",
-    "ja": "ソウル 中区",
-    "yue": "首爾 中區"
-   },
-   "address": {
-    "ko": "서울 중구 퇴계로87길 15-16 1층",
-    "en": "1F, 15-16 Toegye-ro 87-gil, Jung-gu, Seoul",
-    "zh-CN": "首尔中区退溪路87街15-16 一层",
-    "zh-TW": "首爾中區退溪路87街15-16 一樓",
-    "ja": "ソウル市中区退渓路87ギル15-16 1階",
-    "yue": "首爾中區退溪路87街15-16 一樓"
-   },
-   "near": {
-    "ko": "신당역 2번 출구 87m, 기업은행 뒤편 골목",
-    "en": "87 m from Sindang Stn. exit 2, alley behind IBK Bank",
-    "zh-CN": "新堂站2号出口87米，企业银行后方小巷",
-    "zh-TW": "新堂站2號出口87公尺，企業銀行後方巷子",
-    "ja": "新堂駅2番出口から87m、企業銀行裏手の路地",
-    "yue": "新堂站2號出口行87米，企業銀行後面條巷"
-   },
-   "lat": 37.5663286,
-   "lng": 127.0205106,
-   "hours": {
-    "mon": "11:00-22:00",
-    "tue": "11:00-22:00",
-    "wed": "11:00-22:00",
-    "thu": "11:00-22:00",
-    "fri": "11:00-22:00",
-    "sat": "11:00-22:00",
-    "sun": null
-   },
-   "lastOrder": null,
-   "closedDays": [
-    "sun"
-   ],
-   "hoursNote": {
-    "ko": "월~토 11:00~22:00 · 일요일 휴무",
-    "en": "Mon–Sat 11:00–22:00 · closed Sunday",
-    "zh-CN": "周一至周六 11:00~22:00 · 周日休息",
-    "zh-TW": "週一至週六 11:00~22:00 · 週日休息",
-    "ja": "月〜土 11:00〜22:00 · 日曜定休",
-    "yue": "星期一至六 11:00~22:00 · 星期日休息"
-   },
-   "phone": {
-    "display": "010-5563-8272",
-    "tel": "+821055638272"
-   },
-   "phoneNote": {
-    "ko": "가게 전화",
-    "en": "Shop phone",
-    "zh-CN": "店铺电话",
-    "zh-TW": "店鋪電話",
-    "ja": "店の電話",
-    "yue": "舖頭電話"
-   },
-   "placeUrl": "https://map.naver.com/p/search/%ED%92%8D%EC%84%B1%ED%95%9C%EB%B7%94%ED%8E%90",
-   "maps": {
-    "naver": "https://map.naver.com/p/search/%ED%92%8D%EC%84%B1%ED%95%9C%EB%B7%94%ED%8E%90",
-    "kakao": "https://map.kakao.com/link/to/%ED%92%8D%EC%84%B1%ED%95%9C%EB%B7%94%ED%8E%90%20%EC%8B%A0%EB%8B%B9%EC%A0%90,37.5663286,127.0205106",
-    "google": "https://www.google.com/maps/search/?api=1&query=37.5663286,127.0205106"
-   },
-   "tasteTags": [
-    "p-meal",
-    "b-full",
-    "s-milk",
-    "k-sweet",
-    "m-cozy",
-    "c-high",
-    "s-hot"
-   ],
-   "desc": {
-    "ko": "낮에는 8,000원 집밥 한식뷔페, 저녁에는 홍콩 밀크티·잎차와 짐빔 하이볼·벨기에 병맥주를 내는 신당역 골목 가게. 차 한 잔으로 하루를 닫기 좋습니다.",
-    "en": "An 8,000-won home-style Korean buffet by day; Hong Kong milk tea, loose-leaf tea, highballs and Belgian beer by night, in a Sindang alley.",
-    "zh-CN": "白天是8,000韩元的家常韩式自助，晚上供应港式奶茶、原叶茶与海波、比利时瓶啤，位于新堂站巷内。",
-    "zh-TW": "白天是8,000韓元的家常韓式自助，晚上供應港式奶茶、原葉茶與海波、比利時瓶啤，位於新堂站巷內。",
-    "ja": "昼は8,000ウォンの韓国式家庭料理ビュッフェ、夜は香港ミルクティー・リーフティー・ハイボール・ベルギービールを出す新堂駅の路地の店。",
-    "yue": "日頭係 8,000 韓圜嘅韓式家常自助餐，夜晚有港式奶茶、原葉茶同 Highball、比利時樽裝啤酒，喺新堂站巷仔入面。"
-   },
-   "menus": [
-    {
-     "name": {
-      "ko": "한식뷔페 (점심)",
-      "en": "Korean buffet (lunch)",
-      "zh-CN": "韩式自助（午餐）",
-      "zh-TW": "韓式自助（午餐）",
-      "ja": "韓国式ビュッフェ（ランチ）",
-      "yue": "韓式自助餐（午餐）"
-     },
-     "price": 8000,
-     "signature": true,
-     "teaId": null
-    },
-    {
-     "name": {
-      "ko": "홍콩 밀크티 (저녁)",
-      "en": "Hong Kong milk tea (evening)",
-      "zh-CN": "港式奶茶（晚间）",
-      "zh-TW": "港式奶茶（晚間）",
-      "ja": "香港ミルクティー（夜）",
-      "yue": "港式奶茶（夜晚）"
-     },
-     "price": null,
-     "signature": true,
-     "teaId": "blend-hongkong"
-    },
-    {
-     "name": {
-      "ko": "식권 10+1",
-      "en": "Meal ticket 10+1",
-      "zh-CN": "餐券 10+1",
-      "zh-TW": "餐券 10+1",
-      "ja": "食券 10+1",
-      "yue": "餐券 10+1"
-     },
-     "price": 80000,
      "signature": false,
      "teaId": null
     }

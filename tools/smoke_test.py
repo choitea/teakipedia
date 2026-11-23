@@ -192,10 +192,7 @@ CHECK = r"""
     var others = document.querySelector('#partnerShops');
     var pin = pinned ? pinned.innerHTML : '';
     out.pinnedHtml = pin.length;
-    out.pinnedOrder =
-      pin.indexOf('홍콩티') >= 0 && pin.indexOf('풍성한뷔페') >= 0
-        ? (pin.indexOf('홍콩티') < pin.indexOf('풍성한뷔페') ? 'hongkong-first' : 'pungsungh-first')
-        : 'missing';
+    out.pinnedOrder = pin.indexOf('홍콩티') >= 0 ? 'hongkong-first' : 'missing';
     out.partnerShopsHtml = others ? others.innerHTML.length : -1;
     out.partnerShopsText = others ? others.innerHTML.indexOf('준비 중') >= 0 : false;
     var othersHead = document.querySelector('#partnerOthersHead');
@@ -284,15 +281,15 @@ def main():
     print(json.dumps(result, ensure_ascii=False, indent=2))
     ok = (
         not result["errors"]
-        and result["teas"] == 152
-        and result["teaWithPhoto"] == 152
-        and result["teaWithCountry"] == 152
+        and result["teas"] == 195
+        and result["teaWithPhoto"] == 195
+        and result["teaWithCountry"] == 195
         and result["teaListHtml"] > 1000
         and result["storeHtml"] > 1000
         and result["memberHtml"] > 100
         and result["lensHtml"] > 100
-        and result["leafCount"] == "152"
-        and result["yueCantonese"] == 152
+        and result["leafCount"] == "195"
+        and result["yueCantonese"] == 195
         and result["pinnedOrder"] == "hongkong-first"
         and result["pinnedHtml"] > 200
         and result["partnerShopsText"] is True
