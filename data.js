@@ -18800,123 +18800,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "oolong-wolchul",
-    "group": "oolong",
-    "kind": "tea",
-    "hanja": "月",
-    "sub": "Wolchulhyang",
-    "alias": [
-      "월출산 우롱",
-      "강진 월출향",
-      "Wolchulhyang",
-      "月出香"
-    ],
-    "hz": "月出香",
-    "hs": "月出香",
-    "rom": "Wolchulhyang",
-    "temp": 90,
-    "tempRange": "85~90℃",
-    "leaf": "5g",
-    "water": "150ml",
-    "steeps": [
-      60,
-      45,
-      60
-    ],
-    "maxSteep": 5,
-    "oxidationValue": 35,
-    "traits": "t-afternoon a-floral a-roast b-medium k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "위조 → 요청 → 살청 → 유념 → 건조. 강진 잎을 반발효로 만든 우롱 스타일 차입니다.",
-        "월출산의 이름을 딴 강진의 지역 차로, 녹차 일변도에서 넓어지는 한국 차 제법의 한 갈래입니다."
-      ],
-      "en": [
-        "Withering → bruising → firing → rolling → drying — Gangjin leaf as a half-oxidised oolong-style tea.",
-        "A Gangjin regional tea named for Mt. Wolchul, part of Korean tea craft widening beyond green tea."
-      ],
-      "zh-CN": [
-        "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。康津叶做的半发酵乌龙风格茶。",
-        "以月出山命名的康津地域茶，是韩国茶工艺走出绿茶单一格局的一支。"
-      ],
-      "zh-TW": [
-        "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。康津葉做的半發酵烏龍風格茶。",
-        "以月出山命名的康津地域茶，是韓國茶工藝走出綠茶單一格局的一支。"
-      ]
-    },
-    "ko": {
-      "name": "월출향",
-      "oneLine": "전남 강진 월출산 자락의 우롱 스타일 차 — 산의 이름을 딴 지역 차.",
-      "oxidation": "약 35%",
-      "ratioNote": "150ml에 5g",
-      "rounds": "5회",
-      "steepBasis": "90도에서 1분, 2포 45초, 3포 1분.",
-      "origin": "전라남도 강진, 월출산 자락의 차밭. 남해의 해풍과 산안개가 잎을 기릅니다.",
-      "process": "위조 → 요청 → 살청 → 유념 → 건조. 강진의 잎을 반발효 우롱으로 만듭니다.",
-      "story": "다산 정약용의 차 문화가 남은 강진에서, 월출산의 이름을 따 만든 우롱 스타일의 지역 차입니다.",
-      "flavor": "은은한 꽃향과 구운 곡물의 고소함, 부드러운 단맛.",
-      "pairing": "한과, 떡, 가벼운 한식.",
-      "brewTip": "85~90도. 강진 녹차보다 길게 우려 향을 끌어냅니다.",
-      "keep": "밀봉 냉장. 개봉 후 한 달 안.",
-      "keywords": "월출향 강진 월출산 우롱 한국"
-    },
-    "en": {
-      "name": "Wolchulhyang",
-      "oneLine": "An oolong-style tea from the foot of Mt. Wolchul in Gangjin — a regional tea named for its mountain.",
-      "oxidation": "About 35%",
-      "ratioNote": "5 g to 150 ml",
-      "rounds": "5 infusions",
-      "steepBasis": "90 °C for 1 minute, then 45 seconds, then 1 minute.",
-      "origin": "Gangjin, South Jeolla, in gardens below Mt. Wolchul, fed by sea wind and mountain mist.",
-      "process": "Withering → bruising → firing → rolling → drying; Gangjin leaf made as a half-oxidised oolong.",
-      "story": "A regional oolong-style tea from Gangjin, home to Dasan Jeong Yak-yong's tea culture, named after Mt. Wolchul.",
-      "flavor": "Soft flowers, roasted grain and a gentle sweetness.",
-      "pairing": "Hangwa, rice cakes, light Korean dishes.",
-      "brewTip": "85–90 °C; steep longer than Gangjin green tea to draw out the aroma.",
-      "keep": "Sealed and refrigerated; within a month of opening.",
-      "keywords": "Wolchulhyang Gangjin Mt. Wolchul oolong Korea"
-    },
-    "zh-CN": {
-      "name": "月出香",
-      "oneLine": "全罗南道康津月出山脚的乌龙风格茶——以山为名的地域茶。",
-      "oxidation": "约35%",
-      "ratioNote": "150毫升配5克",
-      "rounds": "5泡",
-      "steepBasis": "90度泡1分钟，第二泡45秒，第三泡1分钟。",
-      "origin": "全罗南道康津，月出山脚的茶园，南海的海风与山雾养叶。",
-      "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。康津叶做的半发酵乌龙。",
-      "story": "在茶山丁若镛茶文化留存的康津，以月出山命名的乌龙风格地域茶。",
-      "flavor": "淡淡花香与烤谷物的香、柔和的甜。",
-      "pairing": "韩果、年糕、清淡韩餐。",
-      "brewTip": "85~90度。比康津绿茶泡久一些引出香气。",
-      "keep": "密封冷藏，开封后一个月内。",
-      "keywords": "月出香 康津 月出山 乌龙 韩国"
-    },
-    "zh-TW": {
-      "name": "月出香",
-      "oneLine": "全羅南道康津月出山腳的烏龍風格茶——以山為名的地域茶。",
-      "oxidation": "約35%",
-      "ratioNote": "150毫升配5公克",
-      "rounds": "5泡",
-      "steepBasis": "90度泡1分鐘，第二泡45秒，第三泡1分鐘。",
-      "origin": "全羅南道康津，月出山腳的茶園，南海的海風與山霧養葉。",
-      "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。康津葉做的半發酵烏龍。",
-      "story": "在茶山丁若鏞茶文化留存的康津，以月出山命名的烏龍風格地域茶。",
-      "flavor": "淡淡花香與烤穀物的香、柔和的甜。",
-      "pairing": "韓果、年糕、清淡韓餐。",
-      "brewTip": "85~90度。比康津綠茶泡久一些引出香氣。",
-      "keep": "密封冷藏，開封後一個月內。",
-      "keywords": "月出香 康津 月出山 烏龍 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "black-chuanhong",
     "group": "black",
     "kind": "tea",
@@ -19384,124 +19267,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "cn"
   },
   {
-    "id": "black-jindancong",
-    "group": "black",
-    "kind": "tea",
-    "hanja": "金",
-    "sub": "Jin Dancong Black Tea",
-    "alias": [
-      "조주 홍차",
-      "차오저우 홍차",
-      "Jin Dancong",
-      "金單叢",
-      "潮州紅茶"
-    ],
-    "hz": "金單叢",
-    "hs": "金单丛",
-    "rom": "Jin Dancong (Chaozhou Black Tea)",
-    "temp": 90,
-    "tempRange": "85~90℃",
-    "leaf": "5g",
-    "water": "150ml",
-    "steeps": [
-      45,
-      30,
-      45
-    ],
-    "maxSteep": 5,
-    "oxidationValue": 85,
-    "traits": "t-afternoon a-floral a-fruit b-medium k-sweet r-clean s-hot w-gongfu p-dessert c-mid m-refresh",
-    "originCountry": {
-      "ko": "중국",
-      "en": "China",
-      "zh-CN": "中国",
-      "zh-TW": "中國"
-    },
-    "x": {
-      "ko": [
-        "위조 → 유념 → 산화 → 건조. 봉황단총 계통 잎을 완전 산화시킨 '조주 홍차'입니다.",
-        "단총의 향 품종을 홍차로 돌린 최근의 스타일로, 우롱과 홍차의 중간이 아닌 홍차 쪽에 섭니다."
-      ],
-      "en": [
-        "Withering → rolling → oxidation → drying — Phoenix dancong leaf fully oxidised: Chaozhou black tea.",
-        "A recent style that turns dancong's aroma cultivars to black tea, landing on the black-tea side, not halfway."
-      ],
-      "zh-CN": [
-        "萎凋 → 揉捻 → 发酵 → 干燥。凤凰单丛叶全发酵的“潮州红茶”。",
-        "把单丛香型品种做成红茶的新风格，落在红茶一侧而非中间。"
-      ],
-      "zh-TW": [
-        "萎凋 → 揉捻 → 發酵 → 乾燥。鳳凰單叢葉全發酵的「潮州紅茶」。",
-        "把單叢香型品種做成紅茶的新風格，落在紅茶一側而非中間。"
-      ]
-    },
-    "ko": {
-      "name": "금단총",
-      "oneLine": "봉황단총 품종을 홍차로 — 단총의 화려한 꽃·과일 향에 홍차의 단맛.",
-      "oxidation": "약 85%",
-      "ratioNote": "150ml에 5g",
-      "rounds": "5회",
-      "steepBasis": "90도에서 45초, 2포 30초, 3포 45초. 단총처럼 짧게 여러 번 우립니다.",
-      "origin": "광둥성 차오저우(조주), 봉황산 일대의 단총 계통 품종.",
-      "process": "위조 → 유념 → 산화 → 건조. 우롱으로 만들 단총 잎을 홍차의 완전 산화까지 이끕니다.",
-      "story": "조주(차오저우) 지역에서 봉황단총 계통 잎으로 만들기 시작한 홍차로 '조주 홍차'라고도 불리며, 최근 부상하는 스타일입니다.",
-      "flavor": "단총 특유의 난초·과일 향이 화려하게 피어나는 위에 홍차의 둥근 단맛이 겹칩니다.",
-      "pairing": "과일, 가벼운 디저트, 치즈.",
-      "brewTip": "85~90도에서 짧게. 길게 우리면 단총의 향이 무너집니다.",
-      "keep": "밀봉해 서늘하고 건조하게. 향이 날아가기 쉬워 개봉 후 한 달 안.",
-      "keywords": "금단총 조주 홍차 봉황단총 차오저우 광둥"
-    },
-    "en": {
-      "name": "Jin Dancong",
-      "oneLine": "Dancong leaf made as black tea — dancong's flowers and fruit over black-tea sweetness.",
-      "oxidation": "About 85%",
-      "ratioNote": "5 g to 150 ml",
-      "rounds": "5 infusions",
-      "steepBasis": "90 °C for 45 seconds, then 30, then 45 — short and many, like dancong oolong.",
-      "origin": "Chaozhou, Guangdong, from dancong-family bushes around Phoenix Mountain.",
-      "process": "Withering → rolling → oxidation → drying; leaf meant for oolong is taken to full black-tea oxidation.",
-      "story": "A black tea made in the Chaozhou area from Phoenix dancong leaf — also called Chaozhou black tea — and a style on the rise.",
-      "flavor": "Dancong's orchid and fruit in full bloom, layered over the round sweetness of black tea.",
-      "pairing": "Fruit, light desserts, cheese.",
-      "brewTip": "85–90 °C and short; long steeps break the dancong aroma.",
-      "keep": "Sealed, cool and dry; the aroma fades fast — within a month of opening.",
-      "keywords": "Jin Dancong Chaozhou black tea Phoenix dancong Guangdong"
-    },
-    "zh-CN": {
-      "name": "金单丛",
-      "oneLine": "凤凰单丛品种做的红茶——单丛的花果香叠上红茶的甜。",
-      "oxidation": "约85%",
-      "ratioNote": "150毫升配5克",
-      "rounds": "5泡",
-      "steepBasis": "90度泡45秒，第二泡30秒，第三泡45秒。像单丛一样短泡多泡。",
-      "origin": "广东潮州凤凰山一带的单丛品系。",
-      "process": "萎凋 → 揉捻 → 发酵 → 干燥。把做乌龙的单丛叶做到红茶的全发酵。",
-      "story": "潮州地区用凤凰单丛叶做的红茶，又叫潮州红茶，是近年兴起的风格。",
-      "flavor": "单丛标志性的兰花与水果香盛开，底下是红茶圆润的甜。",
-      "pairing": "水果、清淡甜点、奶酪。",
-      "brewTip": "85~90度短泡，泡久了单丛香会散。",
-      "keep": "密封、阴凉干燥，香气易散，开封后一个月内。",
-      "keywords": "金单丛 潮州红茶 凤凰单丛 广东"
-    },
-    "zh-TW": {
-      "name": "金單叢",
-      "oneLine": "鳳凰單叢品種做的紅茶——單叢的花果香疊上紅茶的甜。",
-      "oxidation": "約85%",
-      "ratioNote": "150毫升配5公克",
-      "rounds": "5泡",
-      "steepBasis": "90度泡45秒，第二泡30秒，第三泡45秒。像單叢一樣短泡多泡。",
-      "origin": "廣東潮州鳳凰山一帶的單叢品系。",
-      "process": "萎凋 → 揉捻 → 發酵 → 乾燥。把做烏龍的單叢葉做到紅茶的全發酵。",
-      "story": "潮州地區用鳳凰單叢葉做的紅茶，又叫潮州紅茶，是近年興起的風格。",
-      "flavor": "單叢標誌性的蘭花與水果香盛開，底下是紅茶圓潤的甜。",
-      "pairing": "水果、清淡甜點、起司。",
-      "brewTip": "85~90度短泡，泡久了單叢香會散。",
-      "keep": "密封、陰涼乾燥，香氣易散，開封後一個月內。",
-      "keywords": "金單叢 潮州紅茶 鳳凰單叢 廣東"
-    },
-    "originCountryCode": "cn"
-  },
-  {
     "id": "black-hongyun",
     "group": "black",
     "kind": "tea",
@@ -19749,12 +19514,10 @@ window.TEAFaiData = (function () {
     "oolong-ruby": "t-afternoon t-night a-roast a-fruit b-medium k-sweet r-clean s-hot w-gongfu p-dessert c-mid m-cozy",
     "oolong-jeju": "t-morning t-afternoon a-floral a-herb b-light k-sweet r-clean s-hot w-gongfu p-meal c-mid m-refresh",
     "oolong-cheong": "t-morning t-afternoon a-floral a-grass b-light k-sweet r-clean s-hot s-iced w-gongfu p-solo c-mid m-refresh",
-    "oolong-wolchul": "t-afternoon a-floral a-roast b-medium k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
     "black-chuanhong": "t-morning t-afternoon a-floral a-malt b-full k-sweet r-clean s-hot w-quick p-meal c-high m-energy",
     "black-yixing": "t-morning t-afternoon a-floral b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
     "black-jiuqu": "t-afternoon a-fruit a-floral b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-cozy",
     "black-mizhuan": "t-morning a-malt b-full k-blend r-clean s-hot s-milk w-quick p-meal c-high m-energy",
-    "black-jindancong": "t-afternoon a-floral a-fruit b-medium k-sweet r-clean s-hot w-gongfu p-dessert c-mid m-refresh",
     "black-hongyun": "t-morning t-afternoon a-fruit a-floral b-full k-sweet r-clean s-hot s-milk w-quick p-meal c-high m-energy",
     "black-ziya": "t-afternoon a-herb a-fruit b-medium k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
     "oolong-dancong-huangzhi": "t-afternoon t-night a-floral a-fruit b-medium k-sweet r-clean s-hot w-gongfu p-dessert c-high m-refresh",
@@ -20628,14 +20391,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "oolong-wolchul":   {
-    "f": "oolong-wolchul.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "black-chuanhong":   {
     "f": "black-chuanhong.jpg",
     "m": "family",
@@ -20662,14 +20417,6 @@ window.TEAFaiData = (function () {
   },
   "black-mizhuan":   {
     "f": "black-mizhuan.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "black-jindancong":   {
-    "f": "black-jindancong.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -22289,15 +22036,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "oolong-wolchul":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "black-chuanhong":   {
     "ko": "중국",
     "en": "China",
@@ -22326,15 +22064,6 @@ window.TEAFaiData = (function () {
     "code": "cn"
   },
   "black-mizhuan":   {
-    "ko": "중국",
-    "en": "China",
-    "zh-CN": "中国",
-    "zh-TW": "中國",
-    "yue": "中國",
-    "ja": "中国",
-    "code": "cn"
-  },
-  "black-jindancong":   {
     "ko": "중국",
     "en": "China",
     "zh-CN": "中国",
