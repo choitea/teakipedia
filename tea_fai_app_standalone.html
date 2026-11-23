@@ -3776,8 +3776,7 @@ body.modal-open {
   gap: 3px;
   flex: 0 1 auto;
   min-width: 0;
-  overflow-x: auto;
-  scrollbar-width: none;
+  overflow: visible;
 }
 
 .lang-switch::-webkit-scrollbar {
@@ -5219,6 +5218,10 @@ body.modal-open {
   .brand-name {
     font-size: 15px;
   }
+  /* 아주 좁은 화면에서는 국기를 빼고 이름만으로 폭에 맞춥니다 */
+  .lang-flag {
+    display: none;
+  }
 }
 
 /* ---------- 회원 등급 3단계 카드 ---------- */
@@ -5246,19 +5249,26 @@ body.modal-open {
   }
 }
 
-/* ---------- 언어 버튼 6개: 모바일에서도 국기 + 짧은 이름(한/EN/简/繁/日/粵) ---------- */
+/* ---------- 언어 버튼 6개: 폰 폭에 맞춰 한 줄에 고정 (횡스크롤 없음) ---------- */
 @media (max-width: 899px) {
   .app-header .lang-switch {
     justify-content: space-between;
-    padding: 4px 7px;
+    flex-wrap: nowrap;
+    gap: 2px;
+    padding: 3px 4px;
     background: rgba(36, 62, 50, 0.05);
   }
   .lang-btn {
-    flex: 1 1 0;
+    flex: 0 0 auto;
     justify-content: center;
-    padding: 4px 3px;
-    font-size: 10.5px;
-    gap: 3px;
+    padding: 3px 3px;
+    font-size: 10px;
+    gap: 2px;
+    letter-spacing: -0.01em;
+  }
+  .lang-flag {
+    width: 13px;
+    height: 9px;
   }
 }
 @media (max-width: 430px) {
