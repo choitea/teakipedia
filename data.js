@@ -14838,123 +14838,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "green-dancha",
-    "group": "green",
-    "kind": "tea",
-    "hanja": "團",
-    "sub": "Dancha (Tea Cake)",
-    "alias": [
-      "떡차",
-      "병차",
-      "고려 단차",
-      "團茶"
-    ],
-    "hz": "團茶",
-    "hs": "团茶",
-    "rom": "Dancha",
-    "temp": 80,
-    "tempRange": "75~85℃",
-    "leaf": "5g",
-    "water": "150ml",
-    "steeps": [
-      60,
-      45,
-      60
-    ],
-    "maxSteep": 3,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-grass a-roast b-medium k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "증청 → 찧기 → 빚기 → 건조. 찐 잎을 떡처럼 굳힌 고려의 차입니다.",
-        "고려에서는 백차라고도 불렀고, 송나라 말차 문화의 영향을 받았습니다. 현대에 복원해 만드는 시도가 있습니다."
-      ],
-      "en": [
-        "Steamed → pounded → pressed → dried. Goryeo's cake tea of steamed leaf set into cakes.",
-        "Also called baekcha in Goryeo; shaped by Song-dynasty powdered-tea culture and revived by modern makers."
-      ],
-      "zh-CN": [
-        "蒸青 → 捣碎 → 压制 → 干燥。把蒸过的叶子做成饼状的高丽茶。",
-        "高丽时也称白茶，受宋代抹茶文化影响，现代有人复原制作。"
-      ],
-      "zh-TW": [
-        "蒸青 → 搗碎 → 壓製 → 乾燥。把蒸過的葉子做成餅狀的高麗茶。",
-        "高麗時也稱白茶，受宋代抹茶文化影響，現代有人復原製作。"
-      ]
-    },
-    "ko": {
-      "name": "단차",
-      "oneLine": "찐 잎을 찧어 떡처럼 빚어 말린 고려의 떡차.",
-      "oxidation": "0%",
-      "ratioNote": "150ml에 5g",
-      "rounds": "3회",
-      "steepBasis": "덩어리를 부숴 80도 물에 1분 안팎으로 우려내거나, 곱게 갈아 가루를 물에 풀어 마십니다.",
-      "origin": "고려의 차 산지였던 전라도·경상도 일대. 현대에는 전남 등지에서 복원해 만듭니다.",
-      "process": "증청 → 찧기 → 틀에 찍어 빚기 → 건조. 찐 잎을 절구에 찧어 덩어리로 굳힙니다.",
-      "story": "고려에서는 단차를 백차(白茶)라고도 불렀습니다. 송나라의 말차 문화가 들어와 고려의 다례와 함께 발전했고, 현대에 복원 시도가 이어지고 있습니다.",
-      "flavor": "찐 잎의 구수함과 덖은 듯한 향. 가루로 마시면 진한 감칠맛이 납니다.",
-      "pairing": "떡, 한과 같은 전통 다식. 단독으로 마시는 경우가 많습니다.",
-      "brewTip": "덩어리는 잘게 부술수록 잘 우러납니다. 가루로 풀 때는 80도 안팎의 물이 좋습니다.",
-      "keep": "밀봉해 서늘하고 건조한 곳에. 덩어리차는 장기 보관이 가능합니다.",
-      "keywords": "단차 떡차 병차 고려 백차 가루차"
-    },
-    "en": {
-      "name": "Dancha (Tea Cake)",
-      "oneLine": "Goryeo's cake tea — steamed leaves pounded and pressed into cakes.",
-      "oxidation": "0%",
-      "ratioNote": "5 g to 150 ml",
-      "rounds": "3 infusions",
-      "steepBasis": "Crumble the cake and steep at 80 °C for about a minute, or grind it fine and stir the powder into water.",
-      "origin": "The old tea regions of Goryeo; revived today in Jeolla and elsewhere in Korea.",
-      "process": "Steaming, pounding, pressing in molds, drying — the steamed leaf is pounded into a solid cake.",
-      "story": "In Goryeo it was also called baekcha ('white tea'). Song-dynasty powdered-tea culture shaped it, and modern makers are reviving it.",
-      "flavor": "Toasty savor of steamed leaf; rich umami when taken as powder.",
-      "pairing": "Traditional sweets such as tteok and hangwa; often drunk on its own.",
-      "brewTip": "Crumble small for an even brew; around 80 °C for the powdered style.",
-      "keep": "Sealed, cool and dry; cake teas keep for a long time.",
-      "keywords": "Dancha Korean cake tea Goryeo pressed tea"
-    },
-    "zh-CN": {
-      "name": "团茶",
-      "oneLine": "把蒸过的叶子捣碎、压成饼的高丽团茶。",
-      "oxidation": "0%",
-      "ratioNote": "150毫升配5克",
-      "rounds": "3泡",
-      "steepBasis": "把茶饼掰碎，用80度水泡约1分钟；或磨成粉，冲水调匀饮用。",
-      "origin": "高丽产茶地全罗道、庆尚道一带，现代在全罗南道等地复原制作。",
-      "process": "蒸青 → 捣碎 → 入模压制 → 干燥，把蒸叶捣成团块。",
-      "story": "高丽时团茶也称白茶。宋代抹茶文化传入后与高丽茶礼一同发展，现代仍有复原尝试。",
-      "flavor": "蒸叶的醇香与焙香，磨成粉饮用时鲜味浓厚。",
-      "pairing": "年糕、韩果等传统茶点，多单独饮用。",
-      "brewTip": "茶团掰得越碎越易出味，磨粉冲泡以80度左右为宜。",
-      "keep": "密封置于阴凉干燥处，团茶可长期保存。",
-      "keywords": "团茶 饼茶 高丽 白茶 粉茶"
-    },
-    "zh-TW": {
-      "name": "團茶",
-      "oneLine": "把蒸過的葉子搗碎、壓成餅的高麗團茶。",
-      "oxidation": "0%",
-      "ratioNote": "150毫升配5克",
-      "rounds": "3泡",
-      "steepBasis": "把茶餅掰碎，用80度水泡約1分鐘；或磨成粉，沖水調勻飲用。",
-      "origin": "高麗產茶地全羅道、慶尚道一帶，現代在全羅南道等地復原製作。",
-      "process": "蒸青 → 搗碎 → 入模壓製 → 乾燥，把蒸葉搗成團塊。",
-      "story": "高麗時團茶也稱白茶。宋代抹茶文化傳入後與高麗茶禮一同發展，現代仍有復原嘗試。",
-      "flavor": "蒸葉的醇香與焙香，磨成粉飲用時鮮味濃厚。",
-      "pairing": "年糕、韓果等傳統茶點，多單獨飲用。",
-      "brewTip": "茶團掰得越碎越易出味，磨粉沖泡以80度左右為宜。",
-      "keep": "密封置於陰涼乾燥處，團茶可長期保存。",
-      "keywords": "團茶 餅茶 高麗 白茶 粉茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "green-tencha",
     "group": "green",
     "kind": "tea",
@@ -19663,8 +19546,7 @@ window.TEAFaiData = (function () {
     "oolong-yunnan": "t-afternoon a-floral a-malt b-full k-sweet r-clean s-hot w-gongfu p-meal c-high m-cozy",
     "oolong-darjeeling": "t-afternoon a-floral a-fruit b-light k-sweet r-clean s-hot w-quick p-solo c-mid m-refresh",
     "green-chunseol": "t-morning t-afternoon a-grass a-floral b-light k-sweet r-clean s-hot w-quick p-solo c-mid m-calm",
-    "green-dancha": "t-afternoon a-grass a-roast b-medium k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
-    "green-tencha": "t-morning t-afternoon a-grass a-herb b-light k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
+        "green-tencha": "t-morning t-afternoon a-grass a-herb b-light k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
     "green-funmatsu": "t-morning t-afternoon a-grass b-medium k-crisp r-clean s-hot s-iced w-quick p-meal c-mid m-refresh",
     "green-konacha": "t-afternoon a-grass b-medium k-crisp r-clean s-hot w-quick p-meal c-mid m-refresh",
     "green-eunjeong": "t-morning t-afternoon a-grass b-light k-sweet r-clean s-hot w-quick p-solo c-mid m-calm",
@@ -20758,15 +20640,7 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "green-dancha":   {
-    "f": "green-dancha.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "green-tencha":   {
+    "green-tencha":   {
     "f": "green-tencha.jpg",
     "m": "family",
     "cr": "",
@@ -22442,16 +22316,7 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "green-dancha":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "green-tencha":   {
+    "green-tencha":   {
     "ko": "일본",
     "en": "Japan",
     "zh-CN": "日本",
