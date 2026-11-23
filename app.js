@@ -1064,7 +1064,7 @@
 
     orderedGroups().forEach(function (g) {
       if (guideState.filter !== "all" && guideState.filter !== g.id) return;
-      var cards = [g].concat(sortedTeas(g.id)).filter(function (item) {
+      var cards = sortedTeas(g.id).filter(function (item) {
         if (!q) return true;
         return haystack(item).indexOf(q) >= 0;
       });
