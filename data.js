@@ -19514,17 +19514,17 @@ window.TEAFaiData = (function () {
       "brewTip": "Brew in glass to watch the pearls unfurl; give the first steep time to open.",
       "flavor": "Clear jasmine floral over a gentle vegetal sweetness. Pale cream liquor.",
       "keep": "Sealed and cool — the scent fades fast; finish within two to three months of opening.",
-      "keywords": "jasmine dragon pearls oolong Thailand Mae Salong scented",
+      "keywords": "jasmine dragon pearls oolong Taiwan scented",
       "name": "Jasmine Dragon Pearls Oolong",
       "oneLine": "Lightly oxidised oolong rolled into pearls and scented with jasmine.",
-      "origin": "Doi Mae Salong highlands, Chiang Rai, northern Thailand, 1,200–1,600 m. Large-leaf assamica plants.",
+      "origin": "Produced in Taiwan from lightly oxidised oolong rolled into pearls.",
       "oxidation": "About 20%",
       "pairing": "Dim sum, light desserts, fruit. Heavy food overwhelms its delicacy.",
       "process": "Withering, light oxidation, rolling leaf and bud into pearls, drying, then scenting with fresh jasmine blossom.",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 or more infusions",
       "steepBasis": "85–90 °C: 2 minutes, then 1½, then 2. The pearls open slowly and the scent blooms with them.",
-      "story": "Jasmine dragon pearls made their name in Fujian on a green-tea base; at Santikhiri (formerly Mae Salong) the pearls are made on a lightly oxidised oolong base, so a soft oolong body carries the jasmine."
+      "story": "Jasmine dragon pearls made their name in Fujian on a green-tea base; the Taiwanese kind is made on a lightly oxidised oolong base, so a soft oolong body carries the jasmine."
     },
     "group": "oolong",
     "hanja": "珠",
@@ -19536,27 +19536,27 @@ window.TEAFaiData = (function () {
       "brewTip": "유리 다구로 우리면 구슬이 풀리는 모습까지 즐길 수 있습니다. 첫 포는 구슬이 열리는 시간이 필요합니다.",
       "flavor": "맑은 자스민 꽃향과 은은한 풀 내음, 부드러운 단맛. 물색은 옅은 크림빛입니다.",
       "keep": "향이 날아가기 쉬워 밀봉해 서늘하게, 개봉 후 두세 달 안에 드세요.",
-      "keywords": "자스민 용주 우롱 말리 태국 매살롱 구슬차",
+      "keywords": "자스민 용주 우롱 말리 대만 구슬차",
       "name": "자스민 용주",
       "oneLine": "가볍게 산화시킨 우롱을 구슬처럼 말아 자스민 향을 입힌 차.",
-      "origin": "태국 북부 치앙라이 도이매살롱 고산지대, 해발 1,200~1,600m. 대엽종(아사미카) 찻잎을 씁니다.",
+      "origin": "대만에서 생산됩니다. 가볍게 산화시킨 우롱 찻잎을 구슬처럼 말아 만듭니다.",
       "oxidation": "약 20%",
       "pairing": "딤섬, 가벼운 디저트, 과일. 향이 섬세해 진한 음식과는 부딪힙니다.",
       "process": "위조 → 가벼운 산화 → 잎과 싹을 구슬 모양으로 말기 → 건조 → 생자스민 꽃으로 흡향.",
       "ratioNote": "150ml에 3g",
       "rounds": "3회 이상",
       "steepBasis": "85~90도에서 1포 2분, 2포 1분 30초, 3포 2분. 구슬이 천천히 풀리며 향이 번집니다.",
-      "story": "자스민 용주는 원래 푸젠에서 녹차를 말아 만든 차로 이름났지만, 산티키리(옛 매살롱)에서는 우롱을 소차로 쓴 용주가 만들어집니다. 자스민 향 아래로 우롱의 부드러움이 받쳐 주는 것이 다릅니다."
+      "story": "자스민 용주는 원래 푸젠에서 녹차를 말아 만든 차로 이름났지만, 대만의 용주는 우롱을 소차로 써서, 자스민 향 아래로 우롱의 부드러움이 받쳐 주는 것이 다릅니다."
     },
     "leaf": "3g",
     "maxSteep": 3,
     "originCountry": {
-      "en": "Thailand",
-      "ko": "태국",
-      "zh-CN": "泰国",
-      "zh-TW": "泰國"
+      "en": "Taiwan",
+      "ko": "대만",
+      "zh-CN": "台湾",
+      "zh-TW": "台灣"
     },
-    "originCountryCode": "th",
+    "originCountryCode": "tw",
     "oxidationValue": 20,
     "rom": "Moli Longzhu Oolong",
     "steeps": [
@@ -19572,52 +19572,52 @@ window.TEAFaiData = (function () {
     "x": {
       "en": [
         "A lightly oxidised oolong rolled into pearls and scented with fresh jasmine blossom.",
-        "Jasmine dragon pearls are usually green-tea based (Fujian); the Santikhiri pearls of northern Thailand are the rarer oolong-based kind."
+        "Jasmine dragon pearls are usually green-tea based (Fujian); the Taiwanese kind uses an oolong base, which is rarer."
       ],
       "ko": [
         "가볍게 산화시킨 우롱을 구슬 모양으로 말아, 생자스민 꽃으로 향을 입힌(흡향) 차입니다.",
-        "자스민 용주는 보통 푸젠의 녹차 소차가 유명하지만, 태국 북부 산티키리의 것은 우롱 소차를 쓴 드문 경우입니다."
+        "자스민 용주는 보통 푸젠의 녹차 소차가 유명하지만, 대만의 것은 우롱 소차를 쓴 드문 경우입니다."
       ],
       "zh-CN": [
         "轻发酵乌龙揉成龙珠形，再以新鲜茉莉花窨制。",
-        "茉莉龙珠多以福建绿茶为茶坯，泰国北部 Santikhiri 的这一款则以乌龙为坯，较为少见。"
+        "茉莉龙珠多以福建绿茶为茶坯，台湾的这一款则以乌龙为坯，较为少见。"
       ],
       "zh-TW": [
         "輕發酵烏龍揉成龍珠形，再以新鮮茉莉花窨製。",
-        "茉莉龍珠多以福建綠茶為茶坯，泰國北部 Santikhiri 的這一款則以烏龍為坯，較為少見。"
+        "茉莉龍珠多以福建綠茶為茶坯，臺灣的這一款則以烏龍為坯，較為少見。"
       ]
     },
     "zh-CN": {
       "brewTip": "用玻璃茶具冲泡，可欣赏龙珠舒展。第一泡要留足展开的时间。",
       "flavor": "茉莉花香清雅，带淡淡青甜，汤色浅乳白。",
       "keep": "花香易散，密封阴凉保存，开封后两三个月内喝完。",
-      "keywords": "茉莉龙珠 乌龙 泰国 美斯乐 窨花",
+      "keywords": "茉莉龙珠 乌龙 台湾 窨花",
       "name": "茉莉龙珠乌龙",
       "oneLine": "轻发酵乌龙揉成龙珠，再窨入茉莉花香。",
-      "origin": "泰国北部清莱 Doi Mae Salong 高山，海拔1,200~1,600米，采用大叶种（阿萨姆种）茶树。",
+      "origin": "产于台湾，以轻发酵乌龙揉成龙珠。",
       "oxidation": "约20%",
       "pairing": "点心、清淡甜品、水果。味道浓重的食物会盖过它的细腻。",
       "process": "萎凋 → 轻发酵 → 把叶芽揉成龙珠 → 干燥 → 以新鲜茉莉花窨制。",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡以上",
       "steepBasis": "85~90度，第一泡2分钟，第二泡1分半，第三泡2分钟。龙珠慢慢舒展，花香随之散开。",
-      "story": "茉莉龙珠原以福建绿茶茶坯闻名，Santikhiri（旧称美斯乐）则以轻发酵乌龙为坯，茉莉香之下多了乌龙的柔润。"
+      "story": "茉莉龙珠原以福建绿茶茶坯闻名，台湾的这一款则以轻发酵乌龙为坯，茉莉香之下多了乌龙的柔润。"
     },
     "zh-TW": {
       "brewTip": "用玻璃茶具沖泡，可欣賞龍珠舒展。第一泡要留足展開的時間。",
       "flavor": "茉莉花香清雅，帶淡淡青甜，湯色淺乳白。",
       "keep": "花香易散，密封陰涼保存，開封後兩三個月內喝完。",
-      "keywords": "茉莉龍珠 烏龍 泰國 美斯樂 窨花",
+      "keywords": "茉莉龍珠 烏龍 臺灣 窨花",
       "name": "茉莉龍珠烏龍",
       "oneLine": "輕發酵烏龍揉成龍珠，再窨入茉莉花香。",
-      "origin": "泰國北部清萊 Doi Mae Salong 高山，海拔1,200~1,600米，採用大葉種（阿薩姆種）茶樹。",
+      "origin": "產於臺灣，以輕發酵烏龍揉成龍珠。",
       "oxidation": "約20%",
       "pairing": "點心、清淡甜品、水果。味道濃重的食物會蓋過它的細膩。",
       "process": "萎凋 → 輕發酵 → 把葉芽揉成龍珠 → 乾燥 → 以新鮮茉莉花窨製。",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡以上",
       "steepBasis": "85~90度，第一泡2分鐘，第二泡1分半，第三泡2分鐘。龍珠慢慢舒展，花香隨之散開。",
-      "story": "茉莉龍珠原以福建綠茶茶坯聞名，Santikhiri（舊稱美斯樂）則以輕發酵烏龍為坯，茉莉香之下多了烏龍的柔潤。"
+      "story": "茉莉龍珠原以福建綠茶茶坯聞名，臺灣的這一款則以輕發酵烏龍為坯，茉莉香之下多了烏龍的柔潤。"
     }
   }
 ];
@@ -22119,13 +22119,13 @@ window.TEAFaiData = (function () {
     "code": "cn"
   },
   "oolong-jasmine":   {
-    "code": "th",
-    "en": "Thailand",
-    "ja": "タイ",
-    "ko": "태국",
-    "yue": "泰國",
-    "zh-CN": "泰国",
-    "zh-TW": "泰國"
+    "code": "tw",
+    "en": "Taiwan",
+    "ja": "台湾",
+    "ko": "대만",
+    "yue": "台灣",
+    "zh-CN": "台湾",
+    "zh-TW": "台灣"
   },
   "oolong-assam":   {
     "ko": "인도",

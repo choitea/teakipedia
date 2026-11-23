@@ -803,6 +803,7 @@
     var root = document.documentElement;
     if (root && root.style && typeof root.style.setProperty === "function") {
       root.style.setProperty("--guide-top", h + "px");
+      root.style.setProperty("--header-live", h + "px");
     }
   }
 

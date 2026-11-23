@@ -5144,7 +5144,16 @@ body.modal-open {
 /* 모바일 헤더가 두 줄이 되므로 본문 상단 여백도 그에 맞춥니다 */
 @media (max-width: 899px) {
   .viewport {
-    padding-top: calc(92px + var(--safe-top));
+    padding-top: var(--header-live, calc(92px + var(--safe-top)));
+  }
+
+  /* 차 백과: 탭 블록이 처음부터 고정 위치에 있어 스크롤해도 움직이지 않습니다 */
+  #view-guide {
+    padding-top: 0;
+  }
+
+  .guide-sticky {
+    padding-top: 6px;
   }
 }
 
