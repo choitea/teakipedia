@@ -380,7 +380,7 @@
     var wrap = $("#groupChips");
     if (!wrap) return;
     wrap.innerHTML = "";
-    D.groups.forEach(function (g) {
+    orderedGroups().forEach(function (g) {
       var btn = document.createElement("button");
       btn.type = "button";
       btn.className = "chip small";
@@ -3394,7 +3394,7 @@
     if (sel) {
       var prev = sel.value;
       var html = '<option value="">' + esc(t("comm.subjectNone")) + "</option>";
-      D.groups.forEach(function (g) {
+      orderedGroups().forEach(function (g) {
         html += '<optgroup label="' + esc(g.name) + '">';
         sortedTeas(g.id).forEach(function (tea) {
           html += '<option value="tea:' + esc(tea.id) + '">' + esc(tea.name) + "</option>";
