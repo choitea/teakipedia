@@ -208,6 +208,9 @@
         '<h1 class="culture-title">' +
         esc(cultureField(art.title)) +
         "</h1>" +
+        '<img class="culture-hero" src="' +
+        esc(art.img || "images/culture/" + art.id + ".jpg") +
+        '" alt="" loading="lazy">' +
         '<p class="culture-summary">' +
         esc(cultureField(art.summary)) +
         "</p>";
@@ -268,11 +271,13 @@
         out +=
           '<button type="button" class="culture-card" data-culture="' +
           esc(x.id) +
-          '"><b>' +
+          '"><img class="culture-thumb" src="' +
+          esc(x.img || "images/culture/" + x.id + ".jpg") +
+          '" alt="" loading="lazy"><span class="culture-card-txt"><b>' +
           esc(cultureField(x.title)) +
           "</b><span>" +
           esc(cultureField(x.summary)) +
-          "</span></button>";
+          "</span></span></button>";
       });
     });
     listEl.innerHTML = out;

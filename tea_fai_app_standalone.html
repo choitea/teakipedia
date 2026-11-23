@@ -5798,11 +5798,30 @@ h3 {
   background: var(--paper-2);
   border: 1px solid var(--line);
   border-radius: 14px;
-  padding: 14px 16px;
+  padding: 0;
+  overflow: hidden;
   margin: 0 0 10px;
   cursor: pointer;
   color: inherit;
   font: inherit;
+}
+.culture-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+.culture-card-txt {
+  display: block;
+  padding: 12px 16px 14px;
+}
+.culture-hero {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 14px;
+  margin: 4px 0 14px;
 }
 .culture-card b {
   display: block;
@@ -38462,6 +38481,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-korea",
+  "img": "images/culture/culture-korea.jpg",
   "related": [
    "green-sejak",
    "green-hadong"
@@ -38596,6 +38616,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-china-gongfu",
+  "img": "images/culture/culture-china-gongfu.jpg",
   "related": [
    "oolong-dancong",
    "oolong-tieguanyin"
@@ -38730,6 +38751,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-japan-sado",
+  "img": "images/culture/culture-japan-sado.jpg",
   "related": [
    "green-matcha"
   ],
@@ -38863,6 +38885,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-taiwan",
+  "img": "images/culture/culture-taiwan.jpg",
   "related": [
    "oolong-dongding",
    "oolong-baozhong"
@@ -39021,6 +39044,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-hongkong",
+  "img": "images/culture/culture-hongkong.jpg",
   "related": [
    "blend-hongkong"
   ],
@@ -39154,6 +39178,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-britain",
+  "img": "images/culture/culture-britain.jpg",
   "related": [
    "blend-afternoon",
    "blend-englishbreakfast"
@@ -39288,6 +39313,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-india-chai",
+  "img": "images/culture/culture-india-chai.jpg",
   "related": [
    "blend-masala",
    "black-assam"
@@ -39422,6 +39448,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-turkiye",
+  "img": "images/culture/culture-turkiye.jpg",
   "related": [
    "black-rize"
   ],
@@ -39555,6 +39582,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-morocco",
+  "img": "images/culture/culture-morocco.jpg",
   "related": [
    "blend-moroccan-mint"
   ],
@@ -39688,6 +39716,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-russia",
+  "img": "images/culture/culture-russia.jpg",
   "related": [
    "blend-russian-caravan"
   ],
@@ -39710,6 +39739,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-gaiwan",
+  "img": "images/culture/ware-gaiwan.jpg",
   "cat": "ware",
   "title": {
    "ko": "개완 사용법 — 뚜껑 하나로 차 우리기",
@@ -39868,6 +39898,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-pot-cup",
+  "img": "images/culture/ware-pot-cup.jpg",
   "cat": "ware",
   "title": {
    "ko": "다관과 찻잔 고르기 — 재질이 맛을 바꾼다",
@@ -40023,6 +40054,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-gongfu-set",
+  "img": "images/culture/ware-gongfu-set.jpg",
   "cat": "ware",
   "title": {
    "ko": "공부차 다구 세트 — 도구의 이름과 역할",
@@ -40180,6 +40212,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-six-types",
+  "img": "images/culture/basics-six-types.jpg",
   "cat": "basics",
   "title": {
    "ko": "차의 여섯 종류 — 같은 잎, 다른 차",
@@ -40311,6 +40344,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-temp-time",
+  "img": "images/culture/basics-temp-time.jpg",
   "cat": "basics",
   "title": {
    "ko": "물 온도와 우림 시간의 기본",
@@ -40442,6 +40476,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-caffeine",
+  "img": "images/culture/basics-caffeine.jpg",
   "cat": "basics",
   "title": {
    "ko": "카페인과 테아닌 — 차가 주는 차분한 각성",
@@ -40599,6 +40634,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-storage",
+  "img": "images/culture/basics-storage.jpg",
   "cat": "basics",
   "title": {
    "ko": "차 보관법 — 다섯 가지를 피하세요",
@@ -40942,6 +40978,9 @@ window.TEAFaiCulture = [
         '<h1 class="culture-title">' +
         esc(cultureField(art.title)) +
         "</h1>" +
+        '<img class="culture-hero" src="' +
+        esc(art.img || "images/culture/" + art.id + ".jpg") +
+        '" alt="" loading="lazy">' +
         '<p class="culture-summary">' +
         esc(cultureField(art.summary)) +
         "</p>";
@@ -41002,11 +41041,13 @@ window.TEAFaiCulture = [
         out +=
           '<button type="button" class="culture-card" data-culture="' +
           esc(x.id) +
-          '"><b>' +
+          '"><img class="culture-thumb" src="' +
+          esc(x.img || "images/culture/" + x.id + ".jpg") +
+          '" alt="" loading="lazy"><span class="culture-card-txt"><b>' +
           esc(cultureField(x.title)) +
           "</b><span>" +
           esc(cultureField(x.summary)) +
-          "</span></button>";
+          "</span></span></button>";
       });
     });
     listEl.innerHTML = out;

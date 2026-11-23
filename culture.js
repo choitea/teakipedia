@@ -113,6 +113,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-korea",
+  "img": "images/culture/culture-korea.jpg",
   "related": [
    "green-sejak",
    "green-hadong"
@@ -247,6 +248,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-china-gongfu",
+  "img": "images/culture/culture-china-gongfu.jpg",
   "related": [
    "oolong-dancong",
    "oolong-tieguanyin"
@@ -381,6 +383,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-japan-sado",
+  "img": "images/culture/culture-japan-sado.jpg",
   "related": [
    "green-matcha"
   ],
@@ -514,6 +517,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-taiwan",
+  "img": "images/culture/culture-taiwan.jpg",
   "related": [
    "oolong-dongding",
    "oolong-baozhong"
@@ -672,6 +676,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-hongkong",
+  "img": "images/culture/culture-hongkong.jpg",
   "related": [
    "blend-hongkong"
   ],
@@ -805,6 +810,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-britain",
+  "img": "images/culture/culture-britain.jpg",
   "related": [
    "blend-afternoon",
    "blend-englishbreakfast"
@@ -939,6 +945,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-india-chai",
+  "img": "images/culture/culture-india-chai.jpg",
   "related": [
    "blend-masala",
    "black-assam"
@@ -1073,6 +1080,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-turkiye",
+  "img": "images/culture/culture-turkiye.jpg",
   "related": [
    "black-rize"
   ],
@@ -1206,6 +1214,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-morocco",
+  "img": "images/culture/culture-morocco.jpg",
   "related": [
    "blend-moroccan-mint"
   ],
@@ -1339,6 +1348,7 @@ window.TEAFaiCulture = [
   },
   "cat": "ceremony",
   "id": "culture-russia",
+  "img": "images/culture/culture-russia.jpg",
   "related": [
    "blend-russian-caravan"
   ],
@@ -1361,6 +1371,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-gaiwan",
+  "img": "images/culture/ware-gaiwan.jpg",
   "cat": "ware",
   "title": {
    "ko": "개완 사용법 — 뚜껑 하나로 차 우리기",
@@ -1519,6 +1530,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-pot-cup",
+  "img": "images/culture/ware-pot-cup.jpg",
   "cat": "ware",
   "title": {
    "ko": "다관과 찻잔 고르기 — 재질이 맛을 바꾼다",
@@ -1674,6 +1686,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "ware-gongfu-set",
+  "img": "images/culture/ware-gongfu-set.jpg",
   "cat": "ware",
   "title": {
    "ko": "공부차 다구 세트 — 도구의 이름과 역할",
@@ -1831,6 +1844,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-six-types",
+  "img": "images/culture/basics-six-types.jpg",
   "cat": "basics",
   "title": {
    "ko": "차의 여섯 종류 — 같은 잎, 다른 차",
@@ -1962,6 +1976,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-temp-time",
+  "img": "images/culture/basics-temp-time.jpg",
   "cat": "basics",
   "title": {
    "ko": "물 온도와 우림 시간의 기본",
@@ -2093,6 +2108,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-caffeine",
+  "img": "images/culture/basics-caffeine.jpg",
   "cat": "basics",
   "title": {
    "ko": "카페인과 테아닌 — 차가 주는 차분한 각성",
@@ -2250,6 +2266,7 @@ window.TEAFaiCulture = [
  },
  {
   "id": "basics-storage",
+  "img": "images/culture/basics-storage.jpg",
   "cat": "basics",
   "title": {
    "ko": "차 보관법 — 다섯 가지를 피하세요",
