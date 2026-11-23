@@ -2595,7 +2595,7 @@ html[lang="zh-TW"] .quiz-q {
 
 /* ---------- 6개 탭 ---------- */
 .tabbar {
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
 }
 
 .tab {
@@ -2608,6 +2608,10 @@ html[lang="zh-TW"] .quiz-q {
 .tab svg {
   width: 21px;
   height: 21px;
+}
+
+.tab span {
+  white-space: nowrap;
 }
 
 /* ---------- 잎차/티백 전환 ---------- */
@@ -4667,7 +4671,7 @@ body.modal-open {
 
 @media (max-width: 374px) {
   .tabbar {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(7, 1fr);
   }
   .tab span {
     font-size: 8.6px;
