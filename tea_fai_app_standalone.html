@@ -41282,12 +41282,33 @@ window.TEAFaiCulture = [
     yue: "zh-Hant-HK"
   };
 
+  var cnNameMap = null;
+  /* 번체·광동어에서도 간체 품명(병음) 순서를 쓰기 위한 간체 이름표.
+     D.use는 활성 데이터를 통째로 바꾸므로, 간체 이름을 훑은 뒤 원래 언어로 되돌립니다. */
+  function zhCnNames() {
+    if (cnNameMap) return cnNameMap;
+    var cur = lang;
+    D.use("zh-CN");
+    var map = {};
+    D.teas.forEach(function (t) {
+      map[t.id] = t.name || "";
+    });
+    D.use(cur);
+    cnNameMap = map;
+    return map;
+  }
+
   function sortedTeas(groupId) {
     var list = D.teasOf(groupId).slice();
     var loc = NAME_LOCALE[lang] || lang || "ko";
+    var keyMap = null;
+    if (lang === "zh-TW" || lang === "yue") {
+      keyMap = zhCnNames();
+      loc = NAME_LOCALE["zh-CN"];
+    }
     list.sort(function (a, b) {
-      var x = String(a.name || "");
-      var y = String(b.name || "");
+      var x = String(keyMap ? keyMap[a.id] || a.name || "" : a.name || "");
+      var y = String(keyMap ? keyMap[b.id] || b.name || "" : b.name || "");
       var r;
       try {
         r = x.localeCompare(y, loc);
