@@ -134,6 +134,10 @@ a {
   padding: 16px 8px 10px;
 }
 
+#view-guide {
+  padding-top: 8px;
+}
+
 .view.active {
   display: block;
   animation: view-in 0.32s cubic-bezier(0.22, 0.61, 0.36, 1);
@@ -3740,6 +3744,19 @@ body.modal-open {
   display: flex;
   align-items: center;
   gap: 3px;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.lang-switch::-webkit-scrollbar {
+  display: none;
+}
+
+.lang-flag {
+  width: 15px;
+  height: 10px;
   flex: 0 0 auto;
 }
 
@@ -4442,7 +4459,7 @@ body.modal-open {
 /* 차 백과: 별도 상단 머리말 없이 취향 테스트 카드가 바로 시작 */
 @media (max-width: 899px) {
   #view-guide {
-    padding-top: 12px;
+    padding-top: 4px;
   }
 }
 

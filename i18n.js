@@ -11,14 +11,14 @@ window.TEAFaiI18N = (function () {
   var STORE_KEY = "teafai.lang.v1";
   var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue"];
   /* 버튼에는 국기와 짧은 이름을 함께 보여 줍니다(헤더 폭이 좁아 6글자까지) */
-  var LABEL = { ko: "한", en: "EN", "zh-CN": "简", "zh-TW": "繁", ja: "日", yue: "粵" };
+  var LABEL = { ko: "한국어", en: "ENGLISH", "zh-CN": "简体中文", "zh-TW": "繁體中文", ja: "日本語", yue: "香港粵語" };
   var FULL_LABEL = {
     ko: "한국어",
-    en: "English",
+    en: "ENGLISH",
     "zh-CN": "简体中文",
     "zh-TW": "繁體中文",
     ja: "日本語",
-    yue: "粵語"
+    yue: "香港粵語"
   };
   var FLAG = { ko: "ko", en: "en", "zh-CN": "zh-CN", "zh-TW": "zh-TW", ja: "ja", yue: "yue" };
   var HTML_LANG = { ko: "ko", en: "en", "zh-CN": "zh-CN", "zh-TW": "zh-TW", ja: "ja", yue: "zh-HK" };

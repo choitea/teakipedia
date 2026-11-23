@@ -164,6 +164,10 @@ a {
   padding: 16px 8px 10px;
 }
 
+#view-guide {
+  padding-top: 8px;
+}
+
 .view.active {
   display: block;
   animation: view-in 0.32s cubic-bezier(0.22, 0.61, 0.36, 1);
@@ -3770,6 +3774,19 @@ body.modal-open {
   display: flex;
   align-items: center;
   gap: 3px;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.lang-switch::-webkit-scrollbar {
+  display: none;
+}
+
+.lang-flag {
+  width: 15px;
+  height: 10px;
   flex: 0 0 auto;
 }
 
@@ -4472,7 +4489,7 @@ body.modal-open {
 /* 차 백과: 별도 상단 머리말 없이 취향 테스트 카드가 바로 시작 */
 @media (max-width: 899px) {
   #view-guide {
-    padding-top: 12px;
+    padding-top: 4px;
   }
 }
 
@@ -6929,14 +6946,14 @@ window.TEAFaiI18N = (function () {
   var STORE_KEY = "teafai.lang.v1";
   var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue"];
   /* 버튼에는 국기와 짧은 이름을 함께 보여 줍니다(헤더 폭이 좁아 6글자까지) */
-  var LABEL = { ko: "한", en: "EN", "zh-CN": "简", "zh-TW": "繁", ja: "日", yue: "粵" };
+  var LABEL = { ko: "한국어", en: "ENGLISH", "zh-CN": "简体中文", "zh-TW": "繁體中文", ja: "日本語", yue: "香港粵語" };
   var FULL_LABEL = {
     ko: "한국어",
-    en: "English",
+    en: "ENGLISH",
     "zh-CN": "简体中文",
     "zh-TW": "繁體中文",
     ja: "日本語",
-    yue: "粵語"
+    yue: "香港粵語"
   };
   var FLAG = { ko: "ko", en: "en", "zh-CN": "zh-CN", "zh-TW": "zh-TW", ja: "ja", yue: "yue" };
   var HTML_LANG = { ko: "ko", en: "en", "zh-CN": "zh-CN", "zh-TW": "zh-TW", ja: "ja", yue: "zh-HK" };
