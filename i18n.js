@@ -719,7 +719,7 @@ window.TEAFaiI18N = (function () {
         "The monthly plans for personal, tea-house and maker members are handled by Google Play in-app billing. Google Play handles the payment method and card details; Teakipedia never receives or stores a card number. The app only reads the subscription state Google Play reports (the product purchased and whether it is valid) to unlock a membership level, and stores that level on your device. Cancelling and refunds follow Google Play's policies and procedures.",
       "pv.s7.title": "External links and the Coupang Partners programme",
       "pv.s7.body":
-        "The app links to a Naver blog, the Upaper e-book store, a YouTube playlist (Teacat Tea House BGM), and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
+        "The app links to Hong Kong Tea on Naver Map, the Upaper e-book store, a YouTube playlist (Teacat Tea House BGM), and the Naver, Kakao and Google maps of partner tea houses. The store screen also has affiliate links to Coupang products and search results. Tapping a link opens that site in your browser, and from then on its own privacy policy applies. Teakipedia passes no information about you to those sites.",
       "pv.s7.note":
         "This posting is part of our Coupang Partners activity, and we receive a small commission from it.",
       "pv.s8.title": "Sharing with third parties and processing on our behalf",
@@ -816,7 +816,7 @@ window.TEAFaiI18N = (function () {
         "个人会员、茶馆会员、厂商会员的月费通过 Google Play 应用内购买处理。支付方式与卡片信息由 Google Play 处理，Teakipedia 不会直接收取或保存卡号。应用只读取 Google Play 告知的订阅状态（购买的商品与是否有效）来开启会员等级，并将该等级保存在本机。取消订阅与退款依 Google Play 的政策与流程。",
       "pv.s7.title": "外部链接与 Coupang 合作伙伴",
       "pv.s7.body":
-        "应用内有前往 Naver 博客、Upaper 电子书书店、YouTube 播放列表（茶猫茶馆BGM），以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
+        "应用内有前往 Naver 地图（香港茶）、Upaper 电子书书店、YouTube 播放列表（茶猫茶馆BGM），以及合作茶馆的 Naver、Kakao、Google 地图的链接。商店画面还有前往 Coupang 商品或搜索结果的推广链接。点击链接后由使用者的浏览器打开该网站，此后适用该网站的隐私政策，Teakipedia 不会把使用者信息交给该网站。",
       "pv.s7.note": "本贴文是 Coupang 合作伙伴活动的一部分，我们会因此获得一定金额的佣金。",
       "pv.s8.title": "第三方提供与委托处理",
       "pv.s8.body":
@@ -912,7 +912,7 @@ window.TEAFaiI18N = (function () {
         "個人會員、茶館會員、廠商會員的月費透過 Google Play 應用內購買處理。付款方式與卡片資訊由 Google Play 處理，Teakipedia 不會直接收取或保存卡號。應用只讀取 Google Play 告知的訂閱狀態（購買的商品與是否有效）來開啟會員等級，並把該等級保存在本機。取消訂閱與退款依 Google Play 的政策與流程。",
       "pv.s7.title": "外部連結與 Coupang 合作夥伴",
       "pv.s7.body":
-        "應用內有前往 Naver 部落格、Upaper 電子書書店、YouTube 播放清單（茶貓茶館BGM），以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
+        "應用內有前往 Naver 地圖（香港茶）、Upaper 電子書書店、YouTube 播放清單（茶貓茶館BGM），以及合作茶館的 Naver、Kakao、Google 地圖的連結。商店畫面還有前往 Coupang 商品或搜尋結果的推廣連結。點擊連結後由使用者的瀏覽器開啟該網站，此後適用該網站的隱私權政策，Teakipedia 不會把使用者資訊交給該網站。",
       "pv.s7.note": "本貼文是 Coupang 合作夥伴活動的一部分，我們會因此獲得一定金額的佣金。",
       "pv.s8.title": "第三方提供與委託處理",
       "pv.s8.body":
@@ -2667,7 +2667,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc": "녹차·우롱차·홍차·흑차·백차·황차·블렌딩차·전통차·대용차·허브차 194종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 여섯 언어로 담은 티키피디아 앱.",
       "ch.bookTitle": "전자책 《찻잎의 시간, 오늘의 한 잔》",
       "ch.bookSub": "유페이퍼 서점 · 얼그레이 편도 함께",
-      "ch.blogTitle": "네이버 블로그",
+      "ch.blogTitle": "홍콩티 네이버 지도",
       "ch.bgmTitle": "티냥이 찻집 BGM",
       "ch.bgmSub": "유튜브 재생목록 · 차 마실 때 틀어두는 잔잔한 로파이",
     },
@@ -2676,7 +2676,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc": "194 teas across nine families — real leaf photos, origin, steeping temperatures and times, a store, partner tea rooms and tasting notes, in six languages.",
       "ch.bookTitle": "E-book: Time of Tea Leaves, Today's Cup",
       "ch.bookSub": "On Upaper · the Earl Grey book too",
-      "ch.blogTitle": "Naver blog",
+      "ch.blogTitle": "Hong Kong Tea · Naver Map",
       "ch.bgmTitle": "Teacat Tea House BGM",
       "ch.bgmSub": "YouTube playlist · calm lo-fi to pour a cup to",
     },
@@ -2685,7 +2685,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc": "九个茶类共194种，真实茶叶照片与产地、冲泡温度与时间，商店、合作茶馆与品茶笔记，六种语言。",
       "ch.bookTitle": "电子书《茶叶的时间，今天的一杯》",
       "ch.bookSub": "Upaper 书店 · 伯爵茶篇一并",
-      "ch.blogTitle": "Naver 博客",
+      "ch.blogTitle": "香港茶 · Naver 地图",
       "ch.bgmTitle": "茶猫茶馆BGM",
       "ch.bgmSub": "YouTube 播放列表 · 喝茶时放的舒缓Lo-fi",
     },
@@ -2694,7 +2694,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc": "九個茶類共194種，真實茶葉照片與產地、沖泡溫度與時間，商店、合作茶館與品茶筆記，六種語言。",
       "ch.bookTitle": "電子書《茶葉的時間，今天的一杯》",
       "ch.bookSub": "Upaper 書店 · 伯爵茶篇一併",
-      "ch.blogTitle": "Naver 部落格",
+      "ch.blogTitle": "香港茶 · Naver 地圖",
       "ch.bgmTitle": "茶貓茶館BGM",
       "ch.bgmSub": "YouTube 播放清單 · 喝茶時放的舒緩Lo-fi",
     }
@@ -2705,7 +2705,7 @@ window.TEAFaiI18N = (function () {
     "privacy.link": "私隱政策",
     "ch.bookTitle": "電子書《茶葉的時間，今天一杯》",
     "ch.bookSub": "Upaper 書店 · 伯爵茶篇一齊",
-    "ch.blogTitle": "Naver 部落格",
+    "ch.blogTitle": "香港茶 · Naver 地圖",
     "ch.bgmTitle": "茶貓茶館BGM",
     "ch.bgmSub": "YouTube playlist · 飲茶聽嘅放鬆Lo-fi",
   };
@@ -3063,7 +3063,7 @@ window.TEAFaiI18N = (function () {
     "pv.s6.title": "應用內定期訂閱同付款",
     "pv.s6.body": "個人會員、茶館會員、廠商會員嘅月費經 Google Play 應用內購買處理。付款方法同卡資料由 Google Play 處理，茶基百科唔會直接收或者存卡號。應用淨係讀 Google Play 講嘅訂閱狀態（買咗邊個商品、仲有冇效）嚟開會員等級，再將呢個等級存喺部機。取消訂閱同退款跟 Google Play 嘅政策同流程。",
     "pv.s7.title": "外部連結同 Coupang 合作夥伴",
-    "pv.s7.body": "應用入面有去 Naver 部落格、Upaper 電子書店、YouTube playlist（茶貓茶館BGM），仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
+    "pv.s7.body": "應用入面有去 Naver 地圖（香港茶）、Upaper 電子書店、YouTube playlist（茶貓茶館BGM），仲有合作茶館嘅 Naver、Kakao、Google 地圖連結。商店畫面亦有去 Coupang 商品或者搜尋結果嘅推廣連結。撳咗連結之後由你嘅瀏覽器開嗰個網站，之後就跟嗰個網站嘅私隱政策，茶基百科唔會將用戶資料交畀嗰個網站。",
     "pv.s7.note": "呢篇貼文係 Coupang 合作夥伴活動嘅一部分，我哋會因此收到一筆佣金。",
     "pv.s8.title": "第三方提供同委託處理",
     "pv.s8.body": "茶基百科為咗伺服器儲存同付款，將處理委託畀下面嘅公司。唔會賣用戶資料，亦都唔會用喺目的以外嘅用途。",
@@ -3723,7 +3723,7 @@ window.TEAFaiI18N = (function () {
     "quiz.firstSteep": "一煎目",
     "ch.bookTitle": "電子書籍『茶葉の時間、今日の一杯』",
     "ch.bookSub": "Upaper 書店 · アールグレイ編も",
-    "ch.blogTitle": "Naver ブログ",
+    "ch.blogTitle": "香港茶 · Naverマップ",
     "ch.bgmTitle": "茶猫ティーハウスBGM",
     "ch.bgmSub": "YouTube プレイリスト · お茶の時間に流す穏やかなLo-fi",
     "privacy.link": "プライバシーポリシー",
