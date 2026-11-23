@@ -281,15 +281,15 @@ def main():
     print(json.dumps(result, ensure_ascii=False, indent=2))
     ok = (
         not result["errors"]
-        and result["teas"] == 194
-        and result["teaWithPhoto"] == 194
-        and result["teaWithCountry"] == 194
+        and result["teas"] == 301
+        and result["teaWithPhoto"] == 301
+        and result["teaWithCountry"] == 301
         and result["teaListHtml"] > 1000
         and result["storeHtml"] > 1000
         and result["memberHtml"] > 100
         and result["lensHtml"] > 100
-        and result["leafCount"] == "194"
-        and result["yueCantonese"] == 194
+        and result["leafCount"] == "301"
+        and result["yueCantonese"] == 301
         and result["pinnedOrder"] == "hongkong-first"
         and result["pinnedHtml"] > 200
         and result["partnerShopsText"] is True

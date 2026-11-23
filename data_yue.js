@@ -3766,6 +3766,1602 @@ window.TEAFaiDataYue = (function () {
     return D;
   }
 
+
+  /* ── BEGIN 나무위키 보강 광동어 (2026-11-24) ── */
+  Object.assign(YUE, {
+ "herb-nurungji": {
+  "t": {
+   "name": "鍋巴茶",
+   "oneLine": "鍋底嗰層飯焦曬乾煮水——帶米香嘅暖茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，煮耐啲更香。",
+   "origin": "韓國。煮完飯將鍋底嘅飯焦曬乾收起。",
+   "flavor": "焙米嘅香同淡淡嘅甜，尾段有一點焦香。",
+   "pairing": "早餐、飯後、配清淡嘅粥或者小菜。",
+   "brewTip": "飯焦先用熱水浸軟再煮，湯會清啲。"
+  },
+  "x": [
+   "煮完飯，將鍋底結成嘅飯焦曬乾，再加水煮開。",
+   "以前唔捨得掉鍋底嘅飯焦，加水煮成湯飲，又叫「숭늉」。"
+  ]
+ },
+ "herb-corn": {
+  "t": {
+   "name": "玉米茶",
+   "oneLine": "炒過嘅粟米粒煮成金黃色嘅茶，有焙香同淡淡嘅甜。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，先炒過粟米粒會香啲。",
+   "origin": "韓國同中國東北。成熟嘅粟米粒曬乾再炒。",
+   "flavor": "焙粟米嘅香同甜，清淡嘅穀物味。",
+   "pairing": "飯後、細路、配辣嘢。",
+   "brewTip": "炒過嘅粟米粒掰開先煮，入面都出味。"
+  },
+  "x": [
+   "粟米粒曬乾炒香，再加水煮開；加少少粟米鬚，甜味會清爽啲。",
+   "韓國餐館嘅麥茶桶，好多時會一齊放玉米茶。"
+  ]
+ },
+ "herb-sorghum": {
+  "t": {
+   "name": "高粱茶",
+   "oneLine": "炒過嘅紅高粱煮成嘅茶，有焙香又帶少少澀。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，將炒過嘅高粱磨碎會濃啲。",
+   "origin": "韓國。紅高粱曬乾再炒。",
+   "flavor": "焙穀物嘅香，加高粱本身淡淡嘅澀。",
+   "pairing": "飯後、冬天、配野菜飯。",
+   "brewTip": "高粱有澀味，倒咗第一轉水，飲第二轉會柔啲。"
+  },
+  "x": [
+   "高粱粒曬乾炒香，再加水煮；有時會加小米一齊煮。",
+   "以前為咗慳米，將高粱炒過泡水飲，就咁傳開。"
+  ]
+ },
+ "herb-coix": {
+  "t": {
+   "name": "薏米茶",
+   "oneLine": "炒過嘅薏米煮成杰杰哋嘅穀物茶，香又柔甜。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，磨碎之後會有粥咁嘅口感。",
+   "origin": "韓國同中國。薏米曬乾再炒。",
+   "flavor": "焙穀物嘅香，淡淡嘅甜，口感杰身。",
+   "pairing": "早餐、飯後、覺得身體腫腫哋嘅日子。",
+   "brewTip": "炒過嘅薏米磨碎先煮，容易化開又溫和。"
+  },
+  "x": [
+   "薏米曬乾炒香，再加水煮，或者磨碎加入。",
+   "以前夏天用嚟去濕，會同薏米粥一齊飲。"
+  ]
+ },
+ "herb-mungbean": {
+  "t": {
+   "name": "綠豆茶",
+   "oneLine": "綠豆煲出嚟嘅清湯——夏天飲嘅清涼穀物茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "500毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲10分鐘，直接飲煲豆嘅水。",
+   "origin": "韓國同中國。綠豆洗淨煮熟，取湯飲。",
+   "flavor": "煲豆嘅清淡味，尾段有少少澀，入口涼爽。",
+   "pairing": "熱嘅日子、食完油膩嘢。",
+   "brewTip": "綠豆連皮煲先香，攤凍飲都好好。"
+  },
+  "x": [
+   "綠豆洗淨連皮煮熟，淨係取湯飲。",
+   "中國夏天飲綠豆湯消暑，韓國就將煲豆水當茶飲。"
+  ]
+ },
+ "herb-redbean": {
+  "t": {
+   "name": "紅豆茶",
+   "oneLine": "紅豆煲出嚟嘅紅褐色穀物茶，有柔和嘅栗子甜。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "500毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲15分鐘，豆爆開就得。",
+   "origin": "韓國同日本。紅豆洗淨再煲。",
+   "flavor": "煲豆嘅香同栗子咁嘅甜，少少澀。",
+   "pairing": "凍嘅日子、飯後、配甜嘢。",
+   "brewTip": "倒咗第一轉水再煲，澀味會少啲，味道清啲。"
+  },
+  "x": [
+   "紅豆洗淨煲熟，取湯飲，有時連豆一齊食。",
+   "日本當佢係驅寒茶，韓國就將紅豆粥嘅湯當茶飲。"
+  ]
+ },
+ "herb-perilla": {
+  "t": {
+   "name": "紫蘇子茶",
+   "oneLine": "紫蘇子磨碎煮成嘅濃香茶——冬天嘅一杯。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，磨碎之後會融入水。",
+   "origin": "韓國。紫蘇子炒香再磨碎。",
+   "flavor": "焙籽嘅濃香同柔和嘅甜。",
+   "pairing": "早餐、凍嘅日子、配野菜飯。",
+   "brewTip": "紫蘇子要磨碎先出香，煮嗰陣要攪拌免得沉底。"
+  },
+  "x": [
+   "紫蘇子炒香磨細，加水煮開。",
+   "韓國冬天會同紫蘇粥一齊當補身嘢食。"
+  ]
+ },
+ "herb-peanut": {
+  "t": {
+   "name": "花生茶",
+   "oneLine": "炒過嘅花生煮成嘅濃香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮7分鐘，炒花生掰開先煮。",
+   "origin": "韓國同中國。花生炒熟去皮。",
+   "flavor": "焙花生嘅濃香同淡甜。",
+   "pairing": "早餐、冬天、配甜嘢。",
+   "brewTip": "炒花生要去咗層薄皮，唔係會苦。"
+  },
+  "x": [
+   "花生炒熟去皮，掰開再加水煮。",
+   "韓國冬天會將炒花生煮成茶飲。"
+  ]
+ },
+ "herb-walnut": {
+  "t": {
+   "name": "核桃茶",
+   "oneLine": "炒過嘅核桃磨碎煮成嘅濃堅果茶，香裡帶少少苦。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配15克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮7分鐘，磨碎之後會融入水。",
+   "origin": "韓國同中國。核桃仁炒香。",
+   "flavor": "焙核桃嘅濃香，加薄皮嘅微苦。",
+   "pairing": "早餐、冬天、加蜜糖。",
+   "brewTip": "核桃薄皮會苦，輕輕炒過去皮會柔啲。"
+  },
+  "x": [
+   "核桃仁炒香磨碎，加水煮開。",
+   "韓國冬天會煮到似粥咁，當補身茶飲。"
+  ]
+ },
+ "herb-ginkgo": {
+  "t": {
+   "name": "銀杏茶",
+   "oneLine": "炒過嘅白果煮成嘅金黃色茶，香裡帶少少苦。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配10粒",
+   "rounds": "2泡",
+   "steepBasis": "95度煮10分鐘，白果炒熟去殼。",
+   "origin": "韓國同中國。白果炒過先用。",
+   "flavor": "焙白果嘅香同特有嘅微苦。",
+   "pairing": "秋天、下午、配清淡小食。",
+   "brewTip": "一般建議一日唔好超過十粒，而且要煮熟。"
+  },
+  "x": [
+   "白果炒熟去殼，加水煮開。",
+   "秋天執白果炒好，用嚟煮茶飲。"
+  ]
+ },
+ "herb-kelp": {
+  "t": {
+   "name": "昆布茶",
+   "oneLine": "乾海帶泡出嚟嘅鮮鹹茶——日本嘅昆布茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡3分鐘，泡耐會滑同鹹。",
+   "origin": "日本同韓國。海帶曬乾切細。",
+   "flavor": "海帶嘅鮮味同淡淡鹹味，收口乾淨。",
+   "pairing": "朝早、日式早餐、配飯。",
+   "brewTip": "三分鐘就夠；太鹹就加水。"
+  },
+  "x": [
+   "海帶曬乾切細，用熱水泡開。",
+   "日本當昆布茶係朝早嘅湯，韓國就用海帶水做湯底。"
+  ]
+ },
+ "herb-chicory": {
+  "t": {
+   "name": "菊苣茶",
+   "oneLine": "炒過嘅菊苣根煮成嘅濃苦茶，可以代替咖啡。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，煮耐啲會濃啲。",
+   "origin": "法國、比利時。菊苣根炒過先用。",
+   "flavor": "焙根嘅濃香，苦中帶甜。",
+   "pairing": "早餐、飯後、加奶。",
+   "brewTip": "炒過嘅根要泡五分鐘以上先夠濃。"
+  },
+  "x": [
+   "菊苣根切片炒香，加水煮開。",
+   "法國人會將菊苣混入咖啡，同樣嘅焙香都當茶飲。"
+  ]
+ },
+ "everyday-hovenia": {
+  "t": {
+   "name": "枳椇子茶",
+   "oneLine": "枳椇子同枝條煲出嚟嘅香甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲7分鐘，果實敲開會濃啲。",
+   "origin": "韓國。枳椇子曬乾用。",
+   "flavor": "焙穀般嘅香同紅棗咁嘅甜。",
+   "pairing": "飲完酒第二朝、飯後。",
+   "brewTip": "枝條劈細同果實一齊煲，味道會深啲。"
+  },
+  "x": [
+   "枳椇子同枝條曬乾，加水煲出味。",
+   "韓國飲酒後會煲一杯，話可以解酒。"
+  ]
+ },
+ "everyday-kudzu": {
+  "t": {
+   "name": "葛根茶",
+   "oneLine": "乾葛根煲出嚟嘅香而微苦嘅茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲10分鐘，煲耐啲會濃啲。",
+   "origin": "韓國。葛根曬乾用。",
+   "flavor": "焙根香同淡甜，尾段微苦。",
+   "pairing": "飯後、宿醉、夏天。",
+   "brewTip": "葛根好多澱粉，湯會杰身，攤凍飲都好。"
+  },
+  "x": [
+   "葛根曬乾切片，加水煲出味。",
+   "韓國夏天同宿醉時都會煲一杯。"
+  ]
+ },
+ "herb-yam": {
+  "t": {
+   "name": "山藥茶",
+   "oneLine": "乾山藥煲出嚟嘅清淡柔甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲10分鐘，乾山藥先浸軟。",
+   "origin": "韓國同中國。山藥根曬乾用。",
+   "flavor": "清淡根香同淡甜，口感柔。",
+   "pairing": "早餐、飯後、攰嘅時候。",
+   "brewTip": "山藥先浸軟再煲，入面先會透。"
+  },
+  "x": [
+   "山藥根曬乾切片，浸軟再煲。",
+   "韓國同中國都當佢係補氣嘅日常茶。"
+  ]
+ },
+ "herb-purple-corn": {
+  "t": {
+   "name": "紫玉米茶",
+   "oneLine": "花青素多嘅紫玉米煲出嚟嘅紫色茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煲7分鐘，粟米粒曬乾或者炒過。",
+   "origin": "秘魯安第斯。紫玉米曬乾用。",
+   "flavor": "粟米嘅甜香同淡淡莓味。",
+   "pairing": "早餐、飯後、攤凍飲。",
+   "brewTip": "湯會變紫，加少少檸檬顏色會更深。"
+  },
+  "x": [
+   "紫玉米曬乾，加水煲出紫色。",
+   "秘魯同南美會煲成「chicha morada」，凍飲消暑。"
+  ]
+ },
+ "herb-ginseng": {
+  "t": {
+   "name": "人參茶",
+   "oneLine": "人參切片煲出嚟嘅微苦回甜暖茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煲10分鐘，加紅棗會柔啲。",
+   "origin": "韓國。四到六年根人參切片曬乾。",
+   "flavor": "人參嘅苦同淡甜，尾段暖。",
+   "pairing": "朝早、攰嘅時候、冬天。",
+   "brewTip": "人參切薄片先易出味，加紅棗或薑就冇咁苦。"
+  },
+  "x": [
+   "人參切片曬乾，加水慢煮。",
+   "韓國會喺疲倦或者冬天煲一杯，加紅棗同薑。"
+  ]
+ },
+ "herb-redginseng": {
+  "t": {
+   "name": "紅參茶",
+   "oneLine": "蒸過再曬乾嘅紅參煲出嚟嘅濃甜暖茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煲10分鐘，用紅參片或者濃縮液。",
+   "origin": "韓國。人參蒸完曬乾做紅參。",
+   "flavor": "焙人參嘅香同濃甜，尾段微苦。",
+   "pairing": "朝早、冬天、攰嘅時候。",
+   "brewTip": "紅參已經蒸熟，唔使煲太耐。"
+  },
+  "x": [
+   "人參蒸熟再曬乾，切片或者熬成濃縮液。",
+   "韓國冬天會沖一杯紅參茶暖身。"
+  ]
+ },
+ "herb-sesame": {
+  "t": {
+   "name": "芝麻茶",
+   "oneLine": "炒過嘅芝麻磨碎煮成嘅濃香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，磨碎之後一路煮一路攪。",
+   "origin": "韓國同中國。芝麻炒香再磨。",
+   "flavor": "焙芝麻嘅濃香同淡甜。",
+   "pairing": "早餐、冬天、配粥。",
+   "brewTip": "芝麻炒過先磨，油同香氣先出。"
+  },
+  "x": [
+   "芝麻炒香磨碎，加水煮開。",
+   "中國用嚟待客，韓國當冬天補身茶。"
+  ]
+ },
+ "herb-jerusalemartichoke": {
+  "t": {
+   "name": "菊芋茶",
+   "oneLine": "炒過嘅菊芋根煮成嘅香甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，根曬乾再炒。",
+   "origin": "韓國；原產北美。根曬乾再炒。",
+   "flavor": "焙根嘅香同菊芋嘅甜。",
+   "pairing": "早餐、飯後、攤凍。",
+   "brewTip": "菊粉多，初初飲可能會脹氣。"
+  },
+  "x": [
+   "菊芋根切片曬乾，炒香再煮水。",
+   "韓國好多人當佢係咖啡替代品。"
+  ]
+ },
+ "herb-deodeok": {
+  "t": {
+   "name": "沙參茶",
+   "oneLine": "乾沙參煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，炒過會香啲。",
+   "origin": "韓國。沙參根曬乾用。",
+   "flavor": "微苦根香同淡甜。",
+   "pairing": "朝早、咳嘅時候、冬天。",
+   "brewTip": "去皮再曬，苦味會少啲。"
+  },
+  "x": [
+   "沙參根去皮曬乾，加水煮。",
+   "韓國秋天會煲一杯，話對咳好。"
+  ]
+ },
+ "herb-adenophora": {
+  "t": {
+   "name": "輪葉沙參茶",
+   "oneLine": "乾輪葉沙參煮出嚟嘅清淡微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘。",
+   "origin": "韓國。輪葉沙參根曬乾用。",
+   "flavor": "清淡根香同淡甜。",
+   "pairing": "朝早、口渴嘅時候。",
+   "brewTip": "比沙參溫和，煲耐啲都唔會太苦。"
+  },
+  "x": [
+   "輪葉沙參根曬乾，加水煮。",
+   "韓國山區會掘根曬乾，當日常茶飲。"
+  ]
+ },
+ "herb-astragalus": {
+  "t": {
+   "name": "黃芪茶",
+   "oneLine": "乾黃芪煮出嚟嘅香而微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用薄片。",
+   "origin": "韓國同中國。黃芪根曬乾用。",
+   "flavor": "焙根香同淡甜，收口柔。",
+   "pairing": "朝早、攰嘅時候。",
+   "brewTip": "切薄片先出味，加紅棗會圓潤啲。"
+  },
+  "x": [
+   "黃芪根切片曬乾，加水慢煮。",
+   "韓國同中國都當佢係補氣茶。"
+  ]
+ },
+ "herb-angelica": {
+  "t": {
+   "name": "當歸茶",
+   "oneLine": "乾當歸煮出嚟嘅濃甜藥茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，加紅棗同薑。",
+   "origin": "韓國同中國。當歸根曬乾用。",
+   "flavor": "濃藥香同甜，尾段微苦。",
+   "pairing": "下午、身體凍嘅時候、經期前後。",
+   "brewTip": "當歸味重，同紅棗、薑一齊煮會柔啲。"
+  },
+  "x": [
+   "當歸根曬乾切片，加水煮。",
+   "韓國同中國都會加紅棗、薑一齊煲。"
+  ]
+ },
+ "herb-rehmannia": {
+  "t": {
+   "name": "地黃茶",
+   "oneLine": "乾地黃煮出嚟嘅深色甜藥茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配6克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾根。",
+   "origin": "韓國同中國。地黃根曬乾用。",
+   "flavor": "焙藥香同濃甜，湯色深。",
+   "pairing": "下午、口乾、冬天。",
+   "brewTip": "地黃好甜，煲耐啲會更濃。"
+  }
+ },
+ "herb-eucommia": {
+  "t": {
+   "name": "杜仲茶",
+   "oneLine": "乾杜仲皮煮出嚟嘅香而微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，樹皮切細。",
+   "origin": "韓國同中國。杜仲皮曬乾用。",
+   "flavor": "焙樹皮香同淡甜，少少澀。",
+   "pairing": "朝早、腰同膝頭凍嘅時候。",
+   "brewTip": "樹皮切細先出味，煲嗰陣會起泡。"
+  }
+ },
+ "herb-poria": {
+  "t": {
+   "name": "茯苓茶",
+   "oneLine": "乾茯苓煮出嚟嘅清淡微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮15分鐘，茯苓切細粒。",
+   "origin": "韓國同中國。寄生松根嘅茯苓曬乾。",
+   "flavor": "清淡菌香同淡甜，收口乾淨。",
+   "pairing": "朝早、覺得身重嘅時候。",
+   "brewTip": "切細粒先出味，煲耐都唔變味。"
+  }
+ },
+ "herb-reishi": {
+  "t": {
+   "name": "靈芝茶",
+   "oneLine": "靈芝切薄片煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮20分鐘，靈芝切片。",
+   "origin": "韓國同中國。靈芝曬乾用。",
+   "flavor": "微苦菌香同淡甜，餘味長。",
+   "pairing": "夜晚、睡前、攰嘅時候。",
+   "brewTip": "要煲耐啲先出味，加紅棗可以減苦。"
+  }
+ },
+ "herb-swordbean": {
+  "t": {
+   "name": "刀豆茶",
+   "oneLine": "炒過嘅刀豆煮出嚟嘅香而微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮10分鐘，用炒刀豆。",
+   "origin": "韓國。刀豆炒過先用。",
+   "flavor": "焙豆嘅香同淡甜。",
+   "pairing": "朝早、飯後、喉嚨唔舒服。",
+   "brewTip": "炒過先冇生味，掰開煮會濃啲。"
+  }
+ },
+ "herb-licorice": {
+  "t": {
+   "name": "甘草茶",
+   "oneLine": "甘草根煲出嚟嘅甜中帶苦茶，可以同其他茶一齊泡。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，唔好超過3克。",
+   "origin": "中國同韓國。甘草根曬乾用。",
+   "flavor": "甜完之後回苦，有根香。",
+   "pairing": "飯後、喉嚨痛嘅時候。",
+   "brewTip": "一日大約3克好夠，飲太多可能水腫或者血壓高。"
+  }
+ },
+ "herb-cinnamon": {
+  "t": {
+   "name": "肉桂茶",
+   "oneLine": "肉桂皮煮出嚟嘅暖身辛甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，同紅棗、薑好夾。",
+   "origin": "韓國、中國、斯里蘭卡。肉桂皮曬乾用。",
+   "flavor": "暖樹皮香同辛甜。",
+   "pairing": "冬天、飯後、配紅棗。",
+   "brewTip": "3克就夠，煲太耐會苦。"
+  }
+ },
+ "herb-cinnamon-twig": {
+  "t": {
+   "name": "桂枝茶",
+   "oneLine": "肉桂樹嫩枝煮出嚟嘅清香辛甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，枝條切細。",
+   "origin": "中國。肉桂嫩枝曬乾用。",
+   "flavor": "比肉桂皮輕、青啲嘅枝香同辛甜。",
+   "pairing": "冬天、飯後、覺得凍嘅時候。",
+   "brewTip": "比肉桂皮輕，4克就夠。"
+  }
+ },
+ "herb-tangerine-peel": {
+  "t": {
+   "name": "陳皮茶",
+   "oneLine": "陳年橘皮煮出嚟嘅清香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "3泡",
+   "steepBasis": "95度煮5分鐘，陳皮越陳越香。",
+   "origin": "中國廣東。橘皮曬乾再陳放三年以上。",
+   "flavor": "橘皮嘅清香同苦甜。",
+   "pairing": "飯後、食完油膩嘢、冬天。",
+   "brewTip": "刮走內層白色瓤再煮，苦味會少啲。"
+  }
+ },
+ "herb-tangerine-blossom": {
+  "t": {
+   "name": "橘花茶",
+   "oneLine": "乾橘花泡出嚟嘅清甜花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡2分鐘，泡耐會苦。",
+   "origin": "中國南方同韓國。橘花採落曬乾。",
+   "flavor": "清甜橘花香同淡甜。",
+   "pairing": "下午、配甜嘢、招呼客人。",
+   "brewTip": "85度泡兩分鐘就夠，滾水會燙走香氣。"
+  }
+ },
+ "herb-plumblossom": {
+  "t": {
+   "name": "梅花茶",
+   "oneLine": "乾梅花苞泡出嚟嘅清雅花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "80度泡2分鐘，花苞開就得。",
+   "origin": "韓國同中國。早春梅花苞曬乾。",
+   "flavor": "清雅花香同淡甜，餘味乾淨。",
+   "pairing": "下午、春天、招呼客人。",
+   "brewTip": "水太熱香氣會走，80度短泡。"
+  }
+ },
+ "herb-peachblossom": {
+  "t": {
+   "name": "桃花茶",
+   "oneLine": "乾桃花泡出嚟嘅柔甜花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "80度泡2分鐘。",
+   "origin": "韓國同中國。春天桃花曬乾用。",
+   "flavor": "柔和桃花香同淡淡桃甜。",
+   "pairing": "下午、甜嘢、春天。",
+   "brewTip": "花瓣薄，泡耐會苦，唔好超過兩分鐘。"
+  }
+ },
+ "herb-cherryblossom": {
+  "t": {
+   "name": "櫻花茶",
+   "oneLine": "鹽漬櫻花泡出嚟嘅清香微鹹花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "80度泡2分鐘，先沖走鹽分。",
+   "origin": "日本同韓國。櫻花鹽漬再曬乾。",
+   "flavor": "花香同淡淡鹹味，清甜收口。",
+   "pairing": "春天、甜嘢、招呼客人。",
+   "brewTip": "鹽漬花先用熱水沖一沖，唔係會太鹹。"
+  }
+ },
+ "herb-camellia": {
+  "t": {
+   "name": "山茶花茶",
+   "oneLine": "乾山茶花泡出嚟嘅柔和花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "80度泡2分鐘。",
+   "origin": "韓國同日本。冬天山茶花曬乾用。",
+   "flavor": "清雅花香同淡甜，口感柔。",
+   "pairing": "冬天、下午、甜嘢。",
+   "brewTip": "花瓣多水，要曬透，泡兩分鐘就夠。"
+  }
+ },
+ "herb-magnolia": {
+  "t": {
+   "name": "木蘭花茶",
+   "oneLine": "乾木蘭花苞泡出嚟嘅濃香花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "80度泡2分鐘，花苞掰開。",
+   "origin": "韓國同中國。早春木蘭苞曬乾。",
+   "flavor": "濃花香同微苦收口。",
+   "pairing": "春天、下午。",
+   "brewTip": "香氣強，2克就夠，泡耐會苦。"
+  }
+ },
+ "herb-pinepollen": {
+  "t": {
+   "name": "松花茶",
+   "oneLine": "松花粉調入蜜糖水嘅韓國傳統甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克，蜜糖隨意",
+   "rounds": "1次",
+   "steepBasis": "用85度蜜糖水調開，唔好煮。",
+   "origin": "韓國。松花粉過篩收集。",
+   "flavor": "松花粉嘅香同蜜糖嘅甜，入口柔。",
+   "pairing": "夏天、招呼客人、節日。",
+   "brewTip": "松花粉唔好煮，用溫水加蜜糖調開。"
+  }
+ },
+ "herb-pineneedle": {
+  "t": {
+   "name": "松葉茶",
+   "oneLine": "乾松針泡出嚟嘅松香濃茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡3分鐘，松針切細。",
+   "origin": "韓國。松針曬乾用。",
+   "flavor": "濃松脂香同微苦，收口清爽。",
+   "pairing": "朝早、轉季、飯後。",
+   "brewTip": "泡超過三分鐘會好苦。"
+  }
+ },
+ "herb-bamboo": {
+  "t": {
+   "name": "竹葉茶",
+   "oneLine": "乾竹葉泡出嚟嘅清爽青草茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用嫩葉。",
+   "origin": "中國同韓國南部。竹葉曬乾用。",
+   "flavor": "清爽青草香同淡甜，收口涼。",
+   "pairing": "熱嘅日子、飯後、攤凍飲。",
+   "brewTip": "凍泡嘅話苦味會少啲。"
+  }
+ },
+ "herb-honeysuckle": {
+  "t": {
+   "name": "金銀花茶",
+   "oneLine": "乾金銀花泡出嚟嘅清香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用花苞。",
+   "origin": "中國同韓國。金銀花苞曬乾用。",
+   "flavor": "甜花香同淡淡苦味。",
+   "pairing": "喉嚨痛、熱嘅日子、飯後。",
+   "brewTip": "花苞最好，85度比滾水更能留香。"
+  }
+ },
+ "herb-gardenia": {
+  "t": {
+   "name": "梔子茶",
+   "oneLine": "乾梔子煮成嘅黃色微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，果實敲開。",
+   "origin": "中國同韓國。梔子果實曬乾用。",
+   "flavor": "微苦果香同淡甜，湯色黃。",
+   "pairing": "飯後、覺得熱氣嘅時候。",
+   "brewTip": "梔子偏苦，唔好超過3克，加少少蜜糖會柔啲。"
+  }
+ },
+ "herb-safflower": {
+  "t": {
+   "name": "紅花茶",
+   "oneLine": "紅花花瓣泡出嚟嘅黃色微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡2分鐘，用花瓣。",
+   "origin": "中國同印度。紅花花瓣曬乾用。",
+   "flavor": "淡花香同微苦收口，湯色黃。",
+   "pairing": "下午、飯後。",
+   "brewTip": "傳統上大肚唔飲得，唔好超過2克。"
+  }
+ },
+ "trad-eonggeongkwi": {
+  "t": {
+   "name": "大薊茶",
+   "oneLine": "乾大薊葉同莖煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮5分鐘，用乾葉。",
+   "origin": "韓國。大薊曬乾用。",
+   "flavor": "微苦青草香同淡甜。",
+   "pairing": "飯後、覺得肝攰嘅時候。",
+   "brewTip": "去刺再曬，太苦可以加紅棗。"
+  }
+ },
+ "herb-butterbur": {
+  "t": {
+   "name": "蜂斗菜茶",
+   "oneLine": "乾蜂斗菜莖葉煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮5分鐘，用乾莖。",
+   "origin": "韓國同日本。蜂斗菜莖曬乾用。",
+   "flavor": "微苦青草香同淡甜。",
+   "pairing": "飯後、春天、成日咳。",
+   "brewTip": "先焯水再曬可以減苦，莖切細易出味。"
+  }
+ },
+ "herb-lotusroot": {
+  "t": {
+   "name": "蓮藕茶",
+   "oneLine": "乾蓮藕煮出嚟嘅清淡微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮10分鐘，乾藕先浸軟。",
+   "origin": "韓國同中國。蓮藕曬乾用。",
+   "flavor": "清淡根香同淡甜，口感柔。",
+   "pairing": "朝早、飯後、成日咳。",
+   "brewTip": "先浸軟再煮，磨碎會杰身。"
+  }
+ },
+ "herb-achyranthes": {
+  "t": {
+   "name": "牛膝茶",
+   "oneLine": "乾牛膝煮出嚟嘅香而微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾根。",
+   "origin": "中國同韓國。牛膝根曬乾用。",
+   "flavor": "焙根香同輕輕苦味。",
+   "pairing": "下午、膝頭覺得凍。",
+   "brewTip": "用少少油炒過再曬，味道會柔啲。"
+  }
+ },
+ "herb-polygala": {
+  "t": {
+   "name": "遠志茶",
+   "oneLine": "乾遠志煮出嚟嘅微苦、氣味獨特嘅茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾根。",
+   "origin": "中國同韓國。遠志根曬乾用。",
+   "flavor": "微苦根香同淡甜。",
+   "pairing": "夜晚、瞓得唔深。",
+   "brewTip": "氣味強，4克就夠，加蜜糖柔啲。"
+  }
+ },
+ "herb-sophora": {
+  "t": {
+   "name": "苦參茶",
+   "oneLine": "乾苦參煮出嚟嘅極苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾根。",
+   "origin": "中國同韓國。苦參根曬乾用。",
+   "flavor": "好苦，有根香，尾段淡甜。",
+   "pairing": "飯後、熱嘅日子。",
+   "brewTip": "苦味強，唔好超過3克，可以加少少蜜糖。"
+  }
+ },
+ "herb-agastache": {
+  "t": {
+   "name": "藿香茶",
+   "oneLine": "乾藿香葉泡出嚟嘅強烈清涼茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾葉。",
+   "origin": "中國同韓國。藿香葉曬乾用。",
+   "flavor": "似薄荷嘅強香同清涼收口。",
+   "pairing": "夏天、飯後、肚脹。",
+   "brewTip": "香氣強，泡超過三分鐘會苦。"
+  }
+ },
+ "herb-schizonepeta": {
+  "t": {
+   "name": "荊芥茶",
+   "oneLine": "乾荊芥泡出嚟嘅辛香藥茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘。",
+   "origin": "中國同韓國。荊芥曬乾用。",
+   "flavor": "藥香帶少少辛，收口清涼。",
+   "pairing": "飯後、有感冒先兆。",
+   "brewTip": "香氣易散，密封保存，泡三分鐘就夠。"
+  }
+ },
+ "herb-bangpung": {
+  "t": {
+   "name": "防風茶",
+   "oneLine": "乾防風煮出嚟嘅香而微辛茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾根。",
+   "origin": "中國同韓國。防風根曬乾用。",
+   "flavor": "焙根香同輕微辛味。",
+   "pairing": "飯後、吹完風覺得凍。",
+   "brewTip": "4克就夠，加薑會暖啲。"
+  }
+ },
+ "herb-bupleurum": {
+  "t": {
+   "name": "柴胡茶",
+   "oneLine": "乾柴胡煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾根。",
+   "origin": "中國同韓國。柴胡根曬乾用。",
+   "flavor": "微苦根香同淡甜。",
+   "pairing": "下午、發熱嘅時候。",
+   "brewTip": "4克就夠，加紅棗柔啲。"
+  }
+ },
+ "herb-sokdan": {
+  "t": {
+   "name": "續斷茶",
+   "oneLine": "乾續斷煮出嚟嘅香而微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾根。",
+   "origin": "中國同韓國。續斷根曬乾用。",
+   "flavor": "焙根香同輕輕苦味。",
+   "pairing": "下午、腰膝痠痛。",
+   "brewTip": "切細先出味，加紅棗柔啲。"
+  }
+ },
+ "herb-calamus": {
+  "t": {
+   "name": "菖蒲茶",
+   "oneLine": "乾菖蒲根莖泡出嚟嘅濃香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾根莖。",
+   "origin": "韓國同中國。菖蒲根莖曬乾用。",
+   "flavor": "濃藥草香同微苦收口。",
+   "pairing": "端午、飯後。",
+   "brewTip": "香氣強，3克就夠，唔用生嘅。"
+  }
+ },
+ "herb-wasong": {
+  "t": {
+   "name": "瓦松茶",
+   "oneLine": "乾瓦松泡出嚟嘅清涼微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾葉。",
+   "origin": "韓國同中國。瓦松曬乾用。",
+   "flavor": "青草香同微苦，收口涼。",
+   "pairing": "夏天、飯後。",
+   "brewTip": "三分鐘就夠，攤凍更清爽。"
+  }
+ },
+ "herb-magnolia-bark": {
+  "t": {
+   "name": "厚朴茶",
+   "oneLine": "乾厚朴皮煮出嚟嘅濃香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，樹皮切細。",
+   "origin": "中國同韓國。厚朴皮曬乾用。",
+   "flavor": "濃木香同苦味，帶淡甜。",
+   "pairing": "飯後、肚脹。",
+   "brewTip": "香氣強，3克就夠，煲耐會苦。"
+  }
+ },
+ "herb-costus": {
+  "t": {
+   "name": "木香茶",
+   "oneLine": "乾木香煮出嚟嘅濃香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮5分鐘，用乾根。",
+   "origin": "中國同印度。木香根曬乾用。",
+   "flavor": "濃藥香同苦味。",
+   "pairing": "飯後、胃頂住。",
+   "brewTip": "香氣極強，2克就夠。"
+  }
+ },
+ "herb-cuscuta": {
+  "t": {
+   "name": "菟絲子茶",
+   "oneLine": "炒過嘅菟絲子煮出嚟嘅香而微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用炒過嘅種子。",
+   "origin": "韓國同中國。菟絲子炒過先用。",
+   "flavor": "焙籽嘅香同淡甜。",
+   "pairing": "下午、攰嘅時候。",
+   "brewTip": "炒過先香，磨碎會濃啲。"
+  }
+ },
+ "herb-raisintree": {
+  "t": {
+   "name": "鹼蓬茶",
+   "oneLine": "海邊鹼蓬曬乾煮出嚟嘅微鹹香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮10分鐘，用乾葉。",
+   "origin": "韓國西海岸。鹽生植物鹼蓬曬乾用。",
+   "flavor": "微鹹青草香同淡甜，帶礦物味。",
+   "pairing": "飯後、夏天。",
+   "brewTip": "本身有鹽分，5克就夠，可以同其他茶一齊泡。"
+  }
+ },
+ "herb-mallow": {
+  "t": {
+   "name": "冬葵茶",
+   "oneLine": "乾冬葵葉煮出嚟嘅柔滑微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮4分鐘，用乾葉。",
+   "origin": "韓國同中國。冬葵葉曬乾用。",
+   "flavor": "柔和青草香同淡甜，口感滑。",
+   "pairing": "飯後、腸胃唔舒服。",
+   "brewTip": "四分鐘就夠，泡耐會太滑。"
+  }
+ },
+ "herb-radishleaf": {
+  "t": {
+   "name": "蘿蔔葉茶",
+   "oneLine": "乾蘿蔔纓煮出嚟嘅香而微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮5分鐘，用乾葉。",
+   "origin": "韓國。蘿蔔纓曬乾用。",
+   "flavor": "焙菜香同輕輕苦味。",
+   "pairing": "飯後、冬天。",
+   "brewTip": "要曬透，炒過會香啲。"
+  }
+ },
+ "herb-eggplant": {
+  "t": {
+   "name": "茄子茶",
+   "oneLine": "曬乾嘅茄子炒過再煮嘅香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮7分鐘，用乾茄子。",
+   "origin": "韓國。茄子曬乾再炒。",
+   "flavor": "焙菜嘅香同淡甜。",
+   "pairing": "飯後、冬天。",
+   "brewTip": "要曬透再炒，用少少油炒會香啲。"
+  }
+ },
+ "herb-green-onion": {
+  "t": {
+   "name": "蔥白茶",
+   "oneLine": "乾蔥白煮出嚟嘅辛香暖茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "1次",
+   "steepBasis": "95度煮5分鐘，用蔥白。",
+   "origin": "韓國。蔥白曬乾用。",
+   "flavor": "辛香蔥味同淡甜。",
+   "pairing": "有感冒先兆、夜晚。",
+   "brewTip": "呢個係感冒初起飲嘅民間茶，飲多會傷胃。"
+  }
+ },
+ "herb-garlic": {
+  "t": {
+   "name": "大蒜茶",
+   "oneLine": "蒜片煮出嚟嘅辛香暖茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "1次",
+   "steepBasis": "95度煮5分鐘，加蜜糖柔啲。",
+   "origin": "韓國同中國。大蒜切片曬乾。",
+   "flavor": "辛香蒜味同甜，尾段暖。",
+   "pairing": "有感冒先兆、夜晚。",
+   "brewTip": "氣味強，一次唔好超過3克，空肚唔好飲。"
+  }
+ },
+ "herb-taro": {
+  "t": {
+   "name": "芋梗茶",
+   "oneLine": "乾芋梗煮出嚟嘅清淡微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "1次",
+   "steepBasis": "95度煮7分鐘，用乾莖。",
+   "origin": "韓國。芋梗曬乾用。",
+   "flavor": "清淡菜香同淡甜。",
+   "pairing": "飯後、腸胃唔舒服。",
+   "brewTip": "要曬透，唔用生嘅。"
+  }
+ },
+ "herb-waxgourd": {
+  "t": {
+   "name": "冬瓜茶",
+   "oneLine": "乾冬瓜煮出嚟嘅清爽茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "500毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮15分鐘，用乾冬瓜。",
+   "origin": "中國同韓國。冬瓜曬乾用。",
+   "flavor": "清爽菜香同淡甜，收口涼。",
+   "pairing": "熱嘅日子、飯後、攤凍。",
+   "brewTip": "要曬透，攤凍飲最爽。"
+  }
+ },
+ "herb-watercaltrop": {
+  "t": {
+   "name": "菱角茶",
+   "oneLine": "乾菱角煮出嚟嘅香而帶栗子甜嘅茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "500毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮20分鐘，乾菱角敲開。",
+   "origin": "中國同韓國。菱角曬乾用。",
+   "flavor": "焙堅果香同栗子咁甜。",
+   "pairing": "秋天、飯後。",
+   "brewTip": "菱角硬，要煲耐啲，敲開快啲出味。"
+  }
+ },
+ "trad-sunchae": {
+  "t": {
+   "name": "蓴菜茶",
+   "oneLine": "乾蓴菜葉泡出嚟嘅清淡微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾葉。",
+   "origin": "中國同韓國。蓴菜葉曬乾用。",
+   "flavor": "清淡水草香同淡甜，口感滑。",
+   "pairing": "夏天、飯後。",
+   "brewTip": "三分鐘就夠，泡耐會太滑。"
+  }
+ },
+ "herb-maesil": {
+  "t": {
+   "name": "青梅茶",
+   "oneLine": "糖漬青梅露兌水飲嘅酸甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加青梅露3大羹",
+   "rounds": "1次",
+   "steepBasis": "用凍水或者暖水調開。",
+   "origin": "韓國同日本。青梅加糖醃成糖漿。",
+   "flavor": "清酸梅香同濃甜，收口乾淨。",
+   "pairing": "飯後、食完油膩嘢、夏天。",
+   "brewTip": "熱水會沖走香氣，用凍水或者暖水調。"
+  }
+ },
+ "herb-cherry": {
+  "t": {
+   "name": "櫻桃茶",
+   "oneLine": "糖漬櫻桃泡出嚟嘅紅色酸甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5粒",
+   "rounds": "1次",
+   "steepBasis": "85度泡3分鐘，將漬櫻桃壓碎。",
+   "origin": "韓國。櫻桃加糖醃。",
+   "flavor": "酸甜櫻桃香同淡甜，湯色紅。",
+   "pairing": "夏天、甜嘢、攤凍。",
+   "brewTip": "去核壓碎，顏色同味道易啲出。"
+  }
+ },
+ "herb-plum": {
+  "t": {
+   "name": "李子茶",
+   "oneLine": "乾李子煮出嚟嘅酸甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5粒",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾果。",
+   "origin": "韓國同中國。李子曬乾用。",
+   "flavor": "酸甜李香同濃甜，口感柔。",
+   "pairing": "飯後、冬天、攤凍。",
+   "brewTip": "煲耐啲甜味會濃啲。"
+  }
+ },
+ "herb-pomegranate": {
+  "t": {
+   "name": "石榴茶",
+   "oneLine": "石榴汁或者乾石榴皮泡出嚟嘅紅色微澀茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加石榴汁3大羹",
+   "rounds": "1次",
+   "steepBasis": "85度泡3分鐘，乾皮要煮10分鐘。",
+   "origin": "韓國同中國。用果汁或者乾皮。",
+   "flavor": "酸甜石榴香同輕微澀，湯色紅。",
+   "pairing": "飯後、秋天、攤凍。",
+   "brewTip": "石榴皮好澀，唔好超過3克；用果汁會柔啲。"
+  }
+ },
+ "herb-loquat": {
+  "t": {
+   "name": "枇杷茶",
+   "oneLine": "乾枇杷葉或者果實煮出嚟嘅果香微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "85度煮5分鐘，用乾葉。",
+   "origin": "韓國同中國。枇杷葉同果實曬乾用。",
+   "flavor": "似杏嘅果香同淡甜，輕輕苦。",
+   "pairing": "喉嚨唔舒服、秋天。",
+   "brewTip": "葉底絨毛要刷走再曬，喉嚨先舒服。"
+  }
+ },
+ "fruit-dolbae": {
+  "t": {
+   "name": "野梨茶",
+   "oneLine": "乾野梨煮出嚟嘅柔甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5片",
+   "rounds": "2泡",
+   "steepBasis": "90度煮15分鐘，用乾梨。",
+   "origin": "韓國。野梨切片曬乾。",
+   "flavor": "梨嘅甜同輕微澀，口感柔。",
+   "pairing": "成日咳、秋天、冬天。",
+   "brewTip": "曬乾甜味濃啲，加紅棗更柔。"
+  }
+ },
+ "herb-trifoliateorange": {
+  "t": {
+   "name": "枳茶",
+   "oneLine": "乾枳實煮出嚟嘅酸苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾果。",
+   "origin": "韓國同中國。枳實曬乾用。",
+   "flavor": "酸橘皮香同苦味。",
+   "pairing": "飯後、肚脹。",
+   "brewTip": "去籽再曬，加蜜糖柔啲。"
+  }
+ },
+ "herb-hallabong": {
+  "t": {
+   "name": "漢拿峰茶",
+   "oneLine": "漢拿峰柑橘糖漬兌水飲嘅清香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加糖漬3大羹",
+   "rounds": "1次",
+   "steepBasis": "用暖水調開。",
+   "origin": "韓國濟州。漢拿峰果皮果肉加糖醃。",
+   "flavor": "漢拿峰清爽柑橘香同蜜甜。",
+   "pairing": "朝早、甜嘢、攤凍。",
+   "brewTip": "果皮切薄再醃，香氣足、苦味少。"
+  }
+ },
+ "herb-grapefruit": {
+  "t": {
+   "name": "西柚茶",
+   "oneLine": "西柚皮肉糖漬兌水飲嘅苦甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加糖漬3大羹",
+   "rounds": "1次",
+   "steepBasis": "用暖水調開。",
+   "origin": "美國同加勒比。西柚加糖醃。",
+   "flavor": "西柚嘅苦甜同清爽收口。",
+   "pairing": "朝早、飯後、攤凍。",
+   "brewTip": "白色瓤留得多會苦，按口味修走。"
+  }
+ },
+ "fruit-orange": {
+  "t": {
+   "name": "橙子茶",
+   "oneLine": "橙皮果肉糖漬兌水飲嘅清爽茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加糖漬3大羹",
+   "rounds": "1次",
+   "steepBasis": "用暖水調開。",
+   "origin": "美國同地中海。橙加糖醃。",
+   "flavor": "橙嘅清爽同蜜甜。",
+   "pairing": "朝早、甜嘢、攤凍。",
+   "brewTip": "果皮切薄再醃，香又唔苦。"
+  }
+ },
+ "herb-strawberry": {
+  "t": {
+   "name": "草莓茶",
+   "oneLine": "糖漬草莓兌水飲嘅酸甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升加糖漬3大羹",
+   "rounds": "1次",
+   "steepBasis": "用暖水調開。",
+   "origin": "韓國。草莓加糖醃。",
+   "flavor": "熟草莓嘅酸甜同香氣。",
+   "pairing": "甜嘢、下午、攤凍。",
+   "brewTip": "香氣怕熱，攤凍飲好啲。"
+  }
+ },
+ "herb-bittermelon": {
+  "t": {
+   "name": "苦瓜茶",
+   "oneLine": "乾苦瓜煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮10分鐘，用乾片。",
+   "origin": "韓國同印度。苦瓜切片曬乾。",
+   "flavor": "苦瓜特有嘅苦同淡甜。",
+   "pairing": "飯後、熱嘅日子。",
+   "brewTip": "苦味強，5克就夠，攤凍飲柔啲。"
+  }
+ },
+ "herb-pumpkin": {
+  "t": {
+   "name": "南瓜茶",
+   "oneLine": "乾老南瓜煮出嚟嘅香甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮15分鐘，用乾南瓜。",
+   "origin": "韓國。老南瓜切片曬乾。",
+   "flavor": "焙南瓜嘅香同濃甜。",
+   "pairing": "冬天、飯後、容易腫。",
+   "brewTip": "曬透甜味濃啲，加紅棗更好。"
+  }
+ },
+ "fruit-noni": {
+  "t": {
+   "name": "諾麗茶",
+   "oneLine": "乾諾麗果煮出嚟、氣味獨特、微酸嘅茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮7分鐘，用乾果。",
+   "origin": "玻里尼西亞同東南亞。諾麗果曬乾用。",
+   "flavor": "發酵果香同酸味，帶淡甜。",
+   "pairing": "朝早、飯後。",
+   "brewTip": "氣味強，5克就夠，加蜜糖易入口。"
+  }
+ },
+ "fruit-guava": {
+  "t": {
+   "name": "芭樂茶",
+   "oneLine": "乾芭樂葉泡出嚟嘅果香微澀茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡5分鐘，用乾葉。",
+   "origin": "台灣同東南亞。芭樂葉曬乾用。",
+   "flavor": "芭樂特有嘅果香同輕微澀，帶甜。",
+   "pairing": "飯後、熱嘅日子。",
+   "brewTip": "五分鐘就夠，泡耐會澀。"
+  }
+ },
+ "fruit-cacao": {
+  "t": {
+   "name": "可可茶",
+   "oneLine": "可可果殼泡出嚟嘅朱古力香茶。",
+   "oxidation": "唔發酵 · 咖啡因低",
+   "ratioNote": "300毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "95度泡6分鐘，用果殼。",
+   "origin": "原產加勒比同西非。可可殼曬乾用。",
+   "flavor": "黑朱古力香同輕輕苦，帶淡甜。",
+   "pairing": "下午、甜嘢、加奶。",
+   "brewTip": "有少少咖啡因，夜晚唔好飲太多。"
+  }
+ },
+ "herb-lemon": {
+  "t": {
+   "name": "檸檬茶",
+   "oneLine": "檸檬糖漬或者鮮檸檬兌水嘅清爽茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2片",
+   "rounds": "1次",
+   "steepBasis": "80度泡3分鐘，加少少果皮會香啲。",
+   "origin": "原產地中海。檸檬糖漬或者鮮用。",
+   "flavor": "清爽檸檬香同酸味，帶淡甜。",
+   "pairing": "朝早、飯後、喉嚨痛。",
+   "brewTip": "白色果皮會苦，淨用黃色表皮。"
+  }
+ },
+ "herb-cucumber": {
+  "t": {
+   "name": "黃瓜茶",
+   "oneLine": "乾黃瓜泡出嚟嘅清涼淡茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配5克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾片。",
+   "origin": "韓國。黃瓜切片曬乾。",
+   "flavor": "清涼黃瓜香同淡甜，收口乾淨。",
+   "pairing": "熱嘅日子、飯後、攤凍。",
+   "brewTip": "攤凍最爽，泡耐會苦。"
+  }
+ },
+ "herb-hazel": {
+  "t": {
+   "name": "榛子茶",
+   "oneLine": "炒過嘅榛子磨碎煮出嚟嘅濃香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "95度煮7分鐘，用炒過磨碎嘅榛子。",
+   "origin": "韓國同歐洲。榛子炒過先用。",
+   "flavor": "焙堅果嘅濃香同淡甜。",
+   "pairing": "早餐、冬天、甜嘢。",
+   "brewTip": "炒過再磨先有油香，煮嗰陣要攪拌。"
+  }
+ },
+ "herb-aged-cucumber": {
+  "t": {
+   "name": "老黃瓜茶",
+   "oneLine": "乾老黃瓜煮出嚟嘅清淡清涼茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "400毫升配8克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮7分鐘，用乾片。",
+   "origin": "韓國。老黃瓜切片曬乾。",
+   "flavor": "清淡黃瓜香同淡甜，收口涼。",
+   "pairing": "夏天、飯後、攤凍。",
+   "brewTip": "去籽再曬，攤凍最爽。"
+  }
+ },
+ "trad-cascara": {
+  "t": {
+   "name": "鼠李皮茶",
+   "oneLine": "乾鼠李皮泡出嚟嘅果香微苦茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡5分鐘，用乾皮。",
+   "origin": "美國西北部。鼠李皮曬乾用。",
+   "flavor": "乾果香同輕輕苦、甜。",
+   "pairing": "朝早、飯後。",
+   "brewTip": "有輕瀉成分，一般建議一日唔好超過3克。"
+  }
+ },
+ "herb-oregano": {
+  "t": {
+   "name": "牛至茶",
+   "oneLine": "乾牛至泡出嚟嘅濃香微苦草本茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾葉。",
+   "origin": "地中海。牛至葉曬乾用。",
+   "flavor": "濃草本香同輕輕苦，尾段暖。",
+   "pairing": "飯後、冬天、有感冒先兆。",
+   "brewTip": "香氣強，2克就夠，加蜜糖柔啲。"
+  }
+ },
+ "white-baiya": {
+  "t": {
+   "name": "雲南白芽茶",
+   "oneLine": "雲南大葉種茶芽做嘅白茶，香氣比福鼎銀針更明顯。",
+   "oxidation": "約5%",
+   "ratioNote": "150毫升配4克",
+   "rounds": "6泡",
+   "steepBasis": "85度起泡20秒，每泡加5秒。",
+   "origin": "中國雲南。用當地野生大葉種芽頭，跟銀針工藝做。",
+   "flavor": "花香同果香，甜度高，口感柔。",
+   "pairing": "下午、招呼客人、甜嘢。",
+   "brewTip": "比福鼎銀針香，85度短泡。"
+  }
+ },
+ "white-taiwan": {
+  "t": {
+   "name": "台灣白茶",
+   "oneLine": "用台灣烏龍、紅茶品種做嘅白茶，花香華麗。",
+   "oxidation": "約8%",
+   "ratioNote": "150毫升配4克",
+   "rounds": "6泡",
+   "steepBasis": "85度起泡20秒，每泡加5秒。",
+   "origin": "台灣。紅玉、青心烏龍等品種跟白茶工藝做。",
+   "flavor": "按品種有華麗花香同果香。",
+   "pairing": "下午、招呼客人。",
+   "brewTip": "每款唔同，最好跟生產者建議沖。"
+  }
+ },
+ "herb-akebia": {
+  "t": {
+   "name": "木通茶",
+   "oneLine": "乾木通藤煮出嚟嘅微苦香茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾藤。",
+   "origin": "韓國同中國。木通藤曬乾用。",
+   "flavor": "微苦木香同淡甜。",
+   "pairing": "飯後、身重嘅時候。",
+   "brewTip": "藤切細先出味，落多會苦。"
+  }
+ },
+ "herb-peony": {
+  "t": {
+   "name": "芍藥茶",
+   "oneLine": "乾芍藥根煮出嚟嘅微苦微甜茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配4克",
+   "rounds": "2泡",
+   "steepBasis": "90度煮10分鐘，用乾根。",
+   "origin": "中國同韓國。芍藥根曬乾用。",
+   "flavor": "微苦根香同淡甜。",
+   "pairing": "下午、身體硬晒。",
+   "brewTip": "切薄片煮，加紅棗柔啲。"
+  }
+ },
+ "herb-purple-perilla": {
+  "t": {
+   "name": "紫蘇茶",
+   "oneLine": "乾紫蘇葉泡出嚟嘅濃香微辛茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡3分鐘，用乾葉。",
+   "origin": "韓國同中國。紫蘇葉曬乾用。",
+   "flavor": "獨特葉香同輕輕辛，收口涼。",
+   "pairing": "飯後、有感冒先兆。",
+   "brewTip": "香氣強，2克就夠，泡耐會苦。"
+  }
+ },
+ "herb-sunflower": {
+  "t": {
+   "name": "向日葵茶",
+   "oneLine": "乾向日葵花瓣泡出嚟嘅淡雅花茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "85度泡2分鐘，用花瓣。",
+   "origin": "韓國；原產北美。花瓣曬乾用。",
+   "flavor": "淡雅花香同淡甜，收口乾淨。",
+   "pairing": "下午、夏天、甜嘢。",
+   "brewTip": "香氣淡，泡耐會有草味。"
+  }
+ },
+ "blend-lemonblack": {
+  "t": {
+   "name": "檸檬紅茶",
+   "oneLine": "紅茶加檸檬皮同檸檬油嘅清爽拼配。",
+   "oxidation": "約95%",
+   "ratioNote": "300毫升配3克",
+   "rounds": "3泡",
+   "steepBasis": "95度泡3分鐘，加一片檸檬皮香啲。",
+   "origin": "英國。紅茶拼配檸檬油或者果皮。",
+   "flavor": "麥芽紅茶香同檸檬清爽，輕輕澀。",
+   "pairing": "朝早、飯後、凍茶。",
+   "brewTip": "泡好先加檸檬，一齊煮會苦。"
+  }
+ },
+ "blend-peachblack": {
+  "t": {
+   "name": "蜜桃紅茶",
+   "oneLine": "紅茶加蜜桃香嘅甜美拼配。",
+   "oxidation": "約95%",
+   "ratioNote": "300毫升配3克",
+   "rounds": "3泡",
+   "steepBasis": "95度泡3分鐘。",
+   "origin": "英國。紅茶加蜜桃香同花瓣。",
+   "flavor": "蜜桃甜香同麥芽紅茶，甜度柔。",
+   "pairing": "下午、甜嘢、凍茶。",
+   "brewTip": "加奶香氣柔啲，凍飲最香。"
+  }
+ },
+ "blend-leicha": {
+  "t": {
+   "name": "擂茶",
+   "oneLine": "茶葉同穀物、堅果一齊磨碎再沖水嘅客家茶。",
+   "oxidation": "唔發酵 · 咖啡因低",
+   "ratioNote": "300毫升配15克",
+   "rounds": "1次",
+   "steepBasis": "用90度水將粉調開攪勻。",
+   "origin": "中國廣東、福建同台灣客家地區。",
+   "flavor": "焙穀物堅果香同茶葉青香，口感杰。",
+   "pairing": "早餐、小食、招呼客人。",
+   "brewTip": "先用少少水調成糊，再沖水先唔會結塊。"
+  }
+ },
+ "blend-palbocha": {
+  "t": {
+   "name": "八寶茶",
+   "oneLine": "茶葉加紅棗、枸杞、桂圓、葡萄乾等沖泡嘅甜茶。",
+   "oxidation": "唔發酵 · 咖啡因低",
+   "ratioNote": "300毫升配10克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡5分鐘，材料一齊泡。",
+   "origin": "中國寧夏、甘肅回族地區。",
+   "flavor": "紅棗乾果嘅甜、茶葉淡澀同香料香。",
+   "pairing": "招呼客人、冬天、節日。",
+   "brewTip": "沖入滾水蓋住泡，甜度隨意。"
+  }
+ },
+ "herb-honeybush": {
+  "t": {
+   "name": "蜜樹茶",
+   "oneLine": "南非開普嘅蜜樹茶，蜜香柔和、無咖啡因。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配3克",
+   "rounds": "2泡",
+   "steepBasis": "95度泡5分鐘，泡耐更甜。",
+   "origin": "南非西開普。蜜樹葉同莖曬乾用。",
+   "flavor": "蜜同杏嘅香，柔和嘅甜，冇咖啡因。",
+   "pairing": "夜晚、甜嘢、加奶。",
+   "brewTip": "冇咖啡因，夜晚都飲得，加奶香氣都仲喺。"
+  }
+ },
+ "herb-spearmint": {
+  "t": {
+   "name": "留蘭香茶",
+   "oneLine": "比薄荷更柔甜嘅綠薄荷，飯後飲嘅溫和草本茶。",
+   "oxidation": "唔發酵 · 無咖啡因",
+   "ratioNote": "300毫升配2克",
+   "rounds": "2泡",
+   "steepBasis": "90度泡3分鐘，用乾葉。",
+   "origin": "地中海同歐洲。留蘭香葉曬乾用。",
+   "flavor": "柔和薄荷香同淡甜，收口乾淨。",
+   "pairing": "飯後、夜晚、凍茶。",
+   "brewTip": "比薄荷溫和，夜晚飲都輕鬆，攤凍都好。"
+  }
+ },
+ "blend-yuenyeung": {
+  "t": {
+   "name": "鴛鴦",
+   "oneLine": "紅茶同咖啡喺同一杯，香港茶餐廳嘅味道。",
+   "oxidation": "大約95%",
+   "ratioNote": "150毫升配6克，咖啡同煉奶按個人口味",
+   "rounds": "1次",
+   "steepBasis": "95度泡5分鐘至濃，再同咖啡大約七三混合。",
+   "origin": "香港茶餐廳，茶底係錫蘭同阿薩姆拼配。",
+   "process": "濃奶茶混入咖啡，用煉奶或者淡奶調濃淡。",
+   "story": "個名取自鴛鴦——兩隻雀合為一體，比喻茶同咖啡同一杯。",
+   "flavor": "麥芽、咖啡嘅苦同煉奶嘅甜疊埋一齊。",
+   "pairing": "港式多士、蛋類料理、早餐。",
+   "brewTip": "茶要濃，咖啡用少量濃縮。",
+   "keep": "茶葉密封乾燥。",
+   "keywords": "鴛鴦 香港 咖啡 奶茶 茶餐廳"
+  },
+  "x": [
+   "茶餐廳常見飲品，濃奶茶同咖啡大約七三混合，加煉奶調味。",
+   "濃紅茶混咖啡，再用煉奶或者淡奶調濃度。"
+  ]
+ }
+});
+  /* ── END 나무위키 보강 광동어 ── */
+
+  Object.assign(YUE, {"blend-kamachai": {"t": {"name": "卡瑪柴蘇特拉", "oneLine": "紅茶加豆蔻、肉桂、薑、丁香同雲呢拿——印度式奶茶嘅香。", "oxidation": "95%", "ratioNote": "300毫升配6克，再落半份奶", "rounds": "1泡", "steepBasis": "100度泡5分鐘，加奶同糖再煮滾一次。", "origin": "印度。塔巴隆用印度紅茶拼原粒香料。", "flavor": "香料嘅暖、濃紅茶嘅力、奶嘅圓甜。", "pairing": "咖喱角、烤餅、早餐麵包、辣咖喱。", "brewTip": "同奶一齊煮先逼得出香料味，糖隨意。"}}, "blend-mangomelange": {"t": {"name": "芒果美朗紅茶", "oneLine": "紅茶加芒果乾同向日葵花瓣，香甜而唔膩。", "oxidation": "95%", "ratioNote": "300毫升配5克", "rounds": "2泡", "steepBasis": "100度泡4分鐘，芒果乾一齊出味。", "origin": "印度紅茶拼芒果乾、芒果油同向日葵花瓣。", "flavor": "熟芒果嘅甜、紅茶嘅麥芽、花瓣嘅輕香。", "pairing": "凍檸茶、甜品、生果撻。", "brewTip": "凍泡都留得住香味。"}}, "blend-nycbreakfast": {"t": {"name": "紐約早餐紅茶", "oneLine": "錫蘭、阿薩姆同爪哇拼成嘅早晨濃茶，落奶都夠力。", "oxidation": "95%", "ratioNote": "300毫升配5克", "rounds": "2泡", "steepBasis": "100度泡4至5分鐘，加奶都頂得住。", "origin": "以斯里蘭卡錫蘭為主，拼印度阿薩姆同印尼爪哇。", "flavor": "甜而柔嘅麥芽香、茶湯深色，加奶更圓。", "pairing": "多士、貝果、蛋料理、早餐。", "brewTip": "泡濃啲再加奶，就係早餐奶茶。"}}, "white-cocopeony": {"t": {"name": "椰香白牡丹", "oneLine": "六成白茶加四成椰子，唔落奶都圓潤香甜。", "oxidation": "約10%", "ratioNote": "250毫升配4克", "rounds": "3泡", "steepBasis": "85度泡1分30秒，滾水會蓋過白茶嘅細緻。", "origin": "中國。白牡丹類白茶拼椰子。", "flavor": "白茶嘅乾草花香，疊住椰子嘅甜。", "pairing": "下午、甜品、椰子糕點。", "brewTip": "水溫低啲，唔好浸太耐；甜味嚟自椰子。"}}});
+
   var D = apply(window.TEAFaiData);
 
   return {

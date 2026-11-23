@@ -312,7 +312,7 @@
   }
 
   /* ============================================================
-     1. 차 백과 (기본 첫 화면) — 계열 필터 · 191종 · 실물 사진 · 원산지
+     1. 차 백과 (기본 첫 화면) — 계열 필터 · 301종 · 실물 사진 · 원산지
      ============================================================ */
   /* 취향 태그 비교의 기준 차 — 퀴즈 결과가 있으면 그 차 */
   function referenceTeaId() {
@@ -934,7 +934,7 @@
     var p = item.photo;
     if (!p) return "";
     var tag = p.m === "exact" ? t("photo.exact") : t("photo.family");
-    var artist = p.cr || "Wikimedia Commons";
+    var artist = p.cr || "";  /* 출처를 모르는 사진은 작가 표기를 비워 둡니다 */
     var lic = p.lu
       ? '<a href="' + esc(p.lu) + '" target="_blank" rel="noopener">' + esc(p.lic || "") + "</a>"
       : esc(p.lic || "");
