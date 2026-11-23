@@ -11347,7 +11347,6 @@ window.TEAFaiData = (function () {
     black: "完全発酵。赤い水色とミルクに負けない力はここから生まれる。",
     dark: "時間が保存期間ではなく材料になるお茶。",
     everyday: "穀物・根・実を炒るか乾かして淹れる一杯と、花や葉をそのまま淹れるハーブティー。カフェインなしで一日のそばに。",
-    traditional: "根・実・砂糖漬けを煮出した韓国の茶。体を温め、気を整える一杯。",
   };
 
   var JA_GROUPS = {
@@ -11358,7 +11357,6 @@ window.TEAFaiData = (function () {
     black: "紅茶",
     dark: "黒茶・プーアル茶",
     everyday: "代用茶・ハーブティー",
-    traditional: "伝統茶",
   };
 
   /* ---------------- 계열 (6) ---------------- */
@@ -12095,111 +12093,6 @@ window.TEAFaiData = (function () {
         keep: "炒過嘅穀物香氣散得快，少量分裝放陰涼處可以存3~6個月；花同葉密封可以存12個月。",
         "brewTip": "沸水沖5分鐘，根類10分鐘。花要冚蓋留住香氣。路易波士加奶都好飲。",
         keywords: "代用茶 大麥 玄米 蕎麥 粟米鬚 決明子 牛蒡 路易波士 馬黛 蒲公英 無咖啡因 花草茶 洋甘菊 薄荷 薰衣草 香茅 菊花 洛神花",
-      },
-    },
-    {
-      id: "traditional",
-      kind: "group",
-      hanja: "傳",
-      sub: "Traditional Tea",
-      accent: "#8A5A3C",
-      accentSoft: "#F2E4D8",
-      temp: 95,
-      tempRange: "90~100℃",
-      leaf: "3g",
-      water: "200ml",
-      steeps: [300, 360, 420],
-      maxSteep: 3,
-      oxidationValue: 0,
-      ko: {
-        name: "전통차",
-        "oneLine": "뿌리·열매·청으로 달이는 한국의 차 — 몸을 데우고 기운을 세우는 잔.",
-        oxidation: "무산화 · 대부분 카페인 없이",
-        "ratioNote": "200ml에 3g, 청(유자·모과)은 2큰술",
-        rounds: "1~3회",
-        "steepBasis": "95도에서 5분, 두 번째 6분. 뿌리·열매는 10분까지 우려도 됩니다.",
-        process: "말리기 → (볶음·덖음·절임) → 달임. 뿌리와 열매는 오래 끓이고, 유자·모과·오미자는 설탕·꿀에 절여 청으로 둡니다.",
-        varieties: ["쌍화·생강·대추", "유자·모과·오미자", "구기자·산수유·둥굴레", "도라지·감잎·뽕잎·쑥·연잎"],
-        flavor: "약재의 쌉쌀함과 청의 단맛 — 몸을 데우고 소화를 돕는 잔입니다.",
-        pairing: "겨울, 감기 기운, 식후. 쌍화·생강은 저녁, 유자·모과는 목이 칼칼할 때.",
-        keep: "청은 냉장 6개월, 말린 뿌리·열매는 밀봉해 서늘한 곳에 6~12개월.",
-        "brewTip": "청은 80도 물에 풀어야 향이 살아 있습니다. 뿌리차는 끓는 물에 10분.",
-        keywords: "전통차 한방차 쌍화 생강 대추 유자 모과 오미자 구기자 산수유 도라지 감잎 뽕잎 쑥 연잎 둥굴레",
-      },
-      en: {
-        name: "Traditional tea",
-        "oneLine": "Korea's decocted teas of root, fruit and preserved syrup — a cup that warms and steadies.",
-        oxidation: "None · mostly caffeine-free",
-        "ratioNote": "3 g to 200 ml; 2 spoons of syrup (yuja, mogwa)",
-        rounds: "1–3 infusions",
-        "steepBasis": "95 °C for 5 minutes, 6 for the second. Roots and fruit take up to 10.",
-        process: "Dried → (roasted, pan-fired or preserved in sugar) → decocted. Roots and fruit are boiled long; yuja, mogwa and omija are preserved in sugar or honey as cheong.",
-        varieties: ["Ssanghwa · ginger · jujube", "Yuja · quince · omija", "Goji · cornelian cherry · Solomon's seal", "Balloon flower · persimmon leaf · mulberry · mugwort · lotus"],
-        flavor: "The bittersweet of medicinal roots meeting the sweetness of syrup — warming and digestive.",
-        pairing: "Winter, a coming cold, after meals. Ssanghwa and ginger in the evening; yuja and quince for a scratchy throat.",
-        keep: "Cheong keeps 6 months refrigerated; dried root and fruit keep sealed and cool for 6–12 months.",
-        "brewTip": "Stir cheong into 80 °C water so the aroma survives; root teas want 10 minutes in boiling water.",
-        keywords: "traditional tea korean herbal tea ssanghwa ginger jujube yuja quince omija goji cornelian cherry balloon flower persimmon mulberry mugwort lotus",
-      },
-      "zh-CN": {
-        name: "传统茶",
-        "oneLine": "用根、果实与糖渍膏冲煮的韩国茶——暖身、安神的一杯。",
-        oxidation: "不发酵 · 大多无咖啡因",
-        "ratioNote": "200毫升配3克，柚子·木瓜膏2大匙",
-        rounds: "1~3泡",
-        "steepBasis": "95度泡5分钟，第二泡6分钟。根与果实可到10分钟。",
-        process: "晒干 → （烘炒·炒青·糖渍）→ 煎煮。根与果实久煮，柚子、木瓜、五味子用糖或蜂蜜腌成膏。",
-        varieties: ["双和·生姜·大枣", "柚子·木瓜·五味子", "枸杞·山茱萸·玉竹", "桔梗·柿叶·桑叶·艾草·荷叶"],
-        flavor: "药材的微苦与膏的甘甜——暖身又帮助消化。",
-        pairing: "冬天、感觉要感冒时、饭后。双和、生姜适合晚上；柚子、木瓜适合嗓子发干时。",
-        keep: "膏冷藏可存6个月，干燥的根与果实密封放阴凉处可存6~12个月。",
-        "brewTip": "膏要用80度水化开才留得住香气；根类茶用沸水煮10分钟。",
-        keywords: "传统茶 韩方茶 双和 生姜 大枣 柚子 木瓜 五味子 枸杞 山茱萸 桔梗 柿叶 桑叶 艾草 荷叶 玉竹",
-      },
-      "zh-TW": {
-        name: "傳統茶",
-        "oneLine": "用根、果實與糖漬膏沖煮的韓國茶——暖身、安神的一杯。",
-        oxidation: "不發酵 · 大多無咖啡因",
-        "ratioNote": "200毫升配3公克，柚子·木瓜膏2大匙",
-        rounds: "1~3泡",
-        "steepBasis": "95度泡5分鐘，第二泡6分鐘。根與果實可到10分鐘。",
-        process: "曬乾 → （烘炒·炒菁·糖漬）→ 煎煮。根與果實久煮，柚子、木瓜、五味子用糖或蜂蜜醃成膏。",
-        varieties: ["雙和·生薑·大棗", "柚子·木瓜·五味子", "枸杞·山茱萸·玉竹", "桔梗·柿葉·桑葉·艾草·荷葉"],
-        flavor: "藥材的微苦與膏的甘甜——暖身又幫助消化。",
-        pairing: "冬天、感覺要感冒時、飯後。雙和、生薑適合晚上；柚子、木瓜適合喉嚨乾時。",
-        keep: "膏冷藏可存6個月，乾燥的根與果實密封放陰涼處可存6~12個月。",
-        "brewTip": "膏要用80度水化開才留得住香氣；根類茶用沸水煮10分鐘。",
-        keywords: "傳統茶 韓方茶 雙和 生薑 大棗 柚子 木瓜 五味子 枸杞 山茱萸 桔梗 柿葉 桑葉 艾草 荷葉 玉竹",
-      },
-      ja: {
-        name: "伝統茶",
-        "oneLine": "根・実・砂糖漬けの膏を煮出してつくる韓国の茶 — 体を温め、気を整える一杯。",
-        oxidation: "無発酵 · ほとんどカフェインなし",
-        "ratioNote": "200mlに3g、柚子・木瓜の膏は大さじ2",
-        rounds: "1~3煎",
-        "steepBasis": "95度で5分、2煎目は6分。根と実は10分まで。",
-        process: "乾燥 → （焙煎・炒青・糖漬け）→ 煮出し。根と実は長く煮て、柚子・木瓜・五味子は砂糖や蜂蜜に漬けて膏にします。",
-        varieties: ["双和・生姜・ナツメ", "柚子・木瓜・五味子", "クコ・サンシュユ・アマドコロ", "キキョウ・柿の葉・桑の葉・ヨモギ・蓮の葉"],
-        flavor: "薬草のほろ苦さと膏の甘さ — 体を温め、消化を助けます。",
-        pairing: "冬、風邪の気配、食後に。双和・生姜は夜に、柚子・木瓜は喉が乾くときに。",
-        keep: "膏は冷蔵で6か月、乾燥した根と実は密封して涼しい場所に6~12か月。",
-        "brewTip": "膏は80度の湯に溶かすと香りが残ります。根の茶は沸騰した湯で10分。",
-        keywords: "伝統茶 韓方茶 双和 生姜 ナツメ 柚子 木瓜 五味子 クコ サンシュユ キキョウ 柿の葉 桑の葉 ヨモギ 蓮の葉 アマドコロ",
-      },
-      yue: {
-        name: "傳統茶",
-        "oneLine": "用根、果實同糖漬膏煲出嚟嘅韓國茶——暖身、安神嘅一杯。",
-        oxidation: "不發酵 · 大多無咖啡因",
-        "ratioNote": "200毫升配3克，柚子·木瓜膏2大匙",
-        rounds: "1~3泡",
-        "steepBasis": "95度沖5分鐘，第二泡6分鐘。根同果實可以到10分鐘。",
-        process: "曬乾 → （烘炒·炒菁·糖漬）→ 煲。根同果實煲耐啲，柚子、木瓜、五味子用糖或蜜糖醃成膏。",
-        varieties: ["雙和·生薑·紅棗", "柚子·木瓜·五味子", "杞子·山茱萸·玉竹", "桔梗·柿葉·桑葉·艾草·荷葉"],
-        flavor: "藥材嘅微苦同膏嘅甘甜——暖身又幫助消化。",
-        pairing: "冬天、覺得要感冒、飯後。雙和、生薑啱夜晚；柚子、木瓜啱喉嚨乾。",
-        keep: "膏冷藏可以存6個月，乾燥嘅根同果實密封放陰涼處可以存6~12個月。",
-        "brewTip": "膏要用80度水開才留得住香氣；根類茶用沸水煲10分鐘。",
-        keywords: "傳統茶 韓方茶 雙和 生薑 紅棗 柚子 木瓜 五味子 杞子 山茱萸 桔梗 柿葉 桑葉 艾草 荷葉 玉竹",
       },
     }
   ];
@@ -17021,7 +16914,7 @@ window.TEAFaiData = (function () {
     /* ── 허브 · 한국 전통차 ── */
     {
       id: "fruit-daechu",
-      group: "traditional",
+      group: "everyday",
       h: "棗",
       hz: "紅棗茶",
       hs: "红枣茶",
@@ -17085,7 +16978,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-ginger",
-      group: "traditional",
+      group: "everyday",
       h: "薑",
       hz: "生薑茶",
       hs: "生姜茶",
@@ -17143,7 +17036,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "fruit-yuja",
-      group: "traditional",
+      group: "everyday",
       h: "柚",
       hz: "柚子茶",
       hs: "柚子茶",
@@ -17207,7 +17100,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "fruit-omija",
-      group: "traditional",
+      group: "everyday",
       h: "五",
       hz: "五味子茶",
       hs: "五味子茶",
@@ -17271,7 +17164,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-ssanghwa",
-      group: "traditional",
+      group: "everyday",
       h: "雙",
       hz: "雙和茶",
       hs: "双和茶",
@@ -17329,7 +17222,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-dunggulle",
-      group: "traditional",
+      group: "everyday",
       h: "玉",
       hz: "玉竹茶",
       hs: "玉竹茶",
@@ -17561,7 +17454,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-persimmon",
-      group: "traditional",
+      group: "everyday",
       h: "柿",
       hz: "柿葉茶",
       hs: "柿叶茶",
@@ -17619,7 +17512,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-mulberry",
-      group: "traditional",
+      group: "everyday",
       h: "桑",
       hz: "桑葉茶",
       hs: "桑叶茶",
@@ -17677,7 +17570,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-lotus",
-      group: "traditional",
+      group: "everyday",
       h: "荷",
       hz: "荷葉茶",
       hs: "荷叶茶",
@@ -17735,7 +17628,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-balloonflower",
-      group: "traditional",
+      group: "everyday",
       h: "梗",
       hz: "桔梗茶",
       hs: "桔梗茶",
@@ -17793,7 +17686,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-mugwort",
-      group: "traditional",
+      group: "everyday",
       h: "艾",
       hz: "艾草茶",
       hs: "艾草茶",
@@ -17851,7 +17744,7 @@ window.TEAFaiData = (function () {
     },
     {
       id: "herb-tteokcha",
-      group: "traditional",
+      group: "everyday",
       h: "餅",
       hz: "餅茶",
       hs: "饼茶",
@@ -18381,7 +18274,7 @@ window.TEAFaiData = (function () {
     /* ── 과일차 (블렌드 포함) ── */
     {
       id: "fruit-mogwa",
-      group: "traditional",
+      group: "everyday",
       h: "木",
       hz: "木瓜茶",
       hs: "木瓜茶",
@@ -25287,7 +25180,7 @@ window.TEAFaiData = (function () {
   },
   {
     "id": "herb-gugija",
-    "group": "traditional",
+    "group": "everyday",
     "kind": "tea",
     "hanja": "枸",
     "sub": "Goji Berry Tea",
@@ -25401,7 +25294,7 @@ window.TEAFaiData = (function () {
   },
   {
     "id": "herb-cornus",
-    "group": "traditional",
+    "group": "everyday",
     "kind": "tea",
     "hanja": "茱",
     "sub": "Cornus Fruit Tea",
@@ -56814,13 +56707,6 @@ window.TEAFaiCulture = [
       "차나무 대신 곡물·뿌리·열매를 볶거나 말려 우린 대용차와, 꽃과 잎을 그대로 우린 허브차 — 카페인 없이 하루 곁에.",
       "산화도 무산화 · 카페인 없음 · 물 온도 90~100℃ · 잎 · 물 3g / 200ml · 포다 5분"
      ]
-    },
-    {
-     "h": "전통차 傳",
-     "p": [
-      "뿌리·열매·청으로 달이는 한국의 차 — 몸을 데우고 기운을 세우는 잔.",
-      "산화도 무산화 · 대부분 카페인 없이 · 물 온도 90~100℃ · 잎 · 물 3g / 200ml · 포다 5분"
-     ]
     }
    ],
    "en": [
@@ -56891,13 +56777,6 @@ window.TEAFaiCulture = [
      "p": [
       "Grains, roots and fruit roasted or dried instead of the tea bush, and flowers and leaves steeped as they are — caffeine-free, always at hand.",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
-     ]
-    },
-    {
-     "h": "Traditional tea 傳",
-     "p": [
-      "Korea's decocted teas of root, fruit and preserved syrup — a cup that warms and steadies.",
-      "Oxidation None · mostly caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
      ]
     }
    ],
@@ -56970,13 +56849,6 @@ window.TEAFaiCulture = [
       "不用茶树，把谷物、根与果实炒过或晒干来泡，再加上把花与叶直接泡开的花草茶——无咖啡因，随时在手边。",
       "发酵度 不发酵 · 无咖啡因 · 水温 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
      ]
-    },
-    {
-     "h": "传统茶 傳",
-     "p": [
-      "用根、果实与糖渍膏冲煮的韩国茶——暖身、安神的一杯。",
-      "发酵度 不发酵 · 大多无咖啡因 · 水温 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
-     ]
     }
    ],
    "zh-TW": [
@@ -57047,13 +56919,6 @@ window.TEAFaiCulture = [
      "p": [
       "不用茶樹，把穀物、根與果實炒過或曬乾來泡，再加上把花與葉直接泡開的花草茶——無咖啡因，隨時在手邊。",
       "發酵度 不發酵 · 無咖啡因 · 水溫 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
-     ]
-    },
-    {
-     "h": "傳統茶 傳",
-     "p": [
-      "用根、果實與糖漬膏沖煮的韓國茶——暖身、安神的一杯。",
-      "發酵度 不發酵 · 大多無咖啡因 · 水溫 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
      ]
     }
    ],
@@ -57126,13 +56991,6 @@ window.TEAFaiCulture = [
       "穀物・根・実を炒るか乾かして淹れる一杯と、花や葉をそのまま淹れるハーブティー。カフェインなしで一日のそばに。",
       "発酵度 無発酵 · カフェインなし · 湯温 90~100℃ · 茶葉 3g / 200ml · 一煎目 5分"
      ]
-    },
-    {
-     "h": "伝統茶 傳",
-     "p": [
-      "根・実・砂糖漬けを煮出した韓国の茶。体を温め、気を整える一杯。",
-      "発酵度 無発酵 · ほとんどカフェインなし · 湯温 90~100℃ · 茶葉 3g / 200ml · 一煎目 5分"
-     ]
     }
    ],
    "yue": [
@@ -57203,13 +57061,6 @@ window.TEAFaiCulture = [
      "p": [
       "唔用茶樹，用穀物、根同果實炒過或者曬乾嚟沖，再加埋將花同葉直接沖開嘅花草茶——無咖啡因，隨時喺手邊。",
       "發酵度 不發酵 · 無咖啡因 · 水溫 90~100℃ · 茶葉 3g / 200ml · 泡茶 5分"
-     ]
-    },
-    {
-     "h": "傳統茶 傳",
-     "p": [
-      "用根、果實同糖漬膏煲出嚟嘅韓國茶——暖身、安神嘅一杯。",
-      "發酵度 不發酵 · 大多無咖啡因 · 水溫 90~100℃ · 茶葉 3g / 200ml · 泡茶 5分"
      ]
     }
    ]
@@ -57733,7 +57584,7 @@ window.TEAFaiCulture = [
 
   /* 계열 버튼·백과 목록 순서 — 녹차·우롱차·홍차·흑차(보이차)·백차·황차 다음에
      블렌딩차·대용차·전통차·허브차·과일차가 옵니다. */
-  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "everyday", "traditional", "fruit"];
+  var GROUP_ORDER = ["green", "oolong", "black", "dark", "white", "yellow", "everyday", "fruit"];
 
   function orderedGroups() {
     var out = [];
@@ -59097,7 +58948,7 @@ window.TEAFaiCulture = [
         { key: "quiz.q6a", tags: { "k-sweet": 7, "b-medium": 1 } },
         { key: "quiz.q6b", tags: { "k-crisp": 7, "r-clean": 1 } },
         { key: "quiz.q6c", tags: { "k-blend": 10, "a-fruit": 2, "a-floral": 2 }, groups: ["black"] },
-        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday", "traditional"] }
+        { key: "quiz.q6d", tags: { "k-grain": 10, "a-roast": 2 }, groups: ["everyday"] }
       ]
     },
     {
