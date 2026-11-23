@@ -5792,6 +5792,12 @@ h3 {
 .culture-cat:first-child {
   margin-top: 2px;
 }
+.culture-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin: 0 0 6px;
+}
 .culture-card {
   display: block;
   width: 100%;
@@ -5801,7 +5807,7 @@ h3 {
   border-radius: 14px;
   padding: 0;
   overflow: hidden;
-  margin: 0 0 10px;
+  margin: 0;
   cursor: pointer;
   color: inherit;
   font: inherit;

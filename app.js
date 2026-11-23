@@ -277,9 +277,9 @@
     detailEl.hidden = true;
     listEl.hidden = false;
     var cats = [
+      ["basics", t("culture.cat.basics")],
       ["ceremony", t("culture.cat.ceremony")],
-      ["ware", t("culture.cat.ware")],
-      ["basics", t("culture.cat.basics")]
+      ["ware", t("culture.cat.ware")]
     ];
     var out = "";
     cats.forEach(function (pair) {
@@ -287,7 +287,7 @@
         return x.cat === pair[0];
       });
       if (!items.length) return;
-      out += '<h2 class="culture-cat">' + esc(pair[1]) + "</h2>";
+      out += '<h2 class="culture-cat">' + esc(pair[1]) + '</h2><div class="culture-grid">';
       items.forEach(function (x) {
         out +=
           '<button type="button" class="culture-card" data-culture="' +
@@ -300,6 +300,7 @@
           esc(cultureField(x.summary)) +
           "</span></span></button>";
       });
+      out += "</div>";
     });
     listEl.innerHTML = out;
     $$("[data-culture]", listEl).forEach(function (btn) {
@@ -934,7 +935,7 @@
     var p = item.photo;
     if (!p) return "";
     var tag = p.m === "exact" ? t("photo.exact") : t("photo.family");
-    var artist = p.cr || "";  /* 출처를 모르는 사진은 작가 표기를 비워 둡니다 */
+    var artist = p.cr || "Wikimedia Commons";
     var lic = p.lu
       ? '<a href="' + esc(p.lu) + '" target="_blank" rel="noopener">' + esc(p.lic || "") + "</a>"
       : esc(p.lic || "");
