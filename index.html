@@ -218,7 +218,22 @@
         <button class="tab" type="button" data-view="notes"><span data-i18n="tab.notes">노트</span></button>
       </nav>
       <div class="lang-switch" id="langSwitch" role="group" aria-label="언어" data-i18n-aria="a11y.lang"></div>
+      <!-- 폰(899px 이하)에서만 보이는 언어 버튼 — 누르면 언어 선택 화면이 열립니다 -->
+      <button class="lang-open" id="langOpen" type="button" aria-haspopup="true" data-i18n-aria="a11y.lang">
+        <svg width="16" height="16" aria-hidden="true"><use href="#ic-globe" /></svg><span id="langOpenLabel">한국어</span>
+      </button>
     </header>
+
+    <!-- 언어 선택 화면 (폰 전용 전체화면 목록) -->
+    <div class="lang-picker" id="langPicker" hidden role="dialog" aria-modal="true" data-i18n-aria="a11y.lang">
+      <div class="lang-picker-head">
+        <button class="lang-picker-back" id="langPickerBack" type="button" aria-label="Back">
+          <svg width="22" height="22" aria-hidden="true"><use href="#ic-arrow" /></svg>
+        </button>
+        <span class="lang-picker-title" data-i18n="lang.select">언어 선택</span>
+      </div>
+      <div class="lang-picker-list" id="langPickerList"></div>
+    </div>
 
     <main class="viewport">
       <!-- ───────── 1. 차 백과 (기본 화면) ───────── -->

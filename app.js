@@ -4149,6 +4149,23 @@
     syncHeaderHeight();
   }
 
+  function closeLangPicker() {
+    var p = $("#langPicker");
+    if (p) p.hidden = true;
+  }
+
+  function pickLang(code) {
+    setLang(code);
+    closeLangPicker();
+  }
+
+  /* 폰용 언어 선택 화면과 헤더 언어 버튼의 현재 언어 표시를 맞춥니다 */
+  function syncLangUI() {
+    L.mountPicker($("#langPickerList"), lang, pickLang);
+    var lbl = $("#langOpenLabel");
+    if (lbl) lbl.textContent = L.LABEL[lang] || lang;
+  }
+
   function setLang(next) {
     var picked = L.normalize(next);
     if (!picked || picked === lang) return;
@@ -4158,6 +4175,7 @@
     L.setDocumentLang(lang);
     D.use(lang);
     L.mountSwitcher($("#langSwitch"), lang, setLang);
+    syncLangUI();
     rerender();
     syncHeaderHeight();
   }
@@ -4167,6 +4185,16 @@
     L.setDocumentLang(lang);
     D.use(lang);
     L.mountSwitcher($("#langSwitch"), lang, setLang);
+    syncLangUI();
+
+    var langOpenBtn = $("#langOpen");
+    if (langOpenBtn)
+      langOpenBtn.addEventListener("click", function () {
+        var p = $("#langPicker");
+        if (p) p.hidden = false;
+      });
+    var langBackBtn = $("#langPickerBack");
+    if (langBackBtn) langBackBtn.addEventListener("click", closeLangPicker);
 
     var lastTea = storeGet(LAST_TEA_KEY, null);
     var startId = lastTea && D.byId(lastTea).id === lastTea ? lastTea : D.teas[0].id;

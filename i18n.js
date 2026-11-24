@@ -108,6 +108,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc":
         "녹차·백차·우롱차·홍차·흑차·얼그레이의 우림 온도와 시간, 차 백과, 시음 노트를 한 곳에. 《찻잎의 시간, 오늘의 한 잔》과 《얼그레이의 모든 것》을 바탕으로 만든 티키피디아 앱.",
       "a11y.lang": "언어",
+      "lang.select": "언어 선택",
       "brand.name": "티키피디아",
       "brand.sub": "Teakipedia",
       "tab.timer": "우림 타이머",
@@ -241,6 +242,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc":
         "Steeping temperatures and times for green, white, oolong, black and dark tea and Earl Grey, with a tea guide and tasting notes — Teakipedia, built from the books Time of Tea Leaves, Today's Cup and Everything About Earl Grey.",
       "a11y.lang": "Language",
+      "lang.select": "Language",
       "brand.name": "Teakipedia",
       "brand.sub": "",
       "tab.timer": "Timer",
@@ -376,6 +378,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc":
         "绿茶、白茶、乌龙茶、红茶、黑茶与伯爵茶的冲泡温度与时间，加上茶百科和品茶笔记——《茶叶的时间，今天的一杯》与《伯爵茶的一切》里整理出来的 Teakipedia 应用。",
       "a11y.lang": "语言",
+      "lang.select": "选择语言",
       "brand.name": "茶基百科",
       "brand.sub": "Teakipedia",
       "tab.timer": "计时",
@@ -508,6 +511,7 @@ window.TEAFaiI18N = (function () {
       "meta.desc":
         "綠茶、白茶、烏龍茶、紅茶、黑茶與伯爵茶的沖泡溫度與時間，加上茶百科和品茶筆記——《茶葉的時間，今天的一杯》與《伯爵茶的一切》裡整理出來的 Teakipedia 應用。",
       "a11y.lang": "語言",
+      "lang.select": "選擇語言",
       "brand.name": "茶基百科",
       "brand.sub": "Teakipedia",
       "tab.timer": "計時",
@@ -2431,6 +2435,7 @@ window.TEAFaiI18N = (function () {
   var YUE = {
     /* 공용 UI */
     "a11y.lang": "語言",
+    "lang.select": "揀語言",
     "brand.name": "茶基百科",
     "tab.guide": "茶百科",
     "tab.culture": "茶文化",
@@ -3290,6 +3295,7 @@ window.TEAFaiI18N = (function () {
     ja: {
     "meta.desc": "緑茶・烏龍茶・紅茶・黒茶・白茶・黄茶・ブレンド茶・代用茶・伝統茶・ハーブティーの301種を、実際の茶葉写真と産地つきで。淹れ方の温度と時間、ストア、パートナーの茶館、テイスティングノートを6言語で。",
     "a11y.lang": "言語",
+    "lang.select": "言語を選択",
     "brand.name": "ティーキペディア",
     "brand.sub": "Teakipedia",
     "a11y.tabbar": "メイン画面",
@@ -4183,6 +4189,47 @@ window.TEAFaiI18N = (function () {
     }
   }
 
+  /* 모바일 언어 선택 화면(전체화면 목록)용 행을 만듭니다.
+     순서는 LANGS 그대로이고, 현재 언어에는 체크 표시를 붙입니다. */
+  function mountPicker(el, lang, onChange) {
+    if (!el) return;
+    el.innerHTML = "";
+    for (var i = 0; i < LANGS.length; i++) {
+      (function (code) {
+        var b = document.createElement("button");
+        b.type = "button";
+        b.className = "lang-row";
+        b.setAttribute("data-lang", code);
+        b.setAttribute("lang", HTML_LANG[code] || code);
+        b.setAttribute("aria-pressed", String(code === lang));
+        var img = document.createElement("img");
+        img.className = "lang-flag";
+        img.src = flagSrc(code);
+        img.alt = "";
+        img.width = 24;
+        img.height = 17;
+        img.setAttribute("aria-hidden", "true");
+        img.loading = "lazy";
+        var span = document.createElement("span");
+        span.className = "lang-row-name";
+        span.textContent = LABEL[code];
+        b.appendChild(img);
+        b.appendChild(span);
+        if (code === lang) {
+          var check = document.createElement("span");
+          check.className = "lang-row-check";
+          check.textContent = "✓";
+          check.setAttribute("aria-hidden", "true");
+          b.appendChild(check);
+        }
+        b.addEventListener("click", function () {
+          onChange(code);
+        });
+        el.appendChild(b);
+      })(LANGS[i]);
+    }
+  }
+
   /* ---------------- 날짜 · 시간 표기 ---------------- */
 
   var WEEK = {
@@ -4275,6 +4322,7 @@ window.TEAFaiI18N = (function () {
     applyStatic: applyStatic,
     setDocumentLang: setDocumentLang,
     mountSwitcher: mountSwitcher,
+    mountPicker: mountPicker,
     fmtDate: fmtDate,
     fmtDateTime: fmtDateTime,
     fmtDuration: fmtDuration
