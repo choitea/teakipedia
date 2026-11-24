@@ -155,8 +155,10 @@ CHECK = r"""
   out.yueTeas = D.use('yue').teas.filter(function (t) { return !!t.name; }).length;
   out.hiTeas = D.use('hi').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.thTeas = D.use('th').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
+  out.viTeas = D.use('vi').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.hiGroups = D.use('hi').groups.filter(function (g) { return !!g.name; }).length;
   out.thGroups = D.use('th').groups.filter(function (g) { return !!g.name; }).length;
+  out.viGroups = D.use('vi').groups.filter(function (g) { return !!g.name; }).length;
   out.yueCantonese = D.use('yue').teas.filter(function (t) {
     return t.oneLine && /嘅|係|唔|冇|喺|啲|咁/.test(t.oneLine);
   }).length;
@@ -228,7 +230,7 @@ def run(plan=None, shops=None):
             "localStorage.setItem('teafai.shops.v1', %r)"
             % json.dumps({"version": shops.get("version"), "shops": shops.get("shops")}, ensure_ascii=False)
         )
-    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "app.js", "features.js"]
+    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "app.js", "features.js"]
     for f in files:
         src = (HERE / f).read_text(encoding="utf-8")
         try:
@@ -296,8 +298,10 @@ def main():
         and result["yueCantonese"] == 301
         and result["hiTeas"] == 301
         and result["thTeas"] == 301
+        and result["viTeas"] == 301
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
+        and result["viGroups"] == 7
         and result["pinnedOrder"] == "hongkong-first"
         and result["pinnedHtml"] > 200
         and result["partnerShopsText"] is True

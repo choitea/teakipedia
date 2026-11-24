@@ -17,6 +17,7 @@ data_js = (BASE / "data.js").read_text(encoding="utf-8")
 data_yue_js = (BASE / "data_yue.js").read_text(encoding="utf-8")
 data_hi_js = (BASE / "data_hi.js").read_text(encoding="utf-8")
 data_th_js = (BASE / "data_th.js").read_text(encoding="utf-8")
+data_vi_js = (BASE / "data_vi.js").read_text(encoding="utf-8")
 culture_js = (BASE / "culture.js").read_text(encoding="utf-8")
 i18n_js = (BASE / "i18n.js").read_text(encoding="utf-8")
 app_js = (BASE / "app.js").read_text(encoding="utf-8")
@@ -35,13 +36,13 @@ html = html.replace(
 
 # 국기 SVG 는 i18n.js 의 mountSwitcher 가 <img> 로 그리므로 data URI 로 함께 품습니다
 flags = {}
-for code, fname in (("ko", "ko"), ("en", "en"), ("zh-CN", "zh-CN"), ("zh-TW", "zh-TW"), ("ja", "ja"), ("yue", "yue"), ("hi", "hi"), ("th", "th")):
+for code, fname in (("ko", "ko"), ("en", "en"), ("zh-CN", "zh-CN"), ("zh-TW", "zh-TW"), ("ja", "ja"), ("yue", "yue"), ("hi", "hi"), ("th", "th"), ("vi", "vi")):
     raw = (BASE / "icons" / "flags" / (fname + ".svg")).read_bytes()
     flags[code] = "data:image/svg+xml;base64," + base64.b64encode(raw).decode("ascii")
 flag_js = "<script>window.TEAFaiFlags = " + json.dumps(flags) + ";</script>\n    "
 
 html = html.replace(
-    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="data_hi.js"></script>\n    <script src="data_th.js"></script>\n    <script src="culture.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
+    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="data_hi.js"></script>\n    <script src="data_th.js"></script>\n    <script src="data_vi.js"></script>\n    <script src="culture.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
     flag_js
     + "<script>\n"
     + supabase_js
@@ -55,6 +56,8 @@ html = html.replace(
     + data_hi_js
     + "\n</script>\n    <script>\n"
     + data_th_js
+    + "\n</script>\n    <script>\n"
+    + data_vi_js
     + "\n</script>\n    <script>\n"
     + culture_js
     + "\n</script>\n    <script>\n"

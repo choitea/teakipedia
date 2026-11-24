@@ -1,4 +1,4 @@
-/* 차 문화 글 17편 — 나라별 다례 · 다구 입문 · 차 상식 (8개 언어) */
+/* 차 문화 글 17편 — 나라별 다례 · 다구 입문 · 차 상식 (9개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -145,6 +145,24 @@ window.TEAFaiCulture = [
      "h": "ดาแรในชีวิตประจำวันทุกวันนี้",
      "p": "ปัจจุบัน ดาแรแบบเรียบง่ายในชีวิตประจำวันเป็นที่นิยมอย่างกว้างขวาง เพียงมีกาน้ำชาหนึ่งใบกับถ้วยไม่กี่ใบ ไม่ว่าจะที่บ้านหรือที่ร้านน้ำชา ผู้คนก็แบ่งปันชากันเป็นช่วงเวลาแห่งความสงบและการพูดคุย หากเพิ่งเริ่มต้น เพียงใส่ใจอุณหภูมิน้ำและเวลาแช่ชา ก็เพียงพอแล้วสำหรับชาดี ๆ สักถ้วย"
     }
+   ],
+   "vi": [
+    {
+     "h": "Charye, nghi lễ dâng trà",
+     "p": "Nghi lễ cúng tổ tiên của Hàn Quốc gọi là charye (차례) thường được giải thích là bắt nguồn từ phong tục dâng trà lên tổ tiên. Trong các ngôi chùa, triều đình và gia đình học giả thời Goryeo và Joseon, trà được pha cẩn thận khi đón khách và tưởng nhớ tổ tiên. Trà chưa bao giờ chỉ là một thức uống; đó là cách truyền tải tấm lòng của mình."
+    },
+    {
+     "h": "Trình tự cơ bản của darye",
+     "p": "Đầu tiên, đun sôi nước và làm ấm ấm trà cùng chén bằng nước nóng. Cho lá trà vào ấm đã ấm, rót nước ở nhiệt độ thích hợp vào và để trà ngấm. Khi rót, hãy rót luân phiên từng ít một vào các chén để mọi chén đều có độ đậm đều nhau."
+    },
+    {
+     "h": "Tinh thần hiếu khách",
+     "p": "Cốt lõi của darye là thái độ, không phải kỹ thuật. Chủ nhà chuẩn bị mọi thứ trước khi khách ngồi xuống và dâng chén trà bằng cả hai tay. Trong khi khách uống, chủ nhà nói ít và lặng lẽ quan tâm, để khách có thể tập trung vào hương thơm và vị trà."
+    },
+    {
+     "h": "Darye thường ngày hôm nay",
+     "p": "Ngày nay, darye thường ngày giản lược được thực hành rộng rãi. Với một ấm trà và vài chiếc chén ở nhà hoặc trong quán trà, mọi người chia sẻ trà như một khoảng thời gian để tĩnh tâm và trò chuyện. Nếu bạn mới bắt đầu, chỉ cần chú ý đến nhiệt độ nước và thời gian ủ là đủ để pha được một chén trà ngon."
+    }
    ]
   },
   "cat": "ceremony",
@@ -162,7 +180,8 @@ window.TEAFaiCulture = [
    "zh-CN": "从祭祀被称为“茶礼”（차례）一词便可看出，在韩国，茶与礼仪自古密不可分。本文介绍从烧水、温壶到双手奉茶的日常茶礼流程。",
    "zh-TW": "從祭祀被稱為「茶禮」（차례）一詞便可看出，在韓國，茶與禮儀自古密不可分。本文介紹從燒水、溫壺到雙手奉茶的日常茶禮流程。",
    "hi": "कोरिया में चाय और शिष्टाचार लंबे समय से एक ही चीज़ रहे हैं: पूर्वजों के अनुष्ठान के लिए प्रयुक्त शब्द 'चार्ये' (차례) का शाब्दिक अर्थ ही 'चाय अनुष्ठान' है। यह लेख पानी उबालने से लेकर दोनों हाथों से कप पेश करने तक, रोज़मर्रा के दार्ये की पूरी प्रक्रिया को समझाता है।",
-   "th": "ในเกาหลี ชากับมารยาทเป็นเรื่องเดียวกันมานานแล้ว คำว่า ชารเย ซึ่งหมายถึงพิธีไหว้บรรพบุรุษ แปลตรงตัวได้ว่า 'พิธีชา' บทความนี้จะพาไปรู้จักขั้นตอนของดาแรในชีวิตประจำวัน ตั้งแต่การต้มน้ำไปจนถึงการยื่นถ้วยชาด้วยสองมือ"
+   "th": "ในเกาหลี ชากับมารยาทเป็นเรื่องเดียวกันมานานแล้ว คำว่า ชารเย ซึ่งหมายถึงพิธีไหว้บรรพบุรุษ แปลตรงตัวได้ว่า 'พิธีชา' บทความนี้จะพาไปรู้จักขั้นตอนของดาแรในชีวิตประจำวัน ตั้งแต่การต้มน้ำไปจนถึงการยื่นถ้วยชาด้วยสองมือ",
+   "vi": "Ở Hàn Quốc, trà và lễ nghi từ lâu đã là một: từ chỉ nghi lễ cúng tổ tiên, charye, theo nghĩa đen có nghĩa là 'lễ trà'. Bài viết này giới thiệu trình tự của darye thường ngày, từ đun nước đến dâng chén trà bằng cả hai tay."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -172,7 +191,8 @@ window.TEAFaiCulture = [
    "zh-CN": "韩国茶礼——敬茶之礼",
    "zh-TW": "韓國茶禮——敬茶之禮",
    "hi": "कोरियाई दार्ये — चाय पेश करने का शिष्टाचार",
-   "th": "ดาแรของเกาหลี — มารยาทแห่งการถวายชา"
+   "th": "ดาแรของเกาหลี — มารยาทแห่งการถวายชา",
+   "vi": "Darye Hàn Quốc — Lễ nghi dâng trà"
   }
  },
  {
@@ -320,6 +340,24 @@ window.TEAFaiCulture = [
      "h": "เหยือกแบ่งชา ถ้วยดมกลิ่น และถ้วยชิม",
      "p": "ชาที่ชงแล้วจะถูกรินลงในเหยือกแบ่งชา (กงเต้าเป้ย) ก่อน เพื่อให้ความเข้มของชาสม่ำเสมอกันก่อนเสิร์ฟ อีกขั้นตอนหนึ่งที่นิยมกันคือ รินชาลงในถ้วยดมกลิ่นทรงสูง (เหวินเซียงเป้ย) เพื่อดมกลิ่นหอมเพียงอย่างเดียวก่อน จากนั้นจึงถ่ายลงถ้วยชิม (ผิ่นหมิงเป้ย) สำหรับดื่ม เป็นการแยกการดื่มด่ำกลิ่นและรสออกเป็นสองขั้นตอน"
     }
+   ],
+   "vi": [
+    {
+     "h": "Quê hương của trà công phu",
+     "p": "Trà công phu (工夫茶) phát triển ở Triều Châu, Quảng Đông và vùng Mân Nam ở miền nam Phúc Kiến. Các ghi chép từ thời nhà Thanh đã mô tả trà công phu Triều Châu, và phong cách này đã ảnh hưởng mạnh mẽ đến cách thưởng trà khắp Trung Quốc và Đài Loan."
+    },
+    {
+     "h": "'Công phu' nghĩa là thời gian và sự chăm chút",
+     "p": "Ở đây, công phu không có nghĩa là võ thuật. Nó có nghĩa là dành thời gian và kỹ năng cho một việc gì đó. Cái tên phản ánh sự chăm chút đổ vào từng bước: chọn lá trà ngon, đun nước và pha trong những lần ủ ngắn, lặp đi lặp lại."
+    },
+    {
+     "h": "Dụng cụ nhỏ, trà đậm, nhiều vòng pha",
+     "p": "Pha trà công phu dùng ấm trà cỡ lòng bàn tay hoặc gaiwan chứa đầy lá trà, ủ nhanh và lặp lại năm lần trở lên. Mỗi lần pha, hương thơm và vị trà thay đổi đôi chút, và việc nếm sự thay đổi đó qua từng vòng chính là niềm vui của phong cách này."
+    },
+    {
+     "h": "Chén công đạo, chén ngửi hương, chén thưởng trà",
+     "p": "Trà đã pha trước tiên được rót vào chén công đạo (gongdaobei) để độ đậm đều nhau trước khi phục vụ. Theo một trình tự phổ biến khác, trà được rót vào chén ngửi hương cao (wenxiangbei) chỉ để thưởng thức mùi hương, rồi chuyển sang chén thưởng trà (pinmingbei) để uống — thưởng thức hương và vị thành hai bước riêng biệt."
+    }
    ]
   },
   "cat": "ceremony",
@@ -337,7 +375,8 @@ window.TEAFaiCulture = [
    "zh-CN": "源于潮州与闽南的工夫茶，用小壶或盖碗把茶泡得浓醇，分作多次短泡慢慢品饮。本文介绍公道杯与闻香杯的作用，以及“工夫”二字的含义。",
    "zh-TW": "源於潮州與閩南的工夫茶，用小壺或蓋碗把茶泡得濃醇，分作多次短泡慢慢品飲。本文介紹公道杯與聞香杯的作用，以及「工夫」二字的含義。",
    "hi": "चाओझोउ और दक्षिणी फ़ुजियान में जन्मी गोंगफ़ू चाय छोटी-सी केतली या गायवान में तेज़ चाय बनाती है और उसे कई छोटी-छोटी बारों में साझा करती है। जानिए कि न्याय पात्र और खुशबू कप क्या काम करते हैं, और 'गोंगफ़ू' का अर्थ समय और देखभाल क्यों है।",
-   "th": "ชากงฟูถือกำเนิดที่เฉาโจวและฝูเจี้ยนตอนใต้ เป็นการชงชาเข้มข้นในกาใบเล็กหรือไก้หว่าน แล้วแบ่งกันดื่มหลายรอบ รอบละสั้น ๆ มาทำความรู้จักหน้าที่ของเหยือกแบ่งชาและถ้วยดมกลิ่น และเหตุผลที่คำว่า 'กงฟู' หมายถึงเวลาและความใส่ใจ"
+   "th": "ชากงฟูถือกำเนิดที่เฉาโจวและฝูเจี้ยนตอนใต้ เป็นการชงชาเข้มข้นในกาใบเล็กหรือไก้หว่าน แล้วแบ่งกันดื่มหลายรอบ รอบละสั้น ๆ มาทำความรู้จักหน้าที่ของเหยือกแบ่งชาและถ้วยดมกลิ่น และเหตุผลที่คำว่า 'กงฟู' หมายถึงเวลาและความใส่ใจ",
+   "vi": "Ra đời ở Triều Châu và miền nam Phúc Kiến, trà công phu pha trà đậm trong chiếc ấm nhỏ xíu hoặc gaiwan và chia sẻ qua nhiều lần pha ngắn. Hãy tìm hiểu chén công đạo và chén ngửi hương dùng để làm gì, và vì sao 'công phu' có nghĩa là thời gian và sự chăm chút."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -347,7 +386,8 @@ window.TEAFaiCulture = [
    "zh-CN": "中国工夫茶——小壶多泡，慢慢分享",
    "zh-TW": "中國工夫茶——小壺多泡，慢慢分享",
    "hi": "चीनी गोंगफ़ू चाय — छोटी केतलियाँ, कई बार की चाय",
-   "th": "ชากงฟูของจีน — กาเล็ก ชงหลายรอบ"
+   "th": "ชากงฟูของจีน — กาเล็ก ชงหลายรอบ",
+   "vi": "Trà Công Phu Trung Quốc — Ấm nhỏ, nhiều lần pha"
   }
  },
  {
@@ -495,6 +535,24 @@ window.TEAFaiCulture = [
      "h": "มารยาทพื้นฐานสำหรับแขก",
      "p": "เมื่อรับถ้วยชา แขกจะโค้งคำนับเล็กน้อย จากนั้นหมุนถ้วยบนฝ่ามือเล็กน้อยเพื่อไม่ให้ดื่มตรงด้านหน้าที่ตกแต่งไว้ หลังจากดื่มหมด แขกจะเช็ดขอบถ้วย ชื่นชมถ้วย และขอบคุณเจ้าบ้าน เพียงรู้ขั้นตอนง่าย ๆ นี้ก็เพียงพอแล้วสำหรับประสบการณ์ครั้งแรก"
     }
+   ],
+   "vi": [
+    {
+     "h": "Đánh matcha trong bát",
+     "p": "Trong sadō, bột matcha được cho vào bát trà (chawan), thêm nước nóng, và trà được đánh bằng chổi tre (chasen) cho đến khi nổi bọt. Chủ nhà pha trà trước mặt từng vị khách, và một món ngọt theo mùa được phục vụ trước để cân bằng vị đắng của matcha."
+    },
+    {
+     "h": "Sen no Rikyū và wabi",
+     "p": "Sen no Rikyū, bậc thầy trà đạo thế kỷ 16, được ghi nhận là người hoàn thiện phong cách trà wabi — tìm thấy vẻ đẹp trong sự giản dị và không hoàn hảo. Thay vì dụng cụ xa hoa, ông coi trọng những chiếc bát mộc mạc và phòng trà nhỏ, và sadō hình thành như một con đường rèn luyện tinh thần."
+    },
+    {
+     "h": "Ichi-go ichi-e",
+     "p": "Cụm từ được trân trọng ichi-go ichi-e (一期一會) có nghĩa là cuộc gặp gỡ này chỉ xảy ra một lần trong đời. Chủ nhà dồn hết sự chăm chút vào một dịp không bao giờ lặp lại, và khách đón nhận sự chăm chút đó với lòng biết ơn, thưởng thức trọn vẹn một bát trà duy nhất."
+    },
+    {
+     "h": "Phép tắc cơ bản cho khách",
+     "p": "Khi nhận bát trà, khách khẽ cúi chào, rồi xoay nhẹ bát trên lòng bàn tay để không uống từ mặt trước có trang trí của bát. Sau khi uống xong, khách lau miệng bát, ngắm nhìn chiếc bát và cảm ơn chủ nhà. Biết được trình tự đơn giản này là đủ cho trải nghiệm đầu tiên."
+    }
    ]
   },
   "cat": "ceremony",
@@ -511,7 +569,8 @@ window.TEAFaiCulture = [
    "zh-CN": "日本茶道以茶碗调制抹茶待客，相传由千利休确立了“侘”的美学。本文以入门角度介绍“一期一会”的心境与客人的基本礼仪。",
    "zh-TW": "日本茶道以茶碗調製抹茶待客，相傳由千利休確立了「侘」的美學。本文以入門角度介紹「一期一會」的心境與客人的基本禮儀。",
    "hi": "जापानी सादो में माचा को चाय के कटोरे में फेंटकर हर मेहमान को परोसा जाता है। यह लेख सेन नो रिक्यू के वाबी सौंदर्यबोध, इचि-गो इचि-ए की भावना और शुरुआती लोगों के लिए मेहमान के मूल शिष्टाचार से परिचित कराता है।",
-   "th": "ในซาโดของญี่ปุ่น มัทฉะจะถูกตีในถ้วยชาและเสิร์ฟให้แขกทีละคน บทความนี้แนะนำสุนทรียะแบบวาบิของเซ็น โนะ ริคิว จิตวิญญาณของอิจิโกะ อิจิเอะ และมารยาทพื้นฐานสำหรับแขกมือใหม่"
+   "th": "ในซาโดของญี่ปุ่น มัทฉะจะถูกตีในถ้วยชาและเสิร์ฟให้แขกทีละคน บทความนี้แนะนำสุนทรียะแบบวาบิของเซ็น โนะ ริคิว จิตวิญญาณของอิจิโกะ อิจิเอะ และมารยาทพื้นฐานสำหรับแขกมือใหม่",
+   "vi": "Trong sadō của Nhật Bản, matcha được đánh trong bát trà và dâng cho từng vị khách. Bài viết này giới thiệu thẩm mỹ wabi của Sen no Rikyū, tinh thần ichi-go ichi-e và những phép tắc cơ bản dành cho khách mới bắt đầu."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -521,7 +580,8 @@ window.TEAFaiCulture = [
    "zh-CN": "日本茶道——一期一会的茶",
    "zh-TW": "日本茶道——一期一會的茶",
    "hi": "जापानी सादो — एक कप, एक मुलाकात",
-   "th": "ซาโดของญี่ปุ่น — หนึ่งถ้วย หนึ่งการพบพาน"
+   "th": "ซาโดของญี่ปุ่น — หนึ่งถ้วย หนึ่งการพบพาน",
+   "vi": "Sadō Nhật Bản — Một chén trà, một lần gặp gỡ"
   }
  },
  {
@@ -669,6 +729,24 @@ window.TEAFaiCulture = [
      "h": "กาจื่อซาใบเล็ก จิบเข้มข้น",
      "p": "ทั้งเหลาเหรินฉาและศิลปะชาต่างใช้กาดินจื่อซาใบเล็ก ใส่ใบชาในปริมาณมาก ชงสั้น ๆ ซ้ำหลายรอบ ถ้วยมีขนาดเล็กแต่ทุกจิบเข้มข้น และการแบ่งปันกันว่ากลิ่นรสเปลี่ยนไปอย่างไรในแต่ละรอบ คือความสุขของชาอู่หลงไต้หวัน"
     }
+   ],
+   "vi": [
+    {
+     "h": "Laoren cha, trà chia sẻ thong thả",
+     "p": "Laoren cha (老人茶, 'trà của người già') là phong tục thường ngày của những người lớn tuổi tụ họp dưới gốc cây hoặc mái hiên để pha trà ô long đậm trong chiếc ấm nhỏ và chia sẻ thong thả. Từ 'người già' mang một thái độ: trà không bao giờ vội vã."
+    },
+    {
+     "h": "Bước vào trà nghệ quán",
+     "p": "Khi kinh tế Đài Loan phát triển trong thập niên 1970 và 1980, các quán trà chuyên về trà — chayiguan — mọc lên nhiều, và cách uống laoren cha được trau chuốt thành 'trà nghệ' trang trọng. Ngày nay, những quán trà này là nơi du khách thường trải nghiệm trà ô long Đài Loan nhất."
+    },
+    {
+     "h": "Hương trước, vị sau, với chén ngửi hương",
+     "p": "Trà nghệ Đài Loan nổi tiếng với việc thưởng hương trước khi nếm vị. Trà đã pha được rót trước vào chén ngửi hương cao (wenxiangbei), rồi chuyển sang chén uống; sau đó khách nâng chiếc chén ngửi hương đã rỗng lên và hít hà hương thơm còn lưu lại — một cách để tận hưởng trọn vẹn hương thơm phong phú của trà ô long."
+    },
+    {
+     "h": "Ấm tử sa nhỏ, từng ngụm đậm đà",
+     "p": "Cả laoren cha lẫn trà nghệ đều dùng ấm đất tử sa nhỏ chứa đầy lá trà, pha trong những lần ủ ngắn lặp lại. Chén trà tuy nhỏ nhưng mỗi ngụm đều đậm đà, và việc chia sẻ cảm nhận vị trà thay đổi qua từng lần pha chính là niềm vui của trà ô long Đài Loan."
+    }
    ]
   },
   "cat": "ceremony",
@@ -686,7 +764,8 @@ window.TEAFaiCulture = [
    "zh-CN": "在台湾，用小紫砂壶把乌龙茶泡得浓醇、分着慢慢喝的“老人茶”文化，后来发展成茶艺馆文化。本文介绍先用闻香杯闻香的独特顺序。",
    "zh-TW": "在台灣，用小紫砂壺把烏龍茶泡得濃醇、分著慢慢喝的「老人茶」文化，後來發展成茶藝館文化。本文介紹先用聞香杯聞香的獨特順序。",
    "hi": "ताइवान में बुज़ुर्ग कभी छोटी मिट्टी की केतलियों से तेज़ ऊलोंग साझा करने के लिए इकट्ठा होते थे — यह प्रथा 'लाओरेन चा' कहलाती थी और वही आज के चाय-कला घरों में विकसित हुई। खुशबू कप का उपयोग करके खुशबू को पहले रखने वाले इस अनुष्ठान को जानिए।",
-   "th": "ในไต้หวัน ครั้งหนึ่งผู้สูงอายุเคยรวมตัวกันแบ่งปันชาอู่หลงเข้มข้นจากดินเผาใบเล็ก ธรรมเนียมที่เรียกว่า เหลาเหรินฉา ซึ่งเติบโตกลายมาเป็นร้านศิลปะชาในปัจจุบัน มาทำความรู้จักพิธีที่ให้ความสำคัญกับกลิ่นก่อนรส โดยใช้ถ้วยดมกลิ่นกัน"
+   "th": "ในไต้หวัน ครั้งหนึ่งผู้สูงอายุเคยรวมตัวกันแบ่งปันชาอู่หลงเข้มข้นจากดินเผาใบเล็ก ธรรมเนียมที่เรียกว่า เหลาเหรินฉา ซึ่งเติบโตกลายมาเป็นร้านศิลปะชาในปัจจุบัน มาทำความรู้จักพิธีที่ให้ความสำคัญกับกลิ่นก่อนรส โดยใช้ถ้วยดมกลิ่นกัน",
+   "vi": "Ở Đài Loan, các bậc cao niên từng tụ họp để chia sẻ trà ô long đậm từ những chiếc ấm đất nhỏ xíu — một phong tục gọi là laoren cha, sau này phát triển thành các trà nghệ quán ngày nay. Hãy khám phá nghi thức ưu tiên hương thơm bằng chén ngửi hương."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -696,7 +775,8 @@ window.TEAFaiCulture = [
    "zh-CN": "台湾茶艺——从老人茶到茶艺馆",
    "zh-TW": "台灣茶藝——從老人茶到茶藝館",
    "hi": "ताइवानी चाय कला — लाओरेन चा से चायघर तक",
-   "th": "ศิลปะชาไต้หวัน — จากเหลาเหรินฉาสู่ร้านน้ำชา"
+   "th": "ศิลปะชาไต้หวัน — จากเหลาเหรินฉาสู่ร้านน้ำชา",
+   "vi": "Trà nghệ Đài Loan — Từ Laoren Cha đến trà quán"
   }
  },
  {
@@ -876,6 +956,28 @@ window.TEAFaiCulture = [
      "h": "การนั่งร่วมโต๊ะและความคึกคักแสนสุข",
      "p": "ในช่วงมื้อกลางวัน การนั่งร่วมโต๊ะกับคนแปลกหน้า หรือ ต๊าบถ่อย (搭枱) เป็นเรื่องปกติอย่างยิ่ง อาหารจะถูกสั่งด้วยคำย่อตะโกนกัน จานอาหารมาถึงภายในไม่กี่นาที และไม่มีใครนั่งแช่นาน ตอนแรกอาจรู้สึกวุ่นวาย แต่ความรวดเร็วและเสียงอึกทึกอันร่าเริงนั้นเอง คือภาพที่ชาวฮ่องกงได้สัมผัสทุกวัน"
     }
+   ],
+   "vi": [
+    {
+     "h": "Cha chaan teng là gì?",
+     "p": "Cha chaan teng là quán ăn thường ngày có ở mọi góc phố Hồng Kông. Nó phát triển từ bing sutt (冰室), những tiệm bán đồ uống đá và đồ ăn nhẹ kiểu Tây đơn giản, và sau Chiến tranh thế giới thứ hai đã trở thành nơi phục vụ món Tây nhanh, rẻ được làm lại theo phong cách Hồng Kông. Bánh mì nướng và trà sữa vào bữa sáng, mì xào vào bữa trưa — đó là đời sống thường ngày của Hồng Kông được bày trên bàn ăn."
+    },
+    {
+     "h": "Trà sữa tất lụa",
+     "p": "Gương mặt của cha chaan teng là trà sữa Hồng Kông. Nhiều loại trà đen được phối trộn và pha đậm, rồi lọc đi lọc lại qua một túi vải dài trông giống chiếc tất, khiến trà mượt mà như lụa. Sữa đặc không đường hoặc sữa đặc có đường tạo độ béo và đậm đà, và chiếc túi lọc đã mang lại cho nó biệt danh 'trà sữa tất lụa' (絲襪奶茶)."
+    },
+    {
+     "h": "Yuanyang và trà chanh đá",
+     "p": "Yuanyang (鴛鴦), hỗn hợp cà phê và trà sữa được đặt tên theo chim uyên ương sống chung thủy trọn đời, là thức uống đặc trưng khác của quán. Trà chanh đá (凍檸茶) — trà đen với đá và vài lát chanh — cũng thiết yếu không kém. Dùng ống hút chọc vào chanh để ép nước cốt và điều chỉnh hương vị là một phần của nghi thức Hồng Kông."
+    },
+    {
+     "h": "Ăn gì cùng với trà",
+     "p": "Bánh dứa (菠蘿包) hoàn toàn không chứa dứa; lớp vỏ giòn nứt của nó chỉ đơn giản là trông giống quả dứa, và khi kẹp một lát bơ lạnh bên trong, nó trở thành món bo lo yau được yêu thích. Bánh mì nướng kiểu Pháp Hồng Kông (西多士), chiên ngập dầu và rưới đẫm siro, cùng súp macaroni với giăm bông là những món quen thuộc của bữa sáng. Một ly trà sữa đậm kèm món gì đó ngọt và ấm từ lò nướng là sự kết hợp kinh điển của cha chaan teng."
+    },
+    {
+     "h": "Ghép bàn và không khí rộn ràng",
+     "p": "Vào giờ trưa, việc ghép bàn với người lạ — dap toi (搭枱) — là hoàn toàn bình thường. Các món được gọi bằng tiếng lóng ngắn gọn, món ăn được mang ra trong vài phút, và không ai nán lại lâu. Lúc đầu có thể cảm thấy hối hả, nhưng chính tốc độ và tiếng ồn vui vẻ đó là khung cảnh người Hồng Kông tận hưởng mỗi ngày."
+    }
    ]
   },
   "cat": "ceremony",
@@ -892,7 +994,8 @@ window.TEAFaiCulture = [
    "zh-CN": "在香港大众食堂茶餐厅里，遇见香浓的丝袜奶茶、鸳鸯和菠萝包——快节奏又热闹的港式茶文化入门。",
    "zh-TW": "在香港大眾食堂茶餐廳裡，遇見香濃的絲襪奶茶、鴛鴦和菠蘿包——快節奏又熱鬧的港式茶文化入門。",
    "hi": "हांगकांग के चा चान टेंग भोजनालयों में तेज़ दूध वाली चाय, कॉफ़ी-चाय युआनयांग और पाइनएप्पल बन — शहर की चाय संस्कृति का एक तेज़, जीवंत परिचय।",
-   "th": "ชานมเข้มข้น หยวนหยางที่ผสมกาแฟกับชา และขนมปังสับปะรด ที่ร้านอาหารตามสั่งแบบฮ่องกงที่เรียกว่า ฉาฉานเท้ง — บทนำสู่วัฒนธรรมชาของเมืองนี้ที่รวดเร็วและคึกคัก"
+   "th": "ชานมเข้มข้น หยวนหยางที่ผสมกาแฟกับชา และขนมปังสับปะรด ที่ร้านอาหารตามสั่งแบบฮ่องกงที่เรียกว่า ฉาฉานเท้ง — บทนำสู่วัฒนธรรมชาของเมืองนี้ที่รวดเร็วและคึกคัก",
+   "vi": "Trà sữa đậm, yuanyang cà phê-trà và bánh dứa tại các quán ăn cha chaan teng của Hồng Kông — một giới thiệu nhanh và sôi động về văn hóa trà của thành phố."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -902,7 +1005,8 @@ window.TEAFaiCulture = [
    "zh-CN": "香港茶餐厅与港式奶茶",
    "zh-TW": "香港茶餐廳與港式奶茶",
    "hi": "हांगकांग के चा चान टेंग और दूध वाली चाय",
-   "th": "ฉาฉานเท้งและชานมของฮ่องกง"
+   "th": "ฉาฉานเท้งและชานมของฮ่องกง",
+   "vi": "Cha Chaan Teng Hồng Kông và Trà Sữa"
   }
  },
  {
@@ -1050,6 +1154,24 @@ window.TEAFaiCulture = [
      "h": "ช่วงพักดื่มชาในชีวิตประจำวัน",
      "p": "แยกจากชายามบ่ายแบบเป็นทางการ ช่วงพักดื่มชาสั้น ๆ ได้ถักทออยู่ในชีวิตประจำวันของชาวอังกฤษ การหยุดงานเพื่อดื่มชาถุงใส่นมสักแก้ว เป็นสัญญาณเล็ก ๆ ว่าถึงเวลาพักแล้ว การเสิร์ฟชาให้ผู้มาเยือนก่อนเป็นอันดับแรก ก็เป็นท่าทีพื้นฐานของการต้อนรับแบบอังกฤษเช่นกัน"
     }
+   ],
+   "vi": [
+    {
+     "h": "Trà chiều bắt đầu như thế nào",
+     "p": "Vào giữa thế kỷ 19 ở Anh, phong tục dùng trà kèm đồ ăn nhẹ giữa bữa trưa và bữa tối muộn lan rộng trong giới quý tộc, và đây được cho là nguồn gốc của trà chiều. Trà đen được pha đậm trong ấm trà, rót vào tách, và hoàn thiện với sữa và đường tùy khẩu vị. Cách uống trà đậm đà với sữa này đã trở thành phong cách uống trà đặc trưng của Anh."
+    },
+    {
+     "h": "Ba tầng, theo thứ tự",
+     "p": "Tại các khách sạn và phòng trà, trà chiều thường được mang ra trên khay ba tầng. Thứ tự thông thường là bắt đầu với bánh sandwich mặn như sandwich dưa chuột ở tầng dưới, chuyển sang scone với kem đông và mứt ở tầng giữa, và kết thúc với bánh ngọt và bánh nhỏ ở tầng trên. Việc phết kem hay mứt lên scone trước cũng là một cuộc cạnh tranh thân thiện giữa các vùng miền."
+    },
+    {
+     "h": "Sữa trước, hay trà trước?",
+     "p": "Anh Quốc có một cuộc tranh luận lâu đời và vui vẻ về việc nên cho sữa vào tách trước trà hay sau trà. Cho sữa vào trước được cho là để bảo vệ những chiếc tách sứ mỏng manh khỏi cú sốc của trà nóng. Cách nào cũng không sai; mỗi gia đình đơn giản là có thói quen riêng của mình."
+    },
+    {
+     "h": "Giờ nghỉ uống trà thường ngày",
+     "p": "Khác với trà chiều trang trọng, giờ nghỉ uống trà ngắn đã hòa vào đời sống thường ngày của người Anh. Tạm dừng công việc để uống một cốc trà túi lọc với sữa là một tín hiệu nhỏ cho thấy đã đến lúc nghỉ ngơi. Mời khách một tách trà trước tiên cũng là cử chỉ hiếu khách cơ bản của người Anh."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1067,7 +1189,8 @@ window.TEAFaiCulture = [
    "zh-CN": "用茶壶浓泡红茶，配牛奶和糖，再依次享用三明治、司康和蛋糕——这就是英式下午茶，还有日常生活中不可缺少的茶歇。",
    "zh-TW": "用茶壺濃泡紅茶，配牛奶和糖，再依序享用三明治、司康和蛋糕——這就是英式下午茶，還有日常生活中不可或缺的茶歇。",
    "hi": "केतली में बनाई गई तेज़ काली चाय, दूध और चीनी के साथ परोसी गई, और सैंडविच, स्कोन और केक का तीन मंज़िला अनुष्ठान — साथ ही रोज़मर्रा का चाय विराम।",
-   "th": "ชาดำเข้มข้นที่ชงในกา เสิร์ฟพร้อมนมและน้ำตาล และพิธีสามชั้นของแซนด์วิช สโคน และเค้ก — พร้อมด้วยช่วงพักดื่มชาในชีวิตประจำวัน"
+   "th": "ชาดำเข้มข้นที่ชงในกา เสิร์ฟพร้อมนมและน้ำตาล และพิธีสามชั้นของแซนด์วิช สโคน และเค้ก — พร้อมด้วยช่วงพักดื่มชาในชีวิตประจำวัน",
+   "vi": "Trà đen đậm pha trong ấm, dùng với sữa và đường, cùng nghi thức ba tầng gồm bánh sandwich, scone và bánh ngọt — cộng thêm giờ nghỉ uống trà thường ngày."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -1077,7 +1200,8 @@ window.TEAFaiCulture = [
    "zh-CN": "英国下午茶",
    "zh-TW": "英國下午茶",
    "hi": "ब्रिटिश अपराह्न चाय",
-   "th": "ชายามบ่ายของอังกฤษ"
+   "th": "ชายามบ่ายของอังกฤษ",
+   "vi": "Trà Chiều Anh Quốc"
   }
  },
  {
@@ -1225,6 +1349,24 @@ window.TEAFaiCulture = [
      "h": "เครื่องดื่มที่ขับเคลื่อนวันทั้งวัน",
      "p": "ตั้งแต่ถ้วยแรกที่เปิดเช้าวันใหม่ ไปจนถึงช่วงพักงานและการต้อนรับแขก จายอยู่ภายในจังหวะของวัน การเสนอจายให้ใครสักคนคือการแสดงน้ำใจต้อนรับที่เป็นเรื่องประจำวันมากที่สุดในอินเดีย เข้มข้นและหวาน เพียงจิบเดียวก็ปลุกให้ตื่นและเริ่มต้นบทสนทนา — เครื่องดื่มที่อยู่ใจกลางชีวิตของชาวอินเดีย"
     }
+   ],
+   "vi": [
+    {
+     "h": "Pha bằng cách đun sôi, không phải ủ",
+     "p": "Masala chai không được làm bằng cách ủ lá trà trong nước nóng. Thay vào đó, trà đen, đường và gia vị được đun sôi cùng nhau trong nồi với nước và sữa. Khi sôi liu riu, hương gia vị và độ đậm của trà ngấm vào sữa, tạo nên một cốc trà ngọt ngào, đậm đà. Mỗi gia đình và quầy hàng đều có hỗn hợp gia vị hơi khác nhau, và hương vị riêng của mình."
+    },
+    {
+     "h": "Masala: hỗn hợp gia vị",
+     "p": "\"Masala\" đơn giản có nghĩa là hỗn hợp gia vị, và những loại được dùng nhiều nhất trong chai là bạch đậu khấu, gừng, quế, đinh hương và tiêu đen. Những gia vị cay ấm này gặp sữa béo ngậy tạo nên một thức uống mang lại cảm giác no ấm và dễ chịu. Nhiều gia đình pha chai nhiều gừng khi có người bị cảm."
+    },
+    {
+     "h": "Chaiwala trên đường phố",
+     "p": "Trên đường phố và tại các ga tàu khắp Ấn Độ, bạn sẽ thấy các chaiwala đun chai trong những chiếc nồi nhỏ ở khắp mọi nơi. Chai được phục vụ trong ly thủy tinh nhỏ hoặc cốc đất dùng một lần, và mọi người dừng lại uống hết một cốc trong tư thế đứng, nhiều lần trong ngày. Cách của người Ấn Độ là khẩu phần nhỏ, uống thường xuyên."
+    },
+    {
+     "h": "Thức uống vận hành cả ngày",
+     "p": "Từ cốc trà đầu tiên mở đầu buổi sáng đến giờ nghỉ làm và đón khách, chai nằm trong nhịp sống của cả ngày. Mời ai đó uống chai là cách thể hiện lòng hiếu khách thường ngày nhất ở Ấn Độ. Đậm và ngọt, chỉ một ngụm cũng đánh thức bạn và khơi mào những cuộc trò chuyện — một thức uống ở trung tâm đời sống Ấn Độ."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1242,7 +1384,8 @@ window.TEAFaiCulture = [
    "zh-CN": "在红茶中加入牛奶、糖和豆蔻、生姜等香料一起煮出的印度国民饮品。街边茶摊的一小杯，支撑着人们的一整天。",
    "zh-TW": "在紅茶中加入牛奶、糖和豆蔻、薑等香料一起煮出的印度國民飲品。街邊茶攤的一小杯，支撐著人們的一整天。",
    "hi": "भारत का प्रिय पेय: काली चाय को दूध, चीनी और इलायची व अदरक जैसे मसालों के साथ उबालकर बनाया जाता है, और गली-किनारे के चायवाले दिन भर छोटे कपों में परोसते हैं।",
-   "th": "เครื่องดื่มอันเป็นที่รักของอินเดีย: ชาดำเคี่ยวกับนม น้ำตาล และเครื่องเทศอย่างกระวานและขิง เสิร์ฟในถ้วยเล็ก ๆ โดยจายวาลาริมถนนตลอดทั้งวัน"
+   "th": "เครื่องดื่มอันเป็นที่รักของอินเดีย: ชาดำเคี่ยวกับนม น้ำตาล และเครื่องเทศอย่างกระวานและขิง เสิร์ฟในถ้วยเล็ก ๆ โดยจายวาลาริมถนนตลอดทั้งวัน",
+   "vi": "Thức uống được yêu thích của Ấn Độ: trà đen đun sôi cùng sữa, đường và các gia vị như bạch đậu khấu và gừng, được các chaiwala ven đường phục vụ trong những chiếc cốc nhỏ suốt cả ngày."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -1252,7 +1395,8 @@ window.TEAFaiCulture = [
    "zh-CN": "印度的马萨拉茶",
    "zh-TW": "印度的馬薩拉茶",
    "hi": "भारत का मसाला चाय",
-   "th": "มาซาลาจายของอินเดีย"
+   "th": "มาซาลาจายของอินเดีย",
+   "vi": "Masala Chai của Ấn Độ"
   }
  },
  {
@@ -1400,6 +1544,24 @@ window.TEAFaiCulture = [
      "h": "สัญลักษณ์ของการต้อนรับ",
      "p": "ไม่ว่าคุณกำลังซื้อของในร้าน แวะไปที่สำนักงาน หรือมาถึงบ้านใครเป็นครั้งแรก ชาหนึ่งแก้วจะปรากฏขึ้นมาก่อนเสมอ การเสนอชาคือการต้อนรับขั้นพื้นฐานที่สุด และเป็นสัญญาณให้บทสนทนาเริ่มต้นขึ้น — แก้วร้อนใบเล็กที่เชื่อมผู้คนเข้าด้วยกัน"
     }
+   ],
+   "vi": [
+    {
+     "h": "Çaydanlık: ấm trà hai tầng",
+     "p": "Trà Thổ Nhĩ Kỳ được pha trong çaydanlık, một cặp ấm xếp chồng lên nhau. Nước sôi ở ấm dưới; một phần nước làm ướt lá trà trong ấm trên nhỏ hơn, ấm này sau đó ủ từ từ trong hơi nước thành nước trà đậm đặc. Nước trà đậm được rót vào ly và thêm nước nóng từ ấm dưới, để mỗi người uống có thể điều chỉnh độ đậm theo khẩu vị."
+    },
+    {
+     "h": "Ly tulip không quai",
+     "p": "Trà được phục vụ trong những ly thủy tinh nhỏ không có quai. Hình dáng thắt eo giống hoa tulip của chúng làm nổi bật màu đỏ đậm của trà, và lớp thủy tinh mỏng mang lại cảm giác sắc nét khi chạm môi. Đường thường là đường viên để bên cạnh chứ không khuấy sẵn cho bạn, kèm một đĩa lót và thìa nhỏ."
+    },
+    {
+     "h": "Quốc gia khát trà nhất thế giới",
+     "p": "Thổ Nhĩ Kỳ được xếp vào nhóm các quốc gia có mức tiêu thụ trà bình quân đầu người cao nhất thế giới. Vùng Rize bên bờ Biển Đen là vùng trồng trà nổi tiếng nhất và cung cấp phần lớn trà uống trong nước. Trong nhiều gia đình, ấm nước luôn đặt trên bếp từ bữa sáng đến tận khuya."
+    },
+    {
+     "h": "Biểu tượng của lòng hiếu khách",
+     "p": "Dù bạn đang mua sắm trong cửa hàng, ghé thăm văn phòng, hay lần đầu đến nhà ai đó, một ly trà luôn xuất hiện đầu tiên. Mời trà là lời chào đón cơ bản nhất và là tín hiệu để cuộc trò chuyện bắt đầu — một ly trà nhỏ, nóng hổi kết nối mọi người với nhau."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1416,7 +1578,8 @@ window.TEAFaiCulture = [
    "zh-CN": "用双层茶壶\"çaydanlık\"煮出浓茶，再加热水调浓度，盛在没有把手的郁金香形玻璃杯里，配上方糖。人均饮茶量居世界前列的土耳其，茶就是待客之道。",
    "zh-TW": "用雙層茶壺「çaydanlık」煮出濃茶，再加熱水調濃度，盛在沒有把手的鬱金香形玻璃杯裡，配上方糖。人均飲茶量居世界前列的土耳其，茶就是待客之道。",
    "hi": "दो मंज़िला चायदानलिक में तेज़ बनाई गई चाय, गर्म पानी से अपने स्वाद अनुसार ढाली गई, और बिना हैंडल वाले ट्यूलिप गिलासों में चीनी के टुकड़ों के साथ परोसी गई — उस देश में मेहमाननवाज़ी, जहाँ प्रति व्यक्ति चाय की खपत दुनिया में सबसे अधिक है।",
-   "th": "ชาที่ชงเข้มข้นในไชดันลึกแบบสองชั้นที่วางซ้อนกัน ปรับความเข้มด้วยน้ำร้อน และเสิร์ฟพร้อมน้ำตาลก้อนในแก้วทรงทิวลิปไม่มีหูจับ — การต้อนรับของประเทศที่มีการบริโภคชาต่อคนสูงที่สุดในโลก"
+   "th": "ชาที่ชงเข้มข้นในไชดันลึกแบบสองชั้นที่วางซ้อนกัน ปรับความเข้มด้วยน้ำร้อน และเสิร์ฟพร้อมน้ำตาลก้อนในแก้วทรงทิวลิปไม่มีหูจับ — การต้อนรับของประเทศที่มีการบริโภคชาต่อคนสูงที่สุดในโลก",
+   "vi": "Trà pha đậm trong çaydanlık xếp chồng, điều chỉnh bằng nước nóng, và phục vụ với đường viên trong ly tulip không quai — lòng hiếu khách ở đất nước có mức tiêu thụ trà bình quân đầu người cao nhất thế giới."
   },
   "title": {
    "en": "Turkish Çay",
@@ -1426,7 +1589,8 @@ window.TEAFaiCulture = [
    "zh-CN": "土耳其红茶",
    "zh-TW": "土耳其紅茶",
    "hi": "तुर्की चाय",
-   "th": "ชาตุรกี (ไช)"
+   "th": "ชาตุรกี (ไช)",
+   "vi": "Çay Thổ Nhĩ Kỳ"
   }
  },
  {
@@ -1574,6 +1738,24 @@ window.TEAFaiCulture = [
      "h": "การต้อนรับตลอดทั้งวัน",
      "p": "อาเตย์ปรากฏไม่เพียงสำหรับแขกเท่านั้น แต่ยังอยู่ในมื้ออาหารของครอบครัว ระหว่างการต่อรองราคาในร้าน และในการพูดคุยยาว ๆ กับเพื่อนฝูง ชามักถูกเตรียมและรินโดยหัวหน้าครอบครัวหรือเจ้าบ้าน เพราะการลงมือทำเองคือเครื่องหมายของความเคารพ ในโมร็อกโก ชาหนึ่งกาคือคำเชิญให้เข้ามานั่งพัก"
     }
+   ],
+   "vi": [
+    {
+     "h": "Trà xanh với bạc hà và đường",
+     "p": "Atay của Maroc thường được làm với trà xanh gunpowder Trung Quốc làm nền, ủ trong ấm cùng lá bạc hà tươi và một lượng đường hào phóng. Hương vị là sự kết hợp giữa hương bạc hà mát lạnh và vị ngọt đậm, uống cùng bữa ăn hoặc sau bữa ăn để sảng khoái. Trà được phục vụ trong những chiếc ly nhỏ có trang trí."
+    },
+    {
+     "h": "Rót cao và lớp bọt",
+     "p": "Atay được rót với ấm giữ cao trên ly, thành một dòng mỏng. Cách này đưa không khí vào trà để một lớp bọt mịn đọng lại trên mặt, và lớp bọt đẹp là dấu hiệu của một ấm trà pha khéo. Chính động tác rót cao là một màn trình diễn nhỏ dành cho khách — một biểu hiện của sự chăm chút."
+    },
+    {
+     "h": "Ba ly trà cho khách",
+     "p": "Maroc nổi tiếng với phong tục mời khách tối đa ba ly trà. Thời gian uống trà là thời gian được chào đón, vì vậy uống xong một ly rồi ra về ngay có thể bỏ lỡ ý nghĩa của nghi thức. Một câu nói gắn ý nghĩa cho ba ly trà — dịu dàng như cuộc đời, mạnh mẽ như tình yêu, đắng cay như cái chết."
+    },
+    {
+     "h": "Lòng hiếu khách suốt cả ngày",
+     "p": "Atay xuất hiện không chỉ khi có khách mà còn trong bữa ăn gia đình, khi mặc cả trong cửa hàng, và trong những cuộc trò chuyện dài với bạn bè. Trà thường do chủ hộ hoặc chủ nhà chuẩn bị và rót, vì tự tay làm là dấu hiệu của sự tôn trọng. Ở Maroc, một ấm trà là lời mời vào nhà và nghỉ ngơi."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1590,7 +1772,8 @@ window.TEAFaiCulture = [
    "zh-CN": "在绿茶中加入新鲜薄荷和糖，高高举起茶壶倒出泡沫，这是摩洛哥的待客仪式，也以向客人敬三杯茶的风俗闻名。",
    "zh-TW": "在綠茶中加入新鮮薄荷和糖，高高舉起茶壺倒出泡沫，這是摩洛哥的待客儀式，也以向客人敬三杯茶的風俗聞名。",
    "hi": "ताज़े पुदीने और चीनी के साथ हरी चाय, झाग उठाने के लिए ऊँचाई से डाली गई — मोरक्को का स्वागत अनुष्ठान, जो मेहमान को दिए जाने वाले तीन गिलासों के लिए प्रसिद्ध है।",
-   "th": "ชาเขียวกับมินต์สดและน้ำตาล รินจากที่สูงให้เกิดฟอง — พิธีแห่งการต้อนรับของโมร็อกโก มีชื่อเสียงจากชาสามแก้วที่มอบให้แขก"
+   "th": "ชาเขียวกับมินต์สดและน้ำตาล รินจากที่สูงให้เกิดฟอง — พิธีแห่งการต้อนรับของโมร็อกโก มีชื่อเสียงจากชาสามแก้วที่มอบให้แขก",
+   "vi": "Trà xanh với bạc hà tươi và đường, rót từ trên cao để tạo lớp bọt — nghi thức chào đón của Maroc, nổi tiếng với ba ly trà mời khách."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -1600,7 +1783,8 @@ window.TEAFaiCulture = [
    "zh-CN": "摩洛哥薄荷茶",
    "zh-TW": "摩洛哥薄荷茶",
    "hi": "मोरक्कन अताय",
-   "th": "อาเตย์ของโมร็อกโก"
+   "th": "อาเตย์ของโมร็อกโก",
+   "vi": "Atay Maroc"
   }
  },
  {
@@ -1748,6 +1932,24 @@ window.TEAFaiCulture = [
      "h": "ซาโมวาร์บนรางรถไฟ",
      "p": "ในประเทศที่กว้างใหญ่อย่างรัสเซีย รถไฟทางไกลเป็นส่วนหนึ่งของชีวิต และชาก็เป็นเพื่อนคู่การเดินทาง บนรถไฟ ชาจะเสิร์ฟในแก้วที่วางอยู่ในที่รองแก้วโลหะเรียกว่า ปอดสตาคันนิก เพื่อไม่ให้เครื่องดื่มหกขณะที่ขบวนรถโคลงเคลง จนกลายเป็นภาพจำอันเป็นเอกลักษณ์ ทุกวันนี้ ชาร้อน ๆ หนึ่งแก้วก็ยังช่วยปลอบประโลมผู้โดยสารในการเดินทางไกลด้วยรถไฟของรัสเซีย"
     }
+   ],
+   "vi": [
+    {
+     "h": "Samovar: chiếc ấm tự đun sôi nước",
+     "p": "Samovar là một bình kim loại dùng để đun nước và giữ nước luôn nóng; chính cái tên của nó trong tiếng Nga mang nghĩa \"tự sôi\". Theo truyền thống, người ta đốt samovar bằng củi hoặc than; ngày nay loại chạy điện phổ biến hơn. Đặt samovar ở giữa bàn, gia đình và khách khứa quây quần quanh nó và dành nhiều giờ bên chén trà."
+    },
+    {
+     "h": "Zavarka: nước cốt trà đặc, pha loãng khi uống",
+     "p": "Cách pha của người Nga bắt đầu với zavarka — lá trà được pha thật đặc trong một ấm nhỏ thành nước cốt. Khi uống, rót một ít zavarka vào ly rồi châm thêm nước nóng từ samovar, điều chỉnh độ đậm nhạt theo khẩu vị của mình. Chỉ cần pha một lần, nhiều người có thể thưởng trà trong nhiều giờ, mỗi người một độ đậm như ý."
+    },
+    {
+     "h": "Mứt, và viên đường ngậm giữa răng",
+     "p": "Người Nga theo truyền thống ăn một thìa mứt (varenye) kèm với trà, hoặc khuấy mứt vào trà. Một phong tục xưa là ngậm một viên đường giữa hai hàm răng và nhấp trà qua viên đường, để vị ngọt thấm vào từng chút một. Đắng và ngọt cùng được thưởng thức với lượng nhỏ — một văn hóa trà được hình thành ở một đất nước lạnh giá."
+    },
+    {
+     "h": "Samovar trên đường ray",
+     "p": "Ở một đất nước rộng lớn như Nga, những chuyến tàu đường dài là một phần của cuộc sống, và trà là người bạn đồng hành của chúng. Trên tàu, trà được phục vụ trong những chiếc ly đặt trong đế giữ ly bằng kim loại gọi là podstakannik, để đồ uống không bị đổ khi toa tàu rung lắc — một hình ảnh đã trở thành biểu tượng. Ngay cả ngày nay, một ly trà nóng vẫn an ủi hành khách trên những hành trình đường sắt dài của nước Nga."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1764,7 +1966,8 @@ window.TEAFaiCulture = [
    "zh-CN": "用萨莫瓦尔烧水，把浓缩茶\"扎瓦尔卡\"稀释着喝，这是俄罗斯的方式。还有配果酱、把方糖含在嘴里喝茶的老风俗，以及长途火车上的萨莫瓦尔。",
    "zh-TW": "用薩莫瓦爾燒水，把濃縮茶「扎瓦爾卡」稀釋著喝，這是俄羅斯的方式。還有配果醬、把方糖含在嘴裡喝茶的老風俗，以及長途火車上的薩莫瓦爾。",
    "hi": "समोवार में उबलता रहता पानी, स्वाद के अनुसार पतला किया गया गाढ़ा ज़ावर्का काढ़ा — जैम के साथ, दाँतों के बीच चीनी का टुकड़ा रखकर, और लंबी रेल यात्राओं का साथी समोवार — यही है रूस की चाय शैली।",
-   "th": "น้ำที่เดือดอยู่ตลอดในซาโมวาร์ ชาแก่เข้มข้นซาวาร์กาที่เจือจางตามชอบ — วิถีชาของรัสเซีย มีแยมเคียงข้าง ก้อนน้ำตาลคาบไว้ระหว่างฟัน และซาโมวาร์ที่เป็นเพื่อนคู่การเดินทางไกลด้วยรถไฟ"
+   "th": "น้ำที่เดือดอยู่ตลอดในซาโมวาร์ ชาแก่เข้มข้นซาวาร์กาที่เจือจางตามชอบ — วิถีชาของรัสเซีย มีแยมเคียงข้าง ก้อนน้ำตาลคาบไว้ระหว่างฟัน และซาโมวาร์ที่เป็นเพื่อนคู่การเดินทางไกลด้วยรถไฟ",
+   "vi": "Nước luôn sôi trong samovar, nước cốt trà đặc zavarka được pha loãng theo khẩu vị — cách uống trà của người Nga, với mứt ăn kèm, viên đường ngậm giữa hai hàm răng, và chiếc samovar đồng hành trên những chuyến tàu dài."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -1774,7 +1977,8 @@ window.TEAFaiCulture = [
    "zh-CN": "俄罗斯的萨莫瓦尔",
    "zh-TW": "俄羅斯的薩莫瓦爾",
    "hi": "रूस का समोवार",
-   "th": "ซาโมวาร์ของรัสเซีย"
+   "th": "ซาโมวาร์ของรัสเซีย",
+   "vi": "Chiếc Samovar của Nga"
   }
  },
  {
@@ -1789,7 +1993,8 @@ window.TEAFaiCulture = [
    "ja": "蓋碗（ガイワン）の使い方——蓋ひとつで淹れるお茶",
    "yue": "蓋碗點用——蓋、碗身同托碟",
    "hi": "गाइवान का उपयोग कैसे करें — ढक्कन, कटोरे और तश्तरी से चाय बनाना",
-   "th": "วิธีใช้ไก้หว่าน — ชงชาด้วยฝา ชาม และจานรอง"
+   "th": "วิธีใช้ไก้หว่าน — ชงชาด้วยฝา ชาม และจานรอง",
+   "vi": "Cách Dùng Gaiwan — Pha Trà với Nắp, Chén và Đĩa"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -1799,7 +2004,8 @@ window.TEAFaiCulture = [
    "ja": "蓋・碗・受け皿の三つからなる蓋碗は、中国茶の最も基本的な茶器です。持ち方から注ぎ方、熱いときの対処法まで、初めて使う人にも分かるようまとめました。",
    "yue": "蓋碗由碗蓋、碗身同托碟三部分組成，係中國茶最基本嘅茶具。呢篇會由點樣揸、點樣注水出湯，到燙手嗰陣點算，一步步講畀第一次用蓋碗嘅人聽。",
    "hi": "गाइवान — एक ढक्कन, एक कटोरा और एक तश्तरी — चीनी चाय का सबसे बुनियादी बर्तन है। इसे पकड़ने के तरीके से लेकर ज़्यादा गरम लगने पर क्या करें, यह मार्गदर्शिका पहली बार उपयोग करने वालों को हर कदम समझाती है।",
-   "th": "ไก้หว่าน — ฝา ชาม และจานรอง — คือภาชนะพื้นฐานที่สุดของชาจีน คู่มือนี้จะพาผู้ใช้ครั้งแรกไปทีละขั้นตอน ตั้งแต่วิธีจับไปจนถึงวิธีแก้เมื่อร้อนมือ"
+   "th": "ไก้หว่าน — ฝา ชาม และจานรอง — คือภาชนะพื้นฐานที่สุดของชาจีน คู่มือนี้จะพาผู้ใช้ครั้งแรกไปทีละขั้นตอน ตั้งแต่วิธีจับไปจนถึงวิธีแก้เมื่อร้อนมือ",
+   "vi": "Gaiwan — gồm nắp, chén và đĩa — là dụng cụ cơ bản nhất trong trà đạo Trung Hoa. Từ cách cầm đến cách xử lý khi quá nóng, bài viết này hướng dẫn người mới dùng qua từng bước."
   },
   "body": {
    "ko": [
@@ -1977,6 +2183,28 @@ window.TEAFaiCulture = [
      "h": "ทำไมจึงเหมาะกับผู้เริ่มต้น",
      "p": "ไก้หว่านล้างทำความสะอาดง่าย และเพราะเปิดฝาได้ จึงมองเห็นใบชาค่อย ๆ คลี่ตัวขณะชงได้ คุณควบคุมเวลาแช่ได้อย่างอิสระ ทำให้หาจุดที่พอดีที่สุดของชาแต่ละชนิดได้ง่าย อีกทั้งยังมีราคาไม่แพง นี่จึงเป็นเหตุผลที่ไก้หว่านมักถูกแนะนำให้เป็นอุปกรณ์ชงชาชิ้นแรก"
     }
+   ],
+   "vi": [
+    {
+     "h": "Ba bộ phận — trời, người, đất",
+     "p": "Một bộ gaiwan gồm ba phần: nắp, chén và đĩa. Theo truyền thống, nắp được ví với trời, đĩa ví với đất, còn chén ở giữa ví với con người, vì thế nó đôi khi được gọi là 'chén tam tài'. Nắp còn giúp giữ hương, nên sau khi pha, nhấc nắp lên và ngửi mặt trong của nắp là một trong những thú vui nhỏ khi dùng gaiwan."
+    },
+    {
+     "h": "Pha trà, từng bước một",
+     "p": "Trước tiên tráng gaiwan bằng nước nóng để làm ấm, đổ bỏ nước đó rồi cho lá trà vào. Rót nước mới vào, đậy nắp và để trà ngâm trong chốc lát; sau đó dùng mép nắp gạt bỏ lớp bọt trên bề mặt. Lượng lá tùy thuộc vào loại trà, nhưng cho đầy khoảng một phần ba gaiwan là điểm khởi đầu hợp lý."
+    },
+    {
+     "h": "Rót trà — khe hở ở nắp là chìa khóa",
+     "p": "Nghiêng nắp nhẹ để mở một khe nhỏ cho trà chảy qua. Giữ vành chén giữa ngón cái và ngón giữa, đồng thời dùng ngón trỏ ấn nhẹ lên đỉnh nắp để giữ nắp ở đúng vị trí. Nghiêng cổ tay, chỉ phần nước chảy ra, còn nắp giữ lá trà lại. Nếu khe quá rộng, lá cũng thoát ra theo, nên lúc đầu hãy giữ khe thật hẹp."
+    },
+    {
+     "h": "Khi cầm thấy quá nóng",
+     "p": "Nếu gaiwan quá nóng không cầm được, thường là vì bạn đã rót quá đầy. Chỉ rót đến khoảng tám phần mười, và nếu vẫn nóng, hãy nhấc và di chuyển nó bằng đĩa lót. Gaiwan có vành hơi loe ra ngoài sẽ mát hơn ở chỗ ngón tay chạm vào, là lựa chọn thân thiện cho người mới bắt đầu."
+    },
+    {
+     "h": "Vì sao gaiwan hợp với người mới",
+     "p": "Gaiwan dễ rửa, và vì mở được nắp nên bạn có thể ngắm lá trà nở ra trong khi pha. Bạn tự do kiểm soát thời gian ngâm, nhờ đó dễ tìm được điểm ngon nhất của từng loại trà. Nó cũng không đắt, và đó là lý do gaiwan thường được khuyên dùng như món trà cụ đầu tiên."
+    }
    ]
   },
   "related": [
@@ -1996,7 +2224,8 @@ window.TEAFaiCulture = [
    "ja": "急須（茶壺）と茶杯の選び方——素材で味が変わる",
    "yue": "點揀茶壺同茶杯——材質會影響味道",
    "hi": "चायदानी और कप चुनना — सामग्री कैसे स्वाद बदलती है",
-   "th": "การเลือกกาน้ำชาและถ้วย — วัสดุเปลี่ยนรสชาติอย่างไร"
+   "th": "การเลือกกาน้ำชาและถ้วย — วัสดุเปลี่ยนรสชาติอย่างไร",
+   "vi": "Chọn Ấm và Chén — Chất Liệu Làm Thay Đổi Hương Vị"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -2006,7 +2235,8 @@ window.TEAFaiCulture = [
    "ja": "磁器、ガラス、紫砂、鉄——茶器の素材ごとに合うお茶は異なります。大きさや形が味に与える影響から、入門用に買いやすい最初の組み合わせまで案内します。",
    "yue": "瓷器、玻璃、紫砂、鐵——每種茶具材質啱沖嘅茶都唔同。呢篇會講下大細同形狀點樣影響味道，仲會推薦一套啱新手入手嘅組合。",
    "hi": "चीनी मिट्टी, काँच, यीशिंग मिट्टी, लोहा — हर बर्तन-सामग्री अलग-अलग चायों के अनुकूल होती है। यह मार्गदर्शिका बताती है कि आकार और आकृति स्वाद को कैसे प्रभावित करते हैं, और शुरुआती लोगों के लिए एक समझदारी भरा पहला सेट सुझाती है।",
-   "th": "กระเบื้อง แก้ว ดินอี๋ซิง เหล็ก — วัสดุของอุปกรณ์ชาแต่ละชนิดเหมาะกับชาต่างกัน คู่มือนี้อธิบายว่าขนาดและรูปทรงส่งผลต่อรสชาติอย่างไร พร้อมแนะนำชุดแรกที่เหมาะสมสำหรับผู้เริ่มต้น"
+   "th": "กระเบื้อง แก้ว ดินอี๋ซิง เหล็ก — วัสดุของอุปกรณ์ชาแต่ละชนิดเหมาะกับชาต่างกัน คู่มือนี้อธิบายว่าขนาดและรูปทรงส่งผลต่อรสชาติอย่างไร พร้อมแนะนำชุดแรกที่เหมาะสมสำหรับผู้เริ่มต้น",
+   "vi": "Sứ, thủy tinh, đất tử sa Nghi Hưng, sắt — mỗi chất liệu trà cụ hợp với những loại trà khác nhau. Bài viết này giải thích kích thước và hình dáng ảnh hưởng đến hương vị ra sao, và gợi ý một bộ đầu tiên hợp lý cho người mới."
   },
   "body": {
    "ko": [
@@ -2184,6 +2414,28 @@ window.TEAFaiCulture = [
      "h": "ชุดแรกที่เหมาะสม",
      "p": "เริ่มจากไก้หว่านกระเบื้องหรือกากระเบื้องใบเล็กขนาดประมาณ 100–150 ml กับถ้วยสองใบ วัสดุที่เป็นกลางจะแสดงรสชาติของชาแต่ละชนิดตามที่เป็นจริง และการดูแลก็ง่าย เมื่อความสนใจเพิ่มขึ้น การเพิ่มกาเฉพาะทางอย่างอี๋ซิงสำหรับชาตระกูลหนึ่งก็กลายเป็นส่วนหนึ่งของความสนุก"
     }
+   ],
+   "vi": [
+    {
+     "h": "Chất liệu, phần một — sứ và thủy tinh",
+     "p": "Sứ có bề mặt nhẵn, không lỗ rỗng nên không hút hương, vì thế một dụng cụ có thể dùng cho nhiều loại trà khác nhau mà không lưu lại mùi vị. Điều đó khiến sứ là lựa chọn an toàn nhất cho người mới pha đủ thứ trà. Thủy tinh cho phép bạn ngắm màu nước trà và lá trà nở ra — rất hợp với trà xanh và trà hoa — nhưng nó mất nhiệt nhanh nên trà nguội nhanh."
+    },
+    {
+     "h": "Chất liệu, phần hai — đất tử sa Nghi Hưng và sắt",
+     "p": "Đất tử sa Nghi Hưng (zisha) có những lỗ rỗng li ti dần dần hấp thụ hương trà, và một chiếc ấm dùng lâu được cho là làm hương vị của một họ trà trở nên tròn trịa hơn theo thời gian. Vì nó hút mùi, tốt nhất nên dành riêng một ấm cho một họ trà duy nhất, chẳng hạn chỉ dùng cho ô long. Ấm đun nước bằng sắt được dùng để đun nước; chúng giữ nhiệt tốt và thường được khen là cho nước có cảm giác mềm hơn."
+    },
+    {
+     "h": "Kích thước và hình dáng ảnh hưởng đến hương vị",
+     "p": "Ấm nhỏ giữ tỷ lệ lá trên nước cao và làm hương thơm đậm đặc, hợp với nhiều lần ngâm ngắn của cách pha công phu. Ấm lớn pha được lượng nhiều trong một lần để chia sẻ. Cũng hãy kiểm tra xem vòi ấm rót và ngắt nước có gọn không, nắp có khít không — những điều này cũng quan trọng như chất liệu."
+    },
+    {
+     "h": "Chọn chén",
+     "p": "Chén nhỏ, thành mỏng gom hương thơm lại và cho bạn cảm nhận nhiệt độ của từng ngụm. Lòng chén trắng cho thấy màu thật của trà, tăng thêm niềm vui khi tìm hiểu một loại trà. Bộ công phu đôi khi kết hợp chén ngửi hương cao với chén thưởng trà, nhưng khi mới bắt đầu, một chiếc chén là đủ."
+    },
+    {
+     "h": "Một bộ đầu tiên hợp lý",
+     "p": "Hãy bắt đầu với một gaiwan bằng sứ hoặc một ấm sứ nhỏ khoảng 100–150 ml và hai chiếc chén. Chất liệu trung tính cho thấy mỗi loại trà đúng như bản chất của nó, và việc chăm sóc cũng dễ dàng. Khi sở thích lớn dần, việc thêm một chiếc ấm chuyên dụng như ấm tử sa Nghi Hưng cho một họ trà sẽ trở thành một phần của niềm vui."
+    }
    ]
   },
   "related": []
@@ -2200,7 +2452,8 @@ window.TEAFaiCulture = [
    "ja": "工夫茶の茶器セット——道具の名前と役割",
    "yue": "工夫茶茶具套裝——每件器具嘅名同作用",
    "hi": "गोंगफ़ू चाय सेट — हर उपकरण के नाम और भूमिकाएँ",
-   "th": "ชุดชากังฟู — ชื่อและหน้าที่ของอุปกรณ์แต่ละชิ้น"
+   "th": "ชุดชากังฟู — ชื่อและหน้าที่ของอุปกรณ์แต่ละชิ้น",
+   "vi": "Bộ Trà Công Phu — Tên Gọi và Vai Trò của Từng Dụng Cụ"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -2210,7 +2463,8 @@ window.TEAFaiCulture = [
    "ja": "茶盤、公道杯、聞香杯と品茗杯、茶荷や茶針まで——工夫茶の席に並ぶ道具の名前と役割をひとつずつ解説し、自宅で手軽にそろえる方法も紹介します。",
    "yue": "茶盤、公道杯、聞香杯同品茗杯、茶荷同茶針——呢篇會逐一講解工夫茶席上面器具嘅名同作用，仲會介紹喺屋企簡單置備嘅方法。",
    "hi": "चाय ट्रे, समता घड़ा (गोंगदाओबेई), सुगंध कप और चखने का कप, चाय धारक और चाय सुई — यह मार्गदर्शिका गोंगफ़ू चाय मेज़ पर रखे हर उपकरण को समझाती है और दिखाती है कि घर पर इसका एक सरल संस्करण कैसे तैयार करें।",
-   "th": "ถาดชา เหยือกแบ่งชา ถ้วยดมกลิ่นและถ้วยชิม ที่ตักใบชาและเข็มแคะชา — คู่มือนี้อธิบายอุปกรณ์แต่ละชิ้นบนโต๊ะชากังฟู และแสดงวิธีจัดชุดแบบง่าย ๆ ไว้ใช้ที่บ้าน"
+   "th": "ถาดชา เหยือกแบ่งชา ถ้วยดมกลิ่นและถ้วยชิม ที่ตักใบชาและเข็มแคะชา — คู่มือนี้อธิบายอุปกรณ์แต่ละชิ้นบนโต๊ะชากังฟู และแสดงวิธีจัดชุดแบบง่าย ๆ ไว้ใช้ที่บ้าน",
+   "vi": "Khay trà, chén tống, chén ngửi hương và chén thưởng trà, trà hà và kim trà — bài viết này giải thích từng dụng cụ trên bàn trà công phu và cho thấy cách bày một bộ đơn giản tại nhà."
   },
   "body": {
    "ko": [
@@ -2388,6 +2642,28 @@ window.TEAFaiCulture = [
      "h": "ชุดง่าย ๆ สำหรับใช้ที่บ้าน",
      "p": "ไม่จำเป็นต้องซื้อทุกอย่างในคราวเดียว ถาดชา ไก้หว่านหรือกาใบเล็ก เหยือกเล็ก ๆ ทรงครีมเมอร์ใช้แทนเหยือกแบ่งชา และถ้วยสองใบ ก็เพียงพอสำหรับเพลิดเพลินกับขั้นตอนพื้นฐานของชากังฟูแล้ว ค่อย ๆ เพิ่มอุปกรณ์ทีละชิ้นเมื่อรู้สึกว่าต้องการ"
     }
+   ],
+   "vi": [
+    {
+     "h": "Trà công phu là gì",
+     "p": "Trà công phu là một phong cách pha trà phát triển ở Phúc Kiến và Quảng Đông, Trung Quốc. Nó dùng dụng cụ nhỏ, lượng lá nhiều, và nhiều lần ngâm ngắn để bạn có thể theo dõi hương thơm thay đổi từ lần ngâm này sang lần ngâm khác. 'Công phu' nghĩa là kỹ năng được rèn qua thời gian và công sức — rất xứng với một cách uống trà dành nhiều chăm chút cho một chén trà."
+    },
+    {
+     "h": "Khay trà và chén tống",
+     "p": "Khay trà (chapan) là mặt bàn đặt mọi thứ lên, được thiết kế có thoát nước để nước rót qua trà cụ chảy xuống khoang chứa bên dưới. Nhờ đó bạn có thể làm ấm và tráng dụng cụ ngay tại chỗ ngồi. Chén tống (gongdaobei) là một bình nhỏ hứng trà đã pha trước, làm đều độ đậm của trà trước khi chia ra các chén, để chén rót đầu tiên có vị giống hệt chén cuối cùng."
+    },
+    {
+     "h": "Chén ngửi hương và chén thưởng trà",
+     "p": "Chén ngửi hương là chiếc chén cao và hẹp: trà được rót vào nó trước, sau đó chuyển sang chén thưởng trà, và bạn ngửi hương thơm còn lưu lại trong chiếc chén ngửi hương đã rỗng. Chén thưởng trà là chén bạn thực sự uống. Cặp chén này, được phổ biến ở Đài Loan, là cách tuyệt vời để thưởng thức hương thơm nhiều lớp của trà ô long."
+    },
+    {
+     "h": "Dụng cụ xử lý lá trà",
+     "p": "Trà hà (chahe) là một đĩa nhỏ hình muỗng để trình lá trà khô cho khách xem và dẫn lá vào ấm, còn thìa trà (chaze) dùng để đong và di chuyển lá. Kim trà thông những lá kẹt trong vòi ấm, và gắp được dùng để gắp lá và cầm chén nóng. Mỗi dụng cụ đều nhỏ, nhưng cùng nhau chúng giữ cho bàn trà gọn gàng và thong thả."
+    },
+    {
+     "h": "Bày bộ đơn giản tại nhà",
+     "p": "Không cần mua mọi thứ cùng một lúc. Một khay, một gaiwan hoặc ấm nhỏ, một bình rót nhỏ kiểu bình sữa thay cho chén tống, và hai chiếc chén là đủ để tận hưởng quy trình cơ bản của trà công phu. Hãy thêm dụng cụ dần dần, khi bạn cảm thấy cần đến chúng."
+    }
    ]
   },
   "related": [
@@ -2406,7 +2682,8 @@ window.TEAFaiCulture = [
    "ja": "お茶の六大分類——同じ葉から生まれる違うお茶",
    "yue": "茶嘅六大類——同一塊葉，唔同嘅茶",
    "hi": "चाय के छह प्रकार — एक पत्ती, कई चाय",
-   "th": "ชาทั้งหกประเภท — ใบเดียว ชาหลากชนิด"
+   "th": "ชาทั้งหกประเภท — ใบเดียว ชาหลากชนิด",
+   "vi": "Sáu Loại Trà — Một Lá Trà, Nhiều Loại Trà"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -2416,7 +2693,8 @@ window.TEAFaiCulture = [
    "ja": "緑茶から黒茶まで、世界のお茶はすべて同じ茶の木の葉から生まれます。酸化と加工方法の違いによって六つに分かれる仕組みと、代用茶が「お茶」ではない理由を説明します。",
    "yue": "由綠茶到黑茶，世上所有茶都嚟自同一棵茶樹嘅葉。呢篇會講解氧化同加工方法嘅差異點樣將茶分成六大類，同埋代用茶點解唔算真正嘅「茶」。",
    "hi": "हरी चाय से लेकर गहरी चाय तक, हर असली चाय एक ही चाय पौधे की पत्ती से शुरू होती है। यह लेख बताता है कि ऑक्सीकरण और प्रसंस्करण उन्हें छह प्रकारों में कैसे बाँटते हैं — और हर्बल काढ़े, सख्ती से कहें तो, चाय क्यों नहीं हैं।",
-   "th": "ตั้งแต่ชาเขียวไปจนถึงชาดำ ชาแท้ทุกชนิดเริ่มต้นจากใบของต้นชาต้นเดียวกัน บทความนี้อธิบายว่าการออกซิเดชันและการแปรรูปแบ่งชาออกเป็นหกประเภทได้อย่างไร และทำไมเครื่องดื่มสมุนไพรจึงไม่ใช่ 'ชา' ในความหมายที่เคร่งครัด"
+   "th": "ตั้งแต่ชาเขียวไปจนถึงชาดำ ชาแท้ทุกชนิดเริ่มต้นจากใบของต้นชาต้นเดียวกัน บทความนี้อธิบายว่าการออกซิเดชันและการแปรรูปแบ่งชาออกเป็นหกประเภทได้อย่างไร และทำไมเครื่องดื่มสมุนไพรจึงไม่ใช่ 'ชา' ในความหมายที่เคร่งครัด",
+   "vi": "Từ trà xanh đến hắc trà, mọi loại trà thực thụ đều bắt đầu từ lá của cùng một cây trà. Bài viết này giải thích quá trình oxy hóa và chế biến chia chúng thành sáu loại ra sao — và vì sao các loại đồ uống thảo mộc, nói một cách nghiêm ngặt, không phải là trà."
   },
   "body": {
    "ko": [
@@ -2986,6 +3264,77 @@ window.TEAFaiCulture = [
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
      ]
     }
+   ],
+   "vi": [
+    {
+     "h": "Tất cả từ cùng một cây",
+     "p": "Những loại trà tưởng như hoàn toàn khác nhau — trà xanh, hồng trà, ô long — đều bắt đầu từ cùng một nơi: lá của một loài duy nhất, Camellia sinensis. Giống cây, thổ nhưỡng và mùa hái đều định hình hương vị, nhưng điều quyết định một chiếc lá trở thành loại trà nào chủ yếu là cách nó được chế biến sau khi thu hoạch."
+    },
+    {
+     "h": "Oxy hóa là chìa khóa",
+     "p": "Ngay khi lá được hái, quá trình oxy hóa bắt đầu khi các hợp chất bên trong lá phản ứng với không khí. Trà xanh chặn quá trình này sớm bằng cách sao hoặc hấp, giữ lại tính chất xanh tươi; hồng trà được vò và oxy hóa hoàn toàn, cho màu nâu đỏ và hương vị sâu hơn. Ô long dừng lại ở đâu đó ở giữa, vì thế nó được gọi là oxy hóa một phần."
+    },
+    {
+     "h": "Sáu loại trà qua một cái nhìn",
+     "p": "Trà trắng được chế biến ít nhất — búp non chỉ được làm héo và phơi khô, nên nó chỉ oxy hóa rất nhẹ. Trà vàng được làm gần giống trà xanh nhưng thêm một bước ủ lá ẩm thành đống, làm hương vị dịu đi. Hắc trà trải qua quá trình hậu lên men vi sinh sau khi chế biến, với phổ nhĩ là ví dụ nổi tiếng nhất. Cùng nhau, sáu loại là trà xanh, trà trắng, trà vàng, ô long, hồng trà và hắc trà."
+    },
+    {
+     "h": "Vì sao đồ uống thảo mộc không phải là 'trà'",
+     "p": "Nhiều đồ uống hằng ngày được gọi là trà — trà lúa mạch, rooibos, cúc La Mã — hoàn toàn không chứa lá của cây trà. Nói một cách nghiêm ngặt, chúng là đồ uống thảo mộc hay tisane, một nhóm riêng biệt với trà thực thụ. Đó không phải là phán xét về hương vị của chúng, chỉ là khác biệt về nguyên liệu, và kiểm tra nhãn là một thói quen tốt giúp thế giới trà trở nên rõ ràng hơn."
+    },
+    {
+     "h": "Mỗi họ trà qua một cái nhìn",
+     "p": "Các giá trị tham khảo từng được hiển thị ở đầu mỗi họ trà trong bách khoa, nay được tập hợp tại đây: độ oxy hóa, nhiệt độ nước, tỷ lệ lá trên nước và thời gian ngâm đầu tiên cho mỗi họ."
+    },
+    {
+     "h": "Trà xanh 綠",
+     "p": [
+      "Mọi thứ được quyết định trong vòng 24 giờ sau khi hái — một cuộc chạy đua với thời gian.",
+      "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
+     ]
+    },
+    {
+     "h": "Trà ô long 烏",
+     "p": [
+      "Nghệ thuật oxy hóa một nửa: dừng lại đúng tại điểm bạn muốn.",
+      "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
+     ]
+    },
+    {
+     "h": "Hồng trà 紅",
+     "p": [
+      "Oxy hóa hoàn toàn. Màu đỏ và độ đậm đủ sức hòa với sữa đều đến từ đây.",
+      "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
+     ]
+    },
+    {
+     "h": "Hắc trà · Phổ nhĩ 黑",
+     "p": [
+      "Ở đây thời gian không phải là hạn sử dụng; nó là một nguyên liệu.",
+      "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
+     ]
+    },
+    {
+     "h": "Trà trắng 白",
+     "p": [
+      "Làm héo và phơi khô — chỉ có vậy, nên chất lượng của lá thể hiện nguyên vẹn.",
+      "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
+     ]
+    },
+    {
+     "h": "Trà vàng 黃",
+     "p": [
+      "Thêm một bước nữa — ủ vàng kín — cho vị ngọt mềm mại nhất trong sáu họ trà, và cũng là họ hiếm nhất trong số chúng.",
+      "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
+     ]
+    },
+    {
+     "h": "Trà thường ngày & thảo mộc 代",
+     "p": [
+      "Ngũ cốc, rễ và trái cây được rang hoặc phơi khô thay cho cây trà, và hoa lá được ngâm nguyên như vậy — không caffeine, luôn sẵn bên tay.",
+      "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
+     ]
+    }
    ]
   },
   "related": []
@@ -3002,7 +3351,8 @@ window.TEAFaiCulture = [
    "ja": "お湯の温度と抽出時間の基本",
    "yue": "水溫同浸泡時間嘅基本常識",
    "hi": "पानी का तापमान और भिगोने का समय — मूल बातें",
-   "th": "อุณหภูมิน้ำและเวลาแช่ — พื้นฐานที่ควรรู้"
+   "th": "อุณหภูมิน้ำและเวลาแช่ — พื้นฐานที่ควรรู้",
+   "vi": "Nhiệt Độ Nước và Thời Gian Ngâm — Những Điều Cơ Bản"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -3012,7 +3362,8 @@ window.TEAFaiCulture = [
    "ja": "同じお茶でも、お湯の温度と抽出時間で味はまったく変わります。お茶の種類ごとの推奨温度、熱すぎると渋くなる理由、湯冷ましで温度を下げる方法、何煎も淹れるときの時間の原則をまとめました。",
    "yue": "同一款茶，水溫同浸泡時間唔同，味道可以完全唔一樣。呢篇整理咗各類茶嘅推薦水溫、水太熱會變澀嘅原因、用涼水壺降溫嘅方法，同埋沖多幾次嗰陣延長時間嘅原則。",
    "hi": "एक ही चाय पानी के तापमान और भिगोने के समय के आधार पर पूरी तरह अलग स्वाद दे सकती है। यह मार्गदर्शिका चाय के प्रकार के अनुसार सुझाए गए तापमान, बहुत गरम पानी चाय को कड़वा क्यों बनाता है, ठंडा करने वाले घड़े से पानी कैसे ठंडा करें, और हर दोबारा काढ़े को कैसे लंबा करें — ये सब बताती है।",
-   "th": "ชาชนิดเดียวกันอาจมีรสชาติแตกต่างกันโดยสิ้นเชิงขึ้นอยู่กับอุณหภูมิน้ำและเวลาแช่ คู่มือนี้ครอบคลุมอุณหภูมิที่แนะนำตามประเภทของชา เหตุผลที่น้ำร้อนเกินไปทำให้ชาขม วิธีลดอุณหภูมิน้ำด้วยเหยือกพักน้ำ และวิธียืดเวลาในการชงน้ำถัดไป"
+   "th": "ชาชนิดเดียวกันอาจมีรสชาติแตกต่างกันโดยสิ้นเชิงขึ้นอยู่กับอุณหภูมิน้ำและเวลาแช่ คู่มือนี้ครอบคลุมอุณหภูมิที่แนะนำตามประเภทของชา เหตุผลที่น้ำร้อนเกินไปทำให้ชาขม วิธีลดอุณหภูมิน้ำด้วยเหยือกพักน้ำ และวิธียืดเวลาในการชงน้ำถัดไป",
+   "vi": "Cùng một loại trà có thể có vị hoàn toàn khác nhau tùy thuộc vào nhiệt độ nước và thời gian ngâm. Bài viết này trình bày nhiệt độ khuyến nghị theo từng loại trà, vì sao nước quá nóng làm trà đắng, cách làm nguội nước bằng bình làm nguội, và cách kéo dài thời gian cho mỗi lần ngâm lại."
   },
   "body": {
    "ko": [
@@ -3158,6 +3509,24 @@ window.TEAFaiCulture = [
      "h": "กฎของเวลาแช่",
      "p": "เริ่มจากเวลาสั้น ๆ ก่อน — ชาทุกชนิดจะขมและฝาดหากแช่นานเกินไป สำหรับชาที่ชงหลายครั้ง แต่ละน้ำจะสกัดสารออกมาได้น้อยกว่าน้ำก่อนหน้า จึงค่อย ๆ เพิ่มเวลาในแต่ละรอบประมาณสิบถึงยี่สิบวินาที หากชาถ้วยหนึ่งรสเข้มเกินไป ให้ลดเวลา ถ้าอ่อนเกินไป ให้เพิ่มเวลา แล้วคุณจะเจอมาตรฐานของตัวเอง"
     }
+   ],
+   "vi": [
+    {
+     "h": "Vì sao nhiệt độ làm thay đổi hương vị",
+     "p": "Nước càng nóng, các hợp chất trong lá càng tan nhanh và trọn vẹn hơn. Đặc biệt, các thành phần đắng và chát dễ dàng thoát ra trong nước rất nóng, nên rót nước sôi lên trà làm từ lá non sẽ đưa vị đắng lên trước vị ngọt và vị umami. Nước quá nguội có vấn đề ngược lại: hương và vị vẫn bị khóa trong lá và chén trà trở nên nhạt nhẽo."
+    },
+    {
+     "h": "Nhiệt độ khuyến nghị theo loại trà",
+     "p": "Trà xanh làm từ lá non thường được pha ở 70–80°C, và trà xanh hảo hạng thường cần nước còn nguội hơn. Trà trắng và trà vàng hợp với 80–90°C, trong khi ô long nở hương tốt nhất trong nước nóng khoảng 90°C trở lên. Hồng trà và hắc trà có lá dai hơn, oxy hóa nhiều hơn và cần nước ở 95–100°C, vừa sôi tới, để có vị ngon nhất."
+    },
+    {
+     "h": "Làm nguội nước bằng bình chứa",
+     "p": "Rót nước vừa sôi vào một bình làm nguội hoặc một vật chứa rỗng sẽ làm nhiệt độ của nó giảm khoảng mười độ mỗi lần chuyển. Không có nhiệt kế, bạn có thể điều chỉnh bằng số lần chuyển nước hoặc đơn giản là để nước nguội một lúc với nắp mở. Với trà xanh, thứ tự an toàn là làm nguội nước trước, rồi mới rót lên lá trà."
+    },
+    {
+     "h": "Quy tắc cho thời gian ngâm",
+     "p": "Hãy bắt đầu ngắn — bất kỳ loại trà nào cũng trở nên đắng và gắt nếu ngâm quá lâu. Với trà pha nhiều lần, mỗi lần ngâm chiết xuất ít hơn lần trước, nên hãy kéo dài thời gian một chút sau mỗi lần, khoảng mười đến hai mươi giây. Nếu một chén có vị quá đậm, hãy rút ngắn thời gian; quá nhạt, hãy kéo dài ra, và bạn sẽ tìm được tiêu chuẩn của riêng mình."
+    }
    ]
   },
   "related": []
@@ -3174,7 +3543,8 @@ window.TEAFaiCulture = [
    "ja": "カフェインとテアニン——お茶がくれる穏やかな覚醒",
    "yue": "咖啡因同茶氨酸——茶帶嚟嘅沉靜清醒",
    "hi": "कैफ़ीन और थियानिन — चाय की शांत सतर्कता",
-   "th": "คาเฟอีนและธีอะนีน — ความตื่นตัวที่สงบของชา"
+   "th": "คาเฟอีนและธีอะนีน — ความตื่นตัวที่สงบของชา",
+   "vi": "Caffeine và Theanine — Sự Tỉnh Táo Bình Thản của Trà"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -3184,7 +3554,8 @@ window.TEAFaiCulture = [
    "ja": "お茶にもカフェインは含まれますが、コーヒーより少なめで、アミノ酸のテアニンがその作用を穏やかにしてくれます。カフェインの多いお茶、夜に向くお茶、一煎目にまつわる誤解までまとめました。",
    "yue": "茶入面都有咖啡因，但一般比咖啡少，而茶氨酸會令佢嘅作用變得柔和。呢篇會講清邊啲茶咖啡因較多、夜晚適合飲咩茶，同埋關於第一泡嘅常見誤解。",
    "hi": "चाय में भी कैफ़ीन होता है, लेकिन आम तौर पर कॉफ़ी से कम, और अमीनो अम्ल थियानिन उसके प्रभाव को नरम करता है। यह लेख बताता है कि किन चायों में अधिक कैफ़ीन होता है, शाम को क्या पिएँ, और पहले काढ़े के बारे में सच्चाई क्या है।",
-   "th": "ชาก็มีคาเฟอีนเช่นกัน แต่โดยทั่วไปน้อยกว่ากาแฟ และกรดอะมิโนธีอะนีนช่วยทำให้ฤทธิ์ของมันนุ่มนวลลง บทความนี้อธิบายว่าชาชนิดใดมีคาเฟอีนมากกว่า ควรดื่มอะไรในตอนเย็น และความจริงเกี่ยวกับการชงน้ำแรก"
+   "th": "ชาก็มีคาเฟอีนเช่นกัน แต่โดยทั่วไปน้อยกว่ากาแฟ และกรดอะมิโนธีอะนีนช่วยทำให้ฤทธิ์ของมันนุ่มนวลลง บทความนี้อธิบายว่าชาชนิดใดมีคาเฟอีนมากกว่า ควรดื่มอะไรในตอนเย็น และความจริงเกี่ยวกับการชงน้ำแรก",
+   "vi": "Trà cũng chứa caffeine, nhưng thường ít hơn cà phê, và axit amin theanine làm dịu tác dụng của nó. Bài viết này giải thích loại trà nào chứa nhiều caffeine hơn, nên uống gì vào buổi tối, và sự thật về lần ngâm đầu tiên."
   },
   "body": {
    "ko": [
@@ -3362,6 +3733,28 @@ window.TEAFaiCulture = [
      "h": "ความเข้าใจผิดเกี่ยวกับการชงน้ำแรก",
      "p": "คำกล่าวที่ว่าการเทน้ำแรกทิ้งจะกำจัดคาเฟอีนออกไปเกือบทั้งหมดนั้นเป็นการพูดเกินจริง คาเฟอีนไม่ได้ถูกชะออกในการล้างเพียงครั้งเดียว แต่จะค่อย ๆ ละลายออกมาตลอดการชงหลายน้ำ การล้างใบชามีจุดประสงค์หลักเพื่อชะฝุ่นออกและปลุกใบชาให้ตื่น — ไม่ใช่วิธีลดคาเฟอีนที่เชื่อถือได้"
     }
+   ],
+   "vi": [
+    {
+     "h": "Đúng, trà có caffeine",
+     "p": "Trà thực sự chứa caffeine, dù một tách trà thường có ít hơn một tách cà phê. Lượng caffeine thay đổi nhiều tùy thuộc vào loại trà và cách pha — một tách pha đậm và một tách pha nhạt có thể khác nhau rất nhiều. Vì vậy 'trà không có caffeine' là không chính xác; 'thường nhẹ nhàng hơn cà phê' mới gần với sự thật."
+    },
+    {
+     "h": "Theanine tạo nên khác biệt",
+     "p": "Trà còn chứa một axit amin gọi là theanine, làm dịu tác dụng kích thích của caffeine. Đó là lý do nhiều người cảm thấy tập trung một cách bình thản sau khi uống trà thay vì bị kích thích mạnh như với cà phê. Theanine cũng là nguồn tạo vị umami đậm đà, nên các loại trà giàu theanine — như trà xanh hảo hạng được che bóng — cũng có xu hướng có vị sâu hơn."
+    },
+    {
+     "h": "Loại trà nào có nhiều caffeine hơn",
+     "p": "Caffeine có xu hướng cao hơn ở búp non và lá non, nên các loại trà nhiều búp và matcha, được tiêu thụ dưới dạng bột nguyên lá, cung cấp tương đối nhiều caffeine hơn. Trà làm từ cành hoặc lá già, và trà rang, có xu hướng ít caffeine hơn. Cùng một loại trà cũng giải phóng nhiều caffeine hơn khi ngâm lâu hơn trong nước nóng hơn."
+    },
+    {
+     "h": "Lựa chọn tốt cho buổi tối",
+     "p": "Nếu bạn nhạy cảm với caffeine, hojicha — trà rang, ít caffeine — là lựa chọn buổi tối tốt trong số các loại trà thực thụ. Trà lúa mạch, rooibos, cúc La Mã và các loại đồ uống thảo mộc khác hoàn toàn không chứa caffeine và là lựa chọn dễ dàng vào ban đêm. Nếu vẫn muốn uống trà thật, hãy pha nhạt và ít, và chừa vài giờ trước khi đi ngủ."
+    },
+    {
+     "h": "Hiểu lầm về lần ngâm đầu tiên",
+     "p": "Tuyên bố rằng bỏ lần ngâm đầu tiên sẽ loại bỏ phần lớn caffeine là một sự phóng đại. Caffeine không bị rửa trôi trong một lần tráng; nó tiếp tục hòa tan qua nhiều lần ngâm. Tráng lá chủ yếu là để rửa bụi và đánh thức lá trà — không phải là cách đáng tin cậy để khử caffeine trong trà của bạn."
+    }
    ]
   },
   "related": [
@@ -3380,7 +3773,8 @@ window.TEAFaiCulture = [
    "ja": "お茶の保存法——避けたい五つのもの",
    "yue": "茶葉保存法——避開呢五樣嘢",
    "hi": "चाय कैसे संग्रहित करें — पाँच चीज़ों से दूर रखें",
-   "th": "วิธีเก็บรักษาชา — หลีกให้ห่างจากห้าสิ่ง"
+   "th": "วิธีเก็บรักษาชา — หลีกให้ห่างจากห้าสิ่ง",
+   "vi": "Cách Bảo Quản Trà — Tránh Xa Năm Thứ"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -3390,7 +3784,8 @@ window.TEAFaiCulture = [
    "ja": "お茶は光、湿気、空気、におい、熱に弱いものです。この五つを避ける基本原則と密閉容器の選び方、冷蔵保存の注意点、お茶の種類ごとの保存期間の目安をまとめました。",
    "yue": "茶葉怕光、怕潮、怕空氣、怕異味、怕熱。呢篇整理咗避開呢五樣嘢嘅基本原則、密封罐嘅揀法、雪藏保存嗰陣嘅注意事項，同埋各類茶大致嘅保存期限。",
    "hi": "चाय प्रकाश, नमी, हवा, गंध और गरमी के सामने नाज़ुक होती है। यह मार्गदर्शिका चाय को ताज़ा रखने के बुनियादी नियम, वायुरोधी डिब्बा कैसे चुनें, फ्रिज में रखते समय किन बातों का ध्यान रखें, और हर प्रकार कितने समय तक ठीक रहता है — ये सब बताती है।",
-   "th": "ชาบอบบางต่อแสง ความชื้น อากาศ กลิ่น และความร้อน คู่มือนี้ครอบคลุมกฎพื้นฐานในการรักษาความสดของชา วิธีเลือกภาชนะที่ปิดสนิท ข้อควรระวังในการแช่เย็น และความรู้สึกคร่าว ๆ ว่าชาแต่ละประเภทเก็บได้นานแค่ไหน"
+   "th": "ชาบอบบางต่อแสง ความชื้น อากาศ กลิ่น และความร้อน คู่มือนี้ครอบคลุมกฎพื้นฐานในการรักษาความสดของชา วิธีเลือกภาชนะที่ปิดสนิท ข้อควรระวังในการแช่เย็น และความรู้สึกคร่าว ๆ ว่าชาแต่ละประเภทเก็บได้นานแค่ไหน",
+   "vi": "Trà rất nhạy cảm trước ánh sáng, độ ẩm, không khí, mùi lạ và nhiệt. Bài viết này trình bày các quy tắc cơ bản để giữ trà tươi, cách chọn hộp kín, những điều cần lưu ý khi bảo quản lạnh, và cảm nhận về thời gian giữ của từng loại trà."
   },
   "body": {
    "ko": [
@@ -3535,6 +3930,24 @@ window.TEAFaiCulture = [
     {
      "h": "ชาแต่ละประเภทเก็บได้นานแค่ไหน",
      "p": "ชาเขียวเปลี่ยนไปอย่างรวดเร็ว จึงควรดื่มให้หมดภายในไม่กี่เดือนหลังเปิด ส่วนชาแดงทนทานกว่าและเก็บได้ดีหนึ่งถึงสองปี อู่หลงที่ผ่านการคั่วมากกว่าเก็บได้นานกว่าอู่หลงที่เขียวกว่า ชาดำอย่างผู่เอ๋อร์เป็นข้อยกเว้น เพราะผู้คนเพลิดเพลินกับการเปลี่ยนแปลงของมันตลอดหลายปีที่อุณหภูมิห้องโดยมีอากาศถ่ายเทบ้าง การระบายอากาศจึงสำคัญกว่าการปิดผนึกสนิท"
+    }
+   ],
+   "vi": [
+    {
+     "h": "Năm thứ trà không ưa",
+     "p": "Ánh sáng làm phai màu và hương của trà, còn độ ẩm mời gọi nấm mốc và mùi lạ. Tiếp xúc với không khí khiến quá trình oxy hóa tiếp diễn và lấy đi hương tươi, trong khi lá khô hấp thụ mùi xung quanh dễ dàng đến mức bảo quản trà cạnh gia vị hay cà phê sẽ làm nó nhiễm mùi. Nhiệt độ cao cũng khiến hương thơm phai nhanh hơn."
+    },
+    {
+     "h": "Hộp đựng và nơi để — những điều cơ bản",
+     "p": "Quy tắc chung là hộp kín, không trong suốt, để ở nơi mát và khô. Chia trà vào các hộp nhỏ nghĩa là phần trà chính ít bị mở ra hơn, nên giữ hương lâu hơn. Nhà bếp thay đổi nhiệt độ và độ ẩm, lại đầy mùi thức ăn, nên một chiếc tủ ở phòng khác là nơi ở tốt hơn cho trà của bạn."
+    },
+    {
+     "h": "Nếu bảo quản lạnh, hãy cẩn thận",
+     "p": "Trà xanh và ô long tinh tế giữ được độ tươi lâu hơn trong tủ lạnh, miễn là hộp được đóng thật kín. Nhưng nếu mở trà lạnh ngay lập tức, hơi ẩm từ không khí sẽ ngưng tụ trên lá, nên hãy để hộp trở về nhiệt độ phòng trước khi mở. Sau khi đã mở, tránh di chuyển trà qua lại giữa tủ lạnh và kệ — hãy giữ nó mát và dùng hết trong thời gian hợp lý."
+    },
+    {
+     "h": "Mỗi loại trà giữ được bao lâu",
+     "p": "Trà xanh thay đổi nhanh, nên tốt nhất dùng hết trong vòng vài tháng sau khi mở; hồng trà bền hơn và giữ tốt trong một đến hai năm. Ô long rang đậm bảo quản lâu hơn loại xanh hơn. Hắc trà như phổ nhĩ là ngoại lệ: chúng được thưởng thức vì cách chúng thay đổi qua nhiều năm ở nhiệt độ phòng với một chút lưu thông không khí, nên thông gió quan trọng hơn đóng kín."
     }
    ]
   },
