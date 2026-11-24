@@ -5986,12 +5986,17 @@ h3 {
 }
 
 /* ============================================================
-   언어 선택 개편 — 폰: 헤더 우상단 버튼 + 전체화면 선택 목록
+   언어 선택 개편 — 전 기기 공통: 헤더 우상단 버튼 + 전체화면 선택 목록
    (기존 언어 버튼 줄이 사라진 만큼 헤더가 한 줄로 줄고,
     본문은 syncHeaderHeight 실측값만큼 위로 올라옵니다)
    ============================================================ */
-.lang-open {
+.app-header .lang-switch {
   display: none;
+}
+
+.lang-open {
+  display: inline-flex;
+  margin-left: auto;
   align-items: center;
   gap: 6px;
   padding: 7px 11px;
@@ -6120,6 +6125,22 @@ h3 {
 
   .lang-open {
     display: inline-flex;
+  }
+}
+
+/* PC·태블릿: 선택 목록은 가운데 열로 모아 보여줍니다 */
+@media (min-width: 900px) {
+  .lang-picker-head,
+  .lang-picker-list {
+    width: 100%;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .lang-row {
+    padding: 16px 24px;
+    font-size: 17px;
   }
 }
 
