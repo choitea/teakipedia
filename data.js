@@ -9,7 +9,7 @@
 window.TEAFaiData = (function () {
   "use strict";
 
-  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue"];
+  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue", "hi", "th"];
 
   /* 광동어(yue)는 아직 차별 문구를 따로 쓰지 않았습니다. 번체 중국어 문구를 그대로 쓰고,
      없는 항목은 영어까지 내려갑니다(화면이 비지 않게). */
@@ -19,7 +19,9 @@ window.TEAFaiData = (function () {
     "zh-CN": ["zh-CN", "zh-TW", "en"],
     "zh-TW": ["zh-TW", "zh-CN", "en"],
     ja: ["ja", "en"],
-    yue: ["yue", "zh-TW", "zh-CN", "en"]
+    yue: ["yue", "zh-TW", "zh-CN", "en"],
+    hi: ["hi", "en"],
+    th: ["th", "en"]
   };
 
   /* 계열 이름은 일본어를 따로 적어 둡니다(차별 설명은 영어로 내려갑니다) */
