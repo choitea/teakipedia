@@ -180,6 +180,7 @@
     if (view === "community") renderPostList();
     if (view === "store") renderStore();
     if (view === "culture") renderCulture();
+    if (view === "notes") renderNotes();
     if (view === "guide") {
       renderTeaList();
       renderBagList();
@@ -220,6 +221,7 @@
     if (art) {
       listEl.hidden = true;
       detailEl.hidden = false;
+      markCultureRead(art.id);
       var body =
         art.body && (art.body[lang] || (lang === "yue" ? art.body["zh-TW"] : null) || art.body.ko) || [];
       var html =
@@ -243,6 +245,30 @@
         });
         html += "</div>";
       });
+      var courseIdx = COURSE_IDS.indexOf(art.id);
+      if (courseIdx >= 0) {
+        html +=
+          '<div class="course-nav"><span class="course-pos">' +
+          esc(t("course.title")) +
+          " · " +
+          esc(t("course.step", { n: courseIdx + 1 })) +
+          '</span><div class="course-nav-btns">';
+        if (courseIdx > 0)
+          html +=
+            '<button type="button" class="chip small" data-course="' +
+            esc(COURSE_IDS[courseIdx - 1]) +
+            '">' +
+            esc(t("course.prev")) +
+            "</button>";
+        if (courseIdx < COURSE_IDS.length - 1)
+          html +=
+            '<button type="button" class="chip small" data-course="' +
+            esc(COURSE_IDS[courseIdx + 1]) +
+            '">' +
+            esc(t("course.next")) +
+            "</button>";
+        html += "</div></div>";
+      }
       var rel = (art.related || []).filter(function (id) {
         return !!D.byId(id);
       });
@@ -267,6 +293,13 @@
           renderCulture();
           window.scrollTo(0, 0);
         });
+      $$("[data-course]", detailEl).forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          cultureOpenId = btn.getAttribute("data-course");
+          renderCulture();
+          window.scrollTo(0, 0);
+        });
+      });
       $$("[data-reltea]", detailEl).forEach(function (btn) {
         btn.addEventListener("click", function () {
           openTeaInGuide(btn.getAttribute("data-reltea"));
@@ -282,6 +315,47 @@
       ["ware", t("culture.cat.ware")]
     ];
     var out = "";
+    var readSet = cultureReadSet();
+    var courseArts = COURSE_IDS.map(function (id) {
+      return (
+        arts.filter(function (x) {
+          return x.id === id;
+        })[0] || null
+      );
+    }).filter(function (x) {
+      return !!x;
+    });
+    if (courseArts.length) {
+      var readCount = courseArts.filter(function (x) {
+        return readSet.indexOf(x.id) >= 0;
+      }).length;
+      out +=
+        '<h2 class="culture-cat">' +
+        esc(t("course.title")) +
+        '</h2><p class="course-sub">' +
+        esc(t("course.sub")) +
+        " · " +
+        esc(t("course.progress", { n: readCount, total: courseArts.length })) +
+        '</p><div class="course-list">';
+      courseArts.forEach(function (x, i) {
+        var read = readSet.indexOf(x.id) >= 0;
+        out +=
+          '<button type="button" class="course-item" data-culture="' +
+          esc(x.id) +
+          '"><span class="course-num">' +
+          (i + 1) +
+          '</span><span class="course-txt"><b>' +
+          esc(cultureField(x.title)) +
+          "</b><span>" +
+          esc(cultureField(x.summary)) +
+          "</span></span>" +
+          (read
+            ? '<span class="course-badge">' + esc(t("course.read")) + "</span>"
+            : "") +
+          "</button>";
+      });
+      out += "</div>";
+    }
     cats.forEach(function (pair) {
       var items = arts.filter(function (x) {
         return x.cat === pair[0];
@@ -315,6 +389,178 @@
   /* ============================================================
      1. 차 백과 (기본 첫 화면) — 계열 필터 · 301종 · 실물 사진 · 원산지
      ============================================================ */
+
+  /* ============================================================
+     입문 동선 · 기록 기반 추천 · 차 문화 입문 코스
+     ============================================================ */
+  var CULTURE_READ_KEY = "teafai.cultureRead.v1";
+  var STARTER_IDS = [
+    "green-longjing", "green-sencha", "green-sejak", "green-matcha",
+    "white-silverneedle", "oolong-tieguanyin", "oolong-beauty",
+    "black-darjeeling-first", "black-keemun", "blend-earlgrey"
+  ];
+  var COLLECTIONS = [
+    { id: "starter", key: "begin.col.starter", ids: STARTER_IDS },
+    { id: "morning", key: "begin.col.morning", trait: "t-morning" },
+    { id: "nocaf", key: "begin.col.nocaf", trait: "c-none" },
+    { id: "floral", key: "begin.col.floral", trait: "a-floral" }
+  ];
+  var COURSE_IDS = [
+    "basics-six-types", "basics-temp-time", "basics-caffeine", "basics-storage",
+    "ware-gaiwan", "ware-pot-cup", "culture-korea", "culture-china-gongfu"
+  ];
+  var beginnerState = { col: "starter" };
+
+  function miniCardHtml(tea) {
+    var src = tea.photo ? photoSrc(tea.photo) : "";
+    return (
+      '<button type="button" class="mini-card" data-minitea="' +
+      esc(tea.id) +
+      '">' +
+      (src ? '<img src="' + esc(src) + '" alt="" loading="lazy">' : "") +
+      "<span>" +
+      esc(tea.name) +
+      "</span></button>"
+    );
+  }
+  function bindMiniCards(root) {
+    $$("[data-minitea]", root).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        openTeaInGuide(btn.getAttribute("data-minitea"));
+      });
+    });
+  }
+
+  function collectionTeas(col) {
+    var list;
+    if (col.ids) {
+      list = col.ids
+        .map(function (id) { return D.byId(id); })
+        .filter(function (x) { return !!x; });
+    } else {
+      list = D.teas.filter(function (tea) { return hasTrait(tea.id, col.trait); });
+    }
+    return list.slice(0, 12);
+  }
+
+  /* 차 백과 첫머리 — 처음이라면: 퀴즈 진입 + 상황별 큐레이션 */
+  function renderBeginner() {
+    var box = $("#beginnerBox");
+    if (!box) return;
+    var show =
+      guideState.tab === "leaf" && !guideState.q.trim() && guideState.filter === "all";
+    box.hidden = !show;
+    if (!show) return;
+    var col =
+      COLLECTIONS.filter(function (c) { return c.id === beginnerState.col; })[0] ||
+      COLLECTIONS[0];
+    var teas = collectionTeas(col);
+    var html =
+      '<div class="begin-head"><h2>' +
+      esc(t("begin.title")) +
+      "</h2><p>" +
+      esc(t("begin.sub")) +
+      "</p></div>" +
+      '<button type="button" class="begin-quiz" id="beginQuiz"><span class="qs-spark" aria-hidden="true">✦</span><span class="qs-text"><b>' +
+      esc(t("begin.quizCta")) +
+      "</b></span>" +
+      '<span class="qs-cta"><svg width="13" height="13"><use href="#ic-arrow" /></svg></span></button>' +
+      '<div class="chip-row wrap begin-chips">';
+    COLLECTIONS.forEach(function (c) {
+      html +=
+        '<button type="button" class="chip small" data-col="' +
+        c.id +
+        '" aria-pressed="' +
+        String(c.id === col.id) +
+        '">' +
+        esc(t(c.key)) +
+        "</button>";
+    });
+    html +=
+      '</div><div class="mini-strip">' + teas.map(miniCardHtml).join("") + "</div>";
+    box.innerHTML = html;
+    var q = $("#beginQuiz", box);
+    if (q) q.addEventListener("click", openQuiz);
+    $$("[data-col]", box).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        beginnerState.col = btn.getAttribute("data-col");
+        renderBeginner();
+      });
+    });
+    bindMiniCards(box);
+  }
+
+  /* 시음 노트 기반 추천 — 좋아한 차의 향미 태그·계열로 다음 차를 고릅니다 */
+  function renderReco() {
+    var box = $("#noteReco");
+    if (!box) return;
+    var notes = loadNotes();
+    var notedIds = {};
+    notes.forEach(function (n) { if (n.teaId) notedIds[n.teaId] = true; });
+    var hasTeaNotes = Object.keys(notedIds).length > 0;
+    var html = '<div class="reco-head"><h2>' + esc(t("reco.title")) + "</h2>";
+    var picks = [];
+    if (!hasTeaNotes) {
+      html += "<p>" + esc(t("reco.empty")) + "</p></div>";
+      picks = STARTER_IDS.map(function (id) { return D.byId(id); })
+        .filter(function (x) { return !!x; })
+        .slice(0, 6);
+    } else {
+      html += "<p>" + esc(t("reco.sub")) + "</p></div>";
+      var liked = notes.filter(function (n) {
+        return n.teaId && (Number(n.rating) || 0) >= 4;
+      });
+      var base = liked.length ? liked : notes.filter(function (n) { return n.teaId; });
+      var traitScore = {};
+      var groupScore = {};
+      base.forEach(function (n) {
+        traitList(n.teaId).forEach(function (tag) {
+          traitScore[tag] = (traitScore[tag] || 0) + 1;
+        });
+        var g = D.groupOf(n.teaId);
+        if (g && g.id) groupScore[g.id] = (groupScore[g.id] || 0) + 1;
+      });
+      var scored = D.teas
+        .filter(function (tea) { return !notedIds[tea.id]; })
+        .map(function (tea) {
+          var score = 0;
+          traitList(tea.id).forEach(function (tag) {
+            score += (traitScore[tag] || 0) * 2;
+          });
+          var g = D.groupOf(tea.id);
+          if (g && groupScore[g.id]) score += groupScore[g.id] * 3;
+          return { tea: tea, score: score };
+        })
+        .filter(function (x) { return x.score > 0; })
+        .sort(function (a, b) { return b.score - a.score; });
+      picks = scored.slice(0, 6).map(function (x) { return x.tea; });
+      if (!picks.length) {
+        picks = STARTER_IDS.map(function (id) { return D.byId(id); })
+          .filter(function (x) { return !!x && !notedIds[x.id]; })
+          .slice(0, 6);
+      }
+    }
+    if (!picks.length) { box.innerHTML = ""; return; }
+    html += '<div class="mini-strip">' + picks.map(miniCardHtml).join("") + "</div>";
+    if (hasTeaNotes) html += '<p class="reco-hint">' + esc(t("reco.hint")) + "</p>";
+    box.innerHTML = html;
+    bindMiniCards(box);
+  }
+
+  /* 차 문화 입문 코스 — 읽은 글을 기기에 기억합니다 */
+  function cultureReadSet() {
+    var raw = storeGet(CULTURE_READ_KEY, []);
+    return Array.isArray(raw) ? raw : [];
+  }
+  function markCultureRead(id) {
+    if (!id) return;
+    var set = cultureReadSet();
+    if (set.indexOf(id) < 0) {
+      set.push(id);
+      storeSet(CULTURE_READ_KEY, set);
+    }
+  }
+
   /* 취향 태그 비교의 기준 차 — 퀴즈 결과가 있으면 그 차 */
   function referenceTeaId() {
     if (quizState.result && quizState.result.best && quizState.result.best.tea) return quizState.result.best.tea.id;
@@ -1082,6 +1328,7 @@
   function renderTeaList() {
     var list = $("#teaList");
     if (!list) return;
+    renderBeginner();
     var q = guideState.q.trim().toLowerCase();
     var out = [];
 
@@ -1298,6 +1545,8 @@
       $("#statAvg").textContent = "—";
     }
 
+    renderReco();
+
     if (!count) {
       list.innerHTML = '<div class="empty">' + t("notes.empty") + "</div>";
       return;
@@ -1364,6 +1613,10 @@
     }
     /* 직접 적은 차는 그 이름을 노트 이름으로도 씁니다 */
     if (!name && customName) name = customName;
+    if (!name && !isCustomTea(teaId)) {
+      var selTea = D.byId(teaId);
+      if (selTea && selTea.name) name = selTea.name;
+    }
     if (!name) {
       toast(t("toast.nameNeeded"));
       $("#noteName").focus();
