@@ -252,6 +252,12 @@ a {
   color: var(--paper);
 }
 
+.chip.spy-on {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
 .chip[aria-pressed="true"] svg {
   opacity: 1;
   color: var(--amber-light);

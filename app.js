@@ -1150,6 +1150,7 @@
       btn.type = "button";
       btn.className = "chip small";
       btn.setAttribute("aria-pressed", String(guideState.filter === item.id));
+      btn.setAttribute("data-filter-chip", item.id);
       btn.textContent = item.name;
       btn.addEventListener("click", function () {
         guideState.filter = item.id;
@@ -1406,7 +1407,7 @@
       if (!cards.length) return;
       if (guideState.filter === "all") {
         out.push(
-          '<div class="group-head"><h2>' +
+          '<div class="group-head" data-group-head="' + g.id + '"><h2>' +
             esc(g.name) +
             "</h2><span>" +
             esc(t("unit.teas", { n: D.teasOf(g.id).length })) +
@@ -1466,6 +1467,33 @@
         openStoreFor(id);
       });
     });
+
+    updateChipSpy();
+  }
+
+  /* 스크롤 위치에 따라 지금 보고 있는 계열 칩도 함께 녹색으로 표시합니다 */
+  var spyTick = false;
+  function updateChipSpy() {
+    spyTick = false;
+    var chips = $$("#filterChips [data-filter-chip]");
+    if (!chips.length) return;
+    var current = null;
+    if (currentView === "guide" && guideState.tab === "leaf" && guideState.filter === "all") {
+      var sticky = $("#guideSticky");
+      var offset = sticky ? sticky.getBoundingClientRect().bottom : 0;
+      $$("#teaList [data-group-head]").forEach(function (h) {
+        if (h.getBoundingClientRect().top <= offset + 12)
+          current = h.getAttribute("data-group-head");
+      });
+    }
+    chips.forEach(function (chip) {
+      chip.classList.toggle("spy-on", chip.getAttribute("data-filter-chip") === current);
+    });
+  }
+  function requestChipSpy() {
+    if (spyTick) return;
+    spyTick = true;
+    window.requestAnimationFrame(updateChipSpy);
   }
 
   /* 백과의 해당 카드를 펼쳐 보여 줍니다 (퀴즈 결과 연결) */
@@ -4378,6 +4406,7 @@
       });
     }
     loadSortPrefs();
+    window.addEventListener("scroll", requestChipSpy, { passive: true });
     var leafSortSel = $("#leafSort");
     if (leafSortSel)
       leafSortSel.addEventListener("change", function () {
