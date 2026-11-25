@@ -6144,6 +6144,210 @@ h3 {
   }
 }
 
+/* ---------- 입문 동선 · 추천 · 차 문화 코스 ---------- */
+#beginnerBox {
+  margin-top: 14px;
+}
+
+.begin-head h2 {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.begin-head p {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+
+.begin-quiz {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  margin: 0 0 12px;
+  padding: 11px 13px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: linear-gradient(135deg, var(--paper-2), var(--paper-3));
+  text-align: left;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+}
+
+.begin-quiz .qs-text b {
+  display: block;
+  font-family: var(--serif);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.begin-chips {
+  margin-bottom: 10px;
+}
+
+.mini-strip {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 2px 2px 10px;
+  scrollbar-width: none;
+}
+
+.mini-strip::-webkit-scrollbar {
+  display: none;
+}
+
+.mini-card {
+  flex: 0 0 auto;
+  width: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 8px;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+  text-align: center;
+}
+
+.mini-card img {
+  width: 100%;
+  height: 76px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.mini-card span {
+  font-size: 12px;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#noteReco {
+  margin: 0 0 14px;
+}
+
+.reco-head h2 {
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.reco-head p {
+  font-size: 12.5px;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+
+.reco-hint {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 0;
+}
+
+.course-sub {
+  font-size: 12.5px;
+  color: var(--muted);
+  margin: -6px 0 10px;
+}
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.course-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 10px 12px;
+  text-align: left;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.course-num {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--paper-3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--serif);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.course-txt {
+  flex: 1;
+  min-width: 0;
+}
+
+.course-txt b {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.course-txt span {
+  display: block;
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.course-badge {
+  flex: 0 0 auto;
+  font-size: 11px;
+  color: var(--amber);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.course-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 18px 0 6px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.course-pos {
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+.course-nav-btns {
+  display: flex;
+  gap: 8px;
+}
+
 </style>
   </head>
   <body>
@@ -6423,6 +6627,7 @@ h3 {
         </div>
 
         <div id="leafPanel">
+          <div id="beginnerBox"></div>
           <div id="teaList" style="margin-top: 14px"></div>
 
           <div class="channel-block">
@@ -6709,6 +6914,8 @@ h3 {
             <b id="statAvg">—</b>
           </div>
         </div>
+
+        <div id="noteReco"></div>
 
         <form class="form-card" id="noteForm" autocomplete="off">
           <div class="field">
@@ -13082,7 +13289,189 @@ window.TEAFaiI18N = (function () {
     "weekday.tue": "T3",
     "weekday.wed": "T4"
 } };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI];
+  var V17 = {
+    "ko": {
+      "begin.title": "차, 처음이라면",
+      "begin.sub": "어디서 시작할지 막막하다면, 여기서부터 천천히 둘러보세요.",
+      "begin.quizCta": "취향 테스트로 내 차 찾기",
+      "begin.col.starter": "입문 추천",
+      "begin.col.morning": "아침에 좋은 차",
+      "begin.col.nocaf": "카페인 없는 차",
+      "begin.col.floral": "꽃향 가득한 차",
+      "reco.title": "다음에 마셔볼 차",
+      "reco.sub": "내 시음 기록의 취향으로 골랐어요.",
+      "reco.empty": "아직 기록이 없어요. 이 차들부터 시작해 보세요.",
+      "reco.hint": "노트를 남길수록 추천이 내 취향에 가까워져요.",
+      "course.title": "입문 코스",
+      "course.sub": "처음부터 순서대로 읽는 차 공부",
+      "course.progress": "{n}/{total} 읽음",
+      "course.step": "{n}번째 글",
+      "course.prev": "이전 글",
+      "course.next": "다음 글",
+      "course.read": "읽음"
+    },
+    "en": {
+      "begin.title": "New to tea?",
+      "begin.sub": "Not sure where to start? Take it slow, starting here.",
+      "begin.quizCta": "Find my tea with the taste quiz",
+      "begin.col.starter": "Starter picks",
+      "begin.col.morning": "Morning teas",
+      "begin.col.nocaf": "Caffeine-free",
+      "begin.col.floral": "Floral teas",
+      "reco.title": "What to try next",
+      "reco.sub": "Picked from the taste in your notes.",
+      "reco.empty": "No notes yet. Start with these teas.",
+      "reco.hint": "The more notes you leave, the closer the picks get to your taste.",
+      "course.title": "Beginner course",
+      "course.sub": "Learn tea step by step, in order",
+      "course.progress": "{n}/{total} read",
+      "course.step": "Step {n}",
+      "course.prev": "Previous",
+      "course.next": "Next",
+      "course.read": "Read"
+    },
+    "zh-CN": {
+      "begin.col.floral": "花香满满的茶",
+      "begin.col.morning": "适合早晨的茶",
+      "begin.col.nocaf": "无咖啡因",
+      "begin.col.starter": "新手推荐",
+      "begin.quizCta": "通过口味测试，找到适合我的茶",
+      "begin.sub": "不知从何开始？就从这里慢慢逛起来吧。",
+      "begin.title": "初次喝茶？",
+      "course.next": "下一篇",
+      "course.prev": "上一篇",
+      "course.progress": "已读 {n}/{total}",
+      "course.read": "已读",
+      "course.step": "第 {n} 篇",
+      "course.sub": "从头按顺序学茶",
+      "course.title": "新手课程",
+      "reco.empty": "还没有记录。从这些茶开始吧。",
+      "reco.hint": "记录越多，推荐就越合你的口味。",
+      "reco.sub": "根据你的品饮记录口味挑选的。",
+      "reco.title": "接下来试试这些茶"
+    },
+    "zh-TW": {
+      "begin.col.floral": "花香滿滿的茶",
+      "begin.col.morning": "適合早晨的茶",
+      "begin.col.nocaf": "無咖啡因",
+      "begin.col.starter": "新手推薦",
+      "begin.quizCta": "透過口味測驗，找到適合我的茶",
+      "begin.sub": "不知從何開始？就從這裡慢慢逛起來吧。",
+      "begin.title": "初次喝茶？",
+      "course.next": "下一篇",
+      "course.prev": "上一篇",
+      "course.progress": "已讀 {n}/{total}",
+      "course.read": "已讀",
+      "course.step": "第 {n} 篇",
+      "course.sub": "從頭按順序學茶",
+      "course.title": "新手課程",
+      "reco.empty": "還沒有紀錄。從這些茶開始吧。",
+      "reco.hint": "紀錄越多，推薦就越合你的口味。",
+      "reco.sub": "根據你的品飲紀錄口味挑選的。",
+      "reco.title": "接下來試試這些茶"
+    },
+    "ja": {
+      "begin.col.floral": "花の香りいっぱいのお茶",
+      "begin.col.morning": "朝におすすめのお茶",
+      "begin.col.nocaf": "ノンカフェイン",
+      "begin.col.starter": "入門おすすめ",
+      "begin.quizCta": "好みテストで自分のお茶を見つける",
+      "begin.sub": "何から始めればいいか迷ったら、ここからゆっくり見てみましょう。",
+      "begin.title": "お茶、初めてですか？",
+      "course.next": "次の記事",
+      "course.prev": "前の記事",
+      "course.progress": "{n}/{total} 読了",
+      "course.read": "既読",
+      "course.step": "{n}番目の記事",
+      "course.sub": "最初から順番に読むお茶の勉強",
+      "course.title": "入門コース",
+      "reco.empty": "まだ記録がありません。まずはこのお茶からどうぞ。",
+      "reco.hint": "記録を残すほど、おすすめがあなたの好みに近づきます。",
+      "reco.sub": "あなたの試飲記録の好みから選びました。",
+      "reco.title": "次に試したいお茶"
+    },
+    "hi": {
+      "begin.title": "चाय में नए हैं?",
+      "begin.sub": "समझ नहीं आ रहा कहाँ से शुरू करें? यहीं से आराम से शुरुआत करें।",
+      "begin.quizCta": "स्वाद क्विज़ से अपनी चाय खोजें",
+      "begin.col.starter": "शुरुआती पसंद",
+      "begin.col.morning": "सुबह के लिए चाय",
+      "begin.col.nocaf": "कैफीन-मुक्त",
+      "begin.col.floral": "फूलों की खुशबू वाली चाय",
+      "reco.title": "अगली बार क्या आज़माएँ",
+      "reco.sub": "आपके नोट्स के स्वाद के हिसाब से चुना गया।",
+      "reco.empty": "अभी कोई नोट नहीं है। इन चायों से शुरुआत करें।",
+      "reco.hint": "जितने ज़्यादा नोट्स लिखेंगे, सुझाव उतने ही आपके स्वाद के करीब होंगे।",
+      "course.title": "शुरुआती कोर्स",
+      "course.sub": "क्रम से, कदम-दर-कदम चाय सीखें",
+      "course.progress": "{n}/{total} पढ़े",
+      "course.step": "चरण {n}",
+      "course.prev": "पिछला",
+      "course.next": "अगला",
+      "course.read": "पढ़ा हुआ"
+    },
+    "th": {
+      "begin.title": "เพิ่งเริ่มดื่มชาใช่ไหม?",
+      "begin.sub": "ไม่รู้จะเริ่มตรงไหน? ค่อย ๆ เริ่มจากตรงนี้ได้เลย",
+      "begin.quizCta": "ค้นหาชาที่ใช่ด้วยแบบทดสอบรสนิยม",
+      "begin.col.starter": "แนะนำสำหรับมือใหม่",
+      "begin.col.morning": "ชาสำหรับตอนเช้า",
+      "begin.col.nocaf": "ไม่มีคาเฟอีน",
+      "begin.col.floral": "ชาหอมกลิ่นดอกไม้",
+      "reco.title": "ชาที่น่าลองต่อไป",
+      "reco.sub": "คัดจากรสนิยมในบันทึกของคุณ",
+      "reco.empty": "ยังไม่มีบันทึก เริ่มจากชาเหล่านี้ก่อนได้เลย",
+      "reco.hint": "ยิ่งบันทึกมากเท่าไร ชาที่แนะนำก็ยิ่งตรงใจมากขึ้น",
+      "course.title": "คอร์สสำหรับมือใหม่",
+      "course.sub": "เรียนเรื่องชาตามลำดับ ทีละขั้น",
+      "course.progress": "อ่านแล้ว {n}/{total}",
+      "course.step": "ขั้นที่ {n}",
+      "course.prev": "ก่อนหน้า",
+      "course.next": "ถัดไป",
+      "course.read": "อ่านแล้ว"
+    },
+    "vi": {
+      "begin.title": "Bạn mới uống trà?",
+      "begin.sub": "Chưa biết bắt đầu từ đâu? Cứ thong thả bắt đầu từ đây.",
+      "begin.quizCta": "Tìm loại trà hợp gu với bài trắc nghiệm khẩu vị",
+      "begin.col.starter": "Gợi ý cho người mới",
+      "begin.col.morning": "Trà cho buổi sáng",
+      "begin.col.nocaf": "Không caffeine",
+      "begin.col.floral": "Trà thơm hương hoa",
+      "reco.title": "Trà nên thử tiếp theo",
+      "reco.sub": "Chọn theo khẩu vị trong ghi chú của bạn.",
+      "reco.empty": "Chưa có ghi chú nào. Hãy bắt đầu với những loại trà này.",
+      "reco.hint": "Ghi chú càng nhiều, gợi ý càng sát với khẩu vị của bạn.",
+      "course.title": "Khóa học cho người mới",
+      "course.sub": "Học về trà theo thứ tự, từng bước một",
+      "course.progress": "Đã đọc {n}/{total}",
+      "course.step": "Bước {n}",
+      "course.prev": "Trước",
+      "course.next": "Tiếp theo",
+      "course.read": "Đã đọc"
+    }
+  };
+  var YUE7 = {
+    "begin.col.floral": "花香滿滿嘅茶",
+    "begin.col.morning": "啱朝早飲嘅茶",
+    "begin.col.nocaf": "冇咖啡因",
+    "begin.col.starter": "新手推介",
+    "begin.quizCta": "做個口味測試，搵返啱自己嘅茶",
+    "begin.sub": "唔知由邊度開始好？由呢度慢慢睇起啦。",
+    "begin.title": "第一次飲茶？",
+    "course.next": "下一篇",
+    "course.prev": "上一篇",
+    "course.progress": "已讀 {n}/{total}",
+    "course.read": "已讀",
+    "course.step": "第 {n} 篇",
+    "course.sub": "由頭開始，順序學茶",
+    "course.title": "新手課程",
+    "reco.empty": "仲未有記錄。不如由呢啲茶開始啦。",
+    "reco.hint": "記錄得越多，推介就越啱你口味。",
+    "reco.sub": "根據你品飲記錄嘅口味揀出嚟㗎。",
+    "reco.title": "下一杯試吓呢啲"
+  };
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -13102,6 +13491,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE4) merged[k] = YUE4[k];
       for (k in YUE5) merged[k] = YUE5[k];
       for (k in YUE6) merged[k] = YUE6[k];
+      for (k in YUE7) merged[k] = YUE7[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
@@ -75895,6 +76285,7 @@ window.TEAFaiCulture = [
     if (view === "community") renderPostList();
     if (view === "store") renderStore();
     if (view === "culture") renderCulture();
+    if (view === "notes") renderNotes();
     if (view === "guide") {
       renderTeaList();
       renderBagList();
@@ -75935,6 +76326,7 @@ window.TEAFaiCulture = [
     if (art) {
       listEl.hidden = true;
       detailEl.hidden = false;
+      markCultureRead(art.id);
       var body =
         art.body && (art.body[lang] || (lang === "yue" ? art.body["zh-TW"] : null) || art.body.ko) || [];
       var html =
@@ -75958,6 +76350,30 @@ window.TEAFaiCulture = [
         });
         html += "</div>";
       });
+      var courseIdx = COURSE_IDS.indexOf(art.id);
+      if (courseIdx >= 0) {
+        html +=
+          '<div class="course-nav"><span class="course-pos">' +
+          esc(t("course.title")) +
+          " · " +
+          esc(t("course.step", { n: courseIdx + 1 })) +
+          '</span><div class="course-nav-btns">';
+        if (courseIdx > 0)
+          html +=
+            '<button type="button" class="chip small" data-course="' +
+            esc(COURSE_IDS[courseIdx - 1]) +
+            '">' +
+            esc(t("course.prev")) +
+            "</button>";
+        if (courseIdx < COURSE_IDS.length - 1)
+          html +=
+            '<button type="button" class="chip small" data-course="' +
+            esc(COURSE_IDS[courseIdx + 1]) +
+            '">' +
+            esc(t("course.next")) +
+            "</button>";
+        html += "</div></div>";
+      }
       var rel = (art.related || []).filter(function (id) {
         return !!D.byId(id);
       });
@@ -75982,6 +76398,13 @@ window.TEAFaiCulture = [
           renderCulture();
           window.scrollTo(0, 0);
         });
+      $$("[data-course]", detailEl).forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          cultureOpenId = btn.getAttribute("data-course");
+          renderCulture();
+          window.scrollTo(0, 0);
+        });
+      });
       $$("[data-reltea]", detailEl).forEach(function (btn) {
         btn.addEventListener("click", function () {
           openTeaInGuide(btn.getAttribute("data-reltea"));
@@ -75997,6 +76420,47 @@ window.TEAFaiCulture = [
       ["ware", t("culture.cat.ware")]
     ];
     var out = "";
+    var readSet = cultureReadSet();
+    var courseArts = COURSE_IDS.map(function (id) {
+      return (
+        arts.filter(function (x) {
+          return x.id === id;
+        })[0] || null
+      );
+    }).filter(function (x) {
+      return !!x;
+    });
+    if (courseArts.length) {
+      var readCount = courseArts.filter(function (x) {
+        return readSet.indexOf(x.id) >= 0;
+      }).length;
+      out +=
+        '<h2 class="culture-cat">' +
+        esc(t("course.title")) +
+        '</h2><p class="course-sub">' +
+        esc(t("course.sub")) +
+        " · " +
+        esc(t("course.progress", { n: readCount, total: courseArts.length })) +
+        '</p><div class="course-list">';
+      courseArts.forEach(function (x, i) {
+        var read = readSet.indexOf(x.id) >= 0;
+        out +=
+          '<button type="button" class="course-item" data-culture="' +
+          esc(x.id) +
+          '"><span class="course-num">' +
+          (i + 1) +
+          '</span><span class="course-txt"><b>' +
+          esc(cultureField(x.title)) +
+          "</b><span>" +
+          esc(cultureField(x.summary)) +
+          "</span></span>" +
+          (read
+            ? '<span class="course-badge">' + esc(t("course.read")) + "</span>"
+            : "") +
+          "</button>";
+      });
+      out += "</div>";
+    }
     cats.forEach(function (pair) {
       var items = arts.filter(function (x) {
         return x.cat === pair[0];
@@ -76030,6 +76494,178 @@ window.TEAFaiCulture = [
   /* ============================================================
      1. 차 백과 (기본 첫 화면) — 계열 필터 · 301종 · 실물 사진 · 원산지
      ============================================================ */
+
+  /* ============================================================
+     입문 동선 · 기록 기반 추천 · 차 문화 입문 코스
+     ============================================================ */
+  var CULTURE_READ_KEY = "teafai.cultureRead.v1";
+  var STARTER_IDS = [
+    "green-longjing", "green-sencha", "green-sejak", "green-matcha",
+    "white-silverneedle", "oolong-tieguanyin", "oolong-beauty",
+    "black-darjeeling-first", "black-keemun", "blend-earlgrey"
+  ];
+  var COLLECTIONS = [
+    { id: "starter", key: "begin.col.starter", ids: STARTER_IDS },
+    { id: "morning", key: "begin.col.morning", trait: "t-morning" },
+    { id: "nocaf", key: "begin.col.nocaf", trait: "c-none" },
+    { id: "floral", key: "begin.col.floral", trait: "a-floral" }
+  ];
+  var COURSE_IDS = [
+    "basics-six-types", "basics-temp-time", "basics-caffeine", "basics-storage",
+    "ware-gaiwan", "ware-pot-cup", "culture-korea", "culture-china-gongfu"
+  ];
+  var beginnerState = { col: "starter" };
+
+  function miniCardHtml(tea) {
+    var src = tea.photo ? photoSrc(tea.photo) : "";
+    return (
+      '<button type="button" class="mini-card" data-minitea="' +
+      esc(tea.id) +
+      '">' +
+      (src ? '<img src="' + esc(src) + '" alt="" loading="lazy">' : "") +
+      "<span>" +
+      esc(tea.name) +
+      "</span></button>"
+    );
+  }
+  function bindMiniCards(root) {
+    $$("[data-minitea]", root).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        openTeaInGuide(btn.getAttribute("data-minitea"));
+      });
+    });
+  }
+
+  function collectionTeas(col) {
+    var list;
+    if (col.ids) {
+      list = col.ids
+        .map(function (id) { return D.byId(id); })
+        .filter(function (x) { return !!x; });
+    } else {
+      list = D.teas.filter(function (tea) { return hasTrait(tea.id, col.trait); });
+    }
+    return list.slice(0, 12);
+  }
+
+  /* 차 백과 첫머리 — 처음이라면: 퀴즈 진입 + 상황별 큐레이션 */
+  function renderBeginner() {
+    var box = $("#beginnerBox");
+    if (!box) return;
+    var show =
+      guideState.tab === "leaf" && !guideState.q.trim() && guideState.filter === "all";
+    box.hidden = !show;
+    if (!show) return;
+    var col =
+      COLLECTIONS.filter(function (c) { return c.id === beginnerState.col; })[0] ||
+      COLLECTIONS[0];
+    var teas = collectionTeas(col);
+    var html =
+      '<div class="begin-head"><h2>' +
+      esc(t("begin.title")) +
+      "</h2><p>" +
+      esc(t("begin.sub")) +
+      "</p></div>" +
+      '<button type="button" class="begin-quiz" id="beginQuiz"><span class="qs-spark" aria-hidden="true">✦</span><span class="qs-text"><b>' +
+      esc(t("begin.quizCta")) +
+      "</b></span>" +
+      '<span class="qs-cta"><svg width="13" height="13"><use href="#ic-arrow" /></svg></span></button>' +
+      '<div class="chip-row wrap begin-chips">';
+    COLLECTIONS.forEach(function (c) {
+      html +=
+        '<button type="button" class="chip small" data-col="' +
+        c.id +
+        '" aria-pressed="' +
+        String(c.id === col.id) +
+        '">' +
+        esc(t(c.key)) +
+        "</button>";
+    });
+    html +=
+      '</div><div class="mini-strip">' + teas.map(miniCardHtml).join("") + "</div>";
+    box.innerHTML = html;
+    var q = $("#beginQuiz", box);
+    if (q) q.addEventListener("click", openQuiz);
+    $$("[data-col]", box).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        beginnerState.col = btn.getAttribute("data-col");
+        renderBeginner();
+      });
+    });
+    bindMiniCards(box);
+  }
+
+  /* 시음 노트 기반 추천 — 좋아한 차의 향미 태그·계열로 다음 차를 고릅니다 */
+  function renderReco() {
+    var box = $("#noteReco");
+    if (!box) return;
+    var notes = loadNotes();
+    var notedIds = {};
+    notes.forEach(function (n) { if (n.teaId) notedIds[n.teaId] = true; });
+    var hasTeaNotes = Object.keys(notedIds).length > 0;
+    var html = '<div class="reco-head"><h2>' + esc(t("reco.title")) + "</h2>";
+    var picks = [];
+    if (!hasTeaNotes) {
+      html += "<p>" + esc(t("reco.empty")) + "</p></div>";
+      picks = STARTER_IDS.map(function (id) { return D.byId(id); })
+        .filter(function (x) { return !!x; })
+        .slice(0, 6);
+    } else {
+      html += "<p>" + esc(t("reco.sub")) + "</p></div>";
+      var liked = notes.filter(function (n) {
+        return n.teaId && (Number(n.rating) || 0) >= 4;
+      });
+      var base = liked.length ? liked : notes.filter(function (n) { return n.teaId; });
+      var traitScore = {};
+      var groupScore = {};
+      base.forEach(function (n) {
+        traitList(n.teaId).forEach(function (tag) {
+          traitScore[tag] = (traitScore[tag] || 0) + 1;
+        });
+        var g = D.groupOf(n.teaId);
+        if (g && g.id) groupScore[g.id] = (groupScore[g.id] || 0) + 1;
+      });
+      var scored = D.teas
+        .filter(function (tea) { return !notedIds[tea.id]; })
+        .map(function (tea) {
+          var score = 0;
+          traitList(tea.id).forEach(function (tag) {
+            score += (traitScore[tag] || 0) * 2;
+          });
+          var g = D.groupOf(tea.id);
+          if (g && groupScore[g.id]) score += groupScore[g.id] * 3;
+          return { tea: tea, score: score };
+        })
+        .filter(function (x) { return x.score > 0; })
+        .sort(function (a, b) { return b.score - a.score; });
+      picks = scored.slice(0, 6).map(function (x) { return x.tea; });
+      if (!picks.length) {
+        picks = STARTER_IDS.map(function (id) { return D.byId(id); })
+          .filter(function (x) { return !!x && !notedIds[x.id]; })
+          .slice(0, 6);
+      }
+    }
+    if (!picks.length) { box.innerHTML = ""; return; }
+    html += '<div class="mini-strip">' + picks.map(miniCardHtml).join("") + "</div>";
+    if (hasTeaNotes) html += '<p class="reco-hint">' + esc(t("reco.hint")) + "</p>";
+    box.innerHTML = html;
+    bindMiniCards(box);
+  }
+
+  /* 차 문화 입문 코스 — 읽은 글을 기기에 기억합니다 */
+  function cultureReadSet() {
+    var raw = storeGet(CULTURE_READ_KEY, []);
+    return Array.isArray(raw) ? raw : [];
+  }
+  function markCultureRead(id) {
+    if (!id) return;
+    var set = cultureReadSet();
+    if (set.indexOf(id) < 0) {
+      set.push(id);
+      storeSet(CULTURE_READ_KEY, set);
+    }
+  }
+
   /* 취향 태그 비교의 기준 차 — 퀴즈 결과가 있으면 그 차 */
   function referenceTeaId() {
     if (quizState.result && quizState.result.best && quizState.result.best.tea) return quizState.result.best.tea.id;
@@ -76797,6 +77433,7 @@ window.TEAFaiCulture = [
   function renderTeaList() {
     var list = $("#teaList");
     if (!list) return;
+    renderBeginner();
     var q = guideState.q.trim().toLowerCase();
     var out = [];
 
@@ -77013,6 +77650,8 @@ window.TEAFaiCulture = [
       $("#statAvg").textContent = "—";
     }
 
+    renderReco();
+
     if (!count) {
       list.innerHTML = '<div class="empty">' + t("notes.empty") + "</div>";
       return;
@@ -77079,6 +77718,10 @@ window.TEAFaiCulture = [
     }
     /* 직접 적은 차는 그 이름을 노트 이름으로도 씁니다 */
     if (!name && customName) name = customName;
+    if (!name && !isCustomTea(teaId)) {
+      var selTea = D.byId(teaId);
+      if (selTea && selTea.name) name = selTea.name;
+    }
     if (!name) {
       toast(t("toast.nameNeeded"));
       $("#noteName").focus();
