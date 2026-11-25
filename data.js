@@ -14786,122 +14786,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "jp"
   },
   {
-    "id": "green-eunjeong",
-    "group": "green",
-    "kind": "tea",
-    "hanja": "恩",
-    "sub": "Eunjeong Tea",
-    "alias": [
-      "은정차",
-      "恩情茶",
-      "강령 은정차"
-    ],
-    "hz": "恩情茶",
-    "hs": "恩情茶",
-    "rom": "Eunjeong-cha",
-    "temp": 75,
-    "tempRange": "70~80℃",
-    "leaf": "3g",
-    "water": "150ml",
-    "steeps": [
-      90,
-      30,
-      60
-    ],
-    "maxSteep": 3,
-    "oxidationValue": 0,
-    "traits": "t-morning t-afternoon a-grass b-light k-sweet r-clean s-hot w-quick p-solo c-mid m-calm",
-    "originCountry": {
-      "ko": "북한",
-      "en": "North Korea",
-      "zh-CN": "朝鲜",
-      "zh-TW": "北韓"
-    },
-    "x": {
-      "ko": [
-        "황해남도 강령군 은정리에서 나는 녹차로, 북한에서 가장 알려진 차입니다.",
-        "김일성·김정일이 베푼 '은정(恩情)'에서 이름이 붙었다고 하며, 한랭한 기후 탓에 생산량은 적습니다."
-      ],
-      "en": [
-        "A green tea from Eunjeong-ri, Kangryong County, South Hwanghae — the best-known tea of North Korea.",
-        "Named, it is said, for the 'eunjeong' (benevolence) of Kim Il-sung and Kim Jong-il; the cold climate keeps output small."
-      ],
-      "zh-CN": [
-        "产于黄海南道康翎郡恩情里的绿茶，是朝鲜最知名的茶。",
-        "传因金日成、金正日所施'恩情'而得名，气候寒冷，产量不多。"
-      ],
-      "zh-TW": [
-        "產於黃海南道康翎郡恩情里的綠茶，是北韓最知名的茶。",
-        "傳因金日成、金正日所施「恩情」而得名，氣候寒冷，產量不多。"
-      ]
-    },
-    "ko": {
-      "name": "은정차",
-      "oneLine": "북한 황해남도 강령에서 나는, 북한에서 가장 알려진 녹차.",
-      "oxidation": "0%",
-      "ratioNote": "150ml에 3g",
-      "rounds": "3회",
-      "steepBasis": "75도에서 1분 30초, 이후 30초, 45초. 한국 녹차와 비슷한 방식으로 우립니다.",
-      "origin": "북한 황해남도 강령군 일대.",
-      "process": "어린 잎을 따서 덖거나 쪄서 만드는 녹차로 전합니다.",
-      "story": "김일성·김정일이 베푼 '은정(恩情)'에서 이름이 붙었다고 하며, 평양에는 은정찻집이 있습니다. 한랭한 기후 탓에 생산량은 적습니다.",
-      "flavor": "남한 녹차와 비슷한 풋향과 담백한 맛으로 전합니다.",
-      "pairing": "담백한 음식. 정보가 적어 일반적인 녹차 기준을 따릅니다.",
-      "brewTip": "70~75도. 자료가 제한적이라 한국 녹차 우림법을 기준으로 합니다.",
-      "keep": "밀봉해 서늘한 곳에.",
-      "keywords": "은정차 북한 강령 은정찻집 녹차"
-    },
-    "en": {
-      "name": "Eunjeong Tea",
-      "oneLine": "A green tea from Kangryong, South Hwanghae — the best-known tea of North Korea.",
-      "oxidation": "0%",
-      "ratioNote": "3 g to 150 ml",
-      "rounds": "3 infusions",
-      "steepBasis": "75 °C: 90 seconds, then 30 and 45 — brewed much like South Korean green tea.",
-      "origin": "Kangryong County, South Hwanghae Province, North Korea.",
-      "process": "Reported to be a green tea of young leaves, pan-fired or steamed.",
-      "story": "Named, it is said, for the 'eunjeong' (benevolence) bestowed by Kim Il-sung and Kim Jong-il; Pyongyang has an Eunjeong teahouse. The cold climate keeps production small.",
-      "flavor": "Reported as a fresh, plain green-tea taste similar to South Korean greens.",
-      "pairing": "Plain food; with little information available, general green-tea guidance applies.",
-      "brewTip": "70–75 °C; sources are limited, so South Korean green-tea brewing is the reference.",
-      "keep": "Sealed, in a cool place.",
-      "keywords": "Eunjeong tea North Korea Kangryong green tea"
-    },
-    "zh-CN": {
-      "name": "恩情茶",
-      "oneLine": "产于朝鲜黄海南道康翎的绿茶，是朝鲜最知名的茶。",
-      "oxidation": "0%",
-      "ratioNote": "150毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "75度泡1分30秒，其后30秒、45秒，与韩国绿茶泡法相近。",
-      "origin": "朝鲜黄海南道康翎郡一带。",
-      "process": "据称为采摘嫩叶后炒青或蒸青制成的绿茶。",
-      "story": "传因金日成、金正日所施'恩情'而得名，平壤设有恩情茶馆。气候寒冷，产量较少。",
-      "flavor": "据称与韩国绿茶相近，清香淡雅。",
-      "pairing": "清淡食物。资料有限，参照一般绿茶即可。",
-      "brewTip": "70~75度。资料有限，以韩国绿茶泡法为准。",
-      "keep": "密封置于阴凉处。",
-      "keywords": "恩情茶 朝鲜 康翎 绿茶"
-    },
-    "zh-TW": {
-      "name": "恩情茶",
-      "oneLine": "產於北韓黃海南道康翎的綠茶，是北韓最知名的茶。",
-      "oxidation": "0%",
-      "ratioNote": "150毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "75度泡1分30秒，其後30秒、45秒，與韓國綠茶泡法相近。",
-      "origin": "北韓黃海南道康翎郡一帶。",
-      "process": "據稱為採摘嫩葉後炒青或蒸青製成的綠茶。",
-      "story": "傳因金日成、金正日所施「恩情」而得名，平壤設有恩情茶館。氣候寒冷，產量較少。",
-      "flavor": "據稱與韓國綠茶相近，清香淡雅。",
-      "pairing": "清淡食物。資料有限，參照一般綠茶即可。",
-      "brewTip": "70~75度。資料有限，以韓國綠茶泡法為準。",
-      "keep": "密封置於陰涼處。",
-      "keywords": "恩情茶 北韓 康翎 綠茶"
-    },
-    "originCountryCode": "kp"
-  },
-  {
     "id": "white-darjeeling",
     "group": "white",
     "kind": "tea",
@@ -18398,123 +18282,6 @@ window.TEAFaiData = (function () {
       "brewTip": "85度上下是關鍵，沸水直沖會發澀。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "川紅 四川 宜賓 工夫紅茶 四川金芽 玫瑰香"
-    },
-    "originCountryCode": "cn"
-  },
-  {
-    "id": "black-yixing",
-    "group": "black",
-    "kind": "tea",
-    "hanja": "宜",
-    "sub": "Yixing Black Tea",
-    "alias": [
-      "양선홍차",
-      "이싱 홍차",
-      "Yixing Black Tea",
-      "宜興紅茶",
-      "陽羨紅茶"
-    ],
-    "hz": "宜興紅茶",
-    "hs": "宜兴红茶",
-    "rom": "Yixing Black Tea",
-    "temp": 90,
-    "tempRange": "90~95℃",
-    "leaf": "3g",
-    "water": "150ml",
-    "steeps": [
-      150,
-      180
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 90,
-    "traits": "t-morning t-afternoon a-floral b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
-    "originCountry": {
-      "ko": "중국",
-      "en": "China",
-      "zh-CN": "中国",
-      "zh-TW": "中國"
-    },
-    "x": {
-      "ko": [
-        "위조 → 유념 → 산화 → 건조. 당대의 명차 산지 양선의 잎으로 만든 홍차입니다.",
-        "자사호의 고장으로 더 알려진 이싱에서, 자사호와 잘 맞는 차로 현지에서 즐깁니다."
-      ],
-      "en": [
-        "Withering → rolling → oxidation → drying — black tea from Yangxian leaf, a famed district since the Tang era.",
-        "Better known for zisha pots, Yixing drinks this as the tea that suits those pots best."
-      ],
-      "zh-CN": [
-        "萎凋 → 揉捻 → 发酵 → 干燥。唐代名茶产地阳羡的叶做的红茶。",
-        "宜兴以紫砂壶闻名，本地人认为这款红茶与紫砂壶最相配。"
-      ],
-      "zh-TW": [
-        "萎凋 → 揉捻 → 發酵 → 乾燥。唐代名茶產地陽羨的葉做的紅茶。",
-        "宜興以紫砂壺聞名，本地人認為這款紅茶與紫砂壺最相配。"
-      ]
-    },
-    "ko": {
-      "name": "의흥 홍차",
-      "oneLine": "자사호의 고장 이싱(양선)의 홍차 — 도자기 고향에서 나는 부드러운 홍차.",
-      "oxidation": "90%",
-      "ratioNote": "150ml에 3g",
-      "rounds": "1~2회",
-      "steepBasis": "90도에서 2분 30초, 2포 3분.",
-      "origin": "장쑤성 이싱, 옛 이름 양선(陽羨). 당대부터 이름난 차 산지입니다.",
-      "process": "위조 → 유념 → 산화 → 건조. 자사호와 궁합이 좋다고 알려진 홍차입니다.",
-      "story": "양선은 당대부터 공차로 이름난 산지이고, 그 잎으로 만든 홍차가 의흥 홍차(양선홍차)입니다. 자사호 제작지로도 같은 고장입니다.",
-      "flavor": "부드러운 꽃향과 꿀맛, 자극적이지 않은 둥근 바디.",
-      "pairing": "딤섬, 가벼운 중식, 구운 과자.",
-      "brewTip": "자사호에 우려 마시는 것이 현지의 즐김. 90도에서 2분 30초.",
-      "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
-      "keywords": "의흥 홍차 양선홍차 이싱 자사호 장쑤"
-    },
-    "en": {
-      "name": "Yixing Black Tea",
-      "oneLine": "Black tea from Yixing (Yangxian), home of zisha pots — a soft, rounded cup.",
-      "oxidation": "90%",
-      "ratioNote": "3 g to 150 ml",
-      "rounds": "1–2 infusions",
-      "steepBasis": "90 °C for 2½ minutes, then 3.",
-      "origin": "Yixing in Jiangsu, once called Yangxian — a tea district famed since the Tang dynasty.",
-      "process": "Withering → rolling → oxidation → drying; known locally as the black tea that suits zisha pots.",
-      "story": "Yangxian leaf was tribute tea in the Tang era; its black tea is Yixing hongcha, also called Yangxian hongcha, from the same town as the zisha pot.",
-      "flavor": "Soft flowers and honey, a round body with no harsh edges.",
-      "pairing": "Dim sum, light Chinese dishes, baked sweets.",
-      "brewTip": "Brew it in a zisha pot, the local way: 90 °C for 2½ minutes.",
-      "keep": "Sealed, cool and dry; within two months of opening.",
-      "keywords": "Yixing black tea Yangxian hongcha zisha Jiangsu"
-    },
-    "zh-CN": {
-      "name": "宜兴红茶",
-      "oneLine": "紫砂壶之乡宜兴（阳羡）的红茶——陶都出产的柔和红茶。",
-      "oxidation": "90%",
-      "ratioNote": "150毫升配3克",
-      "rounds": "1~2泡",
-      "steepBasis": "90度泡2分30秒，第二泡3分钟。",
-      "origin": "江苏宜兴，古称阳羡，唐代已是名茶产地。",
-      "process": "萎凋 → 揉捻 → 发酵 → 干燥。本地认为与紫砂壶最相配的红茶。",
-      "story": "阳羡唐代已是贡茶产地，其叶做的红茶叫宜兴红茶（阳羡红茶），与紫砂壶同乡。",
-      "flavor": "柔和的花香与蜜味，汤体圆润不刺激。",
-      "pairing": "点心、清淡中餐、烤点心。",
-      "brewTip": "用紫砂壶泡是本地喝法，90度2分30秒。",
-      "keep": "密封、阴凉干燥，开封后两个月内。",
-      "keywords": "宜兴红茶 阳羡红茶 紫砂壶 江苏"
-    },
-    "zh-TW": {
-      "name": "宜興紅茶",
-      "oneLine": "紫砂壺之鄉宜興（陽羨）的紅茶——陶都出產的柔和紅茶。",
-      "oxidation": "90%",
-      "ratioNote": "150毫升配3公克",
-      "rounds": "1~2泡",
-      "steepBasis": "90度泡2分30秒，第二泡3分鐘。",
-      "origin": "江蘇宜興，古稱陽羨，唐代已是名茶產地。",
-      "process": "萎凋 → 揉捻 → 發酵 → 乾燥。本地認為與紫砂壺最相配的紅茶。",
-      "story": "陽羨唐代已是貢茶產地，其葉做的紅茶叫宜興紅茶（陽羨紅茶），與紫砂壺同鄉。",
-      "flavor": "柔和的花香與蜜味，湯體圓潤不刺激。",
-      "pairing": "點心、清淡中餐、烤點心。",
-      "brewTip": "用紫砂壺泡是本地喝法，90度2分30秒。",
-      "keep": "密封、陰涼乾燥，開封後兩個月內。",
-      "keywords": "宜興紅茶 陽羨紅茶 紫砂壺 江蘇"
     },
     "originCountryCode": "cn"
   },
@@ -31757,7 +31524,6 @@ window.TEAFaiData = (function () {
     "oolong-jeju": "t-morning t-afternoon a-floral a-herb b-light k-sweet r-clean s-hot w-gongfu p-meal c-mid m-refresh",
     "oolong-cheong": "t-morning t-afternoon a-floral a-grass b-light k-sweet r-clean s-hot s-iced w-gongfu p-solo c-mid m-refresh",
     "black-chuanhong": "t-morning t-afternoon a-floral a-malt b-full k-sweet r-clean s-hot w-quick p-meal c-high m-energy",
-    "black-yixing": "t-morning t-afternoon a-floral b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
     "black-jiuqu": "t-afternoon a-fruit a-floral b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-cozy",
     "black-mizhuan": "t-morning a-malt b-full k-blend r-clean s-hot s-milk w-quick p-meal c-high m-energy",
     "black-hongyun": "t-morning t-afternoon a-fruit a-floral b-full k-sweet r-clean s-hot s-milk w-quick p-meal c-high m-energy",
@@ -31789,7 +31555,6 @@ window.TEAFaiData = (function () {
         "green-tencha": "t-morning t-afternoon a-grass a-herb b-light k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
     "green-funmatsu": "t-morning t-afternoon a-grass b-medium k-crisp r-clean s-hot s-iced w-quick p-meal c-mid m-refresh",
     "green-konacha": "t-afternoon a-grass b-medium k-crisp r-clean s-hot w-quick p-meal c-mid m-refresh",
-    "green-eunjeong": "t-morning t-afternoon a-grass b-light k-sweet r-clean s-hot w-quick p-solo c-mid m-calm",
     "white-darjeeling": "t-morning t-afternoon a-floral a-fruit b-light k-sweet r-clean s-hot w-quick p-solo c-low m-calm",
   "green-anji-baipian": "t-morning t-afternoon a-grass a-floral b-light k-sweet r-clean s-hot w-quick p-dessert c-low m-refresh",
   "green-gougunao": "t-morning t-afternoon a-floral a-grass b-light k-sweet r-clean s-hot w-quick p-meal c-mid m-refresh",
@@ -33520,14 +33285,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": "https://fr.allenteas.com/products/chuan-hong-gongfu-tea?pr_prod_strat=e5_desc&pr_rec_id=a7b008a86&pr_rec_pid=7955332923577&pr_ref_pid=7956111327417&pr_seq=uniform"
   },
-  "black-yixing":   {
-    "f": "black-yixing.jpg",
-    "m": "family",
-    "cr": "Yunnan Sourcing",
-    "lic": "",
-    "lu": "",
-    "pg": "https://yunnansourcing.com/products/classic-yixing-hong-black-tea-from-jiangsu"
-  },
   "black-jiuqu":   {
     "f": "black-jiuqu.jpg",
     "m": "family",
@@ -33547,18 +33304,18 @@ window.TEAFaiData = (function () {
   "black-hongyun":   {
     "f": "black-hongyun.jpg",
     "m": "family",
-    "cr": "Sazen Tea",
+    "cr": "대만 차 블로그",
     "lic": "",
     "lu": "",
-    "pg": "https://www.sazentea.com/Green-Tea/products/p1189-hong-yun-black-tea.html"
+    "pg": "https://gandriyutanma.blogspot.com/2022/03/blog-post_5492.html"
   },
   "black-ziya":   {
     "f": "black-ziya.jpg",
-    "m": "family",
-    "cr": "Yunnan Sourcing",
+    "m": "exact",
+    "cr": "대만 차 블로그",
     "lic": "",
     "lu": "",
-    "pg": "https://yunnansourcing.us/products/purple-bud-zi-ya-black-tea-of-jinggu"
+    "pg": "https://gandriyutanma.blogspot.com/2022/03/blog-post_5492.html"
   },
   "oolong-dancong-huangzhi":   {
     "f": "oolong-dancong-huangzhi.jpg",
@@ -33775,14 +33532,6 @@ window.TEAFaiData = (function () {
     "lic": "",
     "lu": "",
     "pg": "https://www.murozono-meicha.co.jp/c/konacha?sort=price_low"
-  },
-  "green-eunjeong":   {
-    "f": "green-eunjeong.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
   },
   "white-darjeeling":   {
     "f": "white-darjeeling.jpg",
@@ -34155,18 +33904,18 @@ window.TEAFaiData = (function () {
   "dark-laoqingzhuan": {
     "f": "dark-laoqingzhuan.jpg",
     "m": "exact",
-    "cr": "commons.wikimedia.org",
+    "cr": "중국 차문화 사이트",
     "lic": "",
     "lu": "",
-    "pg": ""
+    "pg": "https://www.zhantingshejigs.com/zhjj/19728.html"
   },
   "dark-tianjian": {
     "f": "dark-tianjian.jpg",
-    "m": "family",
-    "cr": "white2tea",
+    "m": "exact",
+    "cr": "중국 차문화 사이트",
     "lic": "",
     "lu": "",
-    "pg": "https://white2tea.com/collections/heicha"
+    "pg": "https://www.zhantingshejigs.com/zhjj/19728.html"
   },
   "blend-guihua": {
     "f": "blend-guihua.jpg",
@@ -34251,18 +34000,18 @@ window.TEAFaiData = (function () {
   "herb-dandelion": {
     "f": "herb-dandelion.jpg",
     "m": "exact",
-    "cr": "Fumikas Sagisavas",
+    "cr": "Amazon",
     "lic": "CC0",
     "lu": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "pg": "https://commons.wikimedia.org/wiki/File:Dandelion_leaf_tea.jpg"
+    "pg": ""
   },
   "herb-cornsilk": {
     "f": "herb-cornsilk.jpg",
     "m": "exact",
-    "cr": "CrowdPic",
+    "cr": "Amazon",
     "lic": "",
     "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "pg": "https://www.crowdpic.net/en/photos/corn%20silk"
+    "pg": ""
   }
 };
 
@@ -36141,15 +35890,6 @@ window.TEAFaiData = (function () {
     "ja": "中国",
     "code": "cn"
   },
-  "black-yixing":   {
-    "ko": "중국",
-    "en": "China",
-    "zh-CN": "中国",
-    "zh-TW": "中國",
-    "yue": "中國",
-    "ja": "中国",
-    "code": "cn"
-  },
   "black-jiuqu":   {
     "ko": "중국",
     "en": "China",
@@ -36428,15 +36168,6 @@ window.TEAFaiData = (function () {
     "yue": "日本",
     "ja": "日本",
     "code": "jp"
-  },
-  "green-eunjeong":   {
-    "ko": "북한",
-    "en": "North Korea",
-    "zh-CN": "朝鲜",
-    "zh-TW": "北韓",
-    "yue": "北韓",
-    "ja": "北朝鮮",
-    "code": "kp"
   },
   "white-darjeeling":   {
     "ko": "인도",

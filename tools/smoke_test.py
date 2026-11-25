@@ -287,18 +287,18 @@ def main():
     print(json.dumps(result, ensure_ascii=False, indent=2))
     ok = (
         not result["errors"]
-        and result["teas"] == 301
-        and result["teaWithPhoto"] == 301
-        and result["teaWithCountry"] == 301
+        and result["teas"] == 299
+        and result["teaWithPhoto"] == 299
+        and result["teaWithCountry"] == 299
         and result["teaListHtml"] > 1000
         and result["storeHtml"] > 1000
         and result["memberHtml"] > 100
         and result["lensHtml"] > 100
-        and result["leafCount"] == "301"
-        and result["yueCantonese"] == 301
-        and result["hiTeas"] == 301
-        and result["thTeas"] == 301
-        and result["viTeas"] == 301
+        and result["leafCount"] == "299"
+        and result["yueCantonese"] == 299
+        and result["hiTeas"] == 299
+        and result["thTeas"] == 299
+        and result["viTeas"] == 299
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
         and result["viGroups"] == 7
