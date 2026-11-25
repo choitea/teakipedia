@@ -269,6 +269,12 @@
                 <svg class="ic-list" width="19" height="19" aria-hidden="true"><use href="#ic-list" /></svg>
               </button>
             </div>
+            <div class="sort-row">
+              <label class="field-inline">
+                <span data-i18n="sort.label">정렬</span>
+                <select id="leafSort"></select>
+              </label>
+            </div>
             <!-- 계열 버튼은 가로 스크롤 없이 여러 줄로 한눈에 보입니다 -->
             <div class="chip-row wrap" id="filterChips" role="group" aria-label="차류 필터" data-i18n-aria="a11y.filter"></div>
           </div>
@@ -297,6 +303,10 @@
               <label class="field-inline">
                 <span data-i18n="bag.brand">브랜드</span>
                 <select id="bagBrand"></select>
+              </label>
+              <label class="field-inline">
+                <span data-i18n="sort.label">정렬</span>
+                <select id="bagSort"></select>
               </label>
               <label class="field-inline">
                 <span data-i18n="bag.tagsTitle">향미</span>

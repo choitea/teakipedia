@@ -443,6 +443,65 @@
     return list.slice(0, 12);
   }
 
+  /* 정렬 — 인기순은 널리 알려진 차부터 (목록 안에서는 가나다순 유지) */
+  var SORT_KEY = "teafai.sort.v1";
+  var POPULAR_TEA_IDS = [
+    "green-longjing", "green-matcha", "green-sencha", "green-sejak", "green-biluochun",
+    "green-gyokuro", "green-jeju", "green-hadong", "green-hojicha", "green-houkui",
+    "green-maojian", "green-luanguapian", "green-anji-baipian",
+    "oolong-tieguanyin", "oolong-dahongpao", "oolong-beauty", "oolong-dongding",
+    "oolong-alishan", "oolong-dancong", "oolong-muzha-tieguanyin",
+    "blend-earlgrey", "black-darjeeling-first", "black-assam", "black-keemun",
+    "black-hongyun", "black-lapsang", "black-uva", "black-nilgiri", "black-kenya",
+    "white-silverneedle", "white-peony", "white-shoumei", "white-darjeeling",
+    "yellow-junshan", "yellow-mengding", "yellow-huoshan",
+    "dark-shou", "dark-sheng", "dark-liubao", "dark-tianjian",
+    "herb-rooibos", "herb-chamomile", "herb-peppermint", "herb-hibiscus",
+    "herb-brownrice", "herb-barley", "herb-jujube", "herb-ginger", "herb-yuja", "herb-omija"
+  ];
+  var POPULAR_BAG_IDS = [
+    "twinings-earl-grey", "twinings-english-breakfast", "ahmad-earl-grey",
+    "twinings-lady-grey", "twg-1837-black", "mariage-marco-polo", "harney-paris",
+    "yorkshire-tea", "twinings-assam", "twinings-darjeeling", "twinings-ceylon",
+    "ahmad-english-breakfast", "dilmah-earl-grey", "osulloc-sejak",
+    "osulloc-jeju-pure-green", "twinings-pure-camomile", "twg-earl-grey-french-blue",
+    "harney-earl-grey-supreme", "yorkshire-gold", "dilmah-jasmine-green",
+    "dongsuh-hyeonmi-green", "damtuh-rooibos", "osulloc-jeju-hojicha",
+    "twg-moroccan-mint", "mariage-earl-grey-french-blue", "dilmah-english-breakfast",
+    "damtuh-peppermint", "damtuh-camomile", "lipton-rooibos", "osulloc-yuja-earlgrey",
+    "osulloc-volcanic-oolong", "twinings-strong-english-breakfast",
+    "ahmad-camomile-lemongrass", "osulloc-peach-camomile"
+  ];
+  function rankMap(ids) {
+    var m = {};
+    ids.forEach(function (id, i) { m[id] = i; });
+    return m;
+  }
+  var POPULAR_TEA_RANK = rankMap(POPULAR_TEA_IDS);
+  var POPULAR_BAG_RANK = rankMap(POPULAR_BAG_IDS);
+  function popularRank(map, id) {
+    return Object.prototype.hasOwnProperty.call(map, id) ? map[id] : 100000;
+  }
+  function saveSortPrefs() {
+    storeSet(SORT_KEY, { leaf: guideState.sort, bag: bagState.sort });
+  }
+  function loadSortPrefs() {
+    var p = storeGet(SORT_KEY, null);
+    if (!p) return;
+    if (p.leaf === "popular" || p.leaf === "name") guideState.sort = p.leaf;
+    if (p.bag === "popular" || p.bag === "name") bagState.sort = p.bag;
+  }
+  function renderSortSelects() {
+    [["#leafSort", guideState.sort], ["#bagSort", bagState.sort]].forEach(function (pair) {
+      var sel = $(pair[0]);
+      if (!sel) return;
+      sel.innerHTML =
+        '<option value="name">' + esc(t("sort.name")) + "</option>" +
+        '<option value="popular">' + esc(t("sort.popular")) + "</option>";
+      sel.value = pair[1];
+    });
+  }
+
   /* 차 백과 첫머리 — 처음이라면: 퀴즈 진입 + 상황별 큐레이션 */
   function renderBeginner() {
     var box = $("#beginnerBox");
@@ -1004,7 +1063,7 @@
   /* ============================================================
      3. 차 백과
      ============================================================ */
-  var guideState = { q: "", filter: "all", open: null };
+  var guideState = { q: "", filter: "all", open: null, sort: "name" };
 
   /* ---------- 보기 방식: 1열 리스트 ↔ 2열 그리드 ---------- */
   var VIEW_KEY = "teafai.viewmode.v1";
@@ -1079,6 +1138,7 @@
   function renderFilterChips() {
     var wrap = $("#filterChips");
     if (!wrap) return;
+    renderSortSelects();
     var items = [{ id: "all", name: t("guide.all") }].concat(
       orderedGroups().map(function (g) {
         return { id: g.id, name: g.name };
@@ -1338,6 +1398,11 @@
         if (!q) return true;
         return haystack(item).indexOf(q) >= 0;
       });
+      if (guideState.sort === "popular" && cards.length > 1) {
+        cards = cards.slice().sort(function (a, b) {
+          return popularRank(POPULAR_TEA_RANK, a.id) - popularRank(POPULAR_TEA_RANK, b.id);
+        });
+      }
       if (!cards.length) return;
       if (guideState.filter === "all") {
         out.push(
@@ -2675,7 +2740,7 @@
   var HIDDEN_KEY = "teafai.posts.hidden.v1";
 
   var FEATURE = { bags: null, cafes: null, plans: null };
-  var bagState = { q: "", brand: "all", type: "all", tag: "all", caffeine: "all", open: null };
+  var bagState = { q: "", brand: "all", type: "all", tag: "all", caffeine: "all", open: null, sort: "name" };
   var cafeState = { q: "", region: "all", tag: "all", open: null };
   var commState = { filter: "all", type: "review", rating: 0, reportId: null, reportReason: "spam", reportFocus: null };
   var applyState = { plan: null, tags: [], result: null };
@@ -2774,7 +2839,7 @@
   function bagsOfState() {
     var bags = (FEATURE.bags && FEATURE.bags.bags) || [];
     var q = bagState.q.trim().toLowerCase();
-    return bags.filter(function (bag) {
+    var filtered = bags.filter(function (bag) {
       if (bagState.brand !== "all" && bag.brand !== bagState.brand) return false;
       if (bagState.type !== "all" && bag.type !== bagState.type) return false;
       if (bagState.tag !== "all" && (bag.tags || []).indexOf(bagState.tag) < 0) return false;
@@ -2783,10 +2848,26 @@
       if (q && bagHaystack(bag).indexOf(q) < 0) return false;
       return true;
     });
+    var loc = NAME_LOCALE[lang] || lang;
+    var keyOf = function (bag) { return l10n(bag.name) || ""; };
+    if (bagState.sort === "popular") {
+      filtered.sort(function (a, b) {
+        return (
+          popularRank(POPULAR_BAG_RANK, a.id) - popularRank(POPULAR_BAG_RANK, b.id) ||
+          keyOf(a).localeCompare(keyOf(b), loc)
+        );
+      });
+    } else {
+      filtered.sort(function (a, b) {
+        return keyOf(a).localeCompare(keyOf(b), loc);
+      });
+    }
+    return filtered;
   }
 
   function renderBagFilters() {
     var sel = $("#bagBrand");
+    renderSortSelects();
     var wrap = $("#bagTypeChips");
     if (!sel || !wrap) return;
     var brands = (FEATURE.bags && FEATURE.bags.brands) || {};
@@ -4296,6 +4377,21 @@
         renderPartnerShops();
       });
     }
+    loadSortPrefs();
+    var leafSortSel = $("#leafSort");
+    if (leafSortSel)
+      leafSortSel.addEventListener("change", function () {
+        guideState.sort = leafSortSel.value;
+        saveSortPrefs();
+        renderTeaList();
+      });
+    var bagSortSel = $("#bagSort");
+    if (bagSortSel)
+      bagSortSel.addEventListener("change", function () {
+        bagState.sort = bagSortSel.value;
+        saveSortPrefs();
+        renderBagList();
+      });
     openGuideTab(guideState.tab || "leaf", false);
   }
 

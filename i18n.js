@@ -6059,7 +6059,54 @@ window.TEAFaiI18N = (function () {
     "reco.sub": "根據你品飲記錄嘅口味揀出嚟㗎。",
     "reco.title": "下一杯試吓呢啲"
   };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17];
+  var V18 = {
+    "ko": {
+      "sort.label": "정렬",
+      "sort.name": "가나다순",
+      "sort.popular": "인기순"
+    },
+    "en": {
+      "sort.label": "Sort",
+      "sort.name": "Name A–Z",
+      "sort.popular": "Most popular"
+    },
+    "zh-CN": {
+      "sort.label": "排序",
+      "sort.name": "按名称",
+      "sort.popular": "按人气"
+    },
+    "zh-TW": {
+      "sort.label": "排序",
+      "sort.name": "按名稱",
+      "sort.popular": "按人氣"
+    },
+    "ja": {
+      "sort.label": "並び替え",
+      "sort.name": "名前順",
+      "sort.popular": "人気順"
+    },
+    "hi": {
+      "sort.label": "क्रम",
+      "sort.name": "नाम के अनुसार",
+      "sort.popular": "लोकप्रिय"
+    },
+    "th": {
+      "sort.label": "เรียงลำดับ",
+      "sort.name": "ตามชื่อ",
+      "sort.popular": "ยอดนิยม"
+    },
+    "vi": {
+      "sort.label": "Sắp xếp",
+      "sort.name": "Theo tên",
+      "sort.popular": "Phổ biến"
+    }
+  };
+  var YUE8 = {
+    "sort.label": "排序",
+    "sort.name": "按名稱",
+    "sort.popular": "按人氣"
+  };
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -6080,6 +6127,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE5) merged[k] = YUE5[k];
       for (k in YUE6) merged[k] = YUE6[k];
       for (k in YUE7) merged[k] = YUE7[k];
+      for (k in YUE8) merged[k] = YUE8[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
