@@ -2105,8 +2105,6 @@
   }
 
   function bindQuiz() {
-    var banner = $("#quizBanner");
-    if (banner) banner.addEventListener("click", openQuiz);
     var back = $("#quizBack");
     if (back) back.addEventListener("click", quizBack);
   }
