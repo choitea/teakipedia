@@ -1,4 +1,4 @@
-/* 차 문화 글 17편 — 나라별 다례 · 다구 입문 · 차 상식 (9개 언어) */
+/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (9개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -3952,5 +3952,200 @@ window.TEAFaiCulture = [
    ]
   },
   "related": []
+ },
+{
+ "body": {
+  "en": [
+   {
+    "h": "What are The Leafies?",
+    "p": "The Leafies is an international tea competition launched in 2022 by the UK Tea Academy, a British tea education body. Each year, hundreds of teas from around the world are entered, and a panel of professional judges from different industries and cultural backgrounds picks the winners through repeated rounds of blind tasting. The British luxury grocer Fortnum & Mason partners with the awards, and winning teas may earn a place on its shelves or on its afternoon tea menu."
+   },
+   {
+    "h": "Best in Show 2026 — a steamed green tea from Japan",
+    "p": "This year's top honour, Best in Show, went to the Kodama 'Special Edition' steamed green tea made by Horiguchi Seicha (Wakoen) of Kagoshima, Japan. Steaming is the signature way Japanese green tea is made: the leaves are fixed with steam rather than pan heat, which keeps their green aroma and savoury depth especially vivid."
+   },
+   {
+    "h": "Taiwan's black teas surge ahead",
+    "p": "Best of Black Teas went to Mi Ying Black Tea, made by Taiwan's Fusensen. Founded in Tainan in 1985, the company crafted this honey-scented black tea from leaves grown in Hualien, in eastern Taiwan. Taiwanese teas also shared the Best of Retail Teas award, and Taiwan took home seven gold, 22 silver and 26 bronze medals at this year's awards. Taiwanese black tea first won this category's top prize in 2024, and in 2025 a Taiwanese tea went on to take Best in Show itself — a run of form that is still going strong."
+   },
+   {
+    "h": "Other categories, and the ceremony ahead",
+    "p": "Best of Matcha went to Furukawa Seicha's organic SAMIDORI powdered tea from Japan, and Best of Botanicals to the Orchid Frost yellow tea from Seven Teahouse in the USA. The awards ceremony takes place on 22 January 2027 at Fortnum & Mason's flagship store in London, followed the next day by a tasting of the gold-medal teas."
+   }
+  ],
+  "ja": [
+   {
+    "h": "The Leafiesとは？",
+    "p": "The Leafiesは、英国のお茶教育機関UK Tea Academyが2022年に始めた国際的なお茶の品評会です。毎年、世界中から数百種類のお茶が出品され、さまざまな業界や文化的背景を持つ専門審査員が、何度もブラインドテイスティング（銘柄を隠した試飲）を重ねて受賞作を選びます。英国の高級食品店Fortnum & Masonがパートナーとして協力しており、受賞したお茶は同店の店頭に並んだり、アフタヌーンティーのメニューに載ったりする機会も得られます。"
+   },
+   {
+    "h": "2026年の最高賞 —— 日本の蒸し製緑茶",
+    "p": "今年の最高賞「Best in Show」に選ばれたのは、日本の鹿児島のHoriguchi Seicha（Wakoen）が作ったKodama「Special Edition」の蒸し製緑茶です。蒸し製は日本緑茶を代表する製法です。茶葉を釜の熱ではなく蒸気で処理するため、葉の青い香りとうま味がひときわ鮮やかに残ります。"
+   },
+   {
+    "h": "台湾紅茶の躍進",
+    "p": "紅茶部門の最高賞「Best of Black Teas」は、台湾のFusensenが作ったMi Ying紅茶が受賞しました。1985年に台南で創業したこの会社は、台湾東部の花蓮で育った葉を使い、蜜のような香りの紅茶を作り上げました。台湾のお茶は小売部門（Best of Retail Teas）の共同受賞も果たし、今年の大会では金7個、銀22個、銅26個のメダルを持ち帰りました。台湾紅茶は2024年にこの部門の最高賞を初めて受賞し、2025年には台湾のお茶が大会最高賞そのものも獲得しました。その勢いは今も続いています。"
+   },
+   {
+    "h": "その他の部門と授賞式",
+    "p": "抹茶部門の最高賞は日本のFurukawa Seichaの有機SAMIDORI粉末茶に、ボタニカル部門の最高賞はアメリカのSeven TeahouseのOrchid Frost黄茶に贈られました。授賞式は2027年1月22日にロンドンのFortnum & Mason旗艦店で開かれ、翌日には金メダル受賞茶の試飲会も続きます。"
+   }
+  ],
+  "ko": [
+   {
+    "h": "더 리피즈란?",
+    "p": "더 리피즈(The Leafies)는 영국의 차 교육 기관 UK Tea Academy가 2022년에 시작한 국제 차 품평회입니다. 매년 세계 각지에서 수백 종의 차가 출품되고, 여러 업계와 문화권에서 모인 전문 심사단이 블라인드 테이스팅을 거듭해 수상작을 가립니다. 영국의 고급 식품점 Fortnum & Mason이 파트너로 함께하며, 수상한 차는 그 매장에 입점하거나 애프터눈티 메뉴에 오를 기회도 얻습니다."
+   },
+   {
+    "h": "2026년 최고의 차 — 일본의 증제 녹차",
+    "p": "올해 최고상인 Best in Show는 일본 가고시마의 호리구치 세이차(와코엔)가 만든 '코다마 스페셜 에디션' 증제 녹차에 돌아갔습니다. 찻잎을 증기로 쪄서 만드는 증제법은 일본 녹차의 대표적인 제법으로, 덖는 방식보다 잎의 푸른 향과 감칠맛이 또렷하게 남는 것이 특징입니다."
+   },
+   {
+    "h": "대만 홍차의 약진",
+    "p": "홍차 부문 최고상(Best of Black Teas)은 대만의 Fusensen이 만든 미영(覓映) 홍차가 받았습니다. 타이난에서 1985년에 세워진 이 회사는 대만 동부 화롄에서 자란 잎으로 꿀향이 도는 홍차를 만들었습니다. 리테일 부문 공동 수상도 대만 차가 차지했고, 대만은 이번 대회에서 금 7개, 은 22개, 동 26개를 받았습니다. 대만 홍차는 2024년에 이 부문 첫 최고상을 받은 데 이어, 2025년에는 대만 차가 대회 최고상까지 받으며 강한 흐름을 이어 가고 있습니다."
+   },
+   {
+    "h": "다른 부문과 시상식",
+    "p": "말차 부문 최고상은 일본 후루카와 세이차의 유기농 SAMIDORI 가루차, 보태니컬 부문 최고상은 미국 Seven Teahouse의 Orchid Frost 황차가 받았습니다. 시상식은 2027년 1월 22일 런던 Fortnum & Mason 본점에서 열리고, 다음 날에는 금메달 수상 차들을 맛볼 수 있는 시음회가 이어집니다."
+   }
+  ],
+  "yue": [
+   {
+    "h": "咩係 The Leafies?",
+    "p": "The Leafies 係英國茶葉教育機構 UK Tea Academy 喺 2022 年創辦嘅國際茶葉評比。每年都有嚟自世界各地嘅幾百款茶參賽，由嚟自唔同行業同文化背景嘅專業評審團，經過多輪盲品之後選出得獎茶品。英國高級食品百貨 Fortnum & Mason 係呢個獎項嘅合作夥伴，得獎茶有機會進駐佢哋門市嘅貨架，又或者登上下午茶餐牌。"
+   },
+   {
+    "h": "2026 年全場最佳——嚟自日本嘅蒸青綠茶",
+    "p": "今年嘅最高榮譽「全場最佳」（Best in Show）頒咗畀日本鹿兒島 Horiguchi Seicha（Wakoen）出品嘅 Kodama「特別版」蒸青綠茶。蒸青係日本綠茶最具代表性嘅製作方法：用蒸氣而唔係用鑊炒嚟殺青，可以令茶葉嘅清新香氣同鮮爽滋味保留得特別鮮明。"
+   },
+   {
+    "h": "台灣紅茶強勢崛起",
+    "p": "紅茶類最高獎（Best of Black Teas）由台灣 Fusensen 出品嘅覓映紅茶攞到。呢間公司 1985 年喺台南成立，用台灣東部花蓮生長嘅茶菁，做出咗呢款帶蜜香嘅紅茶。台灣茶仲共同攞咗零售茶類大獎；今年台灣一共奪得 7 面金牌、22 面銀牌同 26 面銅牌。台灣紅茶喺 2024 年首次贏得呢個類別嘅最高獎，2025 年仲有一款台灣茶攞埋全場最佳——呢股強勁氣勢而家仲延續緊。"
+   },
+   {
+    "h": "其他類別同頒獎典禮",
+    "p": "抹茶類最高獎由日本 Furukawa Seicha 嘅有機 SAMIDORI 粉末茶攞到，植物類（Best of Botanicals）最高獎就由美國 Seven Teahouse 嘅 Orchid Frost 黃茶攞到。頒獎典禮會喺 2027 年 1 月 22 日喺倫敦 Fortnum & Mason 旗艦店舉行，第二日仲會有金牌茶品鑑會跟住舉行。"
+   }
+  ],
+  "zh-CN": [
+   {
+    "h": "什么是 The Leafies?",
+    "p": "The Leafies 是由英国茶叶教育机构 UK Tea Academy 于 2022 年创办的国际茶评比。每年，来自世界各地的数百款茶参评，由来自不同行业和文化背景的专业评审团经过多轮盲品，选出获奖茶品。英国高端食品百货 Fortnum & Mason 是该奖项的合作伙伴，获奖茶有机会进入其门店货架，或登上下午茶菜单。"
+   },
+   {
+    "h": "2026 年全场最佳——来自日本的蒸青绿茶",
+    "p": "今年的最高荣誉“全场最佳”（Best in Show）授予了日本鹿儿岛 Horiguchi Seicha（Wakoen）出品的 Kodama“特别版”蒸青绿茶。蒸青是日本绿茶最具代表性的制作方法：用蒸汽而非锅炒来杀青，能让茶叶的清新香气和鲜爽滋味格外鲜明地保留下来。"
+   },
+   {
+    "h": "台湾红茶强势崛起",
+    "p": "红茶类最高奖（Best of Black Teas）由台湾 Fusensen 出品的觅映红茶获得。这家公司 1985 年创立于台南，用台湾东部花莲生长的茶青，做出了这款带蜜香的红茶。台湾茶还共同获得了零售茶类大奖；今年台湾共夺得 7 枚金牌、22 枚银牌和 26 枚铜牌。台湾红茶在 2024 年首次赢得该类别最高奖，2025 年更有一款台湾茶拿下全场最佳——这股强劲势头仍在延续。"
+   },
+   {
+    "h": "其他类别与颁奖典礼",
+    "p": "抹茶类最高奖由日本 Furukawa Seicha 的有机 SAMIDORI 粉末茶获得，植物类（Best of Botanicals）最高奖则由美国 Seven Teahouse 的 Orchid Frost 黄茶获得。颁奖典礼将于 2027 年 1 月 22 日在伦敦 Fortnum & Mason 旗舰店举行，次日还将举办金牌茶品鉴会。"
+   }
+  ],
+  "zh-TW": [
+   {
+    "h": "什麼是 The Leafies?",
+    "p": "The Leafies 是由英國茶葉教育機構 UK Tea Academy 於 2022 年創辦的國際茶葉評比。每年，來自世界各地的數百款茶參賽，由來自不同行業和文化背景的專業評審團經過多輪盲品，選出得獎茶品。英國高級食品百貨 Fortnum & Mason 是該獎項的合作夥伴，得獎茶有機會進駐其門市貨架，或登上下午茶菜單。"
+   },
+   {
+    "h": "2026 年全場最佳——來自日本的蒸青綠茶",
+    "p": "今年的最高榮譽「全場最佳」（Best in Show）頒給了日本鹿兒島 Horiguchi Seicha（Wakoen）出品的 Kodama「特別版」蒸青綠茶。蒸青是日本綠茶最具代表性的製作方法：用蒸氣而非鍋炒來殺青，能讓茶葉的清新香氣和鮮爽滋味格外鮮明地保留下來。"
+   },
+   {
+    "h": "台灣紅茶強勢崛起",
+    "p": "紅茶類最高獎（Best of Black Teas）由台灣 Fusensen 出品的覓映紅茶獲得。這家公司 1985 年創立於台南，用台灣東部花蓮生長的茶菁，做出了這款帶蜜香的紅茶。台灣茶還共同獲得了零售茶類大獎；今年台灣共奪得 7 面金牌、22 面銀牌和 26 面銅牌。台灣紅茶在 2024 年首次贏得該類別最高獎，2025 年更有一款台灣茶拿下全場最佳——這股強勁氣勢仍在延續。"
+   },
+   {
+    "h": "其他類別與頒獎典禮",
+    "p": "抹茶類最高獎由日本 Furukawa Seicha 的有機 SAMIDORI 粉末茶獲得，植物類（Best of Botanicals）最高獎則由美國 Seven Teahouse 的 Orchid Frost 黃茶獲得。頒獎典禮將於 2027 年 1 月 22 日在倫敦 Fortnum & Mason 旗艦店舉行，次日還將舉辦金牌茶品鑑會。"
+   }
+  ],
+  "hi": [
+   {
+    "h": "The Leafies क्या है?",
+    "p": "The Leafies एक अंतरराष्ट्रीय चाय प्रतियोगिता है, जिसे ब्रिटेन की चाय शिक्षा संस्था UK Tea Academy ने 2022 में शुरू किया था। हर साल दुनिया भर से सैकड़ों चायें इसमें शामिल होती हैं, और अलग-अलग उद्योगों व सांस्कृतिक पृष्ठभूमियों से आए पेशेवर निर्णायकों का एक पैनल बार-बार अंध-चख (blind tasting) करके विजेताओं को चुनता है। ब्रिटेन की लग्ज़री किराना दुकान Fortnum & Mason इन पुरस्कारों की साझेदार है, और जीतने वाली चायों को इसकी अलमारियों में जगह या इसके afternoon tea मेनू में स्थान मिल सकता है।"
+   },
+   {
+    "h": "Best in Show 2026 — जापान की भाप से तैयार हरी चाय",
+    "p": "इस साल का सबसे बड़ा सम्मान, Best in Show, जापान के Kagoshima के Horiguchi Seicha (Wakoen) द्वारा बनाई गई Kodama 'Special Edition' भाप वाली हरी चाय को मिला। भाप देना जापानी हरी चाय बनाने का खास तरीका है: पत्तियों को तवे की गर्मी के बजाय भाप से स्थिर किया जाता है, जिससे उनकी हरी खुशबू और स्वादिष्ट गहराई खास तौर पर जीवंत बनी रहती है।"
+   },
+   {
+    "h": "Taiwan की काली चायें आगे बढ़ीं",
+    "p": "Best of Black Teas का पुरस्कार Taiwan की Fusensen द्वारा बनाई गई Mi Ying Black Tea को मिला। 1985 में Tainan में स्थापित इस कंपनी ने पूर्वी Taiwan के Hualien में उगी पत्तियों से यह शहद जैसी खुशबू वाली काली चाय बनाई। Taiwan की चायों ने Best of Retail Teas पुरस्कार भी साझा किया, और Taiwan इस साल के पुरस्कारों में सात स्वर्ण, 22 रजत और 26 कांस्य पदक घर ले गया। Taiwan की काली चाय ने इस श्रेणी का शीर्ष पुरस्कार पहली बार 2024 में जीता था, और 2025 में एक Taiwan की चाय ने Best in Show भी अपने नाम किया — यह सिलसिला अभी भी मजबूती से जारी है।"
+   },
+   {
+    "h": "अन्य श्रेणियां, और आने वाला समारोह",
+    "p": "Best of Matcha का पुरस्कार जापान की Furukawa Seicha की organic SAMIDORI पाउडर चाय को मिला, और Best of Botanicals अमेरिका की Seven Teahouse की Orchid Frost पीली चाय को मिला। पुरस्कार समारोह 22 January 2027 को London में Fortnum & Mason के मुख्य स्टोर में होगा, और अगले दिन स्वर्ण पदक विजेता चायों की चखने की बैठक होगी।"
+   }
+  ],
+  "th": [
+   {
+    "h": "The Leafies คืออะไร?",
+    "p": "The Leafies คือการแข่งขันชานานาชาติที่ UK Tea Academy สถาบันการศึกษาด้านชาของอังกฤษ เปิดตัวในปี 2022 ทุกปีมีชาหลายร้อยชนิดจากทั่วโลกส่งเข้าประกวด และคณะกรรมการผู้เชี่ยวชาญจากหลากหลายอุตสาหกรรมและวัฒนธรรมจะคัดเลือกผู้ชนะผ่านการชิมแบบไม่เห็นฉลาก (blind tasting) หลายรอบ Fortnum & Mason ร้านขายของชำระดับหรูของอังกฤษเป็นพันธมิตรของรางวัลนี้ และชาที่ชนะอาจได้วางขายบนชั้นวางของร้านหรืออยู่ในเมนู afternoon tea ของร้านด้วย"
+   },
+   {
+    "h": "Best in Show 2026 — ชาเขียวนึ่งจากญี่ปุ่น",
+    "p": "รางวัลสูงสุดของปีนี้ Best in Show ตกเป็นของชาเขียวนึ่ง Kodama 'Special Edition' ที่ผลิตโดย Horiguchi Seicha (Wakoen) แห่ง Kagoshima ประเทศญี่ปุ่น การนึ่งคือวิธีทำชาเขียวญี่ปุ่นอันเป็นเอกลักษณ์ คือหยุดการหมักของใบชาด้วยไอน้ำแทนความร้อนจากกระทะ ทำให้กลิ่นเขียวสดและรสชาติเข้มข้นของใบชายังคงชัดเจนเป็นพิเศษ"
+   },
+   {
+    "h": "ชาดำของ Taiwan ก้าวขึ้นมาโดดเด่น",
+    "p": "รางวัล Best of Black Teas ตกเป็นของ Mi Ying Black Tea ที่ผลิตโดย Fusensen ของ Taiwan บริษัทนี้ก่อตั้งที่ Tainan ในปี 1985 และทำชาดำกลิ่นน้ำผึ้งนี้จากใบชาที่ปลูกใน Hualien ทางตะวันออกของ Taiwan ชาจาก Taiwan ยังครองรางวัล Best of Retail Teas ร่วมกันอีกด้วย และ Taiwan คว้าไป 7 เหรียญทอง 22 เหรียญเงิน และ 26 เหรียญทองแดงในงานปีนี้ ชาดำของ Taiwan คว้ารางวัลสูงสุดของหมวดนี้ครั้งแรกในปี 2024 และในปี 2025 ชาจาก Taiwan ยังคว้ารางวัล Best in Show ไปครองอีก — เป็นกระแสที่ยังแรงต่อเนื่อง"
+   },
+   {
+    "h": "หมวดอื่น ๆ และพิธีมอบรางวัลที่กำลังจะมาถึง",
+    "p": "รางวัล Best of Matcha ตกเป็นของชาผง organic SAMIDORI ของ Furukawa Seicha จากญี่ปุ่น และ Best of Botanicals ตกเป็นของชาเหลือง Orchid Frost จาก Seven Teahouse ในสหรัฐอเมริกา พิธีมอบรางวัลจะจัดขึ้นในวันที่ 22 January 2027 ที่ร้านหลักของ Fortnum & Mason ใน London และวันถัดไปจะมีงานชิมชาที่ได้เหรียญทอง"
+   }
+  ],
+  "vi": [
+   {
+    "h": "The Leafies là gì?",
+    "p": "The Leafies là một cuộc thi trà quốc tế được UK Tea Academy, một tổ chức giáo dục về trà của Anh, khởi xướng vào năm 2022. Mỗi năm, hàng trăm loại trà từ khắp nơi trên thế giới được gửi dự thi, và một hội đồng giám khảo chuyên nghiệp đến từ nhiều ngành nghề và nền văn hóa khác nhau sẽ chọn ra những loại trà thắng giải qua nhiều vòng nếm thử mù (blind tasting). Nhà bán lẻ thực phẩm cao cấp Fortnum & Mason của Anh là đối tác của giải thưởng, và các loại trà thắng giải có thể được bày bán trên kệ của hãng hoặc xuất hiện trong thực đơn trà chiều của hãng."
+   },
+   {
+    "h": "Best in Show 2026 — trà xanh hấp từ Nhật Bản",
+    "p": "Giải thưởng cao nhất năm nay, Best in Show, thuộc về trà xanh hấp Kodama 'Special Edition' do Horiguchi Seicha (Wakoen) ở Kagoshima, Nhật Bản sản xuất. Hấp là cách làm trà xanh đặc trưng của Nhật Bản: lá trà được cố định bằng hơi nước thay vì nhiệt từ chảo, giúp hương xanh và vị đậm đà của lá trà được giữ lại đặc biệt sống động."
+   },
+   {
+    "h": "Trà đen Taiwan vươn lên mạnh mẽ",
+    "p": "Giải Best of Black Teas thuộc về Mi Ying Black Tea, do Fusensen của Taiwan sản xuất. Được thành lập tại Tainan vào năm 1985, công ty này đã làm ra loại trà đen thơm mùi mật ong từ lá trà trồng ở Hualien, miền đông Taiwan. Các loại trà của Taiwan cũng cùng chia sẻ giải Best of Retail Teas, và Taiwan mang về bảy huy chương vàng, 22 huy chương bạc và 26 huy chương đồng tại giải thưởng năm nay. Trà đen Taiwan lần đầu giành giải cao nhất của hạng mục này vào năm 2024, và vào năm 2025, một loại trà của Taiwan tiếp tục giành luôn giải Best in Show — một chuỗi thành tích vẫn đang rất mạnh mẽ."
+   },
+   {
+    "h": "Các hạng mục khác, và lễ trao giải sắp tới",
+    "p": "Giải Best of Matcha thuộc về trà bột organic SAMIDORI của Furukawa Seicha từ Nhật Bản, và Best of Botanicals thuộc về trà vàng Orchid Frost của Seven Teahouse ở Hoa Kỳ. Lễ trao giải sẽ diễn ra vào ngày 22 January 2027 tại cửa hàng chính của Fortnum & Mason ở London, và ngày hôm sau sẽ có buổi nếm thử các loại trà đoạt huy chương vàng."
+   }
+  ]
+ },
+ "cat": "basics",
+ "id": "basics-leafies-2026",
+ "img": "images/culture/basics-leafies-2026.jpg",
+ "related": [
+  "green-sencha",
+  "black-hongyun"
+ ],
+ "summary": {
+  "en": "The results are in for The Leafies 2026, the international tea awards run by the UK Tea Academy. The top honour went to a steamed green tea from Kagoshima, Japan, the black tea prize to a honey-scented black tea from Taiwan — and Taiwan swept 55 medals in all, including seven golds.",
+  "ja": "英国のUK Tea Academyが主催する国際的なお茶の品評会「The Leafies 2026」の結果が発表されました。最高賞は日本の鹿児島の蒸し製緑茶に、紅茶部門の最高賞は台湾の蜜の香りの紅茶に贈られました。台湾は金メダル7個を含む合計55個のメダルを獲得しました。",
+  "ko": "영국 UK Tea Academy가 여는 국제 차 품평회 The Leafies의 2026년 결과가 나왔습니다. 최고상은 일본 가고시마의 증제 녹차, 홍차 부문 최고상은 대만의 꿀향 홍차가 받았고, 대만은 금메달 7개를 포함해 55개 메달을 휩쓸었습니다.",
+  "yue": "由英國 UK Tea Academy 主辦嘅國際茶葉評比 The Leafies 2026 結果已經出爐喇。最高榮譽頒咗畀日本鹿兒島嘅蒸青綠茶，紅茶類最高獎就由台灣一款帶蜜香嘅紅茶奪得——台灣一共攞咗 55 面獎牌，包括 7 面金牌。",
+  "zh-CN": "由英国 UK Tea Academy 主办的国际茶评比 The Leafies 2026 结果已经揭晓。最高荣誉授予了日本鹿儿岛的蒸青绿茶，红茶类最高奖则由台湾一款带蜜香的红茶获得——台湾共收获 55 枚奖牌，其中包括 7 枚金牌。",
+  "zh-TW": "由英國 UK Tea Academy 主辦的國際茶葉評比 The Leafies 2026 結果已經揭曉。最高榮譽頒給了日本鹿兒島的蒸青綠茶，紅茶類最高獎則由台灣一款帶蜜香的紅茶獲得——台灣共收穫 55 面獎牌，其中包括 7 面金牌。",
+  "hi": "UK Tea Academy द्वारा आयोजित अंतरराष्ट्रीय चाय पुरस्कार The Leafies 2026 के परिणाम आ गए हैं। सबसे बड़ा सम्मान जापान के Kagoshima की भाप से तैयार हरी चाय को मिला, काली चाय का पुरस्कार Taiwan की शहद जैसी खुशबू वाली काली चाय को मिला — और Taiwan ने सात स्वर्ण सहित कुल 55 पदक अपने नाम किए।",
+  "th": "ผลรางวัล The Leafies 2026 เวทีประกวดชานานาชาติที่จัดโดย UK Tea Academy ประกาศออกมาแล้ว รางวัลสูงสุดตกเป็นของชาเขียวนึ่งจาก Kagoshima ประเทศญี่ปุ่น รางวัลชาดำตกเป็นของชาดำกลิ่นน้ำผึ้งจาก Taiwan — และ Taiwan กวาดไปทั้งหมด 55 เหรียญ รวมถึง 7 เหรียญทอง",
+  "vi": "Kết quả của The Leafies 2026, giải thưởng trà quốc tế do UK Tea Academy tổ chức, đã được công bố. Giải thưởng cao nhất thuộc về một loại trà xanh hấp từ Kagoshima, Nhật Bản, giải trà đen thuộc về một loại trà đen thơm mùi mật ong từ Taiwan — và Taiwan giành tổng cộng 55 huy chương, trong đó có bảy huy chương vàng."
+ },
+ "title": {
+  "en": "The Leafies 2026 — The World's Teas of the Year",
+  "ja": "The Leafies 2026 —— 世界が選んだ今年のお茶",
+  "ko": "The Leafies 2026 — 세계가 뽑은 올해의 차",
+  "yue": "The Leafies 2026 —— 全球年度好茶",
+  "zh-CN": "The Leafies 2026 —— 全球年度好茶",
+  "zh-TW": "The Leafies 2026 —— 全球年度好茶",
+  "hi": "The Leafies 2026 — दुनिया की इस साल की चायें",
+  "th": "The Leafies 2026 — ชาแห่งปีของโลก",
+  "vi": "The Leafies 2026 — Những loại trà của năm trên thế giới"
  }
+}
 ];
