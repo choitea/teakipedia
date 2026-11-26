@@ -2651,6 +2651,7 @@ html[lang="zh-TW"] .quiz-q {
 .bag-filters .field-inline {
   padding: 0 10px;
   gap: 5px;
+  height: 34px;
 }
 
 .bag-filters .field-inline span {
@@ -6372,6 +6373,24 @@ h3 {
 
 .sort-row {
   margin-top: 8px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* 정렬 칸은 한 줄짜리 작은 알약 형태로 (기존 폼 줄 높이를 그대로 쓰면 너무 커 보입니다) */
+.sort-row .field-inline {
+  flex: none;
+  width: auto;
+  height: 32px;
+  padding: 0 12px;
+  border-radius: 999px;
+  gap: 6px;
+}
+
+.sort-row .field-inline select {
+  flex: none;
+  font-size: 12.5px;
+  padding: 2px 0;
 }
 
 /* ---------- 차 뉴스 (차 문화 목록 맨 위) ---------- */
