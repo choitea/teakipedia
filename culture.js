@@ -3143,49 +3143,49 @@ window.TEAFaiCulture = [
      "p": "차 백과에서 각 종류의 맨 위에 보여 주던 기준을 이곳에 모았습니다. 종류마다 산화도와 어울리는 물 온도, 잎과 물의 비율, 첫 우림 시간을 확인해 보세요."
     },
     {
-     "h": "녹차 綠",
+     "h": "녹차",
      "p": [
       "딴 뒤 24시간 안에 모든 것이 결정되는, 시간과의 싸움.",
       "산화도 0% · 물 온도 70~80℃ · 잎 · 물 2~3g / 200ml · 포다 1분 30초"
      ]
     },
     {
-     "h": "우롱차 烏",
+     "h": "우롱차",
      "p": [
       "원하는 지점에서 정확히 멈추는 반발효의 예술.",
       "산화도 15~70% · 물 온도 90~95℃ · 잎 · 물 5~7g / 200ml · 포다 45초"
      ]
     },
     {
-     "h": "홍차 紅",
+     "h": "홍차",
      "p": [
       "완전 산화. 붉은색과 우유를 견디는 힘이 여기서 나온다.",
       "산화도 80~95% · 물 온도 95~100℃ · 잎 · 물 3~5g / 200ml · 포다 3분"
      ]
     },
     {
-     "h": "흑차 · 보이차 黑",
+     "h": "흑차 · 보이차",
      "p": [
       "시간이 보관 기간이 아니라 재료가 되는 차.",
       "산화도 후발효 · 물 온도 100℃ · 잎 · 물 5g / 100ml · 포다 20초"
      ]
     },
     {
-     "h": "백차 白",
+     "h": "백차",
      "p": [
       "위조하고 말린다. 그게 전부라서 잎의 품질이 그대로 드러난다.",
       "산화도 5~10% · 물 온도 80~90℃ · 잎 · 물 3~4g / 200ml · 포다 2분"
      ]
     },
     {
-     "h": "황차 黃",
+     "h": "황차",
      "p": [
       "민황이라는 한 단계가 만드는 부드러운 단맛 — 육대다류 가운데 가장 희귀한 차.",
       "산화도 10~20% · 물 온도 80~85℃ · 잎 · 물 3g / 200ml · 포다 1분 30초"
      ]
     },
     {
-     "h": "대용차 · 허브차 代",
+     "h": "대용차 · 허브차",
      "p": [
       "차나무 대신 곡물·뿌리·열매를 볶거나 말려 우린 대용차와, 꽃과 잎을 그대로 우린 허브차 — 카페인 없이 하루 곁에.",
       "산화도 무산화 · 카페인 없음 · 물 온도 90~100℃ · 잎 · 물 3g / 200ml · 포다 5분"
@@ -3214,49 +3214,49 @@ window.TEAFaiCulture = [
      "p": "The reference values once shown at the top of each family in the encyclopedia, gathered here: oxidation, water temperature, leaf-to-water ratio and first-steep time for every family."
     },
     {
-     "h": "Green tea 綠",
+     "h": "Green tea",
      "p": [
       "Everything is decided within 24 hours of picking — a race against time.",
       "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Oolong tea 烏",
+     "h": "Oolong tea",
      "p": [
       "The art of semi-oxidation: stopping at exactly the point you want.",
       "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
      ]
     },
     {
-     "h": "Black tea 紅",
+     "h": "Black tea",
      "p": [
       "Fully oxidised. The red colour and the strength to carry milk come from here.",
       "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
      ]
     },
     {
-     "h": "Dark tea · Pu-erh 黑",
+     "h": "Dark tea · Pu-erh",
      "p": [
       "Time is not a shelf life here; it is an ingredient.",
       "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
      ]
     },
     {
-     "h": "White tea 白",
+     "h": "White tea",
      "p": [
       "Wither and dry — that is all, so the quality of the leaf shows through untouched.",
       "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
      ]
     },
     {
-     "h": "Yellow tea 黃",
+     "h": "Yellow tea",
      "p": [
       "One extra step — sealed yellowing — gives the softest sweetness of the six tea families, and the rarest of them.",
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Everyday & herbal tea 代",
+     "h": "Everyday & herbal tea",
      "p": [
       "Grains, roots and fruit roasted or dried instead of the tea bush, and flowers and leaves steeped as they are — caffeine-free, always at hand.",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
@@ -3285,49 +3285,49 @@ window.TEAFaiCulture = [
      "p": "这里汇总了茶百科中每个茶类顶部曾展示的参考值——各茶类的氧化度、适宜水温、茶水比与第一泡时间。"
     },
     {
-     "h": "绿茶 綠",
+     "h": "绿茶",
      "p": [
       "采下后24小时内一切就已决定——与时间的赛跑。",
       "发酵度 0% · 水温 70~80℃ · 茶量 · 水 2~3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "乌龙茶 烏",
+     "h": "乌龙茶",
      "p": [
       "在想要的地方精确停下——半发酵的艺术。",
       "发酵度 15~70% · 水温 90~95℃ · 茶量 · 水 5~7g / 200ml · 泡茶 45秒"
      ]
     },
     {
-     "h": "红茶 紅",
+     "h": "红茶",
      "p": [
       "完全发酵。红色的汤色与承受牛奶的力量都在这里。",
       "发酵度 80~95% · 水温 95~100℃ · 茶量 · 水 3~5g / 200ml · 泡茶 3分"
      ]
     },
     {
-     "h": "黑茶 · 普洱茶 黑",
+     "h": "黑茶 · 普洱茶",
      "p": [
       "在这里，时间不是保质期而是原料。",
       "发酵度 后发酵 · 水温 100℃ · 茶量 · 水 5g / 100ml · 泡茶 20秒"
      ]
     },
     {
-     "h": "白茶 白",
+     "h": "白茶",
      "p": [
       "萎凋后晒干，如此而已，所以叶子的品质一览无遗。",
       "发酵度 5~10% · 水温 80~90℃ · 茶量 · 水 3~4g / 200ml · 泡茶 2分"
      ]
     },
     {
-     "h": "黄茶 黃",
+     "h": "黄茶",
      "p": [
       "多一道“闷黄”，就有了六大茶类里最柔和的甜——也是最稀有的一类。",
       "发酵度 10~20% · 水温 80~85℃ · 茶量 · 水 3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "代用茶 · 花草茶 代",
+     "h": "代用茶 · 花草茶",
      "p": [
       "不用茶树，把谷物、根与果实炒过或晒干来泡，再加上把花与叶直接泡开的花草茶——无咖啡因，随时在手边。",
       "发酵度 不发酵 · 无咖啡因 · 水温 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
@@ -3356,49 +3356,49 @@ window.TEAFaiCulture = [
      "p": "這裡彙總了茶百科中每個茶類頂部曾展示的參考值——各茶類的氧化度、適宜水溫、茶水比與第一泡時間。"
     },
     {
-     "h": "綠茶 綠",
+     "h": "綠茶",
      "p": [
       "採下後24小時內一切就已決定——與時間的賽跑。",
       "發酵度 0% · 水溫 70~80℃ · 茶量 · 水 2~3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "烏龍茶 烏",
+     "h": "烏龍茶",
      "p": [
       "在想要的地方精確停下——半發酵的藝術。",
       "發酵度 15~70% · 水溫 90~95℃ · 茶量 · 水 5~7g / 200ml · 泡茶 45秒"
      ]
     },
     {
-     "h": "紅茶 紅",
+     "h": "紅茶",
      "p": [
       "完全發酵。紅色的湯色與承受牛奶的力量都在這裡。",
       "發酵度 80~95% · 水溫 95~100℃ · 茶量 · 水 3~5g / 200ml · 泡茶 3分"
      ]
     },
     {
-     "h": "黑茶 · 普洱茶 黑",
+     "h": "黑茶 · 普洱茶",
      "p": [
       "在這裡，時間不是保存期限而是原料。",
       "發酵度 後發酵 · 水溫 100℃ · 茶量 · 水 5g / 100ml · 泡茶 20秒"
      ]
     },
     {
-     "h": "白茶 白",
+     "h": "白茶",
      "p": [
       "萎凋後晒乾，如此而已，所以葉子的品質一覽無遺。",
       "發酵度 5~10% · 水溫 80~90℃ · 茶量 · 水 3~4g / 200ml · 泡茶 2分"
      ]
     },
     {
-     "h": "黃茶 黃",
+     "h": "黃茶",
      "p": [
       "多一道「悶黃」，就有了六大茶類裡最柔和的甜——也是最稀有的一類。",
       "發酵度 10~20% · 水溫 80~85℃ · 茶量 · 水 3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "代用茶 · 花草茶 代",
+     "h": "代用茶 · 花草茶",
      "p": [
       "不用茶樹，把穀物、根與果實炒過或曬乾來泡，再加上把花與葉直接泡開的花草茶——無咖啡因，隨時在手邊。",
       "發酵度 不發酵 · 無咖啡因 · 水溫 90~100℃ · 茶量 · 水 3g / 200ml · 泡茶 5分"
@@ -3427,49 +3427,49 @@ window.TEAFaiCulture = [
      "p": "茶百科で各種類の先頭に表示していた参考値をここにまとめました。種類ごとの酸化度、湯温、茶葉と湯量、一煎目の時間です。"
     },
     {
-     "h": "緑茶 綠",
+     "h": "緑茶",
      "p": [
       "摘んだあと24時間でほぼすべてが決まる、時間との勝負。",
       "発酵度 0% · 湯温 70~80℃ · 茶葉 2~3g / 200ml · 一煎目 1分30秒"
      ]
     },
     {
-     "h": "烏龍茶 烏",
+     "h": "烏龍茶",
      "p": [
       "狙ったところで正確に止める半発酵の芸術。",
       "発酵度 15–70% · 湯温 90~95℃ · 茶葉 5~7g / 200ml · 一煎目 45秒"
      ]
     },
     {
-     "h": "紅茶 紅",
+     "h": "紅茶",
      "p": [
       "完全発酵。赤い水色とミルクに負けない力はここから生まれる。",
       "発酵度 80–95% · 湯温 95~100℃ · 茶葉 3~5g / 200ml · 一煎目 3分"
      ]
     },
     {
-     "h": "黒茶・プーアル茶 黑",
+     "h": "黒茶・プーアル茶",
      "p": [
       "時間が保存期間ではなく材料になるお茶。",
       "発酵度 Post-fermented · 湯温 100℃ · 茶葉 5g / 100ml · 一煎目 20秒"
      ]
     },
     {
-     "h": "白茶 白",
+     "h": "白茶",
      "p": [
       "萎凋して乾かす、それだけ。だから葉の質がそのまま出る。",
       "発酵度 5–10% · 湯温 80~90℃ · 茶葉 3~4g / 200ml · 一煎目 2分"
      ]
     },
     {
-     "h": "黄茶 黃",
+     "h": "黄茶",
      "p": [
       "悶黄というひと工程が生むやわらかな甘み。六大茶類で最も希少。",
       "発酵度 10–20% · 湯温 80~85℃ · 茶葉 3g / 200ml · 一煎目 1分30秒"
      ]
     },
     {
-     "h": "代用茶・ハーブティー 代",
+     "h": "代用茶・ハーブティー",
      "p": [
       "穀物・根・実を炒るか乾かして淹れる一杯と、花や葉をそのまま淹れるハーブティー。カフェインなしで一日のそばに。",
       "発酵度 無発酵 · カフェインなし · 湯温 90~100℃ · 茶葉 3g / 200ml · 一煎目 5分"
@@ -3498,49 +3498,49 @@ window.TEAFaiCulture = [
      "p": "呢度彙總咗茶百科每個茶類頂部展示過嘅參考值——各茶類嘅氧化度、適宜水溫、茶水比同第一泡時間。"
     },
     {
-     "h": "綠茶 綠",
+     "h": "綠茶",
      "p": [
       "採落嚟24個鐘內就決定晒——同時間鬥快。",
       "發酵度 0% · 水溫 70~80℃ · 茶葉 2~3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "烏龍茶 烏",
+     "h": "烏龍茶",
      "p": [
       "想停就準確咁停——半發酵嘅藝術。",
       "發酵度 15~70% · 水溫 90~95℃ · 茶葉 5~7g / 200ml · 泡茶 45秒"
      ]
     },
     {
-     "h": "紅茶 紅",
+     "h": "紅茶",
      "p": [
       "完全發酵。紅色嘅湯色同頂得住奶嘅力量都喺呢度。",
       "發酵度 80~95% · 水溫 95~100℃ · 茶葉 3~5g / 200ml · 泡茶 3分"
      ]
     },
     {
-     "h": "黑茶 · 普洱 黑",
+     "h": "黑茶 · 普洱",
      "p": [
       "喺呢度，時間唔係保存期限，而係原料。",
       "發酵度 後發酵 · 水溫 100℃ · 茶葉 5g / 100ml · 泡茶 20秒"
      ]
     },
     {
-     "h": "白茶 白",
+     "h": "白茶",
      "p": [
       "萎凋之後曬乾，就係咁多，所以葉嘅質素一睇就知。",
       "發酵度 5~10% · 水溫 80~90℃ · 茶葉 3~4g / 200ml · 泡茶 2分"
      ]
     },
     {
-     "h": "黃茶 黃",
+     "h": "黃茶",
      "p": [
       "多一道「悶黃」，就有六大茶類入面最柔和嘅甜——亦都係最稀有嘅一類。",
       "發酵度 10~20% · 水溫 80~85℃ · 茶葉 3g / 200ml · 泡茶 1分30秒"
      ]
     },
     {
-     "h": "代用茶 · 花草茶 代",
+     "h": "代用茶 · 花草茶",
      "p": [
       "唔用茶樹，用穀物、根同果實炒過或者曬乾嚟沖，再加埋將花同葉直接沖開嘅花草茶——無咖啡因，隨時喺手邊。",
       "發酵度 不發酵 · 無咖啡因 · 水溫 90~100℃ · 茶葉 3g / 200ml · 泡茶 5分"
@@ -3569,49 +3569,49 @@ window.TEAFaiCulture = [
      "p": "संदर्भ मान जो कभी विश्वकोश में हर परिवार के शीर्ष पर दिखाए जाते थे, यहाँ इकट्ठे किए गए हैं: हर परिवार के लिए ऑक्सीकरण, पानी का तापमान, पत्ती-पानी अनुपात और पहले काढ़े का समय।"
     },
     {
-     "h": "हरी चाय 綠",
+     "h": "हरी चाय",
      "p": [
       "तोड़ने के 24 घंटों के भीतर सब कुछ तय हो जाता है — समय के विरुद्ध एक दौड़।",
       "ऑक्सीकरण 0% · पानी 70~80℃ · पत्ती · पानी 2~3g / 200ml · पहला काढ़ा 1 min 30 sec"
      ]
     },
     {
-     "h": "ऊलोंग चाय 烏",
+     "h": "ऊलोंग चाय",
      "p": [
       "अर्ध-ऑक्सीकरण की कला: ठीक उसी बिंदु पर रुकना जहाँ आप चाहते हैं।",
       "ऑक्सीकरण 15–70% · पानी 90~95℃ · पत्ती · पानी 5~7g / 200ml · पहला काढ़ा 45 sec"
      ]
     },
     {
-     "h": "काली चाय 紅",
+     "h": "काली चाय",
      "p": [
       "पूरी तरह ऑक्सीकृत। लाल रंग और दूध को संभालने की ताक़त यहीं से आती है।",
       "ऑक्सीकरण 80–95% · पानी 95~100℃ · पत्ती · पानी 3~5g / 200ml · पहला काढ़ा 3 min"
      ]
     },
     {
-     "h": "गहरी चाय · पुएर 黑",
+     "h": "गहरी चाय · पुएर",
      "p": [
       "यहाँ समय शेल्फ-लाइफ़ नहीं है; यह एक सामग्री है।",
       "ऑक्सीकरण पश्च-किण्वित · पानी 100℃ · पत्ती · पानी 5g / 100ml · पहला काढ़ा 20 sec"
      ]
     },
     {
-     "h": "सफ़ेद चाय 白",
+     "h": "सफ़ेद चाय",
      "p": [
       "मुरझाना और सूखना — बस इतना ही, इसलिए पत्ती की गुणवत्ता बिना छुए झलकती है।",
       "ऑक्सीकरण 5–10% · पानी 80~90℃ · पत्ती · पानी 3~4g / 200ml · पहला काढ़ा 2 min"
      ]
     },
     {
-     "h": "पीली चाय 黃",
+     "h": "पीली चाय",
      "p": [
       "एक अतिरिक्त चरण — सीलबंद पीलापन — छह चाय परिवारों में सबसे नरम मिठास देता है, और उनमें सबसे दुर्लभ है।",
       "ऑक्सीकरण 10–20% · पानी 80~85℃ · पत्ती · पानी 3g / 200ml · पहला काढ़ा 1 min 30 sec"
      ]
     },
     {
-     "h": "रोज़मर्रा और हर्बल चाय 代",
+     "h": "रोज़मर्रा और हर्बल चाय",
      "p": [
       "चाय की झाड़ी के बजाय भूने या सुखाए गए अनाज, जड़ें और फल, और फूल व पत्तियाँ जैसे हैं वैसे ही भिगोए गए — कैफ़ीन-मुक्त, हमेशा हाथ के पास।",
       "ऑक्सीकरण कोई नहीं · कैफ़ीन-मुक्त · पानी 90~100℃ · पत्ती · पानी 3g / 200ml · पहला काढ़ा 5 min"
@@ -3640,49 +3640,49 @@ window.TEAFaiCulture = [
      "p": "ค่าอ้างอิงที่เคยแสดงไว้ด้านบนของแต่ละตระกูลในสารานุกรม รวบรวมไว้ที่นี่ ได้แก่ ระดับออกซิเดชัน อุณหภูมิน้ำ สัดส่วนใบชาต่อน้ำ และเวลาแช่น้ำแรกของแต่ละตระกูล"
     },
     {
-     "h": "ชาเขียว 綠",
+     "h": "ชาเขียว",
      "p": [
       "ทุกอย่างตัดสินกันภายใน 24 ชั่วโมงหลังเก็บเกี่ยว — เป็นการแข่งกับเวลา",
       "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "ชาอู่หลง 烏",
+     "h": "ชาอู่หลง",
      "p": [
       "ศิลปะของการออกซิไดซ์เพียงครึ่งเดียว คือการหยุดให้ตรงจุดที่ต้องการพอดี",
       "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
      ]
     },
     {
-     "h": "ชาแดง 紅",
+     "h": "ชาแดง",
      "p": [
       "ออกซิไดซ์อย่างเต็มที่ สีแดงและความเข้มข้นที่รองรับนมได้มาจากตรงนี้",
       "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
      ]
     },
     {
-     "h": "ชาดำ · ผู่เอ๋อร์ 黑",
+     "h": "ชาดำ · ผู่เอ๋อร์",
      "p": [
       "ที่นี่เวลาไม่ใช่แค่อายุการเก็บรักษา แต่เป็นส่วนผสมอย่างหนึ่ง",
       "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
      ]
     },
     {
-     "h": "ชาขาว 白",
+     "h": "ชาขาว",
      "p": [
       "ผึ่งให้เหี่ยวแล้วตากแห้ง — มีเพียงเท่านี้ คุณภาพของใบชาจึงปรากฏออกมาโดยไม่ถูกแตะต้อง",
       "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
      ]
     },
     {
-     "h": "ชาเหลือง 黃",
+     "h": "ชาเหลือง",
      "p": [
       "ขั้นตอนพิเศษอีกหนึ่งขั้น — การอบให้เหลืองแบบปิดผนึก — มอบความหวานที่นุ่มนวลที่สุดในบรรดาชาทั้งหกตระกูล และเป็นตระกูลที่หายากที่สุด",
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "ชาในชีวิตประจำวันและชาสมุนไพร 代",
+     "h": "ชาในชีวิตประจำวันและชาสมุนไพร",
      "p": [
       "ธัญพืช ราก และผลไม้ที่คั่วหรือตากแห้งแทนพุ่มชา และดอกไม้กับใบที่แช่ดื่มตามสภาพเดิม — ไม่มีคาเฟอีน พร้อมดื่มได้เสมอ",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
@@ -3711,49 +3711,49 @@ window.TEAFaiCulture = [
      "p": "Các giá trị tham khảo từng được hiển thị ở đầu mỗi họ trà trong bách khoa, nay được tập hợp tại đây: độ oxy hóa, nhiệt độ nước, tỷ lệ lá trên nước và thời gian ngâm đầu tiên cho mỗi họ."
     },
     {
-     "h": "Trà xanh 綠",
+     "h": "Trà xanh",
      "p": [
       "Mọi thứ được quyết định trong vòng 24 giờ sau khi hái — một cuộc chạy đua với thời gian.",
       "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Trà ô long 烏",
+     "h": "Trà ô long",
      "p": [
       "Nghệ thuật oxy hóa một nửa: dừng lại đúng tại điểm bạn muốn.",
       "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
      ]
     },
     {
-     "h": "Hồng trà 紅",
+     "h": "Hồng trà",
      "p": [
       "Oxy hóa hoàn toàn. Màu đỏ và độ đậm đủ sức hòa với sữa đều đến từ đây.",
       "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
      ]
     },
     {
-     "h": "Hắc trà · Phổ nhĩ 黑",
+     "h": "Hắc trà · Phổ nhĩ",
      "p": [
       "Ở đây thời gian không phải là hạn sử dụng; nó là một nguyên liệu.",
       "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
      ]
     },
     {
-     "h": "Trà trắng 白",
+     "h": "Trà trắng",
      "p": [
       "Làm héo và phơi khô — chỉ có vậy, nên chất lượng của lá thể hiện nguyên vẹn.",
       "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
      ]
     },
     {
-     "h": "Trà vàng 黃",
+     "h": "Trà vàng",
      "p": [
       "Thêm một bước nữa — ủ vàng kín — cho vị ngọt mềm mại nhất trong sáu họ trà, và cũng là họ hiếm nhất trong số chúng.",
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Trà thường ngày & thảo mộc 代",
+     "h": "Trà thường ngày & thảo mộc",
      "p": [
       "Ngũ cốc, rễ và trái cây được rang hoặc phơi khô thay cho cây trà, và hoa lá được ngâm nguyên như vậy — không caffeine, luôn sẵn bên tay.",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
@@ -3782,49 +3782,49 @@ window.TEAFaiCulture = [
      "p": "القيم المرجعية التي كانت تظهر في أعلى كل عائلة في الموسوعة، مجموعة هنا: الأكسدة ودرجة حرارة الماء ونسبة الأوراق إلى الماء ووقت النقعة الأولى لكل عائلة."
     },
     {
-     "h": "الشاي الأخضر 綠",
+     "h": "الشاي الأخضر",
      "p": [
       "كل شيء يُحسم خلال 24 ساعة من القطف — سباق مع الزمن.",
       "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "شاي الأولونغ 烏",
+     "h": "شاي الأولونغ",
      "p": [
       "فن الأكسدة الجزئية: التوقف عند النقطة التي تريدها بالضبط.",
       "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
      ]
     },
     {
-     "h": "الشاي الأسود 紅",
+     "h": "الشاي الأسود",
      "p": [
       "مؤكسد بالكامل. من هنا يأتي اللون الأحمر والقوة لتحمل الحليب.",
       "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
      ]
     },
     {
-     "h": "الشاي الداكن · البوير 黑",
+     "h": "الشاي الداكن · البوير",
      "p": [
       "الزمن هنا ليس مدة صلاحية؛ إنه مكوّن.",
       "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
      ]
     },
     {
-     "h": "الشاي الأبيض 白",
+     "h": "الشاي الأبيض",
      "p": [
       "التذبيل والتجفيف — هذا كل شيء، لذا تظهر جودة الورقة كما هي دون مساس.",
       "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
      ]
     },
     {
-     "h": "الشاي الأصفر 黃",
+     "h": "الشاي الأصفر",
      "p": [
       "خطوة إضافية واحدة — الاصفرار المحكم — تمنح أنعم حلاوة بين عائلات الشاي الست، وأندرها.",
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "الشاي اليومي والعشبي 代",
+     "h": "الشاي اليومي والعشبي",
      "p": [
       "حبوب وجذور وفواكه تُحمّص أو تُجفف بدلًا من شجيرة الشاي، وزهور وأوراق تُنقع كما هي — خالية من الكافيين، وفي المتناول دائمًا.",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
@@ -3853,49 +3853,49 @@ window.TEAFaiCulture = [
      "p": "Nilai acuan yang dulu ditampilkan di bagian atas setiap keluarga dalam ensiklopedia, dikumpulkan di sini: oksidasi, suhu air, rasio daun-air, dan waktu seduh pertama untuk setiap keluarga."
     },
     {
-     "h": "Teh hijau 綠",
+     "h": "Teh hijau",
      "p": [
       "Semuanya diputuskan dalam 24 jam setelah pemetikan — berpacu dengan waktu.",
       "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Teh oolong 烏",
+     "h": "Teh oolong",
      "p": [
       "Seni oksidasi setengah: berhenti tepat pada titik yang Anda inginkan.",
       "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
      ]
     },
     {
-     "h": "Teh hitam 紅",
+     "h": "Teh hitam",
      "p": [
       "Teroksidasi penuh. Warna merah dan kekuatan untuk menahan susu berasal dari sini.",
       "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
      ]
     },
     {
-     "h": "Teh gelap · Pu-erh 黑",
+     "h": "Teh gelap · Pu-erh",
      "p": [
       "Waktu di sini bukan masa simpan; ia adalah bahan.",
       "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
      ]
     },
     {
-     "h": "Teh putih 白",
+     "h": "Teh putih",
      "p": [
       "Layukan dan keringkan — hanya itu, sehingga kualitas daun tampak apa adanya tanpa tersentuh.",
       "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
      ]
     },
     {
-     "h": "Teh kuning 黃",
+     "h": "Teh kuning",
      "p": [
       "Satu langkah tambahan — penguningan tertutup — memberikan rasa manis paling lembut dari enam keluarga teh, dan yang paling langka di antaranya.",
       "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
      ]
     },
     {
-     "h": "Teh sehari-hari & herbal 代",
+     "h": "Teh sehari-hari & herbal",
      "p": [
       "Biji-bijian, akar, dan buah yang disangrai atau dikeringkan sebagai pengganti semak teh, serta bunga dan daun yang diseduh apa adanya — bebas kafein, selalu siap sedia.",
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
