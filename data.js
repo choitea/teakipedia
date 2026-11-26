@@ -36834,6 +36834,15 @@ window.TEAFaiData = (function () {
     if (lang === "ja") {
       var kanji = entry.hz || entry.hs || "";
       if (kanji) text = { name: kanji, oneLine: text && text.oneLine };
+      /* 페어링만은 일본어 문구를 따로 얹습니다 (data_ja.js 오버레이가 entry.jaPairing 에 넣습니다) */
+      if (entry.jaPairing) {
+        if (!kanji) {
+          var copy = {};
+          for (var kk in text) copy[kk] = text[kk];
+          text = copy;
+        }
+        text.pairing = entry.jaPairing;
+      }
     }
     var extra = extraFor(entry, lang);
     var o = {
