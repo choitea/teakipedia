@@ -152,13 +152,18 @@ CHECK = r"""
   out.groups = D.groups.length;
   out.teaWithPhoto = D.teas.filter(function (t) { return t.photo && t.photo.f; }).length;
   out.teaWithCountry = D.teas.filter(function (t) { return t.country && t.country.ko; }).length;
+  out.teaIdsOk = D.TEAS.filter(function (t) { return typeof t.id === 'string'; }).length;
   out.yueTeas = D.use('yue').teas.filter(function (t) { return !!t.name; }).length;
   out.hiTeas = D.use('hi').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.thTeas = D.use('th').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.viTeas = D.use('vi').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
+  out.arTeas = D.use('ar').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
+  out.indTeas = D.use('ind').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.hiGroups = D.use('hi').groups.filter(function (g) { return !!g.name; }).length;
   out.thGroups = D.use('th').groups.filter(function (g) { return !!g.name; }).length;
   out.viGroups = D.use('vi').groups.filter(function (g) { return !!g.name; }).length;
+  out.arGroups = D.use('ar').groups.filter(function (g) { return !!g.name; }).length;
+  out.indGroups = D.use('ind').groups.filter(function (g) { return !!g.name; }).length;
   out.yueCantonese = D.use('yue').teas.filter(function (t) {
     return t.oneLine && /嘅|係|唔|冇|喺|啲|咁/.test(t.oneLine);
   }).length;
@@ -230,7 +235,7 @@ def run(plan=None, shops=None):
             "localStorage.setItem('teafai.shops.v1', %r)"
             % json.dumps({"version": shops.get("version"), "shops": shops.get("shops")}, ensure_ascii=False)
         )
-    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "app.js", "features.js"]
+    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_ja.js", "app.js", "features.js"]
     for f in files:
         src = (HERE / f).read_text(encoding="utf-8")
         try:
@@ -295,13 +300,18 @@ def main():
         and result["memberHtml"] > 100
         and result["lensHtml"] > 100
         and result["leafCount"] == "299"
+        and result["teaIdsOk"] == 299
         and result["yueCantonese"] == 299
         and result["hiTeas"] == 299
         and result["thTeas"] == 299
         and result["viTeas"] == 299
+        and result["arTeas"] == 299
+        and result["indTeas"] == 299
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
         and result["viGroups"] == 7
+        and result["arGroups"] == 7
+        and result["indGroups"] == 7
         and result["pinnedOrder"] == "hongkong-first"
         and result["pinnedHtml"] > 200
         and result["partnerShopsText"] is True
