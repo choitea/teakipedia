@@ -10,7 +10,7 @@
       content="녹차·우롱차·홍차·흑차·백차·황차·블렌딩차·전통차·대용차·허브차 299종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 한 곳에 담은 티키피디아 앱."
     />
     <meta name="theme-color" content="#F7F3EB" />
-    <meta name="color-scheme" content="light" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
@@ -32,6 +32,27 @@
     />
 
     <link rel="stylesheet" href="styles.css" />
+    <script>
+      /* 화면 모드(라이트·다크·기기 설정)를 첫 화면이 그려지기 전에 적용해 깜빡임을 막습니다 */
+      (function () {
+        var pref = "light";
+        try {
+          var raw = window.localStorage.getItem("teafai.theme.v1");
+          if (raw) pref = JSON.parse(raw) || "light";
+        } catch (e) {}
+        if (pref !== "dark" && pref !== "system") pref = "light";
+        var dark =
+          pref === "dark" ||
+          (pref === "system" &&
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches);
+        var root = document.documentElement;
+        root.setAttribute("data-theme", dark ? "dark" : "light");
+        root.setAttribute("data-theme-pref", pref);
+        var meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute("content", dark ? "#161C17" : "#F7F3EB");
+      })();
+    </script>
   </head>
   <body>
     <!-- 아이콘 스프라이트 -->
@@ -93,6 +114,10 @@
         </symbol>
         <symbol id="ic-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
           <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" />
+        </symbol>
+        <symbol id="ic-auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="8.5" />
+          <path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor" stroke="none" />
         </symbol>
         <symbol id="ic-youtube" viewBox="0 0 24 24" fill="currentColor">
           <path d="M21.3 7.2a2.6 2.6 0 0 0-1.8-1.8C17.8 5 12 5 12 5s-5.8 0-7.5.4A2.6 2.6 0 0 0 2.7 7.2C2.3 8.9 2.3 12 2.3 12s0 3.1.4 4.8a2.6 2.6 0 0 0 1.8 1.8C6.2 19 12 19 12 19s5.8 0 7.5-.4a2.6 2.6 0 0 0 1.8-1.8c.4-1.7.4-4.8.4-4.8s0-3.1-.4-4.8zM10 15.2V8.8L15.2 12z" />
@@ -218,6 +243,11 @@
         <button class="tab" type="button" data-view="notes"><span data-i18n="tab.notes">노트</span></button>
       </nav>
       <div class="lang-switch" id="langSwitch" role="group" aria-label="언어" data-i18n-aria="a11y.lang"></div>
+      <!-- 화면 모드 버튼 — 누르면 라이트·다크·기기 설정 선택 화면이 열립니다 -->
+      <button class="theme-open" id="themeOpen" type="button" aria-haspopup="true" data-i18n-aria="theme.title">
+        <svg class="theme-ic-sun" width="17" height="17" aria-hidden="true"><use href="#ic-sun" /></svg>
+        <svg class="theme-ic-moon" width="17" height="17" aria-hidden="true"><use href="#ic-moon" /></svg>
+      </button>
       <!-- 폰(899px 이하)에서만 보이는 언어 버튼 — 누르면 언어 선택 화면이 열립니다 -->
       <button class="lang-open" id="langOpen" type="button" aria-haspopup="true" data-i18n-aria="a11y.lang">
         <svg width="16" height="16" aria-hidden="true"><use href="#ic-globe" /></svg><span id="langOpenLabel">한국어</span>
@@ -233,6 +263,17 @@
         <span class="lang-picker-title" data-i18n="lang.select">언어 선택</span>
       </div>
       <div class="lang-picker-list" id="langPickerList"></div>
+    </div>
+
+    <!-- 화면 모드 선택 화면 (언어 선택과 같은 전체화면 목록) -->
+    <div class="lang-picker" id="themePicker" hidden role="dialog" aria-modal="true" data-i18n-aria="theme.title">
+      <div class="lang-picker-head">
+        <button class="lang-picker-back" id="themePickerBack" type="button" aria-label="Back">
+          <svg width="22" height="22" aria-hidden="true"><use href="#ic-arrow" /></svg>
+        </button>
+        <span class="lang-picker-title" data-i18n="theme.title">화면 모드</span>
+      </div>
+      <div class="lang-picker-list" id="themePickerList"></div>
     </div>
 
     <main class="viewport">

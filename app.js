@@ -4535,9 +4535,79 @@
     closeLangPicker();
   }
 
+  /* ---------- 화면 모드 (라이트 · 다크 · 기기 설정) ---------- */
+  var THEME_KEY = "teafai.theme.v1";
+  var THEME_MODES = [
+    { id: "light", icon: "ic-sun", key: "theme.light" },
+    { id: "dark", icon: "ic-moon", key: "theme.dark" },
+    { id: "system", icon: "ic-auto", key: "theme.system" }
+  ];
+  var themePref = storeGet(THEME_KEY, "light");
+  if (themePref !== "dark" && themePref !== "system") themePref = "light";
+  var themeMq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+
+  function themeResolved() {
+    if (themePref === "dark") return "dark";
+    if (themePref === "system" && themeMq && themeMq.matches) return "dark";
+    return "light";
+  }
+
+  function applyTheme() {
+    var resolved = themeResolved();
+    document.documentElement.setAttribute("data-theme", resolved);
+    document.documentElement.setAttribute("data-theme-pref", themePref);
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute("content", resolved === "dark" ? "#161C17" : "#F7F3EB");
+    renderThemeRows();
+  }
+
+  function renderThemeRows() {
+    var list = $("#themePickerList");
+    if (!list) return;
+    list.innerHTML = "";
+    THEME_MODES.forEach(function (mode) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "lang-row";
+      b.setAttribute("data-theme-mode", mode.id);
+      b.setAttribute("aria-pressed", String(mode.id === themePref));
+      var ic = document.createElement("span");
+      ic.className = "theme-row-ic";
+      ic.innerHTML = '<svg width="20" height="20" aria-hidden="true"><use href="#' + mode.icon + '" /></svg>';
+      var span = document.createElement("span");
+      span.textContent = t(mode.key);
+      b.appendChild(ic);
+      b.appendChild(span);
+      if (mode.id === themePref) {
+        var check = document.createElement("span");
+        check.className = "lang-row-check";
+        check.textContent = "✓";
+        check.setAttribute("aria-hidden", "true");
+        b.appendChild(check);
+      }
+      b.addEventListener("click", function () {
+        pickTheme(mode.id);
+      });
+      list.appendChild(b);
+    });
+  }
+
+  function closeThemePicker() {
+    var p = $("#themePicker");
+    if (p) p.hidden = true;
+  }
+
+  function pickTheme(next) {
+    themePref = next;
+    storeSet(THEME_KEY, next);
+    applyTheme();
+    closeThemePicker();
+  }
+
   /* 폰용 언어 선택 화면과 헤더 언어 버튼의 현재 언어 표시를 맞춥니다 */
   function syncLangUI() {
     L.mountPicker($("#langPickerList"), lang, pickLang);
+    renderThemeRows();
     var lbl = $("#langOpenLabel");
     if (lbl) lbl.textContent = L.LABEL[lang] || lang;
   }
@@ -4571,6 +4641,20 @@
       });
     var langBackBtn = $("#langPickerBack");
     if (langBackBtn) langBackBtn.addEventListener("click", closeLangPicker);
+
+    applyTheme();
+    var themeOpenBtn = $("#themeOpen");
+    if (themeOpenBtn)
+      themeOpenBtn.addEventListener("click", function () {
+        var p = $("#themePicker");
+        if (p) p.hidden = false;
+      });
+    var themeBackBtn = $("#themePickerBack");
+    if (themeBackBtn) themeBackBtn.addEventListener("click", closeThemePicker);
+    if (themeMq && themeMq.addEventListener)
+      themeMq.addEventListener("change", function () {
+        if (themePref === "system") applyTheme();
+      });
 
     var lastTea = storeGet(LAST_TEA_KEY, null);
     var startId = lastTea && D.byId(lastTea).id === lastTea ? lastTea : D.teas[0].id;

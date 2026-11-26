@@ -5992,6 +5992,52 @@ h3 {
   color: var(--ink-soft);
 }
 
+/* 화면 모드 버튼 (언어 버튼 왼쪽의 해·달 아이콘) */
+.theme-open {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin-left: auto;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--ink-soft);
+  cursor: pointer;
+  flex: none;
+}
+
+.theme-open svg {
+  display: block;
+}
+
+.theme-open .theme-ic-moon {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-open .theme-ic-sun {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-open .theme-ic-moon {
+  display: block;
+}
+
+.app-header .lang-open {
+  margin-left: 8px;
+}
+
+.theme-row-ic {
+  width: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-soft);
+  flex: none;
+}
+
 .lang-picker {
   position: fixed;
   inset: 0;
@@ -6326,4 +6372,133 @@ h3 {
 
 .sort-row {
   margin-top: 8px;
+}
+
+/* ============================================================
+   다크 모드 — html[data-theme="dark"] 일 때만 적용됩니다.
+   기본 팔레트는 CSS 변수로 갈아끼우고, 밝은 색을 직접 쓴
+   몇몇 카드·배지·반투명 바만 따로 덮습니다.
+   ============================================================ */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #161c17;
+  --paper-2: #1f2821;
+  --paper-3: #29332b;
+  --ink: #ede6d4;
+  --ink-soft: #c9c1ab;
+  --muted: #9c9480;
+  --line: #39443b;
+  --amber: #d69f57;
+  --amber-light: #e7c084;
+  --amber-soft: #3a2f1e;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 10px 28px -18px rgba(0, 0, 0, 0.85);
+}
+
+:root[data-theme="dark"] .app-header {
+  background: rgba(22, 28, 23, 0.9);
+}
+
+:root[data-theme="dark"] .tabbar {
+  background: rgba(31, 40, 33, 0.94);
+}
+
+:root[data-theme="dark"] .topnav {
+  background: rgba(22, 28, 23, 0.92);
+}
+
+:root[data-theme="dark"] .qrs-item {
+  background: rgba(31, 40, 33, 0.9);
+}
+
+:root[data-theme="dark"] .lang-open,
+:root[data-theme="dark"] .theme-open {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+:root[data-theme="dark"] .lang-row {
+  border-bottom-color: rgba(57, 68, 59, 0.7);
+}
+
+:root[data-theme="dark"] .bb-item {
+  background: var(--paper-2);
+}
+
+:root[data-theme="dark"] .buy-block {
+  background: var(--paper-3);
+}
+
+:root[data-theme="dark"] .field input:focus,
+:root[data-theme="dark"] .field textarea:focus,
+:root[data-theme="dark"] .field select:focus {
+  background: var(--paper-2);
+}
+
+:root[data-theme="dark"] .tea-card.is-group {
+  background: linear-gradient(180deg, #232d25 0%, var(--paper-2) 100%);
+}
+
+:root[data-theme="dark"] .qr-card.best {
+  background: linear-gradient(180deg, #2b3021 0%, #222a1e 100%);
+}
+
+:root[data-theme="dark"] .lens-card {
+  background: linear-gradient(140deg, #232b24, #1f2821 70%);
+}
+
+:root[data-theme="dark"] .lock-card {
+  background: linear-gradient(150deg, #262e27, #1f2821 65%);
+}
+
+:root[data-theme="dark"] .lock-card.free {
+  background: linear-gradient(150deg, #243026, #1f2821 70%);
+}
+
+:root[data-theme="dark"] .ox-track {
+  background: #39443b;
+}
+
+:root[data-theme="dark"] .post-type {
+  color: #e3ac6d;
+}
+
+:root[data-theme="dark"] .post-type.bag {
+  background: #26362a;
+  color: #a9c79b;
+}
+
+:root[data-theme="dark"] .post-type.question {
+  background: #27333d;
+  color: #a7c3d4;
+}
+
+:root[data-theme="dark"] .re-btn.on {
+  background: #3d2d24;
+}
+
+:root[data-theme="dark"] .post-report:focus-visible {
+  background: #3d2d24;
+}
+
+:root[data-theme="dark"] .ar-check {
+  background: #26362a;
+}
+
+:root[data-theme="dark"] .plan-box.biz {
+  background: var(--paper-3);
+}
+
+:root[data-theme="dark"] .partner-free {
+  background: #38301f;
+}
+
+:root[data-theme="dark"] .chip[aria-pressed="true"] .dot {
+  box-shadow: 0 0 0 2px rgba(22, 28, 23, 0.55);
+}
+
+:root[data-theme="dark"] .demo-note {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+:root[data-theme="dark"] .my-apps {
+  background: rgba(255, 255, 255, 0.04);
 }

@@ -6106,7 +6106,63 @@ window.TEAFaiI18N = (function () {
     "sort.name": "按名稱",
     "sort.popular": "按人氣"
   };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18];
+  var V19 = {
+    "ko": {
+      "theme.title": "화면 모드",
+      "theme.light": "라이트 모드",
+      "theme.dark": "다크 모드",
+      "theme.system": "기기 설정 따라가기"
+    },
+    "en": {
+      "theme.title": "Appearance",
+      "theme.light": "Light",
+      "theme.dark": "Dark",
+      "theme.system": "Follow device setting"
+    },
+    "zh-CN": {
+      "theme.title": "显示模式",
+      "theme.light": "浅色模式",
+      "theme.dark": "深色模式",
+      "theme.system": "跟随设备设置"
+    },
+    "zh-TW": {
+      "theme.title": "顯示模式",
+      "theme.light": "淺色模式",
+      "theme.dark": "深色模式",
+      "theme.system": "跟隨裝置設定"
+    },
+    "ja": {
+      "theme.title": "表示モード",
+      "theme.light": "ライトモード",
+      "theme.dark": "ダークモード",
+      "theme.system": "端末の設定に従う"
+    },
+    "hi": {
+      "theme.title": "रूप-रंग",
+      "theme.light": "लाइट मोड",
+      "theme.dark": "डार्क मोड",
+      "theme.system": "डिवाइस सेटिंग के अनुसार"
+    },
+    "th": {
+      "theme.title": "โหมดการแสดงผล",
+      "theme.light": "โหมดสว่าง",
+      "theme.dark": "โหมดมืด",
+      "theme.system": "ตามการตั้งค่าอุปกรณ์"
+    },
+    "vi": {
+      "theme.title": "Chế độ hiển thị",
+      "theme.light": "Chế độ sáng",
+      "theme.dark": "Chế độ tối",
+      "theme.system": "Theo cài đặt thiết bị"
+    }
+  };
+  var YUE9 = {
+    "theme.title": "畫面模式",
+    "theme.light": "淺色模式",
+    "theme.dark": "深色模式",
+    "theme.system": "跟隨裝置設定"
+  };
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18, V19];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -6128,6 +6184,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE6) merged[k] = YUE6[k];
       for (k in YUE7) merged[k] = YUE7[k];
       for (k in YUE8) merged[k] = YUE8[k];
+      for (k in YUE9) merged[k] = YUE9[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
