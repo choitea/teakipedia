@@ -833,7 +833,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80도에서 1분 30초, 2포 30초, 3포 45초. 잎을 넣은 뒤 젓지 않습니다.",
         origin: "저장성 항저우 시후 주변. 청명 전에 딴 명전을 가장 쳐주고, 솥에서 손으로 덖어 납작하게 누른 잎이 표식입니다.",
         flavor: "볶은 콩·밤·아몬드의 고소함, 옅은 단맛, 끝에 아주 가벼운 떫음. 물색은 연한 연둣빛입니다.",
-        pairing: "용정하인(새우 요리), 생선찜, 두부, 죽. 크림 많은 디저트와는 부딪힙니다.",
+        pairing: "용정하(새우 요리), 흰살생선찜, 두부, 죽, 볶음 채소와 잘 어울립니다. 볶은 콩과 밤의 고소함이 담백한 해산물과 겹쳐 향이 살고, 끝에 남는 가벼운 떫음이 입안을 산뜻하게 정리해 줍니다. 크림이 많은 진한 디저트는 섬세한 향을 덮으니 피하세요.",
         keep: "개봉 후 한 달 안. 밀봉해 냉장 보관하고, 꺼낼 때는 밀봉 채로 꺼내 결로를 피합니다.",
         brewTip: "상투법 — 물을 먼저 붓고 잎을 얹으면 잎이 가라앉으며 향이 열립니다."
       },
@@ -846,7 +846,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80 °C: 1½ minutes, then 30 seconds, then 45. Don't stir after the leaf goes in.",
         origin: "Around West Lake in Hangzhou, Zhejiang. Pre-Qingming picking is the most prized, and the flat leaf pressed by hand in a wok is its signature.",
         flavor: "Roasted soy, chestnut and almond, a light sweetness, a faint astringency at the end. The liquor is a pale young green.",
-        pairing: "Longjing shrimp, steamed fish, tofu, congee. Cream-heavy desserts clash with it.",
+        pairing: "Longjing shrimp, steamed white fish, tofu, congee and lightly stir-fried vegetables suit it well. Its roasted-soy and chestnut notes meet mild seafood without clashing, and the faint astringency at the end leaves the palate fresh. Avoid cream-heavy desserts, which cover its delicate aroma.",
         keep: "Within a month of opening. Keep it sealed in the fridge and take it out still sealed so condensation stays off the leaf.",
         brewTip: "Water first, then the leaf: it sinks slowly and the aroma opens as it does."
       },
@@ -859,7 +859,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80度泡1分30秒，第二泡30秒，第三泡45秒。放茶后不要搅动。",
         origin: "浙江杭州西湖一带。清明前采的“明前”最受推崇，在锅里手工炒压成扁形的叶片是它的标志。",
         flavor: "炒豆、栗子、杏仁般的香气，淡淡的甜，尾端极轻的涩。汤色是浅嫩的绿。",
-        pairing: "龙井虾仁、清蒸鱼、豆腐、粥。与奶油多的甜点相冲。",
+        pairing: "龙井虾仁、清蒸白肉鱼、豆腐、清粥和清淡小炒蔬菜都很适合。它的炒豆与栗子香气与清淡海鲜相遇而不冲突，尾段淡淡的涩感让口腔清爽。避免奶油厚重的甜点，会盖住它细腻的香气。",
         keep: "开封后一个月内。密封冷藏，取出时保持密封以免结露。",
         brewTip: "上投法——先注水再放茶，叶片下沉时香气才打开。"
       },
@@ -872,7 +872,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80度泡1分30秒，第二泡30秒，第三泡45秒。放茶後不要攪動。",
         origin: "浙江杭州西湖一帶。清明前採的「明前」最受推崇，在鍋裡手工炒壓成扁形的葉片是它的標誌。",
         flavor: "炒豆、栗子、杏仁般的香氣，淡淡的甜，尾端極輕的澀。湯色是淺嫩的綠。",
-        pairing: "龍井蝦仁、清蒸魚、豆腐、粥。與奶油多的甜點相衝。",
+        pairing: "龍井蝦仁、清蒸白肉魚、豆腐、粥和清炒時蔬都很合適。烘烤黃豆與栗子的香氣能與清淡的海鮮相襯而不衝突,尾韻淡淡的澀感讓口腔保持清爽。避免搭配奶油厚重的甜點,以免蓋住它細緻的香氣。",
         keep: "開封後一個月內。密封冷藏，取出時保持密封以免結露。",
         brewTip: "上投法——先注水再放茶，葉片下沉時香氣才打開。"
       }
@@ -920,7 +920,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75도에서 1분, 2포 30초, 3포 45초. 뜨거우면 떫어지므로 온도를 낮게.",
         origin: "장쑤성 둥팅산. 이른 봄 첫 싹만 골라 손바닥으로 달팽이 모양으로 말아, ‘백호’의 솜털이 남습니다.",
         flavor: "복숭아·살구 같은 과일 향, 크림 같은 부드러움, 끝의 청량한 단맛.",
-        pairing: "흰살생선, 죽, 과일 디저트, 견과. 매운 음식과는 향이 지웁니다.",
+        pairing: "흰살생선회, 맑은 죽, 복숭아·살구 디저트, 잣이나 호두 같은 견과와 어울립니다. 과일 향과 크리미한 질감이 담백한 음식 위에서 또렷하게 드러나고, 끝의 청량한 단맛이 입맛을 맑게 해 줍니다. 매운 음식은 섬세한 향을 지워 버리니 피하세요.",
         keep: "제조 후 6개월, 개봉 후 한 달. 알루미늄 파우치에 밀봉해 냉장고 채소칸.",
         brewTip: "70~75도 물을 먼저 붓고 잎을 넣습니다. 끓인 물은 컵에 옮겨 식힌 뒤 쓰세요."
       },
@@ -933,7 +933,7 @@ window.TEAFaiData = (function () {
         steepBasis: "At 75 °C, 1 minute, then 30 seconds, then 45. Hot water makes it bitter, so keep it low.",
         origin: "Dongting Mountain in Jiangsu. Only the first spring buds, rolled by hand into snail-like coils that keep their white down.",
         flavor: "Peach and apricot, a creamy softness, a cool sweetness at the end.",
-        pairing: "White fish, congee, fruit desserts, nuts. Spicy food wipes out the aroma.",
+        pairing: "White-fish sashimi, clear congee, peach or apricot desserts and nuts such as pine nuts and walnuts suit it. Its fruit aroma and creamy texture stand out over mild food, and the cool sweetness at the end clears the palate. Avoid spicy food, which wipes out the delicate aroma.",
         keep: "Six months from production, a month after opening. Sealed aluminium pouch in the fridge's vegetable drawer.",
         brewTip: "Pour 70–75 °C water first, then add the leaf. Move boiled water to another cup to cool it."
       },
@@ -946,7 +946,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75度泡1分钟，第二泡30秒，第三泡45秒。水太热会涩，温度要低。",
         origin: "江苏洞庭山。只取早春第一茬嫩芽，用手掌搓成螺旋状，留着白色的绒毛。",
         flavor: "桃子、杏子般的果香，奶油般的柔滑，尾端清凉的甜。",
-        pairing: "白身鱼、粥、水果甜点、坚果。与辛辣食物相冲。",
+        pairing: "白肉鱼生鱼片、清粥、桃子或杏子甜点以及松子、核桃等坚果都很适合。它的果香与奶油般质地在清淡食物之上更显突出，尾段清凉的甘甜让口腔清爽。避免辛辣食物，会抹去细腻的香气。",
         keep: "生产后6个月，开封后一个月。密封铝箔袋放入冰箱蔬菜格。",
         brewTip: "先注70~75度的水再放茶。沸水先倒到另一个杯子降温。"
       },
@@ -959,7 +959,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75度泡1分鐘，第二泡30秒，第三泡45秒。水太熱會澀，溫度要低。",
         origin: "江蘇洞庭山。只取早春第一茬嫩芽，用手掌搓成螺旋狀，留著白色的絨毛。",
         flavor: "桃子、杏子般的果香，奶油般的柔滑，尾端清涼的甜。",
-        pairing: "白身魚、粥、水果甜點、堅果。與辛辣食物相衝。",
+        pairing: "白肉魚生魚片、清粥、桃子或杏桃甜點,以及松子、核桃等堅果都很合適。果香與綿密的質地在清淡食物之上更顯突出,尾韻清涼的甜味能淨化味蕾。避免辛辣食物,以免抹去細緻的香氣。",
         keep: "製造後6個月，開封後一個月。密封鋁箔袋放入冰箱蔬果格。",
         brewTip: "先注70~75度的水再放茶。沸水先倒到另一個杯子降溫。"
       }
@@ -1007,7 +1007,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80도에서 1분 30초, 2포 30초, 3포 1분.",
         origin: "안후이성 황산. 안개와 큰 일교차로 잎이 두툼해지고, 황록색 잎에 흰 솜털이 남습니다.",
         flavor: "부드러운 고소함과 난초 같은 청량함, 감칠맛이 길게 남습니다.",
-        pairing: "닭고기 요리, 죽, 나물, 은행. 기름진 요리보다 담백한 쪽이 좋습니다.",
+        pairing: "백숙 같은 닭고기 요리, 죽, 데친 나물, 은행 꼬치와 잘 맞습니다. 부드러운 고소함과 난초 향이 담백한 재료와 겹치지 않고, 길게 남는 감칠맛이 슴슴한 음식의 맛을 끌어올립니다. 기름진 튀김류는 청량한 향을 눌러 버리니 피하세요.",
         keep: "개봉 후 한 달, 밀봉 냉장. 냄새가 옮지 않도록 채소칸에 둡니다.",
         brewTip: "잎이 가늘어 우려내는 시간이 짧습니다. 80도에서 1분 30초를 넘기지 마세요."
       },
@@ -1020,7 +1020,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80 °C: 1½ minutes, then 30 seconds, then 1 minute.",
         origin: "Huangshan in Anhui. Mist and wide day–night swings thicken the leaf, which dries yellow-green with white down.",
         flavor: "Soft roasted notes with an orchid freshness, and an umami that stays a long time.",
-        pairing: "Chicken dishes, congee, wild greens, ginkgo nuts. Lighter food suits it better than rich dishes.",
+        pairing: "Boiled chicken dishes, congee, blanched greens and ginkgo skewers go well with it. Its soft roasted notes and orchid freshness never crowd mild ingredients, while the long umami lifts plain food. Avoid greasy fried dishes, which press down its refreshing aroma.",
         keep: "A month after opening, sealed and chilled. Keep it in the vegetable drawer so it picks up no odour.",
         brewTip: "The leaf is fine, so the steep is short. Don't go past 1½ minutes at 80 °C."
       },
@@ -1033,7 +1033,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80度泡1分30秒，第二泡30秒，第三泡1分钟。",
         origin: "安徽黄山。云雾与昼夜温差让叶片变得肥厚，干茶黄绿并留下白色绒毛。",
         flavor: "柔和的焙香与兰花般的清凉，鲜味留得久。",
-        pairing: "鸡肉料理、粥、野菜、白果。清淡的菜比油腻的菜更合适。",
+        pairing: "白切鸡类菜肴、清粥、焯青菜和银杏串都很搭配。它柔和的焙香与兰花清新感不会压过清淡食材，悠长的鲜味能提升朴素食物的滋味。避免油腻的油炸菜，会压住它清爽的香气。",
         keep: "开封后一个月，密封冷藏。放在蔬果格避免串味。",
         brewTip: "叶片细嫩，冲泡时间短。80度不要超过1分30秒。"
       },
@@ -1046,7 +1046,7 @@ window.TEAFaiData = (function () {
         steepBasis: "80度泡1分30秒，第二泡30秒，第三泡1分鐘。",
         origin: "安徽黃山。雲霧與晝夜溫差讓葉片變得肥厚，乾茶黃綠並留下白色絨毛。",
         flavor: "柔和的焙香與蘭花般的清涼，鮮味留得久。",
-        pairing: "雞肉料理、粥、野菜、白果。清淡的菜比油膩的菜更合適。",
+        pairing: "白切雞類料理、粥、水燙青菜和銀杏串都很合適。柔和的烘烤香與蘭花的清新不會壓過清淡的食材,悠長的鮮味則能提升平淡食物的層次。避免油膩的油炸菜,以免壓住它清爽的香氣。",
         keep: "開封後一個月，密封冷藏。放在蔬果格避免串味。",
         brewTip: "葉片細嫩，沖泡時間短。80度不要超過1分30秒。"
       }
@@ -1094,7 +1094,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70도에서 1분 30초, 2포 20초, 3포 30초. 두 번째가 가장 감칠맛이 좋습니다.",
         origin: "일본 전역. 차광하지 않고 햇볕에서 기른 잎을 증청해 말립니다. 이른 봄의 신차가 향이 가장 밝습니다.",
         flavor: "해조류·풀잎 향, 아미노산의 감칠맛, 끝의 가벼운 떫음. 물색은 노란 연둣빛.",
-        pairing: "주먹밥, 초밥, 튀김, 시오자케. 단맛 디저트보다 짠맛 안주와 어울립니다.",
+        pairing: "주먹밥, 초밥, 튀김, 소금구이 생선(시오자케)과 잘 어울립니다. 해조류 같은 향과 아미노산 감칠맛이 밥과 생선의 맛을 받쳐 주고, 끝의 가벼운 떫음이 튀김의 기름기를 씻어 냅니다. 달콤한 디저트보다는 짭짤한 안주 쪽이 훨씬 잘 맞습니다.",
         keep: "개봉 후 한 달. 밀봉해 냉장, 가능하면 소분해 냉동 보관합니다.",
         brewTip: "물을 끓인 뒤 70도까지 식혀 부으세요. 80도면 떫은맛이 확 올라옵니다."
       },
@@ -1107,7 +1107,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70 °C: 1½ minutes, then 20 seconds, then 30. The second infusion carries the most umami.",
         origin: "Across Japan. Leaf grown without shading, steamed and dried. First-flush shincha is the brightest of the year.",
         flavor: "Seaweed and cut grass, savoury amino-acid umami, a light astringency at the end. The liquor is yellow-green.",
-        pairing: "Onigiri, sushi, tempura, salted rice. It suits salty snacks better than sweet desserts.",
+        pairing: "Onigiri, sushi, tempura and salt-grilled fish suit it well. Its seaweed-like aroma and amino-acid umami support rice and fish, while the light astringency at the end cuts through tempura's oiliness. It matches salty snacks far better than sweet desserts.",
         keep: "A month after opening. Sealed and chilled, ideally portioned and frozen.",
         brewTip: "Boil, then cool to 70 °C before pouring. At 80 °C the astringency jumps."
       },
@@ -1120,7 +1120,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70度泡1分30秒，第二泡20秒，第三泡30秒。第二泡鲜味最好。",
         origin: "日本各地。不遮光、全日照栽培的叶子蒸青后干燥。早春的新茶香气最明亮。",
         flavor: "海苔与青草香、氨基酸的鲜味、尾端轻涩。汤色黄绿。",
-        pairing: "饭团、寿司、天妇罗、盐渍小菜。配咸味小食比甜点更合适。",
+        pairing: "饭团、寿司、天妇罗和盐烤鱼都很适合。它海苔般的香气和氨基酸的鲜味支撑着米饭与鱼，尾段轻微的涩感能化解天妇罗的油腻。相比甜味甜点，它与咸味小吃更搭。",
         keep: "开封后一个月。密封冷藏，最好分装冷冻。",
         brewTip: "水烧开后降到70度再冲。80度涩味明显上升。"
       },
@@ -1133,7 +1133,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70度泡1分30秒，第二泡20秒，第三泡30秒。第二泡鮮味最好。",
         origin: "日本各地。不遮光、全日照栽培的葉子蒸菁後乾燥。早春的新茶香氣最明亮。",
         flavor: "海苔與青草香、胺基酸的鮮味、尾端輕澀。湯色黃綠。",
-        pairing: "飯糰、壽司、天婦羅、鹽漬小菜。配鹹味小食比甜點更合適。",
+        pairing: "飯糰、壽司、天婦羅和鹽烤魚都很合適。海苔般的香氣與胺基酸的鮮味能襯托米飯和魚,尾韻輕微的澀感可以化解天婦羅的油膩。比起甜的甜點,它和鹹味小吃更相配。",
         keep: "開封後一個月。密封冷藏，最好分裝冷凍。",
         brewTip: "水燒開後降到70度再沖。80度澀味明顯上升。"
       }
@@ -1182,7 +1182,7 @@ window.TEAFaiData = (function () {
         steepBasis: "55~60도에서 2분 30초, 2포 1분, 3포 1분 30초. 낮은 온도로 천천히.",
         origin: "일본 우지 등. 수확 전 20일 넘게 차광해 아미노산을 키웁니다. 짙은 녹색의 가늘고 긴 잎.",
         flavor: "된장·다시마 같은 짙은 감칠맛, 크림 같은 질감, 떫음은 거의 없습니다.",
-        pairing: "그 자체로 마시는 차. 곁들인다면 말린 과일이나 흰떡 정도.",
+        pairing: "교쿠로는 그 자체로 음미하는 차라 음식을 곁들이지 않는 편이 좋습니다. 곁들인다면 말린 과일, 흰떡, 다시마 과자처럼 맛이 조용한 게 어울립니다. 된장·다시마 같은 짙은 감칠맛과 크림 같은 질감이 주인공이라, 양념이 강한 음식은 그 깊이를 가립니다.",
         keep: "향이 약해지기 쉬워 개봉 후 3주 안이 좋습니다. 소분 냉동을 권합니다.",
         brewTip: "55도의 미지근한 물. 뜨거우면 감칠맛이 아니라 떫은맛이 나옵니다."
       },
@@ -1195,7 +1195,7 @@ window.TEAFaiData = (function () {
         steepBasis: "55–60 °C: 2½ minutes, then 1 minute, then 1½.",
         origin: "Uji and elsewhere in Japan. Shaded for more than 20 days before picking to build amino acids. Long, thin, deep-green needles.",
         flavor: "Deep umami like miso and dashi, a creamy texture, almost no astringency.",
-        pairing: "A tea to drink on its own. With anything, dried fruit or plain rice cake.",
+        pairing: "Gyokuro is a tea to savour slowly on its own, so it is best without food. If you pair anything, choose quiet flavours such as dried fruit, plain white rice cake or kelp crackers. Its deep miso-and-dashi umami and creamy texture are the main event, and strongly seasoned food would mask that depth.",
         keep: "The aroma fades quickly; best within three weeks of opening. Portion and freeze.",
         brewTip: "55 °C — lukewarm water. Hotter water brings astringency instead of umami."
       },
@@ -1208,7 +1208,7 @@ window.TEAFaiData = (function () {
         steepBasis: "55~60度泡2分30秒，第二泡1分钟，第三泡1分30秒。",
         origin: "日本宇治等地。采摘前遮光20天以上以增加氨基酸。叶形细长、深绿。",
         flavor: "味噌、高汤般的浓厚鲜味，奶油般的质地，几乎没有涩味。",
-        pairing: "适合单独品饮。要配就配干果或白年糕。",
+        pairing: "玉露是适合独自慢慢品味的茶，最好不配食物。若要搭配，选择味道安静的食物，如干果、原味白年糕或昆布脆片。它深厚的味噌与高汤鲜味和奶油般质地是主角，调味浓重的食物会掩盖这份深度。",
         keep: "香气容易走失，开封后3周内最好。建议分装冷冻。",
         brewTip: "用55度的温水。水太热出来的是涩味而不是鲜味。"
       },
@@ -1221,7 +1221,7 @@ window.TEAFaiData = (function () {
         steepBasis: "55~60度泡2分30秒，第二泡1分鐘，第三泡1分30秒。",
         origin: "日本宇治等地。採摘前遮光20天以上以增加胺基酸。葉形細長、深綠。",
         flavor: "味噌、高湯般的濃厚鮮味，奶油般的質地，幾乎沒有澀味。",
-        pairing: "適合單獨品飲。要配就配乾果或白年糕。",
+        pairing: "玉露是適合獨自慢慢品味的茶,最好不要搭配食物。若要搭配,請選擇味道安靜的食物,如乾果、原味白米糕或昆布脆片。它濃郁的味噌與高湯鮮味和綿密質地才是主角,調味強烈的食物會掩蓋這份深度。",
         keep: "香氣容易走失，開封後3週內最好。建議分裝冷凍。",
         brewTip: "用55度的溫水。水太熱出來的是澀味而不是鮮味。"
       }
@@ -1270,7 +1270,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70~80도 60ml에 2g, 30초간 차선으로 W자로 휘저어 거품을 냅니다.",
         origin: "일본 우지·니시오. 차광한 잎을 증청·건조해 잎맥을 걷어내고 맷돌로 갈아냅니다.",
         flavor: "짙은 감칠맛과 크림 같은 거품, 끝의 쌉싸름함. 물색은 선명한 녹색입니다.",
-        pairing: "화과자, 양갱, 마차 라테, 바닐라 아이스크림.",
+        pairing: "화과자, 양갱, 팥 디저트, 바닐라 아이스크림과 잘 어울립니다. 짙은 감칠맛과 쌉싸름함을 단맛이 부드럽게 받아 주고, 크림 같은 거품이 팥이나 바닐라의 질감과도 잘 겹칩니다. 말차 라테로 마실 때는 단맛이 약한 구운 과자와 곁들이면 균형이 좋습니다.",
         keep: "산화가 매우 빨라 개봉 후 2~3주. 밀봉 냉동하고 상온에서 개봉하지 마세요.",
         brewTip: "물은 80도 이하. 끓는 물을 부으면 쓴맛만 남습니다. 체에 한 번 걸러 덩어리를 풀어 주세요."
       },
@@ -1283,7 +1283,7 @@ window.TEAFaiData = (function () {
         steepBasis: "2 g in 60 ml at 70–80 °C, whisked in a W for 30 seconds until foamy.",
         origin: "Uji and Nishio in Japan. Shaded leaf is steamed, dried, de-stemmed and ground on stone mills.",
         flavor: "Deep umami under a creamy foam, a bitter edge at the end. Vivid green.",
-        pairing: "Wagashi, yokan, matcha latte, vanilla ice cream.",
+        pairing: "Wagashi, yokan, red-bean desserts and vanilla ice cream suit it well. Sweetness softens its deep umami and bitter edge, and the creamy foam echoes the texture of red bean and vanilla. As a matcha latte, it balances nicely with lightly sweetened baked goods.",
         keep: "It oxidises fast: two to three weeks after opening. Freeze sealed and never open it at room temperature.",
         brewTip: "Water below 80 °C. Boiling water leaves only bitterness. Sift once to break up lumps."
       },
@@ -1296,7 +1296,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70~80度60毫升配2克，用茶筅以W字形搅打30秒至起泡。",
         origin: "日本宇治、西尾。遮光的叶子蒸青干燥后去脉，用石磨磨成粉。",
         flavor: "浓厚的鲜味与奶油般的泡沫，尾端带一点苦。汤色鲜绿。",
-        pairing: "和果子、羊羹、抹茶拿铁、香草冰淇淋。",
+        pairing: "和果子、羊羹、红豆甜点和香草冰淇淋都很适合。甜味能柔化它深厚的鲜味与苦味边缘，奶油般的泡沫与红豆和香草的质地相呼应。做成抹茶拿铁时，与微甜的烘焙点心平衡得很好。",
         keep: "氧化极快，开封后2~3周。密封冷冻，不要在常温下开封。",
         brewTip: "水温80度以下。用沸水只剩苦味。先过筛把结块弄散。"
       },
@@ -1309,7 +1309,7 @@ window.TEAFaiData = (function () {
         steepBasis: "70~80度60毫升配2公克，用茶筅以W字形攪打30秒至起泡。",
         origin: "日本宇治、西尾。遮光的葉子蒸菁乾燥後去脈，用石磨磨成粉。",
         flavor: "濃厚的鮮味與奶油般的泡沫，尾端帶一點苦。湯色鮮綠。",
-        pairing: "和菓子、羊羹、抹茶拿鐵、香草冰淇淋。",
+        pairing: "和菓子、羊羹、紅豆甜點和香草冰淇淋都很合適。甜味能柔化它深沉的鮮味與苦韻,綿密的泡沫與紅豆、香草的質地相呼應。做成抹茶拿鐵時,與微甜的烘焙點心也能取得很好的平衡。",
         keep: "氧化極快，開封後2~3週。密封冷凍，不要在常溫下開封。",
         brewTip: "水溫80度以下。用沸水只剩苦味。先過篩把結塊弄散。"
       }
@@ -1358,7 +1358,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75도에서 1분 30초, 2포 30초, 3포 1분.",
         origin: "제주 서광·한남 등. 곡우(4월 20일경) 전에 딴 우전과 그 뒤의 세작으로 나뉩니다. 화산토와 해풍이 잎을 두껍게 합니다.",
         flavor: "풋풋한 잎 향과 고소함, 옅은 떫음이 끝에서 부드럽게 풀립니다.",
-        pairing: "나물 비빔밥, 생선구이, 전, 유자 디저트.",
+        pairing: "나물 비빔밥, 고등어·옥돔 생선구이, 해물전, 유자 디저트와 어울립니다. 풋풋한 잎 향과 고소함이 나물과 구운 생선의 향을 살려 주고, 옅은 떫음이 전의 기름기를 가볍게 정리해 줍니다. 유자의 상큼함과는 봄 향기끼리 잘 어울립니다.",
         keep: "제조 후 6개월, 개봉 후 한 달. 밀봉 냉장.",
         brewTip: "70~80도. 첫 물은 1분 30초를 넘기지 않으면 떫지 않습니다."
       },
@@ -1371,7 +1371,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75 °C: 1½ minutes, then 30 seconds, then 1 minute.",
         origin: "Seogwang and Hannam on Jeju. Ujeon is picked before Grain Rain (around 20 April); later pickings are sejack. Volcanic soil and sea wind thicken the leaf.",
         flavor: "Green leaf and toasted notes, with a light astringency that softens at the end.",
-        pairing: "Herb bibimbap, grilled fish, jeon pancakes, citron desserts.",
+        pairing: "Herb bibimbap, grilled mackerel or tilefish, seafood jeon and citron desserts suit it. Its fresh leaf aroma and toastiness lift greens and grilled fish, while the light astringency tidies away the pancakes' oil. Citron's brightness meets it spring-note for spring-note.",
         keep: "Six months from production, a month after opening. Sealed and chilled.",
         brewTip: "70–80 °C. Keep the first pour under 1½ minutes and it won't turn bitter."
       },
@@ -1384,7 +1384,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75度泡1分30秒，第二泡30秒，第三泡1分钟。",
         origin: "济州西广、汉南等地。谷雨（4月20日前后）前采的为雨前，之后为细作。火山土与海风让叶片更厚。",
         flavor: "青草香与焙香，尾端淡淡的涩感柔和地化开。",
-        pairing: "野菜拌饭、烤鱼、煎饼、柚子甜点。",
+        pairing: "香草拌饭、烤鲭鱼或方头鱼、海鲜煎饼和柚子甜点都很适合。它新鲜的叶香与烘焙香提升青菜与烤鱼，轻微的涩感收拾煎饼的油腻。柚子的明亮与它春日般的气息相互呼应。",
         keep: "生产后6个月，开封后一个月。密封冷藏。",
         brewTip: "70~80度。第一泡不超过1分30秒就不会涩。"
       },
@@ -1397,7 +1397,7 @@ window.TEAFaiData = (function () {
         steepBasis: "75度泡1分30秒，第二泡30秒，第三泡1分鐘。",
         origin: "濟州西廣、漢南等地。穀雨（4月20日前後）前採的為雨前，之後為細作。火山土與海風讓葉片更厚。",
         flavor: "青草香與焙香，尾端淡淡的澀感柔和地化開。",
-        pairing: "野菜拌飯、烤魚、煎餅、柚子甜點。",
+        pairing: "香草拌飯、烤鯖魚或烤方頭魚、海鮮煎餅和柚子甜點都很合適。新鮮葉香與烘烤香能提升野菜與烤魚的風味,輕微的澀感可收拾煎餅的油膩。柚子的明亮與它春日般的氣息彼此呼應。",
         keep: "製造後6個月，開封後一個月。密封冷藏。",
         brewTip: "70~80度。第一泡不超過1分30秒就不會澀。"
       }
@@ -1446,7 +1446,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85도에서 2분, 2포 1분, 3포 2분. 잎이 뜨면 30초 뒤 가볍게 저어 줍니다.",
         origin: "푸젠성 정화·복정. 봄 첫 싹만 골라 위조 후 말립니다. 은백색 털이 남아 있는지가 등급의 기준입니다.",
         flavor: "은방울꽃·라일락 같은 향, 아주 연한 살구빛 물색, 떫음 없이 긴 단맛.",
-        pairing: "견과, 대추, 밤, 담백한 생선. 진한 고기와는 어울리지 않습니다.",
+        pairing: "잣·호두 같은 견과, 대추, 밤, 담백한 흰살생선찜과 어울립니다. 은방울꽃 같은 은은한 꽃 향과 떫음 없이 길게 이어지는 단맛은 맛이 조용한 음식 옆에서 가장 또렷해집니다. 양념이 진한 고기 요리는 섬세한 향을 덮어 버리니 피하세요.",
         keep: "상온 50~60% 습도, 직사광선 회피. 냉장고는 결로와 냄새 때문에 피합니다.",
         brewTip: "잎이 물에 뜨므로 물을 먼저 붓고 잎을 얹은 뒤 30초 후 가볍게 누릅니다."
       },
@@ -1459,7 +1459,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85 °C: 2 minutes, then 1 minute, then 2. If the buds float, stir gently after 30 seconds.",
         origin: "Zhenghe and Fuding in Fujian. Only the first spring buds, withered and dried. Whether the silver down survives is the grade.",
         flavor: "Lily of the valley and lilac, a very pale apricot liquor, no astringency and a long sweetness.",
-        pairing: "Nuts, dates, chestnuts, light fish. It does not sit well with heavy meat.",
+        pairing: "Nuts such as pine nuts and walnuts, dates, chestnuts and lightly steamed white fish suit it. Its lily-of-the-valley florals and long, astringency-free sweetness show clearest beside quiet food. Avoid heavily seasoned meat dishes, which bury its delicate aroma.",
         keep: "Room temperature, 50–60% humidity, out of direct sun. Avoid the fridge — condensation and odours.",
         brewTip: "The buds float: water first, buds on top, then press them down gently after 30 seconds."
       },
@@ -1472,7 +1472,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡2分钟，第二泡1分钟，第三泡2分钟。芽浮起时30秒后轻轻拨动。",
         origin: "福建政和、福鼎。只取春季第一批芽，萎凋后晒干。银白绒毛是否保留是分级标准。",
         flavor: "铃兰、丁香般的香气，极浅的杏色汤，没有涩味，甜味悠长。",
-        pairing: "坚果、红枣、栗子、清淡的鱼。与浓重的肉类不合。",
+        pairing: "松子、核桃等坚果、枣、栗子和清淡蒸白肉鱼都很适合。它铃兰般的花香与悠长、无涩的甘甜在安静的食物旁最清晰。避免调味浓重的肉类菜肴，会掩埋它细腻的香气。",
         keep: "常温、湿度50~60%，避直射光。避免冰箱的结露与异味。",
         brewTip: "芽会浮起：先注水再放芽，30秒后轻轻压一下。"
       },
@@ -1485,7 +1485,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡2分鐘，第二泡1分鐘，第三泡2分鐘。芽浮起時30秒後輕輕撥動。",
         origin: "福建政和、福鼎。只取春季第一批芽，萎凋後晒乾。銀白絨毛是否保留是分級標準。",
         flavor: "鈴蘭、丁香般的香氣，極淺的杏色湯，沒有澀味，甜味悠長。",
-        pairing: "堅果、紅棗、栗子、清淡的魚。與濃重的肉類不合。",
+        pairing: "松子、核桃等堅果、棗子、栗子和清蒸白肉魚都很合適。鈴蘭般的花香與悠長、無澀的甜味,在安靜的食物旁最為清晰。避免調味濃重的肉類料理,以免埋沒它細緻的香氣。",
         keep: "常溫、濕度50~60%，避直射光。避免冰箱的結露與異味。",
         brewTip: "芽會浮起：先注水再放芽，30秒後輕輕壓一下。"
       }
@@ -1533,7 +1533,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85도에서 1분 30초, 2포 1분, 3포 1분 30초.",
         origin: "푸젠성. 싹 하나와 잎 두 장을 함께 말립니다. 잎이 넓어 향과 단맛의 폭이 넓습니다.",
         flavor: "흰 꽃과 건초, 옅은 대추 단맛. 은침보다 바디가 있습니다.",
-        pairing: "닭고기, 담백한 생선, 샌드위치, 마들렌.",
+        pairing: "구운 닭고기, 담백한 생선, 가벼운 샌드위치, 마들렌과 잘 어울립니다. 흰 꽃과 건초의 향에 은침보다 탄탄한 바디가 있어 가벼운 단백질 요리를 받쳐 주고, 대추 같은 단맛이 구운 과자와도 잘 겹칩니다. 강한 향신료 요리는 꽃 향을 지우니 피하세요.",
         keep: "상온 밀봉. 1~2년 두면 대추와 꿀이 더해집니다.",
         brewTip: "90도까지 올려도 떫지 않습니다. 잎이 펴지도록 첫 물을 넉넉히."
       },
@@ -1546,7 +1546,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85 °C: 1½ minutes, then 1 minute, then 1½.",
         origin: "Fujian. A bud with two leaves is dried together. The broader leaf gives a wider spread of aroma and sweetness.",
         flavor: "White flowers and hay, a light date sweetness, more body than Silver Needle.",
-        pairing: "Chicken, light fish, sandwiches, madeleines.",
+        pairing: "Roast chicken, mild fish dishes, light sandwiches and madeleines suit it well. White-flower and hay notes with more body than Silver Needle let it stand beside light protein dishes, and its date-like sweetness echoes baked goods. Avoid strongly spiced food, which erases the florals.",
         keep: "Sealed at room temperature. A year or two adds dates and honey.",
         brewTip: "It takes 90 °C without turning bitter. Give the first pour room for the leaf to open."
       },
@@ -1559,7 +1559,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡1分30秒，第二泡1分钟，第三泡1分30秒。",
         origin: "福建。一芽两叶一起萎凋晒干。叶片较宽，香气与甜味的层次也更宽。",
         flavor: "白花与干草，淡淡的红枣甜，比银针更有厚度。",
-        pairing: "鸡肉、清淡的鱼、三明治、玛德莲。",
+        pairing: "烤鸡、清淡鱼类菜肴、轻食三明治和玛德琳都很适合。白花与干草香气加上比银针更厚实的体感，能站在清淡蛋白质菜肴旁，枣子般的甘甜与烘焙点心相呼应。避免香料浓重的食物，会抹去花香。",
         keep: "常温密封。放一两年会多出枣香与蜜香。",
         brewTip: "到90度也不涩。第一泡给足水让叶子展开。"
       },
@@ -1572,7 +1572,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡1分30秒，第二泡1分鐘，第三泡1分30秒。",
         origin: "福建。一芽兩葉一起萎凋晒乾。葉片較寬，香氣與甜味的層次也更寬。",
         flavor: "白花與乾草，淡淡的紅棗甜，比銀針更有厚度。",
-        pairing: "雞肉、清淡的魚、三明治、瑪德蓮。",
+        pairing: "烤雞、清淡的魚類料理、輕食三明治和瑪德蓮都很合適。白花與乾草的香氣加上比白毫銀針更厚實的茶體,能與清淡的蛋白質料理並立,棗子般的甜味與烘焙點心相呼應。避免香料強烈的食物,以免抹去花香。",
         keep: "常溫密封。放一兩年會多出棗香與蜜香。",
         brewTip: "到90度也不澀。第一泡給足水讓葉子展開。"
       }
@@ -1620,7 +1620,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90도에서 2분, 2포 1분, 3포 2분. 끓여 마시면 5분.",
         origin: "푸젠성. 싹과 잎을 함께 쓰는 잎 위주의 등급으로, 잎이 두껍고 단맛이 강합니다.",
         flavor: "건초와 대추, 살짝 익은 과일 향. 물색은 짙은 살구빛입니다.",
-        pairing: "전, 튀김, 고기 요리, 찜. 기름진 음식과 잘 맞습니다.",
+        pairing: "김치전·해물전, 튀김, 수육 등 고기 요리, 만두찜과 잘 어울립니다. 백차 중 바디가 단단해 건초와 대추의 단맛이 기름진 음식 옆에서도 밀리지 않고, 익은 과일 향이 고기의 풍미를 감싸 줍니다. 섬세한 회에는 차가 무겁게 느껴질 수 있습니다.",
         keep: "상온 밀봉. 3년 이상 두면 약재 향이 나고 5~7년이면 호박색이 됩니다.",
         brewTip: "잎이 두꺼워 90도 이상에서도 쉽게 떫어지지 않습니다. 주전자에 끓여도 좋습니다."
       },
@@ -1633,7 +1633,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90 °C: 2 minutes, then 1 minute, then 2. Simmer for 5 if you boil it.",
         origin: "Fujian. A leaf-forward grade that still uses buds with the leaf: thicker leaf, stronger sweetness.",
         flavor: "Hay and dates with a hint of ripe fruit. The liquor is a deeper apricot.",
-        pairing: "Pancakes, fritters, meat dishes, steamed food. It stands up to richness.",
+        pairing: "Kimchi or seafood jeon, fritters, boiled pork and steamed dumplings suit it well. With the firmest body among white teas, its hay-and-date sweetness holds its own beside rich food, and the ripe-fruit note softly wraps meat flavours. Beside delicate sashimi, though, the tea can feel heavier than the food.",
         keep: "Sealed at room temperature. Three years brings a medicinal note; five to seven, amber.",
         brewTip: "The thick leaf resists bitterness even above 90 °C. Simmering it in a pot works well."
       },
@@ -1646,7 +1646,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡2分钟，第二泡1分钟，第三泡2分钟。煮饮5分钟。",
         origin: "福建。芽叶同用的叶多等级，叶片厚、甜味强。",
         flavor: "干草与红枣，带一点熟果香。汤色是较深的杏色。",
-        pairing: "煎饼、油炸、肉类料理、蒸菜。与油腻的食物很合。",
+        pairing: "泡菜或海鲜煎饼、炸物、白切猪肉和蒸饺都很适合。作为白茶中体感最扎实的一款，它的干草与枣子甘甜在丰盛食物旁不落下风，熟果香气柔和地包裹肉味。但在精致生鱼片旁，茶会显得比食物更厚重。",
         keep: "常温密封。放三年以上有药香，五到七年转为琥珀色。",
         brewTip: "叶厚，90度以上也不易涩。用壶煮也很好。"
       },
@@ -1659,7 +1659,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡2分鐘，第二泡1分鐘，第三泡2分鐘。煮飲5分鐘。",
         origin: "福建。芽葉同用的葉多等級，葉片厚、甜味強。",
         flavor: "乾草與紅棗，帶一點熟果香。湯色是較深的杏色。",
-        pairing: "煎餅、油炸、肉類料理、蒸菜。與油膩的食物很合。",
+        pairing: "泡菜煎餅或海鮮煎餅、炸物、水煮豬肉和蒸餃都很合適。作為白茶中茶體最扎實的一款,乾草與棗子的甜味在豐盛的食物旁毫不遜色,熟果香能柔和地包裹肉味。不過搭配精緻的生魚片時,茶會顯得比食物更厚重。",
         keep: "常溫密封。放三年以上有藥香，五到七年轉為琥珀色。",
         brewTip: "葉厚，90度以上也不易澀。用壺煮也很好。"
       }
@@ -1707,7 +1707,7 @@ window.TEAFaiData = (function () {
         steepBasis: "95도에서 3분, 2포 2분, 3포 3분. 대추·진피를 넣고 약한 불로 끓여도 좋습니다.",
         origin: "푸젠성. 백차를 3년 이상 상온 숙성한 것. ‘일 년 차, 삼 년 약, 칠 년 보배’라는 말이 있습니다.",
         flavor: "대추·약재·말린 과일 향, 부드러운 단맛과 깊은 여운. 물색은 짙은 호박색.",
-        pairing: "한과, 대추, 밤, 겨울 국물 요리. 식후 소화를 돕는 차로 마십니다.",
+        pairing: "한과, 대추, 밤조림, 곰탕 같은 겨울 국물 요리와 어울립니다. 묵어 깊어진 대추와 말린 과일의 단맛이 진한 국물 뒤에 부드럽게 남고, 약재 같은 향이 한과의 은은한 단맛과도 잘 겹칩니다. 가벼운 샐러드류와는 차의 깊이가 도드라져 어울리지 않습니다.",
         keep: "상온 20~25도, 습도 60% 이하, 냄새 없는 곳. 밀봉해 두면 계속 익습니다.",
         brewTip: "끓는 물로. 잎이 두꺼워 3분 이상 우려도 좋습니다. 주전자에 넣고 10분 끓이면 진한 약차가 됩니다."
       },
@@ -1720,7 +1720,7 @@ window.TEAFaiData = (function () {
         steepBasis: "95 °C: 3 minutes, then 2, then 3. Simmer with dates and dried peel if you like.",
         origin: "Fujian. White tea aged at room temperature for three years or more — “one year a tea, three years a medicine, seven a treasure.”",
         flavor: "Dates, medicinal herbs and dried fruit, a soft sweetness and a long finish. Deep amber liquor.",
-        pairing: "Korean sweets, dates, chestnuts, winter broths. Drunk after meals as a digestif.",
+        pairing: "Hangwa sweets, dates, braised chestnuts and winter broths such as gomtang suit it. The deepened date and dried-fruit sweetness of long ageing lingers softly after a rich broth, and its herbal note meets hangwa's gentle sweetness. Beside a light salad, the tea's depth simply takes over.",
         keep: "20–25 °C, below 60% humidity, no odours. Sealed, it keeps maturing.",
         brewTip: "Boiling water. The thick leaf takes three minutes or more; ten minutes in a pot makes a strong medicinal brew."
       },
@@ -1733,7 +1733,7 @@ window.TEAFaiData = (function () {
         steepBasis: "95度泡3分钟，第二泡2分钟，第三泡3分钟。加红枣、陈皮小火煮也很好。",
         origin: "福建。白茶在常温下陈化三年以上。“一年茶、三年药、七年宝”说的就是它。",
         flavor: "红枣、药材、干果香，柔和的甜与深长的余韵。汤色深琥珀。",
-        pairing: "韩式点心、红枣、栗子、冬天的汤菜。饭后作为助消化的茶。",
+        pairing: "韩果、枣、炖栗子和冬日汤品如牛骨汤都很适合。长期陈化加深的枣与干果甘甜在浓郁汤品之后柔和萦绕，草本气息与韩果温和的甜味相遇。在清淡沙拉旁，茶的深度会完全占据主导。",
         keep: "常温20~25度、湿度60%以下、无异味处。密封会继续陈化。",
         brewTip: "用沸水。叶厚，泡3分钟以上也好；放壶里煮10分钟就是浓药茶。"
       },
@@ -1746,7 +1746,7 @@ window.TEAFaiData = (function () {
         steepBasis: "95度泡3分鐘，第二泡2分鐘，第三泡3分鐘。加紅棗、陳皮小火煮也很好。",
         origin: "福建。白茶在常溫下陳化三年以上。「一年茶、三年藥、七年寶」說的就是它。",
         flavor: "紅棗、藥材、乾果香，柔和的甜與深長的餘韻。湯色深琥珀。",
-        pairing: "韓式點心、紅棗、栗子、冬天的湯菜。飯後作為助消化的茶。",
+        pairing: "韓菓、棗子、燉栗子和牛骨湯等冬季湯品都很合適。長期陳放加深的棗子與果乾甜味,在豐盛的湯品之後柔和留存,藥草氣息與韓菓溫和的甜味相遇。搭配清淡沙拉時,茶的深度會直接佔據主導。",
         keep: "常溫20~25度、濕度60%以下、無異味處。密封會繼續陳化。",
         brewTip: "用沸水。葉厚，泡3分鐘以上也好；放壺裡煮10分鐘就是濃藥茶。"
       }
@@ -1793,7 +1793,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90도에서 2분, 두 번째 1분, 세 번째 2분.",
         origin: "푸젠성 푸딩·정허·젠양. 채차 품종의 잎과 싹을 함께 씁니다.",
         flavor: "건초, 은은한 꽃향, 대추 같은 단맛. 수미보다 향이 또렷합니다.",
-        pairing: "한과, 찐 고구마, 담백한 떡.",
+        pairing: "한과, 찐 고구마, 백설기 같은 담백한 떡과 어울립니다. 건초와 꽃 향 사이에 대추 같은 단맛이 있어 고소하고 슴슴한 간식과 겹쳐도 서로를 방해하지 않습니다. 초콜릿처럼 진한 디저트는 은은한 꽃 향을 덮으니 피하는 편이 좋습니다.",
         keep: "상온 밀봉. 오래 두면 약재 향이 나고 맛이 둥글어집니다.",
         brewTip: "90도에서 2분. 잎이 두꺼워 두 번째 우리도 쉽게 우러납니다."
       },
@@ -1806,7 +1806,7 @@ window.TEAFaiData = (function () {
         steepBasis: "Two minutes at 90 °C, then one and two minutes.",
         origin: "Fuding, Zhenghe and Jianyang in Fujian, from the leaves and buds of the cai cha group cultivar.",
         flavor: "Hay, quiet florals, a date-like sweetness — more defined than Shou Mei.",
-        pairing: "Hangwa sweets, steamed sweet potato, plain rice cakes.",
+        pairing: "Hangwa, steamed sweet potato and plain rice cakes such as baekseolgi suit it. A date-like sweetness between hay and florals lets it sit beside nutty, plain snacks without either getting in the way. Avoid rich desserts like chocolate, which cover its quiet florals.",
         keep: "Seal at room temperature; with age it gains a medicinal note and rounds out.",
         brewTip: "Two minutes at 90 °C. The leaf is thick enough for an easy second infusion."
       },
@@ -1819,7 +1819,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡2分钟，第二泡1分钟，第三泡2分钟。",
         origin: "福建福鼎、政和、建阳，用菜茶品种的叶与芽。",
         flavor: "干草、幽微花香、枣般的甜味，比寿眉更有层次。",
-        pairing: "韩果、蒸红薯、清淡年糕。",
+        pairing: "韩果、蒸红薯和白雪糕等原味年糕都很适合。介于干草与花香之间的枣子般甘甜，让它与坚果香、朴素的小吃并坐而不互相干扰。避免巧克力等浓郁甜点，会盖住它安静的花香。",
         keep: "常温密封；久放会出药香，口感更圆润。",
         brewTip: "90度两分钟，叶片厚，第二泡也容易出味。"
       },
@@ -1832,7 +1832,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡2分鐘，第二泡1分鐘，第三泡2分鐘。",
         origin: "福建福鼎、政和、建陽，用菜茶品種的葉與芽。",
         flavor: "乾草、幽微花香、棗般的甜味，比壽眉更有層次。",
-        pairing: "韓果、蒸地瓜、清淡年糕。",
+        pairing: "韓菓、蒸地瓜和白雪糕等原味米糕都很合適。介於乾草與花香之間的棗子甜味,能與堅果香、清淡的小吃並坐而不互相干擾。避免巧克力等濃郁甜點,以免蓋住它安靜的花香。",
         keep: "常溫密封；久放會出藥香，口感更圓潤。",
         brewTip: "90度兩分鐘，葉片厚，第二泡也容易出味。"
       }
@@ -1863,7 +1863,7 @@ window.TEAFaiData = (function () {
         "판편 → 살청 → 홍배(모화·소화·노화). 싹과 줄기를 떼고 잎만 남겨 비비지 않고 만들며, 마지막에 숯불로 한 번 더 건조합니다.",
         "육안차는 명나라 때 공차로 올라갔고, 잎만 쓰는 과편의 형태는 청나라 때 그 안에서 갈라져 나왔습니다. 잎만 쓰는 제법 덕에 향이 오래갑니다.",
         "구운 밤·감자 같은 고소함, 두툼한 바디, 끝의 단맛. 물색은 짙은 노란 연둣빛.",
-        "볶음 요리, 만두, 훈제 오리, 견과.",
+        "채소 볶음, 군만두, 훈제 오리, 볶은 견과와 잘 어울립니다. 구운 밤과 감자 같은 고소함에 두툼한 바디가 있어 볶음 요리의 기름기와 훈제 향을 무리 없이 받아 내고, 끝의 단맛이 입안을 정리해 줍니다. 섬세한 생선회와는 차의 무게가 앞서니 피하세요.",
         "잎이 두꺼워 85도에서도 잘 우러납니다. 물을 먼저 붓고 잎을 얹으세요."
       ],
       en: [
@@ -1877,7 +1877,7 @@ window.TEAFaiData = (function () {
         "Leaf separated → firing → staged baking. Buds and stems are removed, the leaf kept flat without rolling, then dried once more over charcoal.",
         "Lu'an tea itself was Ming tribute; the leaf-only guapian form split off from it under the Qing. Using only leaf is why its aroma keeps so long.",
         "Roasted chestnut and potato, a thick body, sweetness at the end. The liquor is a deep yellow-green.",
-        "Stir-fries, dumplings, smoked duck, nuts.",
+        "Vegetable stir-fries, pan-fried dumplings, smoked duck and roasted nuts suit it well. Roasted chestnut and potato notes with a thick body absorb stir-fry oil and smoke comfortably, and the sweetness at the end tidies the palate. Avoid delicate sashimi, where the tea's weight takes the lead.",
         "The thick leaf opens easily at 85 °C. Water first, leaf on top."
       ],
       "zh-CN": [
@@ -1891,7 +1891,7 @@ window.TEAFaiData = (function () {
         "扳片 → 炒青 → 烘焙（毛火·小火·老火）。去芽去梗只留叶，不经揉捻，最后再用炭火焙一次。",
         "六安茶在明代已是贡茶，只用叶片的瓜片形态在清代从中分化出来。只用叶片的做法让香气留得久。",
         "烤栗子与土豆般的香气，汤体厚，尾端回甜。汤色深黄绿。",
-        "炒菜、饺子、熏鸭、坚果。",
+        "炒蔬菜、煎饺、烟熏鸭和烤坚果都很适合。烤栗子与土豆香气加上厚实的体感，能从容吸收炒菜的油与烟熏味，尾段的甘甜收拾口腔。避免精致生鱼片，茶的厚重会占上风。",
         "叶片厚，85度也很容易出味。先注水再放茶。"
       ],
       "zh-TW": [
@@ -1905,7 +1905,7 @@ window.TEAFaiData = (function () {
         "扳片 → 炒菁 → 烘焙（毛火·小火·老火）。去芽去梗只留葉，不經揉捻，最後再用炭火焙一次。",
         "六安茶在明代已是貢茶，只用葉片的瓜片形態在清代從中分化出來。只用葉片的做法讓香氣留得久。",
         "烤栗子與馬鈴薯般的香氣，湯體厚，尾端回甘。湯色深黃綠。",
-        "炒菜、餃子、燻鴨、堅果。",
+        "炒時蔬、煎餃、煙燻鴨和烘烤堅果都很合適。烘烤栗子與馬鈴薯的香氣加上厚實的茶體,能從容吸收炒菜的油與煙燻味,尾韻的甜味收拾口腔。避免精緻的生魚片,茶的份量會佔上風。",
         "葉片厚，85度也很容易出味。先注水再放茶。"
       ]
     },
@@ -1934,7 +1934,7 @@ window.TEAFaiData = (function () {
         "살청 → 압형 → 건조. 잎을 천과 망에 싸 눌러 편평하게 만들며 격자 자국이 남습니다.",
         "1900년 무렵 후갱의 차농 왕규성이 만들었다는 설이 전하고, ‘후괴’는 원숭이(猴)가 많은 산 이름에서 왔다는 이야기도 있습니다.",
         "난초 향과 옅은 감칠맛, 잎이 커도 떫지 않습니다.",
-        "담백한 생선찜, 죽, 두부.",
+        "담백한 생선찜, 맑은 죽, 연두부와 어울립니다. 큰 잎에서 나오는 난초 향과 옅은 감칠맛은 양념이 적은 음식 옆에서 가장 맑게 느껴지고, 떫음이 없어 부드러운 식감을 해치지 않습니다. 매콤한 양념 요리는 맑은 난초 향을 지워 버리니 피하세요.",
         "키 큰 유리잔에 잎을 세워 우려냅니다. 85도에서 1분 30초."
       ],
       en: [
@@ -1948,7 +1948,7 @@ window.TEAFaiData = (function () {
         "Firing → pressing → drying. The leaf is wrapped in cloth and mesh and pressed flat, which leaves the grid marks.",
         "Tradition credits the Hougang grower Wang Kuisheng around 1900; the name is also said to come from a mountain full of monkeys (hou).",
         "Orchid aroma and a light umami; even a large leaf stays free of bitterness.",
-        "Steamed fish, congee, tofu.",
+        "Lightly steamed fish, clear congee and soft tofu suit it. The orchid aroma and gentle umami of the large leaves taste clearest beside lightly seasoned food, and with no bitterness it never disturbs soft textures. Avoid spicy seasoned dishes, which erase the clean orchid note.",
         "Stand the leaf upright in a tall glass. 85 °C for 1½ minutes."
       ],
       "zh-CN": [
@@ -1962,7 +1962,7 @@ window.TEAFaiData = (function () {
         "炒青 → 压形 → 干燥。用布与网包住叶片压平，留下格纹。",
         "相传1900年前后由猴坑茶农王魁成创制；“猴魁”也有人说是因山中多猴而得名。",
         "兰花香与淡淡的鲜味，叶片虽大却不涩。",
-        "清蒸鱼、粥、豆腐。",
+        "清淡蒸鱼、清粥和嫩豆腐都很适合。大叶的兰花香与温和鲜味在清淡调味的食物旁最清晰，没有苦味，也不会干扰柔软的质地。避免辛辣调味菜，会抹去清雅的兰花香。",
         "用高玻璃杯让叶片竖立冲泡。85度1分30秒。"
       ],
       "zh-TW": [
@@ -1976,7 +1976,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 壓形 → 乾燥。用布與網包住葉片壓平，留下格紋。",
         "相傳1900年前後由猴坑茶農王魁成創制；「猴魁」也有人說是因山中多猴而得名。",
         "蘭花香與淡淡的鮮味，葉片雖大卻不澀。",
-        "清蒸魚、粥、豆腐。",
+        "清蒸魚、清粥和嫩豆腐都很合適。大葉的蘭花香與溫和鮮味,在清淡調味的食物旁最為清晰,且沒有苦味,不會干擾柔軟的質地。避免辛辣調味的菜,以免抹去乾淨的蘭花香。",
         "用高玻璃杯讓葉片豎立沖泡。85度1分30秒。"
       ]
     },
@@ -2005,7 +2005,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 건조. 가는 잎을 손으로 비벼 바늘처럼 곧게 만듭니다.",
         "당나라 문헌에 신양 산지가 기록되어 있고, 1915년 파나마 만국박람회에서 금상을 받았다고 전합니다.",
         "풀잎·밤·옅은 스모크, 산뜻한 떫음.",
-        "두부 요리, 닭고기, 봄나물.",
+        "담백한 두부 조림, 닭가슴살 요리, 두릅·달래 같은 봄나물과 어울립니다. 풀잎과 밤의 향에 옅은 스모크가 겹쳐 슴슴한 재료에 깊이를 더하고, 산뜻한 떫음이 나물의 풋내를 깔끔하게 정리해 줍니다. 크림 소스 요리는 가벼운 향을 눌러 버립니다.",
         "80도에서 1분 30초. 잎이 가늘어 조금만 넘겨도 떫어집니다."
       ],
       en: [
@@ -2019,7 +2019,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → drying. The fine leaf is rolled by hand into straight needles.",
         "Tang records name Xinyang as a tea region, and the tea is said to have taken gold at the 1915 Panama–Pacific exhibition.",
         "Cut grass, chestnut, a faint smoke, and a lively astringency.",
-        "Tofu dishes, chicken, spring greens.",
+        "Plain braised tofu, chicken-breast dishes and spring greens such as dureup and wild chives suit it. Grass, chestnut and a faint smoke add depth to mild ingredients, while its lively astringency tidies the greenness of the vegetables. Cream-sauce dishes press down its light aroma.",
         "80 °C for 1½ minutes. The leaf is fine; a little long and it turns bitter."
       ],
       "zh-CN": [
@@ -2033,7 +2033,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥。细叶靠手工搓成挺直的针形。",
         "唐代文献已记载信阳产茶，相传1915年巴拿马万国博览会获金奖。",
         "青草、栗子、一丝烟熏，涩感清爽。",
-        "豆腐料理、鸡肉、春野菜。",
+        "原味炖豆腐、鸡胸肉菜肴和春菜如山芹、野韭菜都很适合。青草、栗子与淡淡烟香为清淡食材增添深度，活泼的涩感收拾蔬菜的青气。奶油酱汁菜肴会压住它轻盈的香气。",
         "80度1分30秒。叶子细，稍久就涩。"
       ],
       "zh-TW": [
@@ -2047,7 +2047,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥。細葉靠手工搓成挺直的針形。",
         "唐代文獻已記載信陽產茶，相傳1915年巴拿馬萬國博覽會獲金獎。",
         "青草、栗子、一絲煙燻，澀感清爽。",
-        "豆腐料理、雞肉、春野菜。",
+        "原味燉豆腐、雞胸肉料理,以及刺嫩芽、野韭菜等春季野菜都很合適。青草、栗子與淡淡的煙燻能為清淡食材增添深度,活潑的澀感可收拾蔬菜的青味。奶油醬汁料理會壓住它輕盈的香氣。",
         "80度1分30秒。葉子細，稍久就澀。"
       ]
     },
@@ -2076,7 +2076,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 초건 → 재건. 안개로 잎이 얇고 부드러워 낮은 온도로 천천히 덖습니다.",
         "여산의 차는 당·송대부터 알려졌고, ‘여산운무’라는 이름은 명대 문헌에 보입니다.",
         "부드러운 풀 향과 감칠맛, 떫음이 적습니다.",
-        "죽, 흰살생선, 은행.",
+        "맑은 죽, 흰살생선찜, 은행 구이와 어울립니다. 부드러운 풀 향과 감칠맛이 자극 없는 음식의 결을 따라가며, 떫음이 적어 섬세한 생선 맛을 가리지 않습니다. 진한 양념의 찌개류와 곁들이면 맑은 향이 묻히니 피하세요.",
         "80도에서 1분. 잎이 얇아 오래 우리지 않습니다."
       ],
       en: [
@@ -2090,7 +2090,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → first drying → second drying. The mist makes the leaf thin and tender, so it is fired slowly at a low heat.",
         "Tea from Mount Lu was known in Tang and Song times; the name Lushan Yunwu appears in Ming records.",
         "Soft grass and umami, with little astringency.",
-        "Congee, white fish, ginkgo nuts.",
+        "Clear congee, steamed white fish and roasted ginkgo nuts suit it. Its soft grass aroma and umami follow the grain of unstimulating food, and the low astringency never masks delicate fish. Avoid richly seasoned stews, which bury its clean aroma.",
         "80 °C for 1 minute. The leaf is thin, so don't leave it long."
       ],
       "zh-CN": [
@@ -2104,7 +2104,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 初烘 → 复烘。云雾让叶子薄而软，要用低温慢慢焙。",
         "庐山茶在唐宋已知名，“庐山云雾”之名见于明代文献。",
         "柔和的青草香与鲜味，涩感低。",
-        "粥、白身鱼、白果。",
+        "清粥、清蒸白肉鱼和烤银杏都很适合。它柔和的青草香与鲜味顺着无刺激食物的纹理，低涩感不会掩盖精致的鱼味。避免调味浓郁的炖菜，会掩埋它干净的香气。",
         "80度1分钟。叶子薄，不要久泡。"
       ],
       "zh-TW": [
@@ -2118,7 +2118,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 初烘 → 復烘。雲霧讓葉子薄而軟，要用低溫慢慢焙。",
         "廬山茶在唐宋已知名，「廬山雲霧」之名見於明代文獻。",
         "柔和的青草香與鮮味，澀感低。",
-        "粥、白身魚、白果。",
+        "清粥、清蒸白肉魚和烤銀杏都很合適。柔和的青草香與鮮味順著不刺激的食物紋理,低澀感不會掩蓋細緻的魚味。避免調味濃郁的燉菜,以免埋沒它乾淨的香氣。",
         "80度1分鐘。葉子薄，不要久泡。"
       ]
     },
@@ -2148,7 +2148,7 @@ window.TEAFaiData = (function () {
         "증청 → 유념 → 건조 → 강한 볶음. 열로 카테킨과 카페인의 일부를 바꿔 쓰지 않고 고소하게 만듭니다.",
         "1920년대 교토에서 유통되던 차를 볶아 쓰기 시작한 것이 기원으로 전합니다. 아이와 밤에도 마시는 차로 자리 잡았습니다.",
         "볶은 곡물·카라멜·나무 향, 거의 쓰지 않습니다.",
-        "밥, 튀김, 단 디저트. 식후와 밤에.",
+        "따뜻한 밥과 반찬, 튀김, 푸딩이나 카스테라 같은 단 디저트와 잘 어울립니다. 볶은 곡물과 카라멜의 고소한 향이 식사의 마무리와 겹치고, 거의 쓰지 않아 단 디저트 옆에서도 부담이 없습니다. 섬세한 생선회와는 볶은 향이 더 앞서니 따로 즐기세요.",
         "95도에서 1분. 끓는 물을 그대로 부어도 좋습니다."
       ],
       en: [
@@ -2162,7 +2162,7 @@ window.TEAFaiData = (function () {
         "Steaming → rolling → drying → strong roasting. Heat changes catechins and part of the caffeine, so it turns nutty rather than bitter.",
         "It is said to have begun in 1920s Kyoto by roasting tea that was already in circulation; it became the cup for children and for night.",
         "Roasted grain, caramel and wood, with almost no bitterness.",
-        "Rice, fried food, sweet desserts. After meals and at night.",
+        "Warm rice with side dishes, fried food and sweet desserts such as pudding or castella suit it well. Roasted-grain and caramel notes round off a meal, and with almost no bitterness it sits easily beside sweet desserts. Beside delicate sashimi the roast takes the lead, so enjoy it separately there.",
         "95 °C for 1 minute. Pouring boiling water straight on works."
       ],
       "zh-CN": [
@@ -2176,7 +2176,7 @@ window.TEAFaiData = (function () {
         "蒸青 → 揉捻 → 干燥 → 强焙。高温改变儿茶素与部分咖啡因，所以不苦而是焙香。",
         "相传1920年代京都开始把流通中的茶焙炒来喝，后来成了小孩和夜里也能喝的一杯。",
         "焙谷、焦糖与木香，几乎没有苦味。",
-        "米饭、油炸、甜点。饭后与夜里。",
+        "温热米饭配小菜、油炸食物和布丁、卡斯特拉等甜味甜点都很适合。烤谷物与焦糖香气为一餐收尾，几乎没有苦味，与甜味甜点相处轻松。在精致生鱼片旁焙烤香会占上风，那时请分开享用。",
         "95度1分钟。直接冲沸水也行。"
       ],
       "zh-TW": [
@@ -2190,7 +2190,7 @@ window.TEAFaiData = (function () {
         "蒸菁 → 揉捻 → 乾燥 → 強焙。高溫改變兒茶素與部分咖啡因，所以不苦而是焙香。",
         "相傳1920年代京都開始把流通中的茶焙炒來喝，後來成了小孩和夜裡也能喝的一杯。",
         "焙穀、焦糖與木香，幾乎沒有苦味。",
-        "米飯、油炸、甜點。飯後與夜裡。",
+        "熱白飯配小菜、炸物,以及布丁或長崎蛋糕等甜的甜點都很合適。烘烤穀物與焦糖的香氣能為一餐作結,幾乎沒有苦味,與甜點並坐也很自在。在精緻的生魚片旁烘烤味會佔上風,建議分開享用。",
         "95度1分鐘。直接沖沸水也行。"
       ]
     },
@@ -2220,7 +2220,7 @@ window.TEAFaiData = (function () {
         "현미를 볶아 터뜨린 뒤 증청한 센차와 섞습니다.",
         "에도 시대 서민이 적은 차를 아끼려 현미를 섞은 데서 시작했다는 이야기가 전합니다.",
         "누룽지·팝콘 같은 고소함에 센차의 풀 향.",
-        "주먹밥, 튀김, 매운 안주.",
+        "주먹밥, 튀김, 떡볶이 같은 매운 안주와 잘 어울립니다. 누룽지와 팝콘 같은 고소함이 밥 요리와 자연스럽게 이어지고, 센차의 풀 향이 튀김의 기름기와 매운맛을 가볍게 씻어 줍니다. 섬세한 향의 고급 생선 요리와는 고소함이 더 도드라질 수 있습니다.",
         "90도에서 1분. 현미가 뜨면 잠시 기다렸다 마십니다."
       ],
       en: [
@@ -2234,7 +2234,7 @@ window.TEAFaiData = (function () {
         "Brown rice is roasted until it pops, then mixed with steamed sencha.",
         "It is said Edo-era households stretched a little tea by mixing in rice.",
         "Scorched rice and popcorn over sencha's green edge.",
-        "Onigiri, tempura, spicy snacks.",
+        "Onigiri, tempura and spicy snacks such as tteokbokki suit it well. Its scorched-rice and popcorn toastiness flows naturally into rice dishes, while sencha's green edge lightly washes away frying oil and heat. Beside refined fish dishes, its toastiness can stand out more than the food.",
         "90 °C for 1 minute. Let the rice settle before drinking."
       ],
       "zh-CN": [
@@ -2248,7 +2248,7 @@ window.TEAFaiData = (function () {
         "糙米炒到爆开，再与蒸青煎茶混合。",
         "相传江户时代百姓为省茶而掺入玄米，由此开始。",
         "锅巴、爆米花般的香，加上煎茶的青草气。",
-        "饭团、天妇罗、辣味小食。",
+        "饭团、天妇罗和年糕炒辣酱等辛辣小吃都很适合。它锅巴与爆米花般的烘焙香自然流入米饭类食物，煎茶的青绿边缘轻轻洗去油炸油脂与辣味。在精致鱼类菜肴旁，它的烘焙香可能比食物更突出。",
         "90度1分钟。玄米浮起时稍等再喝。"
       ],
       "zh-TW": [
@@ -2262,7 +2262,7 @@ window.TEAFaiData = (function () {
         "糙米炒到爆開，再與蒸菁煎茶混合。",
         "相傳江戶時代百姓為省茶而摻入玄米，由此開始。",
         "鍋巴、爆米花般的香，加上煎茶的青草氣。",
-        "飯糰、天婦羅、辣味小食。",
+        "飯糰、天婦羅和辣炒年糕等辛辣小吃都很合適。鍋巴與爆米花般的烘烤香自然融入米飯料理,煎茶的綠意能輕輕洗去油炸的油膩與辣味。在精緻的魚類料理旁,它的烘烤香可能比食物更突出。",
         "90度1分鐘。玄米浮起時稍等再喝。"
       ]
     },
@@ -2293,7 +2293,7 @@ window.TEAFaiData = (function () {
         "살청(덖음) → 유념 → 건조. 화개 지역은 손으로 덖는 전통을 지켜 잎에 주름이 살아 있습니다.",
         "하동은 신라 흥덕왕 때 차를 들여왔다는 기록이 있는 한국 차의 오랜 산지입니다. 우전은 곡우(4월 20일경) 전에 딴 가장 이른 잎을 말합니다.",
         "풋풋한 잎 향에 고소함, 떫음이 적고 감칠맛이 길게 남습니다.",
-        "나물 비빔밥, 생선구이, 전, 유자 디저트.",
+        "나물 비빔밥, 생선구이, 부추전·해물전, 유자 디저트와 어울립니다. 풋풋한 잎 향과 고소함이 산나물과 구운 생선의 향을 살리고, 떫음이 적어 긴 감칠맛이 음식의 여운과 함께 이어집니다. 유자의 상큼한 향과는 봄의 풋풋함끼리 잘 어울립니다.",
         "70~80도. 첫 물 1분 30초를 넘기지 않으면 떫지 않습니다."
       ],
       en: [
@@ -2307,7 +2307,7 @@ window.TEAFaiData = (function () {
         "Pan-firing → rolling → drying. Hwagae keeps the hand-fired tradition, so the leaf stays crumpled.",
         "Hadong is one of Korea's oldest tea districts, with records of tea arriving under King Heungdeok of Silla. Ujeon means the earliest pick before Grain Rain (around 20 April).",
         "Fresh green leaf with a toasted note, little astringency and a long umami.",
-        "Herb bibimbap, grilled fish, jeon pancakes, citron desserts.",
+        "Herb bibimbap, grilled fish, chive or seafood jeon and citron desserts suit it. Its fresh leaf aroma and toastiness lift mountain greens and grilled fish, and with little astringency the long umami carries through the meal's finish. Citron's brightness meets it freshness for freshness.",
         "70–80 °C. Keep the first pour under 1½ minutes and it won't turn bitter."
       ],
       "zh-CN": [
@@ -2321,7 +2321,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥。花开保留手工炒制传统，叶上留着褶皱。",
         "河东是新罗兴德王时期就有茶传入记载的韩国古老产区。雨前指谷雨（4月20日前后）前采的最早一批。",
         "青草香带焙香，涩味少，鲜味长。",
-        "野菜拌饭、烤鱼、煎饼、柚子甜点。",
+        "香草拌饭、烤鱼、韭菜或海鲜煎饼和柚子甜点都很适合。它新鲜的叶香与烘焙香提升山野菜与烤鱼，涩感很少，悠长的鲜味贯穿用餐结尾。柚子的明亮与它以清新对清新地相遇。",
         "70~80度。第一泡不超过1分30秒就不涩。"
       ],
       "zh-TW": [
@@ -2335,7 +2335,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥。花開保留手工炒製傳統，葉上留著皺褶。",
         "河東是新羅興德王時期就有茶傳入記載的韓國古老產區。雨前指穀雨（4月20日前後）前採的最早一批。",
         "青草香帶焙香，澀味少，鮮味長。",
-        "野菜拌飯、烤魚、煎餅、柚子甜點。",
+        "香草拌飯、烤魚、韭菜煎餅或海鮮煎餅和柚子甜點都很合適。新鮮葉香與烘烤香能提升山野菜與烤魚,澀感低,悠長的鮮味能貫穿一餐的結尾。柚子的明亮與它的清新彼此呼應。",
         "70~80度。第一泡不超過1分30秒就不澀。"
       ]
     },
@@ -2362,7 +2362,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 건조. 우전보다 잎이 조금 굵고 향이 진합니다.",
         "‘세작(細雀)’은 참새의 혀처럼 작다는 뜻으로, 채취 시기로 등급을 나누는 한국 차의 이름입니다.",
         "우전보다 진한 풀 향과 고소함, 끝에 가벼운 떫음.",
-        "보리밥, 된장국, 조림.",
+        "보리밥, 된장국, 무·감자 조림과 잘 어울립니다. 우전보다 진한 풀 향과 고소함이 구수한 집밥의 맛을 받쳐 주고, 끝의 가벼운 떫음이 된장의 짠맛 뒤를 산뜻하게 정리해 줍니다. 섬세한 회 요리에는 풀 향이 조금 강하게 느껴질 수 있습니다.",
         "80도에서 1분 15초. 우전보다 5도 높여도 좋습니다."
       ],
       en: [
@@ -2376,7 +2376,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → drying. The leaf is a little coarser than ujeon and the aroma stronger.",
         "Sejak means fine sparrow, the name of a Korean grade set by picking date.",
         "Stronger grass and toast than ujeon, with a light astringency at the end.",
-        "Barley rice, soybean-paste soup, braised dishes.",
+        "Barley rice, soybean-paste soup and braised radish or potato suit it well. A stronger grass note and toastiness than ujeon support hearty home cooking, and the light astringency at the end refreshes after doenjang's saltiness. Beside delicate sashimi, the grass note can feel a touch strong.",
         "80 °C for 1¼ minutes; five degrees above ujeon suits it."
       ],
       "zh-CN": [
@@ -2390,7 +2390,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥。叶比雨前略粗，香气更浓。",
         "“细雀”意为像麻雀舌一样小，是韩国按采摘时间分级的名称。",
         "青草香与焙香比雨前更浓，尾端略带涩。",
-        "大麦饭、大酱汤、炖菜。",
+        "大麦饭、大酱汤和炖萝卜或土豆都很适合。比雨前茶更强的青草气息与烘焙香支撑着扎实的家常菜，尾段轻微涩感在大酱的咸味之后带来清爽。在精致生鱼片旁，青草气息可能略显强。",
         "80度1分15秒。比雨前高5度也合适。"
       ],
       "zh-TW": [
@@ -2404,7 +2404,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥。葉比雨前略粗，香氣更濃。",
         "「細雀」意為像麻雀舌一樣小，是韓國按採摘時間分級的名稱。",
         "青草香與焙香比雨前更濃，尾端略帶澀。",
-        "大麥飯、大醬湯、燉菜。",
+        "大麥飯、大醬湯和燉蘿蔔或燉馬鈴薯都很合適。比雨前茶更明顯的青草香與烘烤香能支撐扎實的家常菜,尾韻輕微的澀感在大醬的鹹味之後帶來清爽。在精緻的生魚片旁,青草香可能略顯強烈。",
         "80度1分15秒。比雨前高5度也合適。"
       ]
     },
@@ -2431,7 +2431,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 건조. 잎이 두꺼워 우전보다 센 불에 짧게 덖습니다.",
         "중작은 ‘중간 참새’라는 뜻으로, 우전·세작보다 늦게 딴 등급입니다.",
         "구수함과 떫음이 함께, 물색은 짙은 연둣빛.",
-        "된장찌개, 고등어구이, 김치전.",
+        "된장찌개, 고등어구이, 김치전과 잘 어울립니다. 구수함과 떫음이 함께 있어 진한 찌개와 기름진 생선구이 옆에서도 밀리지 않고, 김치전의 매콤함 뒤에 입안을 개운하게 씻어 줍니다. 담백한 생선찜 같은 섬세한 음식에는 떫음이 앞서니 피하세요.",
         "85도에서 1분. 잎이 두꺼워도 1분을 넘기면 떫습니다."
       ],
       en: [
@@ -2445,7 +2445,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → drying. Thicker leaf, so a hotter, shorter firing than ujeon.",
         "Jungjak means middle sparrow, a grade picked after ujeon and sejaak.",
         "Toast and astringency together; the liquor is a deep green.",
-        "Soybean-paste stew, grilled mackerel, kimchi pancakes.",
+        "Soybean-paste stew, grilled mackerel and kimchi pancakes suit it well. Toastiness and astringency together hold their own beside rich stew and oily grilled fish, and it rinses the palate cleanly after kimchi jeon's heat. Avoid delicate dishes such as plain steamed fish, where the astringency takes the lead.",
         "85 °C for 1 minute. Even a thick leaf turns bitter past it."
       ],
       "zh-CN": [
@@ -2459,7 +2459,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥。叶片厚，用比雨前更高的火短炒。",
         "“中雀”是中等麻雀之意，比雨前、细雀更晚采的等级。",
         "焙香与涩味并存，汤色深绿。",
-        "大酱汤、烤青花鱼、泡菜煎饼。",
+        "大酱炖菜、烤鲭鱼和泡菜煎饼都很适合。烘焙香与涩感共同在浓郁炖菜与油润烤鱼旁站稳，能干净地漱清泡菜煎饼辣味之后的口腔。避免清蒸鱼等精致菜肴，涩感会占上风。",
         "85度1分钟。叶再厚，超过1分钟也会涩。"
       ],
       "zh-TW": [
@@ -2473,7 +2473,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥。葉片厚，用比雨前更高的火短炒。",
         "「中雀」是中等麻雀之意，比雨前、細雀更晚採的等級。",
         "焙香與澀味並存，湯色深綠。",
-        "大醬湯、烤青花魚、泡菜煎餅。",
+        "大醬鍋、烤鯖魚和泡菜煎餅都很合適。烘烤香與澀感並行,能在豐盛的燉菜與油潤的烤魚旁站穩,泡菜煎餅的辣味之後能乾淨地洗淨口腔。避免清蒸魚等精緻料理,澀感會佔上風。",
         "85度1分鐘。葉再厚，超過1分鐘也會澀。"
       ]
     },
@@ -2500,7 +2500,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 건조. 잎이 굵어 덖는 시간이 길고 대량으로 만들어집니다.",
         "‘대작’은 큰 참새라는 뜻으로, 채취 등급의 마지막 자리입니다. 식당에서 흔히 쓰는 자리이기도 합니다.",
         "구수함과 뚜렷한 떫음, 뜨거울 때보다 식으면 부드럽습니다.",
-        "매운 찌개, 고기 요리, 식당 밥.",
+        "매운 찌개, 제육볶음 같은 고기 요리, 백반과 잘 어울립니다. 뚜렷한 떫음과 구수함이 매운맛과 기름기를 단단히 받아 내고, 차가 조금 식으면 떫음이 부드러워져 밥과 함께 마시기 편해집니다. 섬세한 향의 고급 녹차 요리와는 거친 맛이 부딪힙니다.",
         "90도 이상. 끓는 물에 오래 우리면 떫으니 1분을 지키세요."
       ],
       en: [
@@ -2514,7 +2514,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → drying. Coarse leaf, longer firing, made in quantity.",
         "Daejak means big sparrow, the last grade of the picking year — the cup restaurants pour.",
         "Toast with a clear astringency that softens as the cup cools.",
-        "Spicy stews, meat dishes, plain rice.",
+        "Spicy stews, meat dishes such as stir-fried pork and a plain rice set meal suit it well. Its clear astringency and toastiness firmly handle heat and grease, and as the cup cools the astringency softens, making it easy to drink with rice. Its rougher taste clashes with refined, delicately flavoured dishes.",
         "90 °C or above. Long steeping in boiling water turns it bitter; keep it to a minute."
       ],
       "zh-CN": [
@@ -2528,7 +2528,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥。叶粗、炒得久，产量大。",
         "“大雀”意为大麻雀，是采摘等级的最后一档，也是餐馆常备的茶。",
         "焙香与明显的涩，凉下来会变柔和。",
-        "辣汤、肉类料理、白饭。",
+        "辛辣炖菜、炒猪肉等肉类菜肴和原味米饭套餐都很适合。它清爽的涩感与烘焙香有力地应对辣味与油脂，茶汤放凉后涩感柔和，配米饭易饮。它较粗犷的滋味与精致细腻的菜肴相冲突。",
         "90度以上。沸水久泡会涩，控制在1分钟。"
       ],
       "zh-TW": [
@@ -2542,7 +2542,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥。葉粗、炒得久，產量大。",
         "「大雀」意為大麻雀，是採摘等級的最後一檔，也是餐館常備的茶。",
         "焙香與明顯的澀，涼下來會變柔和。",
-        "辣湯、肉類料理、白飯。",
+        "辛辣燉菜、炒豬肉等肉類料理和原味白飯套餐都很合適。清晰的澀感與烘烤香能有力地應對辣味與油脂,茶湯放涼後澀感變柔和,配飯很容易入口。它較粗獷的味道與精緻細膩的料理不合。",
         "90度以上。沸水久泡會澀，控制在1分鐘。"
       ]
     },
@@ -2571,7 +2571,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 건조. 모두 손으로 하며, 가마솥에서 두 손으로 300번 넘게 뒤집어 덖습니다.",
         "‘죽로(竹露)’는 대나무에 맺힌 이슬이라는 뜻으로, 하동 악양의 차밭 이름에서 왔다는 설이 있습니다.",
         "야생 차 특유의 깊은 감칠맛과 꽃 향, 떫음이 적습니다.",
-        "나물, 버섯, 담백한 생선, 한과.",
+        "고사리·취나물 같은 산나물, 버섯 볶음, 담백한 생선구이, 한과와 어울립니다. 야생 차의 깊은 감칠맛과 꽃 향이 산나물의 쌉싸름함과 버섯의 향을 받쳐 주고, 떫음이 적어 음식의 결을 해치지 않습니다. 강한 양념의 고기 요리는 섬세한 꽃 향을 덮습니다.",
         "75도에서 1분 30초. 손으로 덖은 잎은 물을 넉넉히 머금습니다."
       ],
       en: [
@@ -2585,7 +2585,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → drying, all by hand: more than 300 turns in an iron pot with both palms.",
         "Jukro means bamboo dew, said to come from the name of a tea garden in Agyang.",
         "The deep umami and floral note of wild leaf, with little astringency.",
-        "Wild greens, mushrooms, light fish, Korean sweets.",
+        "Mountain greens such as bracken and aster, stir-fried mushrooms, lightly grilled fish and hangwa suit it. The deep umami and florals of wild leaf support the greens' slight bitterness and the mushrooms' aroma, and low astringency never disturbs the food's texture. Strongly seasoned meat covers its delicate florals.",
         "75 °C for 1½ minutes. Hand-fired leaf holds plenty of water."
       ],
       "zh-CN": [
@@ -2599,7 +2599,7 @@ window.TEAFaiData = (function () {
         "炒青 → 揉捻 → 干燥，全部手工，在铁锅里用手翻300多次。",
         "“竹露”指竹叶上的露水，据说来自岳阳一处茶园的名字。",
         "野生茶特有的深厚鲜味与花香，涩味少。",
-        "野菜、菌菇、清淡的鱼、韩式点心。",
+        "蕨菜、紫菀等山野菜、炒蘑菇、清淡烤鱼和韩果都很适合。野生叶深厚的鲜味与花香支撑野菜微微的苦与蘑菇的香气，低涩感不会干扰食物质地。调味浓重的肉类会盖住它细腻的花香。",
         "75度1分30秒。手工炒的叶子吸水量大。"
       ],
       "zh-TW": [
@@ -2613,7 +2613,7 @@ window.TEAFaiData = (function () {
         "炒菁 → 揉捻 → 乾燥，全部手工，在鐵鍋裡用手翻300多次。",
         "「竹露」指竹葉上的露水，據說來自岳陽一處茶園的名字。",
         "野生茶特有的深厚鮮味與花香，澀味少。",
-        "野菜、菌菇、清淡的魚、韓式點心。",
+        "高麗菜等山野菜(蕨菜、紫菀)、炒蘑菇、微烤的魚和韓菓都很合適。野生葉深沉的鮮味與花香能支撐野菜微微的苦味與蘑菇的香氣,低澀感不會干擾食物的質地。調味濃重的肉會蓋住它細緻的花香。",
         "75度1分30秒。手工炒的葉子吸水量大。"
       ]
     },
@@ -2642,7 +2642,7 @@ window.TEAFaiData = (function () {
         "살청 → 초홍 → 종이에 싸서 민황(초포) → 복홍 → 재포 → 족화. 싹의 원형을 그대로 지키며 만들며, 우릴 때 싹이 물에 서는 것으로 유명합니다.",
         "당나라 때 이름이 났고 오대(五代)부터 공차로 바쳐졌으며, 청나라 때는 ‘황금보다 귀하다’는 말이 있었습니다. 우릴 때 싹이 세 번 오르내린다는 이야기가 전합니다.",
         "옅은 노란 물색, 옥수수·버터 같은 단맛, 떫음이 거의 없습니다.",
-        "담백한 생선찜, 죽, 은행.",
+        "담백한 생선찜, 맑은 죽, 은행 구이와 어울립니다. 옥수수와 버터 같은 포근한 단맛이 슴슴한 음식에 부드럽게 겹치고, 떫음이 거의 없어 섬세한 맛을 가리지 않습니다. 매운 양념 요리는 포근한 단맛과 꽃 같은 여운을 지워 버리니 피하세요.",
         "85도. 유리잔에 우리면 싹이 서는 모습을 볼 수 있습니다."
       ],
       en: [
@@ -2656,7 +2656,7 @@ window.TEAFaiData = (function () {
         "Firing → first bake → wrapped in paper to yellow → rebaked → rewrapped → finished over fire. The buds keep their natural shape; in the glass they are famous for standing upright.",
         "Famed in Tang times and sent as tribute from the Five Dynasties on, under the Qing it was said to be worth more than gold. Tradition says the buds rise and fall three times as they steep.",
         "A pale yellow liquor, corn-and-butter sweetness, almost no astringency.",
-        "Steamed fish, congee, ginkgo nuts.",
+        "Lightly steamed fish, clear congee and roasted ginkgo nuts suit it. Its cosy corn-and-butter sweetness layers softly over plain food, and with almost no astringency it never masks delicate flavours. Avoid spicy seasoned dishes, which erase its warm sweetness and floral finish.",
         "85 °C. In a glass you can watch the buds stand up."
       ],
       "zh-CN": [
@@ -2670,7 +2670,7 @@ window.TEAFaiData = (function () {
         "杀青 → 初烘 → 纸包闷黄（初包）→ 复烘 → 复包 → 足火。保持芽的原形，冲泡时芽竖立是它的标志。",
         "唐代盛名，五代起为贡茶，清代有“贵于黄金”之说。相传冲泡时芽会在杯中三起三落。",
         "汤色浅黄，玉米与奶油般的甜，几乎没有涩味。",
-        "清蒸鱼、粥、白果。",
+        "清淡蒸鱼、清粥和烤银杏都很适合。它温馨的玉米与黄油甘甜柔和地叠在朴素食物之上，几乎没有涩感，不会掩盖精致滋味。避免辛辣调味菜，会抹去它温暖的甘甜与花香尾韵。",
         "85度。用玻璃杯能看见芽竖起来的样子。"
       ],
       "zh-TW": [
@@ -2684,7 +2684,7 @@ window.TEAFaiData = (function () {
         "殺菁 → 初烘 → 紙包悶黃（初包）→ 復烘 → 復包 → 足火。保持芽的原形，沖泡時芽豎立是它的標誌。",
         "唐代盛名，五代起為貢茶，清代有「貴於黃金」之說。相傳沖泡時芽會在杯中三起三落。",
         "湯色淺黃，玉米與奶油般的甜，幾乎沒有澀味。",
-        "清蒸魚、粥、白果。",
+        "清蒸魚、清粥和烤銀杏都很合適。溫暖的玉米與奶油甜香柔和地疊在清淡食物之上,幾乎沒有澀感,不會掩蓋細緻的味道。避免辛辣調味的菜,以免抹去它溫暖的甜味與花香尾韻。",
         "85度。用玻璃杯能看見芽豎起來的樣子。"
       ]
     },
@@ -2712,7 +2712,7 @@ window.TEAFaiData = (function () {
         "살청 → 민황 → 건조. 싹을 솥에 덖은 뒤 쌓아 두어 스스로 노랗게 익게 합니다.",
         "서한 때 차를 심었다는 전승이 있는 산지로, 당나라 때부터 공차로 바쳐진 중국에서 가장 오래된 명차 가운데 하나입니다.",
         "옥수수·버터·은은한 꽃 향, 부드러운 단맛.",
-        "중식, 죽, 달걀 요리.",
+        "담백한 중식 볶음, 죽, 달걀찜이나 스크램블 같은 달걀 요리와 어울립니다. 옥수수와 버터의 부드러운 단맛이 달걀의 고소함과 잘 겹치고, 은은한 꽃 향이 기름지지 않은 중식과도 가볍게 어울립니다. 마라처럼 강한 향신료 요리는 부드러운 향을 덮습니다.",
         "85도에서 1분 30초. 민황한 잎은 열에 약합니다."
       ],
       en: [
@@ -2726,7 +2726,7 @@ window.TEAFaiData = (function () {
         "Firing → menhuang → drying. The buds are fired in a pan, then piled so they yellow on their own.",
         "Tradition says tea was planted here in the Western Han; sent as tribute from the Tang on, it is among China's oldest famous teas.",
         "Corn, butter and a quiet floral note, with a soft sweetness.",
-        "Chinese dishes, congee, egg dishes.",
+        "Light Chinese stir-fries, congee and egg dishes such as steamed egg or scrambled eggs suit it. Its soft corn-and-butter sweetness meets the richness of egg, and the quiet florals sit lightly with non-greasy Chinese food. Strongly spiced dishes such as mala cover its gentle aroma.",
         "85 °C for 1½ minutes. Yellowed leaf dislikes heat."
       ],
       "zh-CN": [
@@ -2740,7 +2740,7 @@ window.TEAFaiData = (function () {
         "杀青 → 闷黄 → 干燥。芽在锅里炒过再堆起来，让它自己转黄。",
         "相传西汉已在此种茶，唐代起为贡茶，是中国最古老的名茶之一。",
         "玉米、奶油与淡淡花香，柔和的甜。",
-        "中餐、粥、蛋类料理。",
+        "清淡中式小炒、清粥和蒸蛋或炒蛋等蛋类菜肴都很适合。它柔和的玉米与黄油甘甜与蛋的丰润相遇，安静的花香与不油腻的中餐轻轻相伴。麻辣等香料浓重的菜肴会盖住它温和的香气。",
         "85度1分30秒。闷黄过的叶子怕热。"
       ],
       "zh-TW": [
@@ -2754,7 +2754,7 @@ window.TEAFaiData = (function () {
         "殺菁 → 悶黃 → 乾燥。芽在鍋裡炒過再堆起來，讓它自己轉黃。",
         "相傳西漢已在此種茶，唐代起為貢茶，是中國最古老的名茶之一。",
         "玉米、奶油與淡淡花香，柔和的甜。",
-        "中餐、粥、蛋類料理。",
+        "清淡的中式炒菜、粥,以及蒸蛋或炒蛋等蛋料理都很合適。柔和的玉米與奶油甜香與蛋的豐潤相遇,安靜的花香輕輕陪伴不油膩的中菜。麻辣等香料濃重的菜會蓋住它溫和的香氣。",
         "85度1分30秒。悶黃過的葉子怕熱。"
       ]
     },
@@ -2782,7 +2782,7 @@ window.TEAFaiData = (function () {
         "살청 → 민황 → 건조. 잎을 살짝 덖어 민황한 뒤 낮은 온도로 말립니다.",
         "명나라 때 곽산의 차가 공차로 올라갔다는 기록이 있습니다. 오랫동안 소량만 만들어졌습니다.",
         "부드러운 곡물 향과 단맛, 끝의 옅은 떫음.",
-        "담백한 중식, 죽, 견과.",
+        "담백한 중식, 맑은 죽, 볶은 견과와 어울립니다. 부드러운 곡물 향과 단맛이 자극 없는 음식의 고소함을 따라가고, 끝의 옅은 떫음이 입안을 가볍게 정리해 줍니다. 진한 소스의 고기 요리와는 곡물 향이 묻히니 피하는 편이 좋습니다.",
         "85도에서 1분 20초. 잎이 작아 금방 우러납니다."
       ],
       en: [
@@ -2796,7 +2796,7 @@ window.TEAFaiData = (function () {
         "Firing → menhuang → drying. The leaf is lightly fired, yellowed, then dried at low heat.",
         "Ming records list Huoshan tea as tribute; for centuries it was made only in small amounts.",
         "Soft grain and sweetness with a faint astringency at the end.",
-        "Light Chinese dishes, congee, nuts.",
+        "Light Chinese dishes, clear congee and roasted nuts suit it. Its soft grain aroma and sweetness follow the savouriness of unstimulating food, and the faint astringency at the end lightly tidies the palate. Avoid meat in rich sauces, where the grain note gets buried.",
         "85 °C for 1¼ minutes. The small leaf opens quickly."
       ],
       "zh-CN": [
@@ -2810,7 +2810,7 @@ window.TEAFaiData = (function () {
         "杀青 → 闷黄 → 干燥。轻炒后闷黄，再低温烘干。",
         "明代有霍山茶入贡的记载，长期只少量制作。",
         "柔和的谷物香与甜，尾端淡淡涩感。",
-        "清淡中餐、粥、坚果。",
+        "清淡中式菜肴、清粥和烤坚果都很适合。它柔和的谷物香与甘甜顺着无刺激食物的咸鲜，尾段淡淡的涩感轻轻收拾口腔。避免浓酱肉类，谷物香会被掩埋。",
         "85度1分20秒。叶小，出味快。"
       ],
       "zh-TW": [
@@ -2824,7 +2824,7 @@ window.TEAFaiData = (function () {
         "殺菁 → 悶黃 → 乾燥。輕炒後悶黃，再低溫烘乾。",
         "明代有霍山茶入貢的記載，長期只少量製作。",
         "柔和的穀物香與甜，尾端淡淡澀感。",
-        "清淡中餐、粥、堅果。",
+        "清淡的中菜、清粥和烘烤堅果都很合適。柔和的穀物香與甜味順著不刺激食物的鮮味,尾韻淡淡的澀感輕輕收拾口腔。避免濃醬肉類,穀物香會被埋沒。",
         "85度1分20秒。葉小，出味快。"
       ]
     },
@@ -2854,7 +2854,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청(6~8회) → 살청 → 유념(천으로 싸서 반구형으로 뭉침) → 건조 → 약한 배화.",
         "1720년대 안시 송암촌의 차농 위음이 관음암 근처에서 찾은 나무에서 시작되었다는 이야기가 전합니다. 이름은 철처럼 무겁고 관음보살처럼 자비롭다는 뜻으로 풀이됩니다.",
         "난초·백합 향, 크림 같은 질감, 끝의 옅은 떫음과 돌아오는 단맛(회감).",
-        "구운 고기, 치즈, 견과, 우롱 밀크티.",
+        "구운 고기와 숙성 치즈, 볶은 견과류, 우롱 밀크티와 잘 어울립니다. 난초 향과 크림 같은 질감이 기름진 맛을 부드럽게 감싸고, 끝의 옅은 떫음이 입을 개운하게 정리해 줍니다. 향이 섬세하니 마늘·고추 양념이 강한 음식은 피하세요.",
         "첫 물은 세차로 버립니다. 구형 차는 포다에 충분히 열려야 하므로 45초를 지키세요."
       ],
       en: [
@@ -2868,7 +2868,7 @@ window.TEAFaiData = (function () {
         "Withering → bruising (6–8 rounds) → firing → rolling into cloth-wrapped balls → drying → light roasting.",
         "Tradition traces it to a bush found near the Guanyin temple by Wei Yin of Songyan village in the 1720s; the name is read as heavy as iron and as merciful as Guanyin.",
         "Orchid and lily, a creamy texture, a faint astringency that turns into returning sweetness.",
-        "Grilled meat, cheese, nuts, oolong milk tea.",
+        "It pairs well with grilled meat, aged cheese, roasted nuts and oolong milk tea. The orchid aroma and creamy texture softly wrap rich, fatty flavors, while the faint astringency at the end leaves the mouth refreshed. Its scent is delicate, so avoid dishes heavy with garlic or chili seasoning.",
         "Rinse the first pour away. A rolled tea needs the full 45 seconds to open."
       ],
       "zh-CN": [
@@ -2882,7 +2882,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 摇青（6~8次）→ 杀青 → 揉捻（布包揉成半球）→ 干燥 → 轻焙火。",
         "相传1720年代安溪松岩村茶农魏荫在观音岩附近发现一株茶树，由此开始。名字被解为“铁一般重、观音般慈悲”。",
         "兰花与百合香，奶油般的质地，尾端轻涩转为回甘。",
-        "烤肉、奶酪、坚果、乌龙奶茶。",
+        "与烤肉、熟成奶酪、烤坚果和乌龙奶茶都很搭配。兰花香与奶油般质地柔和地包裹丰润油脂的滋味，尾段淡淡的涩感让口腔清爽。它的香气细腻，避免蒜味或辣椒调味重的菜肴。",
         "第一泡洗茶倒掉。球形茶第一泡要足45秒才展开。"
       ],
       "zh-TW": [
@@ -2896,7 +2896,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 搖菁（6~8次）→ 殺菁 → 揉捻（布包揉成半球）→ 乾燥 → 輕焙火。",
         "相傳1720年代安溪松岩村茶農魏蔭在觀音岩附近發現一株茶樹，由此開始。名字被解為「鐵一般重、觀音般慈悲」。",
         "蘭花與百合香，奶油般的質地，尾端輕澀轉為回甘。",
-        "烤肉、起司、堅果、烏龍奶茶。",
+        "很適合搭配烤肉、熟成起司、烘烤堅果和烏龍奶茶。蘭花香與綿密的質地柔和地包裹豐厚油潤的味道,尾韻淡淡的澀感讓口腔恢復清爽。它的香氣細緻,請避免大蒜或辣椒調味重的菜。",
         "第一泡洗茶倒掉。球形茶第一泡要足45秒才展開。"
       ]
     },
@@ -2926,7 +2926,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청 → 살청 → 유념 → 건조 → 배화(숯불에 3~6회).",
         "명나라 때 과거길의 수재 정현(丁顯)이 우이산의 차로 병이 나은 뒤 붉은 도포를 바위에 걸었다는 전설이 있습니다. 모수는 구룡과(九龍窠) 절벽의 여섯 그루로 전합니다.",
         "구운 곡물·코코아·젖은 바위 냄새, 두꺼운 바디, 긴 여운.",
-        "양고기, 훈제 오리, 된장 요리, 다크초콜릿.",
+        "양고기 구이, 훈제 오리, 된장찌개 같은 된장 요리, 카카오 함량이 높은 다크초콜릿과 잘 맞습니다. 구운 곡물과 코코아 향이 훈연 향·된장의 구수함과 겹치고, 두꺼운 바디가 진한 맛에 밀리지 않습니다. 신맛이 강한 샐러드나 초절임과는 향이 부딪힙니다.",
         "끓는 물 98~100도. 첫 물은 세차. 배화한 차는 3포부터 향이 열립니다."
       ],
       en: [
@@ -2940,7 +2940,7 @@ window.TEAFaiData = (function () {
         "Withering → bruising → firing → rolling → drying → charcoal roasting, three to six times.",
         "Legend has it that Ding Xian, a scholar on his way to the examinations, was cured by Wuyi tea and hung his red robe on the rock in thanks; the mother bushes are the six on the Jiulongke cliff.",
         "Roasted grain, cocoa and wet rock, a thick body and a long finish.",
-        "Lamb, smoked duck, soybean-paste dishes, dark chocolate.",
+        "It goes well with grilled lamb, smoked duck, soybean-paste dishes such as doenjang stew, and high-cacao dark chocolate. The roasted grain and cocoa notes overlap with smoky flavors and the savoriness of fermented paste, and the thick body stands up to rich food. Its aroma clashes with sharply sour salads or pickles.",
         "98–100 °C. Rinse first. A roasted tea opens from the third infusion."
       ],
       "zh-CN": [
@@ -2954,7 +2954,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 炭焙（3~6次）。",
         "相传明代赴考的书生丁显因武夷茶治愈顽疾，把红袍披在岩上以示感恩；母树为九龙窠岩壁上的六株。",
         "焙谷、可可与湿岩气息，汤体厚，余韵长。",
-        "羊肉、熏鸭、大酱料理、黑巧克力。",
+        "与烤羊肉、烟熏鸭、大酱炖菜等豆酱菜肴和高可可含量黑巧克力都很搭配。烤谷物与可可香气与烟熏味和发酵酱的咸鲜重叠，厚实的体感能站稳于丰盛食物。它的香气与尖锐酸味的沙拉或泡菜相冲突。",
         "98~100度沸水。第一泡洗茶。焙火车从第三泡开始展开。"
       ],
       "zh-TW": [
@@ -2968,7 +2968,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 炭焙（3~6次）。",
         "相傳明代赴考的書生丁顯因武夷茶治癒頑疾，把紅袍披在岩上以示感恩；母樹為九龍窠岩壁上的六株。",
         "焙穀、可可與濕岩氣息，湯體厚，餘韻長。",
-        "羊肉、燻鴨、大醬料理、黑巧克力。",
+        "很適合搭配烤羊肉、煙燻鴨、大醬鍋等豆瓣醬類料理,以及高可可含量的黑巧克力。烘烤穀物與可可的香氣與煙燻味、發酵醬料的鮮鹹重疊,厚實的茶體能站得住豐盛的食物。它的香氣與酸味尖銳的沙拉或泡菜衝突。",
         "98~100度沸水。第一泡洗茶。焙火茶從第三泡開始展開。"
       ]
     },
@@ -2996,7 +2996,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청(자주) → 살청 → 유념 → 건조 → 가벼운 배화.",
         "봉황산의 오래된 차나무를 한 그루씩 따로 만들어 ‘한 그루 한 향(單叢)’이라 부른 데서 이름이 왔습니다.",
         "백화향·치자·꿀 같은 화향이 매우 선명하고, 끝에 떫음과 회감이 옵니다.",
-        "과일, 치즈, 구운 생선, 우롱 하이볼.",
+        "신선한 과일과 부드러운 치즈, 껍질 바삭하게 구운 생선, 얼음을 띄운 우롱 하이볼과 잘 어울립니다. 치자와 꿀 같은 선명한 화향이 과일의 단맛과 어우러지고, 끝의 떫음과 회감이 생선의 기름기를 씻어 줍니다. 진한 크림소스 요리는 꽃향을 덮어 버립니다.",
         "짧게 여러 번. 15~30초를 넘기면 화향이 무너집니다."
       ],
       en: [
@@ -3010,7 +3010,7 @@ window.TEAFaiData = (function () {
         "Withering → repeated bruising → firing → rolling → drying → light roasting.",
         "Each old bush on Phoenix Mountain is made separately, hence dancong — single bush.",
         "Very clear white-flower, gardenia and honey aromas, with astringency and returning sweetness at the end.",
-        "Fruit, cheese, grilled fish, an oolong highball.",
+        "It pairs well with fresh fruit, soft cheese, fish grilled with crisp skin, and an iced oolong highball. The vivid gardenia and honey florals mingle with the fruit's sweetness, while the astringency and returning sweetness at the end wash away the fish's oiliness. Rich cream-sauce dishes will bury the floral aroma.",
         "Short and many. Past 15–30 seconds the flowers fall apart."
       ],
       "zh-CN": [
@@ -3024,7 +3024,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 反复摇青 → 杀青 → 揉捻 → 干燥 → 轻焙火。",
         "凤凰山的老树一棵一棵单独制作，所以叫“单丛”。",
         "白花香、栀子与蜂蜜香非常清晰，尾端带涩与回甘。",
-        "水果、奶酪、烤鱼、乌龙高球。",
+        "与新鲜水果、软奶酪、脆皮烤鱼和冰乌龙高球都很搭配。鲜明的栀子花与蜂蜜花香与水果的甘甜交融，尾段的涩感与回甘洗去鱼的油腻。浓郁奶油酱汁菜肴会掩埋花香。",
         "短泡多泡。超过15~30秒花香就散了。"
       ],
       "zh-TW": [
@@ -3038,7 +3038,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 反覆搖菁 → 殺菁 → 揉捻 → 乾燥 → 輕焙火。",
         "鳳凰山的老樹一棵一棵單獨製作，所以叫「單叢」。",
         "白花香、梔子與蜂蜜香非常清晰，尾端帶澀與回甘。",
-        "水果、起司、烤魚、烏龍高球。",
+        "很適合搭配新鮮水果、軟質起司、脆皮烤魚,以及冰烏龍高球酒。鮮明的梔子花與蜂蜜花香與水果的甜味交融,尾韻的澀感與回甘能洗去魚的油膩。濃郁的奶油醬料理會埋沒花香。",
         "短泡多泡。超過15~30秒花香就散了。"
       ]
     },
@@ -3066,7 +3066,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청 → 살청 → 유념 → 건조 → 중간 배화.",
         "1855년 과거에 합격한 임봉지(林鳳池)가 푸젠 우이산에서 묘목 36주를 가져와 심었다는 이야기가 전합니다. ‘동정’은 발끝이 얼 만큼 추운 산길을 올라야 닿는 산꼭대기라는 민간 어원이 전합니다.",
         "구운 곡물과 밤, 난초 향, 부드러운 단맛.",
-        "구운 채소, 삼겹살, 파인애플, 치즈.",
+        "구운 채소와 삼겹살, 구운 파인애플, 숙성 치즈와 잘 어울립니다. 구운 곡물과 밤의 고소함이 고기의 풍미를 받쳐 주고, 부드러운 단맛이 삼겹살의 느끼함을 덜어 줍니다. 신맛이 도드라지는 피클류와는 단맛의 균형이 깨지기 쉽습니다.",
         "95도에서 45초. 배화가 중간이라 2포부터 단맛이 올라옵니다."
       ],
       en: [
@@ -3080,7 +3080,7 @@ window.TEAFaiData = (function () {
         "Withering → bruising → firing → rolling → drying → medium roasting.",
         "In 1855 the examination graduate Lin Fengchi is said to have brought 36 seedlings from Wuyi in Fujian and planted them here; folk etymology says dong ding, 'frozen peak', names a summit reached by a path cold enough to freeze your toes.",
         "Roasted grain and chestnut, orchid, a soft sweetness.",
-        "Roasted vegetables, pork belly, pineapple, cheese.",
+        "It pairs well with roasted vegetables, pork belly, grilled pineapple and aged cheese. The roasted grain and chestnut richness supports the meat's flavor, and the soft sweetness eases the pork belly's greasiness. Strongly sour pickles can throw its sweet balance off.",
         "95 °C for 45 seconds. With medium roast the sweetness rises from the second infusion."
       ],
       "zh-CN": [
@@ -3094,7 +3094,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 中焙火。",
         "相传1855年举人林凤池从福建武夷山带回36株茶苗种植。“冻顶”民间说法指上山路冷得冻脚的山顶。",
         "焙谷与栗子、兰花香，柔和的甜。",
-        "烤蔬菜、五花肉、凤梨、奶酪。",
+        "与烤蔬菜、五花肉、烤菠萝和熟成奶酪都很搭配。烤谷物与栗子的丰润支撑肉的滋味，柔和的甘甜缓和五花肉的油腻。酸味强的泡菜可能打破它甘甜的平衡。",
         "95度45秒。中焙火，第二泡起甜味上来。"
       ],
       "zh-TW": [
@@ -3108,7 +3108,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 中焙火。",
         "相傳1855年舉人林鳳池從福建武夷山帶回36株茶苗種植。「凍頂」民間說法指上山路冷得凍腳的山頂。",
         "焙穀與栗子、蘭花香，柔和的甜。",
-        "烤蔬菜、五花肉、鳳梨、起司。",
+        "很適合搭配烤蔬菜、五花肉、烤鳳梨和熟成起司。烘烤穀物與栗子的豐潤支撐肉的風味,柔和的甜味能緩和五花肉的油膩。酸味強的泡菜可能打亂它甜味的平衡。",
         "95度45秒。中焙火，第二泡起甜味上來。"
       ]
     },
@@ -3137,7 +3137,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청 → 살청 → 유념(구형) → 건조 → 가벼운 배화.",
         "1980년대 대만 고산차 붐과 함께 아리산 차밭이 넓어졌습니다. 고도가 높을수록 감칠맛이 강해 ‘고산차’라 부릅니다.",
         "난초·크림·청사과, 맑고 긴 단맛, 떫음이 거의 없습니다.",
-        "과일, 흰살생선, 가벼운 디저트.",
+        "제철 과일과 찐 흰살생선, 판나코타 같은 가벼운 디저트와 잘 어울립니다. 난초·크림·청사과의 맑은 향이 담백한 맛을 해치지 않고, 떫음이 거의 없어 섬세한 요리와도 조용히 어울립니다. 진한 양념의 볶음 요리는 맑은 단맛을 가려 버립니다.",
         "95도에서 50초. 구형이라 첫 물에서 충분히 펴지게 하세요."
       ],
       en: [
@@ -3151,7 +3151,7 @@ window.TEAFaiData = (function () {
         "Withering → bruising → firing → ball rolling → drying → light roasting.",
         "Alishan's gardens spread with Taiwan's high-mountain tea boom in the 1980s; the higher the garden, the stronger the umami.",
         "Orchid, cream and green apple, a clear long sweetness, almost no astringency.",
-        "Fruit, white fish, light desserts.",
+        "It pairs well with seasonal fruit, steamed white fish and light desserts such as panna cotta. The clear notes of orchid, cream and green apple never overpower delicate flavors, and with almost no astringency it sits quietly beside refined dishes. Heavily seasoned stir-fries will mask its clear sweetness.",
         "95 °C for 50 seconds. The rolled leaf needs the full first pour to open."
       ],
       "zh-CN": [
@@ -3165,7 +3165,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 摇青 → 杀青 → 揉捻（球形）→ 干燥 → 轻焙火。",
         "1980年代台湾高山茶热潮中阿里山茶园扩大。海拔越高鲜味越强，故称高山茶。",
         "兰花、奶油与青苹果，清亮的长甜，几乎没有涩。",
-        "水果、白身鱼、清淡甜点。",
+        "与时令水果、清蒸白肉鱼和意式奶冻等清淡甜点都很搭配。兰花、奶油与青苹果的清澈气息不会压过精致滋味，几乎没有涩感，能安静地陪伴精致菜肴。调味浓重的炒菜会掩盖它清澈的甘甜。",
         "95度50秒。球形茶第一泡要让叶子充分展开。"
       ],
       "zh-TW": [
@@ -3179,7 +3179,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 搖菁 → 殺菁 → 揉捻（球形）→ 乾燥 → 輕焙火。",
         "1980年代台灣高山茶熱潮中阿里山茶園擴大。海拔越高鮮味越強，故稱高山茶。",
         "蘭花、奶油與青蘋果，清亮的長甜，幾乎沒有澀。",
-        "水果、白身魚、清淡甜點。",
+        "很適合搭配時令水果、清蒸白肉魚和奶酪等清淡甜點。蘭花、奶油與青蘋果的清澈香氣不會壓過細緻的味道,幾乎沒有澀感,能安靜地陪伴精緻的料理。調味濃重的炒菜會掩蓋它清澈的甜味。",
         "95度50秒。球形茶第一泡要讓葉子充分展開。"
       ]
     },
@@ -3208,7 +3208,7 @@ window.TEAFaiData = (function () {
         "위조 → 요청 → 살청 → 유념 → 건조. 매미가 물어 상처 난 잎이 산화되며 꿀 향이 생깁니다.",
         "영국 빅토리아 여왕이 이 차를 맛보고 ‘동방의 미인’이라 불렀다는 이야기가 전합니다. 대만에서는 ‘팽풍차(膨風茶)’라고도 합니다.",
         "꿀·잘 익은 복숭아·장미, 둥글고 부드러운 단맛.",
-        "과일 타르트, 치즈, 훈제 연어, 디저트.",
+        "과일 타르트와 브리 치즈, 훈제 연어, 꿀을 곁들인 디저트와 잘 어울립니다. 꿀과 잘 익은 복숭아의 단맛이 타르트의 과일 향과 겹치고, 둥근 질감이 연어의 기름기를 부드럽게 감쌉니다. 식초가 강한 드레싱과는 달콤한 향이 부딪힙니다.",
         "90도에서 1분. 매미 물린 잎은 뜨거운 물에서 향이 더 열립니다."
       ],
       en: [
@@ -3222,7 +3222,7 @@ window.TEAFaiData = (function () {
         "Withering → bruising → firing → rolling → drying. The bite wound oxidises and produces the honey note.",
         "Queen Victoria is said to have named it Oriental Beauty after tasting it; in Taiwan it is also called puff-fong tea.",
         "Honey, ripe peach and rose, with a round, soft sweetness.",
-        "Fruit tarts, cheese, smoked salmon, desserts.",
+        "It pairs well with fruit tarts, brie, smoked salmon and desserts served with honey. The sweetness of honey and ripe peach overlaps with the tart's fruit, and the round texture softly wraps the salmon's oiliness. Its sweet aroma clashes with strongly vinegary dressings.",
         "90 °C for 1 minute. The bitten leaf opens further in hotter water."
       ],
       "zh-CN": [
@@ -3236,7 +3236,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。咬伤处发酵，产生蜜香。",
         "相传英国维多利亚女王尝后称之为“东方美人”；台湾也叫“膨风茶”。",
         "蜂蜜、熟桃与玫瑰，圆润柔和的甜。",
-        "水果塔、奶酪、烟熏鲑鱼、甜点。",
+        "与水果塔、布里奶酪、烟熏三文鱼和配蜂蜜的甜点都很搭配。蜂蜜与熟桃的甘甜与塔的水果重叠，圆润的质地柔和地包裹三文鱼的油脂。它甜美的香气与醋味浓重的调味汁相冲突。",
         "90度1分钟。被咬过的叶在热水中香气更开。"
       ],
       "zh-TW": [
@@ -3250,7 +3250,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。咬傷處發酵，產生蜜香。",
         "相傳英國維多利亞女王嘗後稱之為「東方美人」；台灣也叫「膨風茶」。",
         "蜂蜜、熟桃與玫瑰，圓潤柔和的甜。",
-        "水果塔、起司、煙燻鮭魚、甜點。",
+        "很適合搭配水果塔、布里起司、煙燻鮭魚和淋蜂蜜的甜點。蜂蜜與熟桃的甜味與塔的水果重疊,圓潤的質地柔和地包裹鮭魚的油脂。它甜美的香氣與醋味強烈的醬汁衝突。",
         "90度1分鐘。被咬過的葉在熱水中香氣更開。"
       ]
     },
@@ -3296,7 +3296,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90도에서 45초, 두 번째 25초, 세 번째 40초.",
         origin: "타이베이 무자에서 발견된 품종. 지금은 난터우 밍젠 일대에서 많이 재배합니다.",
         flavor: "치자·재스민 같은 꽃향, 가벼운 단맛, 떫음이 적습니다.",
-        pairing: "가벼운 디저트, 과일, 샌드위치. 향이 은은해 단맛이 강한 음식과는 거리를 둡니다.",
+        pairing: "가벼운 디저트와 신선한 과일, 달걀 샌드위치와 잘 어울립니다. 치자·재스민 같은 꽃향이 담백한 음식에 은은한 향을 더하고, 떫음이 적어 부담 없이 곁들일 수 있습니다. 향이 은은해 단맛이 강한 디저트와는 거리를 두는 편이 좋습니다.",
         keep: "개봉 후 밀봉해 냉장. 향이 날아가기 쉬워 3개월 안에 마시는 편이 좋습니다.",
         brewTip: "85~90도로 낮추면 꽃향이 살고, 끓는 물이면 단맛이 앞섭니다. 잎을 오래 두지 마세요."
       },
@@ -3309,7 +3309,7 @@ window.TEAFaiData = (function () {
         steepBasis: "45 seconds at 90 °C, then 25 and 40 seconds.",
         origin: "A cultivar found in Muzha, Taipei; now widely grown around Mingjian in Nantou.",
         flavor: "Gardenia and jasmine florals, light sweetness, little astringency.",
-        pairing: "Light desserts, fruit, sandwiches. The scent is gentle, so keep it away from very sweet food.",
+        pairing: "It pairs well with light desserts, fresh fruit and egg sandwiches. The gardenia and jasmine florals add a gentle fragrance to plain food, and the low astringency makes it easy to drink alongside. The scent is gentle, so keep it away from very sweet desserts.",
         keep: "Seal and refrigerate after opening; the aroma fades, so finish within about three months.",
         brewTip: "85–90 °C keeps the florals; boiling water pushes the sweetness forward. Don't leave the leaf in."
       },
@@ -3322,7 +3322,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡45秒，第二泡25秒，第三泡40秒。",
         origin: "在台北木栅发现的品种，如今南投名间一带大量种植。",
         flavor: "栀子、茉莉般的花香，甜味轻，涩感少。",
-        pairing: "清淡甜点、水果、三明治。香气细致，不宜配过甜的食物。",
+        pairing: "与清淡甜点、新鲜水果和鸡蛋三明治都很搭配。栀子花与茉莉花香为朴素食物增添温和芬芳，低涩感让它易于佐餐饮用。香气温和，因此请远离非常甜的甜点。",
         keep: "开封后密封冷藏；香气易散，最好三个月内喝完。",
         brewTip: "85~90度能留住花香，沸水会让甜味更突出。不要久泡。"
       },
@@ -3335,7 +3335,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡45秒，第二泡25秒，第三泡40秒。",
         origin: "在台北木柵發現的品種，如今南投名間一帶大量種植。",
         flavor: "梔子、茉莉般的花香，甜味輕，澀感少。",
-        pairing: "清淡甜點、水果、三明治。香氣細緻，不宜配過甜的食物。",
+        pairing: "很適合搭配清淡甜點、新鮮水果和蛋沙拉三明治。梔子花與茉莉的花香為清淡食物增添溫和的芬芳,低澀感讓它容易邊吃邊喝。香氣溫和,請遠離非常甜的甜點。",
         keep: "開封後密封冷藏；香氣易散，最好三個月內喝完。",
         brewTip: "85~90度能留住花香，沸水會讓甜味更突出。不要久泡。"
       }
@@ -3383,7 +3383,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90도에서 50초, 두 번째 30초, 세 번째 45초.",
         origin: "대만 차업개량장이 개발한 품종으로 타이완 12호라 부릅니다. 자이·난터우 고산지에서 재배합니다.",
         flavor: "우유·크림 같은 향, 재스민, 둥근 단맛. 떫음이 적습니다.",
-        pairing: "스콘, 크림 디저트, 견과류. 우유를 넣어 마셔도 향이 남습니다.",
+        pairing: "스콘과 크림을 올린 디저트, 구운 견과류와 잘 어울립니다. 우유·크림 같은 향과 둥근 단맛이 버터 풍미와 자연스럽게 이어지고, 떫음이 적어 디저트의 단맛을 방해하지 않습니다. 우유를 조금 넣어 마셔도 향이 남으니 밀크티로도 즐겨 보세요.",
         keep: "밀봉 냉장. 향이 섬세해 개봉 후 3개월 안이 좋습니다.",
         brewTip: "90도 전후에서 1분을 넘기지 않으면 크림 향이 살아 있습니다."
       },
@@ -3396,7 +3396,7 @@ window.TEAFaiData = (function () {
         steepBasis: "50 seconds at 90 °C, then 30 and 45 seconds.",
         origin: "A cultivar from Taiwan's Tea Research and Extension Station, called TTES No. 12; grown in the highlands of Chiayi and Nantou.",
         flavor: "Milk and cream, jasmine, rounded sweetness, little astringency.",
-        pairing: "Scones, cream desserts, nuts. The scent survives a splash of milk.",
+        pairing: "It pairs well with scones, desserts topped with cream and roasted nuts. The milky, creamy aroma and rounded sweetness flow naturally into buttery flavors, and the low astringency never fights a dessert's sweetness. The scent survives a splash of milk, so try it as a milk tea too.",
         keep: "Seal and refrigerate; the aroma is delicate, so finish within about three months.",
         brewTip: "Stay near 90 °C and under a minute to keep the creamy note."
       },
@@ -3409,7 +3409,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡50秒，第二泡30秒，第三泡45秒。",
         origin: "台湾茶业改良场育成的品种，称台茶12号；多种于嘉义、南投高山。",
         flavor: "牛奶与奶油香、茉莉、圆润的甜味，涩感少。",
-        pairing: "司康、奶油甜点、坚果。加一点牛奶香气仍在。",
+        pairing: "与司康饼、配奶油的甜点和烤坚果都很搭配。牛奶般奶油香与圆润甘甜自然流入黄油风味，低涩感不会与甜点的甜味相争。香气在少量牛奶中也能存活，也可以试着做成奶茶。",
         keep: "密封冷藏；香气细致，最好三个月内喝完。",
         brewTip: "90度左右、一分钟以内，奶香最明显。"
       },
@@ -3422,7 +3422,7 @@ window.TEAFaiData = (function () {
         steepBasis: "90度泡50秒，第二泡30秒，第三泡45秒。",
         origin: "台灣茶業改良場育成的品種，稱台茶12號；多種於嘉義、南投高山。",
         flavor: "牛奶與奶油香、茉莉、圓潤的甜味，澀感少。",
-        pairing: "司康、奶油甜點、堅果。加一點牛奶香氣仍在。",
+        pairing: "很適合搭配司康、淋上奶油的甜點和烘烤堅果。奶香綿密的香氣與圓潤的甜味自然融入奶油風味,低澀感不會與甜點的甜味相爭。香氣在少量牛奶中也不消失,也可以試著做成奶茶。",
         keep: "密封冷藏；香氣細緻，最好三個月內喝完。",
         brewTip: "90度左右、一分鐘以內，奶香最明顯。"
       }
@@ -3470,7 +3470,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85도에서 1분, 두 번째 30초, 세 번째 50초.",
         origin: "신베이 핑린 일대가 중심인 문산 포종. 잎을 말아 향을 살립니다.",
         flavor: "난초·치자 같은 꽃향, 풋풋한 여운, 가볍고 맑습니다.",
-        pairing: "흰살생선, 채소 요리, 가벼운 과자.",
+        pairing: "찐 흰살생선과 데친 채소 요리, 담백한 가벼운 과자와 잘 어울립니다. 난초·치자의 맑은 꽃향이 담백한 재료의 맛을 살려 주고, 가벼운 몸통이 식사를 무겁게 하지 않습니다. 고추기름처럼 향이 강한 양념은 풋풋한 여운을 덮어 버립니다.",
         keep: "밀봉 냉장. 향이 가벼워 오래 두면 향이 먼저 사라집니다.",
         brewTip: "80~85도에서 짧게. 끓는 물을 쓰면 꽃향보다 떫은맛이 앞섭니다."
       },
@@ -3483,7 +3483,7 @@ window.TEAFaiData = (function () {
         steepBasis: "One minute at 85 °C, then 30 and 50 seconds.",
         origin: "Wen Shan pouchong, centred on Pinglin in New Taipei; the leaf is rolled to hold its aroma.",
         flavor: "Orchid and gardenia, a green finish, light and clear.",
-        pairing: "White fish, vegetable dishes, light pastries.",
+        pairing: "It pairs well with steamed white fish, blanched vegetable dishes and plain light pastries. The clear orchid and gardenia florals bring out the ingredients' delicate flavors, and the light body never weighs down a meal. Strong seasonings like chili oil will cover its fresh, green finish.",
         keep: "Seal and refrigerate; the scent is light, so it goes first.",
         brewTip: "80–85 °C and short. Boiling water brings out astringency before the florals."
       },
@@ -3496,7 +3496,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡1分钟，第二泡30秒，第三泡50秒。",
         origin: "以新北坪林一带为中心的文山包种，揉成条索以留住香气。",
         flavor: "兰花、栀子般的花香，清绿的尾韵，轻盈明亮。",
-        pairing: "白肉鱼、蔬菜料理、清淡糕点。",
+        pairing: "与清蒸白肉鱼、焯蔬菜菜肴和原味清淡糕点都很搭配。清澈的兰花与栀子花香衬托食材精致的滋味，轻盈的体感不会让一餐沉重。辣椒油等浓重调味会盖住它清新青绿的收尾。",
         keep: "密封冷藏；香气轻，放久了先散香。",
         brewTip: "80~85度短泡。沸水会让涩味先于花香出现。"
       },
@@ -3509,7 +3509,7 @@ window.TEAFaiData = (function () {
         steepBasis: "85度泡1分鐘，第二泡30秒，第三泡50秒。",
         origin: "以新北坪林一帶為中心的文山包種，揉成條索以留住香氣。",
         flavor: "蘭花、梔子般的花香，清綠的尾韻，輕盈明亮。",
-        pairing: "白肉魚、蔬菜料理、清淡糕點。",
+        pairing: "很適合搭配清蒸白肉魚、水燙蔬菜料理和原味清淡糕點。清澈的蘭花與梔子花香能帶出食材細緻的味道,輕盈的茶體不會拖累一餐。辣椒油等強烈調味會蓋住它清新帶綠意的尾韻。",
         keep: "密封冷藏；香氣輕，放久了先散香。",
         brewTip: "80~85度短泡。沸水會讓澀味先於花香出現。"
       }
@@ -3541,7 +3541,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 짧은 산화 → 건조. 퍼스트 플러시는 산화를 30% 아래로 멈춰 푸른 잎을 남깁니다.",
         "1835년 영국이 이 지역을 넘겨받은 뒤, 1841년 캠벨 박사가 중국 차나무를 처음 심으며 시작된 산지입니다. 상업 재배는 아쌈이 앞섰습니다. ‘차의 샴페인’이라는 별명은 머스캣 향에서 왔습니다.",
         "청포도·머스캣·흰 꽃, 가볍고 떫음이 적습니다.",
-        "스콘, 과일 타르트, 흰살생선.",
+        "스콘과 과일 타르트, 흰살생선 구이, 레몬 마들렌이 잘 어울립니다. 청포도와 머스캣의 맑은 향이 가벼운 음식의 섬세한 맛을 가리지 않고 살려 줍니다. 진한 크림소스나 매운 양념은 섬세한 향을 덮으니 피하세요.",
         "85~90도에서 2분 30초. 우유는 넣지 않습니다."
       ],
       en: [
@@ -3555,7 +3555,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → a short oxidation → drying. First flush stops oxidation below 30%, leaving green leaf.",
         "The district began after Britain took over the area in 1835; Dr Campbell first planted Chinese bushes in 1841. Commercial tea growing began earlier in Assam. The champagne nickname comes from its muscatel note.",
         "Green grape, muscatel and white flowers, light with little astringency.",
-        "Scones, fruit tarts, white fish.",
+        "Scones, fruit tarts, grilled white fish and lemon madeleines pair beautifully. Its clear green-grape and muscatel notes lift delicate flavours instead of covering them. Avoid heavy cream sauces or spicy seasonings, which would smother its fine aroma.",
         "85–90 °C for 2½ minutes. No milk."
       ],
       "zh-CN": [
@@ -3569,7 +3569,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 短时间发酵 → 干燥。春摘把发酵停在30%以下，留下青绿的叶。",
         "1835年英国接管此地后，1841年坎贝尔博士首次种下中国茶树。商业种茶则以阿萨姆更早。香槟之名来自麝香葡萄香。",
         "青葡萄、麝香葡萄与白花，轻盈、涩味少。",
-        "司康、水果塔、白身鱼。",
+        "司康饼、水果塔、烤白肉鱼和柠檬玛德琳搭配极佳。它清澈的青葡萄与麝香气息提升精致滋味而不是盖住它们。避免浓重奶油酱汁或辛辣调味，会闷住它精细的香气。",
         "85~90度2分30秒。不加牛奶。"
       ],
       "zh-TW": [
@@ -3583,7 +3583,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 短時間發酵 → 乾燥。春摘把發酵停在30%以下，留下青綠的葉。",
         "1835年英國接管此地後，1841年坎貝爾博士首次種下中國茶樹。商業種茶則以阿薩姆更早。香檳之名來自麝香葡萄香。",
         "青葡萄、麝香葡萄與白花，輕盈、澀味少。",
-        "司康、水果塔、白身魚。",
+        "司康、水果塔、烤白肉魚和檸檬瑪德蓮搭配起來非常美妙。它清澈的青葡萄與麝香香氣能提升細緻的味道,而不是蓋住它們。避免濃重的奶油醬或辛辣調味,以免悶住它精細的香氣。",
         "85~90度2分30秒。不加牛奶。"
       ]
     },
@@ -3611,7 +3611,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화(90% 이상) → 건조. CTC 방식은 잎을 잘게 부숴 1~2분 만에 진한 색을 냅니다.",
         "1823년 로버트 브루스가 아쌈의 야생 차나무(assamica)를 발견한 것이 시작입니다. 큰잎 변종이라 몰트 향이 강합니다.",
         "몰트·꿀·건포도, 두꺼운 바디. CTC는 더 진하고 떫습니다.",
-        "크림치즈 베이글, 버터 토스트, 초콜릿 케이크, 마살라 차이 베이스.",
+        "크림치즈 베이글, 버터 토스트, 초콜릿 케이크, 구운 소시지가 잘 어울립니다. 몰트와 꿀의 진한 풍미와 두꺼운 바디가 버터·크림의 고소함을 받쳐 주고, 우유를 넣으면 마살라 차이 베이스로도 좋습니다. 담백한 생선회는 진한 맛에 묻히기 쉬워요.",
         "98도에서 3분. 우유를 넣으면 5g에 150ml로 진하게."
       ],
       en: [
@@ -3625,7 +3625,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → full oxidation → drying. CTC shreds the leaf so it colours in a minute or two.",
         "It began in 1823 when Robert Bruce found wild assamica bushes; the large leaf is why the malt is so strong.",
         "Malt, honey and raisins with a thick body; CTC is stronger and more astringent.",
-        "Cream-cheese bagels, buttered toast, chocolate cake, the base of masala chai.",
+        "Cream-cheese bagels, buttered toast, chocolate cake and grilled sausages all work well. Its deep malt-and-honey richness and thick body stand up to butter and cream, and with milk it makes a fine masala chai base. Very delicate dishes like plain sashimi tend to be overwhelmed.",
         "98 °C for 3 minutes. For milk, use 5 g to 150 ml."
       ],
       "zh-CN": [
@@ -3639,7 +3639,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 完全发酵 → 干燥。CTC把叶片切碎，一两分钟就出色。",
         "1823年罗伯特·布鲁斯在此发现野生阿萨姆茶树，由此开始。大叶种所以麦芽香强。",
         "麦芽、蜂蜜与葡萄干，汤体厚；CTC更浓更涩。",
-        "奶油奶酪贝果、黄油吐司、巧克力蛋糕、印度奶茶基底。",
+        "奶油奶酪贝果、黄油吐司、巧克力蛋糕和烤香肠都很合适。它深厚的麦芽与蜂蜜丰润和厚实体感能站稳于黄油与奶油，加牛奶后是很好的玛萨拉茶基底。原味生鱼片等非常精致的菜肴容易被压倒。",
         "98度3分钟。加奶则5克配150毫升。"
       ],
       "zh-TW": [
@@ -3653,7 +3653,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 完全發酵 → 乾燥。CTC把葉片切碎，一兩分鐘就出色。",
         "1823年羅伯特·布魯斯在此發現野生阿薩姆茶樹，由此開始。大葉種所以麥芽香強。",
         "麥芽、蜂蜜與葡萄乾，湯體厚；CTC更濃更澀。",
-        "奶油起司貝果、奶油吐司、巧克力蛋糕、印度奶茶基底。",
+        "奶油起司貝果、奶油吐司、巧克力蛋糕和烤香腸都很合適。它深沉的麥芽與蜂蜜豐潤加上厚實茶體,能站得住奶油與鮮奶油,加牛奶後是很好的瑪薩拉奶茶基底。原味生魚片等非常精緻的料理容易被壓過。",
         "98度3分鐘。加奶則5公克配150毫升。"
       ]
     },
@@ -3680,7 +3680,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 고도가 높아 겨울에도 채취하는 ‘겨울 향’ 차가 있습니다.",
         "1835년 처음 차를 심었고, 1859년 첫 상업 다원이 문을 열며 본격적으로 시작되었습니다. 고산의 청량함과 홍차의 힘을 함께 가진 차로 평가받습니다.",
         "시트러스·민트 같은 청량감, 부드러운 몰트.",
-        "남인도 커리, 샌드위치, 과일.",
+        "남인도 커리, 채소 샌드위치, 오렌지 같은 감귤 과일, 사모사가 어울립니다. 시트러스와 민트 같은 청량감이 매콤한 커리의 열기를 식혀 주고 입안을 산뜻하게 정리해 줍니다. 진한 크림 디저트는 청량감을 눌러 버리니 가볍게 드세요.",
         "95도에서 3분. 아이스티로도 좋습니다."
       ],
       en: [
@@ -3694,7 +3694,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying. Height allows a winter pick with its own aroma.",
         "The British first planted tea here in 1835, and the first commercial gardens opened in 1859; it is prized for highland freshness with black-tea strength.",
         "Citrus and mint-like coolness over a soft malt.",
-        "South Indian curry, sandwiches, fruit.",
+        "South Indian curry, vegetable sandwiches, citrus fruit like oranges and samosas pair nicely. Its citrusy, mint-like coolness takes the heat off spicy curry and leaves the palate fresh. Heavy cream desserts would flatten that brightness, so keep things light.",
         "95 °C for 3 minutes. Good iced."
       ],
       "zh-CN": [
@@ -3708,7 +3708,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。海拔高，冬天也有带香气的“冬摘”。",
         "1835年英国人首次在此种茶，1859年首个商业茶园开业，兼具高山清凉与红茶的力量。",
         "柑橘与薄荷般的清凉，柔和的麦芽。",
-        "南印度咖喱、三明治、水果。",
+        "南印度咖喱、蔬菜三明治、橙子等柑橘水果和萨摩萨搭配得很好。它柑橘、薄荷般的清凉能缓和辛辣咖喱的热度，让口腔清爽。浓重奶油甜点会压平那份明亮，因此请保持清淡。",
         "95度3分钟。做冰茶也好。"
       ],
       "zh-TW": [
@@ -3722,7 +3722,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。海拔高，冬天也有帶香氣的「冬摘」。",
         "1835年英國人首次在此種茶，1859年首個商業茶園開業，兼具高山清涼與紅茶的力量。",
         "柑橘與薄荷般的清涼，柔和的麥芽。",
-        "南印度咖喱、三明治、水果。",
+        "南印度咖哩、蔬菜三明治、柳橙等柑橘水果和薩摩薩餃搭配起來很不錯。它柑橘般、薄荷般的清涼能緩和辛辣咖哩的熱度,讓味蕾保持清新。濃重的奶油甜點會壓平那份明亮,因此請保持清淡。",
         "95度3分鐘。做冰茶也好。"
       ]
     },
@@ -3749,7 +3749,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 서늘한 기후라 산화가 느려 섬세한 향이 남습니다.",
         "19세기 커피 병해 이후 스리랑카 전역이 차로 바뀌었고, 누와라 엘리야는 ‘실론의 샴페인’이라 불립니다.",
         "시트러스·흰 꽃·옅은 민트, 가볍고 밝습니다.",
-        "과일, 샌드위치, 가벼운 디저트.",
+        "신선한 과일, 오이 샌드위치, 레몬 케이크, 마카롱 같은 가벼운 디저트가 어울립니다. 시트러스와 흰 꽃의 밝고 가벼운 향이 담백한 음식과 겹치지 않고 맑게 어우러집니다. 진한 초콜릿이나 훈제 향이 강한 음식은 이 차의 맑음을 덮어 버립니다.",
         "90~95도에서 3분. 우유 없이 마십니다."
       ],
       en: [
@@ -3763,7 +3763,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying. Cool air slows oxidation, so the aroma stays fine.",
         "After coffee blight in the 19th century the island turned to tea; Nuwara Eliya is called the champagne of Ceylon.",
         "Citrus, white flowers and a touch of mint, light and bright.",
-        "Fruit, sandwiches, light desserts.",
+        "Fresh fruit, cucumber sandwiches, lemon cake and light desserts like macarons suit it well. Its bright, light citrus and white-flower notes blend cleanly with mild foods. Dark chocolate or strongly smoked dishes would cover up its clarity.",
         "90–95 °C for 3 minutes. No milk."
       ],
       "zh-CN": [
@@ -3777,7 +3777,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。气候凉爽发酵慢，香气细腻。",
         "19世纪咖啡病害后全岛改种茶，努沃勒埃利耶被称为“锡兰的香槟”。",
         "柑橘、白花与一点薄荷，轻盈明亮。",
-        "水果、三明治、清淡甜点。",
+        "新鲜水果、黄瓜三明治、柠檬蛋糕和马卡龙等清淡甜点都很适合。它明亮轻盈的柑橘与白花气息与清淡食物干净地融合。黑巧克力或烟熏浓重的菜肴会盖住它的清澈。",
         "90~95度3分钟。不加牛奶。"
       ],
       "zh-TW": [
@@ -3791,7 +3791,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。氣候涼爽發酵慢，香氣細膩。",
         "19世紀咖啡病害後全島改種茶，努沃勒埃利耶被稱為「錫蘭的香檳」。",
         "柑橘、白花與一點薄荷，輕盈明亮。",
-        "水果、三明治、清淡甜點。",
+        "新鮮水果、小黃瓜三明治、檸檬蛋糕和馬卡龍等清淡甜點都很合適。它明亮輕盈的柑橘與白花香,能與清淡食物乾淨地融合。黑巧克力或煙燻味強的菜會蓋住它的清澈。",
         "90~95度3分鐘。不加牛奶。"
       ]
     },
@@ -3818,7 +3818,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 누와라 엘리야보다 진하고 우바보다 부드럽습니다.",
         "서늘한 품질 시즌에 만든 차에는 장미 향이 돈다고 알려져 있습니다.",
         "장미·옅은 시트러스, 중간 정도의 바디, 끝의 산뜻한 떫음.",
-        "스콘, 과일, 가벼운 디저트.",
+        "스콘, 딸기 같은 신선한 과일, 요거트 케이크, 잼 토스트가 어울립니다. 장미와 시트러스의 화사한 향이 달콤한 디저트와 조화를 이루고, 끝의 산뜻한 떫음이 단맛을 깔끔하게 끊어 줍니다. 매운 음식은 꽃향을 흐트러뜨리니 피하세요.",
         "95도에서 3분. 우유 없이 마시면 장미 향이 살아 있습니다."
       ],
       en: [
@@ -3832,7 +3832,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying; darker than Nuwara Eliya, softer than Uva.",
         "Tea made in the cool quality season is said to carry a hint of rose.",
         "Rose and light citrus, a medium body, a bright finish.",
-        "Scones, fruit, light desserts.",
+        "Scones, fresh fruit like strawberries, yogurt cake and jam on toast pair well. Its rosy, citrusy brightness harmonises with sweet desserts, while the fresh astringent finish cuts the sweetness cleanly. Spicy food would scatter the floral aroma.",
         "95 °C for 3 minutes; without milk the rose stays."
       ],
       "zh-CN": [
@@ -3846,7 +3846,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。比努沃勒埃利耶浓，比乌伐柔。",
         "据说凉爽的品质季制成的茶带有玫瑰香。",
         "玫瑰与淡柑橘，中等汤体，尾端清爽的涩。",
-        "司康、水果、清淡甜点。",
+        "司康饼、草莓等新鲜水果、酸奶蛋糕和果酱吐司搭配得很好。它玫瑰般、柑橘般的明亮与甜味甜点和谐，清新的涩感收尾干净地切断甜味。辛辣食物会打散花香。",
         "95度3分钟。不加奶时玫瑰香更明显。"
       ],
       "zh-TW": [
@@ -3860,7 +3860,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。比努沃勒埃利耶濃，比烏伐柔。",
         "據說涼爽的品質季製成的茶帶有玫瑰香。",
         "玫瑰與淡柑橘，中等湯體，尾端清爽的澀。",
-        "司康、水果、清淡甜點。",
+        "司康、草莓等新鮮水果、優格蛋糕和淋果醬的吐司搭配起來很好。它玫瑰般、柑橘般的明亮與甜的甜點和諧,清新的澀味尾韻能乾淨地切斷甜味。辛辣食物會打散花香。",
         "95度3分鐘。不加奶時玫瑰香更明顯。"
       ]
     },
@@ -3887,7 +3887,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 건기의 잎은 향이 강하고 물색이 밝습니다.",
         "우바의 동풍 시기 차는 세계에서 가장 청량한 홍차로 꼽힙니다.",
         "멘톨·유칼립투스 같은 청량감, 끝의 떫음.",
-        "과일, 치즈, 아이스티.",
+        "신선한 과일, 부드러운 치즈, 레몬을 넣은 아이스티, 민트 샐러드가 어울립니다. 멘톨과 유칼립투스 같은 시원한 향이 느끼한 치즈 뒤에 입안을 개운하게 씻어 줍니다. 따뜻하고 진한 스튜와는 향의 결이 달라 따로 즐기는 편이 낫습니다.",
         "95도에서 3분. 아이스티로 탁월합니다."
       ],
       en: [
@@ -3901,7 +3901,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying. Dry-season leaf is aromatic and bright.",
         "Uva tea picked in the eastern-wind season is counted among the world's coolest black teas.",
         "Menthol and eucalyptus, with astringency at the end.",
-        "Fruit, cheese, iced tea.",
+        "Fresh fruit, soft cheese, lemon iced tea and mint salads go well. Its cool menthol and eucalyptus notes rinse the palate clean after rich cheese. Warm, heavy stews pull in a different direction, so it is better enjoyed apart from them.",
         "95 °C for 3 minutes. Outstanding iced."
       ],
       "zh-CN": [
@@ -3915,7 +3915,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。干季的叶子香强、汤色亮。",
         "乌伐东风期的茶被认为世界上最清凉的红茶之一。",
         "薄荷、尤加利般的清凉，尾端带涩。",
-        "水果、奶酪、冰茶。",
+        "新鲜水果、软奶酪、柠檬冰茶和薄荷沙拉都很合适。它清凉的薄荷醇与桉树气息在丰润奶酪之后干净地漱清口腔。温热厚重的炖菜走向不同方向，因此最好分开享用。",
         "95度3分钟。做冰茶极好。"
       ],
       "zh-TW": [
@@ -3929,7 +3929,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。乾季的葉子香強、湯色亮。",
         "烏伐東風期的茶被認為世界上最清涼的紅茶之一。",
         "薄荷、尤加利般的清涼，尾端帶澀。",
-        "水果、起司、冰茶。",
+        "新鮮水果、軟質起司、檸檬冰茶和薄荷沙拉都很合適。它清涼的薄荷醇與尤加利香能在豐潤的起司之後清新地洗淨味蕾。溫熱厚重的燉菜方向不同,因此最好分開享用。",
         "95度3分鐘。做冰茶極好。"
       ]
     },
@@ -3956,7 +3956,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 1~3월 건기 차가 향이 가장 좋습니다.",
         "딤불라는 실론 홍차 수출의 중심지이며, 영국식 아침 홍차 블렌드의 기둥으로 쓰입니다.",
         "꽃·시트러스·몰트의 균형, 적당한 떫음.",
-        "아침 식사, 스콘, 잉글리쉬 브렉퍼스트.",
+        "잉글리시 브렉퍼스트, 스콘, 버터 토스트, 오렌지 마멀레이드가 어울립니다. 꽃·시트러스·몰트의 균형 잡힌 맛과 적당한 떫음이 기름진 아침 식사의 느끼함을 정리해 줍니다. 섬세한 고급 생선 요리는 이 차의 힘에 눌릴 수 있습니다.",
         "95도에서 3분. 우유를 넣어도 향이 살아 있습니다."
       ],
       en: [
@@ -3970,7 +3970,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying; the January–March dry season is the most fragrant.",
         "Dimbula is the centre of Ceylon's tea trade and a pillar of English breakfast blends.",
         "Flower, citrus and malt in balance, with moderate astringency.",
-        "Breakfast, scones, English breakfast.",
+        "A full English breakfast, scones, buttered toast and orange marmalade pair well. Its balanced flower, citrus and malt, with moderate astringency, tidies up a rich breakfast. Very delicate fish dishes can be overpowered by its strength.",
         "95 °C for 3 minutes. Holds its aroma under milk."
       ],
       "zh-CN": [
@@ -3984,7 +3984,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。1~3月干季的茶香气最好。",
         "丁布拉是锡兰红茶贸易的中心，也是英式早餐茶拼配的支柱。",
         "花香、柑橘与麦芽均衡，涩度适中。",
-        "早餐、司康、英式早餐茶。",
+        "完整的英式早餐、司康饼、黄油吐司和橙子果酱搭配得很好。它花香、柑橘与麦芽的平衡加上适中的涩感，能收拾丰盛的早餐。非常精致的鱼类菜肴可能被它的力度压倒。",
         "95度3分钟。加奶也留住香气。"
       ],
       "zh-TW": [
@@ -3998,7 +3998,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。1~3月乾季的茶香氣最好。",
         "丁布拉是錫蘭紅茶貿易的中心，也是英式早餐茶拼配的支柱。",
         "花香、柑橘與麥芽均衡，澀度適中。",
-        "早餐、司康、英式早餐茶。",
+        "完整的英式早餐、司康、奶油吐司和柳橙果醬搭配起來很好。它均衡的花香、柑橘與麥芽,加上適度的澀感,能收拾豐盛的早餐。非常精緻的魚類料理可能被它的強勁壓過。",
         "95度3分鐘。加奶也留住香氣。"
       ]
     },
@@ -4025,7 +4025,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 습한 기후로 잎이 부드럽습니다.",
         "사바라가무와는 실론 차 산지 가운데 하나로, 과일 향이 특징입니다.",
         "잘 익은 과일과 꿀, 부드러운 바디.",
-        "과일, 디저트, 밀크티.",
+        "잘 익은 과일, 캐러멜 푸딩, 꿀 케이크, 연유를 넣은 밀크티가 어울립니다. 익은 과일과 꿀의 부드러운 단맛이 디저트의 달콤함과 자연스럽게 이어지고, 우유와도 부드럽게 섞입니다. 신맛이 강한 과일은 단맛의 균형을 깨니 주의하세요.",
         "95도에서 3분."
       ],
       en: [
@@ -4039,7 +4039,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying; the humid climate keeps the leaf soft.",
         "One of Ceylon's tea regions, known for a fruity note.",
         "Ripe fruit and honey with a soft body.",
-        "Fruit, desserts, milk tea.",
+        "Ripe fruit, caramel pudding, honey cake and milk tea with condensed milk pair well. Its soft ripe-fruit and honey sweetness flows naturally into desserts and blends gently with milk. Very sour fruit can upset the sweet balance.",
         "95 °C for 3 minutes."
       ],
       "zh-CN": [
@@ -4053,7 +4053,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。气候潮湿，叶片柔软。",
         "萨巴拉加穆瓦是锡兰茶产区之一，以果香著称。",
         "熟果与蜂蜜，汤体柔和。",
-        "水果、甜点、奶茶。",
+        "熟果、焦糖布丁、蜂蜜蛋糕和加炼乳的奶茶搭配得很好。它柔和的熟果与蜂蜜甘甜自然流入甜点，并与牛奶温和融合。非常酸的水果可能打破甜味平衡。",
         "95度3分钟。"
       ],
       "zh-TW": [
@@ -4067,7 +4067,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。氣候潮濕，葉片柔軟。",
         "薩巴拉加穆瓦是錫蘭茶產區之一，以果香著稱。",
         "熟果與蜂蜜，湯體柔和。",
-        "水果、甜點、奶茶。",
+        "熟果、焦糖布丁、蜂蜜蛋糕和加煉乳的奶茶搭配起來很好。它柔和的熟果與蜂蜜甜味自然流入甜點,並與牛奶溫和融合。非常酸的水果可能打亂甜味的平衡。",
         "95度3分鐘。"
       ]
     },
@@ -4094,7 +4094,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 1867년 제임스 테일러가 룰콘데라에서 상업 재배를 시작했습니다.",
         "스리랑카 차 산업은 1867년 캔디의 룰콘데라 농장에서 테일러가 차를 심은 데서 시작되었습니다.",
         "부드러운 몰트와 꽃, 떫음이 적습니다.",
-        "우유 홍차, 카레, 아침 식사.",
+        "우유를 넣은 홍차, 가벼운 카레, 달걀 요리, 버터 토스트가 어울립니다. 부드러운 몰트와 꽃 향, 적은 떫음 덕에 매콤한 카레 옆에서도 자극 없이 입안을 달래 줍니다. 아주 매운 음식은 섬세한 꽃향을 지워 버릴 수 있습니다.",
         "95도에서 3분. 밀크티에 알맞습니다."
       ],
       en: [
@@ -4108,7 +4108,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying. James Taylor planted the first commercial garden at Loolecondera in 1867.",
         "Sri Lanka's tea industry started in 1867 on Taylor's Loolecondera estate near Kandy.",
         "Soft malt and flowers, little astringency.",
-        "Milk tea, curry, breakfast.",
+        "Milk tea, mild curry, egg dishes and buttered toast pair well. Soft malt and flowers with little astringency let it soothe the palate beside spicy curry without clashing. Extremely hot dishes can erase its gentle floral notes.",
         "95 °C for 3 minutes; suits milk."
       ],
       "zh-CN": [
@@ -4122,7 +4122,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。1867年詹姆斯·泰勒在卢尔孔德拉种下第一批商业茶树。",
         "斯里兰卡茶业始于1867年康提的卢尔孔德拉庄园。",
         "柔和的麦芽与花香，涩味少。",
-        "奶茶、咖喱、早餐。",
+        "奶茶、温和咖喱、蛋类菜肴和黄油吐司搭配得很好。柔和的麦芽与花香加上很少的涩感，让它在辛辣咖喱旁舒缓口腔而不冲突。极辣的菜肴可能抹去它温和的花香。",
         "95度3分钟，适合加奶。"
       ],
       "zh-TW": [
@@ -4136,7 +4136,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。1867年詹姆斯·泰勒在盧爾孔德拉種下第一批商業茶樹。",
         "斯里蘭卡茶業始於1867年康提的盧爾孔德拉莊園。",
         "柔和的麥芽與花香，澀味少。",
-        "奶茶、咖喱、早餐。",
+        "奶茶、溫和的咖哩、蛋料理和奶油吐司搭配起來很好。柔和的麥芽與花香加上低澀感,能在辛辣咖哩旁舒緩味蕾而不衝突。極燙的菜可能抹去它溫和的花香。",
         "95度3分鐘，適合加奶。"
       ]
     },
@@ -4163,7 +4163,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 더운 기후로 산화가 빨라 색이 진합니다.",
         "루후나는 실론 차 가운데 물색이 가장 진해 밀크티용으로 많이 수출됩니다.",
         "진한 붉은 색, 굵은 몰트, 강한 떫음.",
-        "밀크티, 마살라 차이, 진한 아침 차.",
+        "연유 밀크티, 마살라 차이, 진한 아침 식사, 초콜릿 브라우니가 어울립니다. 굵은 몰트와 강한 떫음이 우유의 지방과 향신료의 힘을 받아 내며 진한 아침 한 잔으로 손색이 없습니다. 담백한 흰살생선은 강한 떫음에 눌리니 피하세요.",
         "98도에서 3분 30초. 우유를 넣으면 부드러워집니다."
       ],
       en: [
@@ -4177,7 +4177,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying; the heat speeds oxidation and deepens the colour.",
         "Ruhuna gives Ceylon's darkest liquor and goes largely into milk tea.",
         "Deep red, broad malt, strong astringency.",
-        "Milk tea, masala chai, a strong morning cup.",
+        "Milk tea with condensed milk, masala chai, a hearty breakfast and chocolate brownies suit it. Broad malt and strong astringency hold their own against milk fat and spices, making a powerful morning cup. Plain white fish would be crushed by its grip.",
         "98 °C for 3½ minutes; milk softens it."
       ],
       "zh-CN": [
@@ -4191,7 +4191,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。天气热发酵快，汤色更深。",
         "鲁忽努的汤色是锡兰茶中最深的，多用作奶茶。",
         "深红汤色，厚重的麦芽，涩味强。",
-        "奶茶、印度香料奶茶、浓早晨茶。",
+        "加炼乳的奶茶、玛萨拉茶、丰盛早餐和巧克力布朗尼都很适合。宽广的麦芽与强烈的涩感在牛奶脂肪与香料面前不落下风，成就一杯有力的晨间茶。原味白肉鱼会被它的抓力压碎。",
         "98度3分30秒。加奶会变柔。"
       ],
       "zh-TW": [
@@ -4205,7 +4205,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。天氣熱發酵快，湯色更深。",
         "魯忽努的湯色是錫蘭茶中最深的，多用作奶茶。",
         "深紅湯色，厚重的麥芽，澀味強。",
-        "奶茶、印度香料奶茶、濃早晨茶。",
+        "加煉乳的奶茶、瑪薩拉奶茶、扎實的早餐和巧克力布朗尼都很合適。寬廣的麥芽與強勁的澀感在牛奶脂肪與香料面前站得住,成就一杯有力的晨間茶。原味白肉魚會被它的力道壓碎。",
         "98度3分30秒。加奶會變柔。"
       ]
     },
@@ -4234,7 +4234,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조 → 정형. 잎을 가늘게 말아 천천히 산화시킵니다.",
         "1875년 치먼의 여간신(余干臣)이 푸젠의 홍차 제법을 들여와 만들었다고 전합니다. ‘기문향’은 세계 3대 향으로 꼽힙니다.",
         "장미·난초·다크초콜릿, 부드러운 떫음과 긴 여운.",
-        "다크초콜릿, 훈제 요리, 아침 식사.",
+        "다크초콜릿, 훈제 오리, 구운 버섯, 호밀빵 토스트가 어울립니다. 장미와 난초의 우아한 향에 다크초콜릿 같은 깊이가 더해져 훈제 요리의 풍미와 긴 여운으로 이어집니다. 신맛이 강한 피클류는 섬세한 향을 끊으니 곁들이지 마세요.",
         "90~95도에서 2분 30초. 우유 없이 향을 즐깁니다."
       ],
       en: [
@@ -4248,7 +4248,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying → sorting, with the leaf rolled fine and oxidised slowly.",
         "Tradition says Yu Ganchen of Qimen brought the Fujian method here in 1875; the Keemun aroma is counted among the world's three great tea aromas.",
         "Rose, orchid and dark chocolate, soft astringency and a long finish.",
-        "Dark chocolate, smoked dishes, breakfast.",
+        "Dark chocolate, smoked duck, roasted mushrooms and rye toast pair beautifully. Rose and orchid elegance over a dark-chocolate depth carries into smoked dishes with a long finish. Sharp pickles would cut through its delicate aroma.",
         "90–95 °C for 2½ minutes. No milk."
       ],
       "zh-CN": [
@@ -4262,7 +4262,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥 → 筛分。叶子揉细、慢慢发酵。",
         "相传1875年祁门人余干臣从福建引入红茶制法。“祁门香”被视为世界三大茶香之一。",
         "玫瑰、兰花与黑巧克力，涩味柔，余韵长。",
-        "黑巧克力、熏制料理、早餐。",
+        "黑巧克力、烟熏鸭、烤蘑菇和黑麦吐司搭配极佳。玫瑰与兰花的优雅覆于黑巧克力的深度之上，延续到烟熏菜肴，尾韵悠长。尖锐的泡菜会穿透它细腻的香气。",
         "90~95度2分30秒。不加奶。"
       ],
       "zh-TW": [
@@ -4276,7 +4276,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥 → 篩分。葉子揉細、慢慢發酵。",
         "相傳1875年祁門人余干臣從福建引入紅茶製法。「祁門香」被視為世界三大茶香之一。",
         "玫瑰、蘭花與黑巧克力，澀味柔，餘韻長。",
-        "黑巧克力、燻製料理、早餐。",
+        "黑巧克力、煙燻鴨、烤蘑菇和裸麥吐司搭配起來非常美妙。玫瑰與蘭花的優雅覆在黑巧克力的深度之上,帶入煙燻料理並留下悠長尾韻。酸味尖銳的醃菜會切斷它細緻的香氣。",
         "90~95度2分30秒。不加奶。"
       ]
     },
@@ -4303,7 +4303,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 소나무 연기로 건조(熏焙). 마지막 건조를 솔가지 연기로 합니다.",
         "명대 말 군대를 피해 자리를 뜬 사이 잎이 붉게 산화되었고, 급히 소나무로 건조한 데서 시작되었다는 이야기가 전합니다.",
         "소나무 연기·타르·말린 과일, 깊고 묵직합니다.",
-        "훈제 고기, 바비큐, 치즈, 피트 위스키.",
+        "훈제 고기, 바비큐, 숙성 치즈, 피트 위스키가 어울립니다. 소나무 연기의 묵직한 향이 훈제와 숯불 향을 같은 결로 이어 주고, 말린 과일의 단맛이 짠맛을 부드럽게 감쌉니다. 섬세한 디저트나 생선회는 연기 향에 완전히 덮이니 피하세요.",
         "98도에서 3분. 연기가 강해 우유와도 어울립니다."
       ],
       en: [
@@ -4317,7 +4317,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying over pine smoke.",
         "A late-Ming story: soldiers forced the growers to flee, the leaf oxidised red, and they dried it hastily over pine.",
         "Pine smoke, tar and dried fruit, deep and heavy.",
-        "Smoked meat, barbecue, cheese, peated whisky.",
+        "Smoked meat, barbecue, aged cheese and peated whisky are natural partners. Its heavy pine smoke runs in the same line as char and smoke, while dried-fruit sweetness softens the salt. Delicate desserts and sashimi would be completely buried by the smoke.",
         "98 °C for 3 minutes. Strong enough for milk."
       ],
       "zh-CN": [
@@ -4331,7 +4331,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 松烟熏焙。最后用松枝烟熏干。",
         "相传明末为避兵乱离开，叶子变红发酵，匆忙用松木烘干，由此开始。",
         "松烟、焦油与干果，深沉厚重。",
-        "熏肉、烧烤、奶酪、泥煤威士忌。",
+        "烟熏肉、烧烤、熟成奶酪和泥煤威士忌是天然伙伴。它浓重的松烟与炭火和烟熏同一脉络，干果的甘甜柔化咸味。精致甜点和生鱼片会被烟完全掩埋。",
         "98度3分钟。烟味强，加奶也好。"
       ],
       "zh-TW": [
@@ -4345,7 +4345,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 松煙燻焙。最後用松枝煙燻乾。",
         "相傳明末為避兵亂離開，葉子變紅發酵，匆忙用松木烘乾，由此開始。",
         "松煙、焦油與乾果，深沉厚重。",
-        "燻肉、燒烤、起司、泥煤威士忌。",
+        "煙燻肉、燒烤、熟成起司和泥煤威士忌是天生的夥伴。它厚重的松木煙燻與炭火、煙燻同一脈絡,果乾的甜味柔化鹹味。精緻的甜點和生魚片會被煙燻完全埋沒。",
         "98度3分鐘。煙味強，加奶也好。"
       ]
     },
@@ -4374,7 +4374,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 봄싹만 골라 훈연 없이 만들어 꽃과 꿀 향을 살립니다.",
         "2005년 정산당(正山堂)의 강원의(江元勳) 팀이 정산소종의 싹만으로 새 차를 만들며 이름을 붙였다고 전합니다.",
         "꿀·흰 꽃·말린 살구, 부드럽고 긴 단맛.",
-        "과일, 가벼운 디저트, 흰살생선.",
+        "신선한 과일, 말린 살구, 흰살생선 찜, 가벼운 쌀 케이크가 어울립니다. 꿀과 흰 꽃의 부드럽고 긴 단맛이 담백한 음식의 맛을 방해하지 않고 은은하게 받쳐 줍니다. 매운 양념이나 진한 소스는 이 차의 섬세함을 쉽게 덮어 버립니다.",
         "85~90도에서 2분. 끓는 물은 싹을 상하게 합니다."
       ],
       en: [
@@ -4388,7 +4388,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying, with only spring buds and no smoke at all, so the flower and honey stay.",
         "It was created in 2005 by Jiang Yuanxun's team at Zheng Shan Tang, using only buds of the lapsang bush.",
         "Honey, white flowers and dried apricot, with a soft, long sweetness.",
-        "Fruit, light desserts, white fish.",
+        "Fresh fruit, dried apricots, steamed white fish and light rice cakes pair well. Its soft, long honey-and-white-flower sweetness supports mild foods without intruding. Spicy seasonings and heavy sauces would easily cover its delicacy.",
         "85–90 °C for 2 minutes; boiling water bruises the buds."
       ],
       "zh-CN": [
@@ -4402,7 +4402,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。只取春芽，不加烟熏，留住花香与蜜香。",
         "2005年正山堂江元勋团队只用小种的芽制成新茶，因而得名。",
         "蜂蜜、白花与杏干，柔和而长久的甜。",
-        "水果、清淡甜点、白身鱼。",
+        "新鲜水果、杏干、清蒸白肉鱼和清淡年糕搭配得很好。它柔和悠长的蜂蜜与白花甘甜支撑清淡食物而不侵扰。辛辣调味与浓重酱汁很容易盖住它的精致。",
         "85~90度2分钟。沸水会伤到芽。"
       ],
       "zh-TW": [
@@ -4416,7 +4416,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。只取春芽，不加煙燻，留住花香與蜜香。",
         "2005年正山堂江元勳團隊只用小種的芽製成新茶，因而得名。",
         "蜂蜜、白花與杏乾，柔和而長久的甜。",
-        "水果、清淡甜點、白身魚。",
+        "新鮮水果、杏桃乾、清蒸白肉魚和清淡米糕搭配起來很好。它柔和悠長的蜂蜜與白花甜味,能支撐清淡食物而不侵擾。辛辣調味和濃重醬汁很容易蓋住它的細緻。",
         "85~90度2分鐘。沸水會傷到芽。"
       ]
     },
@@ -4443,7 +4443,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 큰잎을 오래 산화해 금색 싹이 드러납니다.",
         "1939년 펑칭에서 처음 만들어진 비교적 젊은 홍차입니다.",
         "꿀·말린 자두·몰트, 두꺼운 바디.",
-        "중식, 바비큐, 밀크티.",
+        "볶음 요리 같은 중식, 바비큐, 꿀을 넣은 밀크티, 월병이 어울립니다. 꿀과 말린 자두의 단맛, 두꺼운 바디가 기름진 중식과 숯불 향을 받아 내고 식후 입안을 든든히 정리해 줍니다. 맑은 회처럼 담백한 음식은 바디에 눌릴 수 있습니다.",
         "95도에서 3분. 우유를 넣어도 힘이 남습니다."
       ],
       en: [
@@ -4457,7 +4457,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → long oxidation → drying, which brings out golden buds.",
         "First made in Fengqing in 1939 — a young black tea.",
         "Honey, dried plum and malt with a thick body.",
-        "Chinese food, barbecue, milk tea.",
+        "Stir-fried Chinese dishes, barbecue, honey milk tea and mooncakes pair well. Honey and dried-plum sweetness with a thick body stands up to oily food and char, settling the palate after a meal. Very plain dishes like sashimi can be overwhelmed.",
         "95 °C for 3 minutes; still has strength under milk."
       ],
       "zh-CN": [
@@ -4471,7 +4471,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 长发酵 → 干燥。大叶久发酵，显出金色芽头。",
         "1939年在凤庆首次制成，是较年轻的红茶。",
         "蜂蜜、干李与麦芽，汤体厚。",
-        "中餐、烧烤、奶茶。",
+        "中式炒菜、烧烤、蜂蜜奶茶和月饼搭配得很好。蜂蜜与干梅的甘甜加上厚实体感，能站稳于油腻食物与炭火，在餐后安定口腔。生鱼片等非常朴素的菜肴可能被压倒。",
         "95度3分钟。加奶仍有力量。"
       ],
       "zh-TW": [
@@ -4485,7 +4485,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 長發酵 → 乾燥。大葉久發酵，顯出金色芽頭。",
         "1939年在鳳慶首次製成，是較年輕的紅茶。",
         "蜂蜜、乾李與麥芽，湯體厚。",
-        "中餐、燒烤、奶茶。",
+        "中式炒菜、燒烤、蜂蜜奶茶和月餅搭配起來很好。蜂蜜與梅乾的甜味加上厚實茶體,能站得住油膩食物與炭火,餐後讓味蕾安定。生魚片等非常清淡的料理可能被壓過。",
         "95度3分鐘。加奶仍有力量。"
       ]
     },
@@ -4514,7 +4514,7 @@ window.TEAFaiData = (function () {
         "아쌈 CTC를 진하게 우리고 생강·카다멈·계피·정향·후추를 넣어 우유와 함께 끓입니다.",
         "영국 식민지 시대 인도에서 차 재배가 늘며, 향신료와 우유를 넣어 마시는 방식이 자리 잠았습니다.",
         "향신료의 따뜻함, 우유의 둥근 단맛, 진한 홍차의 힘.",
-        "사모사, 파라타, 아침 빵.",
+        "사모사, 파라타, 구운 아침 빵, 카다멈 쿠키가 어울립니다. 향신료의 따뜻함과 우유의 둥근 단맛이 기름에 튀긴 인도의 간식과 같은 고향의 맛으로 자연스럽게 어울립니다. 섬세한 과일 디저트는 향신료 향에 묻히기 쉬우니 피하세요.",
         "우유와 함께 끓여야 향신료가 열립니다. 설탕은 취향껏."
       ],
       en: [
@@ -4528,7 +4528,7 @@ window.TEAFaiData = (function () {
         "Strong Assam CTC with ginger, cardamom, cinnamon, clove and pepper, boiled with milk.",
         "Tea growing spread in colonial India and the spiced, milky way of drinking it settled in with it.",
         "Warm spice, round milk sweetness and the strength of strong black tea.",
-        "Samosa, paratha, morning bread.",
+        "Samosas, parathas, toasted morning bread and cardamom cookies pair well. Warm spice and round milk sweetness meet fried Indian snacks in a natural hometown match. Delicate fruit desserts tend to disappear under the spice.",
         "Boil with the milk so the spice opens. Sugar to taste."
       ],
       "zh-CN": [
@@ -4542,7 +4542,7 @@ window.TEAFaiData = (function () {
         "用阿萨姆CTC浓泡，加生姜、小豆蔻、肉桂、丁香、胡椒，与牛奶同煮。",
         "殖民时期印度茶叶增产，加香料与牛奶的喝法也随之普及。",
         "香料的温暖、牛奶的圆润甜与浓红茶的力。",
-        "萨莫萨、印度煎饼、早餐面包。",
+        "萨摩萨、抛饼、烤晨间面包和豆蔻饼干搭配得很好。温暖的香料与圆润的牛奶甘甜与印度油炸小吃自然相遇，如家乡般相配。精致水果甜点容易在香料之下消失。",
         "与牛奶同煮香气才开。糖按口味。"
       ],
       "zh-TW": [
@@ -4556,7 +4556,7 @@ window.TEAFaiData = (function () {
         "用阿薩姆CTC濃泡，加生薑、小豆蔻、肉桂、丁香、胡椒，與牛奶同煮。",
         "殖民時期印度茶葉增產，加香料與牛奶的喝法也隨之普及。",
         "香料的溫暖、牛奶的圓潤甜與濃紅茶的力。",
-        "薩莫薩、印度煎餅、早餐麵包。",
+        "薩摩薩餃、印度烤餅、烤過的晨間麵包和豆蔻餅乾搭配起來很好。溫暖的香料與圓潤的牛奶甜味,與印度油炸小吃自然相遇,如同家鄉的搭配。精緻的水果甜點容易在香料之下消失。",
         "與牛奶同煮香氣才開。糖按口味。"
       ]
     },
@@ -4584,7 +4584,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 2000년대에 유기농 재배로 전환했습니다.",
         "시킴은 인도에서 처음으로 전 지역 유기농 차 재배를 선언한 주입니다.",
         "꽃 향과 옅은 머스캣, 부드러운 바디.",
-        "스콘, 견과, 가벼운 디저트.",
+        "스콘, 구운 견과, 머랭, 가벼운 과일 디저트가 어울립니다. 꽃 향과 옅은 머스캣의 부드러운 바디가 고소한 견과와 달콤한 디저트 사이에서 향을 맑게 이어 줍니다. 진한 카레나 매운 음식은 이 부드러움을 깨뜨리니 피하세요.",
         "95도에서 3분. 우유 없이 향을 살립니다."
       ],
       en: [
@@ -4598,7 +4598,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying; the state converted to organic growing in the 2000s.",
         "Sikkim was the first Indian state to declare all of its tea organic.",
         "Flowers and a light muscatel, with a soft body.",
-        "Scones, nuts, light desserts.",
+        "Scones, roasted nuts, meringues and light fruit desserts pair well. Flowers and a light muscatel over a soft body carry the aroma cleanly between nutty and sweet bites. Strong curry or spicy food would break its gentleness.",
         "95 °C for 3 minutes; no milk, to keep the aroma."
       ],
       "zh-CN": [
@@ -4612,7 +4612,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。2000年代起转为有机种植。",
         "锡金是印度第一个宣布全境茶叶有机的邦。",
         "花香与淡麝香葡萄，汤体柔和。",
-        "司康、坚果、清淡甜点。",
+        "司康饼、烤坚果、蛋白霜和清淡水果甜点搭配得很好。花香与轻盈麝香覆于柔和体感之上，在坚果香与甜味的每一口之间干净地传递香气。浓重咖喱或辛辣食物会打破它的温和。",
         "95度3分钟。不加奶以保留香气。"
       ],
       "zh-TW": [
@@ -4626,7 +4626,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。2000年代起轉為有機種植。",
         "錫金是印度第一個宣布全境茶葉有機的邦。",
         "花香與淡麝香葡萄，湯體柔和。",
-        "司康、堅果、清淡甜點。",
+        "司康、烘烤堅果、蛋白霜和清淡水果甜點搭配起來很好。花香與輕盈的麝香覆在柔和的茶體上,能在堅果香與甜味的每一口之間乾淨地傳遞香氣。濃咖哩或辛辣食物會打破它的溫和。",
         "95度3分鐘。不加奶以保留香氣。"
       ]
     },
@@ -4654,7 +4654,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 소규모 농가가 손으로 만드는 차가 많습니다.",
         "네팔 차는 1863년 중국에서 종자를 들여와 시작되었고, 다즐링과 비슷한 향으로 알려졌습니다.",
         "꽃·청포도·옅은 머스캣, 가볍습니다.",
-        "스콘, 과일, 가벼운 디저트.",
+        "스콘, 청포도 같은 신선한 과일, 레몬 케이크, 요거트 디저트가 어울립니다. 꽃과 청포도의 가벼운 향이 다즐링처럼 섬세해서 담백한 디저트의 맛을 맑게 살려 줍니다. 진한 크림이나 초콜릿은 가벼운 향을 덮으니 곁들이지 마세요.",
         "90~95도에서 3분. 우유 없이."
       ],
       en: [
@@ -4668,7 +4668,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying, much of it by hand on small farms.",
         "Nepali tea began with seed from China in 1863 and is known for a Darjeeling-like aroma.",
         "Flowers, green grape and a light muscatel.",
-        "Scones, fruit, light desserts.",
+        "Scones, fresh fruit like green grapes, lemon cake and yogurt desserts pair well. Its light flowers and green grape are as delicate as Darjeeling, keeping mild desserts tasting clean. Heavy cream or chocolate would cover its lightness.",
         "90–95 °C for 3 minutes, no milk."
       ],
       "zh-CN": [
@@ -4682,7 +4682,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。多为小农手工制作。",
         "尼泊尔茶始于1863年从中国引入茶种，香气近似大吉岭。",
         "花香、青葡萄与淡麝香葡萄。",
-        "司康、水果、清淡甜点。",
+        "司康饼、青葡萄等新鲜水果、柠檬蛋糕和酸奶甜点搭配得很好。它轻盈的花香与青葡萄如大吉岭般精致，让清淡甜点保持干净滋味。浓重奶油或巧克力会盖住它的轻盈。",
         "90~95度3分钟，不加奶。"
       ],
       "zh-TW": [
@@ -4696,7 +4696,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。多為小農手工製作。",
         "尼泊爾茶始於1863年從中國引入茶種，香氣近似大吉嶺。",
         "花香、青葡萄與淡麝香葡萄。",
-        "司康、水果、清淡甜點。",
+        "司康、青葡萄等新鮮水果、檸檬蛋糕和優格甜點搭配起來很好。它輕盈的花香與青葡萄如同大吉嶺一樣細緻,讓清淡甜點保持乾淨的味道。濃重的鮮奶油或巧克力會蓋住它的輕盈。",
         "90~95度3分鐘，不加奶。"
       ]
     },
@@ -4724,7 +4724,7 @@ window.TEAFaiData = (function () {
         "위조 → CTC(분쇄·발효) → 건조. 잘게 부순 잎이 금방 진하게 우러납니다.",
         "1903년 영국인이 차를 들여온 뒤 세계 3대 홍차 수출국이 되었습니다. 대부분 티백용입니다.",
         "진한 붉은 색, 강한 몰트와 떫음, 우유를 잘 견딥니다.",
-        "밀크티, 차이, 아침 티백.",
+        "밀크티, 마살라 차이, 진한 아침 식사, 버터 쿠키가 어울립니다. 강한 몰트와 떫음이 우유를 듬뿍 넣어도 무너지지 않아 아침 티백으로 든든합니다. 스트레이트로 섬세한 디저트와 맞추기에는 힘이 세니 우유와 함께 드세요.",
         "98도에서 3분. 우유와 함께 마십니다."
       ],
       en: [
@@ -4738,7 +4738,7 @@ window.TEAFaiData = (function () {
         "Withering → CTC (crush, tear, curl) → drying; the shredded leaf colours fast.",
         "Tea arrived in 1903 and Kenya became one of the world's three largest exporters, mostly for tea bags.",
         "Deep red, strong malt and astringency, stands up to milk.",
-        "Milk tea, chai, morning tea bags.",
+        "Milk tea, masala chai, a hearty breakfast and butter cookies pair well. Strong malt and astringency stay standing even under plenty of milk, making a sturdy morning cup. Straight, it is a bit forceful for delicate desserts — take it with milk.",
         "98 °C for 3 minutes. Made for milk."
       ],
       "zh-CN": [
@@ -4752,7 +4752,7 @@ window.TEAFaiData = (function () {
         "萎凋 → CTC（切碎、撕裂、卷曲）→ 干燥。碎叶很快出色。",
         "1903年英国人引入茶种，如今是世界三大红茶出口国之一，多用于茶包。",
         "深红汤色，强麦芽与涩，耐得住牛奶。",
-        "奶茶、香料茶、早餐茶包。",
+        "奶茶、玛萨拉茶、丰盛早餐和黄油饼干搭配得很好。强烈的麦芽与涩感即使在大量牛奶之下依然站立，成就一杯结实的晨间茶。清饮时对精致甜点略显强势——请加牛奶饮用。",
         "98度3分钟。适合加奶。"
       ],
       "zh-TW": [
@@ -4766,7 +4766,7 @@ window.TEAFaiData = (function () {
         "萎凋 → CTC（切碎、撕裂、捲曲）→ 乾燥。碎葉很快出色。",
         "1903年英國人引入茶種，如今是世界三大紅茶出口國之一，多用於茶包。",
         "深紅湯色，強麥芽與澀，耐得住牛奶。",
-        "奶茶、香料茶、早餐茶包。",
+        "奶茶、瑪薩拉奶茶、扎實的早餐和奶油餅乾搭配起來很好。強勁的麥芽與澀感即使在大量牛奶之下也站得住,成就一杯扎實的晨間茶。直接喝對精緻甜點來說略顯強勢——請加牛奶享用。",
         "98度3分鐘。適合加奶。"
       ]
     },
@@ -4796,7 +4796,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 하동의 녹차 잎을 완전 산화시켜 홍차로 만듭니다.",
         "‘잭살’은 작설(雀舌)의 경남 방언입니다. 하동 농가가 녹차 잎으로 홍차를 만들며 붙인 이름입니다.",
         "꿀·말린 과일·몰트, 부드러운 떫음.",
-        "과일, 빵, 밀크티.",
+        "제철 과일, 구운 빵, 꿀을 넣은 밀크티, 약과가 어울립니다. 꿀과 말린 과일의 단맛에 부드러운 떫음이 더해져 한식 디저트와 빵의 고소함을 깔끔하게 받쳐 줍니다. 매운 찌개류와는 향의 결이 어긋나니 따로 즐기세요.",
         "85~90도에서 3분. 향이 부드러워 우유 없이도 좋습니다."
       ],
       en: [
@@ -4810,7 +4810,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → full oxidation → drying, using Hadong green-tea leaf.",
         "Jaksal is the Gyeongsang dialect for jakseol, a young leaf; Hadong growers gave the name to their black tea.",
         "Honey, dried fruit and malt, with a soft astringency.",
-        "Fruit, bread, milk tea.",
+        "Seasonal fruit, toasted bread, honey milk tea and yakgwa pair well. Honey and dried-fruit sweetness with soft astringency neatly supports Korean desserts and nutty breads. Spicy stews pull against its aroma, so enjoy it separately.",
         "85–90 °C for 3 minutes. Soft enough without milk."
       ],
       "zh-CN": [
@@ -4824,7 +4824,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 完全发酵 → 干燥，用河东的绿茶鲜叶制成。",
         "“잭살”是庆尚方言里的“雀舌”。河东茶农用绿茶鲜叶做红茶时取了这个名字。",
         "蜂蜜、干果与麦芽，涩味柔和。",
-        "水果、面包、奶茶。",
+        "时令水果、烤面包、蜂蜜奶茶和药果搭配得很好。蜂蜜与干果的甘甜加上柔和涩感，整洁地支撑韩式甜点与坚果香面包。辛辣炖菜与它的香气相拉扯，因此请分开享用。",
         "85~90度3分钟。不加奶也很好。"
       ],
       "zh-TW": [
@@ -4838,7 +4838,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 完全發酵 → 乾燥，用河東的綠茶鮮葉製成。",
         "「잭살」是慶尚方言裡的「雀舌」。河東茶農用綠茶鮮葉做紅茶時取了這個名字。",
         "蜂蜜、乾果與麥芽，澀味柔和。",
-        "水果、麵包、奶茶。",
+        "時令水果、烤麵包、蜂蜜奶茶和藥菓搭配起來很好。蜂蜜與果乾的甜味加上柔和的澀感,俐落地支撐韓式甜點與堅果香麵包。辛辣燉菜會與它的香氣相逆,因此請分開享用。",
         "85~90度3分鐘。不加奶也很好。"
       ]
     },
@@ -4866,7 +4866,7 @@ window.TEAFaiData = (function () {
         "위조 → 유념 → 산화 → 건조. 대엽종을 오래 산화시킵니다.",
         "1951년 타이완 차개량장 어지분장에서 미얀마 아쌈(B-729)과 타이완 야생 산차(B-607)를 교배해 만들었고, 1999년 대차18호로 명명, 2003년 ‘홍옥’이라는 이름이 붙었습니다.",
         "민트·계피·육두구 같은 향신료 향, 진한 색, 긴 여운.",
-        "중식, 훈제 요리, 밀크티.",
+        "중식 볶음 요리, 훈제 요리, 밀크티, 계피 쿠키가 어울립니다. 민트와 계피, 육두구의 향신료 향이 기름진 요리의 느끼함을 상쾌하게 끊어 주고 긴 여운을 남깁니다. 담백한 생선회는 강한 향신료 향에 눌리니 피하세요.",
         "95도에서 3분. 민트 향은 뜨거운 물에서 더 열립니다."
       ],
       en: [
@@ -4880,7 +4880,7 @@ window.TEAFaiData = (function () {
         "Withering → rolling → oxidation → drying, with a long oxidation of large leaf.",
         "Crossed in 1951 at the Yuchi branch of Taiwan's tea improvement station from Burmese assamica (B-729) and Taiwanese wild mountain tea (B-607); named TTES No.18 in 1999 and given the name Hong Yu (Ruby) in 2003.",
         "Mint, cinnamon and nutmeg, a deep colour, a long finish.",
-        "Chinese food, smoked dishes, milk tea.",
+        "Chinese stir-fries, smoked dishes, milk tea and cinnamon cookies pair well. Mint, cinnamon and nutmeg spice cut through rich food refreshingly and leave a long finish. Plain sashimi would be overwhelmed by the spice.",
         "95 °C for 3 minutes; hot water opens the mint."
       ],
       "zh-CN": [
@@ -4894,7 +4894,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 发酵 → 干燥。大叶种长时间发酵。",
         "1951年台湾茶改场鱼池分场以缅甸阿萨姆（B-729）与台湾野生山茶（B-607）杂交育成，1999年命名台茶18号，2003年定名“红玉”。",
         "薄荷、肉桂与肉豆蔻般的香料香，汤色深，余韵长。",
-        "中餐、熏制料理、奶茶。",
+        "中式炒菜、烟熏菜肴、奶茶和肉桂饼干搭配得很好。薄荷、肉桂与肉豆蔻香料清爽地穿透丰盛食物，尾韵悠长。原味生鱼片会被香料压倒。",
         "95度3分钟。热水使薄荷香更开。"
       ],
       "zh-TW": [
@@ -4908,7 +4908,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 揉捻 → 發酵 → 乾燥。大葉種長時間發酵。",
         "1951年台灣茶改場魚池分場以緬甸阿薩姆（B-729）與台灣野生山茶（B-607）雜交育成，1999年命名台茶18號，2003年定名「紅玉」。",
         "薄荷、肉桂與肉豆蔻般的香料香，湯色深，餘韻長。",
-        "中餐、燻製料理、奶茶。",
+        "中式炒菜、煙燻料理、奶茶和肉桂餅乾搭配起來很好。薄荷、肉桂與肉豆蔻的香料能清新地穿透豐盛食物,留下悠長尾韻。原味生魚片會被香料壓過。",
         "95度3分鐘。熱水使薄荷香更開。"
       ]
     },
@@ -4933,7 +4933,7 @@ window.TEAFaiData = (function () {
         "위조 → 살청 → 유념 → 건조 → 압착, 이후 자연 후발효.",
         "청나라 때 공차로 바쳐지고 티베트와 광동·홍콩 등지로 대량 유통되었습니다. 생차는 눌러 만든 뒤 오래 두며 익힙니다.",
         "5년에 말린 과일·꿀, 10년에 대추·약재, 20년이면 오래된 나무 서랍 같은 향.",
-        "기름진 식사, 중식, 육류.",
+        "기름진 중식, 구운 육류, 월병, 말린 과일 디저트가 어울립니다. 숙성되며 깊어지는 과일·꿀·약재 향이 육류의 지방을 씻어 내고 식사를 개운하게 마무리해 줍니다. 섬세한 해산물 요리는 묵직한 숙성 향에 눌릴 수 있습니다.",
         "100도 끓는 물. 첫 물은 세차로 버립니다."
       ],
       en: [
@@ -4947,7 +4947,7 @@ window.TEAFaiData = (function () {
         "Withering → firing → rolling → drying → pressing, then natural post-fermentation.",
         "In Qing times the cakes went as tribute and in bulk to Tibet and to Guangdong and Hong Kong; sheng is left to mature for years.",
         "Dried fruit and honey at five years, dates and herbs at ten, an old wooden drawer by twenty.",
-        "Rich meals, Chinese food, meat.",
+        "Rich Chinese dishes, grilled meats, mooncakes and dried-fruit desserts pair well. Its ageing fruit, honey and herbal depth rinses away meat fat for a clean finish. Delicate seafood can be pressed down by the weighty aged aroma.",
         "Boiling water. Discard the first rinse."
       ],
       "zh-CN": [
@@ -4961,7 +4961,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 杀青 → 揉捻 → 干燥 → 压制，然后自然后发酵。",
         "清代作为贡茶，并大量销往西藏与广东、香港。生茶压成饼后要放多年才成熟。",
         "5年是干果与蜂蜜，10年是红枣与药材，20年像老木抽屉。",
-        "油腻餐食、中餐、肉类。",
+        "丰盛中餐、烤肉、月饼和干果甜点搭配得很好。它陈化的果香、蜂蜜与草本深度洗去肉的油脂，收尾干净。精致海鲜可能被沉甸甸的陈香压住。",
         "用沸水。第一泡洗茶倒掉。"
       ],
       "zh-TW": [
@@ -4975,7 +4975,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 殺菁 → 揉捻 → 乾燥 → 壓製，然後自然後發酵。",
         "清代作為貢茶，並大量銷往西藏與廣東、香港。生茶壓成餅後要放多年才成熟。",
         "5年是乾果與蜂蜜，10年是紅棗與藥材，20年像老木抽屜。",
-        "油膩餐食、中餐、肉類。",
+        "豐盛的中菜、烤肉、月餅和果乾甜點搭配起來很好。它陳放的果香、蜂蜜與藥草深度能洗去肉的油脂,留下乾淨的尾韻。精緻的海鮮可能被沉穩的陳香壓住。",
         "用沸水。第一泡洗茶倒掉。"
       ]
     },
@@ -4999,7 +4999,7 @@ window.TEAFaiData = (function () {
         "위조 → 살청 → 유념 → 악퇴(수분 30~40%, 50~65도에서 40~70일) → 건조 → 압착.",
         "1973년 쿤밍차창이 숙성 기간을 줄이려고 악퇴 기법을 개발했습니다.",
         "흙내음·대추·버섯, 부드러운 질감과 단맛.",
-        "식후, 기름진 음식, 매운 요리.",
+        "기름진 식후 한 잔, 매운 요리, 구운 고기, 대추 디저트가 어울립니다. 흙과 대추의 부드러운 단맛과 질감이 기름진 음식 뒤에 입안을 편안하게 감싸 줍니다. 신선한 과일의 산뜻함과는 결이 달라 따로 즐기는 편이 좋습니다.",
         "100도에서 15초. 첫 두 번은 세차로 버립니다."
       ],
       en: [
@@ -5013,7 +5013,7 @@ window.TEAFaiData = (function () {
         "Withering → firing → rolling → wo dui (30–40% moisture, 50–65 °C, 40–70 days) → drying → pressing.",
         "The Kunming tea factory developed wo dui in 1973 to shorten the wait.",
         "Earth, dates and mushroom, with a soft texture and sweetness.",
-        "After meals, rich food, spicy dishes.",
+        "A cup after a rich meal, spicy dishes, grilled meat and jujube desserts pair well. Earth and date sweetness with a soft texture comfort the palate after oily food. It runs against the freshness of raw fruit, so enjoy those apart.",
         "100 °C for 15 seconds. Discard the first two rinses."
       ],
       "zh-CN": [
@@ -5027,7 +5027,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 杀青 → 揉捻 → 渥堆（含水30~40%，50~65度下40~70天）→ 干燥 → 压制。",
         "1973年昆明茶厂为缩短陈化时间而开发了渥堆工艺。",
         "陈土、红枣与菌菇，柔和的口感与甜。",
-        "饭后、油腻食物、辛辣料理。",
+        "丰盛一餐之后的一杯、辛辣菜肴、烤肉和红枣甜点搭配得很好。大地与枣子的甘甜加上柔和质地，在油腻食物之后安慰口腔。它与生鲜水果的清新相违，因此请分开享用。",
         "100度15秒。前两次洗茶倒掉。"
       ],
       "zh-TW": [
@@ -5041,7 +5041,7 @@ window.TEAFaiData = (function () {
         "萎凋 → 殺菁 → 揉捻 → 渥堆（含水30~40%，50~65度下40~70天）→ 乾燥 → 壓製。",
         "1973年昆明茶廠為縮短陳化時間而開發了渥堆工藝。",
         "陳土、紅棗與菌菇，柔和的口感與甜。",
-        "飯後、油膩食物、辛辣料理。",
+        "豐盛的一餐之後來一杯、辛辣料理、烤肉和棗子甜點搭配起來很好。泥土與棗子的甜味加上柔和的質地,能在油膩食物之後安撫味蕾。它與新鮮水果的清新相逆,因此請分開享用。",
         "100度15秒。前兩次洗茶倒掉。"
       ]
     },
@@ -5065,7 +5065,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 악퇴 → 칠성조에서 소나무 연기로 천천히 건조.",
         "안화는 명·청 시대에 변방으로 가는 ‘변차’를 만들던 흑차의 본거지입니다.",
         "연기·대추·약재, 부드럽고 진합니다.",
-        "고기, 중식, 차게.",
+        "구운 고기, 기름진 중식, 훈제 소시지, 대추차가 어울리고 차게 식혀 마셔도 좋습니다. 연기와 대추, 약재의 부드럽고 진한 맛이 육류의 기름기를 정리해 줍니다. 맑은 향의 섬세한 디저트는 묵직한 향에 가려지니 피하세요.",
         "100도에서 20초, 여러 번 우립니다."
       ],
       en: [
@@ -5079,7 +5079,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → wo dui → slow drying over pine smoke on the seven-star stove.",
         "Anhua was the home of the border tea sent to the frontiers in Ming and Qing times.",
         "Smoke, dates and herbs, soft but deep.",
-        "Meat, Chinese food, and it goes down cold too.",
+        "Grilled meat, rich Chinese dishes, smoked sausage and jujube tea pair well, and it drinks nicely cold too. Smoke, dates and herbs in a soft, deep brew tidy up meat fat. Light, delicate desserts would be hidden by its weight.",
         "100 °C for 20 seconds, many times."
       ],
       "zh-CN": [
@@ -5093,7 +5093,7 @@ window.TEAFaiData = (function () {
         "杀青 → 揉捻 → 渥堆 → 七星灶松烟慢烘。",
         "明清时期安化是输往边疆的“边茶”之乡。",
         "烟熏、红枣与药材，柔和而深。",
-        "肉类、中餐，冷了也好喝。",
+        "烤肉、丰盛中餐、烟熏香肠和红枣茶搭配得很好，冷饮也不错。烟、枣与草本在柔和深厚的茶汤中收拾肉的油脂。清淡精致的甜点会被它的厚重藏住。",
         "100度20秒，可多次冲泡。"
       ],
       "zh-TW": [
@@ -5107,7 +5107,7 @@ window.TEAFaiData = (function () {
         "殺菁 → 揉捻 → 渥堆 → 七星灶松煙慢烘。",
         "明清時期安化是輸往邊疆的「邊茶」之鄉。",
         "煙燻、紅棗與藥材，柔和而深。",
-        "肉類、中餐，冷了也好喝。",
+        "烤肉、豐盛的中菜、煙燻香腸和棗子茶搭配起來很好,冰著喝也不錯。煙燻、棗子與藥草在柔和深沉的茶湯中收拾肉的油脂。清淡精緻的甜點會被它的份量藏住。",
         "100度20秒，可多次沖泡。"
       ]
     },
@@ -5131,7 +5131,7 @@ window.TEAFaiData = (function () {
         "살청 → 유념 → 퇴민 → 건조, 이후 악퇴와 증압을 거쳐 대나무 광주리에 담아 진화.",
         "청 가경 연간 중국 24대 명차에 들었고, 광저우를 거쳐 홍콩·동남아로 나가는 교소차로 이름을 알렸습니다. 1950년대에 냉수 악퇴 공법이 정립됐습니다.",
         "버섯·빈랑 향, 부드러운 단맛.",
-        "기름진 음식, 중식.",
+        "기름진 중식, 딤섬, 구운 버섯 요리, 돼지고기 요리가 어울립니다. 버섯과 빈랑의 독특한 향과 부드러운 단맛이 딤섬과 육류의 기름기를 부드럽게 받아 냅니다. 신맛이 강한 음식은 이 차의 둥근 단맛과 부딪히니 주의하세요.",
         "100도에서 20초. 오래 둘수록 부드러워집니다."
       ],
       en: [
@@ -5145,7 +5145,7 @@ window.TEAFaiData = (function () {
         "Firing → rolling → piling → drying, then further piling and steaming, and ageing in bamboo baskets.",
         "Listed among China's 24 famous teas in the Jiaqing era, it became known as an export tea shipped via Guangzhou to Hong Kong and Southeast Asia; the cold-water piling method was set in the 1950s.",
         "Mushroom and betel-nut notes with a soft sweetness.",
-        "Rich food, Chinese dishes.",
+        "Rich Chinese food, dim sum, roasted mushroom dishes and pork pair well. Its distinctive mushroom and betel-nut notes with soft sweetness gently take on the fat of dim sum and meat. Strongly sour food clashes with its round sweetness.",
         "100 °C for 20 seconds; it softens with age."
       ],
       "zh-CN": [
@@ -5159,7 +5159,7 @@ window.TEAFaiData = (function () {
         "杀青 → 揉捻 → 堆闷 → 干燥，再经渥堆与蒸压，入竹篓陈化。",
         "清嘉庆年间列入中国24种名茶，经广州销往香港与东南亚，为侨销茶。1950年代定型冷水渥堆工艺。",
         "菌菇与槟榔香，柔和的甜。",
-        "油腻食物、中餐。",
+        "丰盛中餐、点心、烤蘑菇菜肴和猪肉搭配得很好。它独特的蘑菇与槟榔气息加上柔和甘甜，温和地承接点心与肉的油脂。酸味强的食物与它圆润的甘甜冲突。",
         "100度20秒，越存越柔。"
       ],
       "zh-TW": [
@@ -5173,7 +5173,7 @@ window.TEAFaiData = (function () {
         "殺菁 → 揉捻 → 堆悶 → 乾燥，再經渥堆與蒸壓，入竹簍陳化。",
         "清嘉慶年間列入中國24種名茶，經廣州銷往香港與東南亞，為僑銷茶。1950年代定型冷水渥堆工藝。",
         "菌菇與檳榔香，柔和的甜。",
-        "油膩食物、中餐。",
+        "豐盛的中菜、點心、烤蘑菇料理和豬肉搭配起來很好。它獨特的蘑菇與檳榔香加上柔和甜味,能溫和地承接點心與肉的油脂。酸味強的食物與它圓潤的甜味衝突。",
         "100度20秒，越存越柔。"
       ]
     },
@@ -5201,7 +5201,7 @@ window.TEAFaiData = (function () {
         "찐 잎을 절구에 짜아 엽전 모양으로 눌러 구멍을 뚫고 말린 뒤, 보관하며 발효합니다.",
         "조선 시대 장흥·강진에서 만들어진 동전 모양 차입니다. 일제강점기 이후 맥이 끊겼다가 2006~2008년 장흥에서 복원되었습니다.",
         "흙·약재·대추, 부드럽고 따뜻합니다.",
-        "식후, 겨울, 기름진 음식.",
+        "기름진 식후 한 잔, 겨울철 한식 상차림, 대추와 밤 디저트, 구운 고기가 어울립니다. 흙과 약재, 대추의 부드럽고 따뜻한 맛이 식사를 차분하게 마무리해 줍니다. 차갑고 상큼한 샐러드와는 온도의 결이 달라 어울리지 않습니다.",
         "100도에서 1분, 또는 500ml에 넣고 5분 끓입니다."
       ],
       en: [
@@ -5215,7 +5215,7 @@ window.TEAFaiData = (function () {
         "Steamed leaf is pounded, pressed into coins with a hole, dried and stored to ferment.",
         "Made in Jangheung and Gangjin in Joseon times, it faded out after the Japanese colonial period and was revived in Jangheung in 2006–2008.",
         "Earth, herbs and dates, soft and warming.",
-        "After meals, winter, rich food.",
+        "A cup after a rich meal, a winter Korean table, jujube-and-chestnut desserts and grilled meat pair well. Earth, herbs and dates in a soft, warming brew settle a meal calmly. Cold, zesty salads clash with its warmth.",
         "100 °C for 1 minute, or simmer one coin in 500 ml for 5 minutes."
       ],
       "zh-CN": [
@@ -5229,7 +5229,7 @@ window.TEAFaiData = (function () {
         "蒸过的叶子在臼里捣碎，压成带孔的铜钱形，烘干后存放发酵。",
         "朝鲜时期长兴、康津一带的铜钱形茶，日据时期后失传，2006~2008年在长兴复原。",
         "泥土、药材与红枣，柔和温暖。",
-        "饭后、冬天、油腻食物。",
+        "丰盛一餐之后的一杯、冬日韩式餐桌、红枣栗子甜点和烤肉搭配得很好。大地、草本与枣子在柔和温暖的茶汤中，让一餐平静地落定。冰凉爽口的沙拉与它的温暖冲突。",
         "100度1分钟，或500毫升水煮5分钟。"
       ],
       "zh-TW": [
@@ -5243,7 +5243,7 @@ window.TEAFaiData = (function () {
         "蒸過的葉子在臼裡搗碎，壓成帶孔的銅錢形，烘乾後存放發酵。",
         "朝鮮時期長興、康津一帶的銅錢形茶，日據時期後失傳，2006~2008年在長興復原。",
         "泥土、藥材與紅棗，柔和溫暖。",
-        "飯後、冬天、油膩食物。",
+        "豐盛的一餐之後來一杯、冬季韓式餐桌、棗子栗子甜點和烤肉搭配起來很好。泥土、藥草與棗子在柔和溫暖的茶湯中,讓一餐平靜地作結。冰涼酸爽的沙拉與它的溫暖衝突。",
         "100度1分鐘，或500毫升水煮5分鐘。"
       ]
     },
@@ -5273,7 +5273,7 @@ window.TEAFaiData = (function () {
         "기문·아쌈·실론 등 홍차를 섞고, 베르가못 오일을 얹어 향을 입힙니다. 배합 비율은 브랜드마다 다릅니다.",
         "1830년대 영국 총리 찰스 그레이 백작이 중국에서 받은 향차를 즐겼고, 런던의 차상 트와이닝이 상품화했다는 이야기가 전합니다. ‘얼그레이’는 상표가 아니라 차의 갈래가 되었습니다.",
         "시트러스와 꽃, 3분에 향과 맛이 균형을 이룹니다. 카페인은 한 잔 40~70mg.",
-        "스콘과 클로티드 크림, 다크초콜릿, 레몬 타르트, 약과, 훈제 연어.",
+        "스콘과 클로티드 크림, 다크초콜릿, 레몬 타르트, 약과, 훈제 연어가 어울립니다. 베르가못의 시트러스 향이 크림의 느끼함을 산뜻하게 끊고 초콜릿의 쌉싸름함과도 향으로 조화를 이룹니다. 마늘 향이 강한 요리는 향을 덮으니 피하세요.",
         "티백은 90~95도에 2분 30초~3분. 밀크티는 4~5분 진하게."
       ],
       en: [
@@ -5287,7 +5287,7 @@ window.TEAFaiData = (function () {
         "Keemun, Assam, Ceylon and other black teas blended and scented with bergamot oil; the proportions differ by brand.",
         "In the 1830s the British prime minister Charles Grey is said to have been given a scented tea from China, which Twinings turned into a product; Earl Grey became a family of tea, not a brand.",
         "Citrus and flowers, balanced at three minutes. A cup holds 40–70 mg of caffeine.",
-        "Scones with clotted cream, dark chocolate, lemon tart, yakgwa, smoked salmon.",
+        "Scones with clotted cream, dark chocolate, lemon tart, yakgwa and smoked salmon pair well. Bergamot citrus cuts refreshingly through cream, and its aroma harmonises with chocolate's bitterness. Strong garlic dishes would bury the fragrance.",
         "A tea bag at 90–95 °C for 2½–3 minutes; for milk tea, 4–5 minutes strong."
       ],
       "zh-CN": [
@@ -5301,7 +5301,7 @@ window.TEAFaiData = (function () {
         "以祁门、阿萨姆、锡兰等红茶拼配，加入佛手柑油赋香，比例各品牌不同。",
         "相传1830年代英国首相查尔斯·格雷伯爵收到来自中国的香茶，伦敦茶商川宁将其商品化。“伯爵茶”成了一个茶类。",
         "柑橘与花香，3分钟时香与味最平衡。一杯咖啡因约40~70毫克。",
-        "司康与凝脂奶油、黑巧克力、柠檬塔、药果、烟熏鲑鱼。",
+        "配凝脂奶油的司康饼、黑巧克力、柠檬塔、药果和烟熏三文鱼搭配得很好。佛手柑柑橘清爽地穿透奶油，香气与巧克力的苦味和谐。浓重蒜味菜肴会掩埋芬芳。",
         "茶包90~95度泡2分30秒~3分钟；奶茶泡4~5分钟。"
       ],
       "zh-TW": [
@@ -5315,7 +5315,7 @@ window.TEAFaiData = (function () {
         "以祁門、阿薩姆、錫蘭等紅茶拼配，加入佛手柑油賦香，比例各品牌不同。",
         "相傳1830年代英國首相查爾斯·格雷伯爵收到來自中國的香茶，倫敦茶商川寧將其商品化。「伯爵茶」成了一個茶類。",
         "柑橘與花香，3分鐘時香與味最平衡。一杯咖啡因約40~70毫克。",
-        "司康與凝脂奶油、黑巧克力、檸檬塔、藥果、煙燻鮭魚。",
+        "淋凝脂奶油的司康、黑巧克力、檸檬塔、藥菓和煙燻鮭魚搭配起來很好。佛手柑的柑橘能清新地穿透奶油,香氣與巧克力的苦味和諧。大蒜味重的菜會埋沒這份芬芳。",
         "茶包90~95度泡2分30秒~3分鐘；奶茶泡4~5分鐘。"
       ]
     },
@@ -5342,7 +5342,7 @@ window.TEAFaiData = (function () {
         "홍차에 베르가못 오일과 시트러스 껍질, 꽃잎을 더해 착향합니다.",
         "그레이 백작 부인의 이름을 붙인 데서 출발했다는 이야기가 있습니다.",
         "베르가못보다 부드러운 시트러스, 꽃 향, 옅은 단맛.",
-        "과일 타르트, 치즈케이크, 아이스티.",
+        "과일 타르트, 치즈케이크, 레몬 아이스티, 베리 머랭이 어울립니다. 얼그레이보다 부드러운 시트러스와 꽃 향이 치즈케이크의 산미와 달콤함을 가볍게 감싸 줍니다. 진한 훈제 요리나 매운 음식은 이 부드러운 향을 지워 버립니다.",
         "3분. 아이스티로도 잘 어울립니다."
       ],
       en: [
@@ -5356,7 +5356,7 @@ window.TEAFaiData = (function () {
         "Black tea scented with bergamot, citrus peel and petals.",
         "It is said to take its name from the Countess Grey.",
         "Softer citrus than Earl Grey, with flowers and a light sweetness.",
-        "Fruit tarts, cheesecake, iced tea.",
+        "Fruit tarts, cheesecake, lemon iced tea and berry meringues pair well. Citrus softer than Earl Grey's, with flowers, lightly wraps cheesecake's tang and sweetness. Strong smoked or spicy dishes would erase its softness.",
         "3 minutes; good iced."
       ],
       "zh-CN": [
@@ -5370,7 +5370,7 @@ window.TEAFaiData = (function () {
         "红茶加佛手柑油、柑橘皮与花瓣赋香。",
         "相传名字来自格雷伯爵夫人。",
         "比伯爵更柔和的柑橘、花香与淡甜。",
-        "水果塔、芝士蛋糕、冰茶。",
+        "水果塔、芝士蛋糕、柠檬冰茶和浆果蛋白霜搭配得很好。比伯爵茶更柔和的柑橘加上花香，轻轻包裹芝士蛋糕的酸与甜。浓重烟熏或辛辣菜肴会抹去它的柔和。",
         "3分钟。做冰茶也好。"
       ],
       "zh-TW": [
@@ -5384,7 +5384,7 @@ window.TEAFaiData = (function () {
         "紅茶加佛手柑油、柑橘皮與花瓣賦香。",
         "相傳名字來自格雷伯爵夫人。",
         "比伯爵更柔和的柑橘、花香與淡甜。",
-        "水果塔、起司蛋糕、冰茶。",
+        "水果塔、起司蛋糕、檸檬冰茶和莓果蛋白霜搭配起來很好。比伯爵茶更柔和的柑橘加上花香,能輕輕包裹起司蛋糕的酸與甜。煙燻味強或辛辣的菜會抹去它的柔和。",
         "3分鐘。做冰茶也好。"
       ]
     },
@@ -5412,7 +5412,7 @@ window.TEAFaiData = (function () {
         "진한 홍차를 중심으로 몰트와 색을 보강하는 배합입니다.",
         "19세기 영국에서 아침 식사와 함께 마시던 진한 홍차 배합이 굳어진 것입니다.",
         "몰트·꿀·말린 과일, 우유를 잘 견딥니다.",
-        "베이컨·에그, 토스트, 아침 식사.",
+        "베이컨과 달걀, 버터 토스트, 구운 소시지, 오렌지 마멀레이드가 어울립니다. 몰트와 꿀의 진한 맛이 짭짤한 아침 식사를 든든히 받치고 우유를 넣어도 무너지지 않습니다. 섬세한 과일 샐러드만으로는 이 차의 힘이 남을 수 있습니다.",
         "3~4분. 우유를 넣으면 5g·150ml로."
       ],
       en: [
@@ -5426,7 +5426,7 @@ window.TEAFaiData = (function () {
         "Built around strong black tea, with malt and colour reinforced.",
         "The strong blend drunk with breakfast in 19th-century Britain settled into this.",
         "Malt, honey and dried fruit, stands up to milk.",
-        "Bacon and eggs, toast, breakfast.",
+        "Bacon and eggs, buttered toast, grilled sausages and orange marmalade pair well. Deep malt and honey firmly support a salty breakfast and hold up under milk. A delicate fruit salad alone can leave this tea's strength unmatched.",
         "3–4 minutes; with milk, 5 g to 150 ml."
       ],
       "zh-CN": [
@@ -5440,7 +5440,7 @@ window.TEAFaiData = (function () {
         "以浓红茶为主体，补足麦芽香与汤色。",
         "19世纪英国早餐配浓茶的喝法固定下来成为此拼配。",
         "麦芽、蜂蜜与干果，很耐牛奶。",
-        "培根蛋、吐司、早餐。",
+        "培根鸡蛋、黄油吐司、烤香肠和橙子果酱搭配得很好。深厚的麦芽与蜂蜜稳稳支撑咸味早餐，并在牛奶之下站得住。单独一份精致水果沙拉可能让这款茶的力度无处匹配。",
         "3~4分钟。加奶则5克配150毫升。"
       ],
       "zh-TW": [
@@ -5454,7 +5454,7 @@ window.TEAFaiData = (function () {
         "以濃紅茶為主體，補足麥芽香與湯色。",
         "19世紀英國早餐配濃茶的喝法固定下來成為此拼配。",
         "麥芽、蜂蜜與乾果，很耐牛奶。",
-        "培根蛋、吐司、早餐。",
+        "培根蛋、奶油吐司、烤香腸和柳橙果醬搭配起來很好。深沉的麥芽與蜂蜜扎實地支撐鹹味早餐,並能站得住牛奶。單獨一份精緻的水果沙拉,可能讓這款茶的強勁無從相配。",
         "3~4分鐘。加奶則5公克配150毫升。"
       ]
     },    {
@@ -5482,7 +5482,7 @@ window.TEAFaiData = (function () {
         "차잎과 자스민을 층층이 쌓아 향을 옮기는 인향(窨制)을 여러 번 반복합니다.",
         "송대에 시작되어 청대에 푸젠에서 크게 발전했습니다. ‘모리화’는 자스민의 중국 이름입니다.",
         "달콤한 흰 꽃 향, 부드러운 녹차의 감칠맛.",
-        "중식, 과일, 가벼운 디저트.",
+        "딤섬 같은 중식, 신선한 과일, 가벼운 젤리나 무스 디저트와 어울립니다. 달콤한 흰 꽃 향이 기름진 중식 사이사이 입안을 향기롭게 환기해 주고, 녹차의 부드러운 감칠맛이 음식 맛을 방해하지 않습니다. 마늘이나 향신료가 강한 요리는 꽃 향과 부딪힙니다.",
         "85도에서 2분 30초. 향이 날아가지 않게 뚜껑을 덮습니다."
       ],
       en: [
@@ -5496,7 +5496,7 @@ window.TEAFaiData = (function () {
         "Leaf and flowers are layered so the aroma transfers, repeated many times (yinxiang).",
         "It began in the Song and grew greatly in Fujian under the Qing; molihua is the Chinese name for jasmine.",
         "Sweet white blossom over the soft umami of green tea.",
-        "Chinese food, fruit, light desserts.",
+        "Chinese food such as dim sum, fresh fruit and light jelly or mousse desserts suit it. Its sweet white-blossom aroma refreshes the palate fragrantly between bites of rich Chinese dishes, while the green tea's soft umami never interferes. Dishes heavy in garlic or spice clash with the florals.",
         "85 °C for 2½ minutes; keep the lid on so the aroma stays."
       ],
       "zh-CN": [
@@ -5510,7 +5510,7 @@ window.TEAFaiData = (function () {
         "茶叶与花层层堆叠，反复窨制，把香气移入茶中。",
         "始于宋代，清代在福建大发展。“茉莉”是它的中文名。",
         "甜润的白花香与绿茶柔和的鲜味。",
-        "中餐、水果、清淡甜点。",
+        "点心等中餐、新鲜水果和清淡果冻或慕斯甜点都很适合。它甜美的白花香在丰盛中餐的每一口之间芬芳地清新口腔，绿茶柔和的鲜味不会干扰。蒜味或香料重的菜肴与花香相冲突。",
         "85度2分30秒。盖上盖子以免香气跑掉。"
       ],
       "zh-TW": [
@@ -5524,7 +5524,7 @@ window.TEAFaiData = (function () {
         "茶葉與花層層堆疊，反覆窨製，把香氣移入茶中。",
         "始於宋代，清代在福建大發展。「茉莉」是它的中文名。",
         "甜潤的白花香與綠茶柔和的鮮味。",
-        "中餐、水果、清淡甜點。",
+        "點心等中菜、新鮮水果和清淡的果凍或慕斯甜點都很合適。甜美的白花香能在豐盛中菜的每一口之間清新味蕾,綠茶的柔和鮮味不會干擾。大蒜或香料重的菜會與花香衝突。",
         "85度2分30秒。蓋上蓋子以免香氣跑掉。"
       ]
     },
@@ -5554,7 +5554,7 @@ window.TEAFaiData = (function () {
         "여러 홍차를 섞어 진하게 우리고 무가당 연유(淡奶)를 더합니다.",
         "영국의 밀크티가 홍콩 차찬텡에서 연유와 진한 농도로 자리 잡았습니다.",
         "진한 몰트와 연유의 둥근 단맛, 두꺼운 질감.",
-        "파인애플 번, 토스트, 달걀 타르트.",
+        "파인애플 번, 버터 토스트, 달걀 타르트, 프렌치토스트가 어울립니다. 진한 몰트와 연유의 둥근 단맛, 두꺼운 질감이 차찬텡 빵들의 버터 향과 한 몸처럼 어울립니다. 담백한 샐러드와는 질감의 결이 달라 따로 즐기세요.",
         "5분 진하게. 연유는 마지막에 넣고 저어 마십니다."
       ],
       en: [
@@ -5568,7 +5568,7 @@ window.TEAFaiData = (function () {
         "Several black teas are blended and brewed strong, then evaporated milk is added.",
         "British milk tea settled in Hong Kong as a strong cup with evaporated milk.",
         "Strong malt and the round sweetness of milk, with a thick texture.",
-        "Pineapple bun, toast, egg tart.",
+        "Pineapple buns, buttered toast, egg tarts and French toast pair well. Strong malt, the round sweetness of condensed milk and a thick texture fit cha chaan teng breads like they were made together. Plain salads run on a different texture.",
         "Five minutes, strong. Add the milk last and stir."
       ],
       "zh-CN": [
@@ -5582,7 +5582,7 @@ window.TEAFaiData = (function () {
         "几种红茶拼配浓泡，最后加淡奶。",
         "英式奶茶在香港茶餐厅演变成浓泡加淡奶的喝法。",
         "浓麦芽与淡奶的圆润甜，质地厚。",
-        "菠萝包、吐司、蛋挞。",
+        "菠萝包、黄油吐司、蛋挞和法式吐司搭配得很好。强烈的麦芽、炼乳圆润的甘甜与厚实质地，与茶餐厅面包像天生一对般契合。原味沙拉走向不同的质地。",
         "5分钟泡浓。淡奶最后加再搅匀。"
       ],
       "zh-TW": [
@@ -5596,7 +5596,7 @@ window.TEAFaiData = (function () {
         "幾種紅茶拼配濃泡，最後加淡奶。",
         "英式奶茶在香港茶餐廳演變成濃泡加淡奶的喝法。",
         "濃麥芽與淡奶的圓潤甜，質地厚。",
-        "菠蘿包、吐司、蛋撻。",
+        "鳳梨包、奶油吐司、蛋塔和法式吐司搭配起來很好。強勁的麥芽、煉乳圓潤的甜味與厚實質地,與茶餐廳的麵包如同天生一對。原味沙拉的質地走向不同。",
         "5分鐘泡濃。淡奶最後加再攪勻。"
       ]
     },
@@ -5626,7 +5626,7 @@ window.TEAFaiData = (function () {
         "한국 전역. 경북 경산·보은 대추가 유명합니다.",
         "대추의 단맛과 살작 탄 향, 부드러운 바디.",
         "한과, 밤, 겨울 간식.",
-        "대추를 반으로 갈라 우려야 단맛이 빨리 납니다."
+        "대추를 반으로 갈라 우려야 단맛이 빨리 납니다.", "진한 단맛이 약과·인절미·호두과자와 잘 어울리고 밤양갱과도 결이 맞습니다. 기름진 명절 음식을 먹은 뒤 마시면 달콤함이 입안을 부드럽게 정리해 줍니다. 초콜릿케이크처럼 단 디저트와는 단맛이 겹쳐 피하는 게 좋습니다."
       ],
       en: [
         "Date Tea",
@@ -5638,7 +5638,7 @@ window.TEAFaiData = (function () {
         "Across Korea, with Gyeongsan and Boeun dates the best known.",
         "Date sweetness with a light scorched note and a soft body.",
         "Korean sweets, chestnuts, winter snacks.",
-        "Split the dates so the sweetness comes out faster."
+        "Split the dates so the sweetness comes out faster.", "Its deep sweetness pairs well with yakgwa, injeolmi, and walnut cakes, and matches chestnut yanggaeng in character. After rich holiday food, the sweetness gently settles the palate. Avoid sweet desserts like chocolate cake, where the sweetness overlaps and cloys."
       ],
       "zh-CN": [
         "红枣茶",
@@ -5650,7 +5650,7 @@ window.TEAFaiData = (function () {
         "韩国各地，庆山与报恩的红枣最有名。",
         "红枣的甜与微微的焙香，汤体柔和。",
         "韩式点心、栗子、冬季零食。",
-        "红枣剖开再泡，甜味出得快。"
+        "红枣剖开再泡，甜味出得快。", "它深厚的甘甜与药果、豆粉年糕和核桃糕很搭配，与栗子羊羹气质相合。丰盛的节日食物之后，这份甘甜能温和地安抚味觉。避免巧克力蛋糕这类甜点心，甜味叠加会变得腻人。"
       ],
       "zh-TW": [
         "紅棗茶",
@@ -5662,7 +5662,7 @@ window.TEAFaiData = (function () {
         "韓國各地，慶山與報恩的紅棗最有名。",
         "紅棗的甜與微微的焙香，湯體柔和。",
         "韓式點心、栗子、冬季零食。",
-        "紅棗剖開再泡，甜味出得快。"
+        "紅棗剖開再泡，甜味出得快。", "深沉的甜味與藥菓、黃豆粉年糕和核桃糕很搭，與栗子羊羹的風格也很合。豐盛的節慶料理之後，這份甜味能溫和地安頓味蕾。避免巧克力蛋糕這類甜膩的甜點，甜味重疊會變得膩口。"
       ]
     },
     {
@@ -5684,7 +5684,7 @@ window.TEAFaiData = (function () {
         "한국·중국. 생강 뿌리를 얇게 씨서 꿀에 절입니다.",
         "알싸한 매운맛과 꿀의 단맛.",
         "감기 기운이 있을 때, 식후.",
-        "너무 오래 끓이면 매운맛만 남습니다."
+        "너무 오래 끓이면 매운맛만 남습니다.", "알싸한 매운맛과 단맛이 인절미·곶감·약식처럼 달고 쫀득한 간식과 균형을 이룹니다. 추운 날 구운 고구마와 함께하면 온기가 더해져 잘 어울립니다. 떡볶이 같은 매운 음식과는 매운맛이 겹쳐 피하세요."
       ],
       en: [
         "Ginger Tea",
@@ -5696,7 +5696,7 @@ window.TEAFaiData = (function () {
         "Korea and China; thin slices of root preserved in honey.",
         "A clean peppery heat with honey sweetness.",
         "When a cold is coming, or after a meal.",
-        "Boil it too long and only the heat is left."
+        "Boil it too long and only the heat is left.", "Its pungent heat and sweetness balance sweet, chewy snacks like injeolmi, dried persimmon, and yaksik. With roasted sweet potato on a cold day, the warmth adds up nicely. Avoid spicy food like tteokbokki, where the heat overlaps."
       ],
       "zh-CN": [
         "生姜茶",
@@ -5708,7 +5708,7 @@ window.TEAFaiData = (function () {
         "韩国与中国，姜切薄片用蜜腌。",
         "清爽的辛香与蜂蜜的甜。",
         "快感冒时，或饭后。",
-        "煮太久只剩辣味。"
+        "煮太久只剩辣味。", "它辛辣的热感与甘甜能平衡豆粉年糕、柿饼和药食这类甜糯的小吃。寒冷的日子里配上烤红薯，暖意叠加得很舒服。避免辣炒年糕等辛辣食物，辣味会重叠。"
       ],
       "zh-TW": [
         "生薑茶",
@@ -5720,7 +5720,7 @@ window.TEAFaiData = (function () {
         "韓國與中國，薑切薄片用蜜醃。",
         "清爽的辛香與蜂蜜的甜。",
         "快感冒時，或飯後。",
-        "煮太久只剩辣味。"
+        "煮太久只剩辣味。", "辛辣的熱感與甜味，能平衡黃豆粉年糕、柿餅和藥食這類香甜有嚼勁的點心。冷天裡配上烤地瓜，暖意疊加起來特別舒服。避免辣炒年糕等辛辣食物，辣味會重疊。"
       ]
     },
     {
@@ -5748,7 +5748,7 @@ window.TEAFaiData = (function () {
         "전남 고흥·완도. 11~12월 유자를 껍질째 절입니다.",
         "감귤 껍질의 향과 산뜻한 산미.",
         "과일, 디저트, 목이 아플 때.",
-        "끓는 물보다 80도가 향을 살립니다."
+        "끓는 물보다 80도가 향을 살립니다.", "상큼한 유자 향과 새콤달콤함이 카스텔라·마들렌·치즈케이크의 버터 풍미를 산뜻하게 씻어 줍니다. 가벼운 샌드위치와도 잘 맞습니다. 진한 초콜릿 디저트와는 향이 부딪힐 수 있어 피하는 게 좋습니다."
       ],
       en: [
         "Citron Tea",
@@ -5760,7 +5760,7 @@ window.TEAFaiData = (function () {
         "Goheung and Wando in Jeollanam-do; November–December citron preserved peel and all.",
         "Citrus peel aroma with a clean acidity.",
         "Fruit, desserts, a sore throat.",
-        "80 °C rather than boiling keeps the fragrance."
+        "80 °C rather than boiling keeps the fragrance.", "The bright citron aroma and sweet-tart flavor refreshingly wash down the buttery richness of castella, madeleines, and cheesecake. It also suits a light sandwich. Avoid dark chocolate desserts, whose aroma can clash with the citron."
       ],
       "zh-CN": [
         "柚子茶",
@@ -5772,7 +5772,7 @@ window.TEAFaiData = (function () {
         "全南高兴、莞岛，11~12月连皮腌制。",
         "柑橘皮的香与清爽的酸。",
         "水果、甜点、嗓子不舒服时。",
-        "80度比沸水更能留住香气。"
+        "80度比沸水更能留住香气。", "明亮的柚子香气与酸甜滋味能清爽地洗去卡斯特拉、玛德琳和芝士蛋糕的黄油浓郁感。配清淡的三明治也很合适。避免黑巧克力甜点，其香气可能与柚子相冲。"
       ],
       "zh-TW": [
         "柚子茶",
@@ -5784,7 +5784,7 @@ window.TEAFaiData = (function () {
         "全南高興、莞島，11~12月連皮醃製。",
         "柑橘皮的香與清爽的酸。",
         "水果、甜點、嗓子不舒服時。",
-        "80度比沸水更能留住香氣。"
+        "80度比沸水更能留住香氣。", "明亮的柚子香氣與酸甜滋味，能清爽地洗去卡斯特拉蛋糕、瑪德蓮和起司蛋糕的奶油濃郁感。也適合搭配清淡的三明治。避免黑巧克力甜點，其香氣可能與柚子相衝。"
       ]
     },
     {
@@ -5812,7 +5812,7 @@ window.TEAFaiData = (function () {
         "경북 문경·강원 정선. 9월 붉게 익은 오미자를 절입니다.",
         "신맛·단맛·쓴맛·짠맛·매운맛이 겹칩니다.",
         "여름 화채, 한과.",
-        "찬물이나 얼음물에 타야 신맛이 살아 있습니다."
+        "찬물이나 얼음물에 타야 신맛이 살아 있습니다.", "다섯 가지 맛 중에서도 또렷한 신맛이 삼겹살이나 전처럼 기름진 음식의 느끼함을 씻어 줍니다. 화전·인절미 같은 떡과도 새콤달콤하게 어울립니다. 레몬타르트처럼 신맛이 강한 디저트와는 신맛이 겹쳐 피하세요."
       ],
       en: [
         "Schisandra Tea",
@@ -5824,7 +5824,7 @@ window.TEAFaiData = (function () {
         "Mungyeong in North Gyeongsang and Jeongseon in Gangwon; berries preserved after ripening in September.",
         "Sour, sweet, bitter, salty and pungent at once.",
         "Summer fruit punch, Korean sweets.",
-        "Mix with cold or iced water so the sourness stays."
+        "Mix with cold or iced water so the sourness stays.", "Its clear sourness, foremost of the five flavors, washes away the greasiness of rich food like pork belly and jeon. It also goes sweetly and tartly with rice cakes like hwajeon and injeolmi. Avoid strongly sour desserts like lemon tart, where the sourness doubles up."
       ],
       "zh-CN": [
         "五味子茶",
@@ -5836,7 +5836,7 @@ window.TEAFaiData = (function () {
         "庆北闻庆、江原旌善，9月红熟的果实腌制。",
         "酸、甜、苦、咸、辛层层叠叠。",
         "夏日花菜、韩式点心。",
-        "用冷水或冰水冲，酸味才在。"
+        "用冷水或冰水冲，酸味才在。", "五味之中最为突出的清亮酸味，能洗去五花肉、煎饼等丰盛食物的油腻。配花煎饼、豆粉年糕等米糕也酸甜相宜。避免柠檬塔等酸味强烈的甜点，酸味会叠加。"
       ],
       "zh-TW": [
         "五味子茶",
@@ -5848,7 +5848,7 @@ window.TEAFaiData = (function () {
         "慶北聞慶、江原旌善，9月紅熟的果實醃製。",
         "酸、甜、苦、鹹、辛層層疊疊。",
         "夏日花菜、韓式點心。",
-        "用冷水或冰水沖，酸味才在。"
+        "用冷水或冰水沖，酸味才在。", "五味之中最突出的清澈酸味，能洗去五花肉、煎餅等豐盛食物的油膩。也與花煎、黃豆粉年糕等年糕類酸甜相配。避免檸檬塔等酸味強烈的甜點，酸味會加倍。"
       ]
     },
     {
@@ -5870,7 +5870,7 @@ window.TEAFaiData = (function () {
         "한국 전통 한방차. 백작약·숙지황·황기·당귀·천궁·계피·감초에 생강·대추를 더합니다.",
         "약재의 쓴맛과 단맛, 깊고 묵직합니다.",
         "피로할 때, 겨울, 식후.",
-        "데워 마시고 꿀이나 대추청을 더하면 부드러워집니다."
+        "데워 마시고 꿀이나 대추청을 더하면 부드러워집니다.", "깊고 달콤한 약재 풍미가 약식·인절미·곶감 같은 겨울 간식과 잘 어울리고, 구운 밤과도 결이 맞습니다. 진한 바디가 든든한 간식의 무게를 받아 줍니다. 샐러드처럼 가벼운 음식과는 차의 풍미가 너무 강해 피하는 게 좋습니다."
       ],
       en: [
         "Ssanghwa Tea",
@@ -5882,7 +5882,7 @@ window.TEAFaiData = (function () {
         "A traditional Korean herbal tea of peony, rehmannia, astragalus, angelica, cnidium, cinnamon and licorice, with ginger and dates.",
         "Bitter and sweet herbs, deep and heavy.",
         "When tired, in winter, after meals.",
-        "Warm it and add honey or date syrup to soften."
+        "Warm it and add honey or date syrup to soften.", "Its deep, sweet herbal flavor pairs well with winter snacks like yaksik, injeolmi, and dried persimmon, and matches roasted chestnuts too. The full body stands up to hearty snacks. Avoid light food like salads, where the tea's flavor overwhelms."
       ],
       "zh-CN": [
         "双和茶",
@@ -5894,7 +5894,7 @@ window.TEAFaiData = (function () {
         "韩国传统韩方茶，白芍、熟地、黄芪、当归、川芎、桂皮、甘草与生姜、红枣同煎。",
         "药材的苦与甜，深沉厚重。",
         "疲劳时、冬天、饭后。",
-        "温热后加蜂蜜或红枣蜜会更柔。"
+        "温热后加蜂蜜或红枣蜜会更柔。", "它深厚甘甜的草本风味与药食、豆粉年糕、柿饼等冬日小吃很搭配，也配烤栗子。饱满的体感能站稳于扎实的小吃旁。避免沙拉等清淡食物，茶的风味会压过食物。"
       ],
       "zh-TW": [
         "雙和茶",
@@ -5906,7 +5906,7 @@ window.TEAFaiData = (function () {
         "韓國傳統韓方茶，白芍、熟地、黃芪、當歸、川芎、桂皮、甘草與生薑、紅棗同煎。",
         "藥材的苦與甜，深沉厚重。",
         "疲勞時、冬天、飯後。",
-        "溫熱後加蜂蜜或紅棗蜜會更柔。"
+        "溫熱後加蜂蜜或紅棗蜜會更柔。", "深沉香甜的藥草風味，與藥食、黃豆粉年糕、柿餅等冬季點心很搭，配烤栗子也不錯。厚實的茶身能駕馭扎實的點心。避免沙拉等清淡食物，茶的風味會壓過食物。"
       ]
     },
     {
@@ -5928,7 +5928,7 @@ window.TEAFaiData = (function () {
         "한국 산지의 둥굴레 뿌리. 가을에 캐 말려 볶습니다.",
         "볶은 곡물 같은 고소함과 옅은 단맛.",
         "식후, 밤, 디저트.",
-        "볶은 뿌리는 5분 이상 우려야 맛이 납니다."
+        "볶은 뿌리는 5분 이상 우려야 맛이 납니다.", "볶은 뿌리의 구수함과 은은한 단맛이 김밥·주먹밥 같은 밥 요리와 자연스럽게 어울리고, 구운 고구마와도 잘 맞습니다. 자극이 적어 일상 식사 곁에 두기 좋습니다. 향신료가 강한 음식과는 구수한 맛이 묻혀 피하는 게 좋습니다."
       ],
       en: [
         "Solomon's Seal Tea",
@@ -5940,7 +5940,7 @@ window.TEAFaiData = (function () {
         "Korean hillsides; the root is dug in autumn, dried and roasted.",
         "Roasted grain sweetness with a light finish.",
         "After meals, at night, with dessert.",
-        "Roasted root needs five minutes or more."
+        "Roasted root needs five minutes or more.", "The roasted root's toastiness and gentle sweetness go naturally with rice dishes like gimbap and rice balls, and with roasted sweet potato too. Mild and easy, it suits everyday meals. Avoid strongly spiced food, which buries its toasty flavor."
       ],
       "zh-CN": [
         "玉竹茶",
@@ -5952,7 +5952,7 @@ window.TEAFaiData = (function () {
         "韩国山地，秋天挖根晒干后烘炒。",
         "焙谷般的香与淡甜。",
         "饭后、夜里、配甜点。",
-        "炒过的根要泡5分钟以上才出味。"
+        "炒过的根要泡5分钟以上才出味。", "烤根茎的烘焙香与柔和甘甜自然地配紫菜包饭、饭团等米饭类食物，也配烤红薯。温和易饮，适合日常餐食。避免调味强烈的食物，会掩埋它的烘焙香。"
       ],
       "zh-TW": [
         "玉竹茶",
@@ -5964,7 +5964,7 @@ window.TEAFaiData = (function () {
         "韓國山地，秋天挖根晒乾後烘炒。",
         "焙穀般的香與淡甜。",
         "飯後、夜裡、配甜點。",
-        "炒過的根要泡5分鐘以上才出味。"
+        "炒過的根要泡5分鐘以上才出味。", "烤根的焦香與溫和甜味，與海苔飯捲、飯糰等米食自然相配，配烤地瓜也很好。味道溫和易飲，適合日常餐食。避免香料味重的食物，會掩蓋它的焦香。"
       ]
     },
     {
@@ -5986,7 +5986,7 @@ window.TEAFaiData = (function () {
         "한국·일본. 메밀알을 볶아 우립니다.",
         "볶은 곡물의 고소함과 메밀 특유의 옅은 쓴맛.",
         "식후, 밤, 메밀 부침개.",
-        "볶은 메밀은 뜨거운 물에 5분이면 충분합니다."
+        "볶은 메밀은 뜨거운 물에 5분이면 충분합니다.", "볶은 메밀의 고소하고 담백한 맛이 메밀전병·만두·김밥 같은 식사류와 잘 어울립니다. 맛이 순해 어떤 음식 곁에서도 부담이 없고, 식후 입안을 깔끔하게 합니다. 크림이 진한 디저트와는 담백함이 밀려 어울리기 어렵습니다."
       ],
       en: [
         "Buckwheat Tea",
@@ -5998,7 +5998,7 @@ window.TEAFaiData = (function () {
         "Korea and Japan; the groats are roasted before steeping.",
         "Roasted grain with buckwheat's faint bitterness.",
         "After meals, at night, with buckwheat pancakes.",
-        "Roasted buckwheat is done in five minutes."
+        "Roasted buckwheat is done in five minutes.", "The roasted buckwheat's nutty, plain taste pairs well with meal foods like buckwheat crepes, dumplings, and gimbap. Gentle enough for almost any dish, it leaves the palate clean after eating. Rich cream desserts overpower its plainness."
       ],
       "zh-CN": [
         "荞麦茶",
@@ -6010,7 +6010,7 @@ window.TEAFaiData = (function () {
         "韩国与日本，荞麦粒炒过再泡。",
         "焙谷的香与荞麦特有的淡苦。",
         "饭后、夜里、配荞麦煎饼。",
-        "炒过的荞麦5分钟就够。"
+        "炒过的荞麦5分钟就够。", "烤荞麦坚果般朴素的味道与荞麦卷饼、饺子、紫菜包饭等餐食很搭配。温和到几乎能配任何菜，吃完后口腔清爽。浓郁的奶油甜点会压过它的朴素。"
       ],
       "zh-TW": [
         "蕎麥茶",
@@ -6022,7 +6022,7 @@ window.TEAFaiData = (function () {
         "韓國與日本，蕎麥粒炒過再泡。",
         "焙穀的香與蕎麥特有的淡苦。",
         "飯後、夜裡、配蕎麥煎餅。",
-        "炒過的蕎麥5分鐘就夠。"
+        "炒過的蕎麥5分鐘就夠。", "烤蕎麥的堅果香與樸實滋味，與蕎麥煎餅、水餃、海苔飯捲等正餐食物很搭。溫和到幾乎什麼菜都能配，餐後口腔清爽。濃郁的奶油甜點會壓過它的樸實。"
       ]
     },
     {
@@ -6044,7 +6044,7 @@ window.TEAFaiData = (function () {
         "한국 전역. 겉보리를 볶아 씁니다.",
         "구수한 볶은 곡물 향, 깔끔한 뒷맛.",
         "모든 식사, 매운 음식.",
-        "끓인 뒤 식혀 두고 하루 동안 마십니다."
+        "끓인 뒤 식혀 두고 하루 동안 마십니다.", "구수하고 깔끔한 맛이 비빔밥·김치찌개·삼겹살 등 한식 전반과 두루 잘 어울립니다. 기름진 음식을 먹을 때 함께 마시면 입안이 개운해집니다. 향이 섬세한 꽃 디저트와는 구수한 향이 앞설 수 있어 따로 즐기는 게 좋습니다."
       ],
       en: [
         "Barley Tea",
@@ -6056,7 +6056,7 @@ window.TEAFaiData = (function () {
         "Across Korea, using roasted unhulled barley.",
         "Toasted grain with a clean finish.",
         "Every meal, spicy food.",
-        "Boil, cool, and drink it through the day."
+        "Boil, cool, and drink it through the day.", "Its toasty, clean taste goes with Korean food across the board — bibimbap, kimchi stew, pork belly. Drunk alongside rich food, it refreshes the palate. With delicately scented floral desserts, its toastiness can take over, so enjoy it separately."
       ],
       "zh-CN": [
         "麦茶",
@@ -6068,7 +6068,7 @@ window.TEAFaiData = (function () {
         "韩国各地，用炒过的大麦。",
         "焙谷香，余味干净。",
         "所有餐食、辛辣料理。",
-        "煮好放凉，一整天慢慢喝。"
+        "煮好放凉，一整天慢慢喝。", "它烘焙而清爽的味道几乎能配所有韩餐——拌饭、泡菜汤、五花肉。随丰盛食物一起喝，能让口腔清爽。配香气精致的花香甜点时，它的烘焙香可能占据主导，那时请分开享用。"
       ],
       "zh-TW": [
         "麥茶",
@@ -6080,7 +6080,7 @@ window.TEAFaiData = (function () {
         "韓國各地，用炒過的大麥。",
         "焙穀香，餘味乾淨。",
         "所有餐食、辛辣料理。",
-        "煮好放涼，一整天慢慢喝。"
+        "煮好放涼，一整天慢慢喝。", "焦香清爽的滋味，與拌飯、泡菜湯、五花肉等韓式料理幾乎全面相配。配豐盛食物一起喝，能讓味蕾清爽。與香氣細緻的花香甜點同席時，焦香可能喧賓奪主，建議分開享用。"
       ]
     },
     {
@@ -6102,7 +6102,7 @@ window.TEAFaiData = (function () {
         "한국·일본. 겉겨를 남긴 현미를 볶습니다.",
         "누룽지 향, 옅은 단맛.",
         "식사, 식후.",
-        "오래 끓일수록 진해집니다."
+        "오래 끓일수록 진해집니다.", "오래 끓일수록 깊어지는 구수함이 된장찌개·나물 반찬·김밥 같은 소박한 한식과 잘 어울립니다. 고소한 뒷맛이 식사의 든든함을 이어 줍니다. 가벼운 샐러드나 회처럼 담백한 음식과는 차가 무겁게 느껴질 수 있습니다."
       ],
       en: [
         "Brown Rice Tea",
@@ -6114,7 +6114,7 @@ window.TEAFaiData = (function () {
         "Korea and Japan; brown rice with the bran left on is roasted.",
         "Scorched-rice aroma with a light sweetness.",
         "With meals, after meals.",
-        "The longer it simmers, the deeper it gets."
+        "The longer it simmers, the deeper it gets.", "Its toastiness, deeper the longer it simmers, pairs well with simple Korean food like soybean paste stew, seasoned greens, and gimbap. The savory finish carries the meal's heartiness. With light food like salads or raw fish, the tea can feel heavy."
       ],
       "zh-CN": [
         "玄米茶",
@@ -6126,7 +6126,7 @@ window.TEAFaiData = (function () {
         "韩国与日本，用带麸皮的糙米炒制。",
         "锅巴香与淡甜。",
         "配餐、饭后。",
-        "煮得越久越浓。"
+        "煮得越久越浓。", "久煮之下更深的烘焙香与大酱汤、拌野菜、紫菜包饭等简单的韩餐很搭配。醇和的收尾承载着餐食的扎实感。配沙拉、生鱼等清淡食物时，茶会显得厚重。"
       ],
       "zh-TW": [
         "玄米茶",
@@ -6138,7 +6138,7 @@ window.TEAFaiData = (function () {
         "韓國與日本，用帶麩皮的糙米炒製。",
         "鍋巴香與淡甜。",
         "配餐、飯後。",
-        "煮得越久越濃。"
+        "煮得越久越濃。", "久煮後更深沉的焦香，與大醬湯、涼拌野菜、海苔飯捲等簡單的韓式料理很搭。醇香的收尾能承接一餐的扎實感。配沙拉、生魚片等清淡食物時，茶會顯得沉重。"
       ]
     },
     {
@@ -6160,7 +6160,7 @@ window.TEAFaiData = (function () {
         "한국 전역. 6~7월 감잎을 따 찌거나 말려 씁니다.",
         "옅은 풀 향과 단맛, 떫음이 적습니다.",
         "식후, 간식.",
-        "잎을 찌면 떫음이 줄고 보관이 쉬워집니다."
+        "잎을 찌면 떫음이 줄고 보관이 쉬워집니다.", "은은한 풀 향과 옅은 떫음이 인절미·절편처럼 달고 쫀득한 떡의 단맛을 잡아 줍니다. 가벼운 샌드위치와도 무난하게 어울립니다. 신맛이 강한 음식과는 떫은맛이 도드라질 수 있어 피하는 게 좋습니다."
       ],
       en: [
         "Persimmon Leaf Tea",
@@ -6172,7 +6172,7 @@ window.TEAFaiData = (function () {
         "Across Korea; leaves picked in June and July, steamed or dried.",
         "Light grass and sweetness, little astringency.",
         "After meals, with snacks.",
-        "Steaming the leaf cuts the astringency and keeps better."
+        "Steaming the leaf cuts the astringency and keeps better.", "Its soft green aroma and light astringency rein in the sweetness of chewy rice cakes like injeolmi and jeolpyeon. It also goes easily with a light sandwich. Avoid strongly sour food, which can make the astringency stand out."
       ],
       "zh-CN": [
         "柿叶茶",
@@ -6184,7 +6184,7 @@ window.TEAFaiData = (function () {
         "韩国各地，6~7月采叶蒸或晒干。",
         "淡青草香与甜，涩味少。",
         "饭后、配点心。",
-        "叶子蒸过涩感更少，也好保存。"
+        "叶子蒸过涩感更少，也好保存。", "柔和的青绿香气与淡淡涩感能收住豆粉年糕、印花米糕等黏糯米糕的甜味。配清淡三明治也轻松。避免酸味强烈的食物，会让涩感更突出。"
       ],
       "zh-TW": [
         "柿葉茶",
@@ -6196,7 +6196,7 @@ window.TEAFaiData = (function () {
         "韓國各地，6~7月採葉蒸或晒乾。",
         "淡青草香與甜，澀味少。",
         "飯後、配點心。",
-        "葉子蒸過澀感更少，也好保存。"
+        "葉子蒸過澀感更少，也好保存。", "柔和的青綠香氣與淡淡澀味，能收住黃豆粉年糕、切片年糕等有嚼勁年糕的甜味。也容易搭配清淡的三明治。避免酸味強的食物，會讓澀味更突出。"
       ]
     },
     {
@@ -6218,7 +6218,7 @@ window.TEAFaiData = (function () {
         "한국·중국. 늦봄~여름 뽕잎을 말려 볶아 씁니다.",
         "볶은 잎의 고소함과 옅은 단맛.",
         "식후에 가볍게.",
-        "볶은 잎은 5분 우려야 맛이 납니다."
+        "볶은 잎은 5분 우려야 맛이 납니다.", "담백한 풀 향과 옅은 단맛이 비빔밥·나물·두부 요리 같은 채소 중심 식사와 잘 어울립니다. 맛이 순해 식사 흐름을 방해하지 않습니다. 양념이 진한 고기 요리와는 차의 담백함이 묻혀 아쉬울 수 있습니다."
       ],
       en: [
         "Mulberry Leaf Tea",
@@ -6230,7 +6230,7 @@ window.TEAFaiData = (function () {
         "Korea and China; late-spring and summer leaves dried and roasted.",
         "Roasted leaf with a light sweetness.",
         "Lightly, after meals.",
-        "Roasted leaf needs five minutes."
+        "Roasted leaf needs five minutes.", "Its plain green aroma and light sweetness suit vegetable-centered meals like bibimbap, seasoned greens, and tofu dishes. The gentle taste never interrupts the meal. With heavily seasoned meat dishes, its mildness gets buried."
       ],
       "zh-CN": [
         "桑叶茶",
@@ -6242,7 +6242,7 @@ window.TEAFaiData = (function () {
         "韩国与中国，晚春至夏天的桑叶晒干后炒制。",
         "炒叶的焙香与淡甜。",
         "饭后轻轻一杯。",
-        "炒过的叶要泡5分钟。"
+        "炒过的叶要泡5分钟。", "朴素的青绿香气与淡淡甘甜适合拌饭、拌野菜、豆腐菜等以蔬菜为主的餐食。温和的味道不会打断用餐。配调味浓重的肉菜时，它的温和会被掩埋。"
       ],
       "zh-TW": [
         "桑葉茶",
@@ -6254,7 +6254,7 @@ window.TEAFaiData = (function () {
         "韓國與中國，晚春至夏天的桑葉晒乾後炒製。",
         "炒葉的焙香與淡甜。",
         "飯後輕輕一杯。",
-        "炒過的葉要泡5分鐘。"
+        "炒過的葉要泡5分鐘。", "樸實的青綠香氣與淡淡甜味，適合拌飯、涼拌野菜、豆腐料理等以蔬菜為主的餐食。溫和的滋味不會打擾一餐。配重口味的肉類料理時，它的清淡會被掩蓋。"
       ]
     },
     {
@@ -6276,7 +6276,7 @@ window.TEAFaiData = (function () {
         "한국·중국 연못. 여름 연잎을 말려 씁니다.",
         "풀 향과 옅은 쓴맛, 청량합니다.",
         "기름진 식사 뒤, 여름.",
-        "2g이면 충분합니다. 많으면 씁니다."
+        "2g이면 충분합니다. 많으면 씁니다.", "깔끔하고 옅게 쌉쌀한 맛이 연잎밥·찹쌀떡처럼 담백한 음식과 잘 어울립니다. 기름기가 적은 찜 요리와도 결이 맞아 식후가 산뜻합니다. 양념이 강한 음식과는 섬세한 향이 묻혀 피하는 게 좋습니다."
       ],
       en: [
         "Lotus Leaf Tea",
@@ -6288,7 +6288,7 @@ window.TEAFaiData = (function () {
         "Korean and Chinese ponds; summer leaves dried.",
         "Green and faintly bitter, cooling.",
         "After rich meals, in summer.",
-        "Two grams is enough; more is bitter."
+        "Two grams is enough; more is bitter.", "Its clean, faintly bitter taste pairs well with plain food like lotus-leaf rice and glutinous rice cakes. It also matches low-fat steamed dishes, leaving a fresh finish. Avoid strongly seasoned food, which buries its delicate aroma."
       ],
       "zh-CN": [
         "荷叶茶",
@@ -6300,7 +6300,7 @@ window.TEAFaiData = (function () {
         "韩国与中国的荷塘，夏天采叶晒干。",
         "青草香与微苦，清凉。",
         "油腻餐后、夏天。",
-        "2克就够，多了会苦。"
+        "2克就够，多了会苦。", "清净而微苦的味道与荷叶饭、糯米糕等朴素食物很搭配。也配低脂蒸菜，收尾清爽。避免调味强烈的食物，会掩埋它细腻的香气。"
       ],
       "zh-TW": [
         "荷葉茶",
@@ -6312,7 +6312,7 @@ window.TEAFaiData = (function () {
         "韓國與中國的荷塘，夏天採葉晒乾。",
         "青草香與微苦，清涼。",
         "油膩餐後、夏天。",
-        "2公克就夠，多了會苦。"
+        "2公克就夠，多了會苦。", "乾淨、微苦的滋味，與荷葉飯、糯米年糕等樸實食物很搭。也適合低脂的蒸食，收尾清新。避免重口味的食物，會掩蓋它細緻的香氣。"
       ]
     },
     {
@@ -6334,7 +6334,7 @@ window.TEAFaiData = (function () {
         "한국 산지. 가을 도라지 뿌리를 말려 씁니다.",
         "옅은 쓴맛과 단맛, 뿌리 특유의 향.",
         "목이 아플 때, 겨울.",
-        "말린 뿌리는 끓여야 맛이 납니다."
+        "말린 뿌리는 끓여야 맛이 납니다.", "쌉쌀한 뿌리 맛이 약식·곶감처럼 단맛이 있는 간식과 균형을 이루고, 구운 고구마와도 잘 어울립니다. 대추를 곁들여 달이면 쓴맛이 부드러워집니다. 매운 음식과는 쌉쌀함이 겹쳐 자극적으로 느껴질 수 있습니다."
       ],
       en: [
         "Balloon Flower Root Tea",
@@ -6346,7 +6346,7 @@ window.TEAFaiData = (function () {
         "Korean hills; autumn roots dried.",
         "A light bitterness and sweetness, with the aroma of the root.",
         "A sore throat, winter.",
-        "Dried root needs simmering."
+        "Dried root needs simmering.", "The bittersweet root flavor balances sweet snacks like yaksik and dried persimmon, and goes well with roasted sweet potato. Decocted with jujube, the bitterness softens. With spicy food, the bitterness can stack up and feel harsh."
       ],
       "zh-CN": [
         "桔梗茶",
@@ -6358,7 +6358,7 @@ window.TEAFaiData = (function () {
         "韩国山地，秋天挖根晒干。",
         "微苦与甜，带根特有的香。",
         "嗓子疼时、冬天。",
-        "干根要煮才出味。"
+        "干根要煮才出味。", "苦甜的根茎风味能平衡药食、柿饼等甜味小吃，也配烤红薯。与红枣一起煎煮，苦味会柔和下来。配辛辣食物时，苦味叠加会显得刺口。"
       ],
       "zh-TW": [
         "桔梗茶",
@@ -6370,7 +6370,7 @@ window.TEAFaiData = (function () {
         "韓國山地，秋天挖根晒乾。",
         "微苦與甜，帶根特有的香。",
         "嗓子疼時、冬天。",
-        "乾根要煮才出味。"
+        "乾根要煮才出味。", "苦甜的根部風味能平衡藥食、柿餅等甜點心，配烤地瓜也很好。與大棗一起煎煮，苦味會變柔和。配辛辣食物時，苦味會疊加而顯得刺口。"
       ]
     },
     {
@@ -6392,7 +6392,7 @@ window.TEAFaiData = (function () {
         "한국 전역. 3~4월 어린 쑥을 말려 씁니다.",
         "풀 향과 옅은 쓴맛, 따뜻하게 마시는 봄의 차.",
         "봄, 식후.",
-        "말린 쑥은 2g이면 충분합니다."
+        "말린 쑥은 2g이면 충분합니다.", "짙은 쑥 향과 쌉쌀함이 쑥떡·쑥버무리·인절미 같은 떡과 자연스럽게 어울립니다. 쌉쌀한 뒷맛이 떡의 단맛을 잡아 줘 물리지 않습니다. 향이 강한 커피나 향신료 음식과는 쑥 향이 부딪힐 수 있습니다."
       ],
       en: [
         "Mugwort Tea",
@@ -6404,7 +6404,7 @@ window.TEAFaiData = (function () {
         "Across Korea; young leaves of March and April dried.",
         "Green and faintly bitter; a spring tea drunk warm.",
         "Spring, after meals.",
-        "Two grams of dried mugwort is plenty."
+        "Two grams of dried mugwort is plenty.", "Its deep mugwort aroma and bitterness go naturally with rice cakes like mugwort tteok, ssuk-beomuri, and injeolmi. The bitter finish reins in the cakes' sweetness so they never cloy. Strong coffee or spiced food can clash with the mugwort scent."
       ],
       "zh-CN": [
         "艾草茶",
@@ -6416,7 +6416,7 @@ window.TEAFaiData = (function () {
         "韩国各地，3~4月的嫩艾晒干。",
         "青草香与微苦，温热着喝的春茶。",
         "春天、饭后。",
-        "干艾2克就够。"
+        "干艾2克就够。", "深厚的艾草香气与苦味自然地配艾草年糕、艾草米糕和豆粉年糕。苦味的收尾收住米糕的甜味，不会腻人。浓咖啡或香料味食物可能与艾草香相冲。"
       ],
       "zh-TW": [
         "艾草茶",
@@ -6428,7 +6428,7 @@ window.TEAFaiData = (function () {
         "韓國各地，3~4月的嫩艾晒乾。",
         "青草香與微苦，溫熱著喝的春茶。",
         "春天、飯後。",
-        "乾艾2公克就夠。"
+        "乾艾2公克就夠。", "深沉的艾草香氣與苦味，與艾草年糕、艾草蒸糕、黃豆粉年糕等年糕自然相配。苦味的收尾能收住年糕的甜味，不易膩口。濃咖啡或香料食物可能與艾草香相衝。"
       ]
     },
     {
@@ -6455,7 +6455,7 @@ window.TEAFaiData = (function () {
         "한국 전남·경남. 찐 잎을 절구에 짜아 판에 눌러 말립니다.",
         "약재·대추·흙, 부드럽고 따뜻합니다.",
         "식후, 겨울, 기름진 음식.",
-        "조각을 부숴 끓이면 깊은 맛이 납니다."
+        "조각을 부숴 끓이면 깊은 맛이 납니다.", "깊고 묵직한 맛이 약과·곶감 같은 전통 다과와 잘 어울리고, 찹쌀떡과도 결이 맞습니다. 오래 끓여 낸 진한 바디가 단맛 있는 간식과 균형을 이룹니다. 샐러드처럼 가벼운 음식과는 차가 무겁게 느껴질 수 있습니다."
       ],
       en: [
         "Tteokcha",
@@ -6467,7 +6467,7 @@ window.TEAFaiData = (function () {
         "Jeolla and Gyeongsang in Korea; steamed leaf pounded and pressed in a mould to dry.",
         "Herbs, dates and earth, soft and warming.",
         "After meals, winter, rich food.",
-        "Break off a piece and simmer it for depth."
+        "Break off a piece and simmer it for depth.", "Its deep, weighty flavor pairs well with traditional tea sweets like yakgwa and dried persimmon, and matches glutinous rice cakes too. The full body from long simmering balances sweet snacks. With light food like salads, the tea can feel too heavy."
       ],
       "zh-CN": [
         "饼茶",
@@ -6479,7 +6479,7 @@ window.TEAFaiData = (function () {
         "韩国全南、庆南，蒸叶捣碎压模晒干。",
         "药材、红枣与泥土，柔和温暖。",
         "饭后、冬天、油腻食物。",
-        "掰下一块煮，味道更深。"
+        "掰下一块煮，味道更深。", "它深厚而有分量的风味与药果、柿饼等传统茶点很搭配，也配糯米糕。久煮而来的饱满体感能平衡甜味小吃。配沙拉等清淡食物时，茶会显得过于厚重。"
       ],
       "zh-TW": [
         "餅茶",
@@ -6491,7 +6491,7 @@ window.TEAFaiData = (function () {
         "韓國全南、慶南，蒸葉搗碎壓模晒乾。",
         "藥材、紅棗與泥土，柔和溫暖。",
         "飯後、冬天、油膩食物。",
-        "掰下一塊煮，味道更深。"
+        "掰下一塊煮，味道更深。", "深沉厚重的風味，與藥菓、柿餅等傳統茶點很搭，配糯米年糕也合。久煮出的厚實茶身能平衡甜點心。配沙拉等清淡食物時，茶會顯得太沉重。"
       ]
     },
     {
@@ -6513,7 +6513,7 @@ window.TEAFaiData = (function () {
         "이집트·독일 등. 캐모마일 꽃을 말려 씁니다.",
         "사과·꿀·건초, 부드럽고 약간 달콤합니다.",
         "밤, 디저트, 꿀 한 스푼.",
-        "끓는 물에 5분, 뚜껑을 덮어 향을 잡습니다."
+        "끓는 물에 5분, 뚜껑을 덮어 향을 잡습니다.", "사과를 닮은 부드러운 꽃향이 마들렌·스콘·비스킷 같은 구운 과자와 잘 어울립니다. 꿀을 곁들인 토스트와도 향의 결이 맞습니다. 마늘 향이 강한 음식과는 섬세한 꽃향이 묻혀 피하는 게 좋습니다."
       ],
       en: [
         "Chamomile",
@@ -6525,7 +6525,7 @@ window.TEAFaiData = (function () {
         "Egypt, Germany and elsewhere; the flowers are dried.",
         "Apple, honey and hay, soft and faintly sweet.",
         "Night, desserts, a spoon of honey.",
-        "Five minutes in boiling water, lid on to keep the aroma."
+        "Five minutes in boiling water, lid on to keep the aroma.", "Its soft, apple-like floral aroma pairs well with baked goods like madeleines, scones, and biscuits. It also matches honey toast in character. Avoid garlicky food, which buries the delicate floral scent."
       ],
       "zh-CN": [
         "洋甘菊",
@@ -6537,7 +6537,7 @@ window.TEAFaiData = (function () {
         "埃及、德国等地，用干燥的洋甘菊花。",
         "苹果、蜂蜜与干草，柔和微甜。",
         "夜里、配甜点、加一勺蜂蜜。",
-        "沸水泡5分钟，盖住留住香气。"
+        "沸水泡5分钟，盖住留住香气。", "柔和、苹果般的花香与玛德琳、司康饼、饼干等烘焙点心很搭配。与蜂蜜吐司气质也相合。避免蒜味食物，会掩埋细腻的花香。"
       ],
       "zh-TW": [
         "洋甘菊",
@@ -6549,7 +6549,7 @@ window.TEAFaiData = (function () {
         "埃及、德國等地，用乾燥的洋甘菊花。",
         "蘋果、蜂蜜與乾草，柔和微甜。",
         "夜裡、配甜點、加一勺蜂蜜。",
-        "沸水泡5分鐘，蓋住留住香氣。"
+        "沸水泡5分鐘，蓋住留住香氣。", "柔和、近似蘋果的花香，與瑪德蓮、司康、餅乾等烘焙點心很搭。與蜂蜜吐司的風格也很合。避免大蒜味重的食物，會掩蓋細緻的花香。"
       ]
     },
     {
@@ -6571,7 +6571,7 @@ window.TEAFaiData = (function () {
         "유럽·미국. 박하 잎을 말려 씁니다.",
         "청량한 멘톨 향, 떫지 않습니다.",
         "식후, 기름진 음식 뒤.",
-        "5분이면 충분합니다. 너무 오래 우리면 씁니다."
+        "5분이면 충분합니다. 너무 오래 우리면 씁니다.", "강한 청량감이 초콜릿·초코케이크와 잘 어울리고, 기름진 음식을 먹은 뒤 마시면 입안이 시원하게 정리됩니다. 바닐라 아이스크림과도 상쾌한 조합입니다. 향이 섬세한 떡이나 다과와는 민트 향이 앞설 수 있습니다."
       ],
       en: [
         "Peppermint",
@@ -6583,7 +6583,7 @@ window.TEAFaiData = (function () {
         "Europe and America; dried mint leaf.",
         "Cool menthol, not astringent.",
         "After meals, after rich food.",
-        "Five minutes is enough; longer turns it bitter."
+        "Five minutes is enough; longer turns it bitter.", "Its strong coolness pairs well with chocolate and chocolate cake, and after rich food it refreshes the palate. It also makes a brisk match with vanilla ice cream. With delicately scented rice cakes or tea sweets, the mint can take over."
       ],
       "zh-CN": [
         "薄荷",
@@ -6595,7 +6595,7 @@ window.TEAFaiData = (function () {
         "欧美，用干燥的薄荷叶。",
         "清凉的薄荷脑香，不涩。",
         "饭后、油腻食物之后。",
-        "5分钟就够，久了会苦。"
+        "5分钟就够，久了会苦。", "强烈的清凉感与巧克力、巧克力蛋糕很搭配，丰盛食物之后能让口腔清爽。与香草冰淇淋也是利落的组合。配香气精致的米糕或茶点时，薄荷味可能占据主导。"
       ],
       "zh-TW": [
         "薄荷",
@@ -6607,7 +6607,7 @@ window.TEAFaiData = (function () {
         "歐美，用乾燥的薄荷葉。",
         "清涼的薄荷腦香，不澀。",
         "飯後、油膩食物之後。",
-        "5分鐘就夠，久了會苦。"
+        "5分鐘就夠，久了會苦。", "強烈的清涼感與巧克力和巧克力蛋糕很搭，豐盛餐食之後能讓味蕾清爽。與香草冰淇淋也是清爽的組合。配香氣細緻的年糕或茶點時，薄荷味可能喧賓奪主。"
       ]
     },
     {
@@ -6629,7 +6629,7 @@ window.TEAFaiData = (function () {
         "아프리카·중남미·동남아. 로젤(히비스커스) 꽃받침을 말립니다.",
         "새콤한 산미와 베리 향, 진한 붉은 색.",
         "아이스티, 디저트, 식후.",
-        "끓는 물 5분. 차갑게 해서 마시면 더 좋습니다."
+        "끓는 물 5분. 차갑게 해서 마시면 더 좋습니다.", "크랜베리를 닮은 또렷한 신맛이 치즈케이크 같은 진한 디저트의 느끼함을 씻어 주고, 요거트와도 새콤하게 어울립니다. 매운 음식 곁에 차갑게 마셔도 좋습니다. 레몬타르트와는 신맛이 겹쳐 피하세요."
       ],
       en: [
         "Hibiscus",
@@ -6641,7 +6641,7 @@ window.TEAFaiData = (function () {
         "Africa, Latin America and South-East Asia; dried roselle calyces.",
         "Tart berry acidity and a deep red colour.",
         "Iced tea, desserts, after meals.",
-        "Five minutes in boiling water; even better cold."
+        "Five minutes in boiling water; even better cold.", "Its clear, cranberry-like tartness washes down rich desserts like cheesecake and goes tartly with yogurt. Served cold, it also suits spicy food. Avoid lemon tart, where the sourness overlaps."
       ],
       "zh-CN": [
         "洛神花",
@@ -6653,7 +6653,7 @@ window.TEAFaiData = (function () {
         "非洲、中南美、东南亚，用干燥的洛神花萼。",
         "酸爽的莓果香，汤色深红。",
         "冰茶、甜点、饭后。",
-        "沸水5分钟，冰镇更好喝。"
+        "沸水5分钟，冰镇更好喝。", "清亮、类似蔓越莓的酸味能洗去芝士蛋糕等浓郁甜点的厚重感，与酸奶搭配酸甜可口。冰镇饮用时也适合辛辣食物。避免柠檬塔，酸味会重叠。"
       ],
       "zh-TW": [
         "洛神花",
@@ -6665,7 +6665,7 @@ window.TEAFaiData = (function () {
         "非洲、中南美、東南亞，用乾燥的洛神花萼。",
         "酸爽的莓果香，湯色深紅。",
         "冰茶、甜點、飯後。",
-        "沸水5分鐘，冰鎮更好喝。"
+        "沸水5分鐘，冰鎮更好喝。", "清澈、近似蔓越莓的酸味，能洗去起司蛋糕等濃郁甜點的厚重，與優格也酸爽相配。冷飲時也適合辛辣食物。避免檸檬塔，酸味會重疊。"
       ]
     },
     {
@@ -6687,7 +6687,7 @@ window.TEAFaiData = (function () {
         "남아프리카 세데르버흐 산지. 침엽 모양의 잎을 발효·건조합니다.",
         "바닐라·무화과·꿀, 부드러운 단맛.",
         "우유를 넣은 차, 아이스티, 디저트.",
-        "5분 이상 우려도 됩니다. 우유를 넣으면 밀크티가 됩니다."
+        "5분 이상 우려도 됩니다. 우유를 넣으면 밀크티가 됩니다.", "은은한 단맛과 부드러운 나무 향이 쿠키·파운드케이크 같은 구운 과자와 잘 어울리고, 우유를 넣은 밀크티로는 초콜릿 디저트와도 맞습니다. 신맛이 강한 음식과는 단맛의 결이 어긋날 수 있습니다."
       ],
       en: [
         "Rooibos",
@@ -6699,7 +6699,7 @@ window.TEAFaiData = (function () {
         "The Cederberg in South Africa; needle-like leaves fermented and dried.",
         "Vanilla, fig and honey with a soft sweetness.",
         "Milk tea, iced tea, desserts.",
-        "Steep five minutes or more; with milk it becomes a milk tea."
+        "Steep five minutes or more; with milk it becomes a milk tea.", "Its gentle sweetness and soft woody aroma pair well with baked goods like cookies and pound cake, and as a milk tea it matches chocolate desserts too. Strongly sour food can sit at odds with its sweetness."
       ],
       "zh-CN": [
         "路易波士",
@@ -6711,7 +6711,7 @@ window.TEAFaiData = (function () {
         "南非塞德堡山区，针状叶发酵后干燥。",
         "香草、无花果与蜂蜜，柔和的甜。",
         "奶茶、冰茶、甜点。",
-        "5分钟以上也行，加奶就是奶茶。"
+        "5分钟以上也行，加奶就是奶茶。", "温和的甘甜与柔和的木质香气与饼干、磅蛋糕等烘焙点心很搭配，做成奶茶时也配巧克力甜点。酸味强烈的食物可能与它的甘甜不协调。"
       ],
       "zh-TW": [
         "路易波士",
@@ -6723,7 +6723,7 @@ window.TEAFaiData = (function () {
         "南非塞德堡山區，針狀葉發酵後乾燥。",
         "香草、無花果與蜂蜜，柔和的甜。",
         "奶茶、冰茶、甜點。",
-        "5分鐘以上也行，加奶就是奶茶。"
+        "5分鐘以上也行，加奶就是奶茶。", "溫和的甜味與柔和的木質香氣，與餅乾、磅蛋糕等烘焙點心很搭；做成奶茶時也適合巧克力甜點。酸味強的食物可能與它的甜味不合。"
       ]
     },
     {
@@ -6746,7 +6746,7 @@ window.TEAFaiData = (function () {
         "아르헨티나·브라질·파라과이. 마테 나무 잎을 말려 씁니다.",
         "풀·건초·옅은 연기, 쌉쌀한 여운.",
         "아침, 작업, 육류 요리.",
-        "80도가 적당합니다. 90도 이상이면 씁니다."
+        "80도가 적당합니다. 90도 이상이면 씁니다.", "쌉쌀한 풀 맛이 아사도 같은 구운 고기나 엠파나다와 잘 어울리고, 샌드위치 곁에도 무난합니다. 특유의 쓴맛이 기름기를 잡아 줍니다. 단맛이 섬세한 디저트와는 쓴맛이 도드라져 어울리기 어렵습니다."
       ],
       en: [
         "Yerba Mate",
@@ -6758,7 +6758,7 @@ window.TEAFaiData = (function () {
         "Argentina, Brazil and Paraguay; dried leaves of the mate tree.",
         "Grass, hay and a light smoke, with a bitter finish.",
         "Morning, work, meat dishes.",
-        "80 °C is right; above 90 °C it turns bitter."
+        "80 °C is right; above 90 °C it turns bitter.", "Its bittersweet grassy flavor pairs well with grilled meat like asado and with empanadas, and sits easily beside a sandwich. The characteristic bitterness cuts through grease. Delicately sweet desserts are a hard match, as the bitterness stands out."
       ],
       "zh-CN": [
         "马黛茶",
@@ -6770,7 +6770,7 @@ window.TEAFaiData = (function () {
         "阿根廷、巴西、巴拉圭，用马黛树叶干燥制成。",
         "青草、干草与一丝烟熏，尾端带苦。",
         "早晨、工作时、肉类料理。",
-        "80度最合适，高于90度会苦。"
+        "80度最合适，高于90度会苦。", "苦甜的青草风味与阿根廷烤肉、馅饼很搭配，放在三明治旁也轻松。标志性的苦味能穿透油脂。精致的甜味甜点很难搭配，苦味会显得突出。"
       ],
       "zh-TW": [
         "馬黛茶",
@@ -6782,7 +6782,7 @@ window.TEAFaiData = (function () {
         "阿根廷、巴西、巴拉圭，用馬黛樹葉乾燥製成。",
         "青草、乾草與一絲煙燻，尾端帶苦。",
         "早晨、工作時、肉類料理。",
-        "80度最合適，高於90度會苦。"
+        "80度最合適，高於90度會苦。", "苦甜的草本風味，與阿根廷烤肉（asado）和餡餅（empanadas）很搭，配三明治也輕鬆。特有的苦味能化解油膩。香甜細緻的甜點較難搭配，苦味會顯得突出。"
       ]
     },
     {
@@ -6804,7 +6804,7 @@ window.TEAFaiData = (function () {
         "프랑스 프로방스. 라벤더 꽃을 말립니다.",
         "라벤더·꿀·옅은 시트러스, 매우 향기롭습니다.",
         "디저트, 밤, 블렌딩.",
-        "1g이면 충분합니다. 홍차에 소량 섮어도 좋습니다."
+        "1g이면 충분합니다. 홍차에 소량 섮어도 좋습니다.", "짙은 꽃향이 쇼트브레드·스콘처럼 버터 풍미의 과자와 잘 어울리고, 바닐라 아이스크림과도 향이 겹쳐 좋습니다. 소량만 우려야 향이 음식을 덮지 않습니다. 양념이 강한 음식과는 꽃향이 부딪힐 수 있습니다."
       ],
       en: [
         "Lavender",
@@ -6816,7 +6816,7 @@ window.TEAFaiData = (function () {
         "Provence in France; dried lavender flowers.",
         "Lavender, honey and a light citrus, very perfumed.",
         "Desserts, night, blending.",
-        "One gram is plenty; a pinch in black tea works too."
+        "One gram is plenty; a pinch in black tea works too.", "Its deep floral aroma pairs well with buttery baked goods like shortbread and scones, and layers nicely with vanilla ice cream. Steep only a little so the aroma does not cover the food. Strongly seasoned food can clash with the floral scent."
       ],
       "zh-CN": [
         "薰衣草",
@@ -6828,7 +6828,7 @@ window.TEAFaiData = (function () {
         "法国普罗旺斯，用干燥的薰衣草花。",
         "薰衣草、蜂蜜与淡柑橘，香气极浓。",
         "甜点、夜里、调和用。",
-        "1克就够，加一点到红茶里也好。"
+        "1克就够，加一点到红茶里也好。", "深厚的花香与黄油酥饼、司康饼等黄油烘焙点心很搭配，与香草冰淇淋叠加也很美妙。冲泡时只取少量，让香气不盖过食物。调味强烈的食物可能与花香相冲。"
       ],
       "zh-TW": [
         "薰衣草",
@@ -6840,7 +6840,7 @@ window.TEAFaiData = (function () {
         "法國普羅旺斯，用乾燥的薰衣草花。",
         "薰衣草、蜂蜜與淡柑橘，香氣極濃。",
         "甜點、夜裡、調和用。",
-        "1公克就夠，加一點到紅茶裡也好。"
+        "1公克就夠，加一點到紅茶裡也好。", "深沉的花香，與奶油酥餅、司康等奶油烘焙點心很搭，與香草冰淇淋疊加也很美妙。只泡一點點，免得香氣蓋過食物。重口味的食物可能與花香相衝。"
       ]
     },
     {
@@ -6862,7 +6862,7 @@ window.TEAFaiData = (function () {
         "태국·베트남. 레몬그라스 줄기와 잎을 말립니다.",
         "레몬·시트러스·옅은 생강, 상쾌합니다.",
         "동남아 요리, 식후, 아이스티.",
-        "줄기를 잘게 썰어 5분 우립니다."
+        "줄기를 잘게 썰어 5분 우립니다.", "레몬을 닮은 상큼한 향이 똠얌·팟타이·그린커리 같은 동남아 요리와 자연스럽게 어울립니다. 매운맛과 기름기를 산뜻하게 정리해 줍니다. 진한 크림 디저트와는 향의 결이 달라 따로 즐기는 게 좋습니다."
       ],
       en: [
         "Lemongrass",
@@ -6874,7 +6874,7 @@ window.TEAFaiData = (function () {
         "Thailand and Vietnam; dried stalks and leaves.",
         "Lemon, citrus and a hint of ginger, refreshing.",
         "South-East Asian food, after meals, iced tea.",
-        "Slice the stalk fine and steep five minutes."
+        "Slice the stalk fine and steep five minutes.", "Its fresh, lemon-like aroma goes naturally with Southeast Asian dishes like tom yum, pad thai, and green curry. It neatly tidies up spice and grease. Rich cream desserts run on a different track, so enjoy it separately."
       ],
       "zh-CN": [
         "香茅",
@@ -6886,7 +6886,7 @@ window.TEAFaiData = (function () {
         "泰国、越南，用干燥的香茅茎叶。",
         "柠檬、柑橘与一点生姜，清爽。",
         "东南亚料理、饭后、冰茶。",
-        "茎切碎再泡5分钟。"
+        "茎切碎再泡5分钟。", "清新的柠檬般香气自然地配冬阴功、泰式炒河粉、绿咖喱等东南亚菜肴。能利落地收拾辣味与油脂。浓郁的奶油甜点走的是另一条路线，请分开享用。"
       ],
       "zh-TW": [
         "香茅",
@@ -6898,7 +6898,7 @@ window.TEAFaiData = (function () {
         "泰國、越南，用乾燥的香茅莖葉。",
         "檸檬、柑橘與一點生薑，清爽。",
         "東南亞料理、飯後、冰茶。",
-        "莖切碎再泡5分鐘。"
+        "莖切碎再泡5分鐘。", "清新的檸檬般香氣，與冬蔭功、泰式炒河粉、綠咖哩等東南亞料理自然相配。能俐落地收拾辛香與油膩。濃郁的奶油甜點路線不同，建議分開享用。"
       ]
     },
     {
@@ -6921,7 +6921,7 @@ window.TEAFaiData = (function () {
         "중국 항저우·황산, 한국. 노란 국화를 말립니다.",
         "청량한 약재 향과 옅은 단맛.",
         "호두, 대추, 기름진 식사 뒤.",
-        "꽃이 뜨면 뚜껑을 덮어 향을 잡습니다."
+        "꽃이 뜨면 뚜껑을 덮어 향을 잡습니다.", "은은한 꽃향과 옅은 단맛이 약과·한과 같은 전통 다과와 잘 어울리고, 찹쌀떡과도 결이 맞습니다. 가을철 구운 밤과 함께해도 좋습니다. 향신료가 강한 음식과는 섬세한 꽃향이 묻혀 피하는 게 좋습니다."
       ],
       en: [
         "Chrysanthemum Tea",
@@ -6933,7 +6933,7 @@ window.TEAFaiData = (function () {
         "Hangzhou and Huangshan in China, and Korea; yellow chrysanthemums dried.",
         "A cool medicinal note with a light sweetness.",
         "Walnuts, dates, after rich meals.",
-        "When the flowers float, lid the cup to keep the aroma."
+        "When the flowers float, lid the cup to keep the aroma.", "Its gentle floral aroma and light sweetness pair well with traditional tea sweets like yakgwa and hangwa, and match glutinous rice cakes too. It is also lovely with roasted chestnuts in autumn. Avoid strongly spiced food, which buries the delicate floral scent."
       ],
       "zh-CN": [
         "菊花茶",
@@ -6945,7 +6945,7 @@ window.TEAFaiData = (function () {
         "中国杭州、黄山与韩国，用黄菊花干燥。",
         "清凉的药香与淡甜。",
         "核桃、红枣、油腻餐后。",
-        "花浮起来时盖上盖子留住香气。"
+        "花浮起来时盖上盖子留住香气。", "温和的花香与淡淡甘甜与药果、韩果等传统茶点很搭配，也配糯米糕。秋天与烤栗子同享也很美妙。避免香料味强烈的食物，会掩埋细腻的花香。"
       ],
       "zh-TW": [
         "菊花茶",
@@ -6957,7 +6957,7 @@ window.TEAFaiData = (function () {
         "中國杭州、黃山與韓國，用黃菊花乾燥。",
         "清涼的藥香與淡甜。",
         "核桃、紅棗、油膩餐後。",
-        "花浮起來時蓋上蓋子留住香氣。"
+        "花浮起來時蓋上蓋子留住香氣。", "溫和的花香與淡淡甜味，與藥菓、韓菓等傳統茶點很搭，配糯米年糕也合。秋天配烤栗子也很美妙。避免香料味重的食物，會掩蓋細緻的花香。"
       ]
     },
     /* ── 과일차 (블렌드 포함) ── */
@@ -6987,7 +6987,7 @@ window.TEAFaiData = (function () {
         "모과를 얇게 썰어 씨째 설탕·꿀이나 조청에 절여 숙성 → 뜨거운 물에 풀어 마심. 껍질을 살리면 향이 오래갑니다.",
         "‘나무에 열린 향기’라 불렀습니다. 차로 마시기 전부터 방향(芳香)의 열매로 쓰였습니다.",
         "은은한 꽃향과 단맛, 끝의 옅은 떫음.",
-        "약과, 호두과자, 겨울 디저트.",
+        "은은한 꽃향과 단맛, 끝의 옅은 떫음이 약과·호두과자와 잘 어울리고, 구운 밤 같은 겨울 디저트와도 결이 맞습니다. 떫은 뒷맛이 한과의 단맛을 잡아 줘 물리지 않습니다. 신맛이 강한 과일과는 향이 겹칠 수 있습니다.",
         "청 2큰술을 80~90도 물 200ml에 풀고, 과육을 함께 넣어야 향이 좋습니다."
       ],
       en: [
@@ -7001,7 +7001,7 @@ window.TEAFaiData = (function () {
         "Thinly sliced quince, seeds and all, preserved in sugar, honey or jocheong → stirred into hot water. Keeping the peel keeps the aroma.",
         "It was called “fragrance borne on a tree” and used to scent rooms long before anyone drank it.",
         "A soft floral perfume and sweetness, with a faint astringency at the end.",
-        "Yakgwa, walnut cakes, winter desserts.",
+        "Its soft floral perfume, sweetness, and faint astringent end pair well with yakgwa and walnut cakes, and match winter desserts like roasted chestnuts. The astringent finish reins in the sweets' sugar so they never cloy. Strongly sour fruit can crowd its aroma.",
         "Two spoons of cheong in 200 ml of 80–90 °C water, fruit included."
       ],
       "zh-CN": [
@@ -7015,7 +7015,7 @@ window.TEAFaiData = (function () {
         "木瓜切薄片（连籽）用糖、蜜或麦芽糖腌渍熟成 → 兑热水饮用。保留果皮香气更久。",
         "古人称它“长在树上的香”；在作为茶之前，早已用来熏香房间。",
         "柔和的花香与甜味，尾端有淡淡涩感。",
-        "药果、核桃糕、冬季甜点。",
+        "柔和的花香、甘甜与尾段淡淡的涩感与药果、核桃糕很搭配，也配烤栗子等冬日甜点。涩感的收尾收住甜点的糖分，不会腻人。酸味强烈的水果可能挤压它的香气。",
         "蜜渍2勺兑80~90度水200毫升，连果肉一起放。"
       ],
       "zh-TW": [
@@ -7029,7 +7029,7 @@ window.TEAFaiData = (function () {
         "木瓜切薄片（連籽）用糖、蜜或麥芽糖醃漬熟成 → 兌熱水飲用。保留果皮香氣更久。",
         "古人稱它「長在樹上的香」；在作為茶之前，早已用來薰香房間。",
         "柔和的花香與甜味，尾端有淡淡澀感。",
-        "藥果、核桃糕、冬季甜點。",
+        "柔和的花香、甜味與微微澀感的收尾，與藥菓和核桃糕很搭，也適合烤栗子等冬季甜點。澀感的收尾能收住甜點的糖分，不易膩口。酸味強的水果可能擠壓它的香氣。",
         "蜜漬2勺兌80~90度水200毫升，連果肉一起放。"
       ]
     },
@@ -7370,7 +7370,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 솥에서 덖어 잎을 곧고 납작하게 만듭니다.",
       "story": "1964년 어메이산에서 처음 만들었다고 전합니다. 이름은 대나무 잎을 닮은 모양에서 왔습니다.",
       "flavor": "옅은 풀 향과 단맛, 끝에 아주 가벼운 떫음. 물색은 연한 청록입니다.",
-      "pairing": "담백한 생선찜, 두부, 죽. 기름진 요리와는 어울리지 않습니다.",
+      "pairing": "담백한 생선찜, 연두부, 맑은 죽과 어울립니다. 옅은 풀 향과 맑은 단맛은 양념이 적은 음식 옆에서 청록빛처럼 깨끗하게 드러나고, 가벼운 떫음이 입안을 산뜻하게 해 줍니다. 기름진 볶음 요리는 맑은 향을 눌러 버리니 피하세요.",
       "brewTip": "유리잔이면 물을 먼저 붓고 잎을 얹으세요. 잎이 서서히 가라앉으며 향이 열립니다.",
       "keep": "개봉 후 한 달 안. 밀봉해 냉장 보관합니다.",
       "keywords": "죽엽청 아미산 쓰촨 덖음 녹차 명전"
@@ -7386,7 +7386,7 @@ window.TEAFaiData = (function () {
       "process": "Firing, rolling, drying. The wok keeps the blade straight and flat.",
       "story": "Said to have begun on Mount Emei in 1964; the name comes from the shape of the leaf.",
       "flavor": "Light green-grass aroma, sweetness, a faint astringency at the end. Pale blue-green liquor.",
-      "pairing": "Steamed white fish, tofu, congee. Oily dishes fight it.",
+      "pairing": "Lightly steamed fish, soft tofu and clear congee suit it. Its light grass aroma and clean sweetness show as purely as its blue-green liquor beside lightly seasoned food, and the gentle astringency freshens the palate. Avoid oily stir-fries, which press down its clean aroma.",
       "brewTip": "In a glass, pour the water first and drop the leaf in; it sinks slowly and opens as it goes.",
       "keep": "Within a month of opening, sealed in the fridge.",
       "keywords": "Zhu Ye Qing Emei Sichuan pan-fired green tea pre-Qingming"
@@ -7402,7 +7402,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，锅里炒成扁平直条。",
       "story": "相传1964年创制于峨眉山，名字来自叶形。",
       "flavor": "清草香与回甘，尾端极轻的涩，汤色浅青绿。",
-      "pairing": "清蒸鱼、豆腐、粥。油腻菜会压住香气。",
+      "pairing": "清淡蒸鱼、嫩豆腐和清粥都很适合。它轻盈的青草香与干净甘甜，如其蓝绿色茶汤般纯净地呈现在清淡调味食物旁，温和的涩感清新口腔。避免油腻炒菜，会压住它干净的香气。",
       "brewTip": "玻璃杯先注水再投茶，芽叶缓缓下沉，香气随之打开。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "竹叶青 峨眉 四川 炒青绿茶 明前"
@@ -7418,7 +7418,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，鍋裡炒成扁平直條。",
       "story": "相傳1964年創製於峨眉山，名字來自葉形。",
       "flavor": "清草香與回甘，尾端極輕的澀，湯色淺青綠。",
-      "pairing": "清蒸魚、豆腐、粥。油膩菜會壓住香氣。",
+      "pairing": "清蒸魚、嫩豆腐和清粥都很合適。輕盈的青草香與乾淨的甜味,如同它藍綠色的茶湯一樣純粹地展現在清淡調味的食物旁,溫和的澀感讓口腔清新。避免油膩的炒菜,以免壓住它乾淨的香氣。",
       "brewTip": "玻璃杯先注水再投茶，芽葉緩緩下沉，香氣隨之打開。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "竹葉青 峨眉 四川 炒青綠茶 明前"
@@ -7485,7 +7485,7 @@ window.TEAFaiData = (function () {
       "process": "증청 → 유념 → 건조. 찐 잎을 비벼 가는 바늘 모양으로 만듭니다.",
       "story": "청대부터 언스에서 만들었고, 1936년에 솥덖음이 증청으로 바뀌며 지금의 옥로가 되었습니다.",
       "flavor": "찐 잎의 감칠맛과 해조류 같은 향, 부드러운 단맛. 물색은 맑은 연둣빛입니다.",
-      "pairing": "회, 초밥, 나물. 기름진 고기와는 부딪힙니다.",
+      "pairing": "흰살생선 회, 초밥, 데친 나물과 어울립니다. 증기로 찐 잎의 감칠맛과 해조류 같은 향이 생선과 밥의 맛을 자연스럽게 이어 주고, 부드러운 단맛이 회의 뒷맛을 맑게 정리합니다. 기름진 고기 요리는 맑은 감칠맛과 부딪히니 피하세요.",
       "brewTip": "70~75도. 끓인 물을 다른 컵에 한 번 옮겨 쓰면 대략 그 온도가 됩니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장. 증청차는 산화가 빨라 더 서늘하게 둡니다.",
       "keywords": "은시옥로 증청 녹차 후베이 바늘잎"
@@ -7501,7 +7501,7 @@ window.TEAFaiData = (function () {
       "process": "Steaming, rolling, drying; the steamed leaf is rolled into fine needles.",
       "story": "Made in Enshi since the Qing era; in 1936 the pan-firing was replaced by steaming, giving today's Yulu.",
       "flavor": "Savory steamed-leaf umami, a seaweed edge, soft sweetness. Clear pale-green liquor.",
-      "pairing": "Sashimi, sushi, namul. Oily meat clashes.",
+      "pairing": "White-fish sashimi, sushi and blanched greens suit it. The steamed leaf's umami and seaweed edge link fish and rice naturally, and its soft sweetness leaves the sashimi's finish clean. Avoid oily meat, which clashes with its clear umami.",
       "brewTip": "70–75 °C. Pour boiling water into another cup once to land near that.",
       "keep": "Within a month of opening, sealed and cold — steamed leaf fades faster.",
       "keywords": "Enshi Yulu steamed green tea Hubei needle"
@@ -7517,7 +7517,7 @@ window.TEAFaiData = (function () {
       "process": "蒸青 → 揉捻 → 干燥，揉成细针状。",
       "story": "清代已在恩施制作，1936年由炒青改为蒸青，成为今天的玉露。",
       "flavor": "蒸青的鲜味与海藻香，回甘柔和，汤色浅绿清亮。",
-      "pairing": "生鱼片、寿司、凉拌菜。油腻肉类相冲。",
+      "pairing": "白肉鱼生鱼片、寿司和焯青菜都很适合。蒸叶的鲜味与海苔气息自然连接鱼与米饭，柔和的甘甜让生鱼片的收尾干净。避免油腻肉类，与它清澈的鲜味相冲突。",
       "brewTip": "70~75度，沸水先倒到另一个杯子再冲。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "恩施玉露 蒸青绿茶 湖北 针形"
@@ -7533,7 +7533,7 @@ window.TEAFaiData = (function () {
       "process": "蒸青 → 揉捻 → 乾燥，揉成細針狀。",
       "story": "清代已在恩施製作，1936年由炒青改為蒸青，成為今天的玉露。",
       "flavor": "蒸青的鮮味與海藻香，回甘柔和，湯色淺綠清亮。",
-      "pairing": "生魚片、壽司、涼拌菜。油膩肉類相衝。",
+      "pairing": "白肉魚生魚片、壽司和水燙青菜都很合適。蒸青葉的鮮味與海苔氣息自然連結魚與米飯,柔和的甜味讓生魚片的尾韻乾淨。避免油膩的肉類,以免與它清澈的鮮味衝突。",
       "brewTip": "70~75度，沸水先倒到另一個杯子再衝。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "恩施玉露 蒸青綠茶 湖北 針形"
@@ -7601,7 +7601,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 잎이 얇아 낮은 온도로 짧게 덖습니다.",
       "story": "1980년대 안길의 한 그루 야생 차나무에서 시작해 널리 퍼진 품종 이야기가 전합니다.",
       "flavor": "아미노산이 많아 감칠맛이 두드러지고 떫음이 거의 없습니다. 물색은 아주 연합니다.",
-      "pairing": "흰살생선, 두부, 달지 않은 과자.",
+      "pairing": "흰살생선찜, 두부 요리, 달지 않은 쌀과자나 크래커와 어울립니다. 아미노산이 풍부해 감칠맛이 또렷하면서도 떫음이 거의 없어, 슴슴한 재료의 맛을 끌어올리는 조미료 같은 역할을 합니다. 진한 양념 요리는 섬세한 감칠맛을 덮어 버립니다.",
       "brewTip": "잎이 여리므로 75~80도. 시간이 길면 감칠맛보다 풀 향이 앞섭니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "안길백차 안지백차 백엽1호 저장 감칠맛"
@@ -7617,7 +7617,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, dried — briefly at low heat for a thin leaf.",
       "story": "Traced to a single wild bush found in Anji in the 1980s and propagated since.",
       "flavor": "High amino acids give strong umami and almost no astringency; very pale liquor.",
-      "pairing": "White fish, tofu, unsweetened pastry.",
+      "pairing": "Steamed white fish, tofu dishes and unsweetened rice crackers suit it. Rich in amino acids, its umami is distinct yet almost free of astringency, working almost like a seasoning that lifts mild ingredients. Richly seasoned dishes cover that delicate umami.",
       "brewTip": "75–80 °C. Too long and grass outweighs the savor.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Anji Bai Cha Baiye 1 Zhejiang umami green tea"
@@ -7633,7 +7633,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，叶薄，低温短炒。",
       "story": "1980年代在安吉发现一株野生茶树，其后繁殖推广。",
       "flavor": "氨基酸高，鲜味突出，几乎不涩，汤色极浅。",
-      "pairing": "白肉鱼、豆腐、不甜的糕点。",
+      "pairing": "清蒸白肉鱼、豆腐菜肴和无糖米饼都很适合。富含氨基酸，它的鲜味鲜明却几乎没有涩感，几乎像一种提升清淡食材的调味。调味浓郁的菜肴会盖住这份细腻的鲜味。",
       "brewTip": "75~80度，久泡则草气盖过鲜味。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "安吉白茶 白叶一号 浙江 鲜爽"
@@ -7649,7 +7649,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，葉薄，低溫短炒。",
       "story": "1980年代在安吉發現一株野生茶樹，其後繁殖推廣。",
       "flavor": "胺基酸高，鮮味突出，幾乎不澀，湯色極淺。",
-      "pairing": "白肉魚、豆腐、不甜的糕點。",
+      "pairing": "清蒸白肉魚、豆腐料理和無糖米果都很合適。富含胺基酸,鮮味鮮明卻幾乎沒有澀感,幾乎像一種能提升清淡食材的調味。調味濃郁的菜會蓋住這份細緻的鮮味。",
       "brewTip": "75~80度，久泡則草氣蓋過鮮味。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "安吉白茶 白葉一號 浙江 鮮爽"
@@ -7716,7 +7716,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 잎을 가늘게 비벼 말립니다.",
       "story": "1915년 파나마 만국박람회 금상 기록이 전합니다.",
       "flavor": "난초에 가까운 꽃 향과 부드러운 단맛, 떫음이 적습니다.",
-      "pairing": "담백한 찜 요리, 죽, 견과.",
+      "pairing": "담백한 찜 요리, 맑은 죽, 볶은 견과와 어울립니다. 난초에 가까운 꽃 향과 부드러운 단맛이 자극 없는 음식 옆에서 은은하게 퍼지고, 떫음이 적어 식감을 방해하지 않습니다. 매콤한 양념 요리는 맑은 꽃 향을 지우니 피하세요.",
       "brewTip": "잎이 가늘어 80도면 충분합니다. 2포부터 향이 가장 좋습니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "구고뇌 쑤이촨 장시 난초향 녹차"
@@ -7732,7 +7732,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled into fine strands, dried.",
       "story": "Records credit it with a gold medal at the 1915 Panama-Pacific exposition.",
       "flavor": "Orchid-leaning florals, gentle sweetness, little astringency.",
-      "pairing": "Light steamed dishes, congee, nuts.",
+      "pairing": "Light steamed dishes, clear congee and roasted nuts suit it. Its orchid-leaning florals and gentle sweetness spread quietly beside unstimulating food, and low astringency never gets in the way of texture. Avoid spicy seasoned dishes, which erase the clean florals.",
       "brewTip": "80 °C is enough for this thin leaf; the second infusion is the best.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Gougunao Suichuan Jiangxi orchid green tea"
@@ -7748,7 +7748,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，揉成细条。",
       "story": "据记载1915年获巴拿马万国博览会金奖。",
       "flavor": "近似兰花的香气，回甘柔和，涩味轻。",
-      "pairing": "清蒸菜、粥、坚果。",
+      "pairing": "清淡蒸菜、清粥和烤坚果都很适合。它偏兰花的花香与温和甘甜在无刺激食物旁安静舒展，低涩感不会妨碍质地。避免辛辣调味菜，会抹去干净的花香。",
       "brewTip": "叶细，80度即可；第二泡香气最好。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "狗牯脑 遂川 江西 兰香 绿茶"
@@ -7764,7 +7764,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，揉成細條。",
       "story": "據記載1915年獲巴拿馬萬國博覽會金獎。",
       "flavor": "近似蘭花的香氣，回甘柔和，澀味輕。",
-      "pairing": "清蒸菜、粥、堅果。",
+      "pairing": "清淡的蒸菜、清粥和烘烤堅果都很合適。偏蘭花的花香與溫和甜味,在不刺激的食物旁安靜地散開,低澀感不會妨礙質地。避免辛辣調味的菜,以免抹去乾淨的花香。",
       "brewTip": "葉細，80度即可；第二泡香氣最好。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "狗牯腦 遂川 江西 蘭香 綠茶"
@@ -7831,7 +7831,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 잎을 눈썹 모양으로 비벼 말립니다.",
       "story": "1958년 만들어졌고 이후 전국 명차로 꼽혔다고 전합니다.",
       "flavor": "부드러운 풀 향과 밤 같은 단맛, 떫음이 적습니다.",
-      "pairing": "나물, 두부, 밥 반찬 전반.",
+      "pairing": "시금치·콩나물 같은 나물, 두부 반찬, 평범한 밥상 반찬 전반과 잘 어울립니다. 부드러운 풀 향과 밤 같은 단맛이 자극 없는 집밥과 자연스럽게 겹치고, 떫음이 적어 매일 마시기에도 부담이 없습니다. 향신료가 강한 요리와는 풀 향이 묻힙니다.",
       "brewTip": "80도에서 짧게. 잎이 얇아 두 번이면 충분합니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "무원명미 우위안 장시 눈썹 모양 녹차"
@@ -7847,7 +7847,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled into an eyebrow shape, dried.",
       "story": "Created in 1958 and later counted among the national famous teas.",
       "flavor": "Soft grass, chestnut sweetness, little astringency.",
-      "pairing": "Vegetable dishes, tofu, everyday rice meals.",
+      "pairing": "Greens such as spinach and bean sprouts, tofu side dishes and everyday rice-table food in general suit it well. Its soft grass aroma and chestnut sweetness blend naturally with unstimulating home cooking, and low astringency makes it easy to drink daily. Beside strongly spiced dishes, the grass note gets buried.",
       "brewTip": "Brief at 80 °C; two infusions are plenty for this thin leaf.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Wuyuan Mingmei Jiangxi eyebrow green tea"
@@ -7863,7 +7863,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，揉成眉形。",
       "story": "1958年创制，后被评为全国名茶。",
       "flavor": "柔和的青草香与栗子般的甘甜，涩味轻。",
-      "pairing": "家常蔬菜、豆腐、日常米饭。",
+      "pairing": "菠菜、豆芽等青菜、豆腐小菜和日常米饭桌食物都很适合。它柔和的青草香与栗子甘甜自然融入无刺激的家常菜，低涩感让它适合每天饮用。在香料浓重的菜肴旁，青草气息会被掩埋。",
       "brewTip": "80度快出，叶薄两泡足够。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "婺源茗眉 江西 眉形 绿茶"
@@ -7879,7 +7879,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，揉成眉形。",
       "story": "1958年創製，後被評為全國名茶。",
       "flavor": "柔和的青草香與慄子般的甘甜，澀味輕。",
-      "pairing": "家常蔬菜、豆腐、日常米飯。",
+      "pairing": "菠菜、豆芽等青菜、豆腐小菜和日常飯桌食物都很合適。柔和的青草香與栗子甜味自然融入不刺激的家常菜,低澀感讓它適合天天喝。在香料濃重的菜旁,青草香會被埋沒。",
       "brewTip": "80度快出，葉薄兩泡足夠。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "婺源茗眉 江西 眉形 綠茶"
@@ -7946,7 +7946,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 세 번 덖고 세 번 비비는 삼초삼유로 잎을 곱게 꼬아 말립니다.",
       "story": "몽정차는 당대에 이미 공차로 올라갔고, ‘감로’라는 이름의 차는 명대에 만들어졌다는 설이 전합니다.",
       "flavor": "밤과 콩의 고소함, 부드러운 단맛, 끝이 깨끗합니다.",
-      "pairing": "쌀밥, 나물, 담백한 국.",
+      "pairing": "갓 지은 쌀밥, 나물 반찬, 담백한 콩나물국과 어울립니다. 밤과 콩의 고소함이 밥의 단맛과 이어지고, 끝이 깨끗해 슴슴한 반찬의 맛을 가리지 않고 받쳐 줍니다. 진한 크림 요리나 매운 양념은 깨끗한 뒷맛과 부딪힙니다.",
       "brewTip": "80도. 잎이 곱게 꼬여 있어 1분이면 충분합니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "몽정감로 야안 쓰촨 공차 삼초삼유"
@@ -7962,7 +7962,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, then fired and rolled twice more — the 'three fires, three rolls' that make the fine curl.",
       "story": "Records already list Mengding tea as Tang-dynasty tribute.",
       "flavor": "Chestnut and soy roastiness, soft sweetness, a clean finish.",
-      "pairing": "Rice, vegetables, light soups.",
+      "pairing": "Freshly cooked rice, vegetable side dishes and a light bean-sprout soup suit it. Its chestnut-and-soy roastiness flows into the rice's sweetness, and the clean finish supports plain side dishes without masking them. Rich cream dishes or spicy seasoning clash with that clean finish.",
       "brewTip": "80 °C; the tight curl gives everything up in a minute.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Mengding Ganlu Ya'an Sichuan tribute tea"
@@ -7978,7 +7978,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 三炒三揉，揉成细卷后干燥。",
       "story": "蒙顶茶唐代已列为贡茶，“甘露”之名相传创于明代。",
       "flavor": "栗子与豆香，回甘柔和，收尾干净。",
-      "pairing": "米饭、蔬菜、清淡汤品。",
+      "pairing": "刚煮好的米饭、蔬菜小菜和清淡豆芽汤都很适合。它栗子与大豆的焙香流入米饭的甘甜，干净的收尾支撑原味小菜而不掩盖它们。浓郁奶油菜肴或辛辣调味与这份干净收尾相冲突。",
       "brewTip": "80度，卷曲紧，一分钟即可。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "蒙顶甘露 雅安 四川 贡茶"
@@ -7994,7 +7994,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 三炒三揉，揉成細卷後乾燥。",
       "story": "蒙頂茶唐代已列為貢茶，「甘露」之名相傳創於明代。",
       "flavor": "慄子與豆香，回甘柔和，收尾乾淨。",
-      "pairing": "米飯、蔬菜、清淡湯品。",
+      "pairing": "剛煮好的白飯、蔬菜小菜和清淡的豆芽湯都很合適。栗子與黃豆的烘烤香融入米飯的甜味,乾淨的尾韻能襯托清淡小菜而不掩蓋。濃郁的奶油料理或辛辣調味會與這份乾淨的尾韻衝突。",
       "brewTip": "80度，捲曲緊，一分鐘即可。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "蒙頂甘露 雅安 四川 貢茶"
@@ -8061,7 +8061,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 싹을 곧게 비벼 말립니다.",
       "story": "2007년 한중 지역의 여러 차 이름을 ‘한중선호’로 묶었습니다.",
       "flavor": "풀 향과 옅은 꽃 향, 단맛이 오래 남고 떫음이 적습니다.",
-      "pairing": "담백한 면 요리, 나물, 견과.",
+      "pairing": "잔치국수 같은 담백한 면 요리, 나물, 볶은 견과와 어울립니다. 풀 향과 옅은 꽃 향이 맑은 국물과 가볍게 겹치고, 오래 남는 단맛이 식사 뒤까지 은은하게 이어집니다. 기름진 중식면과는 맑은 향이 눌리니 피하는 편이 좋습니다.",
       "brewTip": "잎이 두꺼워 80도에서 1분 15초. 2포에서 단맛이 살아납니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "한중선호 산시 친링 북쪽 차밭"
@@ -8077,7 +8077,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled straight, dried.",
       "story": "In 2007 the area's separate tea names were unified as Hanzhong Xianhao.",
       "flavor": "Grass and faint flowers, a lasting sweetness, low astringency.",
-      "pairing": "Plain noodles, vegetables, nuts.",
+      "pairing": "Plain noodle dishes such as banquet noodles, vegetables and roasted nuts suit it. Grass and faint florals layer lightly over a clear broth, and the lasting sweetness carries gently past the meal. Avoid oily Chinese noodles, which press down its clean aroma.",
       "brewTip": "The thick leaf wants 1¼ minutes at 80 °C; sweetness shows in the second infusion.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Hanzhong Xianhao Shaanxi Qinling northern tea"
@@ -8093,7 +8093,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，揉成直条。",
       "story": "2007年把汉中各地茶名统一为“汉中仙毫”。",
       "flavor": "青草与淡花香，回甘持久，涩味轻。",
-      "pairing": "清汤面、蔬菜、坚果。",
+      "pairing": "宴会面等原味面食、蔬菜和烤坚果都很适合。青草与淡淡花香轻轻叠在清澈汤底之上，持久的甘甜温和地延续到餐后。避免油腻的中式面条，会压住它干净的香气。",
       "brewTip": "叶厚，80度一分十五秒；第二泡出甜。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "汉中仙毫 陕西 秦岭 北缘茶区"
@@ -8109,7 +8109,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，揉成直條。",
       "story": "2007年把漢中各地茶名統一為「漢中仙毫」。",
       "flavor": "青草與淡花香，回甘持久，澀味輕。",
-      "pairing": "清湯麵、蔬菜、堅果。",
+      "pairing": "宴會麵等清淡麵食、蔬菜和烘烤堅果都很合適。青草與淡淡花香輕輕疊在清湯之上,持久的甜味溫和地延續到餐後。避免油膩的中式麵食,以免壓住它乾淨的香氣。",
       "brewTip": "葉厚，80度一分十五秒；第二泡出甜。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "漢中仙毫 陝西 秦嶺 北緣茶區"
@@ -8176,7 +8176,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 싹을 곧게 비벼 말립니다.",
       "story": "혜명사 주변에서 재배가 시작되어 절 이름이 차 이름이 되었습니다.",
       "flavor": "옅은 꽃 향과 풀 향, 깨끗한 단맛.",
-      "pairing": "죽, 나물, 담백한 생선.",
+      "pairing": "맑은 죽, 데친 나물, 담백한 생선찜과 어울립니다. 옅은 꽃 향과 풀 향, 깨끗한 단맛이 자극 없는 음식의 결을 따라가며 입안을 맑게 정리해 줍니다. 양념이 진한 찌개류와 곁들이면 섬세한 향이 묻히니 피하세요.",
       "brewTip": "80도에서 1분. 잎이 여려 오래 우리면 씁니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "혜명차 징닝 저장 산사 녹차"
@@ -8192,7 +8192,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled straight, dried.",
       "story": "Cultivation began around Huiming temple, and the temple name became the tea's name.",
       "flavor": "Faint flowers with grass, a clean sweetness.",
-      "pairing": "Congee, vegetables, light fish.",
+      "pairing": "Clear congee, blanched greens and lightly steamed fish suit it. Faint florals, grass and a clean sweetness follow the grain of unstimulating food and leave the palate clear. Avoid richly seasoned stews, which bury its delicate aroma.",
       "brewTip": "One minute at 80 °C; the tender leaf turns bitter if left.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Huiming tea Jingning Zhejiang temple green tea"
@@ -8208,7 +8208,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，揉成直条。",
       "story": "始于惠明寺周边栽培，寺名成了茶名。",
       "flavor": "淡花香与青草气，甘净。",
-      "pairing": "粥、蔬菜、清蒸鱼。",
+      "pairing": "清粥、焯青菜和清淡蒸鱼都很适合。淡淡花香、青草与干净甘甜顺着无刺激食物的纹理，让口腔清爽。避免调味浓郁的炖菜，会掩埋它细腻的香气。",
       "brewTip": "80度一分钟，久泡发涩。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "惠明茶 景宁 浙江 寺茶"
@@ -8224,7 +8224,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，揉成直條。",
       "story": "始於惠明寺周邊栽培，寺名成了茶名。",
       "flavor": "淡花香與青草氣，甘淨。",
-      "pairing": "粥、蔬菜、清蒸魚。",
+      "pairing": "清粥、水燙青菜和清蒸魚都很合適。淡淡的花香、青草與乾淨的甜味順著不刺激食物的紋理,讓口腔清爽。避免調味濃郁的燉菜,以免埋沒它細緻的香氣。",
       "brewTip": "80度一分鐘，久泡發澀。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "惠明茶 景寧 浙江 寺茶"
@@ -8291,7 +8291,7 @@ window.TEAFaiData = (function () {
       "process": "살청(덖음) → 유념 → 건조. 규모에 따라 기계 덖음과 손덖음이 나뉩니다.",
       "story": "보성의 차밭은 1939년 조성된 뒤 한국 차 재배의 중심으로 자리 잡았습니다.",
       "flavor": "구수한 덖음 향과 풀 향이 겹치고, 단맛이 뒤따릅니다. 대작으로 갈수록 떫음이 늘어납니다.",
-      "pairing": "나물, 생선구이, 김. 보리밥과도 잘 맞습니다.",
+      "pairing": "나물 반찬, 생선구이, 구운 김, 보리밥과 잘 어울립니다. 덖은 고소함과 풀 향이 겹쳐 구수한 밥상의 맛을 받쳐 주고, 뒤따라오는 단맛이 생선구이의 짠맛과 균형을 이룹니다. 섬세한 회 요리에는 덖음 향이 조금 강하게 느껴질 수 있습니다.",
       "brewTip": "70~75도. 대작은 85~90도에서 짧게 우려도 됩니다.",
       "keep": "개봉 후 한 달 안. 냉장 보관하고 습기를 피합니다.",
       "keywords": "보성 녹차 전남 대한다원 우전 세작 중작 대작"
@@ -8307,7 +8307,7 @@ window.TEAFaiData = (function () {
       "process": "Pan-fired, rolled, dried; machine-fired at scale, hand-fired on small farms.",
       "story": "Boseong's fields were planted from 1939 and became the centre of Korean tea growing.",
       "flavor": "Roasted and grassy at once, with sweetness behind; later pickings turn more astringent.",
-      "pairing": "Vegetables, grilled fish, seaweed, barley rice.",
+      "pairing": "Vegetable side dishes, grilled fish, roasted seaweed and barley rice suit it well. Roastiness and grass together support a hearty rice table, and the sweetness that follows balances the grilled fish's saltiness. Beside delicate sashimi, the roasted note can feel a little strong.",
       "brewTip": "70–75 °C; the coarse daejak can take 85–90 °C briefly.",
       "keep": "Within a month of opening, cold and dry.",
       "keywords": "Boseong green tea Korea ujeon sejak jungjak daejak"
@@ -8323,7 +8323,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，量產用机炒，小农手工炒制。",
       "story": "宝城茶田自1939年开垦，此后成为韩国茶叶主产区。",
       "flavor": "炒香与青草香交叠，回甘在后；越到晚采越涩。",
-      "pairing": "凉拌菜、烤鱼、紫菜、大麦饭。",
+      "pairing": "蔬菜小菜、烤鱼、烤海苔和大麦饭都很适合。焙香与青草共同支撑丰盛的米饭桌，随后而来的甘甜平衡烤鱼的咸味。在精致生鱼片旁，焙烤气息可能略显强。",
       "brewTip": "70~75度；粗老的大雀可用85~90度短泡。",
       "keep": "开封后一个月内，冷藏防潮。",
       "keywords": "宝城绿茶 全罗南道 雨前 细雀 中雀 大雀"
@@ -8339,7 +8339,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，量產用機炒，小農手工炒制。",
       "story": "寶城茶田自1939年開墾，此後成為韓國茶葉主產區。",
       "flavor": "炒香與青草香交疊，回甘在後；越到晚採越澀。",
-      "pairing": "涼拌菜、烤魚、紫菜、大麥飯。",
+      "pairing": "蔬菜小菜、烤魚、烤海苔和大麥飯都很合適。烘烤香與青草香共同支撐扎實的飯桌,隨後的甜味平衡烤魚的鹹味。在精緻的生魚片旁,烘烤香可能略顯強烈。",
       "brewTip": "70~75度；粗老的大雀可用85~90度短泡。",
       "keep": "開封後一個月內，冷藏防潮。",
       "keywords": "寶城綠茶 全羅南道 雨前 細雀 中雀 大雀"
@@ -8406,7 +8406,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 잎을 가는 나선으로 꼬아 말립니다.",
       "story": "1940년대 이후 삼협 지역에서 중국식 녹차 제법이 자리 잡았고, ‘벽라춘’이라는 이름은 1998년에 붙었습니다.",
       "flavor": "풋풀 향과 옅은 과일 단맛, 떫음이 적고 물색이 맑습니다.",
-      "pairing": "담백한 중식, 흰살생선, 가벼운 디저트.",
+      "pairing": "담백한 중식 볶음, 흰살생선찜, 가벼운 과일 디저트와 어울립니다. 풋풋한 풀 향과 옅은 과일 단맛이 맑은 물색처럼 가볍게 겹쳐, 자극 없는 음식의 맛을 상큼하게 받쳐 줍니다. 매운 요리는 맑은 과일 향을 지워 버리니 피하세요.",
       "brewTip": "75도. 잎이 곱게 꼬여 1분이면 충분합니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "삼협 벽라춘 대만 신베이 녹차 나선"
@@ -8422,7 +8422,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled into fine spirals, dried.",
       "story": "Chinese green-tea methods took root in Sanxia from the 1940s; the name Biluochun was adopted in 1998.",
       "flavor": "Green-grass aroma, faint fruit sweetness, low astringency, clear liquor.",
-      "pairing": "Light Chinese dishes, white fish, simple desserts.",
+      "pairing": "Light Chinese stir-fries, steamed white fish and simple fruit desserts suit it. Its green-grass aroma and faint fruit sweetness layer as lightly as its clear liquor, freshly supporting unstimulating food. Avoid spicy dishes, which erase the clean fruit note.",
       "brewTip": "75 °C; the fine spiral gives up its flavour in a minute.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Sanxia Biluochun Taiwan New Taipei green tea spiral"
@@ -8438,7 +8438,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，揉成细螺状。",
       "story": "1940年代起三峡引入中国式绿茶制法，“碧螺春”之名于1998年采用。",
       "flavor": "清草香与淡果甜，涩味轻，汤色清亮。",
-      "pairing": "清淡中餐、白肉鱼、简单甜点。",
+      "pairing": "清淡中式小炒、清蒸白肉鱼和简单水果甜点都很适合。它青草香气与淡淡果甜，如其清澈茶汤般轻盈地叠加，新鲜地支撑无刺激食物。避免辛辣菜肴，会抹去干净的果香。",
       "brewTip": "75度，一分钟即可。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "三峡碧螺春 台湾 新北 绿茶 螺形"
@@ -8454,7 +8454,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，揉成細螺狀。",
       "story": "1940年代起三峽引入中國式綠茶製法，「碧螺春」之名於1998年採用。",
       "flavor": "清草香與淡果甜，澀味輕，湯色清亮。",
-      "pairing": "清淡中餐、白肉魚、簡單甜點。",
+      "pairing": "清淡的中式炒菜、清蒸白肉魚和簡單的水果甜點都很合適。青草香與淡淡的果甜,如同它清澈的茶湯一樣輕盈地疊加,新鮮地襯托不刺激的食物。避免辛辣的菜,以免抹去乾淨的果香。",
       "brewTip": "75度，一分鐘即可。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "三峽碧螺春 臺灣 新北 綠茶 螺形"
@@ -8521,7 +8521,7 @@ window.TEAFaiData = (function () {
       "process": "차광 → 증청 → 유념 → 건조.",
       "story": "차광 기간을 달리해 센차·카부세차·옥로의 등급을 나누는 관행이 일본에서 자리 잡았습니다.",
       "flavor": "감칠맛이 진하고 떫음이 적습니다. 해조류와 단맛이 겹칩니다.",
-      "pairing": "회, 달걀 요리, 밥.",
+      "pairing": "흰살생선 회, 달걀말이나 달걀찜, 갓 지은 밥과 어울립니다. 차광 재배로 진해진 감칠맛이 생선과 달걀의 맛을 깊게 받쳐 주고, 해조류 향과 단맛이 밥과도 자연스럽게 이어집니다. 떫음이 적어 섬세한 음식과 부딪히지 않습니다.",
       "brewTip": "60~70도. 뜨거운 물이면 감칠맛보다 떫음이 앞섭니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "카부세차 관차 일본 차광 증청 감칠맛"
@@ -8537,7 +8537,7 @@ window.TEAFaiData = (function () {
       "process": "Shaded, steamed, rolled, dried.",
       "story": "Japan grades sencha, kabusecha and gyokuro partly by how long the bushes are covered.",
       "flavor": "Deep umami, little astringency, seaweed and sweetness together.",
-      "pairing": "Sashimi, egg dishes, rice.",
+      "pairing": "White-fish sashimi, rolled or steamed egg and freshly cooked rice suit it. Umami deepened by shading supports fish and egg richly, while the seaweed note and sweetness flow naturally into rice. With little astringency, it never clashes with delicate food.",
       "brewTip": "60–70 °C; hotter water turns umami into astringency.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Kabusecha Japan shaded green tea umami"
@@ -8553,7 +8553,7 @@ window.TEAFaiData = (function () {
       "process": "遮光 → 蒸青 → 揉捻 → 干燥。",
       "story": "日本以遮光时间区分煎茶、冠茶与玉露。",
       "flavor": "鲜味浓、涩味轻，海藻气与甜味并存。",
-      "pairing": "生鱼片、蛋类料理、米饭。",
+      "pairing": "白肉鱼生鱼片、玉子烧或蒸蛋和刚煮好的米饭都很适合。遮阴加深的鲜味丰厚地支撑鱼与蛋，海苔气息与甘甜自然流入米饭。涩感很少，不会与精致食物冲突。",
       "brewTip": "60~70度，水温高则涩味盖过鲜味。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "冠茶 日本 遮光 蒸青 鲜味"
@@ -8569,7 +8569,7 @@ window.TEAFaiData = (function () {
       "process": "遮光 → 蒸青 → 揉捻 → 乾燥。",
       "story": "日本以遮光時間區分煎茶、冠茶與玉露。",
       "flavor": "鮮味濃、澀味輕，海藻氣與甜味並存。",
-      "pairing": "生魚片、蛋類料理、米飯。",
+      "pairing": "白肉魚生魚片、玉子燒或蒸蛋和剛煮好的白飯都很合適。遮蔭加深的鮮味豐厚地支撐魚與蛋,海苔香與甜味自然融入米飯。澀感低,不會與精緻食物衝突。",
       "brewTip": "60~70度，水溫高則澀味蓋過鮮味。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "冠茶 日本 遮光 蒸青 鮮味"
@@ -8636,7 +8636,7 @@ window.TEAFaiData = (function () {
       "process": "살청(솥 덖음) → 유념 → 건조.",
       "story": "에도 시대에 중국식 덖음 제법이 규슈로 들어와 지금까지 이어졌다고 전합니다.",
       "flavor": "볶은 곡물 같은 고소함과 가벼운 단맛, 해조류 향이 적습니다.",
-      "pairing": "구운 생선, 밥, 튀김.",
+      "pairing": "구운 생선, 밥, 튀김과 잘 어울립니다. 솥에서 볶아 낸 곡물 같은 고소함이 구운 생선의 향과 겹치고, 해조류 향이 적어 밥반찬 전반과 무리 없이 어울립니다. 튀김 뒤에는 가벼운 단맛이 입안을 부드럽게 정리해 줍니다.",
       "brewTip": "80도. 차가운 물에 오래 우리는 물출수도 잘 맞습니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "카마이리차 솥덖음 규슈 우레시노 일본 녹차"
@@ -8652,7 +8652,7 @@ window.TEAFaiData = (function () {
       "process": "Pan-fired, rolled, dried.",
       "story": "Chinese-style firing is said to have reached Kyushu in the Edo period and stayed.",
       "flavor": "Roasted-grain sweetness, mild, with little seaweed character.",
-      "pairing": "Grilled fish, rice, fried food.",
+      "pairing": "Grilled fish, rice and fried food suit it well. Its pan-fired, roasted-grain toastiness meets grilled fish's aroma, and with little seaweed character it fits everyday rice dishes without strain. After fried food, its light sweetness gently tidies the palate.",
       "brewTip": "80 °C; it also cold-brews well.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Kamairicha pan-fired Japanese green tea Ureshino Kyushu"
@@ -8668,7 +8668,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥。",
       "story": "相传江户时代中国式炒青传入九州并延续至今。",
       "flavor": "炒米般的香与轻甜，海藻气少。",
-      "pairing": "烤鱼、米饭、油炸物。",
+      "pairing": "烤鱼、米饭和油炸食物都很适合。它锅炒的烤谷物烘焙香与烤鱼香气相遇，海苔特征少，与日常米饭菜肴相处无负担。油炸食物之后，它轻盈的甘甜温和地收拾口腔。",
       "brewTip": "80度，也适合冷泡。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "釜炒茶 日本 九州 嬉野 炒青"
@@ -8684,7 +8684,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥。",
       "story": "相傳江戶時代中國式炒青傳入九州並延續至今。",
       "flavor": "炒米般的香與輕甜，海藻氣少。",
-      "pairing": "烤魚、米飯、油炸物。",
+      "pairing": "烤魚、白飯和炸物都很合適。釜炒的烘烤穀物香與烤魚的香氣相遇,海苔氣息少,能毫不費力地融入日常飯菜。炸物之後,它輕盈的甜味能溫和地收拾口腔。",
       "brewTip": "80度，也適合冷泡。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "釜炒茶 日本 九州 嬉野 炒青"
@@ -8751,7 +8751,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 압압 → 건조. 손으로 눌러 납작하게 만듭니다.",
       "story": "신창의 대불사 이름을 딴 차로, 1980년대 이후 생산이 크게 늘었습니다.",
       "flavor": "볶은 콩 같은 고소함과 가벼운 단맛. 시후 용정보다 향이 조금 거칩니다.",
-      "pairing": "볶음 요리, 새우, 두부.",
+      "pairing": "채소 볶음, 새우 요리, 두부 요리와 잘 어울립니다. 볶은 콩 같은 고소함이 시후 용정보다 조금 거칠게 느껴져, 오히려 볶음 요리의 불 향과 새우의 단맛을 단단히 받아 냅니다. 섬세한 생선찜에는 고소함이 조금 앞서니 피하세요.",
       "brewTip": "80도에서 1분. 잎이 납작해 금방 우러납니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "대불용정 신창 저장 용정 납작 녹차"
@@ -8767,7 +8767,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, pressed flat by hand, dried.",
       "story": "Named for the Dafo temple in Xinchang; output grew sharply from the 1980s.",
       "flavor": "Roasted-soy sweetness, a little rougher aromatically than West Lake Longjing.",
-      "pairing": "Stir-fries, shrimp, tofu.",
+      "pairing": "Vegetable stir-fries, shrimp and tofu dishes suit it well. Its roasted-soy toastiness is a little rougher than West Lake Longjing's, which lets it firmly handle a stir-fry's wok aroma and shrimp's sweetness. Beside delicate steamed fish, the toastiness steps slightly ahead.",
       "brewTip": "One minute at 80 °C; the flat leaf gives up quickly.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Dafo Longjing Xinchang Zhejiang flat green tea"
@@ -8783,7 +8783,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 压扁 → 干燥。",
       "story": "因新昌大佛寺得名，1980年代后产量大增。",
       "flavor": "炒豆香与轻甜，香气比西湖龙井略粗。",
-      "pairing": "小炒、虾仁、豆腐。",
+      "pairing": "炒蔬菜、虾和豆腐菜肴都很适合。它炒豆的烘焙香比西湖龙井略粗犷一些，因此能稳稳应对炒菜的锅气与虾的甘甜。在精致蒸鱼旁，烘焙香会略微抢先。",
       "brewTip": "80度一分钟即出。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "大佛龙井 新昌 浙江 扁形绿茶"
@@ -8799,7 +8799,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 壓扁 → 乾燥。",
       "story": "因新昌大佛寺得名，1980年代後產量大增。",
       "flavor": "炒豆香與輕甜，香氣比西湖龍井略粗。",
-      "pairing": "小炒、蝦仁、豆腐。",
+      "pairing": "炒時蔬、蝦子和豆腐料理都很合適。烘烤黃豆的香氣比西湖龍井略粗獷一些,因此能有力地應對炒菜的鍋氣與蝦子的甜味。在精緻的清蒸魚旁,烘烤香會略微搶先。",
       "brewTip": "80度一分鐘即出。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "大佛龍井 新昌 浙江 扁形綠茶"
@@ -8866,7 +8866,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 건조. 잎이 두꺼워 덖는 시간이 조금 깁니다.",
       "story": "1959년 남쪽에서 차나무를 옮겨 심어 재배가 시작되었다고 기록되어 있습니다.",
       "flavor": "구수한 볶음 향과 진한 단맛, 잎이 두꺼워 우린 횟수가 깁니다.",
-      "pairing": "해산물, 만두, 볶음 요리.",
+      "pairing": "해산물 요리, 군만두, 볶음 요리와 잘 어울립니다. 구수한 볶음 향과 진한 단맛이 해산물의 감칠맛과 만두의 고소함을 받쳐 주고, 두꺼운 잎이라 여러 번 우려 가며 긴 식사와 함께하기 좋습니다. 담백한 생선회와는 볶음 향이 앞섭니다.",
       "brewTip": "80도에서 1분 15초. 3포까지도 향이 남습니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "노산녹차 라오산 녹차 칭다오 산둥 북방 차밭"
@@ -8882,7 +8882,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, dried — a little longer, for a thicker leaf.",
       "story": "Planting of southern bushes here is recorded from 1959.",
       "flavor": "Toasty roast and solid sweetness; the thick leaf lasts several infusions.",
-      "pairing": "Seafood, dumplings, stir-fries.",
+      "pairing": "Seafood dishes, pan-fried dumplings and stir-fries suit it well. Its toasty roast and solid sweetness support seafood umami and dumpling richness, and the thick leaf keeps re-steeping through a long meal. Beside plain sashimi, the roasted note takes the lead.",
       "brewTip": "1¼ minutes at 80 °C; aroma still there in the third infusion.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Laoshan green tea Qingdao Shandong northern tea"
@@ -8898,7 +8898,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 干燥，叶厚，炒制稍久。",
       "story": "据记载1959年由南方引种开始栽培。",
       "flavor": "炒香与厚实的甘甜，耐泡。",
-      "pairing": "海鲜、饺子、家常小炒。",
+      "pairing": "海鲜菜肴、煎饺和炒菜都很适合。它烘焙的烤香与扎实的甘甜支撑海鲜的鲜味与饺子的丰润，厚实的叶片能在一顿长餐中反复冲泡。在原味生鱼片旁，焙烤气息会占上风。",
       "brewTip": "80度一分十五秒，第三泡仍有香。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "崂山绿茶 青岛 山东 北方茶区"
@@ -8914,7 +8914,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 乾燥，葉厚，炒制稍久。",
       "story": "據記載1959年由南方引種開始栽培。",
       "flavor": "炒香與厚實的甘甜，耐泡。",
-      "pairing": "海鮮、餃子、家常小炒。",
+      "pairing": "海鮮料理、煎餃和炒菜都很合適。烘烤香與扎實的甜味支撐海鮮的鮮味與餃子的豐潤,厚實的葉底能在一頓長餐中反覆沖泡。在原味生魚片旁,烘烤香會佔上風。",
       "brewTip": "80度一分十五秒，第三泡仍有香。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "嶗山綠茶 青島 山東 北方茶區"
@@ -8981,7 +8981,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 가벼운 유념 → 건조. 유념으로 잎 가장자리가 조금 산화합니다.",
       "story": "1968년 푸딩에서 만들기 시작한 방식으로, 백차의 부드러움에 우롱의 향을 조금 더했습니다.",
       "flavor": "백차의 부드러운 단맛에 꽃 향과 살짝 구운 향이 겹칩니다.",
-      "pairing": "말린 과일, 견과, 달지 않은 구운 과자.",
+      "pairing": "말린 과일, 볶은 견과, 달지 않은 구운 과자와 어울립니다. 백차의 부드러운 단맛에 꽃 향과 살짝 구운 향이 겹쳐, 고소한 간식과 함께하면 향의 층이 더 또렷해집니다. 진한 초콜릿 디저트는 은은한 꽃 향을 덮으니 피하세요.",
       "brewTip": "85도. 전통 백차보다 향이 빨리 열려 2분이면 충분합니다.",
       "keep": "서늘하고 건조하게. 오래 두면 향이 부드러워집니다.",
       "keywords": "신공예 백차 푸딩 유념 반발효"
@@ -8997,7 +8997,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, lightly rolled, dried; the roll oxidises the edges slightly.",
       "story": "Introduced in Fuding in 1968, adding a little oolong-like aroma to white tea's softness.",
       "flavor": "Gentle white-tea sweetness with flowers and a faint toast.",
-      "pairing": "Dried fruit, nuts, plain biscuits.",
+      "pairing": "Dried fruit, roasted nuts and plain biscuits suit it. White-tea sweetness layered with florals and a faint toast shows its layers clearest beside nutty snacks. Avoid rich chocolate desserts, which cover its quiet florals.",
       "brewTip": "85 °C; aroma opens faster than traditional white — two minutes is enough.",
       "keep": "Cool and dry; the aroma softens with age.",
       "keywords": "new craft white tea Fuding light roll semi-oxidised"
@@ -9013,7 +9013,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 轻揉 → 干燥，叶缘微氧化。",
       "story": "1968年福鼎创制，在白茶的柔和中添一点乌龙香。",
       "flavor": "白茶柔甜之上叠着花香与轻焙火气。",
-      "pairing": "果干、坚果、原味饼干。",
+      "pairing": "干果、烤坚果和原味饼干都很适合。白茶的甘甜叠加花香与淡淡烘焙香，在坚果香小吃旁层次最清晰。避免浓郁巧克力甜点，会盖住它安静的花香。",
       "brewTip": "85度，两分钟即可出香。",
       "keep": "阴凉干燥，久存香气转柔。",
       "keywords": "新工艺白茶 福鼎 轻揉 半发酵"
@@ -9029,7 +9029,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 輕揉 → 乾燥，葉緣微氧化。",
       "story": "1968年福鼎創製，在白茶的柔和中添一點烏龍香。",
       "flavor": "白茶柔甜之上疊著花香與輕焙火氣。",
-      "pairing": "果乾、堅果、原味餅乾。",
+      "pairing": "果乾、烘烤堅果和原味餅乾都很合適。白茶的甜味疊上花香與淡淡烘烤香,在堅果香小吃旁層次最為清晰。避免濃郁的巧克力甜點,以免蓋住它安靜的花香。",
       "brewTip": "85度，兩分鐘即可出香。",
       "keep": "陰涼乾燥，久存香氣轉柔。",
       "keywords": "新工藝白茶 福鼎 輕揉 半發酵"
@@ -9096,7 +9096,7 @@ window.TEAFaiData = (function () {
       "process": "실내 그늘 위조 → 건조. 잎을 비비지 않아 모양이 크게 남습니다.",
       "story": "이름은 잎의 흑백이 달빛과 그림자를 닮은 데서 왔습니다.",
       "flavor": "말린 과일과 꿀 같은 단맛, 부드러운 몸통. 물색은 연한 살구빛입니다.",
-      "pairing": "말린 살구, 대추, 견과, 밤 디저트.",
+      "pairing": "말린 살구, 대추, 견과, 밤 디저트와 어울립니다. 말린 과일과 꿀 같은 단맛이 비슷한 결의 간식과 겹치면 부드러운 몸통이 단맛을 포근하게 감싸 줍니다. 상큼한 과일 샐러드와는 단맛의 결이 달라 따로 즐기는 편이 좋습니다.",
       "brewTip": "85도에서 짧게 여러 번. 3포부터 단맛이 올라옵니다.",
       "keep": "서늘하고 건조하게. 습기를 피하면 몇 해 두고 마실 수 있습니다.",
       "keywords": "월광백 윈난 대엽종 백차 달빛 그늘위조"
@@ -9112,7 +9112,7 @@ window.TEAFaiData = (function () {
       "process": "Shade-withered indoors, dried; the leaf is not rolled, so it stays whole.",
       "story": "The name comes from the pale and dark faces of the leaf, like moonlight and shadow.",
       "flavor": "Dried fruit and honey sweetness, soft body, pale apricot liquor.",
-      "pairing": "Dried apricot, jujube, nuts, chestnut desserts.",
+      "pairing": "Dried apricot, jujube, nuts and chestnut desserts suit it. When its dried-fruit and honey sweetness meets snacks of a similar grain, the soft body wraps the sweetness cosily. Beside a tart fruit salad the sweetness pulls in a different direction, so enjoy it separately there.",
       "brewTip": "Short, repeated infusions at 85 °C; sweetness rises from the third.",
       "keep": "Cool and dry; kept from damp it will hold for years.",
       "keywords": "Moonlight White Yunnan large leaf white tea shade withered"
@@ -9128,7 +9128,7 @@ window.TEAFaiData = (function () {
       "process": "室内遮阴萎凋 → 干燥，不揉捻，叶片完整。",
       "story": "名字来自叶面黑白相间，如同月光与影子。",
       "flavor": "果干与蜜甜，汤体柔和，汤色浅杏黄。",
-      "pairing": "杏干、红枣、坚果、栗子甜点。",
+      "pairing": "杏干、红枣、坚果和栗子甜点都很适合。当它的干果与蜂蜜甘甜遇上气质相近的小吃，柔和的体感温馨地包裹甜味。在酸味水果沙拉旁，甘甜会走向不同方向，那时请分开享用。",
       "brewTip": "85度短泡多道，第三泡起甜味上来。",
       "keep": "阴凉干燥，避潮可存放数年。",
       "keywords": "月光白 云南 大叶种 白茶 阴干"
@@ -9144,7 +9144,7 @@ window.TEAFaiData = (function () {
       "process": "室內遮陰萎凋 → 乾燥，不揉捻，葉片完整。",
       "story": "名字來自葉面黑白相間，如同月光與影子。",
       "flavor": "果乾與蜜甜，湯體柔和，湯色淺杏黃。",
-      "pairing": "杏幹、紅棗、堅果、慄子甜點。",
+      "pairing": "杏桃乾、棗子、堅果和栗子甜點都很合適。當它的果乾與蜂蜜甜味遇上氣息相近的小吃,柔和的茶體溫暖地包裹甜味。在酸味水果沙拉旁,甜味的方向不同,建議分開享用。",
       "brewTip": "85度短泡多道，第三泡起甜味上來。",
       "keep": "陰涼乾燥，避潮可存放數年。",
       "keywords": "月光白 雲南 大葉種 白茶 陰乾"
@@ -9211,7 +9211,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 건조. 잎이 두꺼워 건조를 길게 합니다.",
       "story": "링윈 지역은 백호가 많은 차나무로 알려져 있습니다.",
       "flavor": "부드러운 꽃 향과 옅은 풀 향, 가벼운 단맛.",
-      "pairing": "담백한 디저트, 견과, 과일.",
+      "pairing": "담백한 디저트, 볶은 견과, 신선한 과일과 어울립니다. 부드러운 꽃 향과 옅은 풀 향이 가벼운 단맛과 함께 자극 없는 간식 옆에서 은은하게 퍼집니다. 진한 카라멜이나 초콜릿 디저트는 가벼운 꽃 향을 덮어 버립니다.",
       "brewTip": "85도에서 1분 30초. 잎이 두꺼워 3포까지 우러납니다.",
       "keep": "서늘하고 건조하게, 밀봉 보관.",
       "keywords": "능운백호 광시 백차 백호"
@@ -9227,7 +9227,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, dried; a thick leaf needs a longer dry.",
       "story": "Lingyun is known for bushes whose buds carry heavy white down.",
       "flavor": "Soft flowers, faint grass, light sweetness.",
-      "pairing": "Plain desserts, nuts, fruit.",
+      "pairing": "Plain desserts, roasted nuts and fresh fruit suit it. Soft florals and faint grass with a light sweetness spread quietly beside unstimulating snacks. Rich caramel or chocolate desserts bury its light florals.",
       "brewTip": "1½ minutes at 85 °C; the thick leaf lasts three infusions.",
       "keep": "Cool, dry, sealed.",
       "keywords": "Lingyun Baihao Guangxi white tea downy buds"
@@ -9243,7 +9243,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 干燥，叶厚，干燥时间较长。",
       "story": "凌云以白毫浓密的茶树闻名。",
       "flavor": "柔和花香与淡草气，轻甜。",
-      "pairing": "清淡甜点、坚果、水果。",
+      "pairing": "原味甜点、烤坚果和新鲜水果都很适合。柔和的花香、淡淡青草与轻盈甘甜在无刺激小吃旁安静舒展。浓郁焦糖或巧克力甜点会掩埋它轻盈的花香。",
       "brewTip": "85度一分半，可泡三泡。",
       "keep": "阴凉干燥，密封保存。",
       "keywords": "凌云白毫 广西 白茶 白毫"
@@ -9259,7 +9259,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 乾燥，葉厚，乾燥時間較長。",
       "story": "凌雲以白毫濃密的茶樹聞名。",
       "flavor": "柔和花香與淡草氣，輕甜。",
-      "pairing": "清淡甜點、堅果、水果。",
+      "pairing": "清淡甜點、烘烤堅果和新鮮水果都很合適。柔和的花香與淡淡青草加上輕盈甜味,在不刺激的小吃旁安靜地散開。濃郁的焦糖或巧克力甜點會埋沒它輕盈的花香。",
       "brewTip": "85度一分半，可泡三泡。",
       "keep": "陰涼乾燥，密封保存。",
       "keywords": "凌雲白毫 廣西 白茶 白毫"
@@ -9326,7 +9326,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 민황 → 건조.",
       "story": "명·청 시대부터 이어졌다고 전하는 후난의 소규모 황차입니다.",
       "flavor": "부드러운 곡물 향과 단맛, 녹차보다 떫음이 적습니다.",
-      "pairing": "죽, 나물, 밥 반찬.",
+      "pairing": "맑은 죽, 나물 반찬, 평범한 밥상 반찬과 어울립니다. 부드러운 곡물 향과 단맛이 슴슴한 집밥과 자연스럽게 겹치고, 녹차보다 떫음이 적어 반찬 맛을 방해하지 않습니다. 매운 양념 요리와는 곡물 향이 묻히니 피하세요.",
       "brewTip": "85도에서 1분 30초. 민황한 잎은 2포에서 향이 가장 좋습니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "북항모첨 후난 악양 황차 민황"
@@ -9342,7 +9342,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, then piled warm so the leaf yellows itself ('men huang'), then dried.",
       "story": "A minor Hunan yellow tea said to go back to the Ming and Qing.",
       "flavor": "Soft grain sweetness, less astringent than green tea.",
-      "pairing": "Congee, vegetables, everyday rice dishes.",
+      "pairing": "Clear congee, vegetable side dishes and everyday rice-table food suit it. Its soft grain aroma and sweetness blend naturally with plain home cooking, and with less astringency than green tea it never disturbs the side dishes. Avoid spicy seasoned food, which buries the grain note.",
       "brewTip": "1½ minutes at 85 °C; the piled leaf peaks in the second infusion.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Beigang Maojian Hunan Yueyang yellow tea men huang"
@@ -9358,7 +9358,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 闷黄 → 干燥。",
       "story": "据传明清已有制作，属湖南小宗黄茶。",
       "flavor": "柔和的谷物香与甘甜，比绿茶少涩。",
-      "pairing": "粥、蔬菜、家常饭。",
+      "pairing": "清粥、蔬菜小菜和日常米饭桌食物都很适合。它柔和的谷物香与甘甜自然融入朴素家常菜，涩感比绿茶少，不会干扰小菜。避免辛辣调味食物，会掩埋谷物香。",
       "brewTip": "85度一分半，第二泡香最好。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "北港毛尖 湖南 岳阳 黄茶 闷黄"
@@ -9374,7 +9374,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 悶黃 → 乾燥。",
       "story": "據傳明清已有製作，屬湖南小宗黃茶。",
       "flavor": "柔和的穀物香與甘甜，比綠茶少澀。",
-      "pairing": "粥、蔬菜、家常飯。",
+      "pairing": "清粥、蔬菜小菜和日常飯桌食物都很合適。柔和的穀物香與甜味自然融入清淡的家常菜,澀感比綠茶低,不會干擾小菜。避免辛辣調味的食物,以免埋沒穀物香。",
       "brewTip": "85度一分半，第二泡香最好。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "北港毛尖 湖南 嶽陽 黃茶 悶黃"
@@ -9441,7 +9441,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 민황 → 훈연 건조.",
       "story": "위산의 사찰 차밭에서 시작되었다는 이야기가 전합니다.",
       "flavor": "곡물 단맛에 옅은 솔 연기, 떫음이 적습니다.",
-      "pairing": "훈제 요리, 구운 생선, 밥.",
+      "pairing": "훈제 오리나 훈제 생선, 구운 생선, 밥과 어울립니다. 곡물의 단맛에 옅은 솔 연기가 겹쳐 훈제 요리의 향과 자연스럽게 이어지고, 떫음이 적어 밥과 함께 마시기 편합니다. 섬세한 생선찜에는 연기 향이 조금 앞서니 피하세요.",
       "brewTip": "85도에서 1분 30초. 연기 향은 2포에서 부드러워집니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장. 연기 향이 다른 차로 옮지 않게 따로 둡니다.",
       "keywords": "위산모첨 후난 영향 황차 훈연"
@@ -9457,7 +9457,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, piled to yellow, smoke-dried.",
       "story": "Said to have started in the temple tea plots on Weishan.",
       "flavor": "Grain sweetness with light pine smoke, low astringency.",
-      "pairing": "Smoked food, grilled fish, rice.",
+      "pairing": "Smoked duck or fish, grilled fish and rice suit it. Grain sweetness layered with light pine smoke flows naturally into smoked dishes' aroma, and low astringency makes it easy to drink with rice. Beside delicate steamed fish, the smoke steps slightly ahead.",
       "brewTip": "1½ minutes at 85 °C; the smoke softens by the second infusion.",
       "keep": "Within a month of opening, sealed and cold, away from other teas.",
       "keywords": "Weishan Maojian Hunan yellow tea smoke dried"
@@ -9473,7 +9473,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 闷黄 → 烟熏干燥。",
       "story": "相传始于沩山寺院茶山。",
       "flavor": "谷物甜配淡松烟，涩味轻。",
-      "pairing": "熏制食物、烤鱼、米饭。",
+      "pairing": "烟熏鸭或鱼、烤鱼和米饭都很适合。谷物甘甜叠加轻微松烟，自然流入烟熏菜肴的香气，低涩感让它配米饭易饮。在精致蒸鱼旁，烟香会略微抢先。",
       "brewTip": "85度一分半，第二泡烟香转柔。",
       "keep": "开封后一个月内，密封冷藏，避免串味。",
       "keywords": "沩山毛尖 湖南 黄茶 烟熏"
@@ -9489,7 +9489,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 悶黃 → 煙燻乾燥。",
       "story": "相傳始於溈山寺院茶山。",
       "flavor": "穀物甜配淡松煙，澀味輕。",
-      "pairing": "燻制食物、烤魚、米飯。",
+      "pairing": "煙燻鴨或煙燻魚、烤魚和白飯都很合適。穀物甜味疊上淡淡的松煙,自然融入煙燻菜的香氣,低澀感配飯很容易入口。在精緻的清蒸魚旁,煙燻味會略微搶先。",
       "brewTip": "85度一分半，第二泡煙香轉柔。",
       "keep": "開封後一個月內，密封冷藏，避免串味。",
       "keywords": "溈山毛尖 湖南 黃茶 煙燻"
@@ -9556,7 +9556,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 짧은 민황 → 건조.",
       "story": "청대에 공차로 올라갔다고 전합니다.",
       "flavor": "부드러운 곡물 향과 옅은 꽃 향, 가벼운 단맛.",
-      "pairing": "죽, 담백한 생선, 나물.",
+      "pairing": "맑은 죽, 담백한 생선찜, 나물과 어울립니다. 부드러운 곡물 향과 옅은 꽃 향이 자극 없는 음식 옆에서 가볍게 퍼지고, 가벼운 단맛이 뒷맛을 맑게 정리해 줍니다. 진한 양념 요리는 은은한 꽃 향을 덮습니다.",
       "brewTip": "85도에서 1분 20초. 녹차에 가까워 짧게 우립니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "평양황탕 온주황탕 저장 황차 공차"
@@ -9572,7 +9572,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, a short warm pile to yellow, dried.",
       "story": "Recorded as tribute tea in the Qing dynasty.",
       "flavor": "Soft grain, faint flowers, light sweetness.",
-      "pairing": "Congee, light fish, vegetables.",
+      "pairing": "Clear congee, lightly steamed fish and vegetables suit it. Its soft grain aroma and faint florals spread lightly beside unstimulating food, and the light sweetness leaves a clean finish. Richly seasoned dishes cover its quiet florals.",
       "brewTip": "1 minute 20 at 85 °C — close to green tea, so keep it short.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Pingyang Huangtang Wenzhou Zhejiang yellow tea tribute"
@@ -9588,7 +9588,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 短闷黄 → 干燥。",
       "story": "清代曾列为贡茶。",
       "flavor": "柔和谷物香与淡花香，轻甜。",
-      "pairing": "粥、清蒸鱼、蔬菜。",
+      "pairing": "清粥、清淡蒸鱼和蔬菜都很适合。它柔和的谷物香与淡淡花香在无刺激食物旁轻轻舒展，轻盈甘甜留下干净的收尾。调味浓郁的菜肴会盖住它安静的花香。",
       "brewTip": "85度一分二十秒，接近绿茶，宜短泡。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "平阳黄汤 温州 浙江 黄茶 贡茶"
@@ -9604,7 +9604,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 短悶黃 → 乾燥。",
       "story": "清代曾列為貢茶。",
       "flavor": "柔和穀物香與淡花香，輕甜。",
-      "pairing": "粥、清蒸魚、蔬菜。",
+      "pairing": "清粥、清蒸魚和蔬菜都很合適。柔和的穀物香與淡淡花香,在不刺激的食物旁輕盈散開,輕盈的甜味留下乾淨的尾韻。調味濃郁的菜會蓋住它安靜的花香。",
       "brewTip": "85度一分二十秒，接近綠茶，宜短泡。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "平陽黃湯 溫州 浙江 黃茶 貢茶"
@@ -9671,7 +9671,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 긴 민황 → 건조.",
       "story": "잎이 굵은 여름잎까지 쓰기 때문에 값이 낮고, 농가에서 주전자로 끓여 마시는 차로 자리했습니다.",
       "flavor": "구수한 볶음 향과 진한 단맛, 우유를 넣어도 향이 남습니다.",
-      "pairing": "매운 요리, 국, 아침 식사.",
+      "pairing": "매운 요리, 뜨거운 국, 토스트 같은 아침 식사와 잘 어울립니다. 구수한 볶음 향과 진한 단맛이 매운맛을 부드럽게 받아 주고, 우유를 넣어도 향이 남아 밀크티처럼 마셔도 좋습니다. 섬세한 생선 요리와는 볶음 향이 앞섭니다.",
       "brewTip": "95~100도에서 길게. 주전자에 넣고 끓여도 좋습니다.",
       "keep": "개봉 후 두 달 안, 서늘하고 건조하게.",
       "keywords": "환서황대차 안후이 황차 대차 끓인차"
@@ -9687,7 +9687,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, given a long warm pile to yellow, dried.",
       "story": "It takes coarser summer leaf, so it has long been a cheap pot-boiled farmhouse tea.",
       "flavor": "Toasty roast, strong sweetness, and it holds up with milk.",
-      "pairing": "Spicy food, soup, breakfast.",
+      "pairing": "Spicy food, hot soup and breakfast fare such as toast suit it well. Its toasty roast and strong sweetness take the edge off spice, and the aroma survives milk, so it works as a milk tea too. Beside delicate fish, the roasted note takes the lead.",
       "brewTip": "95–100 °C and give it time; it also boils well in a pot.",
       "keep": "Within two months of opening, cool and dry.",
       "keywords": "Wanxi Huangda Anhui yellow tea boiled coarse leaf"
@@ -9703,7 +9703,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 长时闷黄 → 干燥。",
       "story": "用夏秋粗叶，价廉，农家常以壶煮饮。",
       "flavor": "炒香厚实、甘甜明显，加奶也不失香。",
-      "pairing": "辛香菜肴、汤、早餐。",
+      "pairing": "辛辣食物、热汤和吐司等早餐食物都很适合。它烘焙的烤香与强烈的甘甜能缓和辣味，香气在牛奶中也能存活，因此也适合做奶茶。在精致鱼类旁，焙烤气息会占上风。",
       "brewTip": "95~100度久泡，或直接煮。",
       "keep": "开封后两个月内，阴凉干燥。",
       "keywords": "皖西黄大茶 安徽 黄茶 大茶 煮茶"
@@ -9719,7 +9719,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 長時悶黃 → 乾燥。",
       "story": "用夏秋粗葉，價廉，農家常以壺煮飲。",
       "flavor": "炒香厚實、甘甜明顯，加奶也不失香。",
-      "pairing": "辛香菜餚、湯、早餐。",
+      "pairing": "辛辣食物、熱湯和吐司等早餐都很合適。烘烤香與強勁的甜味能緩和辣味,香氣在牛奶中也不消失,因此也適合做成奶茶。在精緻的魚旁,烘烤香會佔上風。",
       "brewTip": "95~100度久泡，或直接煮。",
       "keep": "開封後兩個月內，陰涼乾燥。",
       "keywords": "皖西黃大茶 安徽 黃茶 大茶 煮茶"
@@ -9787,7 +9787,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 민황 → 유념 → 건조.",
       "story": "남송 때 세워진 녹원사 차밭에서 시작되었고, 청 건륭 연간에 공차로 선정되었습니다.",
       "flavor": "부드러운 곡물 향과 꽃 향, 깨끗한 단맛.",
-      "pairing": "죽, 나물, 담백한 국.",
+      "pairing": "맑은 죽, 나물 반찬, 담백한 콩나물국과 어울립니다. 부드러운 곡물 향과 꽃 향이 슴슴한 음식과 겹치고, 깨끗한 단맛이 국물 요리의 뒷맛을 맑게 정리해 줍니다. 기름진 볶음 요리와는 맑은 향이 눌리니 피하세요.",
       "brewTip": "85도에서 1분 30초. 잎이 가늘어 2포면 충분합니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "원안녹원차 후베이 황차 사찰차"
@@ -9803,7 +9803,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, piled to yellow, rolled into fine strands, dried.",
       "story": "It began in the plots of Luyuan temple, founded in the Southern Song, and was chosen as tribute tea in the Qianlong era.",
       "flavor": "Soft grain and flowers, a clean sweetness.",
-      "pairing": "Congee, vegetables, light soup.",
+      "pairing": "Clear congee, vegetable side dishes and a light bean-sprout soup suit it. Soft grain and florals layer over plain food, and its clean sweetness leaves a clear finish after soup. Avoid greasy stir-fries, which press down its clean aroma.",
       "brewTip": "1½ minutes at 85 °C; two infusions are enough for this thin leaf.",
       "keep": "Within a month of opening, sealed and cold.",
       "keywords": "Yu'an Luyuan Hubei yellow tea temple tea"
@@ -9819,7 +9819,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 闷黄 → 揉捻 → 干燥。",
       "story": "始于南宋创立的鹿苑寺茶山，乾隆年间被选为贡茶。",
       "flavor": "谷物香与花香，回甘干净。",
-      "pairing": "粥、蔬菜、清汤。",
+      "pairing": "清粥、蔬菜小菜和清淡豆芽汤都很适合。柔和的谷物与花香叠在朴素食物之上，干净的甘甜在汤后留下清爽收尾。避免油腻炒菜，会压住它干净的香气。",
       "brewTip": "85度一分半，两泡足够。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "远安鹿苑茶 湖北 黄茶 寺茶"
@@ -9835,7 +9835,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 悶黃 → 揉捻 → 乾燥。",
       "story": "始於南宋創立的鹿苑寺茶山，乾隆年間被選為貢茶。",
       "flavor": "穀物香與花香，回甘乾淨。",
-      "pairing": "粥、蔬菜、清湯。",
+      "pairing": "清粥、蔬菜小菜和清淡的豆芽湯都很合適。柔和的穀物與花香疊在清淡食物之上,乾淨的甜味在湯品之後留下清爽的尾韻。避免油膩的炒菜,以免壓住它乾淨的香氣。",
       "brewTip": "85度一分半，兩泡足夠。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "遠安鹿苑茶 湖北 黃茶 寺茶"
@@ -9902,7 +9902,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 숯불 배화.",
       "story": "청대에 이미 무이산에서 재배되었다는 기록이 있으며, 1980년대 이후 단일 품종 차로 널리 팔리기 시작했습니다.",
       "flavor": "계피·정향 같은 향신료 향, 구운 곡물 향, 진한 단맛과 긴 여운.",
-      "pairing": "구운 고기, 훈제 오리, 진한 중식.",
+      "pairing": "구운 고기와 훈제 오리, 마파두부 같은 진한 중식과 잘 어울립니다. 계피·정향의 따뜻한 향신료 향이 고기의 풍미와 겹치고, 진한 단맛과 긴 여운이 기름진 맛을 받아 냅니다. 맑고 가벼운 해산물 요리와는 차의 힘이 너무 강해 균형이 깨집니다.",
       "brewTip": "98도 이상. 첫 물은 세차로 버리고, 2포부터 마십니다.",
       "keep": "밀봉해 서늘한 곳에. 배화한 차는 1~2년 두면 향이 둥글어집니다.",
       "keywords": "무이육계 육계 무이암차 우롱 배화 계피향"
@@ -9918,7 +9918,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, charcoal-baked.",
       "story": "Rougui was recorded on Wuyi in the Qing; single-cultivar Rougui spread widely from the 1980s.",
       "flavor": "Cinnamon and clove spice, roast grain, deep sweetness, a long finish.",
-      "pairing": "Grilled meat, smoked duck, rich Chinese dishes.",
+      "pairing": "It pairs well with grilled meat, smoked duck and rich Chinese dishes such as mapo tofu. The warm cinnamon and clove spice overlaps with the meat's flavor, and the deep sweetness and long finish carry greasy richness. With light, clear seafood dishes the tea is simply too powerful and the balance breaks.",
       "brewTip": "98 °C or above. Rinse the first pour away and start from the second.",
       "keep": "Sealed and cool; baked oolong rounds out over a year or two.",
       "keywords": "Wuyi Rougui rock oolong cinnamon charcoal baked"
@@ -9934,7 +9934,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 炭焙。",
       "story": "清代武夷已有栽培记载，1980年代后单品种肉桂广泛流行。",
       "flavor": "桂皮、丁香的辛香，焙火谷香，甜厚回甘长。",
-      "pairing": "烤肉、熏鸭、味浓中餐。",
+      "pairing": "与烤肉、烟熏鸭和麻婆豆腐等丰盛中餐都很搭配。温暖的肉桂与丁香香料与肉的滋味重叠，深厚的甘甜与悠长尾韵承载油腻丰润。与清淡清澈的海鲜菜肴搭配时，茶实在太强势，平衡会打破。",
       "brewTip": "98度以上，头汤洗茶，从第二泡喝起。",
       "keep": "密封阴凉，焙火茶放一两年香气更圆。",
       "keywords": "武夷肉桂 岩茶 乌龙 炭焙 桂皮香"
@@ -9950,7 +9950,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 炭焙。",
       "story": "清代武夷已有栽培記載，1980年代後單品種肉桂廣泛流行。",
       "flavor": "桂皮、丁香的辛香，焙火谷香，甜厚回甘長。",
-      "pairing": "烤肉、燻鴨、味濃中餐。",
+      "pairing": "很適合搭配烤肉、煙燻鴨和麻婆豆腐等豐盛的中菜。溫暖的肉桂與丁香香料與肉的風味重疊,深沉的甜味與悠長尾韻能承接油膩的豐潤。搭配清淡清澈的海鮮料理時,茶就是太強了,平衡會被打破。",
       "brewTip": "98度以上，頭湯洗茶，從第二泡喝起。",
       "keep": "密封陰涼，焙火茶放一兩年香氣更圓。",
       "keywords": "武夷肉桂 巖茶 烏龍 炭焙 桂皮香"
@@ -10018,7 +10018,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "무이산에서 오래 재배된 품종으로, 나이 든 나무의 잎을 ‘노총수선’으로 따로 칩니다.",
       "flavor": "난초 향에 목질·이끼 향이 겹치고, 배화한 차는 단맛이 깁니다.",
-      "pairing": "구운 생선, 버섯 요리, 진한 차 자리.",
+      "pairing": "노릇하게 구운 생선과 버섯 볶음, 볶음밥처럼 진한 차 자리 음식과 잘 어울립니다. 난초 향 아래 깔린 목질·이끼 향이 버섯의 흙 향과 어울리고, 배화한 차의 긴 단맛이 구운 생선의 고소함을 받쳐 줍니다. 단맛이 강한 디저트와는 향의 결이 다릅니다.",
       "brewTip": "98도. 노총은 2포부터 이끼 향이 열립니다.",
       "keep": "밀봉해 서늘하게. 배화 향은 시간이 지나며 부드러워집니다.",
       "keywords": "무이수선 노총수선 우롱 암차 목질향"
@@ -10034,7 +10034,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "Long grown on Wuyi; leaf from old bushes is sold separately as lao cong shuixian.",
       "flavor": "Orchid over wood and moss; the baked version keeps a long sweetness.",
-      "pairing": "Grilled fish, mushroom dishes, a long tea session.",
+      "pairing": "It pairs well with well-browned grilled fish, stir-fried mushrooms and hearty tea-table food such as fried rice. The wood and moss notes under the orchid meet the mushrooms' earthiness, and the baked version's long sweetness supports the fish's savoriness. Very sweet desserts run against its grain.",
       "brewTip": "98 °C. The mossy side of an old bush opens from the second infusion.",
       "keep": "Sealed and cool; the bake softens with time.",
       "keywords": "Wuyi Shuixian lao cong old bush rock oolong"
@@ -10050,7 +10050,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "武夷传统品种，老树所制单称“老丛水仙”。",
       "flavor": "兰花香叠木质与苔藓气，焙火后回甘长。",
-      "pairing": "烤鱼、菌菇菜、长茶席。",
+      "pairing": "与煎烤得恰到好处的烤鱼、炒蘑菇和炒饭等扎实的茶桌食物都很搭配。兰花之下木质与苔藓气息与蘑菇的土香相遇，烘焙版悠长的甘甜支撑鱼的咸鲜。非常甜的甜点与它的气质相违。",
       "brewTip": "98度，老丛从第二泡起出苔藓气。",
       "keep": "密封阴凉，焙火香随年份转柔。",
       "keywords": "武夷水仙 老丛 岩茶 乌龙"
@@ -10066,7 +10066,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "武夷傳統品種，老樹所制單稱「老叢水仙」。",
       "flavor": "蘭花香疊木質與苔蘚氣，焙火後回甘長。",
-      "pairing": "烤魚、菌菇菜、長茶席。",
+      "pairing": "很適合搭配烤得金黃的烤魚、炒蘑菇和炒飯等扎實的茶桌食物。蘭花之下的木質與苔蘚香與蘑菇的土香相遇,烘焙版悠長的甜味支撐魚的鮮鹹。非常甜的甜點與它的氣質相逆。",
       "brewTip": "98度，老叢從第二泡起出苔蘚氣。",
       "keep": "密封陰涼，焙火香隨年份轉柔。",
       "keywords": "武夷水仙 老叢 巖茶 烏龍"
@@ -10134,7 +10134,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조.",
       "story": "고도가 높아 생산량이 적고, 해마다 기상에 따라 품질 차이가 크게 나는 산지입니다.",
       "flavor": "맑은 꽃 향과 청량한 단맛, 떫음이 거의 없습니다. 물색은 연한 금빛입니다.",
-      "pairing": "가벼운 디저트, 과일, 단독 음용.",
+      "pairing": "가벼운 디저트와 배·사과 같은 과일, 그리고 단독 음용이 잘 어울립니다. 맑은 꽃향과 청량한 단맛은 음식보다 차 자체를 즐기기에 알맞고, 떫음이 거의 없어 입안이 편안합니다. 진한 양념 음식은 이 맑은 향을 단번에 덮어 버리니 피하세요.",
       "brewTip": "90~95도. 잎을 많이 넣고 짧게 여러 번 우리는 방식이 향을 지킵니다.",
       "keep": "밀봉 냉동 보관이 향을 오래 지킵니다. 개봉 후 한 달 안에.",
       "keywords": "대우령 고산차 대만 우롱 해발 2300"
@@ -10150,7 +10150,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled into balls, dried.",
       "story": "Altitude keeps yields small and makes quality swing with each season's weather.",
       "flavor": "Clear flowers, cool sweetness, almost no astringency; pale gold liquor.",
-      "pairing": "Light desserts, fruit, or on its own.",
+      "pairing": "It suits light desserts, fruit such as pear and apple, and drinking on its own. The clear florals and cool sweetness are made for enjoying the tea itself, and with almost no astringency it feels easy on the palate. Avoid heavily seasoned food, which wipes out that clear aroma at once.",
       "brewTip": "90–95 °C, plenty of leaf, short repeated infusions.",
       "keep": "Sealed in the freezer holds the aroma; use within a month of opening.",
       "keywords": "Dayuling high mountain oolong Taiwan 2300 m"
@@ -10166,7 +10166,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。",
       "story": "高海拔产量少，品质随当年气候起伏大。",
       "flavor": "清扬花香与凉甜，几乎不涩，汤色浅金。",
-      "pairing": "清淡甜点、水果，或单独品饮。",
+      "pairing": "适合清淡甜点、梨和苹果等水果，以及单独饮用。清澈的花香与清凉的甘甜就是为品茶本身而生，几乎没有涩感，口感轻松。避免调味浓重的食物，会一下子抹去那份清澈香气。",
       "brewTip": "90~95度，多投茶、短泡多道。",
       "keep": "密封冷冻保香，开封后一个月内用完。",
       "keywords": "大禹岭 高山乌龙 台湾 海拔2300"
@@ -10182,7 +10182,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。",
       "story": "高海拔產量少，品質隨當年氣候起伏大。",
       "flavor": "清揚花香與涼甜，幾乎不澀，湯色淺金。",
-      "pairing": "清淡甜點、水果，或單獨品飲。",
+      "pairing": "適合清淡甜點、梨子和蘋果等水果,也適合獨自飲用。清澈的花香與清涼的甜味就是為享受茶本身而生,幾乎沒有澀感,對味蕾很友善。避免調味濃重的食物,以免一次抹去那份清澈的香氣。",
       "brewTip": "90~95度，多投茶、短泡多道。",
       "keep": "密封冷凍保香，開封後一個月內用完。",
       "keywords": "大禹嶺 高山烏龍 臺灣 海拔2300"
@@ -10250,7 +10250,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조.",
       "story": "삼림계는 아리산 옆 고산 지대로, 숲과 안개가 많은 환경으로 알려져 있습니다.",
       "flavor": "맑은 꽃 향과 옅은 풀 향, 깨끗한 단맛.",
-      "pairing": "과일, 가벼운 디저트.",
+      "pairing": "신선한 과일과 가벼운 디저트, 담백한 찹쌀떡과 잘 어울립니다. 맑은 꽃향과 깨끗한 단맛이 과일의 산뜻함을 살려 주고, 옅은 풀 향이 담백한 간식과도 무난하게 어울립니다. 기름진 튀김류와는 맑은 인상이 흐려지기 쉽습니다.",
       "brewTip": "90~95도에서 짧게 여러 번.",
       "keep": "밀봉 냉장 또는 냉동.",
       "keywords": "삼림계 산림계 대만 고산우롱 주산"
@@ -10266,7 +10266,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, ball-rolled, dried.",
       "story": "Shanlinxi sits beside Alishan; its forest and fog are the region's signature.",
       "flavor": "Clear flowers, a little grass, clean sweetness.",
-      "pairing": "Fruit, light desserts.",
+      "pairing": "It pairs well with fresh fruit, light desserts and plain glutinous-rice cakes. The clear florals and clean sweetness lift the fruit's freshness, and the faint grass note sits comfortably with plain snacks. Greasy fried food tends to blur its clean impression.",
       "brewTip": "Short infusions at 90–95 °C.",
       "keep": "Sealed, refrigerated or frozen.",
       "keywords": "Shanlinxi oolong Taiwan Zhushan high mountain"
@@ -10282,7 +10282,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。",
       "story": "杉林溪紧邻阿里山，以林荫与雾气著称。",
       "flavor": "清扬花香带一点草气，甘净。",
-      "pairing": "水果、清淡甜点。",
+      "pairing": "与新鲜水果、清淡甜点和原味糯米糕都很搭配。清澈的花香与干净的甘甜提升水果的新鲜感，淡淡青草气息与朴素小吃相处舒适。油腻油炸食物容易模糊它干净的印象。",
       "brewTip": "90~95度短泡多道。",
       "keep": "密封冷藏或冷冻。",
       "keywords": "杉林溪 高山乌龙 台湾 竹山"
@@ -10298,7 +10298,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。",
       "story": "杉林溪緊鄰阿里山，以林蔭與霧氣著稱。",
       "flavor": "清揚花香帶一點草氣，甘淨。",
-      "pairing": "水果、清淡甜點。",
+      "pairing": "很適合搭配新鮮水果、清淡甜點和原味糯米糕。清澈的花香與乾淨的甜味提升水果的新鮮感,淡淡的青草香與清淡小吃相處融洽。油膩的炸物容易模糊它乾淨的印象。",
       "brewTip": "90~95度短泡多道。",
       "keep": "密封冷藏或冷凍。",
       "keywords": "杉林溪 高山烏龍 臺灣 竹山"
@@ -10366,7 +10366,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조.",
       "story": "이산은 배·사과 과수원으로도 이름난 고산 지대이며, 차밭이 그 사이에 있습니다.",
       "flavor": "잘 익은 과일 향과 꽃 향, 부드러운 단맛.",
-      "pairing": "배, 사과, 견과, 가벼운 디저트.",
+      "pairing": "배와 사과, 구운 견과, 가벼운 디저트와 잘 어울립니다. 잘 익은 과일 향이 실제 과일의 단맛과 겹쳐 풍성해지고, 부드러운 단맛이 견과의 고소함과도 조화를 이룹니다. 신맛이 강한 감귤류는 부드러운 단맛의 균형을 깨기 쉽습니다.",
       "brewTip": "90~95도에서 짧게. 3포부터 과일 향이 올라옵니다.",
       "keep": "밀봉 냉장. 개봉 후 한 달 안.",
       "keywords": "이산 고산차 대만 우롱 허핑 과수원"
@@ -10382,7 +10382,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, ball-rolled, dried.",
       "story": "Lishan is orchard country — pears and apples — with tea plots in between.",
       "flavor": "Ripe fruit and flowers, soft sweetness.",
-      "pairing": "Pear, apple, nuts, light desserts.",
+      "pairing": "It pairs well with pear, apple, roasted nuts and light desserts. Its ripe-fruit aroma overlaps with real fruit to feel fuller, and the soft sweetness harmonizes with the nuts' richness. Strongly sour citrus can break that soft sweet balance.",
       "brewTip": "Short infusions at 90–95 °C; fruit arrives in the third.",
       "keep": "Sealed and refrigerated; use within a month of opening.",
       "keywords": "Lishan oolong Taiwan Taichung Heping fruit"
@@ -10398,7 +10398,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。",
       "story": "梨山以梨、苹果果园闻名，茶园散布其间。",
       "flavor": "熟果香与花香，甜柔。",
-      "pairing": "梨、苹果、坚果、清淡甜点。",
+      "pairing": "与梨、苹果、烤坚果和清淡甜点都很搭配。它熟果的香气与真实水果重叠而更显丰满，柔和的甘甜与坚果的丰润和谐。酸味强的柑橘可能打破这份柔和的甜味平衡。",
       "brewTip": "90~95度短泡，第三泡起出果香。",
       "keep": "密封冷藏，开封后一个月内用完。",
       "keywords": "梨山 高山乌龙 台湾 和平 果园"
@@ -10414,7 +10414,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。",
       "story": "梨山以梨、蘋果果園聞名，茶園散布其間。",
       "flavor": "熟果香與花香，甜柔。",
-      "pairing": "梨、蘋果、堅果、清淡甜點。",
+      "pairing": "很適合搭配梨子、蘋果、烘烤堅果和清淡甜點。它熟果的香氣與真正的水果重疊,感覺更豐滿,柔和的甜味與堅果的豐潤和諧。酸味強的柑橘可能打破這份柔和的甜味平衡。",
       "brewTip": "90~95度短泡，第三泡起出果香。",
       "keep": "密封冷藏，開封後一個月內用完。",
       "keywords": "梨山 高山烏龍 臺灣 和平 果園"
@@ -10481,7 +10481,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조.",
       "story": "황단 품종의 누런 잎에서 ‘황단’이라는 이름이 왔고, ‘황금계’는 황금빛 찻물과 계화 같은 향에서 붙은 이름이라고 전합니다.",
       "flavor": "밀크티 같은 크림 향과 꽃 향, 가벼운 단맛. 철관음보다 산화가 가볍습니다.",
-      "pairing": "가벼운 디저트, 과일, 단독 음용.",
+      "pairing": "가벼운 디저트와 제철 과일, 단독 음용과 잘 어울립니다. 밀크티 같은 크림 향과 꽃향이 담백한 과자의 버터 향과 어울리고, 가벼운 단맛이 입안을 산뜻하게 마무리합니다. 철관음보다 힘이 약하니 진한 양념 요리에는 향이 밀립니다.",
       "brewTip": "95도에서 짧게. 향이 세므로 2포부터 마시면 좋습니다.",
       "keep": "밀봉 냉장. 향이 날아가기 쉬워 개봉 후 빨리 마십니다.",
       "keywords": "황금계 황단 안시 우롱 투천향"
@@ -10497,7 +10497,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried.",
       "story": "The bush's yellowish leaf gives the name Huangdan; 'golden cassia' is said to name the golden liquor and osmanthus-like scent.",
       "flavor": "Creamy, milk-tea-like aroma with flowers and light sweetness; lighter than Tieguanyin.",
-      "pairing": "Light desserts, fruit, or alone.",
+      "pairing": "It suits light desserts, seasonal fruit and drinking alone. The milk-tea-like cream aroma and florals meet the butteriness of plain baked goods, and the light sweetness leaves a fresh finish. It is gentler than Tieguanyin, so heavily seasoned dishes will push its aroma aside.",
       "brewTip": "Short at 95 °C; start from the second infusion to let the aroma settle.",
       "keep": "Sealed and cold; the aroma fades fast once opened.",
       "keywords": "Huang Jin Gui Huangdan Anxi oolong fragrant"
@@ -10513,7 +10513,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥。",
       "story": "黄旦之名源于叶色偏黄；“黄金桂”则指汤色金黄、香气如桂。",
       "flavor": "奶香与花香，轻甜，比铁观音氧化更轻。",
-      "pairing": "清淡甜点、水果，或单独品饮。",
+      "pairing": "适合清淡甜点、时令水果和单独饮用。如奶茶般的奶油香与花香遇上原味烘焙点心的黄油感，轻盈的甘甜留下清新收尾。它比铁观音更温和，调味浓重的菜肴会把它的香气推到一边。",
       "brewTip": "95度短泡，从第二泡喝起。",
       "keep": "密封冷藏，开封后尽快喝完。",
       "keywords": "黄金桂 黄旦 安溪 乌龙 透天香"
@@ -10529,7 +10529,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥。",
       "story": "黃旦之名源於葉色偏黃；「黃金桂」則指湯色金黃、香氣如桂。",
       "flavor": "奶香與花香，輕甜，比鐵觀音氧化更輕。",
-      "pairing": "清淡甜點、水果，或單獨品飲。",
+      "pairing": "適合清淡甜點、時令水果,也適合獨自飲用。像奶茶般的奶油香與花香,遇上原味烘焙點心的奶油感,輕盈的甜味留下清新的尾韻。它比鐵觀音更溫和,調味濃重的菜會把它的香氣推到一邊。",
       "brewTip": "95度短泡，從第二泡喝起。",
       "keep": "密封冷藏，開封後儘快喝完。",
       "keywords": "黃金桂 黃旦 安溪 烏龍 透天香"
@@ -10596,7 +10596,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 가벼운 유념 → 건조.",
       "story": "안시의 옛 재배 품종으로, 철관음보다 향이 얇고 값이 낮아 일상차로 많이 마십니다.",
       "flavor": "옅은 난초 향과 풀 향, 가벼운 단맛. 철관음보다 힘이 적습니다.",
-      "pairing": "밥 반찬, 가벼운 중식.",
+      "pairing": "밥과 함께 먹는 반찬, 가벼운 중식 볶음 요리와 잘 어울립니다. 옅은 난초 향과 풀 향이 식사의 맛을 방해하지 않고, 가벼운 단맛이 반찬의 간을 부드럽게 받아 줍니다. 철관음보다 힘이 적어 훈제·양념이 진한 요리와는 존재감이 약합니다.",
       "brewTip": "95도에서 짧게. 잎이 얇아 5포를 넘기면 힘이 빠집니다.",
       "keep": "밀봉 냉장.",
       "keywords": "본산 안시 우롱 철관음 동생"
@@ -10612,7 +10612,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, lightly rolled, dried.",
       "story": "An old Anxi cultivar, thinner in aroma than Tieguanyin and priced for everyday drinking.",
       "flavor": "Faint orchid and grass, light sweetness; less body than Tieguanyin.",
-      "pairing": "Rice dishes and light Chinese food.",
+      "pairing": "It pairs well with rice-and-side-dish meals and light Chinese stir-fries. The faint orchid and grass notes never interrupt the food, and the light sweetness softly takes on the sides' seasoning. It has less body than Tieguanyin, so it fades next to smoked or heavily seasoned dishes.",
       "brewTip": "Short at 95 °C; it thins out past the fifth infusion.",
       "keep": "Sealed and cold.",
       "keywords": "Benshan oolong Anxi lighter Tieguanyin"
@@ -10628,7 +10628,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 轻揉 → 干燥。",
       "story": "安溪传统品种，香薄价低，多做日常口粮茶。",
       "flavor": "淡兰香与草气，轻甜，力道弱于铁观音。",
-      "pairing": "家常饭菜、清淡中餐。",
+      "pairing": "与米饭配小菜的餐食和清淡中式小炒都很搭配。淡淡的兰花与青草气息不会打扰食物，轻盈的甘甜柔和地承接小菜的调味。它的体感比铁观音轻，在烟熏或调味浓重的菜肴旁会显得淡薄。",
       "brewTip": "95度短泡，五泡后转淡。",
       "keep": "密封冷藏。",
       "keywords": "本山 安溪 乌龙 铁观音"
@@ -10644,7 +10644,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 輕揉 → 乾燥。",
       "story": "安溪傳統品種，香薄價低，多做日常口糧茶。",
       "flavor": "淡蘭香與草氣，輕甜，力道弱於鐵觀音。",
-      "pairing": "家常飯菜、清淡中餐。",
+      "pairing": "很適合搭配白飯配小菜的餐食和清淡的中式炒菜。淡淡的蘭花與青草香不會打斷食物,輕盈的甜味柔和地承接小菜的調味。它的茶體比鐵觀音輕,在煙燻或調味濃重的菜旁會顯得淡薄。",
       "brewTip": "95度短泡，五泡後轉淡。",
       "keep": "密封冷藏。",
       "keywords": "本山 安溪 烏龍 鐵觀音"
@@ -10711,7 +10711,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조.",
       "story": "잎이 불수감(佛手柑)을 닮아 이름이 붙었고, 안계에서 융춘으로 전해져 민국 시기에 이미 이름이 알려졌습니다.",
       "flavor": "배·감 같은 달콤한 과일 향, 부드러운 몸통, 떫음이 적습니다.",
-      "pairing": "배, 구운 과자, 견과.",
+      "pairing": "배와 버터 향 구운 과자, 구운 견과와 잘 어울립니다. 배·감 같은 달콤한 과일 향이 과일의 단맛과 겹치고, 부드러운 몸통과 적은 떫음이 고소한 간식을 편안하게 받쳐 줍니다. 매운 양념 과자는 달콤한 과일 향을 가려 버립니다.",
       "brewTip": "95도. 잎이 두꺼워 2포부터 향이 열리고 7포까지 갑니다.",
       "keep": "밀봉 냉장, 개봉 후 한 달 안.",
       "keywords": "영춘불수 불수 우롱 푸젠 배향"
@@ -10727,7 +10727,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried.",
       "story": "Named for a leaf shaped like a Buddha's-hand citron; carried from Anxi to Yongchun and already noted in the Republican era.",
       "flavor": "Sweet pear and persimmon fruit, soft body, little astringency.",
-      "pairing": "Pear, baked sweets, nuts.",
+      "pairing": "It pairs well with pear, buttery baked sweets and roasted nuts. The sweet pear-and-persimmon fruit notes overlap with the fruit's own sweetness, and the soft body and low astringency comfortably carry savory snacks. Spicy seasoned snacks will mask its sweet fruit aroma.",
       "brewTip": "95 °C; the thick leaf opens from the second infusion and lasts to the seventh.",
       "keep": "Sealed and cold; use within a month of opening.",
       "keywords": "Yongchun Foshou oolong Fujian pear aroma"
@@ -10743,7 +10743,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥。",
       "story": "叶形似佛手柑而得名，由安溪传入永春，民国时期已见名气。",
       "flavor": "梨、柿般的熟果甜，汤体柔，涩轻。",
-      "pairing": "梨、烤点心、坚果。",
+      "pairing": "与梨、黄油烘焙甜点和烤坚果都很搭配。梨与柿子般的甜美果香与水果自身的甘甜重叠，柔和的体感与低涩感舒适地承载咸香小吃。辛辣调味小吃会掩盖它甜美的水果香。",
       "brewTip": "95度，叶厚，第二泡起香，可到七泡。",
       "keep": "密封冷藏，开封后一个月内用完。",
       "keywords": "永春佛手 佛手 乌龙 福建 梨香"
@@ -10759,7 +10759,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥。",
       "story": "葉形似佛手柑而得名，由安溪傳入永春，民國時期已見名氣。",
       "flavor": "梨、柿般的熟果甜，湯體柔，澀輕。",
-      "pairing": "梨、烤點心、堅果。",
+      "pairing": "很適合搭配梨子、奶油烘焙甜點和烘烤堅果。梨子與柿子般的甜美果香與水果本身的甜味重疊,柔和的茶體與低澀感能從容承接鹹香小吃。辛辣調味的小吃會掩蓋它甜美的果香。",
       "brewTip": "95度，葉厚，第二泡起香，可到七泡。",
       "keep": "密封冷藏，開封後一個月內用完。",
       "keywords": "永春佛手 佛手 烏龍 福建 梨香"
@@ -10826,7 +10826,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조 → 숯불 배화.",
       "story": "1919년 장내묘·장내건 형제가 푸젠 안계에서 철관음 묘목을 들여와 무자에 심은 것이 시작으로, 총독부 공진회에서 1등을 받으며 이름이 알려졌습니다. 지금도 소규모 농가가 숯불 배화를 이어갑니다.",
       "flavor": "구운 과일과 캐러멜, 진한 단맛, 끝에 옅은 탄 향.",
-      "pairing": "구운 견과, 캐러멜 디저트, 진한 중식.",
+      "pairing": "구운 견과와 캐러멜 디저트, 진한 중식 요리와 잘 어울립니다. 구운 과일과 캐러멜의 향이 디저트의 단맛과 겹치고, 진한 단맛이 기름진 중식의 풍미에도 밀리지 않습니다. 끝에 남는 옅은 탄 향 때문에 섬세한 생과일과는 결이 맞지 않습니다.",
       "brewTip": "98도에서 세차 후 마십니다. 배화한 차는 2포부터 단맛이 살아납니다.",
       "keep": "밀봉해 서늘하게. 배화 향은 몇 해 두면 더 둥글어집니다.",
       "keywords": "목책 철관음 무자 타이베이 숯불배화"
@@ -10842,7 +10842,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, ball-rolled, dried, charcoal-baked.",
       "story": "In 1919 the Zhang brothers brought Tieguanyin cuttings from Anxi in Fujian and planted them in Muzha; the tea took first prize at a governor-general's exhibition and made its name. Small farms still bake over charcoal.",
       "flavor": "Roasted fruit, caramel, deep sweetness, a light char at the end.",
-      "pairing": "Roasted nuts, caramel desserts, rich Chinese food.",
+      "pairing": "It pairs well with roasted nuts, caramel desserts and rich Chinese food. The roasted-fruit and caramel notes overlap with the desserts' sweetness, and the deep sweetness holds its own against greasy dishes. The light char at the end runs against delicate fresh fruit.",
       "brewTip": "98 °C, rinse first; sweetness comes from the second infusion.",
       "keep": "Sealed and cool; the bake rounds out over a few years.",
       "keywords": "Muzha Tieguanyin Taipei charcoal baked oolong"
@@ -10858,7 +10858,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉球 → 干燥 → 炭焙。",
       "story": "1919年张乃妙、张乃干兄弟从福建安溪引入铁观音苗木种于木栅，在总督府共进会获一等奖而成名；如今仍有小农以炭火慢焙。",
       "flavor": "烤果与焦糖，甜厚，尾端微带焙火气。",
-      "pairing": "烤坚果、焦糖甜点、味浓中餐。",
+      "pairing": "与烤坚果、焦糖甜点和丰盛中餐都很搭配。烤果与焦糖香气与甜点的甜味重叠，深厚的甘甜在油腻菜肴旁不落下风。尾段轻微的焦香与精致新鲜水果相违。",
       "brewTip": "98度洗茶后饮用，第二泡起出甜。",
       "keep": "密封阴凉，焙火香随年份转圆。",
       "keywords": "木栅铁观音 台北 炭焙 乌龙"
@@ -10874,7 +10874,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥 → 炭焙。",
       "story": "1919年張乃妙、張乃干兄弟從福建安溪引入鐵觀音苗木種於木柵，在總督府共進會獲一等獎而成名；如今仍有小農以炭火慢焙。",
       "flavor": "烤果與焦糖，甜厚，尾端微帶焙火氣。",
-      "pairing": "烤堅果、焦糖甜點、味濃中餐。",
+      "pairing": "很適合搭配烘烤堅果、焦糖甜點和豐盛的中菜。烘烤水果與焦糖的香氣與甜點的甜味重疊,深沉的甜味在油膩的菜旁也站得住。尾韻輕微的焦香與精緻的新鮮水果相逆。",
       "brewTip": "98度洗茶後飲用，第二泡起出甜。",
       "keep": "密封陰涼，焙火香隨年份轉圓。",
       "keywords": "木柵鐵觀音 臺北 炭焙 烏龍"
@@ -10941,7 +10941,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "봉황산에서는 나무마다 향이 달라 나무에 이름을 붙여 따로 만드는 관행이 이어집니다.",
       "flavor": "꿀 같은 단맛과 난초 향, 진한 몸통, 여운이 깁니다.",
-      "pairing": "과일, 꿀 디저트, 진한 중식.",
+      "pairing": "신선한 과일과 꿀을 넣은 디저트, 진한 중식과 잘 어울립니다. 꿀 같은 단맛과 난초 향이 과일의 향과 어우러지고, 진한 몸통과 긴 여운이 기름진 요리의 맛을 끝까지 받쳐 줍니다. 신맛이 강한 절임류와는 단맛의 흐름이 끊기기 쉽습니다.",
       "brewTip": "98도. 잎을 많이 넣고 짧게 여러 번. 4포부터 꿀 향이 짙어집니다.",
       "keep": "밀봉해 서늘하게. 향이 날아가지 않게 소분합니다.",
       "keywords": "밀란향 봉황단총 차오저우 우롱 꿀향"
@@ -10957,7 +10957,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "On Phoenix Mountain each old bush has its own aroma and is picked and made separately.",
       "flavor": "Honeyed sweetness, orchid, full body, a long finish.",
-      "pairing": "Fruit, honey desserts, rich Chinese dishes.",
+      "pairing": "It pairs well with fresh fruit, honey desserts and rich Chinese dishes. The honeyed sweetness and orchid aroma mingle with the fruit, and the full body and long finish carry rich dishes to the end. Strongly sour pickles can interrupt that flow of sweetness.",
       "brewTip": "98 °C, lots of leaf, short repeated infusions; honey deepens from the fourth.",
       "keep": "Sealed and cool; split into small lots so the aroma stays.",
       "keywords": "Mi Lan Xiang dancong Phoenix oolong Chaozhou honey orchid"
@@ -10973,7 +10973,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙。",
       "story": "凤凰山一树一香，老丛单独采制并各取其名。",
       "flavor": "蜜甜与兰香，汤体厚，余韵长。",
-      "pairing": "水果、蜂蜜甜点、味浓中餐。",
+      "pairing": "与新鲜水果、蜂蜜甜点和丰盛中餐都很搭配。蜜般的甘甜与兰花香与水果交融，饱满的体感与悠长尾韵能承载丰盛菜肴到最后。酸味强的泡菜可能打断这股甜味的流动。",
       "brewTip": "98度多投茶短泡，第四泡起蜜香更浓。",
       "keep": "密封阴凉，小包分装保香。",
       "keywords": "蜜兰香 单丛 潮州 凤凰 乌龙"
@@ -10989,7 +10989,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙。",
       "story": "鳳凰山一樹一香，老叢單獨採制並各取其名。",
       "flavor": "蜜甜與蘭香，湯體厚，餘韻長。",
-      "pairing": "水果、蜂蜜甜點、味濃中餐。",
+      "pairing": "很適合搭配新鮮水果、蜂蜜甜點和豐盛的中菜。蜂蜜般的甜味與蘭花香與水果交融,飽滿的茶體與悠長尾韻能把豐盛的菜承接到最後。酸味強的泡菜可能打斷這股甜味的流動。",
       "brewTip": "98度多投茶短泡，第四泡起蜜香更濃。",
       "keep": "密封陰涼，小包分裝保香。",
       "keywords": "蜜蘭香 單叢 潮州 鳳凰 烏龍"
@@ -11056,7 +11056,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "흙이 오리 똥처럼 보여 ‘압시향’이라 불렀다는 설과, 좋은 차나무를 숨기려 일부러 거친 이름을 붙였다는 설이 전합니다. 2014년에는 공식 이름이 ‘은화향(銀花香)’으로 바뀌었습니다.",
       "flavor": "은방울꽃 같은 청량한 꽃 향, 산뜻한 단맛, 여운이 깁니다.",
-      "pairing": "가벼운 디저트, 과일, 단독 음용.",
+      "pairing": "가벼운 디저트와 배·참외 같은 과일, 단독 음용과 잘 어울립니다. 은방울꽃 같은 청량한 꽃향이 담백한 간식 곁에서 맑게 퍼지고, 산뜻한 단맛이 입안을 가볍게 정리합니다. 진한 초콜릿 디저트는 이 섬세한 꽃향을 덮어 버립니다.",
       "brewTip": "98도에서 짧게. 2포에서 꽃 향이 가장 맑습니다.",
       "keep": "밀봉해 서늘하게, 소분 보관.",
       "keywords": "압시향 은화향 봉황단총 차오저우"
@@ -11072,7 +11072,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "The name is said to come from soil that looked like duck droppings — or to be a deliberately coarse name hiding a fine bush. In 2014 it was officially renamed Yin Hua Xiang (silver flower fragrance).",
       "flavor": "Cool lily-of-the-valley florals, bright sweetness, a long finish.",
-      "pairing": "Light desserts, fruit, or alone.",
+      "pairing": "It suits light desserts, fruit such as pear and Korean melon, and drinking on its own. The cool lily-of-the-valley florals spread clearly beside plain snacks, and the bright sweetness lightly tidies the palate. Rich chocolate desserts will bury this delicate floral note.",
       "brewTip": "Short at 98 °C; the clearest flowers are in the second infusion.",
       "keep": "Sealed, cool, in small lots.",
       "keywords": "Ya Shi Xiang duck shit aroma dancong silver flower oolong"
@@ -11088,7 +11088,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙。",
       "story": "相传因土色像鸭屎得名，也有一说是故意取粗名藏好树。2014年正式更名为“银花香”。",
       "flavor": "铃兰般的清花香，甜爽，余韵长。",
-      "pairing": "清淡甜点、水果，或单独品饮。",
+      "pairing": "适合清淡甜点、梨和甜瓜等水果，以及单独饮用。清凉的铃兰花香在朴素小吃旁清晰舒展，明亮的甘甜轻轻收拾口腔。浓郁巧克力甜点会掩埋这份细腻的花香。",
       "brewTip": "98度短泡，第二泡花香最清。",
       "keep": "密封阴凉，小包分装。",
       "keywords": "鸭屎香 银花香 凤凰单丛 潮州"
@@ -11104,7 +11104,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙。",
       "story": "相傳因土色像鴨屎得名，也有一說是故意取粗名藏好樹。2014年正式更名為「銀花香」。",
       "flavor": "鈴蘭般的清花香，甜爽，餘韻長。",
-      "pairing": "清淡甜點、水果，或單獨品飲。",
+      "pairing": "適合清淡甜點、梨子和瓜類水果,也適合獨自飲用。清涼的鈴蘭花香在清淡小吃旁清晰散開,明亮的甜味輕輕收拾味蕾。濃郁的巧克力甜點會埋沒這份細緻的花香。",
       "brewTip": "98度短泡，第二泡花香最清。",
       "keep": "密封陰涼，小包分裝。",
       "keywords": "鴨屎香 銀花香 鳳凰單叢 潮州"
@@ -11171,7 +11171,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "1970년대 이후 가볍게 만든 고산 우롱이 인기를 얻으면서 생산이 크게 줄었습니다.",
       "flavor": "잘 익은 과일과 꿀, 구운 향. 홍차에 가까운 진한 물색입니다.",
-      "pairing": "구운 과자, 말린 과일, 치즈.",
+      "pairing": "구운 과자와 말린 과일, 숙성 치즈와 잘 어울립니다. 잘 익은 과일과 꿀, 구운 향이 말린 과일의 농축된 단맛과 겹치고, 홍차에 가까운 진한 물색만큼 바디도 단단합니다. 상큼한 샐러드와는 진한 단맛이 따로 놀기 쉽습니다.",
       "brewTip": "95도에서 40초. 진하게 우려도 떫음이 적습니다.",
       "keep": "밀봉해 서늘하게. 배화한 차는 오래 둘수록 부드러워집니다.",
       "keywords": "홍수우롱 대만 전통 우롱 배화 진산"
@@ -11187,7 +11187,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "Production fell sharply after the 1970s as light, high-mountain oolong took over the market.",
       "flavor": "Ripe fruit, honey, a baked note; the liquor is nearly as dark as black tea.",
-      "pairing": "Baked sweets, dried fruit, cheese.",
+      "pairing": "It pairs well with baked sweets, dried fruit and aged cheese. The ripe fruit, honey and baked notes overlap with dried fruit's concentrated sweetness, and the body is as firm as its near-black-tea liquor suggests. Its deep sweetness can feel separate from a bright, fresh salad.",
       "brewTip": "40 seconds at 95 °C; it stays soft even when strong.",
       "keep": "Sealed and cool; baked tea softens with years.",
       "keywords": "Hong Shui oolong Taiwan traditional deep oxidation baked"
@@ -11203,7 +11203,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "1970年代后轻发酵高山乌龙兴起，产量大减。",
       "flavor": "熟果、蜜香与焙火气，汤色接近红茶。",
-      "pairing": "烤点心、果干、奶酪。",
+      "pairing": "与烘焙甜点、干果和熟成奶酪都很搭配。熟果、蜂蜜与烘焙香气与干果浓缩的甘甜重叠，体感如其近红茶的茶汤所暗示的那样扎实。它深厚的甘甜在明亮新鲜的沙拉旁可能显得分离。",
       "brewTip": "95度40秒，浓泡也不涩。",
       "keep": "密封阴凉，久存转柔。",
       "keywords": "红水乌龙 台湾 传统乌龙 焙火"
@@ -11219,7 +11219,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "1970年代後輕發酵高山烏龍興起，產量大減。",
       "flavor": "熟果、蜜香與焙火氣，湯色接近紅茶。",
-      "pairing": "烤點心、果乾、奶酪。",
+      "pairing": "很適合搭配烘焙甜點、果乾和熟成起司。熟果、蜂蜜與烘烤香與果乾濃縮的甜味重疊,茶體如同它接近紅茶的茶湯一樣扎實。它深沉的甜味在明亮新鮮的沙拉旁可能顯得格格不入。",
       "brewTip": "95度40秒，濃泡也不澀。",
       "keep": "密封陰涼，久存轉柔。",
       "keywords": "紅水烏龍 臺灣 傳統烏龍 焙火"
@@ -11287,7 +11287,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조.",
       "story": "20세기 후반 대만에서 묘목과 제법이 들어와 북부 산지에 우롱 재배가 자리 잡았습니다.",
       "flavor": "가벼운 꽃 향과 단맛, 대만 고산차보다 힘이 부드럽습니다.",
-      "pairing": "태국 요리, 과일, 아이스티.",
+      "pairing": "태국 요리와 열대과일, 얼음을 띄운 아이스티와 잘 어울립니다. 가벼운 꽃향과 단맛이 태국 요리의 향신료 향 사이에서 입안을 부드럽게 정리해 줍니다. 대만 고산차보다 힘이 부드러워 진한 스튜 요리에는 향이 약하게 느껴집니다.",
       "brewTip": "90~95도에서 짧게. 차갑게 우려도 향이 살아 있습니다.",
       "keep": "밀봉 냉장.",
       "keywords": "도이매살롱 태국 우롱 치앙라이"
@@ -11303,7 +11303,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, ball-rolled, dried.",
       "story": "Seedlings and methods came from Taiwan in the late 20th century and took root in the north.",
       "flavor": "Light flowers and sweetness, softer in body than Taiwan high-mountain oolong.",
-      "pairing": "Thai food, fruit, iced tea.",
+      "pairing": "It pairs well with Thai food, tropical fruit and iced tea served over ice. The light florals and sweetness gently tidy the palate between bites of spiced Thai dishes. Softer in body than Taiwan high-mountain oolong, its aroma can feel faint next to a rich stew.",
       "brewTip": "Short at 90–95 °C; it also keeps its aroma cold-brewed.",
       "keep": "Sealed and refrigerated.",
       "keywords": "Doi Mae Salong Thai oolong Chiang Rai highland"
@@ -11319,7 +11319,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉球 → 干燥。",
       "story": "20世纪后期台湾茶苗与工艺传入，泰北山区发展出乌龙茶产业。",
       "flavor": "轻花香与甜，茶体比台湾高山茶柔。",
-      "pairing": "泰式料理、水果、冰茶。",
+      "pairing": "与泰式食物、热带水果和加冰的冰茶都很搭配。轻盈的花香与甘甜在辛辣泰式菜肴的每一口之间温和地收拾口腔。体感比台湾高山乌龙更柔和，在浓郁炖菜旁香气可能显得淡薄。",
       "brewTip": "90~95度短泡，冷泡也香。",
       "keep": "密封冷藏。",
       "keywords": "美斯乐 泰国 乌龙 清莱 高山"
@@ -11335,7 +11335,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉球 → 乾燥。",
       "story": "20世紀後期臺灣茶苗與工藝傳入，泰北山區發展出烏龍茶產業。",
       "flavor": "輕花香與甜，茶體比臺灣高山茶柔。",
-      "pairing": "泰式料理、水果、冰茶。",
+      "pairing": "很適合搭配泰國菜、熱帶水果和加冰的冰茶。輕盈的花香與甜味能在辛香的泰國菜每一口之間溫和地收拾味蕾。茶體比台灣高山烏龍柔和,在豐盛的燉菜旁香氣可能顯得淡薄。",
       "brewTip": "90~95度短泡，冷泡也香。",
       "keep": "密封冷藏。",
       "keywords": "美斯樂 泰國 烏龍 清萊 高山"
@@ -11403,7 +11403,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조.",
       "story": "20세기 초 프랑스가 차 재배를 들여왔고, 이후 대만식 우롱 제법이 더해졌습니다.",
       "flavor": "풀 향과 가벼운 꽃 향, 깨끗한 단맛. 대만 우롱보다 산뜻합니다.",
-      "pairing": "베트남 요리, 쌀국수, 아이스티.",
+      "pairing": "베트남 요리와 쌀국수, 아이스티와 잘 어울립니다. 풀 향과 가벼운 꽃향, 깨끗한 단맛이 쌀국수의 맑은 국물과 어울리며 식사를 산뜻하게 마무리합니다. 느억맘처럼 향이 강한 양념을 많이 쓴 요리와는 맑은 단맛이 부딪힐 수 있습니다.",
       "brewTip": "90도에서 짧게. 진하게 우리면 떫음이 빨리 나옵니다.",
       "keep": "밀봉 냉장.",
       "keywords": "목쩌우 베트남 우롱 선라 고원"
@@ -11419,7 +11419,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried.",
       "story": "The French brought tea growing in the early 20th century; Taiwanese oolong methods followed.",
       "flavor": "Grass and light flowers, clean sweetness — fresher than Taiwan oolong.",
-      "pairing": "Vietnamese food, pho, iced tea.",
+      "pairing": "It pairs well with Vietnamese food, pho and iced tea. The grass and light floral notes and clean sweetness suit pho's clear broth and leave the meal feeling fresh. Dishes loaded with strong seasonings like fish sauce can clash with that clean sweetness.",
       "brewTip": "Short at 90 °C; brewed strong it turns astringent quickly.",
       "keep": "Sealed and refrigerated.",
       "keywords": "Moc Chau oolong Vietnam Son La highland"
@@ -11435,7 +11435,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥。",
       "story": "20世纪初法国引入茶树，其后又引入台湾乌龙工艺。",
       "flavor": "青草与淡花香，甘净，比台湾乌龙更清爽。",
-      "pairing": "越南菜、河粉、冰茶。",
+      "pairing": "与越南食物、河粉和冰茶都很搭配。青草与轻盈花香和干净甘甜适合河粉清澈的汤底，让一餐感觉清新。鱼露等浓重调味多的菜肴可能与这份干净甘甜冲突。",
       "brewTip": "90度短泡，久泡易涩。",
       "keep": "密封冷藏。",
       "keywords": "木州乌龙 越南 山罗 高原"
@@ -11451,7 +11451,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥。",
       "story": "20世紀初法國引入茶樹，其後又引入臺灣烏龍工藝。",
       "flavor": "青草與淡花香，甘淨，比臺灣烏龍更清爽。",
-      "pairing": "越南菜、河粉、冰茶。",
+      "pairing": "很適合搭配越南菜、河粉和冰茶。青草與輕盈花香加上乾淨的甜味,適合河粉清澈的湯頭,讓一餐感覺清新。魚露等調味濃重的菜可能與這份乾淨的甜味衝突。",
       "brewTip": "90度短泡，久泡易澀。",
       "keep": "密封冷藏。",
       "keywords": "木州烏龍 越南 山羅 高原"
@@ -11518,7 +11518,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 숯불 건조. 연기를 쐬지 않습니다.",
       "story": "정산소종은 세계에서 가장 오래된 홍차로 꼽히며, 17세기 유럽에 ‘랍상 소총’으로 수출되었습니다. 무연 제품은 20세기 후반 소비 취향에 맞춰 따로 만들어집니다.",
       "flavor": "말린 과일·꿀·꽃 향, 부드러운 몸통. 연기 향이 없어 홍차의 본래 향이 잘 드러납니다.",
-      "pairing": "과일 타르트, 훈제하지 않은 구운 고기, 디저트.",
+      "pairing": "과일 타르트, 훈제하지 않은 구운 고기, 꿀 케이크, 견과 디저트가 어울립니다. 연기 없는 말린 과일과 꿀, 꽃 향이 구운 고기의 고소함을 부드럽게 감싸며 본래의 홍차 향을 살려 줍니다. 훈제 요리와 겹치면 무연의 매력이 사라집니다.",
       "brewTip": "90도에서 2분 30초. 우유를 넣어도 향이 남습니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "정산소종 무연 랍상소총 우이산 홍차"
@@ -11534,7 +11534,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, charcoal-dried without smoking.",
       "story": "Zhengshan Xiaozhong is often called the oldest black tea and reached Europe as Lapsang Souchong in the 17th century; unsmoked versions were developed for modern taste.",
       "flavor": "Dried fruit, honey, flowers, soft body — the base tea without smoke.",
-      "pairing": "Fruit tarts, un-smoked roast meat, desserts.",
+      "pairing": "Fruit tarts, un-smoked roast meat, honey cake and nut desserts pair well. Dried fruit, honey and flowers without smoke softly wrap roasted meat and let the tea's true aroma show. Smoked dishes would erase the point of the unsmoked style.",
       "brewTip": "2½ minutes at 90 °C; it also holds up with milk.",
       "keep": "Sealed, cool and dry.",
       "keywords": "Zhengshan Xiaozhong unsmoked Lapsang Wuyi black tea"
@@ -11550,7 +11550,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 炭焙，不熏烟。",
       "story": "正山小种被视为最早的红茶，17世纪以“Lapsang Souchong”之名进入欧洲；无烟型为适应现代口味而制。",
       "flavor": "果干、蜂蜜与花香，汤体柔，无烟味。",
-      "pairing": "水果挞、非熏制烤肉、甜点。",
+      "pairing": "水果塔、非烟熏烤肉、蜂蜜蛋糕和坚果甜点搭配得很好。无烟的干果、蜂蜜与花香柔和地包裹烤肉，让茶真正的香气显现。烟熏菜肴会抹去无烟风格的意义。",
       "brewTip": "90度两分半，加奶亦香。",
       "keep": "密封阴凉干燥。",
       "keywords": "正山小种 无烟 武夷山 红茶"
@@ -11566,7 +11566,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 炭焙，不燻煙。",
       "story": "正山小種被視為最早的紅茶，17世紀以「Lapsang Souchong」之名進入歐洲；無煙型為適應現代口味而制。",
       "flavor": "果乾、蜂蜜與花香，湯體柔，無煙味。",
-      "pairing": "水果撻、非燻制烤肉、甜點。",
+      "pairing": "水果塔、非煙燻的烤肉、蜂蜜蛋糕和堅果甜點搭配起來很好。沒有煙燻的果乾、蜂蜜與花香,柔和地包裹烤肉,讓茶真正的香氣展現。煙燻料理會抹去非煙燻風格的重點。",
       "brewTip": "90度兩分半，加奶亦香。",
       "keep": "密封陰涼乾燥。",
       "keywords": "正山小種 無煙 武夷山 紅茶"
@@ -11634,7 +11634,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조.",
       "story": "1959년에 만들어지기 시작해 중국 남부의 대표 홍차로 자리 잡았습니다.",
       "flavor": "몰트와 꿀, 붉은 과일 향. 진한 물색에 우유를 넣어도 향이 남습니다.",
-      "pairing": "아침 식사, 밀크티, 구운 고기.",
+      "pairing": "든든한 아침 식사, 밀크티, 구운 고기, 꿀 토스트가 어울립니다. 몰트와 꿀, 붉은 과일의 진한 향이 우유를 넣어도 남아 기름진 고기와 아침 식사를 든든히 받쳐 줍니다. 맑은 생선 요리는 진한 물색의 힘에 눌릴 수 있습니다.",
       "brewTip": "95도에서 3분. 밀크티로 마시려면 잎을 두 배로.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "영덕홍차 잉더 홍차 광둥 대엽종 밀크티"
@@ -11650,7 +11650,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried.",
       "story": "Production began in 1959 and it became southern China's standard black tea.",
       "flavor": "Malt, honey, red fruit; dark liquor that keeps its aroma with milk.",
-      "pairing": "Breakfast, milk tea, roast meat.",
+      "pairing": "A hearty breakfast, milk tea, roast meat and honey toast pair well. Malt, honey and red fruit stay aromatic even with milk, firmly backing rich meat and breakfasts. Clear, delicate fish dishes can be overwhelmed by its depth.",
       "brewTip": "3 minutes at 95 °C; double the leaf for milk tea.",
       "keep": "Sealed, cool and dry.",
       "keywords": "Yingde black tea Guangdong large leaf milk tea"
@@ -11666,7 +11666,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。",
       "story": "1959年开始生产，成为华南代表红茶。",
       "flavor": "麦芽、蜂蜜与红果香，汤浓，加奶仍香。",
-      "pairing": "早餐、奶茶、烤肉。",
+      "pairing": "丰盛早餐、奶茶、烤肉和蜂蜜吐司搭配得很好。麦芽、蜂蜜与红色水果即使加牛奶依然芬芳，稳稳支撑丰盛的肉与早餐。清澈精致的鱼类菜肴可能被它的深度压倒。",
       "brewTip": "95度三分钟；做奶茶投茶加倍。",
       "keep": "密封阴凉干燥。",
       "keywords": "英德红茶 广东 大叶种 奶茶"
@@ -11682,7 +11682,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。",
       "story": "1959年開始生產，成為華南代表紅茶。",
       "flavor": "麥芽、蜂蜜與紅果香，湯濃，加奶仍香。",
-      "pairing": "早餐、奶茶、烤肉。",
+      "pairing": "扎實的早餐、奶茶、烤肉和蜂蜜吐司搭配起來很好。麥芽、蜂蜜與紅色水果即使加了牛奶也保持香氣,扎實地支撐豐盛的肉類與早餐。清澈精緻的魚類料理可能被它的深度壓過。",
       "brewTip": "95度三分鐘；做奶茶投茶加倍。",
       "keep": "密封陰涼乾燥。",
       "keywords": "英德紅茶 廣東 大葉種 奶茶"
@@ -11748,7 +11748,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조. 잘게 부순 잎이 많습니다.",
       "story": "1924년 이후 흑해 연안에서 차 재배가 국가 사업으로 시작되어 지금은 국민 음료가 되었습니다.",
       "flavor": "몰트와 구운 빵, 진한 붉은 물색. 각설탕을 곁들이는 방식이 흔합니다.",
-      "pairing": "아침 식사, 빵, 단 과자.",
+      "pairing": "튀르키예식 아침 식사, 갓 구운 빵, 터키시 딜라이트 같은 단 과자, 치즈가 어울립니다. 몰트와 구운 빵의 고소함이 각설탕의 단맛과 어우러져 빵과 치즈의 짠맛을 부드럽게 감쌉니다. 섬세한 과일 디저트는 진한 맛에 묻히기 쉽습니다.",
       "brewTip": "5분 진하게. 두 겹 찻주전자(차이단륵)로 우려 농도를 맞춥니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "리제 차 튀르키예 흑해 홍차 차이"
@@ -11764,7 +11764,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried; mostly finely broken leaf.",
       "story": "Tea growing along the Black Sea began as a state programme after 1924 and became the national drink.",
       "flavor": "Malt and baked bread, deep red liquor; usually served with sugar cubes.",
-      "pairing": "Breakfast, bread, sweet pastries.",
+      "pairing": "A Turkish-style breakfast, fresh bread, sweet treats like Turkish delight and cheese pair well. Malt and baked-bread savouriness meet sugar-cube sweetness and soften the salt of bread and cheese. Delicate fruit desserts are easily buried.",
       "brewTip": "A strong five-minute brew; the double pot lets you dilute to taste.",
       "keep": "Sealed and dry.",
       "keywords": "Rize cay Turkish tea Black Sea"
@@ -11780,7 +11780,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥，多为细碎叶。",
       "story": "1924年后黑海沿岸茶叶种植成为国家项目，如今是国民饮料。",
       "flavor": "麦芽与烤面包香，汤色深红，常配方糖。",
-      "pairing": "早餐、面包、甜点。",
+      "pairing": "土耳其式早餐、新鲜面包、土耳其软糖等甜食和奶酪搭配得很好。麦芽与烤面包的咸鲜遇上方糖的甘甜，柔化面包与奶酪的咸味。精致水果甜点很容易被掩埋。",
       "brewTip": "浓泡五分钟，双层壶调节浓淡。",
       "keep": "密封干燥。",
       "keywords": "里泽红茶 土耳其 黑海 红茶"
@@ -11796,7 +11796,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥，多為細碎葉。",
       "story": "1924年後黑海沿岸茶葉種植成為國家項目，如今是國民飲料。",
       "flavor": "麥芽與烤麵包香，湯色深紅，常配方糖。",
-      "pairing": "早餐、麵包、甜點。",
+      "pairing": "土耳其式早餐、新鮮麵包、土耳其軟糖等甜點和起司搭配起來很好。麥芽與烤麵包的鮮鹹遇上方糖的甜味,並柔化麵包與起司的鹹味。精緻的水果甜點很容易被埋沒。",
       "brewTip": "濃泡五分鐘，雙層壺調節濃淡。",
       "keep": "密封乾燥。",
       "keywords": "裡澤紅茶 土耳其 黑海 紅茶"
@@ -11863,7 +11863,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조 (CTC).",
       "story": "1929년 영국인이 차밭을 열어 지금까지 이어지는 농장이 이 지역의 상징입니다.",
       "flavor": "몰트와 구운 향, 진한 물색. 우유와 잘 어울립니다.",
-      "pairing": "아침 식사, 밀크티, 스콘.",
+      "pairing": "아침 식사, 밀크티, 스콘, 카야 토스트가 어울립니다. 몰트와 구운 향의 진한 물색이 우유와 부드럽게 섞여 동남아식 아침 식사와도 잘 맞습니다. 가벼운 과일만으로는 차의 진함이 도드라지니 빵을 곁들이세요.",
       "brewTip": "95도에서 3분. 진하게 우려 우유를 더하는 방식이 현지식입니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "캐머런 하이랜드 말레이시아 홍차 고원"
@@ -11879,7 +11879,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried (CTC).",
       "story": "An estate planted in 1929 is still the region's landmark.",
       "flavor": "Malt and toast, a dark liquor that takes milk well.",
-      "pairing": "Breakfast, milk tea, scones.",
+      "pairing": "Breakfast, milk tea, scones and kaya toast pair well. A dark liquor of malt and toast blends smoothly with milk and suits a Southeast Asian breakfast table. Fruit alone leaves its strength standing out, so add some bread.",
       "brewTip": "Three minutes at 95 °C; brew strong and add milk, as locally done.",
       "keep": "Sealed and dry.",
       "keywords": "Cameron Highlands Malaysia black tea highland estate"
@@ -11895,7 +11895,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥（CTC）。",
       "story": "1929年开园的茶园至今仍是当地地标。",
       "flavor": "麦芽与烤香，汤浓，宜加奶。",
-      "pairing": "早餐、奶茶、司康。",
+      "pairing": "早餐、奶茶、司康饼和咖椰吐司搭配得很好。麦芽与吐司的深色茶汤与牛奶顺滑融合，适合东南亚式早餐桌。单独水果会让它的力度突出，因此请配些面包。",
       "brewTip": "95度三分钟，浓泡加奶。",
       "keep": "密封干燥。",
       "keywords": "金马伦高原 马来西亚 红茶 高山"
@@ -11911,7 +11911,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥（CTC）。",
       "story": "1929年開園的茶園至今仍是當地地標。",
       "flavor": "麥芽與烤香，湯濃，宜加奶。",
-      "pairing": "早餐、奶茶、司康。",
+      "pairing": "早餐、奶茶、司康和咖椰吐司搭配起來很好。麥芽與吐司的深色茶湯與牛奶順暢融合,適合東南亞的早餐桌。單獨吃水果會讓它的強勁突出,因此請加些麵包。",
       "brewTip": "95度三分鐘，濃泡加奶。",
       "keep": "密封乾燥。",
       "keywords": "金馬倫高原 馬來西亞 紅茶 高山"
@@ -11977,7 +11977,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조 (CTC).",
       "story": "1950년대 이후 차 재배가 국가 산업으로 자리 잡았고, 지금은 주요 수출품입니다.",
       "flavor": "몰트에 밝은 산미, 진한 붉은 물색. 케냐 차보다 부드럽습니다.",
-      "pairing": "아침 식사, 밀크티, 빵.",
+      "pairing": "아침 식사, 밀크티, 구운 빵, 잼 토스트가 어울립니다. 몰트에 밝은 산미가 더해져 케냐 차보다 부드럽게 아침 식사의 기름기를 정리해 줍니다. 아주 진한 초콜릿 디저트는 밝은 산미와 부딪힐 수 있으니 주의하세요.",
       "brewTip": "95도에서 3분. 우유를 넣으면 산미가 둥글어집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "르완다 홍차 동아프리카 고지대 CTC"
@@ -11993,7 +11993,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried (CTC).",
       "story": "Tea became a national industry after the 1950s and is now a major export.",
       "flavor": "Malt with a bright edge, deep red liquor, softer than Kenyan tea.",
-      "pairing": "Breakfast, milk tea, bread.",
+      "pairing": "Breakfast, milk tea, toasted bread and jam on toast pair well. Malt with a bright edge tidies up a rich breakfast more softly than Kenyan tea. Very dark chocolate desserts can clash with that bright acidity.",
       "brewTip": "Three minutes at 95 °C; milk rounds off the brightness.",
       "keep": "Sealed and dry.",
       "keywords": "Rwanda black tea East Africa highland CTC"
@@ -12009,7 +12009,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥（CTC）。",
       "story": "1950年代后茶业成为国家产业，现为主要出口品。",
       "flavor": "麦芽带明亮酸度，汤色深红，比肯尼亚茶更柔。",
-      "pairing": "早餐、奶茶、面包。",
+      "pairing": "早餐、奶茶、烤面包和果酱吐司搭配得很好。带明亮边缘的麦芽比肯尼亚茶更柔和地收拾丰盛早餐。非常深的巧克力甜点可能与那份明亮酸味冲突。",
       "brewTip": "95度三分钟，加奶更圆润。",
       "keep": "密封干燥。",
       "keywords": "卢旺达红茶 东非 高地 CTC"
@@ -12025,7 +12025,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥（CTC）。",
       "story": "1950年代後茶業成為國家產業，現為主要出口品。",
       "flavor": "麥芽帶明亮酸度，湯色深紅，比肯亞茶更柔。",
-      "pairing": "早餐、奶茶、麵包。",
+      "pairing": "早餐、奶茶、烤麵包和淋果醬的吐司搭配起來很好。帶明亮邊緣的麥芽,比肯亞茶更柔和地收拾豐盛的早餐。非常黑的巧克力甜點可能與那份明亮的酸味衝突。",
       "brewTip": "95度三分鐘，加奶更圓潤。",
       "keep": "密封乾燥。",
       "keywords": "盧安達紅茶 東非 高地 CTC"
@@ -12091,7 +12091,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조.",
       "story": "다즐링과 아쌈 사이에 있어 두 산지의 성격을 나눠 갖는다고 설명됩니다.",
       "flavor": "몰트와 구운 향, 진하고 떫음이 적당해 우유와 잘 맞습니다.",
-      "pairing": "아침 식사, 밀크티.",
+      "pairing": "아침 식사, 밀크티, 버터 토스트, 구운 소시지가 어울립니다. 몰트와 구운 향, 적당한 떫음이 우유와 만나 부드러워지며 짭짤한 아침 메뉴를 든든히 받쳐 줍니다. 섬세한 디저트와는 힘의 균형이 맞지 않으니 피하세요.",
       "brewTip": "95도에서 3분. 아침 블렌드에 섞어도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "두아르 인도 서벵골 홍차 아침"
@@ -12107,7 +12107,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried.",
       "story": "Sitting between Darjeeling and Assam, it is often described as sharing something of both.",
       "flavor": "Malt and toast, strong with a fair grip — good with milk.",
-      "pairing": "Breakfast, milk tea.",
+      "pairing": "Breakfast, milk tea, buttered toast and grilled sausages pair well. Malt and toast with a fair grip soften into milk and firmly support a salty morning plate. Delicate desserts are outmatched by its strength.",
       "brewTip": "Three minutes at 95 °C; it blends well into breakfast mixtures.",
       "keep": "Sealed and dry.",
       "keywords": "Dooars tea India West Bengal breakfast"
@@ -12123,7 +12123,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。",
       "story": "地处大吉岭与阿萨姆之间，常被说兼具两地性格。",
       "flavor": "麦芽与烤香，浓强微涩，宜加奶。",
-      "pairing": "早餐、奶茶。",
+      "pairing": "早餐、奶茶、黄油吐司和烤香肠搭配得很好。麦芽与吐司加上相当的抓力，在牛奶中柔和，稳稳支撑咸味晨间餐盘。精致甜点敌不过它的力度。",
       "brewTip": "95度三分钟，适合早晨拼配。",
       "keep": "密封干燥。",
       "keywords": "杜阿尔斯 印度 西孟加拉 红茶"
@@ -12139,7 +12139,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。",
       "story": "地處大吉嶺與阿薩姆之間，常被說兼具兩地性格。",
       "flavor": "麥芽與烤香，濃強微澀，宜加奶。",
-      "pairing": "早餐、奶茶。",
+      "pairing": "早餐、奶茶、奶油吐司和烤香腸搭配起來很好。麥芽與吐司加上一定的力道,在牛奶中變柔和,扎實地支撐鹹味的晨間餐盤。精緻甜點敵不過它的強勁。",
       "brewTip": "95度三分鐘，適合早晨拼配。",
       "keep": "密封乾燥。",
       "keywords": "杜阿爾斯 印度 西孟加拉 紅茶"
@@ -12206,7 +12206,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조.",
       "story": "생산량이 적어 전국 유통보다 지역 소비와 관광 판매 중심으로 나옵니다.",
       "flavor": "몰트에 옅은 꽃 향, 부드러운 단맛. 잭살 (하동)보다 가볍습니다.",
-      "pairing": "담백한 디저트, 말린 과일, 아침 차.",
+      "pairing": "담백한 디저트, 말린 과일, 아침 차 한 잔, 쌀 과자가 어울립니다. 몰트에 옅은 꽃 향과 부드러운 단맛이 잭살보다 가벼워 담백한 간식의 맛을 방해하지 않습니다. 진한 카레 같은 강한 음식은 이 가벼움을 덮어 버립니다.",
       "brewTip": "90도에서 3분. 잎이 여려 두 번이면 충분합니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "영덕 홍차 경북 동해안 한국 홍차"
@@ -12222,7 +12222,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, rolled, oxidised, dried.",
       "story": "Output is small, so it sells locally and to visitors rather than nationwide.",
       "flavor": "Malt with a faint floral note, soft sweetness; lighter than Hadong black tea.",
-      "pairing": "Plain desserts, dried fruit, morning tea.",
+      "pairing": "Plain desserts, dried fruit, a morning cup and rice crackers pair well. Malt with a faint floral note and soft sweetness is lighter than Hadong black tea, never intruding on mild snacks. Strong dishes like rich curry would cover its lightness.",
       "brewTip": "Three minutes at 90 °C; the tender leaf gives two good infusions.",
       "keep": "Sealed, cool and dry.",
       "keywords": "Yeongdeok black tea Korea east coast"
@@ -12238,7 +12238,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。",
       "story": "产量小，主要在当地与游客渠道销售。",
       "flavor": "麦芽香带淡花香，甜柔，比河东红茶轻。",
-      "pairing": "清淡甜点、果干、晨间茶。",
+      "pairing": "原味甜点、干果、晨间一杯和米饼搭配得很好。带淡淡花香的麦芽与柔和甘甜比河东红茶更轻盈，不会侵扰清淡小吃。浓郁咖喱等浓重菜肴会盖住它的轻盈。",
       "brewTip": "90度三分钟，两泡足够。",
       "keep": "密封阴凉干燥。",
       "keywords": "盈德红茶 韩国 庆北 东海"
@@ -12254,7 +12254,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。",
       "story": "產量小，主要在當地與遊客渠道銷售。",
       "flavor": "麥芽香帶淡花香，甜柔，比河東紅茶輕。",
-      "pairing": "清淡甜點、果乾、晨間茶。",
+      "pairing": "清淡甜點、果乾、晨間一杯和米果搭配起來很好。帶淡淡花香的麥芽與柔和甜味,比河東紅茶更輕盈,不會侵擾清淡的小吃。濃咖哩等強烈的菜會蓋住它的輕盈。",
       "brewTip": "90度三分鐘，兩泡足夠。",
       "keep": "密封陰涼乾燥。",
       "keywords": "盈德紅茶 韓國 慶北 東海"
@@ -12321,7 +12321,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 악퇴 → 압착 → 발화 건조.",
       "story": "명나라 때 징양에서 후난 흑모차를 압착·발화해 만들기 시작했고, 실크로드와 차마무역으로 서북 변방에 공급됐습니다.",
       "flavor": "버섯·흙·곡물 향, 부드럽고 둥근 단맛. 금화가 많은 차일수록 향이 부드럽습니다.",
-      "pairing": "기름진 고기, 중식, 유제품.",
+      "pairing": "기름진 고기, 중식, 요구르트 같은 유제품, 구운 버섯이 어울립니다. 버섯과 곡물의 구수함, 부드럽고 둥근 단맛이 육류의 기름기를 차분하게 정리해 줍니다. 신선한 과일의 산미는 둥근 단맛과 어긋나니 따로 드세요.",
       "brewTip": "100도 끓는 물. 첫 물은 세차로 버리고, 끓여 마셔도 좋습니다.",
       "keep": "습도 60% 안팎, 냄새 없는 곳. 금화는 보관 중에도 자랍니다.",
       "keywords": "복전차 금화 안화 흑차 후발효"
@@ -12337,7 +12337,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, piled, pressed, then dried through a 'flowering' stage.",
       "story": "It began in Ming times in Jingyang, pressed and 'flowered' from Hunan dark leaf, and travelled the Silk Road and tea-horse routes to the northwestern frontier.",
       "flavor": "Mushroom, earth, grain; soft round sweetness, smoother the more golden flowers.",
-      "pairing": "Fatty meat, Chinese food, dairy.",
+      "pairing": "Fatty meat, Chinese food, dairy like yogurt and roasted mushrooms pair well. Mushroom and grain savouriness with a soft, round sweetness calmly clears meat fat. The acidity of fresh fruit sits awkwardly with that round sweetness.",
       "brewTip": "Boiling water; rinse once, and it can also be boiled.",
       "keep": "Around 60% humidity, away from smells — the flowers keep developing.",
       "keywords": "Fu brick tea golden flowers Anhua dark tea"
@@ -12353,7 +12353,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 压砖 → 发花干燥。",
       "story": "明代起在泾阳以湖南黑毛茶压制发花，经丝绸之路与茶马贸易供往西北边疆。",
       "flavor": "菌香、土香与谷香，甜圆；金花越多越柔。",
-      "pairing": "油腻肉类、中餐、乳制品。",
+      "pairing": "肥腻肉类、中餐、酸奶等乳制品和烤蘑菇搭配得很好。蘑菇与谷物的咸鲜加上柔和圆润的甘甜，平静地清除肉的油脂。新鲜水果的酸味与那份圆润甘甜相处不甚协调。",
       "brewTip": "沸水，洗茶一次，也可煮饮。",
       "keep": "湿度约六成、无异味处，金花可继续生长。",
       "keywords": "茯砖茶 金花 安化 黑茶 后发酵"
@@ -12369,7 +12369,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 壓磚 → 發花乾燥。",
       "story": "明代起在涇陽以湖南黑毛茶壓製發花，經絲綢之路與茶馬貿易供往西北邊疆。",
       "flavor": "菌香、土香與谷香，甜圓；金花越多越柔。",
-      "pairing": "油膩肉類、中餐、乳製品。",
+      "pairing": "油膩的肉、中菜、優格等乳製品和烤蘑菇搭配起來很好。蘑菇與穀物的鮮鹹加上柔和圓潤的甜味,能平靜地清除肉的油脂。新鮮水果的酸味與那份圓潤的甜味相處起來有些彆扭。",
       "brewTip": "沸水，洗茶一次，也可煮飲。",
       "keep": "溼度約六成、無異味處，金花可繼續生長。",
       "keywords": "茯磚茶 金花 安化 黑茶 後發酵"
@@ -12436,7 +12436,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 악퇴 → 꽃격 대나무 광주리(멱루)에 압착 → 볕과 이슬에 말리는 일쇄야로 건조.",
       "story": "도광 연간 백량차에서 이어져 동치 연간에 천량차가 되었습니다. 말과 배로 먼 곳까지 운반하기 좋게 만든 압착차입니다.",
       "flavor": "대나무 향과 흙 향, 진한 단맛. 오래 둘수록 부드러워집니다.",
-      "pairing": "기름진 식사, 중식, 유제품.",
+      "pairing": "기름진 식사, 중식 볶음 요리, 유제품 디저트, 훈제 고기가 어울립니다. 대나무와 흙 향에 진한 단맛이 더해져 기름진 음식 뒤에 입안을 묵직하게 정리해 줍니다. 가벼운 샐러드와는 무게감이 맞지 않으니 피하세요.",
       "brewTip": "100도. 단단히 압착되어 있어 첫 우림은 짧게, 이후 길게.",
       "keep": "건조하고 통풍되는 곳. 대나무 껍질을 벗기지 않고 둡니다.",
       "keywords": "천량차 화권차 안화 흑차 대나무 압착"
@@ -12452,7 +12452,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, piled, pressed into a latticed bamboo basket, then dried by sun and dew.",
       "story": "It grew out of the hundred-liang tea of the Daoguang era and took its thousand-liang form under Tongzhi, made to travel by horse and boat.",
       "flavor": "Bamboo and earth, deep sweetness; softer the longer it is kept.",
-      "pairing": "Fatty meals, Chinese food, dairy.",
+      "pairing": "Fatty meals, Chinese stir-fries, dairy desserts and smoked meat pair well. Bamboo and earth with deep sweetness settle the palate weightily after rich food. Light salads are mismatched in weight.",
       "brewTip": "Boiling water; short first infusion because the log is dense.",
       "keep": "Dry and airy, bamboo sheath left on.",
       "keywords": "Qianliang tea Anhua bamboo pressed dark tea"
@@ -12468,7 +12468,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 花格竹篾篓压柱 → 日晒夜露干燥。",
       "story": "源于道光年间的百两茶，同治年间成千两茶，为便于马帮船运而制。",
       "flavor": "竹香与土香，甜厚，越陈越柔。",
-      "pairing": "油腻餐食、中餐、乳制品。",
+      "pairing": "肥腻餐食、中式炒菜、乳制品甜点和烟熏肉搭配得很好。竹香与大地加上深厚的甘甜，在丰盛食物之后沉甸甸地安定口腔。清淡沙拉在分量上不匹配。",
       "brewTip": "沸水，压得紧，首泡宜短。",
       "keep": "干燥通风，保留竹篾。",
       "keywords": "千两茶 花卷茶 安化 黑茶 竹压"
@@ -12484,7 +12484,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 花格竹篾簍壓柱 → 日曬夜露乾燥。",
       "story": "源於道光年間的百兩茶，同治年間成千兩茶，為便於馬幫船運而製。",
       "flavor": "竹香與土香，甜厚，越陳越柔。",
-      "pairing": "油膩餐食、中餐、乳製品。",
+      "pairing": "油膩的餐食、中式炒菜、乳製品甜點和煙燻肉搭配起來很好。竹子與泥土加上深沉甜味,能在豐盛食物之後沉穩地安定味蕾。清淡沙拉在份量上不相配。",
       "brewTip": "沸水，壓得緊，首泡宜短。",
       "keep": "乾燥通風，保留竹篾。",
       "keywords": "千兩茶 花卷茶 安化 黑茶 竹壓"
@@ -12551,7 +12551,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 악퇴 → 압착 → 건조.",
       "story": "청대에 티베트로 가는 차 무역의 주요 품목이었고, 지금도 그 지역에서 같은 방식으로 마십니다.",
       "flavor": "흙과 곡물 향, 진하고 거친 단맛. 우유·버터와 만나면 부드러워집니다.",
-      "pairing": "육류, 유제품, 기름진 식사.",
+      "pairing": "육류 요리, 버터와 치즈 같은 유제품, 기름진 식사, 볶은 보리 간식이 어울립니다. 흙과 곡물의 진하고 거친 단맛이 우유나 버터와 만나 부드러워지며 육류의 지방과 잘 맞습니다. 섬세한 디저트는 거친 풍미에 눌릴 수 있습니다.",
       "brewTip": "100도에서 길게. 우유와 소금을 더하는 티베트식도 좋습니다.",
       "keep": "건조하고 통풍되는 곳.",
       "keywords": "강전차 남로변차 쓰촨 흑차 티베트"
@@ -12567,7 +12567,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, piled, pressed, dried.",
       "story": "A main item of the Qing-era tea trade to Tibet, where it is still drunk the same way.",
       "flavor": "Earth and grain, strong and slightly rough; milk or butter softens it.",
-      "pairing": "Meat, dairy, rich meals.",
+      "pairing": "Meat dishes, dairy like butter and cheese, rich meals and roasted barley snacks pair well. Earth and grain in a strong, slightly rough sweetness soften with milk or butter and meet meat fat head-on. Delicate desserts can be overwhelmed.",
       "brewTip": "Long at 100 °C; the Tibetan style adds milk and salt.",
       "keep": "Dry and airy.",
       "keywords": "Kangzhuan Sichuan brick tea Tibet dark tea"
@@ -12583,7 +12583,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 压制 → 干燥。",
       "story": "清代销藏茶贸易的主要品类，当地至今沿用同样喝法。",
       "flavor": "土香与谷香，浓而略粗，加奶或酥油后转柔。",
-      "pairing": "肉类、乳制品、油腻餐食。",
+      "pairing": "肉类菜肴、黄油和奶酪等乳制品、丰盛餐食和烤大麦小吃搭配得很好。大地与谷物在强烈、略带粗犷的甘甜中，遇牛奶或黄油而柔和，正面迎上肉的油脂。精致甜点可能被压倒。",
       "brewTip": "100度久泡，也可加奶加盐。",
       "keep": "干燥通风。",
       "keywords": "康砖茶 南路边茶 四川 黑茶 西藏"
@@ -12599,7 +12599,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥。",
       "story": "清代銷藏茶貿易的主要品類，當地至今沿用同樣喝法。",
       "flavor": "土香與谷香，濃而略粗，加奶或酥油後轉柔。",
-      "pairing": "肉類、乳製品、油膩餐食。",
+      "pairing": "肉類料理、奶油與起司等乳製品、豐盛的餐食和烤大麥小吃搭配起來很好。泥土與穀物在強勁、略帶粗獷的甜味中,遇上牛奶或奶油會變柔和,並正面迎接肉的油脂。精緻甜點可能被壓過。",
       "brewTip": "100度久泡，也可加奶加鹽。",
       "keep": "乾燥通風。",
       "keywords": "康磚茶 南路邊茶 四川 黑茶 西藏"
@@ -12667,7 +12667,7 @@ window.TEAFaiData = (function () {
       "process": "압착 흑차를 오래 끓여 농축 → 버터·소금과 함께 젓기.",
       "story": "고지대에서 수분·열량·염분을 한 번에 얻기 위한 방식으로 자리 잡았습니다.",
       "flavor": "버터의 고소함과 소금기, 흑차의 흙 향. 처음엔 낯설지만 몸이 데워집니다.",
-      "pairing": "츠ampa(볶은 보릿가루), 육류, 아침.",
+      "pairing": "참파(볶은 보릿가루), 말린 육류, 아침 식사, 짭짤한 치즈가 어울립니다. 버터의 고소함과 소금기, 흑차의 흙 향이 고소한 보릿가루와 육류의 풍미를 한 끼 식사처럼 든든하게 이어 줍니다. 단 디저트와는 짠맛의 결이 맞지 않습니다.",
       "brewTip": "차를 진하게 끓이는 것이 핵심입니다. 버터는 무염을 씁니다.",
       "keep": "농축액은 냉장 보관하고 데워 마십니다.",
       "keywords": "수유차 쑤유차 버터차 티베트 장차 흑차"
@@ -12683,7 +12683,7 @@ window.TEAFaiData = (function () {
       "process": "Pressed dark tea boiled down, then churned with butter and salt.",
       "story": "A way to take water, calories and salt at once at altitude.",
       "flavor": "Buttery and salty over dark tea's earth; strange at first, warming after.",
-      "pairing": "Tsampa (roasted barley flour), meat, breakfast.",
+      "pairing": "Tsampa (roasted barley flour), dried meat, breakfast and salty cheese pair well. Butter richness, salt and dark-tea earth carry barley and meat flavours into something as filling as a meal. Sweet desserts clash with its saltiness.",
       "brewTip": "The key is boiling the tea strong; use unsalted butter.",
       "keep": "Refrigerate the concentrate and reheat to serve.",
       "keywords": "Tibetan butter tea suyou cha brick tea Tibet"
@@ -12699,7 +12699,7 @@ window.TEAFaiData = (function () {
       "process": "砖茶久煮浓缩 → 与酥油、盐同打。",
       "story": "高原上一次补充水分、热量与盐分的饮法。",
       "flavor": "酥油香与咸味压着黑茶的土香，初尝陌生，喝下暖身。",
-      "pairing": "糌粑、肉类、早餐。",
+      "pairing": "糌粑（烤青稞粉）、干肉、早餐和咸奶酪搭配得很好。黄油的丰润、咸味与黑茶的大地气息承载青稞与肉的滋味，饱腹如一餐。甜味甜点与它的咸味冲突。",
       "brewTip": "关键在把茶熬浓；酥油用无盐的。",
       "keep": "浓汁冷藏，饮前加热。",
       "keywords": "酥油茶 藏茶 砖茶 西藏"
@@ -12715,7 +12715,7 @@ window.TEAFaiData = (function () {
       "process": "磚茶久煮濃縮 → 與酥油、鹽同打。",
       "story": "高原上一次補充水分、熱量與鹽分的飲法。",
       "flavor": "酥油香與鹹味壓著黑茶的土香，初嘗陌生，喝下暖身。",
-      "pairing": "糌粑、肉類、早餐。",
+      "pairing": "糌粑(烤青稞粉)、肉乾、早餐和鹹味起司搭配起來很好。奶油的豐潤、鹹味與黑茶的泥土氣息,承載青稞與肉的風味,扎實得如同一餐。甜的甜點與它的鹹味衝突。",
       "brewTip": "關鍵在把茶熬濃；酥油用無鹽的。",
       "keep": "濃汁冷藏，飲前加熱。",
       "keywords": "酥油茶 藏茶 磚茶 西藏"
@@ -12782,7 +12782,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 악퇴 → 압착 → 건조.",
       "story": "17세기 이후 몽골·러시아로 가는 차 무역의 주요 품목이었습니다.",
       "flavor": "흙과 곡물 향, 부드러운 단맛. 오래 묵은 차는 향이 더 차분합니다.",
-      "pairing": "기름진 고기, 유제품, 중식.",
+      "pairing": "기름진 고기, 유제품, 중식, 구운 견과가 어울립니다. 흙과 곡물의 구수함에 부드러운 단맛이 더해져 육류의 기름기를 차분하게 씻어 주고 식후를 편안하게 합니다. 상큼한 과일 샐러드는 부드러운 단맛과 결이 다릅니다.",
       "brewTip": "100도에서 길게. 끓여 마시면 단맛이 올라옵니다.",
       "keep": "건조하고 통풍되는 곳.",
       "keywords": "노청전 청전차 후베이 자오리차오 흑차"
@@ -12798,7 +12798,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, piled, pressed, dried.",
       "story": "From the 17th century it was a main item in the overland tea trade north.",
       "flavor": "Earth and grain, soft sweetness; older bricks are calmer.",
-      "pairing": "Fatty meat, dairy, Chinese food.",
+      "pairing": "Fatty meat, dairy, Chinese food and roasted nuts pair well. Earth and grain savouriness with soft sweetness calmly rinses away meat fat for a comfortable finish. Zesty fruit salads run on a different line from its softness.",
       "brewTip": "Long at 100 °C; boiling brings out sweetness.",
       "keep": "Dry and airy.",
       "keywords": "Lao Qingzhuan Hubei Zhaoliqiao dark tea brick"
@@ -12814,7 +12814,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 压制 → 干燥。",
       "story": "17世纪以后是北向陆路茶贸易的主要品类。",
       "flavor": "土香与谷香，甜柔，陈放后更沉。",
-      "pairing": "油腻肉类、乳制品、中餐。",
+      "pairing": "肥腻肉类、乳制品、中餐和烤坚果搭配得很好。大地与谷物的咸鲜加上柔和甘甜，平静地洗去肉的油脂，收尾舒适。爽口水果沙拉与它的柔和走向不同路线。",
       "brewTip": "100度久泡，煮饮更甜。",
       "keep": "干燥通风。",
       "keywords": "老青砖 青砖茶 湖北 赵李桥 黑茶"
@@ -12830,7 +12830,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 壓制 → 乾燥。",
       "story": "17世紀以後是北向陸路茶貿易的主要品類。",
       "flavor": "土香與谷香，甜柔，陳放後更沉。",
-      "pairing": "油膩肉類、乳製品、中餐。",
+      "pairing": "油膩的肉、乳製品、中菜和烘烤堅果搭配起來很好。泥土與穀物的鮮鹹加上柔和甜味,能平靜地洗去肉的油脂,留下舒適的尾韻。酸爽的水果沙拉與它的柔和走向不同。",
       "brewTip": "100度久泡，煮飲更甜。",
       "keep": "乾燥通風。",
       "keywords": "老青磚 青磚茶 湖北 趙李橋 黑茶"
@@ -12897,7 +12897,7 @@ window.TEAFaiData = (function () {
       "process": "살청 → 유념 → 악퇴 → 건조 → 느슨하게 담아 숙성.",
       "story": "청대에 ‘천첨’이라는 이름으로 공차에 올랐다는 기록이 있습니다.",
       "flavor": "연기와 흙, 대추 같은 단맛. 압착 흑차보다 향이 가볍고 산뜻합니다.",
-      "pairing": "기름진 식사, 중식, 말린 과일.",
+      "pairing": "기름진 식사, 중식, 말린 과일, 구운 밤이 어울립니다. 연기와 흙 향에 대추 같은 단맛이 더해지고 압착 흑차보다 가벼워 기름진 음식 뒤에도 부담 없이 마시기 좋습니다. 섬세한 생선 요리는 연기 향에 가려질 수 있습니다.",
       "brewTip": "100도에서 짧게 여러 번. 3포부터 단맛이 올라옵니다.",
       "keep": "건조하고 통풍되는 곳, 냄새가 배지 않게.",
       "keywords": "천첨 안화 흑차 상첨 산차"
@@ -12913,7 +12913,7 @@ window.TEAFaiData = (function () {
       "process": "Fired, rolled, piled, dried, then aged loose.",
       "story": "Qing records list 'Tianjian' among the teas sent to court.",
       "flavor": "Smoke and earth, date-like sweetness; lighter and fresher than pressed dark tea.",
-      "pairing": "Fatty meals, Chinese food, dried fruit.",
+      "pairing": "Fatty meals, Chinese food, dried fruit and roasted chestnuts pair well. Smoke and earth with date-like sweetness, lighter than pressed dark teas, make it easy after rich food. Delicate fish can be hidden by the smoke.",
       "brewTip": "Short, repeated infusions at 100 °C; sweetness from the third.",
       "keep": "Dry and airy, away from strong smells.",
       "keywords": "Tianjian Anhua dark tea loose Xiangjian"
@@ -12929,7 +12929,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 干燥 → 装篓陈放。",
       "story": "清代曾以“天尖”之名入贡。",
       "flavor": "烟香、土香与枣甜，比紧压黑茶清轻。",
-      "pairing": "油腻餐食、中餐、果干。",
+      "pairing": "肥腻餐食、中餐、干果和烤栗子搭配得很好。烟与大地加上枣子般甘甜，比压制黑茶更轻盈，让丰盛食物之后轻松。精致鱼类可能被烟藏住。",
       "brewTip": "100度短泡多道，第三泡起出甜。",
       "keep": "干燥通风，避免串味。",
       "keywords": "天尖茶 安化 黑茶 湘尖 散茶"
@@ -12945,7 +12945,7 @@ window.TEAFaiData = (function () {
       "process": "炒青 → 揉捻 → 渥堆 → 乾燥 → 裝簍陳放。",
       "story": "清代曾以「天尖」之名入貢。",
       "flavor": "煙香、土香與棗甜，比緊壓黑茶清輕。",
-      "pairing": "油膩餐食、中餐、果乾。",
+      "pairing": "油膩的餐食、中菜、果乾和烤栗子搭配起來很好。煙燻與泥土加上棗子般的甜味,比緊壓黑茶更輕盈,豐盛食物之後也容易入口。精緻的魚可能被煙燻藏住。",
       "brewTip": "100度短泡多道，第三泡起出甜。",
       "keep": "乾燥通風，避免串味。",
       "keywords": "天尖茶 安化 黑茶 湘尖 散茶"
@@ -13012,7 +13012,7 @@ window.TEAFaiData = (function () {
       "process": "차잎과 계화를 층층이 쌓아 향을 옮기는 인향을 반복한 뒤 꽃을 골라냅니다.",
       "story": "계화는 중국에서 ‘가을의 향’으로 불리며, 꽃으로 차에 향을 옮기는 인향법은 명대 《다보(茶譜)》에 기록이 있습니다.",
       "flavor": "살구·복숭아 같은 달콤한 꽃 향, 부드러운 단맛. 꽃잎이 많으면 향이 더 진합니다.",
-      "pairing": "달지 않은 구운 과자, 견과, 과일.",
+      "pairing": "달지 않은 구운 과자와 구운 견과, 배·복숭아 같은 과일과 잘 어울립니다. 살구·복숭아를 닮은 달콤한 꽃향이 담백한 과자의 고소함 위에서 더 또렷해지고, 부드러운 단맛이 입안을 편안하게 합니다. 단맛이 강한 잼을 바른 과자는 꽃향을 가립니다.",
       "brewTip": "85도. 끓는 물이면 꽃 향이 날아가고 떫음만 남습니다.",
       "keep": "밀봉해 서늘하게. 꽃 향은 개봉 후 빠르게 줄어듭니다.",
       "keywords": "계화차 목서차 구이린 인향 화차"
@@ -13028,7 +13028,7 @@ window.TEAFaiData = (function () {
       "process": "Leaf and blossom are stacked repeatedly to transfer scent, then the blossom is removed.",
       "story": "Osmanthus is called autumn's fragrance in China; scenting tea with flowers is set down in the Ming-dynasty Cha Pu (Tea Manual).",
       "flavor": "Apricot and peach-like florals, soft sweetness; more petals, more scent.",
-      "pairing": "Plain baked sweets, nuts, fruit.",
+      "pairing": "It pairs well with unsweetened baked sweets, roasted nuts and fruit such as pear and peach. The sweet apricot-and-peach-like florals stand out more clearly over plain, nutty baked goods, and the soft sweetness keeps the palate at ease. Jam-topped sweets are sweet enough to hide the floral scent.",
       "brewTip": "85 °C; boiling water drives the flowers off and leaves tannin.",
       "keep": "Sealed and cool — the flower scent fades quickly once opened.",
       "keywords": "osmanthus tea guihua Guilin scented tea"
@@ -13044,7 +13044,7 @@ window.TEAFaiData = (function () {
       "process": "茶花层叠窨制数次后筛去花。",
       "story": "桂花被称作秋天的香，窨花制茶在明代《茶谱》已有明确记载。",
       "flavor": "杏、桃般的甜花香，柔甜；花多则香浓。",
-      "pairing": "原味烤点心、坚果、水果。",
+      "pairing": "与无糖烘焙甜点、烤坚果和梨、桃等水果都很搭配。杏与桃般甜美的花香在朴素、坚果香的烘焙点心之上更清晰，柔和的甘甜让口腔安适。配果酱的甜点甜度足以藏住花香。",
       "brewTip": "85度，沸水会冲散花香只剩涩。",
       "keep": "密封阴凉，开封后花香易散。",
       "keywords": "桂花茶 桂林 窨制 花茶"
@@ -13060,7 +13060,7 @@ window.TEAFaiData = (function () {
       "process": "茶花層疊窨制數次後篩去花。",
       "story": "桂花被稱作秋天的香，窨花制茶在明代《茶譜》已有明確記載。",
       "flavor": "杏、桃般的甜花香，柔甜；花多則香濃。",
-      "pairing": "原味烤點心、堅果、水果。",
+      "pairing": "很適合搭配無糖烘焙甜點、烘烤堅果和梨子、桃子等水果。杏桃與桃子般的甜美花香,在原味、堅果香的烘焙點心之上更清晰,柔和的甜味讓味蕾保持舒適。淋果醬的甜點甜到足以藏住花香。",
       "brewTip": "85度，沸水會衝散花香只剩澀。",
       "keep": "密封陰涼，開封後花香易散。",
       "keywords": "桂花茶 桂林 窨制 花茶"
@@ -13127,7 +13127,7 @@ window.TEAFaiData = (function () {
       "process": "말린 장미 봉오리를 홍차잎과 섞거나 차에 향을 입힙니다.",
       "story": "장미는 중동과 중국에서 오래 차에 섞어 온 꽃입니다.",
       "flavor": "장미 향과 꿀 같은 단맛, 홍차의 몰트가 뒤를 받칩니다.",
-      "pairing": "초콜릿, 견과, 과일 디저트.",
+      "pairing": "초콜릿, 구운 견과, 딸기 같은 과일 디저트, 장미 마카롱이 어울립니다. 장미 향과 꿀 같은 단맛이 초콜릿의 깊이와 어우러지고 몰트가 뒤를 받쳐 향이 가볍게 날아가지 않습니다. 매운 음식은 장미 향을 흐트러뜨리니 피하세요.",
       "brewTip": "90도에서 2분 30초. 꽃이 많으면 향이 비누처럼 느껴질 수 있어 짧게.",
       "keep": "밀봉해 서늘하게. 꽃잎 색이 바래면 향도 줄어듭니다.",
       "keywords": "장미차 매괴홍차 로즈티 꽃차"
@@ -13143,7 +13143,7 @@ window.TEAFaiData = (function () {
       "process": "Dried rose buds blended with black leaf, or the tea scented with rose.",
       "story": "Rose has been blended into tea in the Middle East and China for centuries.",
       "flavor": "Rose and honey sweetness with malt behind.",
-      "pairing": "Chocolate, nuts, fruit desserts.",
+      "pairing": "Chocolate, roasted nuts, fruit desserts like strawberries and rose macarons pair well. Rose aroma and honey sweetness meet chocolate's depth, with malt behind so the fragrance stays grounded. Spicy food would scatter the rose.",
       "brewTip": "2½ minutes at 90 °C; too many petals turns it soapy, so keep it short.",
       "keep": "Sealed and cool; faded petals mean faded scent.",
       "keywords": "rose tea meigui scented black tea"
@@ -13159,7 +13159,7 @@ window.TEAFaiData = (function () {
       "process": "干玫瑰花蕾与红茶拼合，或以浓茶窨玫瑰香。",
       "story": "玫瑰入茶在中东与中国都有长久历史。",
       "flavor": "玫瑰香与蜜甜，后段是红茶的麦芽味。",
-      "pairing": "巧克力、坚果、水果甜点。",
+      "pairing": "巧克力、烤坚果、草莓等水果甜点和玫瑰马卡龙搭配得很好。玫瑰香气与蜂蜜甘甜遇上巧克力的深度，麦芽在后让芬芳扎根。辛辣食物会打散玫瑰香。",
       "brewTip": "90度两分半，花多易显皂感，宜短泡。",
       "keep": "密封阴凉，花色褪则香减。",
       "keywords": "玫瑰花茶 玫瑰红茶 花茶"
@@ -13175,7 +13175,7 @@ window.TEAFaiData = (function () {
       "process": "幹玫瑰花蕾與紅茶拼合，或以濃茶窨玫瑰香。",
       "story": "玫瑰入茶在中東與中國都有長久歷史。",
       "flavor": "玫瑰香與蜜甜，後段是紅茶的麥芽味。",
-      "pairing": "巧克力、堅果、水果甜點。",
+      "pairing": "巧克力、烘烤堅果、草莓等水果甜點和玫瑰馬卡龍搭配起來很好。玫瑰香與蜂蜜甜味遇上巧克力的深度,麥芽在後方讓芬芳保持扎實。辛辣食物會打散玫瑰香。",
       "brewTip": "90度兩分半，花多易顯皂感，宜短泡。",
       "keep": "密封陰涼，花色褪則香減。",
       "keywords": "玫瑰花茶 玫瑰紅茶 花茶"
@@ -13242,7 +13242,7 @@ window.TEAFaiData = (function () {
       "process": "홍차잎에 여지 향을 입히거나 말린 여지를 섞습니다.",
       "story": "여지는 광둥의 대표 과일로, 6~7월에 익습니다.",
       "flavor": "여지의 달콤한 향과 홍차의 몰트. 얼음을 넣어도 향이 남습니다.",
-      "pairing": "과일 디저트, 아이스티.",
+      "pairing": "과일 디저트, 여지 젤리, 아이스티, 코코넛 푸딩이 어울립니다. 여지의 달콤한 향이 얼음을 넣어도 남아 차갑게 마실 때 과일 디저트의 향과 달콤하게 겹쳐집니다. 진한 고기 요리는 과일 향과 결이 달라 따로 즐기세요.",
       "brewTip": "90도에서 2분 30초. 아이스티는 두 배로 진하게 우립니다.",
       "keep": "밀봉해 서늘하게.",
       "keywords": "여지홍차 리치홍차 광둥 과일홍차"
@@ -13258,7 +13258,7 @@ window.TEAFaiData = (function () {
       "process": "Black leaf scented with lychee, or dried fruit blended in.",
       "story": "Lychee is Guangdong's signature fruit, ripe in June and July.",
       "flavor": "Sweet lychee over malt; the aroma survives ice.",
-      "pairing": "Fruit desserts, iced tea.",
+      "pairing": "Fruit desserts, lychee jelly, iced tea and coconut pudding pair well. The sweet lychee aroma survives ice, layering sweetly over fruit desserts when served cold. Heavy meat dishes run against the fruit aroma.",
       "brewTip": "2½ minutes at 90 °C; brew double strength for iced tea.",
       "keep": "Sealed and cool.",
       "keywords": "lychee black tea lizhi Guangdong fruit tea"
@@ -13274,7 +13274,7 @@ window.TEAFaiData = (function () {
       "process": "茶坯吸香或拼入干荔枝。",
       "story": "荔枝是广东代表水果，六七月成熟。",
       "flavor": "荔枝甜香与麦芽味，加冰仍香。",
-      "pairing": "水果甜点、冰茶。",
+      "pairing": "水果甜点、荔枝果冻、冰茶和椰子布丁搭配得很好。甜美的荔枝香气在冰中也能存活，冷饮时甜美地叠在水果甜点之上。厚重肉类菜肴与水果香气相违。",
       "brewTip": "90度两分半；做冰茶投茶加倍。",
       "keep": "密封阴凉。",
       "keywords": "荔枝红茶 广东 果香红茶"
@@ -13290,7 +13290,7 @@ window.TEAFaiData = (function () {
       "process": "茶坯吸香或拼入幹荔枝。",
       "story": "荔枝是廣東代表水果，六七月成熟。",
       "flavor": "荔枝甜香與麥芽味，加冰仍香。",
-      "pairing": "水果甜點、冰茶。",
+      "pairing": "水果甜點、荔枝果凍、冰茶和椰子布丁搭配起來很好。甜美的荔枝香在冰中也不消失,冰鎮享用時甜美地疊在水果甜點之上。厚重的肉類料理與水果香相逆。",
       "brewTip": "90度兩分半；做冰茶投茶加倍。",
       "keep": "密封陰涼。",
       "keywords": "荔枝紅茶 廣東 果香紅茶"
@@ -13355,7 +13355,7 @@ window.TEAFaiData = (function () {
       "process": "잘게 부순 홍차를 진하게 우리고 연유·설탕을 더합니다.",
       "story": "태국에서 차는 20세기 이후 재배가 늘었고, 차옌은 길거리 음료로 자리 잡았습니다.",
       "flavor": "아주 진한 몰트와 단맛, 연유의 크림감. 얼음이 녹으면 부드러워집니다.",
-      "pairing": "매운 태국 요리, 디저트.",
+      "pairing": "매운 태국 요리, 팟타이, 코코넛 디저트, 망고 찹쌀밥이 어울립니다. 아주 진한 몰트와 단맛, 연유의 크림감이 매운맛의 열기를 부드럽게 감싸 태국 요리와 한 세트처럼 맞습니다. 담백한 음식 옆에서는 단맛이 도드라질 수 있습니다.",
       "brewTip": "5분 진하게. 연유 양으로 단맛을 조절합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "차옌 태국 밀크티 연유 아이스티"
@@ -13371,7 +13371,7 @@ window.TEAFaiData = (function () {
       "process": "Finely broken leaf brewed strong, then condensed milk and sugar added.",
       "story": "Tea growing expanded in Thailand in the 20th century and cha yen became a street staple.",
       "flavor": "Very strong malt and sugar, creamy from the condensed milk; softer as the ice melts.",
-      "pairing": "Spicy Thai food, desserts.",
+      "pairing": "Spicy Thai dishes, pad thai, coconut desserts and mango sticky rice pair well. Very strong malt and sugar with condensed-milk cream softly wrap the heat of Thai food like a set. Beside plain food its sweetness can stand out.",
       "brewTip": "Brew five minutes strong; control sweetness with the condensed milk.",
       "keep": "Sealed and dry.",
       "keywords": "cha yen Thai iced tea condensed milk"
@@ -13387,7 +13387,7 @@ window.TEAFaiData = (function () {
       "process": "碎红茶浓泡后加炼乳与糖。",
       "story": "泰国茶叶种植在20世纪扩大，泰式奶茶成为街头饮品。",
       "flavor": "浓麦芽与甜，炼乳带来奶油感，冰化后转柔。",
-      "pairing": "泰式辛香料理、甜点。",
+      "pairing": "辛辣泰式菜肴、泰式炒河粉、椰子甜点和芒果糯米饭搭配得很好。非常强烈的麦芽与糖加上炼乳奶油，像一套组合般柔和地包裹泰式食物的辣。在朴素食物旁，它的甜味可能突出。",
       "brewTip": "泡足五分钟，甜度用炼乳调节。",
       "keep": "密封干燥。",
       "keywords": "泰式奶茶 炼乳 冰茶 泰国"
@@ -13403,7 +13403,7 @@ window.TEAFaiData = (function () {
       "process": "碎紅茶濃泡後加煉乳與糖。",
       "story": "泰國茶葉種植在20世紀擴大，泰式奶茶成為街頭飲品。",
       "flavor": "濃麥芽與甜，煉乳帶來奶油感，冰化後轉柔。",
-      "pairing": "泰式辛香料理、甜點。",
+      "pairing": "辛辣的泰國菜、泰式炒河粉、椰子甜點和芒果糯米飯搭配起來很好。非常強勁的麥芽與糖分加上煉乳的奶香,像一套組合般柔和地包裹泰國菜的熱辣。在清淡食物旁,它的甜味可能顯得突出。",
       "brewTip": "泡足五分鐘，甜度用煉乳調節。",
       "keep": "密封乾燥。",
       "keywords": "泰式奶茶 煉乳 冰茶 泰國"
@@ -13470,7 +13470,7 @@ window.TEAFaiData = (function () {
       "process": "군피우더를 짧게 우리고 박하·설탕을 더한 뒤 높이 부어 섞습니다.",
       "story": "19세기 이후 유럽을 거쳐 들어온 중국 녹차가 모로코의 민트차로 자리 잡았습니다.",
       "flavor": "박하의 청량함과 진한 단맛, 녹차의 풀 향. 뜨거워도 청량합니다.",
-      "pairing": "단 과자, 쿠스쿠스, 식후.",
+      "pairing": "꿀이나 설탕을 곁들인 단 과자, 쿠스쿠스 요리, 양고기 요리와 어울립니다. 박하의 청량함과 진한 단맛이 기름진 식사 뒤 입안을 시원하게 씻어 주고, 녹차의 풀 향이 민트 아래에서 균형을 잡아 줍니다. 섬세한 생선 요리와는 민트 향이 앞섭니다.",
       "brewTip": "85도에서 짧게. 박하는 마지막에 넣어야 향이 살아 있습니다.",
       "keep": "차잎은 밀봉해 건조하게. 박하는 그때그때 신선한 잎을 씁니다.",
       "keywords": "모로코 민트티 박하 군피우더 마그레브"
@@ -13486,7 +13486,7 @@ window.TEAFaiData = (function () {
       "process": "Gunpowder brewed briefly, mint and sugar added, then poured from a height.",
       "story": "Chinese green tea arrived via Europe from the 19th century and became Morocco's mint tea.",
       "flavor": "Cool mint, deep sugar, green-tea grass — refreshing even hot.",
-      "pairing": "Sweet pastries, couscous, after meals.",
+      "pairing": "Sweet pastries with honey or sugar, couscous dishes and lamb suit it. The mint's coolness and deep sugar rinse the palate refreshingly after a rich meal, while the green tea's grass note balances beneath the mint. Beside delicate fish, the mint takes the lead.",
       "brewTip": "Short at 85 °C; add the mint last so the oil survives.",
       "keep": "Leaf sealed and dry; use fresh mint each time.",
       "keywords": "Moroccan mint tea gunpowder Maghreb spearmint"
@@ -13502,7 +13502,7 @@ window.TEAFaiData = (function () {
       "process": "珠茶短泡后加薄荷与糖，再高冲混合。",
       "story": "19世纪后经欧洲传入的中国绿茶，成为摩洛哥的薄荷茶。",
       "flavor": "薄荷清凉、甜度高、绿茶草香。",
-      "pairing": "甜点心、库斯库斯、餐后。",
+      "pairing": "蜂蜜或糖的甜味糕点、古斯米菜肴和羊肉都很适合。薄荷的清凉与深厚的糖分在丰盛一餐后清爽地漱清口腔，绿茶的青草气息在薄荷之下平衡。在精致鱼类旁，薄荷会占上风。",
       "brewTip": "85度短泡，薄荷最后放。",
       "keep": "茶叶密封干燥，薄荷现取现用。",
       "keywords": "摩洛哥薄荷茶 珠茶 马格里布 薄荷"
@@ -13518,7 +13518,7 @@ window.TEAFaiData = (function () {
       "process": "珠茶短泡後加薄荷與糖，再高衝混合。",
       "story": "19世紀後經歐洲傳入的中國綠茶，成為摩洛哥的薄荷茶。",
       "flavor": "薄荷清涼、甜度高、綠茶草香。",
-      "pairing": "甜點心、庫斯庫斯、餐後。",
+      "pairing": "淋上蜂蜜或糖的甜點心、庫斯庫斯料理和羊肉都很合適。薄荷的清涼與深沉的糖分能在豐盛的一餐後清新地洗淨味蕾,綠茶的青草香在薄荷之下取得平衡。在精緻的魚旁,薄荷會佔上風。",
       "brewTip": "85度短泡，薄荷最後放。",
       "keep": "茶葉密封乾燥，薄荷現取現用。",
       "keywords": "摩洛哥薄荷茶 珠茶 馬格里布 薄荷"
@@ -13584,7 +13584,7 @@ window.TEAFaiData = (function () {
       "process": "아쌈을 중심으로 실론·케냐를 섞습니다.",
       "story": "아일랜드에서는 오래 진하고 우유를 넣은 홍차를 마셔 왔고, 그 취향이 블렌드로 굳어졌습니다.",
       "flavor": "진한 몰트와 색, 우유를 넣으면 크림 같은 질감이 됩니다.",
-      "pairing": "아침 식사, 검은 빵, 버터.",
+      "pairing": "든든한 아침 식사, 검은 빵, 버터와 잼, 구운 소시지가 어울립니다. 진한 몰트와 색이 우유를 만나면 크림 같은 질감이 되어 짭짤한 아침 메뉴를 묵직하게 받쳐 줍니다. 가벼운 과일만으로는 이 진함에 균형이 맞지 않습니다.",
       "brewTip": "98도에서 4분. 우유를 넣을 것이라면 잎을 조금 더.",
       "keep": "밀봉해 건조하게.",
       "keywords": "아일랜드 브렉퍼스트 아쌈 아침 블렌드"
@@ -13600,7 +13600,7 @@ window.TEAFaiData = (function () {
       "process": "Assam leading, with Ceylon and Kenyan leaf.",
       "story": "Strong tea with milk has long been the Irish habit, and the blend settled around it.",
       "flavor": "Deep malt and colour; milk turns it creamy.",
-      "pairing": "Breakfast, dark bread, butter.",
+      "pairing": "A hearty breakfast, dark bread, butter and jam and grilled sausages pair well. Deep malt and colour turn creamy with milk, weightily supporting a salty morning plate. Light fruit alone cannot balance its strength.",
       "brewTip": "Four minutes at 98 °C; add a little more leaf if you take milk.",
       "keep": "Sealed and dry.",
       "keywords": "Irish breakfast Assam blend strong"
@@ -13616,7 +13616,7 @@ window.TEAFaiData = (function () {
       "process": "以阿萨姆为主，拼锡兰与肯尼亚。",
       "story": "爱尔兰长年喝浓红茶加奶，这份口味固化成拼配。",
       "flavor": "麦芽浓，汤色深，加奶后呈奶油质感。",
-      "pairing": "早餐、黑面包、黄油。",
+      "pairing": "丰盛早餐、黑面包、黄油果酱和烤香肠搭配得很好。深厚的麦芽与色泽加牛奶后变奶油般，沉甸甸地支撑咸味晨间餐盘。单独清淡水果无法平衡它的力度。",
       "brewTip": "98度四分钟，加奶可多投茶。",
       "keep": "密封干燥。",
       "keywords": "爱尔兰早餐茶 阿萨姆 拼配"
@@ -13632,7 +13632,7 @@ window.TEAFaiData = (function () {
       "process": "以阿薩姆為主，拼錫蘭與肯亞。",
       "story": "愛爾蘭長年喝濃紅茶加奶，這份口味固化成拼配。",
       "flavor": "麥芽濃，湯色深，加奶後呈奶油質感。",
-      "pairing": "早餐、黑麵包、黃油。",
+      "pairing": "扎實的早餐、黑麵包、奶油與果醬和烤香腸搭配起來很好。深沉的麥芽與色澤遇上牛奶變得綿密,沉穩地支撐鹹味的晨間餐盤。單獨的清淡水果無法平衡它的強勁。",
       "brewTip": "98度四分鐘，加奶可多投茶。",
       "keep": "密封乾燥。",
       "keywords": "愛爾蘭早餐茶 阿薩姆 拼配"
@@ -13698,7 +13698,7 @@ window.TEAFaiData = (function () {
       "process": "씨를 볶아 향을 낸 뒤 뜨거운 물에 우립니다.",
       "story": "한국에서는 오래전부터 볶은 결명자를 물처럼 달여 마셨습니다.",
       "flavor": "볶은 곡물의 고소함과 옅은 쌉쌀함, 끝에 약간의 단맛.",
-      "pairing": "식사, 기름진 음식, 밤.",
+      "pairing": "볶은 곡물의 고소함과 옅은 쌉쌀함이 삼겹살·튀김 같은 기름진 음식과 잘 어울리고, 일반 식사 곁의 물처럼 두기 좋습니다. 구수한 뒷맛이 느끼함을 정리해 줍니다. 섬세한 꽃향 디저트와는 고소함이 앞설 수 있습니다.",
       "brewTip": "5분 이상. 씨가 단단해 끓이면 맛이 더 납니다.",
       "keep": "밀봉해 서늘하고 건조하게. 볶은 씨는 냄새를 잘 흡수합니다.",
       "keywords": "결명자차 결명자 볶은차 무카페인"
@@ -13714,7 +13714,7 @@ window.TEAFaiData = (function () {
       "process": "The seed is roasted, then brewed.",
       "story": "Roasted cassia seed has long been boiled as an everyday drink in Korea.",
       "flavor": "Roasted grain, a faint bitterness, a little sweetness at the end.",
-      "pairing": "Meals, rich food, evening.",
+      "pairing": "The roasted grain toastiness and faint bitterness suit rich food like pork belly and fritters, and it works as an everyday table tea with regular meals. The savory finish tidies up greasiness. With delicate floral desserts, its toastiness can take over.",
       "brewTip": "Five minutes or more; the hard seed benefits from boiling.",
       "keep": "Sealed, cool and dry — roasted seed takes on smells.",
       "keywords": "cassia seed tea gyeolmyeongja Korea caffeine free"
@@ -13730,7 +13730,7 @@ window.TEAFaiData = (function () {
       "process": "炒香后热水冲泡。",
       "story": "韩国自古把炒决明子当日常饮品熬煮。",
       "flavor": "炒谷香、微苦，尾端略甜。",
-      "pairing": "餐食、油腻食物、夜间。",
+      "pairing": "烤谷物的烘焙香与淡淡苦味适合五花肉、炸物等丰盛食物，也可作为日常餐桌茶随正餐饮用。醇和的收尾收拾油腻。配精致的花香甜点时，它的烘焙香可能占据主导。",
       "brewTip": "五分钟以上，煮更出味。",
       "keep": "密封阴凉干燥，易吸味。",
       "keywords": "决明子茶 韩国 无咖啡因 炒制"
@@ -13746,7 +13746,7 @@ window.TEAFaiData = (function () {
       "process": "炒香後熱水衝泡。",
       "story": "韓國自古把炒決明子當日常飲品熬煮。",
       "flavor": "炒谷香、微苦，尾端略甜。",
-      "pairing": "餐食、油膩食物、夜間。",
+      "pairing": "烤穀物的焦香與淡淡苦味，適合五花肉、炸物等豐盛食物，也能作為日常佐餐茶配一般餐食。醇香的收尾能收拾油膩。配香氣細緻的花香甜點時，焦香可能喧賓奪主。",
       "brewTip": "五分鐘以上，煮更出味。",
       "keep": "密封陰涼乾燥，易吸味。",
       "keywords": "決明子茶 韓國 無咖啡因 炒制"
@@ -13812,7 +13812,7 @@ window.TEAFaiData = (function () {
       "process": "우엉을 얇게 썰어 말린 뒤 볶아 우립니다.",
       "story": "한국에서는 우엉을 차로 볶아 마시는 방식이 오래 이어졌습니다.",
       "flavor": "볶은 뿌리의 고소함과 은은한 단맛, 끝에 약한 쌉쌀함.",
-      "pairing": "식사, 기름진 음식, 밤.",
+      "pairing": "볶은 뿌리의 고소함과 은은한 단맛이 제육볶음·튀김 같은 기름진 음식과 잘 어울리고, 한식 식사 곁에도 무난합니다. 쌉쌀한 끝맛이 느끼함을 씻어 줍니다. 단맛이 강한 디저트와는 흙 향이 어긋날 수 있습니다.",
       "brewTip": "5분 이상. 끓이면 단맛이 더 살아납니다.",
       "keep": "밀봉해 건조하게. 습기를 먹으면 곰팡이가 생깁니다.",
       "keywords": "우엉차 우엉 뿌리 볶은차 무카페인"
@@ -13828,7 +13828,7 @@ window.TEAFaiData = (function () {
       "process": "Thin-sliced root is dried, roasted and brewed.",
       "story": "Roasted burdock has long been drunk as a tea in Korea.",
       "flavor": "Roasted earthiness with quiet sweetness and a mild bitter end.",
-      "pairing": "Meals, fatty food, evening.",
+      "pairing": "The roasted root's earthiness and quiet sweetness pair well with rich food like stir-fried pork and fritters, and sit easily beside a Korean meal. The mildly bitter end washes away greasiness. Very sweet desserts can sit at odds with its earthy note.",
       "brewTip": "Five minutes or more; boiling lifts the sweetness.",
       "keep": "Sealed and dry — damp root moulds.",
       "keywords": "burdock tea ueong Korea caffeine free roasted root"
@@ -13844,7 +13844,7 @@ window.TEAFaiData = (function () {
       "process": "切薄片晾干后炒制冲泡。",
       "story": "韩国长期把牛蒡炒后当茶喝。",
       "flavor": "烤根香、微甜，尾端轻苦。",
-      "pairing": "餐食、油腻食物、夜间。",
+      "pairing": "烤根茎的泥土气息与安静的甘甜与炒猪肉、炸物等丰盛食物很搭配，放在韩餐旁也轻松。微苦的尾段洗去油腻。非常甜的甜点可能与它的泥土气息不协调。",
       "brewTip": "五分钟以上，煮饮更甜。",
       "keep": "密封干燥，受潮易霉。",
       "keywords": "牛蒡茶 韩国 无咖啡因 炒根"
@@ -13860,7 +13860,7 @@ window.TEAFaiData = (function () {
       "process": "切薄片晾乾後炒制衝泡。",
       "story": "韓國長期把牛蒡炒後當茶喝。",
       "flavor": "烤根香、微甜，尾端輕苦。",
-      "pairing": "餐食、油膩食物、夜間。",
+      "pairing": "烤根的泥土氣息與安靜的甜味，與炒豬肉、炸物等豐盛食物很搭，配一頓韓式餐食也輕鬆。微苦的收尾能洗去油膩。太甜的甜點可能與它的泥土調不合。",
       "brewTip": "五分鐘以上，煮飲更甜。",
       "keep": "密封乾燥，受潮易黴。",
       "keywords": "牛蒡茶 韓國 無咖啡因 炒根"
@@ -13926,7 +13926,7 @@ window.TEAFaiData = (function () {
       "process": "말린 열매를 그대로 우리거나 대추·감초와 함께 끓입니다.",
       "story": "구기자는 한국과 중국에서 오래 약재 겸 차 재료로 쓰였습니다.",
       "flavor": "옅은 단맛과 약간의 쌉쌀함, 말린 과일 향. 물색은 연한 노랑입니다.",
-      "pairing": "대추, 감초, 견과.",
+      "pairing": "옅은 단맛과 말린 과일 향이 호두·잣 같은 견과와 잘 어울리고, 대추나 감초와 함께 달이면 단맛이 깊어집니다. 약식 같은 떡 간식과도 무난합니다. 신맛이 강한 음식과는 은은한 단맛이 묻힐 수 있습니다.",
       "brewTip": "90도에서 5분 이상. 열매를 씹어 먹어도 됩니다.",
       "keep": "밀봉해 냉장. 당분이 있어 습기에 약합니다.",
       "keywords": "구기자차 구기자 청양 열매차"
@@ -13942,7 +13942,7 @@ window.TEAFaiData = (function () {
       "process": "Dried berries steeped as they are, or boiled with jujube and licorice.",
       "story": "Goji has long been used as both medicine and tea material in Korea and China.",
       "flavor": "Light sweetness, a little bitterness, dried-fruit aroma; pale yellow liquor.",
-      "pairing": "Jujube, licorice, nuts.",
+      "pairing": "Its light sweetness and dried-fruit aroma pair well with nuts like walnuts and pine nuts, and decocting it with jujube or licorice deepens the sweetness. It also goes easily with rice-cake snacks like yaksik. Strongly sour food can bury its gentle sweetness.",
       "brewTip": "Five minutes or more at 90 °C; the berries can be eaten after.",
       "keep": "Sealed and refrigerated — the sugar makes them sensitive to damp.",
       "keywords": "goji berry tea gugija Korea Ningxia"
@@ -13958,7 +13958,7 @@ window.TEAFaiData = (function () {
       "process": "干果直接冲泡，或与红枣、甘草同煮。",
       "story": "枸杞在韩中两地长期兼作药材与茶料。",
       "flavor": "淡甜微苦，带果干香，汤色浅黄。",
-      "pairing": "红枣、甘草、坚果。",
+      "pairing": "淡淡的甘甜与干果香气与核桃、松子等坚果很搭配，与红枣或甘草一起煎煮，甘甜更深。也轻松配药食等米糕小吃。酸味强烈的食物可能掩埋它温和的甘甜。",
       "brewTip": "90度五分钟以上，果可嚼食。",
       "keep": "密封冷藏，含糖易受潮。",
       "keywords": "枸杞茶 青阳 宁夏 果茶"
@@ -13974,7 +13974,7 @@ window.TEAFaiData = (function () {
       "process": "乾果直接衝泡，或與紅棗、甘草同煮。",
       "story": "枸杞在韓中兩地長期兼作藥材與茶料。",
       "flavor": "淡甜微苦，帶果乾香，湯色淺黃。",
-      "pairing": "紅棗、甘草、堅果。",
+      "pairing": "淡淡的甜味與果乾香氣，與核桃、松子等堅果很搭；與大棗或甘草一起煎煮，甜味更深。也容易搭配藥食等年糕點心。酸味強的食物可能掩蓋它溫和的甜味。",
       "brewTip": "90度五分鐘以上，果可嚼食。",
       "keep": "密封冷藏，含糖易受潮。",
       "keywords": "枸杞茶 青陽 寧夏 果茶"
@@ -14040,7 +14040,7 @@ window.TEAFaiData = (function () {
       "process": "붉게 익은 열매를 말려 우리거나 대추와 함께 끓입니다.",
       "story": "산수유는 한국에서 오래 약재로 쓰였고, 열매를 차로 달이는 방식도 이어졌습니다.",
       "flavor": "강한 신맛과 옅은 쓴맛, 붉은 물색. 꿀을 더하면 부드러워집니다.",
-      "pairing": "대추, 꿀, 견과.",
+      "pairing": "강한 신맛이 기름진 음식을 먹은 뒤 마시면 입안을 개운하게 하고, 꿀이나 대추를 더하면 부드러워져 약과 같은 단 간식과도 어울립니다. 호두 같은 견과와도 결이 맞습니다. 신 과일과는 신맛이 겹쳐 피하는 게 좋습니다.",
       "brewTip": "90도에서 5분 이상. 신맛이 부담되면 대추를 함께 넣습니다.",
       "keep": "밀봉해 냉장. 습기를 피합니다.",
       "keywords": "산수유차 산수유 구례 열매차"
@@ -14056,7 +14056,7 @@ window.TEAFaiData = (function () {
       "process": "Ripe red fruit is dried, then steeped or boiled with jujube.",
       "story": "Cornus has long been used as medicine in Korea, and the fruit was also brewed as tea.",
       "flavor": "Strong sourness, a little bitterness, red liquor; honey softens it.",
-      "pairing": "Jujube, honey, nuts.",
+      "pairing": "Its strong sourness refreshes the palate after rich food, and with honey or jujube added it softens enough to suit sweet snacks like yakgwa. It also matches nuts like walnuts. Avoid sour fruit, where the sourness overlaps.",
       "brewTip": "Five minutes or more at 90 °C; add jujube if the sourness is too much.",
       "keep": "Sealed and refrigerated.",
       "keywords": "cornus fruit tea sansuyu Korea sour"
@@ -14072,7 +14072,7 @@ window.TEAFaiData = (function () {
       "process": "红果晒干后冲泡，或与红枣同煮。",
       "story": "山茱萸在韩国长期入药，果实煮茶也相沿成习。",
       "flavor": "酸味明显、微苦，汤色红，加蜜转柔。",
-      "pairing": "红枣、蜂蜜、坚果。",
+      "pairing": "强烈的酸味能在丰盛食物之后清爽味觉，加入蜂蜜或红枣柔和后，也适合药果等甜味小吃。也配核桃等坚果。避免酸味水果，酸味会重叠。",
       "brewTip": "90度五分钟以上，可加红枣。",
       "keep": "密封冷藏。",
       "keywords": "山茱萸茶 求礼 果实茶"
@@ -14088,7 +14088,7 @@ window.TEAFaiData = (function () {
       "process": "紅果曬乾後衝泡，或與紅棗同煮。",
       "story": "山茱萸在韓國長期入藥，果實煮茶也相沿成習。",
       "flavor": "酸味明顯、微苦，湯色紅，加蜜轉柔。",
-      "pairing": "紅棗、蜂蜜、堅果。",
+      "pairing": "強烈的酸味能在豐盛餐食後讓味蕾清爽；加入蜂蜜或大棗變柔和後，也適合藥菓等甜點心。也與核桃等堅果相配。避免酸味水果，酸味會重疊。",
       "brewTip": "90度五分鐘以上，可加紅棗。",
       "keep": "密封冷藏。",
       "keywords": "山茱萸茶 求禮 果實茶"
@@ -14154,7 +14154,7 @@ window.TEAFaiData = (function () {
       "process": "잎은 그늘에 말리고, 뿌리는 씻어 말린 뒤 볶습니다.",
       "story": "한국에서는 민들레를 나물로도 차로도 오래 써 왔습니다.",
       "flavor": "잎은 쌉쌀하고 풀 향이, 볶은 뿌리는 구수함과 옅은 단맛이 납니다.",
-      "pairing": "식후, 기름진 음식 뒤.",
+      "pairing": "잎차의 쌉쌀함과 볶은 뿌리의 구수함이 삼겹살·전 같은 기름진 음식을 먹은 뒤 입안을 정리해 줍니다. 나물 반찬 위주의 담백한 식사와도 잘 어울립니다. 단 디저트와는 쌉쌀함이 도드라질 수 있습니다.",
       "brewTip": "3g이면 충분합니다. 많으면 쌉쌀함이 강해집니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "민들레차 민들레 뿌리 볶은차"
@@ -14170,7 +14170,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves shade-dried; roots washed, dried and roasted.",
       "story": "Dandelion has long been eaten as a spring green and drunk as tea in Korea.",
       "flavor": "Leaf is bitter and grassy; roasted root is toasty with light sweetness.",
-      "pairing": "After meals, after rich food.",
+      "pairing": "The leaf's bitterness and the roasted root's toastiness tidy the palate after rich food like pork belly and jeon. It also suits plain meals built around seasoned greens. With sweet desserts, the bitterness can stand out.",
       "brewTip": "3 g is enough; more turns sharply bitter.",
       "keep": "Sealed, cool and dry.",
       "keywords": "dandelion tea mindulle Korea roasted root"
@@ -14186,7 +14186,7 @@ window.TEAFaiData = (function () {
       "process": "叶阴干，根洗净晒干后炒制。",
       "story": "韩国自古把蒲公英当春菜也当茶饮。",
       "flavor": "叶苦带草香，炒根焦香微甜。",
-      "pairing": "餐后、油腻饮食之后。",
+      "pairing": "叶子的苦味与烤根茎的烘焙香能在五花肉、煎饼等丰盛食物之后收拾味觉。也适合以拌野菜为主的朴素餐食。配甜味甜点时，苦味可能显得突出。",
       "brewTip": "3克足够，多则苦。",
       "keep": "密封阴凉干燥。",
       "keywords": "蒲公英茶 韩国 炒根"
@@ -14202,7 +14202,7 @@ window.TEAFaiData = (function () {
       "process": "葉陰乾，根洗淨曬乾後炒制。",
       "story": "韓國自古把蒲公英當春菜也當茶飲。",
       "flavor": "葉苦帶草香，炒根焦香微甜。",
-      "pairing": "餐後、油膩飲食之後。",
+      "pairing": "葉片的苦味與烤根的焦香，能在五花肉、煎餅等豐盛食物後收拾味蕾。也適合以涼拌野菜為主的樸實餐食。配甜的甜點時，苦味可能顯得突出。",
       "brewTip": "3克足夠，多則苦。",
       "keep": "密封陰涼乾燥。",
       "keywords": "蒲公英茶 韓國 炒根"
@@ -14268,7 +14268,7 @@ window.TEAFaiData = (function () {
       "process": "수염을 말려 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "한국에서는 옥수수를 삶은 물을 마시던 습관이 차로 정리되었습니다.",
       "flavor": "구수한 곡물 향과 옅은 단맛, 깔끔한 뒷맛.",
-      "pairing": "식사, 여름, 아이스티.",
+      "pairing": "구수한 곡물 향과 깔끔한 뒷맛이 김밥·비빔밥 같은 일상 식사와 두루 잘 어울립니다. 여름에 차갑게 마시면 매운 음식 곁에서도 부담이 없습니다. 향이 섬세한 디저트와는 구수함이 앞설 수 있어 따로 즐기세요.",
       "brewTip": "5분 이상. 차갑게 우려도 구수합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "옥수수수염차 옥수수 수염 구수한차"
@@ -14284,7 +14284,7 @@ window.TEAFaiData = (function () {
       "process": "Silk dried, roasted, then brewed.",
       "story": "The Korean habit of drinking the water corn was boiled in became a tea of its own.",
       "flavor": "Toasty grain, light sweetness, a clean finish.",
-      "pairing": "Meals, summer, iced tea.",
+      "pairing": "Its toasty grain aroma and clean finish go broadly with everyday meals like gimbap and bibimbap. Served cold in summer, it sits easily beside spicy food. With delicately scented desserts its toastiness can take over, so enjoy it separately.",
       "brewTip": "Five minutes or more; it cold-brews well too.",
       "keep": "Sealed and dry.",
       "keywords": "corn silk tea oksusu Korea summer"
@@ -14300,7 +14300,7 @@ window.TEAFaiData = (function () {
       "process": "玉米须晒干炒后冲泡。",
       "story": "韩国原本喝煮玉米的水，后来整理成玉米须茶。",
       "flavor": "谷香、微甜，收尾干净。",
-      "pairing": "餐食、夏季、冰茶。",
+      "pairing": "烘焙的谷物香气与清爽收尾广泛地配紫菜包饭、拌饭等日常餐食。夏天冰镇饮用，放在辛辣食物旁也轻松。配香气精致的甜点时，它的烘焙香可能占据主导，请分开享用。",
       "brewTip": "五分钟以上，冷泡亦香。",
       "keep": "密封干燥。",
       "keywords": "玉米须茶 韩国 夏季"
@@ -14316,7 +14316,7 @@ window.TEAFaiData = (function () {
       "process": "玉米須曬乾炒後衝泡。",
       "story": "韓國原本喝煮玉米的水，後來整理成玉米須茶。",
       "flavor": "谷香、微甜，收尾乾淨。",
-      "pairing": "餐食、夏季、冰茶。",
+      "pairing": "焦香的穀物香氣與乾淨的收尾，與海苔飯捲、拌飯等日常餐食廣泛相配。夏天冷飲時，配辛辣食物也輕鬆。配香氣細緻的甜點時，焦香可能喧賓奪主，建議分開享用。",
       "brewTip": "五分鐘以上，冷泡亦香。",
       "keep": "密封乾燥。",
       "keywords": "玉米須茶 韓國 夏季"
@@ -14385,7 +14385,7 @@ window.TEAFaiData = (function () {
       "process": "솥덖음 → 유념 → 건조. 이른 봄 여린 잎을 솥에서 덖어 만듭니다.",
       "story": "의재 허백련이 무등산에 춘설헌을 짓고 차밭을 일구며 '춘설'이라 이름 붙였다고 전합니다. 삼애다원과 인연이 깊습니다.",
       "flavor": "봄눈처럼 여린 잎에서 오는 풋향과 은은한 단맛, 맑고 가벼운 물색.",
-      "pairing": "담백한 한식, 나물, 떡. 향이 섬세해 강한 양념 음식과는 부딪힙니다.",
+      "pairing": "담백한 한식 반찬, 나물, 백설기 같은 떡과 어울립니다. 봄눈처럼 여린 잎의 풋향과 은은한 단맛은 맛이 조용한 음식 옆에서 가장 맑게 느껴집니다. 고추장이나 마늘 양념이 강한 음식은 섬세한 향을 덮어 버리니 피하세요.",
       "brewTip": "70~75도. 끓인 물을 식혀서 쓰면 여린 잎의 단맛이 살아납니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "춘설 무등산 증심사 허백련 삼애다원 덖음녹차"
@@ -14401,7 +14401,7 @@ window.TEAFaiData = (function () {
       "process": "Pan-firing, rolling, drying — tender early-spring leaves fired in a cauldron.",
       "story": "Named, it is said, by painter Heo Baek-ryeon, who built his Chunseolheon studio on Mt. Mudeung and tended the tea field; closely tied to Samae Dawon.",
       "flavor": "Fresh green scent, gentle sweetness, a clear and light liquor.",
-      "pairing": "Light Korean dishes, namul, rice cakes. Strong seasoning overwhelms it.",
+      "pairing": "Light Korean side dishes, namul and rice cakes such as baekseolgi suit it. The fresh scent and gentle sweetness of leaves as tender as spring snow taste clearest beside quiet food. Avoid dishes strong in gochujang or garlic seasoning, which bury its delicate aroma.",
       "brewTip": "70–75 °C; let boiled water cool a little to keep the sweetness.",
       "keep": "Within a month of opening, sealed and refrigerated.",
       "keywords": "Chunseol Mudeung Jeungsimsa Korean green tea pan-fired"
@@ -14417,7 +14417,7 @@ window.TEAFaiData = (function () {
       "process": "锅炒杀青 → 揉捻 → 干燥，早春嫩叶入锅炒制。",
       "story": "传为画家许百鍊在无等山建春雪轩、开辟茶园时所命名，与三爱茶园渊源深厚。",
       "flavor": "嫩叶的清香与淡淡回甘，汤色清亮轻盈。",
-      "pairing": "清淡韩餐、野菜、年糕。重口味调味会相冲。",
+      "pairing": "清淡韩式小菜、野菜和白雪糕等年糕都很适合。如春雪般细嫩叶片的清新香气与温和甘甜，在安静食物旁最清晰。避免辣椒酱或蒜味调味强的菜肴，会掩埋它细腻的香气。",
       "brewTip": "70~75度，沸水稍晾后再冲，甜味更明显。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "春雪 无等山 证心寺 许百鍊 韩国绿茶"
@@ -14433,7 +14433,7 @@ window.TEAFaiData = (function () {
       "process": "鍋炒殺青 → 揉捻 → 乾燥，早春嫩葉入鍋炒製。",
       "story": "傳為畫家許百鍊在無等山建春雪軒、開闢茶園時所命名，與三愛茶園淵源深厚。",
       "flavor": "嫩葉的清香與淡淡回甘，湯色清亮輕盈。",
-      "pairing": "清淡韓餐、野菜、年糕。重口味調味會相衝。",
+      "pairing": "清淡的韓式小菜、涼拌野菜和白雪糕等米糕都很合適。如春雪般細嫩葉片的清新香氣與溫和甜味,在安靜的食物旁最為清晰。避免辣椒醬或大蒜調味強烈的菜,以免埋沒它細緻的香氣。",
       "brewTip": "70~75度，沸水稍晾後再沖，甜味更明顯。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "春雪 無等山 證心寺 許百鍊 韓國綠茶"
@@ -14501,7 +14501,7 @@ window.TEAFaiData = (function () {
       "process": "차광 재배(수확 전 2~3주) → 증청 → 건조 → 줄기와 잎맥 제거. 비비지 않고 말립니다.",
       "story": "이 잎을 맷돌(석구)로 곱게 갈면 말차가 됩니다. 원료 상태 그대로 우려 마시기도 합니다.",
       "flavor": "차광 재배 특유의 진한 감칠맛과 해조류 같은 향, 짙은 녹색.",
-      "pairing": "와가시, 초밥. 감칠맛이 강해 담백한 음식과 맞습니다.",
+      "pairing": "화과자, 초밥, 흰살생선 회와 어울립니다. 차광 재배로 진해진 감칠맛과 해조류 향이 생선과 밥의 맛을 깊게 받쳐 주고, 화과자의 단맛과는 쌉싸름한 균형이 좋습니다. 기름진 고기 요리는 진한 감칠맛과 부딪혀 서로를 무디게 합니다.",
       "brewTip": "60~70도. 뜨거우면 쓴맛이 도드라집니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장. 빛과 다른 향을 피합니다.",
       "keywords": "텐차 말차 원료 차광재배 증청 우지"
@@ -14517,7 +14517,7 @@ window.TEAFaiData = (function () {
       "process": "Shaded for about two to three weeks before picking, steamed, dried without rolling, then destemmed and deveined.",
       "story": "Ground on a stone mill, this leaf becomes matcha. It is also brewed as a leaf tea in its own right.",
       "flavor": "Deep umami from shading, a seaweed edge, vivid green color.",
-      "pairing": "Wagashi and sushi; its umami suits plain food.",
+      "pairing": "Wagashi, sushi and white-fish sashimi suit it. Umami deepened by shading and its seaweed edge support fish and rice richly, and it strikes a bittersweet balance with wagashi's sweetness. Oily meat clashes with the deep umami and dulls both.",
       "brewTip": "60–70 °C; hotter water brings out bitterness.",
       "keep": "Within a month of opening, sealed and refrigerated, away from light and odors.",
       "keywords": "Tencha matcha base shaded steamed Uji"
@@ -14533,7 +14533,7 @@ window.TEAFaiData = (function () {
       "process": "采摘前遮光2~3周 → 蒸青 → 干燥 → 去除茎与叶脉，不揉捻。",
       "story": "此叶用石磨磨细即成抹茶，原料叶本身也可直接冲泡饮用。",
       "flavor": "遮光带来的浓厚鲜味与海藻香，叶色深绿。",
-      "pairing": "和果子、寿司。鲜味强，宜配清淡食物。",
+      "pairing": "和果子、寿司和白肉鱼生鱼片都很适合。遮阴加深的鲜味与海苔气息丰厚地支撑鱼与米饭，与和果子的甜味形成苦甜平衡。油腻肉类与深厚鲜味冲突，会让两者都变钝。",
       "brewTip": "60~70度，水太烫会突出苦味。",
       "keep": "开封后一个月内，密封冷藏，避光避异味。",
       "keywords": "碾茶 抹茶原料 遮光 蒸青 宇治"
@@ -14549,7 +14549,7 @@ window.TEAFaiData = (function () {
       "process": "採摘前遮光2~3週 → 蒸青 → 乾燥 → 去除莖與葉脈，不揉捻。",
       "story": "此葉用石磨磨細即成抹茶，原料葉本身也可直接沖泡飲用。",
       "flavor": "遮光帶來的濃厚鮮味與海藻香，葉色深綠。",
-      "pairing": "和果子、壽司。鮮味強，宜配清淡食物。",
+      "pairing": "和菓子、壽司和白肉魚生魚片都很合適。遮蔭加深的鮮味與海苔氣息豐厚地支撐魚與米飯,並與和菓子的甜味形成苦甜平衡。油膩的肉類會與深沉的鮮味衝突,讓兩者都變鈍。",
       "brewTip": "60~70度，水太燙會突出苦味。",
       "keep": "開封後一個月內，密封冷藏，避光避異味。",
       "keywords": "碾茶 抹茶原料 遮光 蒸青 宇治"
@@ -14616,7 +14616,7 @@ window.TEAFaiData = (function () {
       "process": "센차를 분쇄해 가루로 만듭니다. 차광 재배를 하지 않은 잎이 원료입니다.",
       "story": "회전초밥집 등에서 흔히 내는 가루녹차로, 말차보다 저렴하고 간편해 널리 쓰입니다.",
       "flavor": "센차의 풋향과 쌉쌀함이 그대로 느껴지고, 잎 성분을 통째로 섭취합니다.",
-      "pairing": "초밥, 회. 기름진 음식의 느끼함을 씻어줍니다.",
+      "pairing": "초밥, 생선회, 기름진 생선 구이와 잘 어울립니다. 센차의 풋향과 쌉쌀함이 가루째 진하게 우러나 생선의 기름기를 씻어 주고 입안을 개운하게 정리해 줍니다. 달콤한 디저트와는 쌉쌀함이 부딪히니 식사 쪽에 곁들이세요.",
       "brewTip": "가루가 가라앉으니 마시기 전에 저어줍니다. 냉수에도 잘 풀립니다.",
       "keep": "밀봉 냉장. 가루차는 산화가 빠릅니다.",
       "keywords": "훈마츠 분말차 가루녹차 센차 초밥집"
@@ -14632,7 +14632,7 @@ window.TEAFaiData = (function () {
       "process": "Finished sencha is milled into powder; the leaf is unshaded, unlike matcha.",
       "story": "The everyday powdered tea of conveyor-belt sushi shops — cheaper and quicker than matcha.",
       "flavor": "Sencha's green, slightly bitter taste in full; the whole leaf is consumed.",
-      "pairing": "Sushi and sashimi; cuts the richness of oily fish.",
+      "pairing": "Sushi, sashimi and grilled oily fish suit it well. Sencha's green scent and bitterness brew up full-strength in powdered form, washing away the fish's oiliness and leaving the palate refreshed. Its bitterness clashes with sweet desserts, so keep it on the meal side.",
       "brewTip": "Stir before drinking, as the powder settles. It also dissolves in cold water.",
       "keep": "Sealed and refrigerated; powdered tea oxidizes fast.",
       "keywords": "Funmatsu powdered sencha green tea powder sushi"
@@ -14648,7 +14648,7 @@ window.TEAFaiData = (function () {
       "process": "把煎茶粉碎成粉，原料为未经遮光的茶叶。",
       "story": "回转寿司店常见的粉末绿茶，比抹茶便宜、方便，用途广泛。",
       "flavor": "煎茶的青香与微苦原样呈现，茶叶成分整片摄入。",
-      "pairing": "寿司、生鱼片，可解油腻。",
+      "pairing": "寿司、生鱼片和烤油性鱼都很适合。煎茶的青绿香气与苦味以粉末形态全强度冲出，洗去鱼的油腻，让口腔清爽。它的苦味与甜味甜点冲突，因此请留在正餐一侧。",
       "brewTip": "茶粉会沉淀，饮用前搅拌一下，冷水也能冲开。",
       "keep": "密封冷藏，粉茶氧化快。",
       "keywords": "粉末茶 煎茶粉 绿茶粉 寿司店"
@@ -14664,7 +14664,7 @@ window.TEAFaiData = (function () {
       "process": "把煎茶粉碎成粉，原料為未經遮光的茶葉。",
       "story": "迴轉壽司店常見的粉末綠茶，比抹茶便宜、方便，用途廣泛。",
       "flavor": "煎茶的青香與微苦原樣呈現，茶葉成分整片攝入。",
-      "pairing": "壽司、生魚片，可解油膩。",
+      "pairing": "壽司、生魚片和油脂豐富的烤魚都很合適。煎茶的綠香與苦味以粉末形式完整沖泡出來,能洗去魚的油膩,讓味蕾清爽。它的苦味與甜的甜點衝突,因此請留在正餐一側。",
       "brewTip": "茶粉會沉澱，飲用前攪拌一下，冷水也能沖開。",
       "keep": "密封冷藏，粉茶氧化快。",
       "keywords": "粉末茶 煎茶粉 綠茶粉 壽司店"
@@ -14732,7 +14732,7 @@ window.TEAFaiData = (function () {
       "process": "제다 과정에서 떨어져 나온 싹과 작은 잎 조각을 모아 만듭니다.",
       "story": "초밥집에서 내는 진한 차 '아가리'로 유명합니다. 티백 원료로도 많이 쓰입니다.",
       "flavor": "색이 짙고 맛이 강하며 쌉쌀한 여운. 빨리 진하게 우러납니다.",
-      "pairing": "초밥, 회. 기름진 생선의 비린 맛을 잡아줍니다.",
+      "pairing": "초밥, 생선회, 방어·참치 같은 기름진 생선과 잘 어울립니다. 빨리 진하게 우러나는 강한 맛과 쌉쌀한 여운이 기름진 생선의 비린 맛을 잡아 주고 입안을 씻어 냅니다. 섬세한 흰살생선회와는 차의 강함이 앞설 수 있습니다.",
       "brewTip": "짧게 우리는 것이 핵심. 오래 두면 지나치게 씁니다.",
       "keep": "개봉 후 한 달 안, 밀봉 냉장.",
       "keywords": "코나차 아가리 초밥집 부스러기 티백"
@@ -14748,7 +14748,7 @@ window.TEAFaiData = (function () {
       "process": "Buds and small leaf fragments sifted out during tea making are collected and finished.",
       "story": "Known as the strong 'agari' poured in sushi shops, and a common tea-bag material.",
       "flavor": "Dark color, strong taste, a bitter edge; brews up quickly and boldly.",
-      "pairing": "Sushi and sashimi; cuts the oiliness of fatty fish.",
+      "pairing": "Sushi, sashimi and oily fish such as yellowtail and tuna suit it well. Its strong, fast-brewing taste and bitter finish catch the fishiness of oily fish and rinse the palate. Beside delicate white-fish sashimi, the tea's strength can take the lead.",
       "brewTip": "Keep it short — left too long it turns harshly bitter.",
       "keep": "Within a month of opening, sealed and refrigerated.",
       "keywords": "Konacha agari sushi tea fragments tea bag"
@@ -14764,7 +14764,7 @@ window.TEAFaiData = (function () {
       "process": "收集制茶时掉落的芽头与小叶碎片制成。",
       "story": "是寿司店里所供浓茶'上がり'的原料，也常用作茶包原料。",
       "flavor": "汤色深、味道浓、略带苦涩，出汤快而浓烈。",
-      "pairing": "寿司、生鱼片，可去油腻鱼腥。",
+      "pairing": "寿司、生鱼片和油性鱼如鲣鱼、金枪鱼都很适合。它强烈、快速冲泡的滋味与苦涩收尾能抓住油性鱼的腥气并漱清口腔。在精致白肉鱼生鱼片旁，茶的力度可能占上风。",
       "brewTip": "关键在短泡，久浸会过苦。",
       "keep": "开封后一个月内，密封冷藏。",
       "keywords": "粉茶 寿司店 碎叶 茶包"
@@ -14780,7 +14780,7 @@ window.TEAFaiData = (function () {
       "process": "收集製茶時掉落的芽頭與小葉碎片製成。",
       "story": "是壽司店裡所供濃茶「上がり」的原料，也常用作茶包原料。",
       "flavor": "湯色深、味道濃、略帶苦澀，出湯快而濃烈。",
-      "pairing": "壽司、生魚片，可去油膩魚腥。",
+      "pairing": "壽司、生魚片和油脂豐富的魚如鰤魚、鮪魚都很合適。強勁、沖泡快速的味道與苦味尾韻能接住肥魚的腥味並洗淨口腔。在精緻的白肉魚生魚片旁,茶的強勁可能佔上風。",
       "brewTip": "關鍵在短泡，久浸會過苦。",
       "keep": "開封後一個月內，密封冷藏。",
       "keywords": "粉茶 壽司店 碎葉 茶包"
@@ -14847,7 +14847,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 건조. 여린 싹과 첫 잎을 따서 시들린 뒤 그대로 말립니다.",
       "story": "다즐링은 홍차로 유명하지만, 중국종·클로널 품종의 어린 싹으로 소량의 백차도 만듭니다.",
       "flavor": "은은한 꽃향과 다즐링 특유의 머스캣 뉘앙스, 가볍고 맑은 단맛.",
-      "pairing": "담백한 디저트, 과일. 단독으로 마시기 좋습니다.",
+      "pairing": "담백한 디저트, 신선한 과일, 가벼운 샌드위치와 어울립니다. 은은한 꽃 향과 다즐링 특유의 머스캣 뉘앙스는 조용한 음식 옆에서 또렷해지고, 가볍고 맑은 단맛이 과일의 상큼함과 겹칩니다. 양념 강한 요리는 섬세한 향을 덮으니 혼자 즐기는 편이 좋습니다.",
       "brewTip": "두 가지 방식 모두 좋습니다. ① 2.5g을 80~90도에 2~4분 길게, ② 5g을 넣고 짧게 여러 번. 제품 설명서가 있으면 그 방법을 우선합니다.",
       "keep": "밀봉해 서늘하고 건조한 곳에. 백차는 향 흡수가 빠릅니다.",
       "keywords": "다즐링 화이트 백차 인도 머스캣 고산"
@@ -14863,7 +14863,7 @@ window.TEAFaiData = (function () {
       "process": "Withering and drying only; tender buds and first leaves are picked, withered and dried with minimal handling.",
       "story": "Darjeeling is famed for black tea, but small lots of white tea are also made from the young buds of China and clonal cultivars.",
       "flavor": "Soft florals, Darjeeling's muscatel note, a light and clean sweetness.",
-      "pairing": "Plain desserts and fruit; best enjoyed on its own.",
+      "pairing": "Plain desserts, fresh fruit and light sandwiches suit it. Its soft florals and Darjeeling's muscatel nuance show clearly beside quiet food, and the light, clean sweetness layers well with fruit's brightness. Strongly seasoned dishes cover its delicate aroma, so it is best enjoyed on its own.",
       "brewTip": "Either way works: 2.5 g steeped long at 80–90 °C for 2–4 minutes, or 5 g in short repeated steeps. If the maker gives instructions, follow those first.",
       "keep": "Sealed, cool and dry; white tea picks up odors quickly.",
       "keywords": "Darjeeling white tea India muscatel high mountain"
@@ -14879,7 +14879,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 干燥。采摘嫩芽与初叶，萎凋后直接干燥。",
       "story": "大吉岭以红茶闻名，也用中国种与无性系品种的嫩芽少量制作白茶。",
       "flavor": "淡淡花香与大吉岭特有的麝香葡萄气息，滋味轻盈清甜。",
-      "pairing": "清淡甜点、水果。适合单独品饮。",
+      "pairing": "原味甜点、新鲜水果和轻食三明治都很适合。它柔和的花香与大吉岭的麝香葡萄韵味在安静食物旁清晰呈现，轻盈干净的甘甜与水果的明亮很好地叠加。调味浓重的菜肴会盖住它细腻的香气，因此最适合单独享用。",
       "brewTip": "两种方式皆可：2.5克在80~90度泡2~4分钟，或5克短泡多次。有说明书时优先照说明书。",
       "keep": "密封置于阴凉干燥处，白茶容易吸味。",
       "keywords": "大吉岭白茶 印度 麝香葡萄 高山"
@@ -14895,7 +14895,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 乾燥。採摘嫩芽與初葉，萎凋後直接乾燥。",
       "story": "大吉嶺以紅茶聞名，也用中國種與無性系品種的嫩芽少量製作白茶。",
       "flavor": "淡淡花香與大吉嶺特有的麝香葡萄氣息，滋味輕盈清甜。",
-      "pairing": "清淡甜點、水果。適合單獨品飲。",
+      "pairing": "清淡甜點、新鮮水果和輕食三明治都很合適。柔和的花香與大吉嶺的麝香葡萄氣息,在安靜的食物旁清晰展現,輕盈乾淨的甜味與水果的明亮層層相疊。調味強烈的菜會蓋住它細緻的香氣,因此最適合獨自享用。",
       "brewTip": "兩種方式皆可：2.5克在80~90度泡2~4分鐘，或5克短泡多次。有說明書時優先照說明書。",
       "keep": "密封置於陰涼乾燥處，白茶容易吸味。",
       "keywords": "大吉嶺白茶 印度 麝香葡萄 高山"
@@ -14964,7 +14964,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념(천으로 싸서 둥글게) → 건조.",
       "story": "아리산·리산·대우령·삼림계와 함께 대만 고산차의 주요 산지로 꼽힙니다. 고도가 높고 일교차가 커서 늦게 알려졌지만, 향이 맑다는 평을 받습니다.",
       "flavor": "고산 특유의 맑은 꽃향과 크림 같은 부드러움, 시원한 단맛. 물색은 밝은 황록색입니다.",
-      "pairing": "가벼운 디저트, 과일. 진한 양념 음식과는 부딪힙니다.",
+      "pairing": "가벼운 디저트와 신선한 과일, 담백한 떡과 잘 어울립니다. 고산 특유의 맑은 꽃향과 크림 같은 부드러움, 시원한 단맛은 담백한 음식 곁에서 가장 또렷합니다. 진한 양념 음식과는 부딪히니 곁들이지 않는 편이 좋습니다.",
       "brewTip": "95도. 잎이 완전히 풀린 뒤부터 시간을 세면 향이 안정됩니다.",
       "keep": "개봉 후 2~3개월 안, 밀봉해 서늘하고 건조하게.",
       "keywords": "기래산 고산우롱 대만 고산차 화롄"
@@ -14980,7 +14980,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → cloth-ball rolling → drying.",
       "story": "Counted with Alishan, Lishan, Dayuling and Shanlinxi among Taiwan's high-mountain tea areas; its altitude kept it less known for longer.",
       "flavor": "Clear floral aroma, a creamy softness and cool sweetness. Bright yellow-green liquor.",
-      "pairing": "Light desserts and fruit. Heavy seasoning clashes.",
+      "pairing": "It pairs well with light desserts, fresh fruit and plain rice cakes. Its clear high-mountain florals, creamy softness and cool sweetness show best beside plain food. Heavy seasoning clashes, so it is better kept apart.",
       "brewTip": "95 °C. Start timing once the leaves have opened.",
       "keep": "Sealed, cool and dry; best within 2–3 months of opening.",
       "keywords": "Qilai high mountain oolong Taiwan gaoshan Hualien"
@@ -14996,7 +14996,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 布球揉捻 → 干燥。",
       "story": "与阿里山、梨山、大禹岭、杉林溪并列为台湾高山茶产区，因海拔高而较晚为人所知。",
       "flavor": "高山特有的清扬花香与奶油般的柔顺，带清凉的甜。汤色黄绿明亮。",
-      "pairing": "清淡甜点、水果。浓重调味相冲。",
+      "pairing": "与清淡甜点、新鲜水果和原味年糕都很搭配。它清澈的高山花香、奶油般柔和与清凉甘甜在朴素食物旁表现最佳。浓重调味相冲突，因此最好分开享用。",
       "brewTip": "95度，叶片完全展开后再计时，香气更稳定。",
       "keep": "开封后2~3个月内，密封置于阴凉干燥处。",
       "keywords": "奇莱山 高山乌龙 台湾 花莲"
@@ -15012,7 +15012,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 布球揉捻 → 乾燥。",
       "story": "與阿里山、梨山、大禹嶺、杉林溪並列為台灣高山茶產區，因海拔高而較晚為人所知。",
       "flavor": "高山特有的清揚花香與奶油般的柔順，帶清涼的甜。湯色黃綠明亮。",
-      "pairing": "清淡甜點、水果。濃重調味相衝。",
+      "pairing": "很適合搭配清淡甜點、新鮮水果和原味米糕。它清澈的高山花香、奶油般的柔順與清涼甜味,在清淡食物旁表現最佳。濃重調味會衝突,因此最好分開享用。",
       "brewTip": "95度，葉片完全展開後再計時，香氣更穩定。",
       "keep": "開封後2~3個月內，密封置於陰涼乾燥處。",
       "keywords": "奇萊山 高山烏龍 台灣 花蓮"
@@ -15081,7 +15081,7 @@ window.TEAFaiData = (function () {
       "process": "채엽(벌레 물린 잎) → 위조 → 요청·발효 → 살청 → 구형 유념 → 건조.",
       "story": "동방미인과 향이 생기는 원리는 같지만, 동방미인이 줄기째 늘어진 잎(조형)인 데 비해 밀향오룡은 잎을 둥글게 말아 만듭니다. 농약을 쓰지 않는 차밭에서 여름에 만듭니다.",
       "flavor": "꿀과 잘 익은 복숭아, 꽃향. 단맛이 길게 남고 물색은 밝은 호박색입니다.",
-      "pairing": "마들렌, 카스텔라 같은 담백한 구움과자.",
+      "pairing": "마들렌과 카스텔라 같은 담백한 구움과자, 버터 쿠키와 잘 어울립니다. 꿀과 잘 익은 복숭아의 단맛이 구움과자의 버터 향과 겹치고, 길게 남는 단맛이 한입마다 부드럽게 이어집니다. 초콜릿을 입힌 진한 과자는 꿀 향을 덮어 버립니다.",
       "brewTip": "90도. 첫 포를 짧게 하면 향이, 길게 하면 단맛이 도드라집니다.",
       "keep": "개봉 후 2개월 안, 밀봉해 건조하게. 향이 빠지기 쉬운 차입니다.",
       "keywords": "밀향오룡 꿀향 우롱 대만 소록엽선"
@@ -15097,7 +15097,7 @@ window.TEAFaiData = (function () {
       "process": "Bitten leaf → withering → bruising and oxidation → firing → ball rolling → drying.",
       "story": "The honey scent arises the same way as in Oriental Beauty, but where Beauty keeps a loose strip shape, this tea is rolled into balls. It can only be made in unsprayed gardens in summer.",
       "flavor": "Honey, ripe peach and flowers; a long sweetness and bright amber liquor.",
-      "pairing": "Plain baked goods such as madeleines and castella.",
+      "pairing": "It pairs well with plain baked goods such as madeleines and castella, and with butter cookies. The sweetness of honey and ripe peach overlaps with the baked goods' butteriness, and the long sweetness carries softly from bite to bite. Chocolate-coated rich cakes will cover the honey note.",
       "brewTip": "90 °C. A shorter first steep favors aroma, a longer one sweetness.",
       "keep": "Sealed and dry; best within two months of opening, as the scent fades.",
       "keywords": "honey-scented oolong Taiwan leafhopper mixiang"
@@ -15113,7 +15113,7 @@ window.TEAFaiData = (function () {
       "process": "采摘被咬的叶 → 萎凋 → 摇青发酵 → 杀青 → 球形揉捻 → 干燥。",
       "story": "香气来源与东方美人相同，但东方美人是条索形，蜜香乌龙则揉成球形。只能在不喷农药的茶园、夏季制作。",
       "flavor": "蜂蜜、熟桃与花香，甜味悠长，汤色明亮琥珀。",
-      "pairing": "玛德琳、长崎蛋糕等清淡烤点。",
+      "pairing": "与玛德琳、卡斯特拉等原味烘焙点心和黄油饼干都很搭配。蜂蜜与熟桃的甘甜与烘焙点心的黄油感重叠，悠长的甘甜从一口到一口柔和延续。裹巧克力的浓郁蛋糕会盖住蜜香。",
       "brewTip": "90度。第一泡短则香显，长则甜显。",
       "keep": "开封后两个月内，密封干燥保存，香气易散。",
       "keywords": "蜜香乌龙 台湾 小绿叶蝉 蜂蜜香"
@@ -15129,7 +15129,7 @@ window.TEAFaiData = (function () {
       "process": "採摘被咬的葉 → 萎凋 → 搖菁發酵 → 殺菁 → 球形揉捻 → 乾燥。",
       "story": "香氣來源與東方美人相同，但東方美人是條索形，蜜香烏龍則揉成球形。只能在不噴農藥的茶園、夏季製作。",
       "flavor": "蜂蜜、熟桃與花香，甜味悠長，湯色明亮琥珀。",
-      "pairing": "瑪德琳、長崎蛋糕等清淡烤點。",
+      "pairing": "很適合搭配瑪德蓮、長崎蛋糕等原味烘焙點心,以及奶油餅乾。蜂蜜與熟桃的甜味與烘焙點心的奶油感重疊,悠長的甜味在一口與一口之間柔和延續。裹巧克力的濃郁蛋糕會蓋住蜂蜜香。",
       "brewTip": "90度。第一泡短則香顯，長則甜顯。",
       "keep": "開封後兩個月內，密封乾燥保存，香氣易散。",
       "keywords": "蜜香烏龍 台灣 小綠葉蟬 蜂蜜香"
@@ -15198,7 +15198,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 장시간 발효 → 살청 → 구형 유념 → 건조.",
       "story": "2000년대 타이둥 루예에서, 여름철 찻잎의 판로를 넓히려고 개발된 비교적 새로운 제법입니다. 전통 방식의 홍수우롱과 이름이 비슷하지만, 홍오룡은 산화도를 처음부터 홍차 가까이 높여 설계한 별개의 차입니다.",
       "flavor": "잘 익은 과일과 꿀, 볶은 곡물의 단맛. 떫은맛이 적고 물색은 붉은 호박색입니다.",
-      "pairing": "치즈케이크, 건과일, 견과류.",
+      "pairing": "치즈케이크와 건과일, 구운 견과류와 잘 어울립니다. 잘 익은 과일과 꿀, 볶은 곡물의 단맛이 치즈케이크의 진한 맛을 받쳐 주고, 떫은맛이 적어 디저트와도 부드럽게 이어집니다. 신맛이 강한 베리 소스와는 단맛의 결이 어긋납니다.",
       "brewTip": "95도. 차갑게 식혀도 단맛이 무너지지 않아 냉침에도 좋습니다.",
       "keep": "개봉 후 3개월 안, 밀봉해 서늘하게.",
       "keywords": "홍오룡 레드 우롱 타이둥 루예 고발효"
@@ -15214,7 +15214,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → long oxidation → firing → ball rolling → drying.",
       "story": "Developed in Luye in the 2000s to find a use for summer leaf. Despite the similar name, it is distinct from the traditional Hongshui oolong: Red Oolong is designed from the start for near-black-tea oxidation.",
       "flavor": "Ripe fruit, honey and roasted grain; little astringency, red-amber liquor.",
-      "pairing": "Cheesecake, dried fruit, nuts.",
+      "pairing": "It pairs well with cheesecake, dried fruit and roasted nuts. The sweetness of ripe fruit, honey and roasted grain supports the cheesecake's richness, and the low astringency lets it flow gently with desserts. A sharply sour berry sauce pulls its sweetness in another direction.",
       "brewTip": "95 °C. The sweetness holds up cold, so it suits cold brewing.",
       "keep": "Sealed and cool; best within three months of opening.",
       "keywords": "red oolong Taitung Luye high oxidation"
@@ -15230,7 +15230,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 长时间发酵 → 杀青 → 球形揉捻 → 干燥。",
       "story": "2000年代在台东鹿野开发的新工艺，为的是消化夏季茶叶。与传统制法的红水乌龙名字相近，但红乌龙是从一开始就按接近红茶的发酵度设计的另一种茶。",
       "flavor": "熟果、蜂蜜与焙谷的甜，涩感低，汤色红琥珀。",
-      "pairing": "芝士蛋糕、果干、坚果。",
+      "pairing": "与芝士蛋糕、干果和烤坚果都很搭配。熟果、蜂蜜与烤谷物的甘甜支撑芝士蛋糕的丰润，低涩感让它与甜点温和流动。尖锐酸味的浆果酱会把它的甘甜拉向另一个方向。",
       "brewTip": "95度。放凉后甜味不散，也适合冷泡。",
       "keep": "开封后三个月内，密封阴凉保存。",
       "keywords": "红乌龙 台东 鹿野 高发酵"
@@ -15246,7 +15246,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 長時間發酵 → 殺菁 → 球形揉捻 → 乾燥。",
       "story": "2000年代在台東鹿野開發的新工藝，為的是消化夏季茶葉。與傳統製法的紅水烏龍名字相近，但紅烏龍是從一開始就按接近紅茶的發酵度設計的另一種茶。",
       "flavor": "熟果、蜂蜜與焙穀的甜，澀感低，湯色紅琥珀。",
-      "pairing": "起司蛋糕、果乾、堅果。",
+      "pairing": "很適合搭配起司蛋糕、果乾和烘烤堅果。熟果、蜂蜜與烘烤穀物的甜味支撐起司蛋糕的豐潤,低澀感讓它能溫和地與甜點相伴。酸味尖銳的莓果醬會把它的甜味拉向另一個方向。",
       "brewTip": "95度。放涼後甜味不散，也適合冷泡。",
       "keep": "開封後三個月內，密封陰涼保存。",
       "keywords": "紅烏龍 台東 鹿野 高發酵"
@@ -15314,7 +15314,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "무이산에서 선발된 품종으로, 난초(蘭) 같은 향이 난다고 해서 기란(奇蘭)이라 불립니다. 품종이 튼튼해 민남의 안계 일대에도 퍼져, 암차식과 청향식 양쪽으로 만들어집니다.",
       "flavor": "난초와 허브의 맑은 향, 가벼운 배화향과 단맛. 물색은 밝은 황색입니다.",
-      "pairing": "해산물, 담백한 딤섬.",
+      "pairing": "새우·조개 같은 해산물과 담백한 딤섬, 데친 채소와 잘 어울립니다. 난초와 허브의 맑은 향이 해산물의 담백함을 살려 주고, 가벼운 배화향과 단맛이 간이 약한 음식과도 조용히 어울립니다. 매운 양념의 해산물 요리는 맑은 향을 가려 버립니다.",
       "brewTip": "98도. 첫 포는 향, 세 번째 포부터는 단맛을 봅니다.",
       "keep": "개봉 후 3개월 안, 밀봉해 건조하게.",
       "keywords": "기란 무이암차 난초향 푸젠"
@@ -15330,7 +15330,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → roasting.",
       "story": "A cultivar selected in the Wuyi Mountains, named Qilan for its orchid-like scent. Being hardy, it spread to Anxi in southern Fujian and is made in both rock-tea and greener styles.",
       "flavor": "Clean orchid and herb notes over light roast and sweetness. Bright yellow liquor.",
-      "pairing": "Seafood and light dim sum.",
+      "pairing": "It pairs well with seafood such as shrimp and shellfish, light dim sum and blanched vegetables. The clean orchid and herb notes bring out the seafood's delicacy, and the light roast and sweetness sit quietly with mildly seasoned food. Spicy seafood dishes will mask its clear aroma.",
       "brewTip": "98 °C. Read the first steep for aroma, later ones for sweetness.",
       "keep": "Sealed and dry; best within three months of opening.",
       "keywords": "Qilan Wuyi rock tea orchid Fujian"
@@ -15346,7 +15346,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 焙火。",
       "story": "选育自武夷山的品种，因有兰花香而得名奇兰。品种适应性强，也传入闽南安溪一带，岩茶式与清香式两种做法都有。",
       "flavor": "兰花与草本的清香，轻焙火与回甘。汤色明黄。",
-      "pairing": "海鲜、清淡点心。",
+      "pairing": "与虾、贝类等海鲜、清淡点心和焯蔬菜都很搭配。干净的兰花与草本气息衬托海鲜的精致，轻微焙香与甘甜安静地陪伴清淡调味食物。辛辣海鲜菜肴会掩盖它清澈的香气。",
       "brewTip": "98度。第一泡看香，第三泡起看甜。",
       "keep": "开封后三个月内，密封干燥保存。",
       "keywords": "奇兰 武夷岩茶 兰花香 福建"
@@ -15362,7 +15362,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 焙火。",
       "story": "選育自武夷山的品種，因有蘭花香而得名奇蘭。品種適應性強，也傳入閩南安溪一帶，岩茶式與清香式兩種做法都有。",
       "flavor": "蘭花與草本的清香，輕焙火與回甘。湯色明黃。",
-      "pairing": "海鮮、清淡點心。",
+      "pairing": "很適合搭配蝦子、貝類等海鮮、清淡點心和水燙蔬菜。乾淨的蘭花與草本香能帶出海鮮的細緻,輕微的烘烤與甜味安靜地陪伴清淡調味的食物。辛辣的海鮮料理會掩蓋它清澈的香氣。",
       "brewTip": "98度。第一泡看香，第三泡起看甜。",
       "keep": "開封後三個月內，密封乾燥保存。",
       "keywords": "奇蘭 武夷岩茶 蘭花香 福建"
@@ -15430,7 +15430,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "푸젠에서 오래 재배해 온 품종으로, 꽃향이 매화를 닮았다고 해서 매점(梅占)이라 불린다고 전합니다. 무이산에서는 암차로, 안계에서는 민남 우롱으로 만들며, 홍차와 녹차로 가공되기도 합니다.",
       "flavor": "매화 같은 꽃향과 가벼운 과일향, 부드러운 단맛. 물색은 황금빛입니다.",
-      "pairing": "담백한 볶음 요리, 두부 요리.",
+      "pairing": "담백한 볶음 요리와 두부 요리, 찐 생선과 잘 어울립니다. 매화 같은 꽃향과 부드러운 단맛이 간이 순한 음식의 맛을 해치지 않고, 황금빛 물색처럼 인상도 온화합니다. 진한 된장 양념과는 부드러운 꽃향이 묻히기 쉽습니다.",
       "brewTip": "95도. 배화가 약한 제품은 90도부터 시작해 보세요.",
       "keep": "개봉 후 3개월 안, 밀봉해 건조하게.",
       "keywords": "매점 푸젠 품종 매화향 무이 안계"
@@ -15446,7 +15446,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → roasting.",
       "story": "A long-grown Fujian cultivar, said to be named Meizhan for a plum-blossom-like scent. It is made as rock tea in Wuyi and as southern-Fujian oolong in Anxi, and is also processed into black and green teas.",
       "flavor": "Plum-blossom florals, light fruit and soft sweetness. Golden liquor.",
-      "pairing": "Light stir-fries and tofu dishes.",
+      "pairing": "It pairs well with light stir-fries, tofu dishes and steamed fish. The plum-blossom florals and soft sweetness never disturb mildly seasoned food, and its impression is as gentle as its golden liquor. A heavy soybean-paste seasoning can bury the soft florals.",
       "brewTip": "95 °C; for lightly roasted lots, start at 90 °C.",
       "keep": "Sealed and dry; best within three months of opening.",
       "keywords": "Meizhan Fujian cultivar plum blossom Wuyi Anxi"
@@ -15462,7 +15462,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 焙火。",
       "story": "福建栽培已久的品种，相传花香似梅花而得名梅占。在武夷山做岩茶，在安溪做闽南乌龙，也可加工成红茶、绿茶。",
       "flavor": "梅花般的花香与轻果香，柔和的甜。汤色金黄。",
-      "pairing": "清淡炒菜、豆腐菜。",
+      "pairing": "与清淡小炒、豆腐菜肴和蒸鱼都很搭配。梅花花香与柔和甘甜不会打扰清淡调味食物，印象如其金色茶汤般温和。浓重的大酱调味可能掩埋柔和的花香。",
       "brewTip": "95度。焙火轻的可以从90度试起。",
       "keep": "开封后三个月内，密封干燥保存。",
       "keywords": "梅占 福建 品种 梅花香 武夷 安溪"
@@ -15478,7 +15478,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 焙火。",
       "story": "福建栽培已久的品種，相傳花香似梅花而得名梅占。在武夷山做岩茶，在安溪做閩南烏龍，也可加工成紅茶、綠茶。",
       "flavor": "梅花般的花香與輕果香，柔和的甜。湯色金黃。",
-      "pairing": "清淡炒菜、豆腐菜。",
+      "pairing": "很適合搭配清淡炒菜、豆腐料理和清蒸魚。梅花般的花香與柔和甜味不會打擾清淡調味的食物,印象如同它金黃的茶湯一樣溫和。濃重的大醬調味可能埋沒柔和的花香。",
       "brewTip": "95度。焙火輕的可以從90度試起。",
       "keep": "開封後三個月內，密封乾燥保存。",
       "keywords": "梅占 福建 品種 梅花香 武夷 安溪"
@@ -15546,7 +15546,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "무이 4대 명총 중 하나로, 명총 가운데 가장 오래된 품종 중 하나로 꼽힙니다. 병을 고쳤다는 승려(나한)에게서 이름이 왔다는 전설이 전합니다.",
       "flavor": "약재와 광물, 볶은 곡물의 진한 향. 바디가 두껍고 단맛이 묵직하게 남습니다.",
-      "pairing": "기름진 고기 요리, 진한 양념의 중식.",
+      "pairing": "기름진 고기 요리와 진한 양념의 중식, 훈제 요리와 잘 어울립니다. 약재와 광물, 볶은 곡물의 진한 향과 두꺼운 바디가 고기의 기름기를 받아 내고, 묵직한 단맛이 식사 끝까지 남습니다. 담백한 샐러드와는 차의 힘이 지나치게 강합니다.",
       "brewTip": "98도. 포를 거듭할수록 약향이 풀리고 단맛이 올라옵니다.",
       "keep": "개봉 후 3개월 안, 밀봉해 건조하게. 배화차는 상온 보관도 무난합니다.",
       "keywords": "철라한 무이 명총 암차 약향 푸젠"
@@ -15562,7 +15562,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → roasting.",
       "story": "One of the four great Wuyi mingcong (with Da Hong Pao, Bai Ji Guan and Shui Jin Gui), and among the oldest of them. Legend ties the name to a monk — a luohan — whose illness it cured.",
       "flavor": "Medicinal herbs, minerals and roasted grain; a thick body and weighty sweetness.",
-      "pairing": "Rich meat dishes and strongly seasoned Chinese food.",
+      "pairing": "It pairs well with rich meat dishes, strongly seasoned Chinese food and smoked dishes. The deep notes of medicinal herbs, minerals and roasted grain, with a thick body, take on the meat's fat, and the weighty sweetness lasts to the end of the meal. Next to a plain salad, the tea is simply too strong.",
       "brewTip": "98 °C. The herbal note opens up and sweetness grows over the steeps.",
       "keep": "Sealed and dry; roasted tea keeps well at room temperature.",
       "keywords": "Tie Luo Han Wuyi mingcong rock tea Fujian"
@@ -15578,7 +15578,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 焙火。",
       "story": "武夷四大名丛之一，也是名丛中历史最久的品种之一。相传因治好一位僧人（罗汉）的病而得名。",
       "flavor": "药材、矿物与焙谷的浓香，汤感厚重，回甘沉稳。",
-      "pairing": "油腻肉菜、浓味中餐。",
+      "pairing": "与丰盛肉类菜肴、调味浓重的中餐和烟熏菜肴都很搭配。草药、矿物与烤谷物的深厚气息加上厚实体感，能承接肉的油脂，沉甸甸的甘甜持续到餐末。在原味沙拉旁，茶实在太强。",
       "brewTip": "98度。泡数越多，药香越舒展，甜味越明显。",
       "keep": "开封后三个月内，密封干燥保存。",
       "keywords": "铁罗汉 武夷 名丛 岩茶 药香"
@@ -15594,7 +15594,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 焙火。",
       "story": "武夷四大名欉之一，也是名欉中歷史最久的品種之一。相傳因治好一位僧人（羅漢）的病而得名。",
       "flavor": "藥材、礦物與焙穀的濃香，湯感厚重，回甘沉穩。",
-      "pairing": "油膩肉菜、濃味中餐。",
+      "pairing": "很適合搭配豐盛的肉類料理、調味濃烈的中菜和煙燻料理。藥草、礦物與烘烤穀物的深沉香氣加上厚實茶體,能承接肉的油脂,沉穩的甜味持續到餐末。在原味沙拉旁,這款茶就是太強了。",
       "brewTip": "98度。泡數越多，藥香越舒展，甜味越明顯。",
       "keep": "開封後三個月內，密封乾燥保存。",
       "keywords": "鐵羅漢 武夷 名欉 岩茶 藥香"
@@ -15662,7 +15662,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 약한 배화.",
       "story": "무이 4대 명총 중 하나입니다. 새싹이 연한 황백색이라 짙은 녹색의 다른 차나무들 사이에서 유난히 눈에 띄고, 그 모습이 흰 볏(雞冠)을 닮았다고 이름 붙었다고 전합니다.",
       "flavor": "가볍고 맑은 꽃향과 은은한 약향, 시원한 단맛. 물색은 다른 암차보다 밝은 황색입니다.",
-      "pairing": "담백한 생선 요리, 샐러드.",
+      "pairing": "담백한 생선 요리와 샐러드, 찐 채소와 잘 어울립니다. 가볍고 맑은 꽃향과 은은한 약향, 시원한 단맛이 재료 본연의 맛을 살려 주고, 암차 가운데 가장 밝은 인상이 가벼운 식사와 어울립니다. 훈제처럼 향이 강한 음식은 이 맑은 향을 덮습니다.",
       "brewTip": "95도. 배화가 약하니 오래 우리면 향이 무너집니다. 짧게 여러 번이 좋습니다.",
       "keep": "개봉 후 2~3개월 안, 밀봉해 건조하게.",
       "keywords": "백계관 무이 명총 암차 황백색 새싹"
@@ -15678,7 +15678,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → light roasting.",
       "story": "One of the four great Wuyi mingcong. Its buds flush pale yellow-white, standing out among dark-green bushes; the name — white cockscomb — is said to come from that look.",
       "flavor": "Light, clear florals with a faint herbal note and cool sweetness. A paler yellow liquor than other rock teas.",
-      "pairing": "Plain fish dishes and salads.",
+      "pairing": "It pairs well with plain fish dishes, salads and steamed vegetables. The light, clear florals, faint herbal note and cool sweetness bring out the ingredients' own flavors, and the brightest impression among rock teas suits a light meal. Strongly flavored food like smoked dishes covers that clear aroma.",
       "brewTip": "95 °C. The roast is light, so long steeps break the aroma; keep them short and many.",
       "keep": "Sealed and dry; best within 2–3 months of opening.",
       "keywords": "Bai Ji Guan Wuyi mingcong rock tea pale buds"
@@ -15694,7 +15694,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "武夷四大名丛之一。芽叶呈淡黄白色，在深绿的茶丛中格外显眼，相传因形似白色鸡冠而得名。",
       "flavor": "清淡的花香与淡淡的药香，清凉的甜。汤色比其他岩茶更浅黄。",
-      "pairing": "清淡鱼菜、沙拉。",
+      "pairing": "与原味鱼类菜肴、沙拉和蒸蔬菜都很搭配。轻盈清澈的花香、淡淡草本气息与清凉甘甜衬托食材本身的滋味，作为岩茶中最明亮的印象适合清淡一餐。烟熏菜肴等浓重风味会盖住那份清澈香气。",
       "brewTip": "95度。焙火轻，久泡香气会散，宜短泡多泡。",
       "keep": "开封后2~3个月内，密封干燥保存。",
       "keywords": "白鸡冠 武夷 名丛 岩茶 黄白芽"
@@ -15710,7 +15710,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "武夷四大名欉之一。芽葉呈淡黃白色，在深綠的茶叢中格外顯眼，相傳因形似白色雞冠而得名。",
       "flavor": "清淡的花香與淡淡的藥香，清涼的甜。湯色比其他岩茶更淺黃。",
-      "pairing": "清淡魚菜、沙拉。",
+      "pairing": "很適合搭配原味魚類料理、沙拉和清蒸蔬菜。輕盈清澈的花香、淡淡的藥草氣息與清涼甜味能帶出食材本身的味道,是岩茶中最明亮的印象,適合清淡的一餐。煙燻料理等味道濃烈的食物會蓋住這份清澈的香氣。",
       "brewTip": "95度。焙火輕，久泡香氣會散，宜短泡多泡。",
       "keep": "開封後2~3個月內，密封乾燥保存。",
       "keywords": "白雞冠 武夷 名欉 岩茶 黃白芽"
@@ -15778,7 +15778,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "무이 4대 명총 중 하나입니다. 큰비에 차나무가 골짜기로 떠내려갔는데, 그 잎 무늬가 거북 등껍질 같았다는 전설에서 수금귀(水金龜)라는 이름이 붙었다고 전합니다.",
       "flavor": "부드러운 꽃향과 배화향, 둥글고 단 맛. 명총 가운데 가장 온화한 인상입니다.",
-      "pairing": "볶음 요리, 구운 고기.",
+      "pairing": "볶음 요리와 구운 고기, 구운 채소와 잘 어울립니다. 부드러운 꽃향과 배화향, 둥근 단맛이 볶음 요리의 고소함을 받쳐 주고, 명총 가운데 가장 온화해 다양한 식사에 무난합니다. 아주 매운 양념과는 둥근 단맛의 균형이 깨지기 쉽습니다.",
       "brewTip": "98도. 중반 포에서 단맛이 가장 둥글게 나옵니다.",
       "keep": "개봉 후 3개월 안, 밀봉해 건조하게.",
       "keywords": "수금귀 무이 명총 암차 거북 전설"
@@ -15794,7 +15794,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → roasting.",
       "story": "One of the four great Wuyi mingcong. Legend says a flood washed a tea bush down the valley, and its leaves — patterned like a tortoise shell — gave Shui Jin Gui, the 'golden water tortoise', its name.",
       "flavor": "Soft florals and roast over a round sweetness; the mildest impression among the mingcong.",
-      "pairing": "Stir-fries and grilled meats.",
+      "pairing": "It pairs well with stir-fries, grilled meats and roasted vegetables. The soft florals, roast note and round sweetness support the stir-fry's savoriness, and as the mildest of the mingcong it fits many meals without fuss. Very spicy seasoning can break its round sweet balance.",
       "brewTip": "98 °C. The middle steeps show the roundest sweetness.",
       "keep": "Sealed and dry; best within three months of opening.",
       "keywords": "Shui Jin Gui Wuyi mingcong rock tea tortoise"
@@ -15810,7 +15810,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 焙火。",
       "story": "武夷四大名丛之一。相传大雨把茶树冲到谷中，其叶纹像龟背，因而得名水金龟。",
       "flavor": "柔和的花香与焙火香，滋味圆润甘甜，是名丛中最温和的一款。",
-      "pairing": "炒菜、烤肉。",
+      "pairing": "与炒菜、烤肉和烤蔬菜都很搭配。柔和的花香、焙香与圆润甘甜支撑炒菜的咸鲜，作为名枞中最温和的一款，能毫不费力地适配许多餐食。非常辛辣的调味可能打破它圆润的甜味平衡。",
       "brewTip": "98度。中间几泡甜味最圆润。",
       "keep": "开封后三个月内，密封干燥保存。",
       "keywords": "水金龟 武夷 名丛 岩茶 龟背"
@@ -15826,7 +15826,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 焙火。",
       "story": "武夷四大名欉之一。相傳大雨把茶樹沖到谷中，其葉紋像龜背，因而得名水金龜。",
       "flavor": "柔和的花香與焙火香，滋味圓潤甘甜，是名欉中最溫和的一款。",
-      "pairing": "炒菜、烤肉。",
+      "pairing": "很適合搭配炒菜、烤肉和烤蔬菜。柔和的花香、烘烤香與圓潤甜味支撐炒菜的鮮鹹,作為名叢中最溫和的一款,能毫不費力地搭配許多餐食。非常辛辣的調味可能打破它圓潤的甜味平衡。",
       "brewTip": "98度。中間幾泡甜味最圓潤。",
       "keep": "開封後三個月內，密封乾燥保存。",
       "keywords": "水金龜 武夷 名欉 岩茶 龜背"
@@ -15894,7 +15894,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "무이 5대 명총 중 하나입니다. 이름에는 솔개(鹞)가 절벽에 씨앗을 떨어뜨렸다는 전설이 얽혀 있고, '腰'는 '鹞'의 오기(誤記)로 전합니다. 채엽 자체가 어려웠던 절벽의 차로 전합니다.",
       "flavor": "뚜렷한 광물감(암운)과 배화향, 진한 단맛. 여운이 길게 남습니다.",
-      "pairing": "훈제 요리, 진한 소스의 고기 요리.",
+      "pairing": "훈제 요리와 진한 소스의 고기 요리, 양꼬치와 잘 어울립니다. 뚜렷한 광물감과 배화향이 훈연 향과 겹치고, 진한 단맛과 긴 여운이 소스의 진한 맛에도 밀리지 않습니다. 맑은 해산물 요리와는 바디가 너무 무겁게 느껴집니다.",
       "brewTip": "98도. 포가 쌓일수록 광물감이 또렷해지니 5포 이후도 버리지 마세요.",
       "keep": "개봉 후 3개월 안, 밀봉해 건조하게.",
       "keywords": "반천요 무이 명총 암차 암운 절벽"
@@ -15910,7 +15910,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying → roasting.",
       "story": "One of the five great Wuyi mingcong. The name is tied to a legend of a kite dropping a seed onto the cliff; the 'waist' character is a later miswriting of 'kite' — leaf that was hard even to pick.",
       "flavor": "Clear minerality (rock rhyme), roast and a deep sweetness with a long finish.",
-      "pairing": "Smoked dishes and richly sauced meats.",
+      "pairing": "It pairs well with smoked dishes, richly sauced meats and lamb skewers. The clear minerality and roast overlap with smoky flavors, and the deep sweetness and long finish hold up against heavy sauces. Next to clear seafood dishes, its body feels too heavy.",
       "brewTip": "98 °C. The minerality sharpens with later steeps; don't stop before the fifth.",
       "keep": "Sealed and dry; best within three months of opening.",
       "keywords": "Ban Tian Yao Wuyi mingcong rock tea cliff"
@@ -15926,7 +15926,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥 → 焙火。",
       "story": "武夷五大名丛之一。名字源于鹞子把种子落在悬崖的传说，“腰”为“鹞”的误写，相传采摘本身就十分不易。",
       "flavor": "分明的矿物感（岩韵）与焙火香，甜味浓，余韵长。",
-      "pairing": "烟熏菜、浓汁肉菜。",
+      "pairing": "与烟熏菜肴、浓酱肉类和羊肉串都很搭配。清澈的矿物感与焙香与烟熏味重叠，深厚的甘甜与悠长尾韵能站稳于浓重酱汁。在清澈海鲜菜肴旁，它的体感显得太厚重。",
       "brewTip": "98度。泡数越多矿物感越清晰，第五泡之后也不要倒掉。",
       "keep": "开封后三个月内，密封干燥保存。",
       "keywords": "半天腰 武夷 名丛 岩茶 岩韵"
@@ -15942,7 +15942,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥 → 焙火。",
       "story": "武夷五大名欉之一。名字源於鷂子把種子落在懸崖的傳說，「腰」為「鷂」的誤寫，相傳採摘本身就十分不易。",
       "flavor": "分明的礦物感（岩韻）與焙火香，甜味濃，餘韻長。",
-      "pairing": "煙燻菜、濃汁肉菜。",
+      "pairing": "很適合搭配煙燻料理、濃醬肉類和羊肉串。清澈的礦物感與烘烤香與煙燻味重疊,深沉的甜味與悠長尾韻能站得住濃重的醬汁。在清澈的海鮮料理旁,它的茶體顯得太厚重。",
       "brewTip": "98度。泡數越多礦物感越清晰，第五泡之後也不要倒掉。",
       "keep": "開封後三個月內，密封乾燥保存。",
       "keywords": "半天腰 武夷 名欉 岩茶 岩韻"
@@ -16010,7 +16010,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 사각형 압축 → 종이 포장 → 건조.",
       "story": "수선 품종을 쓰지만, 늘어진 잎으로 만드는 무이수선과 달리 장평에서는 잎을 사각형 떡 모양으로 압축해 종이에 싸서 만듭니다. 우롱차 가운데 거의 유일한 압축형으로, 운반과 보관을 쉽게 하던 방식이 전통이 됐습니다.",
       "flavor": "난향과 청량한 풀 향, 맑은 단맛. 물색은 밝은 황금빛입니다.",
-      "pairing": "담백한 딤섬, 볶은 채소.",
+      "pairing": "담백한 딤섬과 볶은 채소, 찐 만두와 잘 어울립니다. 난향과 청량한 풀 향, 맑은 단맛이 기름기가 적은 음식 곁에서 산뜻하게 퍼지고, 밝은 황금빛 물색처럼 뒷맛도 깨끗합니다. 진한 크림 파스타와는 맑은 향이 어울리지 않습니다.",
       "brewTip": "95도. 한 덩이를 통째로 우리거나, 반으로 나눠 양을 조절합니다.",
       "keep": "종이 포장 그대로, 밀봉해 건조하게. 압축형이라 보관에 강한 편입니다.",
       "keywords": "장평수선 압축차 수선 푸젠 떡차"
@@ -16026,7 +16026,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → pressing into square cakes → paper wrapping → drying.",
       "story": "It uses the Shuixian cultivar, but unlike the loose strips of Wuyi Shuixian, Zhangping presses the leaf into square cakes wrapped in paper — nearly the only pressed oolong. The form began for easier transport and storage and became the tradition.",
       "flavor": "Orchid and a cool green note with clear sweetness. Bright golden liquor.",
-      "pairing": "Light dim sum and stir-fried vegetables.",
+      "pairing": "It pairs well with light dim sum, stir-fried vegetables and steamed dumplings. The orchid and cool green notes and clear sweetness spread freshly beside low-fat food, and the finish is as clean as its bright golden liquor. Its clear aroma does not belong with rich cream pasta.",
       "brewTip": "95 °C. Brew a whole cake, or split one to adjust strength.",
       "keep": "Keep the paper wrap on, sealed and dry; the pressed form stores well.",
       "keywords": "Zhangping Shuixian pressed oolong Fujian cake"
@@ -16042,7 +16042,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 压成方形 → 纸包 → 干燥。",
       "story": "用的是水仙品种，但与做成条索的武夷水仙不同，漳平把茶叶压成方形茶饼再包纸，是乌龙茶中几乎唯一的压制型。起初为方便运输保存，后来成了传统。",
       "flavor": "兰花香与清凉的草香，甜味清爽。汤色明亮金黄。",
-      "pairing": "清淡点心、炒青菜。",
+      "pairing": "与清淡点心、炒蔬菜和蒸饺都很搭配。兰花、清凉青绿气息与干净甘甜在低脂食物旁新鲜舒展，收尾如其明亮金色茶汤般干净。它清澈的香气不属于浓郁奶油意面。",
       "brewTip": "95度。可以整块冲泡，也可以掰半调整分量。",
       "keep": "连纸包一起密封干燥保存，压制型较耐放。",
       "keywords": "漳平水仙 压制茶 水仙 福建 茶饼"
@@ -16058,7 +16058,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 壓成方形 → 紙包 → 乾燥。",
       "story": "用的是水仙品種，但與做成條索的武夷水仙不同，漳平把茶葉壓成方形茶餅再包紙，是烏龍茶中幾乎唯一的壓製型。起初為方便運輸保存，後來成了傳統。",
       "flavor": "蘭花香與清涼的草香，甜味清爽。湯色明亮金黃。",
-      "pairing": "清淡點心、炒青菜。",
+      "pairing": "很適合搭配清淡點心、炒時蔬和蒸餃。蘭花與清涼的綠意加上乾淨的甜味,在低脂食物旁清新散開,尾韻如同它明亮的金黃茶湯一樣乾淨。它清澈的香氣不屬於濃郁的奶油義大利麵。",
       "brewTip": "95度。可以整塊沖泡，也可以掰半調整份量。",
       "keep": "連紙包一起密封乾燥保存，壓製型較耐放。",
       "keywords": "漳平水仙 壓製茶 水仙 福建 茶餅"
@@ -16126,7 +16126,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조.",
       "story": "보이차와 전홍으로 유명한 윈난에서 대엽종 찻잎에 대만식 구형 우롱 제법을 적용해 만든 차입니다. 대엽종 특유의 진한 바디와 고산 우롱의 맑은 향을 함께 노린, 비교적 최근에 자리 잡은 스타일입니다.",
       "flavor": "진한 맥아와 꿀의 단맛 위에 꽃향. 대만 고산 우롱보다 바디가 두껍습니다.",
-      "pairing": "구운 고기, 진한 양념 요리.",
+      "pairing": "구운 고기와 진한 양념 요리, 구운 버섯과 잘 어울립니다. 진한 맥아와 꿀의 단맛 위에 얹힌 꽃향이 고기의 풍미를 받쳐 주고, 대만 고산 우롱보다 두꺼운 바디가 진한 양념에도 밀리지 않습니다. 가벼운 과일 샐러드와는 단맛이 과하게 느껴집니다.",
       "brewTip": "95도. 잎이 완전히 풀린 뒤의 포에서 바디와 향이 함께 나옵니다.",
       "keep": "개봉 후 2~3개월 안, 밀봉해 건조하게.",
       "keywords": "운남 우롱 대엽종 구형 윈난"
@@ -16142,7 +16142,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → ball rolling → drying.",
       "story": "From the home of pu'er and Dianhong, this tea applies Taiwanese ball-rolling to Yunnan large-leaf material — a relatively recent style aiming to combine the large leaf's heavy body with high-mountain oolong aroma.",
       "flavor": "Deep malt and honey sweetness under florals; a thicker body than Taiwanese gaoshan.",
-      "pairing": "Grilled meats and strongly seasoned dishes.",
+      "pairing": "It pairs well with grilled meats, strongly seasoned dishes and roasted mushrooms. The florals over deep malt and honey sweetness support the meat's flavor, and a thicker body than Taiwanese gaoshan stands up to strong seasoning. With a light fruit salad, its sweetness can feel like too much.",
       "brewTip": "95 °C. Body and aroma arrive together once the balls have fully opened.",
       "keep": "Sealed and dry; best within 2–3 months of opening.",
       "keywords": "Yunnan oolong large leaf ball rolled"
@@ -16158,7 +16158,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 球形揉捻 → 干燥。",
       "story": "在普洱与滇红的故乡云南，把台湾式球形乌龙工艺用在大叶种原料上，是较新成形的风格，意在兼得大叶种的浓厚汤感与高山乌龙的清香。",
       "flavor": "浓麦芽与蜂蜜的甜之上带花香，汤感比台湾高山乌龙更厚。",
-      "pairing": "烤肉、浓味菜。",
+      "pairing": "与烤肉、调味浓重的菜肴和烤蘑菇都很搭配。深厚麦芽与蜂蜜甘甜之上的花香支撑肉的滋味，比台湾高山茶更厚的体感能站稳于浓重调味。与清淡水果沙拉搭配时，它的甘甜可能显得过头。",
       "brewTip": "95度。球形完全展开后的几泡，汤感与香气一起出来。",
       "keep": "开封后2~3个月内，密封干燥保存。",
       "keywords": "云南乌龙 大叶种 球形 云南"
@@ -16174,7 +16174,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 球形揉捻 → 乾燥。",
       "story": "在普洱與滇紅的故鄉雲南，把台灣式球形烏龍工藝用在大葉種原料上，是較新成形的風格，意在兼得大葉種的濃厚湯感與高山烏龍的清香。",
       "flavor": "濃麥芽與蜂蜜的甜之上帶花香，湯感比台灣高山烏龍更厚。",
-      "pairing": "烤肉、濃味菜。",
+      "pairing": "很適合搭配烤肉、調味濃烈的料理和烤蘑菇。深沉麥芽與蜂蜜甜味之上的花香支撐肉的風味,比台灣高山茶更厚的茶體能站得住強烈調味。搭配清淡的水果沙拉時,它的甜味可能顯得過多。",
       "brewTip": "95度。球形完全展開後的幾泡，湯感與香氣一起出來。",
       "keep": "開封後2~3個月內，密封乾燥保存。",
       "keywords": "雲南烏龍 大葉種 球形 雲南"
@@ -16241,7 +16241,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 가벼운 유념 → 반발효 → 건조.",
       "story": "홍차로 유명한 다즐링의 일부 다원에서, 산화를 중간에서 멈춘 우롱 스타일로 소량 만드는 차입니다. 다즐링 차밭의 중국종·클로널 품종이 재료라 홍차와는 다른 결의 꽃향이 납니다.",
       "flavor": "머스캣(청포도)과 살구, 꽃향. 가볍고 맑으며 물색은 밝은 황동색입니다.",
-      "pairing": "과일 타르트, 가벼운 샌드위치.",
+      "pairing": "과일 타르트와 가벼운 샌드위치, 스콘과 잘 어울립니다. 머스캣 포도와 살구의 향이 타르트의 과일 향과 겹치고, 가볍고 맑은 몸통이 애프터눈 티 같은 가벼운 식사에 잘 맞습니다. 진한 고기 요리와는 맑은 향이 금세 묻힙니다.",
       "brewTip": "90도. 끓는 물을 그대로 쓰면 머스캣 향이 달아나니 조금 식혀 쓰세요.",
       "keep": "개봉 후 1~2개월 안, 밀봉해 서늘하게. 향이 생명인 차입니다.",
       "keywords": "다즐링 우롱 인도 반발효 머스캣"
@@ -16257,7 +16257,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → light rolling → partial oxidation → drying.",
       "story": "A small-lot style from some Darjeeling gardens famous for black tea, stopping oxidation midway. Made from the China and clonal cultivars of Darjeeling, it shows a floral register its black teas do not.",
       "flavor": "Muscatel grape, apricot and flowers; light and clear, with a bright brass-colored liquor.",
-      "pairing": "Fruit tarts and light sandwiches.",
+      "pairing": "It pairs well with fruit tarts, light sandwiches and scones. The muscatel grape and apricot notes overlap with the tart's fruit, and the light, clear body suits an afternoon-tea-style light meal. Rich meat dishes quickly bury its clear aroma.",
       "brewTip": "90 °C. Straight boiling water drives off the muscatel note; let it cool a little.",
       "keep": "Sealed and cool; best within 1–2 months of opening — aroma is everything here.",
       "keywords": "Darjeeling oolong India semi-oxidized muscatel"
@@ -16273,7 +16273,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 轻揉捻 → 半发酵 → 干燥。",
       "story": "以红茶闻名的大吉岭，部分茶园把发酵停在中间，做成乌龙风格的小批量茶。原料是大吉岭的中国种与克隆品种，花香与红茶不同。",
       "flavor": "麝香葡萄、杏子与花香，轻盈清爽，汤色明亮黄铜色。",
-      "pairing": "水果挞、清淡三明治。",
+      "pairing": "与水果塔、轻食三明治和司康饼都很搭配。麝香葡萄与杏的气息与塔的水果重叠，轻盈清澈的体感适合下午茶式的轻食。丰盛肉类菜肴很快会掩埋它清澈的香气。",
       "brewTip": "90度。直接用沸水会让麝香葡萄香散掉，先稍放凉。",
       "keep": "开封后1~2个月内，密封阴凉保存，香气是它的生命。",
       "keywords": "大吉岭乌龙 印度 半发酵 麝香葡萄"
@@ -16289,7 +16289,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 輕揉捻 → 半發酵 → 乾燥。",
       "story": "以紅茶聞名的大吉嶺，部分茶園把發酵停在中間，做成烏龍風格的小批量茶。原料是大吉嶺的中國種與克隆品種，花香與紅茶不同。",
       "flavor": "麝香葡萄、杏子與花香，輕盈清爽，湯色明亮黃銅色。",
-      "pairing": "水果塔、清淡三明治。",
+      "pairing": "很適合搭配水果塔、輕食三明治和司康。麝香葡萄與杏桃的香氣與塔的水果重疊,輕盈清澈的茶體適合下午茶式的輕食。豐盛的肉類料理很快就會埋沒它清澈的香氣。",
       "brewTip": "90度。直接用沸水會讓麝香葡萄香散掉，先稍放涼。",
       "keep": "開封後1~2個月內，密封陰涼保存，香氣是它的生命。",
       "keywords": "大吉嶺烏龍 印度 半發酵 麝香葡萄"
@@ -16358,7 +16358,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "봉황단총의 향형 하나. 찻잎 자체에서 치자꽃을 닮은 향이 나서 붙은 이름으로, 꽃을 섞어 향을 입힌 차가 아닙니다.",
       "flavor": "치자꽃과 잘 익은 과일을 닮은 달콤한 향, 부드러운 단맛과 맑은 여운. 물색은 밝은 황금빛입니다.",
-      "pairing": "가벼운 과일 디저트, 담백한 월병. 향이 섬세해 강한 양념 음식과는 부딪힙니다.",
+      "pairing": "가벼운 과일 디저트와 담백한 월병, 배·복숭아 같은 과일과 잘 어울립니다. 치자꽃과 잘 익은 과일을 닮은 달콤한 향이 담백한 간식 곁에서 맑게 살아납니다. 향이 섬세해 강한 양념 음식과는 부딪히니 피하는 편이 좋습니다.",
       "brewTip": "95도. 향이 달아 오래 우리면 무거워지니 짧게 여러 번 우리는 편이 좋습니다.",
       "keep": "밀봉해 서늘하게. 향이 생명이라 소분해 둡니다.",
       "keywords": "황지향 봉황단총 차오저우 우롱 치자향"
@@ -16374,7 +16374,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "One of the dancong aroma types, named because the leaf itself smells like gardenia blossom — no flowers are added.",
       "flavor": "Sweet gardenia and ripe-fruit notes, soft sweetness, a clean finish. Bright golden liquor.",
-      "pairing": "Light fruit desserts, plain mooncakes. Strong seasoning overwhelms it.",
+      "pairing": "It pairs well with light fruit desserts, plain mooncakes and fruit such as pear and peach. The sweet gardenia and ripe-fruit notes come alive clearly beside plain snacks. The scent is delicate, so strong seasoning overwhelms it — better to keep them apart.",
       "brewTip": "95 °C, short repeated infusions; long steeps make the sweet aroma heavy.",
       "keep": "Sealed and cool; split into small lots so the aroma stays.",
       "keywords": "Huangzhi Xiang dancong Phoenix oolong Chaozhou gardenia"
@@ -16390,7 +16390,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "凤凰单丛香型之一，因茶叶本身带黄枝花（栀子花）般的香气得名，并非掺花窨制。",
       "flavor": "栀子花与熟果般的甜香，回甘柔和，余韵清爽，汤色明亮金黄。",
-      "pairing": "清淡水果甜点、原味月饼。重口味菜肴相冲。",
+      "pairing": "与清淡水果甜点、原味月饼和梨、桃等水果都很搭配。甜美的栀子花与熟果气息在朴素小吃旁清晰活跃。香气细腻，浓重调味会压倒它——最好分开享用。",
       "brewTip": "95度短泡多冲，久浸会让甜香发闷。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "黄枝香 单丛 潮州 凤凰 乌龙 栀子香"
@@ -16406,7 +16406,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "鳳凰單叢香型之一，因茶葉本身帶黃枝花（梔子花）般的香氣得名，並非摻花窨製。",
       "flavor": "梔子花與熟果般的甜香，回甘柔和，餘韻清爽，湯色明亮金黃。",
-      "pairing": "清淡水果甜點、原味月餅。重口味菜餚相衝。",
+      "pairing": "很適合搭配清淡的水果甜點、原味月餅和梨子、桃子等水果。甜美的梔子花與熟果香在清淡小吃旁鮮明地活了起來。香氣細緻,強烈調味會壓過它——最好分開享用。",
       "brewTip": "95度短泡多沖，久浸會讓甜香發悶。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "黃枝香 單叢 潮州 鳳凰 烏龍 梔子香"
@@ -16475,7 +16475,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "행인(아몬드)을 닮은 고소한 향 때문에 붙은 이름입니다. 차오저우에서는 목 넘김이 편안하다고 알려져, 목이 답답할 때 찾는 차로도 통합니다.",
       "flavor": "아몬드와 구운 견과의 고소함. 첫맛에 살짝 쌉싸래한 기운이 돌다 단맛으로 넘어가고, 목 넘김이 부드럽습니다.",
-      "pairing": "견과류, 담백한 찹쌀 과자. 향이 고소해 디저트 없이 단독으로 마시기 좋습니다.",
+      "pairing": "견과류와 담백한 찹쌀 과자, 구운 아몬드 과자와 잘 어울립니다. 아몬드와 구운 견과의 고소함이 간식의 고소함과 겹치고, 쌉싸래함 뒤에 오는 단맛이 입안을 부드럽게 정리합니다. 향이 고소해 디저트 없이 단독으로 마시기에도 좋습니다.",
       "brewTip": "98도. 고소한 향은 중간 포부터 또렷해지니 3~4포를 천천히 즐기세요.",
       "keep": "밀봉해 서늘하게. 배화 향이 날아가지 않게 소분합니다.",
       "keywords": "행인향 봉황단총 차오저우 우롱 아몬드향"
@@ -16491,7 +16491,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "Named for its almond-like nuttiness. In Chaozhou it is also known as a tea that feels comfortable on the throat.",
       "flavor": "Roasted almond and toasted nuts, a brief bitter edge turning sweet, a smooth swallow.",
-      "pairing": "Nuts, plain glutinous-rice cakes. Good on its own without dessert.",
+      "pairing": "It pairs well with nuts, plain glutinous-rice cakes and roasted-almond sweets. The almond and toasted-nut richness overlaps with the snacks' own nuttiness, and the sweetness after the bitter edge tidies the palate smoothly. Its toasty aroma also makes it good on its own, without dessert.",
       "brewTip": "98 °C; the nutty note firms up from the third or fourth infusion.",
       "keep": "Sealed and cool; split into small lots to hold the baked aroma.",
       "keywords": "Xingren Xiang dancong Phoenix oolong Chaozhou almond"
@@ -16507,7 +16507,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "因香气似杏仁得名。潮州人觉得它入口润喉，喉咙不适时也爱喝。",
       "flavor": "杏仁与烤坚果的香气，入口微苦随即回甘，喉韵顺滑。",
-      "pairing": "坚果、清淡糯米点心。适合单独品饮。",
+      "pairing": "与坚果、原味糯米糕和烤杏仁甜点都很搭配。杏仁与烤坚果的丰润与小吃自身的坚果香重叠，苦味边缘之后的甘甜顺滑地收拾口腔。它烘焙的香气也让它适合单独饮用，不配甜点。",
       "brewTip": "98度冲泡，坚果香在三四泡后更明显。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "杏仁香 单丛 潮州 凤凰 乌龙 润喉"
@@ -16523,7 +16523,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "因香氣似杏仁得名。潮州人覺得它入口潤喉，喉嚨不適時也愛喝。",
       "flavor": "杏仁與烤堅果的香氣，入口微苦隨即回甘，喉韻順滑。",
-      "pairing": "堅果、清淡糯米點心。適合單獨品飲。",
+      "pairing": "很適合搭配堅果、原味糯米糕和烤杏仁甜點。杏仁與烘烤堅果的豐潤與小吃本身的堅果香重疊,苦韻之後的甜味順暢地收拾味蕾。它烘烤的香氣讓它獨自飲用也很好,不需要甜點。",
       "brewTip": "98度沖泡，堅果香在三四泡後更明顯。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "杏仁香 單叢 潮州 鳳凰 烏龍 潤喉"
@@ -16592,7 +16592,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "찻잎에서 계피(육계)를 닮은 따뜻한 향이 나서 붙은 향형 이름입니다. 푸젠성 무이산의 육계 품종으로 만드는 우롱차와는 산지도 품종도 다른 차입니다.",
       "flavor": "계피와 따뜻한 향신료 향, 배화에서 오는 은은한 구수함, 진한 몸통과 긴 여운.",
-      "pairing": "기름진 중식, 구운 고기. 따뜻한 향이 느끼함을 잡아 줍니다.",
+      "pairing": "기름진 중식과 구운 고기, 동파육과 잘 어울립니다. 계피와 따뜻한 향신료 향, 진한 몸통이 고기의 풍미와 겹치고, 따뜻한 향이 느끼함을 잡아 줍니다. 담백한 생선회와는 향신료 향이 지나치게 앞서기 쉽습니다.",
       "brewTip": "98도. 배화가 있는 편이라 첫 포는 짧게, 뒤로 갈수록 향신 향이 깊어집니다.",
       "keep": "밀봉해 서늘하게. 향신 향이 다른 차에 배지 않게 따로 보관합니다.",
       "keywords": "육계향 봉황단총 차오저우 우롱 계피향"
@@ -16608,7 +16608,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "An aroma type named for the cinnamon-like warmth in the leaf. It is a different tea from the Rougui cultivar oolong of Wuyi, Fujian — different mountain, different plant.",
       "flavor": "Cinnamon and warm spice over a light roast, full body, a long finish.",
-      "pairing": "Rich Chinese dishes, roasted meats; the warm spice cuts grease.",
+      "pairing": "It pairs well with rich Chinese dishes, roasted meats and dongpo pork. The cinnamon and warm spice, with a full body, overlap with the meat's flavor, and the warm spice cuts through the grease. Next to delicate raw fish, the spice can easily run ahead of the food.",
       "brewTip": "98 °C. Keep the first infusion short; the spice deepens in later steeps.",
       "keep": "Sealed and cool, stored apart so the spice scent does not travel.",
       "keywords": "Rougui Xiang dancong Phoenix oolong Chaozhou cinnamon"
@@ -16624,7 +16624,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "因茶香似肉桂得名。与福建武夷山以肉桂品种制成的乌龙茶不同，产地与品种都不一样。",
       "flavor": "肉桂与暖香料气，带焙火的微香，汤体厚，余韵长。",
-      "pairing": "油腻中餐、烤肉，暖香能解腻。",
+      "pairing": "与丰盛中餐、烤肉和东坡肉都很搭配。肉桂与温暖香料加上饱满体感，与肉的滋味重叠，温暖的香料能穿透油脂。在精致生鱼旁，香料很容易抢在食物之前。",
       "brewTip": "98度，第一泡宜短，香料感随后几泡渐深。",
       "keep": "密封阴凉，单独存放以免串味。",
       "keywords": "肉桂香 单丛 潮州 凤凰 乌龙"
@@ -16640,7 +16640,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "因茶香似肉桂得名。與福建武夷山以肉桂品種製成的烏龍茶不同，產地與品種都不一樣。",
       "flavor": "肉桂與暖香料氣，帶焙火的微香，湯體厚，餘韻長。",
-      "pairing": "油膩中餐、烤肉，暖香能解膩。",
+      "pairing": "很適合搭配豐盛的中菜、烤肉和東坡肉。肉桂與溫暖香料加上飽滿的茶體,與肉的風味重疊,溫暖的香料能穿透油脂。在精緻的生魚旁,香料很容易搶在食物之前。",
       "brewTip": "98度，第一泡宜短，香料感隨後幾泡漸深。",
       "keep": "密封陰涼，單獨存放以免串味。",
       "keywords": "肉桂香 單叢 潮州 鳳凰 烏龍"
@@ -16709,7 +16709,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "계화꽃을 섞어 향을 입힌 블렌딩 '계화우롱'과 달리, 계화향 단총은 꽃을 전혀 넣지 않고 찻잎 자체에서 금목서 같은 향이 나는 향형입니다.",
       "flavor": "금목서의 달콤한 꽃향에 살구 같은 과일 향이 겹치고, 몸통은 가벼우며 여운이 맑습니다.",
-      "pairing": "계화 떡 같은 담백한 꽃 디저트, 가벼운 과일. 진한 음식과는 향이 묻힙니다.",
+      "pairing": "계화 떡 같은 담백한 꽃 디저트와 가벼운 과일, 살구 과자와 잘 어울립니다. 금목서의 달콤한 꽃향에 살구 향이 겹쳐 담백한 디저트 곁에서 더 또렷해집니다. 몸통이 가벼워 진한 음식과는 향이 묻히니 피하세요.",
       "brewTip": "95도. 배화가 가벼워 향이 섬세하니 너무 뜨겁거나 길게 우리지 마세요.",
       "keep": "밀봉해 서늘하게. 꽃향은 냄새를 잘 흡수하니 향신료와 떨어뜨려 둡니다.",
       "keywords": "계화향 봉황단총 차오저우 우롱 금목서향"
@@ -16725,7 +16725,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "Unlike blended 'osmanthus oolong', which is scented with real flowers, this dancong carries its osmanthus-like aroma naturally in the leaf — no flowers are added.",
       "flavor": "Sweet osmanthus blossom over an apricot note, light body, a clean finish.",
-      "pairing": "Plain osmanthus cakes, light fruit. Heavy food buries the scent.",
+      "pairing": "It pairs well with plain floral desserts such as osmanthus cakes, light fruit and apricot sweets. The sweet osmanthus blossom layered with apricot stands out more clearly beside plain desserts. Its body is light, so avoid heavy food, which buries the scent.",
       "brewTip": "95 °C; the bake is light and the aroma delicate, so avoid very long steeps.",
       "keep": "Sealed and cool, away from spices — floral leaf absorbs odours easily.",
       "keywords": "Guihua Xiang dancong Phoenix oolong Chaozhou osmanthus"
@@ -16741,7 +16741,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "与掺桂花窨制的拼配茶“桂花乌龙”不同，桂花香单丛不加一朵花，香气全在茶叶本身。",
       "flavor": "桂花甜香叠着杏果香，汤体轻，余韵清爽。",
-      "pairing": "清淡桂花糕、轻盈水果。重口味食物会盖过花香。",
+      "pairing": "与桂花糕等原味花香甜点、清淡水果和杏子甜点都很搭配。甜美的桂花叠加杏香，在朴素甜点旁更清晰。它的体感轻盈，因此避免厚重食物，会掩埋香气。",
       "brewTip": "95度，焙火轻、花香细，忌久浸。",
       "keep": "密封阴凉，远离香料以免吸味。",
       "keywords": "桂花香 单丛 潮州 凤凰 乌龙"
@@ -16757,7 +16757,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "與摻桂花窨製的拼配茶「桂花烏龍」不同，桂花香單叢不加一朵花，香氣全在茶葉本身。",
       "flavor": "桂花甜香疊著杏果香，湯體輕，餘韻清爽。",
-      "pairing": "清淡桂花糕、輕盈水果。重口味食物會蓋過花香。",
+      "pairing": "很適合搭配桂花糕等原味花香甜點、清淡水果和杏桃甜點。甜美的桂花疊上杏桃,在原味甜點旁更清晰地突出。它的茶體輕盈,因此請避免厚重的食物,以免埋沒香氣。",
       "brewTip": "95度，焙火輕、花香細，忌久浸。",
       "keep": "密封陰涼，遠離香料以免吸味。",
       "keywords": "桂花香 單叢 潮州 鳳凰 烏龍"
@@ -16826,7 +16826,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "지초와 난초를 아울러 이르는 '지란'은 예부터 고결한 향의 대명사였습니다. 그 향을 닮은 이 향형은 단총 가운데서도 고급으로 꼽힙니다.",
       "flavor": "난초의 청아한 향이 맑게 퍼지고, 단맛이 섬세하며 여운이 길고 깨끗합니다.",
-      "pairing": "담백한 떡, 가벼운 과일. 향이 우아해 단독으로 천천히 마시는 편이 어울립니다.",
+      "pairing": "담백한 떡과 가벼운 과일, 백설기와 잘 어울립니다. 난초의 청아한 향과 섬세한 단맛은 간식의 맛에 기대지 않고도 길고 깨끗한 여운을 남깁니다. 향이 우아해 단독으로 천천히 마시는 편이 가장 어울립니다.",
       "brewTip": "95도. 향을 살리려면 첫 포부터 짧게, 잔을 코에 가까이 대고 향을 먼저 맡으세요.",
       "keep": "밀봉해 서늘하게. 향이 섬세해 소분 보관이 좋습니다.",
       "keywords": "지란향 봉황단총 차오저우 우롱 난초향"
@@ -16842,7 +16842,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "Zhilan — a pairing of two orchid-family plants — has long stood for noble fragrance in Chinese letters; this aroma type is counted among the finer dancong.",
       "flavor": "Clear, refined orchid aroma, delicate sweetness, a long clean finish.",
-      "pairing": "Plain rice cakes, light fruit. Best sipped slowly on its own.",
+      "pairing": "It pairs well with plain rice cakes such as baekseolgi and light fruit. The refined orchid aroma and delicate sweetness leave a long, clean finish without leaning on the snack's flavor. Its elegance suits it best sipped slowly on its own.",
       "brewTip": "95 °C, short steeps from the first; smell the cup before sipping.",
       "keep": "Sealed and cool; small lots protect the fine aroma.",
       "keywords": "Zhilan Xiang dancong Phoenix oolong Chaozhou orchid"
@@ -16858,7 +16858,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "芝兰自古是高洁之香的代称，此香型香似芝兰，在单丛中属上品。",
       "flavor": "兰香清雅，回甘细腻，余韵悠长干净。",
-      "pairing": "清淡糕点、轻盈水果。宜单独慢品。",
+      "pairing": "与白雪糕等原味年糕和清淡水果都很搭配。精致的兰花香与细腻甘甜留下悠长干净的收尾，不依赖小吃的滋味。它的优雅最适合独自慢慢啜饮。",
       "brewTip": "95度短泡，先闻杯香再入口。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "芝兰香 单丛 潮州 凤凰 乌龙"
@@ -16874,7 +16874,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "芝蘭自古是高潔之香的代稱，此香型香似芝蘭，在單叢中屬上品。",
       "flavor": "蘭香清雅，回甘細膩，餘韻悠長乾淨。",
-      "pairing": "清淡糕點、輕盈水果。宜單獨慢品。",
+      "pairing": "很適合搭配白雪糕等原味米糕和清淡水果。優雅的蘭花香與細緻甜味留下悠長乾淨的尾韻,不依賴小吃的味道。它的高雅最適合獨自慢慢啜飲。",
       "brewTip": "95度短泡，先聞杯香再入口。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "芝蘭香 單叢 潮州 鳳凰 烏龍"
@@ -16943,7 +16943,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "야래향 꽃이 해가 지면 향을 짙게 뿜듯, 이 향형도 달콤한 꽃향이 유난히 짙어 붙은 이름입니다.",
       "flavor": "달콤한 밤꽃 향과 꿀 같은 여운, 중간 몸통. 향이 짙지만 뒷맛은 맑습니다.",
-      "pairing": "달콤한 디저트, 열대과일. 저녁 시간에 천천히 마시기 좋습니다.",
+      "pairing": "달콤한 디저트와 망고·파인애플 같은 열대과일, 꿀 과자와 잘 어울립니다. 달콤한 밤꽃 향과 꿀 같은 여운이 디저트의 단맛과 겹치고, 향은 짙지만 뒷맛이 맑아 부담이 적습니다. 저녁 시간에 천천히 마시기 좋은 차입니다.",
       "brewTip": "95도. 향이 짙어 첫 포를 길게 우리면 향에 눌리니 짧게 시작하세요.",
       "keep": "밀봉해 서늘하게. 소분해 두면 짙은 향이 오래갑니다.",
       "keywords": "야래향 봉황단총 차오저우 우롱 밤꽃향"
@@ -16959,7 +16959,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "Named after the yelai flower, whose scent thickens after dark; this aroma type is likewise marked by an unusually dense sweetness.",
       "flavor": "Sweet night-blossom aroma with a honeyed finish, medium body, a clean aftertaste.",
-      "pairing": "Sweet desserts, tropical fruit. Suited to slow evening drinking.",
+      "pairing": "It pairs well with sweet desserts, tropical fruit such as mango and pineapple, and honey sweets. The sweet night-blossom aroma and honeyed finish overlap with the desserts' sweetness; the scent is dense but the aftertaste stays clean, so it never feels heavy. A tea for slow evening drinking.",
       "brewTip": "95 °C; the scent is strong, so start short rather than steeping long.",
       "keep": "Sealed and cool; small lots keep the dense aroma.",
       "keywords": "Yelai Xiang dancong Phoenix oolong Chaozhou night flower"
@@ -16975,7 +16975,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "夜来香入夜后香气转浓，此香型甜香格外浓郁，故得此名。",
       "flavor": "甜花香带蜜韵，汤体适中，浓香之后回味干净。",
-      "pairing": "甜点、热带水果。适合夜晚慢饮。",
+      "pairing": "与甜味甜点、芒果和菠萝等热带水果和蜂蜜甜点都很搭配。甜美的夜来香气息与蜜般收尾与甜点的甜味重叠；香气浓密但余味保持干净，因此不会觉得沉重。一款适合夜晚慢慢喝的茶。",
       "brewTip": "95度，香浓宜短泡起步，久浸会被香气压住。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "夜来香 单丛 潮州 凤凰 乌龙"
@@ -16991,7 +16991,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "夜來香入夜後香氣轉濃，此香型甜香格外濃郁，故得此名。",
       "flavor": "甜花香帶蜜韻，湯體適中，濃香之後回味乾淨。",
-      "pairing": "甜點、熱帶水果。適合夜晚慢飲。",
+      "pairing": "很適合搭配甜的甜點、芒果、鳳梨等熱帶水果和蜂蜜甜點。甜美的夜來香與蜂蜜般的尾韻與甜點的甜味重疊;香氣濃密但餘味保持乾淨,因此不會覺得沉重。是一款適合夜晚慢慢喝的茶。",
       "brewTip": "95度，香濃宜短泡起步，久浸會被香氣壓住。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "夜來香 單叢 潮州 鳳凰 烏龍"
@@ -17060,7 +17060,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "향이 어찌나 높고 강하게 치솟는지 '하늘에 닿는다'는 뜻의 통천(通天)이라는 이름이 붙은 향형입니다.",
       "flavor": "첫 포부터 꽃향이 강하게 치고 오르고, 맛은 또렷하고 상쾌하며 여운이 맑습니다.",
-      "pairing": "담백한 과자, 가벼운 과일. 향이 강해 음식 없이 향 자체를 즐기는 편이 낫습니다.",
+      "pairing": "담백한 과자와 가벼운 과일, 쌀 과자와 잘 어울립니다. 첫 포부터 강하게 치고 오르는 꽃향과 또렷하고 상쾌한 맛이 주인공이라, 간식은 향을 방해하지 않을 만큼만 곁들이세요. 향이 강해 음식 없이 향 자체를 즐기는 편이 낫습니다.",
       "brewTip": "98도. 향이 강하니 첫 포는 특히 짧게. 뚜껑 잔에 코를 대면 솟는 향이 또렷합니다.",
       "keep": "밀봉해 서늘하게. 높은 향은 휘발이 빠르니 소분합니다.",
       "keywords": "통천향 봉황단총 차오저우 우롱 고향"
@@ -17076,7 +17076,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "The name Tongtian, 'reaching the sky', was given because the aroma leaps up higher and stronger than other aroma types.",
       "flavor": "Floral aroma surging from the first infusion, a bright crisp taste, a clean finish.",
-      "pairing": "Plain cakes, light fruit. The aroma is the main event — best with little or no food.",
+      "pairing": "It pairs well with plain cakes, light fruit and rice crackers. The floral aroma surging from the first infusion and the bright, crisp taste are the main event, so keep snacks to just enough not to interfere. The aroma is strong — it is best enjoyed with little or no food.",
       "brewTip": "98 °C; keep the first steep especially short, and smell the gaiwan lid for the rising scent.",
       "keep": "Sealed and cool; high aromatics fade fast, so store in small lots.",
       "keywords": "Tongtian Xiang dancong Phoenix oolong Chaozhou high aroma"
@@ -17092,7 +17092,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "因香气高扬强劲、仿佛直通天际而得名。",
       "flavor": "第一泡花香即冲鼻，滋味鲜爽，余韵干净。",
-      "pairing": "清淡糕点、轻盈水果。香气为主角，宜少配食物。",
+      "pairing": "与原味蛋糕、清淡水果和米饼都很搭配。从第一泡涌出的花香与明亮爽脆的滋味是主角，因此小吃请控制在不干扰的程度。香气浓强——最好少配或不配食物享用。",
       "brewTip": "98度，第一泡尤其要短，闻盖香最能感受其高扬。",
       "keep": "密封阴凉，高香易散，分小包装保存。",
       "keywords": "通天香 单丛 潮州 凤凰 乌龙 高香"
@@ -17108,7 +17108,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "因香氣高揚強勁、彷彿直通天際而得名。",
       "flavor": "第一泡花香即衝鼻，滋味鮮爽，餘韻乾淨。",
-      "pairing": "清淡糕點、輕盈水果。香氣為主角，宜少配食物。",
+      "pairing": "很適合搭配原味蛋糕、清淡水果和米果。從第一泡就湧出的花香與明亮爽脆的味道才是主角,因此小吃只需剛好不干擾即可。香氣強烈——最好少配食物或不配食物享用。",
       "brewTip": "98度，第一泡尤其要短，聞蓋香最能感受其高揚。",
       "keep": "密封陰涼，高香易散，分小包裝保存。",
       "keywords": "通天香 單叢 潮州 鳳凰 烏龍 高香"
@@ -17177,7 +17177,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "봄에 피는 유자꽃의 맑고 상큼한 향을 닮아 붙은 이름입니다. 단총 향형 가운데 가볍고 산뜻한 축에 듭니다.",
       "flavor": "유자꽃과 감귤꽃 같은 상큼한 꽃향, 가벼운 몸통과 또렷한 단맛, 맑은 여운.",
-      "pairing": "감귤류 디저트, 가벼운 과일. 상큼한 향이 달지 않은 과자와도 잘 맞습니다.",
+      "pairing": "감귤류 디저트와 가벼운 과일, 유자 과자와 잘 어울립니다. 유자꽃과 감귤꽃 같은 상큼한 꽃향이 감귤의 산뜻함과 겹치고, 또렷한 단맛이 입안을 맑게 마무리합니다. 상큼한 향 덕분에 달지 않은 과자와도 잘 맞습니다.",
       "brewTip": "95도. 상큼한 향이 위에 뜨니 짧게 우리고, 식으면 향이 처지니 따뜻할 때 마시세요.",
       "keep": "밀봉해 서늘하게. 꽃향 보존을 위해 소분합니다.",
       "keywords": "유화향 봉황단총 차오저우 우롱 유자꽃향"
@@ -17193,7 +17193,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "Named for its likeness to pomelo blossom, the clear, citrusy flower of spring; one of the lighter, brighter dancong aroma types.",
       "flavor": "Pomelo and citrus blossom, light body, a distinct sweetness and a clean finish.",
-      "pairing": "Citrus desserts, light fruit; the fresh scent also suits unsweetened cakes.",
+      "pairing": "It pairs well with citrus desserts, light fruit and yuzu sweets. The fresh pomelo and citrus blossom overlaps with the citrus brightness, and the distinct sweetness leaves a clean finish. That fresh scent also suits unsweetened cakes.",
       "brewTip": "95 °C, short steeps; drink it warm, as the bright top notes sink as it cools.",
       "keep": "Sealed and cool; small lots protect the floral aroma.",
       "keywords": "Youhua Xiang dancong Phoenix oolong Chaozhou pomelo blossom"
@@ -17209,7 +17209,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "因香似春天盛开的柚花而得名，在单丛香型中属轻盈清爽一类。",
       "flavor": "柚花与柑橘花般的清新花香，汤体轻，甜味分明，余韵干净。",
-      "pairing": "柑橘类甜点、轻盈水果，也配不甜的糕点。",
+      "pairing": "与柑橘甜点、清淡水果和柚子甜点都很搭配。新鲜的柚子与柑橘花香与柑橘的明亮重叠，鲜明的甘甜留下干净收尾。那份新鲜香气也适合无糖蛋糕。",
       "brewTip": "95度短泡，趁热饮，凉后清香会下沉。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "柚花香 单丛 潮州 凤凰 乌龙"
@@ -17225,7 +17225,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "因香似春天盛開的柚花而得名，在單叢香型中屬輕盈清爽一類。",
       "flavor": "柚花與柑橘花般的清新花香，湯體輕，甜味分明，餘韻乾淨。",
-      "pairing": "柑橘類甜點、輕盈水果，也配不甜的糕點。",
+      "pairing": "很適合搭配柑橘甜點、清淡水果和柚子甜點。新鮮的柚子與柑橘花與柑橘的明亮重疊,鮮明的甜味留下乾淨的尾韻。這份清新的香氣也適合無糖蛋糕。",
       "brewTip": "95度短泡，趁熱飲，涼後清香會下沉。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "柚花香 單叢 潮州 鳳凰 烏龍"
@@ -17295,7 +17295,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "송나라 때 봉황산에 심긴 차나무에서 이어졌다고 전하는 오래된 모수 계통입니다. 한때 '동방홍(東方紅)'이라는 이름으로도 불렸고, 수령 높은 나무에서 나오는 차라 생산량이 적습니다.",
       "flavor": "깊은 꽃향 아래 묵직한 단맛과 노수 특유의 진한 몸통이 깔리고, 여운이 깁니다.",
-      "pairing": "담백한 과자, 견과류. 향과 몸통이 진해 단독으로 천천히 마시기 좋습니다.",
+      "pairing": "담백한 과자와 구운 견과류, 말린 과일과 잘 어울립니다. 깊은 꽃향 아래 깔린 묵직한 단맛과 노수 특유의 진한 몸통이 고소한 간식을 단단히 받쳐 줍니다. 향과 몸통이 진해 단독으로 천천히 마시기에도 좋습니다.",
       "brewTip": "98도. 노수 잎은 뒤 포까지 힘이 남으니 10포 안팎으로 길게 즐기세요.",
       "keep": "밀봉해 서늘하게. 귀한 차라 소분해 두고 향을 지킵니다.",
       "keywords": "송종 봉황단총 차오저우 우롱 노수 동방홍"
@@ -17311,7 +17311,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "A mother-bush lineage said to descend from tea planted on Phoenix Mountain in the Song dynasty. It was also once called Dongfang Hong; yields from such old trees are small.",
       "flavor": "Deep floral aroma over a weighty sweetness and the full body of old-bush leaf, with a long finish.",
-      "pairing": "Plain cakes, nuts. Rich enough to drink slowly on its own.",
+      "pairing": "It pairs well with plain cakes, roasted nuts and dried fruit. The weighty sweetness under the deep floral aroma, and the full body of old-bush leaf, firmly support savory snacks. Rich in both aroma and body, it is also good drunk slowly on its own.",
       "brewTip": "98 °C; old-bush leaf keeps its strength late, so take it to about ten infusions.",
       "keep": "Sealed and cool; store this scarce tea in small lots.",
       "keywords": "Song Zhong dancong Phoenix oolong Chaozhou old bush Dongfang Hong"
@@ -17327,7 +17327,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "相传源自宋代在凤凰山栽种的茶树母系，曾一度改称“东方红”，老树产量稀少。",
       "flavor": "花香深沉，甜味厚重，带老丛的饱满汤体，余韵悠长。",
-      "pairing": "清淡糕点、坚果。适合单独慢品。",
+      "pairing": "与原味蛋糕、烤坚果和干果都很搭配。深厚花香之下沉甸甸的甘甜，以及老枞叶饱满的体感，稳稳支撑咸香小吃。香气与体感俱丰，也适合独自慢慢饮用。",
       "brewTip": "98度，老丛耐泡，可冲至十泡上下。",
       "keep": "密封阴凉，分小包装珍藏保香。",
       "keywords": "宋种 单丛 潮州 凤凰 乌龙 老丛 东方红"
@@ -17343,7 +17343,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "相傳源自宋代在鳳凰山栽種的茶樹母系，曾一度改稱「東方紅」，老樹產量稀少。",
       "flavor": "花香深沉，甜味厚重，帶老叢的飽滿湯體，餘韻悠長。",
-      "pairing": "清淡糕點、堅果。適合單獨慢品。",
+      "pairing": "很適合搭配原味蛋糕、烘烤堅果和果乾。深沉花香之下沉穩的甜味,加上老叢葉飽滿的茶體,扎實地支撐鹹香小吃。香氣與茶體都豐富,獨自慢慢喝也很好。",
       "brewTip": "98度，老叢耐泡，可沖至十泡上下。",
       "keep": "密封陰涼，分小包裝珍藏保香。",
       "keywords": "宋種 單叢 潮州 鳳凰 烏龍 老叢 東方紅"
@@ -17412,7 +17412,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 가벼운 배화.",
       "story": "잎이 크고 부드러운 품종으로, 이름은 여덟 신선(八仙) 전설에서 왔다고 전합니다. 봉황산에서 널리 심는 향형 가운데 하나입니다.",
       "flavor": "부드럽고 맑은 꽃향, 잎이 커서 넉넉하게 우러나고 맛이 순하며 단맛이 고르게 갑니다.",
-      "pairing": "가벼운 디저트, 담백한 찹쌀떡. 순한 맛이라 다양한 간식과 무난합니다.",
+      "pairing": "가벼운 디저트와 담백한 찹쌀떡, 구운 과자와 잘 어울립니다. 부드럽고 맑은 꽃향과 고르게 가는 단맛이 간식의 맛을 해치지 않고, 넉넉하게 우러나 여러 잔을 나눠 마시기 좋습니다. 순한 맛이라 다양한 간식과 무난하게 어울립니다.",
       "brewTip": "95도. 잎이 커 개완에 넉넉히 차니 물을 부을 때 잎이 잠기게 하세요.",
       "keep": "밀봉해 서늘하게. 소분해 두면 꽃향이 오래갑니다.",
       "keywords": "팔선 봉황단총 차오저우 우롱 팔선과해"
@@ -17428,7 +17428,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, lightly baked.",
       "story": "A large, soft-leaved type whose name is said to come from the legend of the Eight Immortals; widely planted on Phoenix Mountain.",
       "flavor": "Soft, clear floral aroma; the big leaves give generously, with an even, gentle sweetness.",
-      "pairing": "Light desserts, plain glutinous-rice cakes. Its mildness suits most snacks.",
+      "pairing": "It pairs well with light desserts, plain glutinous-rice cakes and baked sweets. The soft, clear floral aroma and even sweetness never disturb the snacks' flavors, and the leaves give generously over many cups to share. Its mildness suits most snacks.",
       "brewTip": "95 °C; the large leaves fill the gaiwan, so pour to submerge them fully.",
       "keep": "Sealed and cool; small lots keep the floral scent.",
       "keywords": "Baxian dancong Phoenix oolong Chaozhou Eight Immortals"
@@ -17444,7 +17444,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 轻焙火。",
       "story": "此品种叶片大而柔软，名字相传来自八仙传说，是凤凰山广植的香型之一。",
       "flavor": "花香柔和清亮，叶片大、出汤足，滋味温润，甜味均匀。",
-      "pairing": "轻盈甜点、清淡糯米糕。味道温和，百搭。",
+      "pairing": "与清淡甜点、原味糯米糕和烘焙甜点都很搭配。柔和清澈的花香与均匀的甘甜不会打扰小吃的滋味，叶片在多杯之间慷慨出味，适合分享。它的温和适合大多数小吃。",
       "brewTip": "95度，叶片大占碗，注水要没过茶叶。",
       "keep": "密封阴凉，分小包装保香。",
       "keywords": "八仙 单丛 潮州 凤凰 乌龙"
@@ -17460,7 +17460,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 輕焙火。",
       "story": "此品種葉片大而柔軟，名字相傳來自八仙傳說，是鳳凰山廣植的香型之一。",
       "flavor": "花香柔和清亮，葉片大、出湯足，滋味溫潤，甜味均勻。",
-      "pairing": "輕盈甜點、清淡糯米糕。味道溫和，百搭。",
+      "pairing": "很適合搭配清淡甜點、原味糯米糕和烘焙甜點。柔和清澈的花香與均勻的甜味不會打擾小吃的味道,茶葉慷慨耐泡,可以分享很多杯。它的溫和適合大多數小吃。",
       "brewTip": "95度，葉片大佔碗，注水要沒過茶葉。",
       "keep": "密封陰涼，分小包裝保香。",
       "keywords": "八仙 單叢 潮州 鳳凰 烏龍"
@@ -17529,7 +17529,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조 → 배화.",
       "story": "잎이 크고 색이 짙어 '검을 오(烏)'를 붙여 대오엽이라 부르는 계통입니다. 향과 맛이 진해 차오저우에서는 진하게 우려 마시는 농차의 재료로도 즐깁니다.",
       "flavor": "진한 꽃향과 묵직한 몸통, 쓴맛 뒤에 오는 강한 단맛의 회감. 진하게 우린 뒤 얼음을 타도 향이 무너지지 않습니다.",
-      "pairing": "기름진 중식, 진한 간식. 강한 맛이 음식에 밀리지 않습니다.",
+      "pairing": "기름진 중식과 진한 간식, 구운 고기와 잘 어울립니다. 진한 꽃향과 묵직한 몸통, 쓴맛 뒤의 강한 회감이 기름진 음식의 맛을 받아 내고 입안을 정리해 줍니다. 진하게 우린 뒤 얼음을 타도 향이 무너지지 않아 강한 맛의 음식에도 밀리지 않습니다.",
       "brewTip": "98도. 진하게 즐기려면 잎을 넉넉히 넣고 짧게, 아이스로는 농차로 우린 뒤 얼음에 붓습니다.",
       "keep": "밀봉해 서늘하게. 배화 향 보존을 위해 소분합니다.",
       "keywords": "대오엽 봉황단총 차오저우 우롱 농차"
@@ -17545,7 +17545,7 @@ window.TEAFaiData = (function () {
       "process": "Withered, shaken, fired, rolled, dried, baked.",
       "story": "Named Da Wu Ye, 'big dark leaf', for its large, deep-coloured leaves. Its strength also makes it a Chaozhou favourite for thick, strong brews.",
       "flavor": "Dense floral aroma, heavy body, a strong sweet return after the bitter edge; brewed thick, it holds up over ice.",
-      "pairing": "Rich Chinese dishes, hearty snacks; its strength stands up to food.",
+      "pairing": "It pairs well with rich Chinese dishes, hearty snacks and grilled meat. The dense floral aroma, heavy body and strong sweet return after the bitter edge take on greasy food and tidy the palate. Brewed thick, it holds up over ice, so it does not lose out to strongly flavored food.",
       "brewTip": "98 °C. For a strong cup use plenty of leaf and short steeps; for iced tea, brew thick and pour over ice.",
       "keep": "Sealed and cool; small lots protect the baked aroma.",
       "keywords": "Da Wu Ye dancong Phoenix oolong Chaozhou strong brew"
@@ -17561,7 +17561,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 炒青 → 揉捻 → 干燥 → 焙火。",
       "story": "因叶片大、色泽深乌而得名。香气滋味浓烈，也是潮州人泡浓茶的常用茶。",
       "flavor": "花香浓郁，汤体厚重，苦后回甘强；泡浓后加冰香气也不散。",
-      "pairing": "油腻中餐、浓味小食，茶味不输食物。",
+      "pairing": "与丰盛中餐、扎实小吃和烤肉都很搭配。浓密的花香、厚重的体感与苦味边缘之后强烈的回甘能承接油腻食物并收拾口腔。泡浓后加冰也站得住，因此不会输给浓重风味的食物。",
       "brewTip": "98度，多投茶短泡出浓汤；冷饮先泡浓再倒冰上。",
       "keep": "密封阴凉，分小包装保焙火香。",
       "keywords": "大乌叶 单丛 潮州 凤凰 乌龙 浓茶"
@@ -17577,7 +17577,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖青 → 炒青 → 揉捻 → 乾燥 → 焙火。",
       "story": "因葉片大、色澤深烏而得名。香氣滋味濃烈，也是潮州人泡濃茶的常用茶。",
       "flavor": "花香濃郁，湯體厚重，苦後回甘強；泡濃後加冰香氣也不散。",
-      "pairing": "油膩中餐、濃味小食，茶味不輸食物。",
+      "pairing": "很適合搭配豐盛的中菜、扎實的小吃和烤肉。濃密的花香、厚重的茶體與苦韻之後強烈的回甘,能承接油膩的食物並收拾味蕾。沖濃後加冰也站得住,因此不會輸給味道濃烈的食物。",
       "brewTip": "98度，多投茶短泡出濃湯；冷飲先泡濃再倒冰上。",
       "keep": "密封陰涼，分小包裝保焙火香。",
       "keywords": "大烏葉 單叢 潮州 鳳凰 烏龍 濃茶"
@@ -17646,7 +17646,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조. 홍차로 만들 잎을 반발효에서 멈춰 우롱으로 만듭니다.",
       "story": "아쌈은 홍차와 CTC의 본고장이지만, 대엽종의 향을 살리려는 다원에서 반발효 우롱도 소량 만듭니다.",
       "flavor": "몰트와 꿀, 구운 곡물에 우롱 특유의 꽃향이 겹칩니다. 바디는 두껍습니다.",
-      "pairing": "버터 토스트, 구운 고기, 진한 치즈.",
+      "pairing": "버터 토스트와 구운 고기, 진한 치즈와 잘 어울립니다. 몰트와 꿀, 구운 곡물의 단맛에 우롱의 꽃향이 겹쳐 두꺼운 바디가 버터와 치즈의 진한 맛을 받쳐 줍니다. 맑은 샐러드와는 바디가 무겁게 느껴질 수 있습니다.",
       "brewTip": "95도. 우유를 조금 넣어도 몰트감이 남습니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "아삼 우롱 인도 대엽종 반발효 몰트"
@@ -17662,7 +17662,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying; leaf bound for black tea is stopped at half oxidation.",
       "story": "Assam is the home of black tea and CTC, but some gardens make small lots of half-oxidised oolong to show the leaf's aroma.",
       "flavor": "Malt, honey and roasted grain with an oolong floral lift; a thick body.",
-      "pairing": "Buttered toast, grilled meat, strong cheese.",
+      "pairing": "It pairs well with buttered toast, grilled meat and strong cheese. The malt, honey and roasted-grain sweetness with an oolong floral lift gives a thick body that supports the richness of butter and cheese. Next to a clear, light salad, that body can feel heavy.",
       "brewTip": "95 °C. A little milk still leaves the malt standing.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Assam oolong India assamica half-oxidised malt"
@@ -17678,7 +17678,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。把做红茶的叶子停在半发酵做成乌龙。",
       "story": "阿萨姆是红茶与CTC的故乡，也有茶园少量制作半发酵乌龙，展现大叶种的香气。",
       "flavor": "麦芽、蜂蜜与烤谷物，叠着乌龙的花香，汤体厚。",
-      "pairing": "黄油吐司、烤肉、浓味奶酪。",
+      "pairing": "与黄油吐司、烤肉和浓味奶酪都很搭配。麦芽、蜂蜜与烤谷物的甘甜加上乌龙的花香提升，形成厚实体感，支撑黄油与奶酪的丰润。在清澈清淡的沙拉旁，那份体感可能显得沉重。",
       "brewTip": "95度。加一点牛奶也压不住麦芽香。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "阿萨姆乌龙 印度 大叶种 半发酵 麦芽"
@@ -17694,7 +17694,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。把做紅茶的葉子停在半發酵做成烏龍。",
       "story": "阿薩姆是紅茶與CTC的故鄉，也有茶園少量製作半發酵烏龍，展現大葉種的香氣。",
       "flavor": "麥芽、蜂蜜與烤穀物，疊著烏龍的花香，湯體厚。",
-      "pairing": "奶油吐司、烤肉、濃味起司。",
+      "pairing": "很適合搭配奶油吐司、烤肉和強味起司。麥芽、蜂蜜與烘烤穀物的甜味加上烏龍的花香提升,形成厚實的茶體,支撐奶油與起司的豐潤。在清澈清淡的沙拉旁,這份茶體可能顯得沉重。",
       "brewTip": "95度。加一點牛奶也壓不住麥芽香。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "阿薩姆烏龍 印度 大葉種 半發酵 麥芽"
@@ -17762,7 +17762,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조. 홍차로 만들 잎을 중간 산화에서 멈춥니다.",
       "story": "홍차의 나라 스리랑카에서 우롱 수요에 맞춰 고산 다원들이 반발효로 만들기 시작한 차입니다.",
       "flavor": "맑은 감귤·꽃 향과 가벼운 꿀맛. 실론 홍차의 산뜻한 골격이 남습니다.",
-      "pairing": "과일 타르트, 샐러드, 흰살생선.",
+      "pairing": "과일 타르트와 샐러드, 찐 흰살생선과 잘 어울립니다. 맑은 감귤·꽃 향과 가벼운 꿀맛이 타르트의 산뜻함과 겹치고, 실론 홍차의 산뜻한 골격이 가벼운 식사를 깔끔하게 마무리합니다. 진한 스튜와는 맑은 향이 묻히기 쉽습니다.",
       "brewTip": "85~90도. 너무 뜨거우면 꽃향이 묻힙니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "실론 우롱 스리랑카 우바 반발효 고산"
@@ -17778,7 +17778,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying; black-tea leaf stopped mid-oxidation.",
       "story": "In a black-tea country, high-grown gardens began half-oxidising leaf as oolong demand grew.",
       "flavor": "Clear citrus and flowers with light honey, over the bright frame of Ceylon black tea.",
-      "pairing": "Fruit tarts, salads, white fish.",
+      "pairing": "It pairs well with fruit tarts, salads and steamed white fish. The clear citrus and flowers with light honey overlap with the tart's brightness, and the bright frame of Ceylon black tea finishes a light meal neatly. A rich stew can easily bury its clear aroma.",
       "brewTip": "85–90 °C; hotter water buries the flowers.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Ceylon oolong Sri Lanka Uva half-oxidised high-grown"
@@ -17794,7 +17794,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。把红茶叶停在半发酵。",
       "story": "在红茶之国斯里兰卡，高山茶园应乌龙需求开始做半发酵茶。",
       "flavor": "清亮的柑橘与花香、淡淡蜜味，底下是锡兰红茶的明快骨架。",
-      "pairing": "水果塔、沙拉、白身鱼。",
+      "pairing": "与水果塔、沙拉和清蒸白肉鱼都很搭配。清澈的柑橘与花香加上轻盈蜂蜜，与塔的明亮重叠，锡兰红茶明亮的框架干净地为清淡一餐收尾。浓郁炖菜很容易掩埋它清澈的香气。",
       "brewTip": "85~90度，水太烫会盖住花香。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "锡兰乌龙 斯里兰卡 乌瓦 半发酵 高山"
@@ -17810,7 +17810,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。把紅茶葉停在半發酵。",
       "story": "在紅茶之國斯里蘭卡，高山茶園應烏龍需求開始做半發酵茶。",
       "flavor": "清亮的柑橘與花香、淡淡蜜味，底下是錫蘭紅茶的明快骨架。",
-      "pairing": "水果塔、沙拉、白身魚。",
+      "pairing": "很適合搭配水果塔、沙拉和清蒸白肉魚。清澈的柑橘與花香加上輕盈蜂蜜,與塔的明亮重疊,錫蘭紅茶明亮的骨架讓清淡的一餐收尾俐落。豐盛的燉菜很容易埋沒它清澈的香氣。",
       "brewTip": "85~90度，水太燙會蓋住花香。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "錫蘭烏龍 斯里蘭卡 烏瓦 半發酵 高山"
@@ -17880,7 +17880,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 단단히 뭉쳐 유념 → 건조 → 진한 배화. 산화를 깊게 하고 불을 세게 입힙니다.",
       "story": "대만에서 건너간 차나무와 제다 기술이 태국 북부 고산에 자리 잡으며 생긴 스타일로, 붉은 수색에서 루비라는 이름이 붙었습니다.",
       "flavor": "건자두·건포도 같은 건과일 단맛과 구운 견과의 고소함, 붉은 수색.",
-      "pairing": "건과일, 다크초콜릿, 견과류 디저트.",
+      "pairing": "건과일과 다크초콜릿, 견과류 디저트와 잘 어울립니다. 건자두·건포도 같은 건과일의 단맛과 구운 견과의 고소함이 디저트의 진한 단맛과 겹쳐 풍성해집니다. 상큼한 과일 샐러드와는 농축된 단맛이 따로 놀기 쉽습니다.",
       "brewTip": "95도. 첫 포는 잎을 깨우는 린스로 짧게 버려도 좋습니다.",
       "keep": "밀봉해 서늘하고 건조하게. 배화향은 습기에 약합니다.",
       "keywords": "루비 우롱 태국 치앙라이 도이매살롱 배화 구형"
@@ -17896,7 +17896,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → tight ball rolling → drying → heavy roasting, with deep oxidation.",
       "story": "Taiwanese bushes and craft settled in Thailand's northern highlands; the name comes from the red liquor.",
       "flavor": "Dried plum and raisin sweetness, roasted nuts, a red liquor.",
-      "pairing": "Dried fruit, dark chocolate, nut desserts.",
+      "pairing": "It pairs well with dried fruit, dark chocolate and nut desserts. The dried plum and raisin sweetness and roasted-nut richness overlap with the desserts' deep sweetness to feel fuller. Its concentrated sweetness can sit apart from a bright fruit salad.",
       "brewTip": "95 °C. A quick rinse to wake the ball is fine.",
       "keep": "Sealed, cool and dry; roast aroma hates humidity.",
       "keywords": "Ruby oolong Thailand Chiang Rai Doi Mae Salong roasted ball"
@@ -17912,7 +17912,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 紧团揉 → 干燥 → 重焙火。发酵深、火功足。",
       "story": "台湾茶苗与制茶技术落脚泰国北部高山，汤色红亮而得名红宝石。",
       "flavor": "梅干、葡萄干般的干果甜与烤坚果香，汤色红。",
-      "pairing": "干果、黑巧克力、坚果甜点。",
+      "pairing": "与干果、黑巧克力和坚果甜点都很搭配。干梅与葡萄干的甘甜和烤坚果的丰润与甜点深厚的甜味重叠而更显丰满。它浓缩的甘甜在明亮水果沙拉旁可能显得分离。",
       "brewTip": "95度。第一泡可快速润茶倒掉。",
       "keep": "密封、阴凉干燥，焙火香怕潮。",
       "keywords": "红宝石乌龙 泰国 清莱 美斯乐 焙火 球形"
@@ -17928,7 +17928,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 緊團揉 → 乾燥 → 重焙火。發酵深、火功足。",
       "story": "台灣茶苗與製茶技術落腳泰國北部高山，湯色紅亮而得名紅寶石。",
       "flavor": "梅乾、葡萄乾般的乾果甜與烤堅果香，湯色紅。",
-      "pairing": "乾果、黑巧克力、堅果甜點。",
+      "pairing": "很適合搭配果乾、黑巧克力和堅果甜點。梅乾與葡萄乾的甜味和烘烤堅果的豐潤,與甜點深沉的甜味重疊,感覺更豐滿。它濃縮的甜味在明亮的水果沙拉旁可能顯得格格不入。",
       "brewTip": "95度。第一泡可快速潤茶倒掉。",
       "keep": "密封、陰涼乾燥，焙火香怕潮。",
       "keywords": "紅寶石烏龍 泰國 清萊 美斯樂 焙火 球形"
@@ -17997,7 +17997,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 유념 → 건조. 제주 잎에 우롱의 반발효 제법을 적용합니다.",
       "story": "녹차 중심이던 제주 차밭에서 제법을 넓히려는 시도로 만든 한국 우롱으로, 화산암 토양의 개성을 내세웁니다.",
       "flavor": "맑은 꽃향과 풀 향, 화산토에서 오는 듯한 미네랄감과 깔끔한 단맛.",
-      "pairing": "해산물, 나물, 가벼운 한식.",
+      "pairing": "해산물과 나물, 가벼운 한식 반찬과 잘 어울립니다. 맑은 꽃향과 풀 향, 화산토를 닮은 미네랄감이 해산물의 담백함과 어울리고, 깔끔한 단맛이 나물의 순한 맛을 해치지 않습니다. 진한 양념의 찜 요리와는 맑은 향이 부딪힙니다.",
       "brewTip": "85~90도. 제주 녹차보다 길게 우려도 떫음이 적습니다.",
       "keep": "밀봉 냉장. 개봉 후 한 달 안.",
       "keywords": "제주화산암차 제주 우롱 한국 화산토 미네랄"
@@ -18013,7 +18013,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → rolling → drying; oolong half-oxidation applied to Jeju leaf.",
       "story": "An experiment from Jeju's green-tea gardens to widen the island's craft, named for its volcanic rock soil.",
       "flavor": "Clean flowers and grass, a mineral note from the volcanic soil, neat sweetness.",
-      "pairing": "Seafood, namul, light Korean dishes.",
+      "pairing": "It pairs well with seafood, namul and light Korean side dishes. The clean flowers and grass, with a mineral note reminiscent of volcanic soil, suit the seafood's delicacy, and the neat sweetness never disturbs the namul's mild flavors. Its clear aroma clashes with heavily seasoned braised dishes.",
       "brewTip": "85–90 °C. It takes a longer steep than Jeju green tea without turning harsh.",
       "keep": "Sealed and refrigerated; within a month of opening.",
       "keywords": "Jeju volcanic rock tea Korean oolong volcanic soil mineral"
@@ -18029,7 +18029,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 揉捻 → 干燥。把乌龙的半发酵工艺用在济州叶上。",
       "story": "以绿茶为主的济州茶园拓展工艺的尝试之作，主打火山岩土壤的个性。",
       "flavor": "清亮的花香与青草香，像来自火山土的矿物感，甜味干净。",
-      "pairing": "海鲜、凉拌野菜、清淡韩餐。",
+      "pairing": "与海鲜、野菜和清淡韩式小菜都很搭配。干净的花与青草，加上令人联想火山土壤的矿物气息，适合海鲜的精致，整洁的甘甜不会打扰野菜清淡的滋味。它清澈的香气与调味浓重的炖菜冲突。",
       "brewTip": "85~90度。比济州绿茶泡久也不太涩。",
       "keep": "密封冷藏，开封后一个月内。",
       "keywords": "济州火山岩茶 济州乌龙 韩国 火山土 矿物感"
@@ -18045,7 +18045,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 揉捻 → 乾燥。把烏龍的半發酵工藝用在濟州葉上。",
       "story": "以綠茶為主的濟州茶園拓展工藝的嘗試之作，主打火山岩土壤的個性。",
       "flavor": "清亮的花香與青草香，像來自火山土的礦物感，甜味乾淨。",
-      "pairing": "海鮮、涼拌野菜、清淡韓餐。",
+      "pairing": "很適合搭配海鮮、涼拌野菜和清淡的韓式小菜。乾淨的花香與青草,加上令人想起火山土壤的礦物氣息,適合海鮮的細緻,俐落的甜味不會打擾野菜清淡的味道。它清澈的香氣與調味濃重的燉煮料理衝突。",
       "brewTip": "85~90度。比濟州綠茶泡久也不太澀。",
       "keep": "密封冷藏，開封後一個月內。",
       "keywords": "濟州火山岩茶 濟州烏龍 韓國 火山土 礦物感"
@@ -18114,7 +18114,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 요청 → 살청 → 구형 유념 → 건조. 발효를 가볍게 멈추는 대만식 경발효(청차) 방식입니다.",
       "story": "청우롱은 특정 다원의 이름이 아니라, 한국에서 대만식 경발효 우롱을 가리키는 이름으로 쓰입니다.",
       "flavor": "맑은 난초·풀꽃 향과 가벼운 단맛. 녹차와 우롱의 사이에 있는 산뜻한 맛.",
-      "pairing": "과일, 가벼운 디저트, 샐러드.",
+      "pairing": "신선한 과일과 가벼운 디저트, 샐러드와 잘 어울립니다. 맑은 난초·풀꽃 향과 가벼운 단맛이 녹차와 우롱 사이의 산뜻한 인상을 주어, 가벼운 식사 곁에서 부담 없이 어울립니다. 진한 고기 요리와는 산뜻한 맛이 금세 묻힙니다.",
       "brewTip": "85~90도. 짧게 여러 번 우리면 꽃향이 또렷합니다.",
       "keep": "밀봉 냉장. 개봉 후 한 달 안.",
       "keywords": "청우롱 한국 우롱 청차 경발효 대만식"
@@ -18130,7 +18130,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → bruising → firing → ball rolling → drying; the light oxidation of Taiwanese qingcha.",
       "story": "Cheong oolong is not one garden's brand but the name used in Korea for Taiwanese-style lightly oxidised oolong.",
       "flavor": "Clear orchid and meadow flowers, light sweetness — between green tea and oolong.",
-      "pairing": "Fruit, light desserts, salads.",
+      "pairing": "It pairs well with fresh fruit, light desserts and salads. The clear orchid and meadow flowers with light sweetness give a fresh impression between green tea and oolong, easy company for a light meal. Rich meat dishes quickly bury that freshness.",
       "brewTip": "85–90 °C, short and often, keeps the flowers clear.",
       "keep": "Sealed and refrigerated; within a month of opening.",
       "keywords": "Cheong oolong Korean oolong qingcha light oxidation Taiwanese style"
@@ -18146,7 +18146,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 摇青 → 杀青 → 球形揉捻 → 干燥。台湾式轻发酵（青茶）做法。",
       "story": "青乌龙不是某个茶园的名字，而是韩国对台湾式轻发酵乌龙的称呼。",
       "flavor": "清亮的兰花与野花香、轻盈的甜，介于绿茶与乌龙之间。",
-      "pairing": "水果、清淡甜点、沙拉。",
+      "pairing": "与新鲜水果、清淡甜点和沙拉都很搭配。清澈的兰花与草地花香加上轻盈甘甜，带来介于绿茶与乌龙之间的清新印象，是清淡一餐的轻松伙伴。丰盛肉类菜肴很快会掩埋那份清新。",
       "brewTip": "85~90度，短泡多泡花香更清楚。",
       "keep": "密封冷藏，开封后一个月内。",
       "keywords": "青乌龙 韩国乌龙 青茶 轻发酵 台湾式"
@@ -18162,7 +18162,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 搖菁 → 殺菁 → 球形揉捻 → 乾燥。台灣式輕發酵（青茶）做法。",
       "story": "青烏龍不是某個茶園的名字，而是韓國對台灣式輕發酵烏龍的稱呼。",
       "flavor": "清亮的蘭花與野花香、輕盈的甜，介於綠茶與烏龍之間。",
-      "pairing": "水果、清淡甜點、沙拉。",
+      "pairing": "很適合搭配新鮮水果、清淡甜點和沙拉。清澈的蘭花與草原花香加上輕盈甜味,給人介於綠茶與烏龍之間的清新印象,是清淡餐食的好夥伴。豐盛的肉類料理很快就會埋沒這份清新。",
       "brewTip": "85~90度，短泡多泡花香更清楚。",
       "keep": "密封冷藏，開封後一個月內。",
       "keywords": "青烏龍 韓國烏龍 青茶 輕發酵 台灣式"
@@ -18232,7 +18232,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조. 기문·전홍과 함께 공부(工夫) 제법을 쓰는 홍차입니다.",
       "story": "기홍(기문)·전홍과 함께 중국의 3대 공부홍차로 꼽힙니다. 싹만 모아 만든 '사천금아'가 유명합니다.",
       "flavor": "장미 같은 꽃향, 진한 바디감, 마신 뒤에 밀려오는 단맛(회감).",
-      "pairing": "중식, 훈제 요리, 다크초콜릿.",
+      "pairing": "중식, 훈제 요리, 다크초콜릿, 구운 오리가 어울립니다. 장미 같은 꽃향과 진한 바디, 마신 뒤 밀려오는 단맛(회감)이 훈제 요리의 풍미를 길게 이어 줍니다. 신맛이 강한 음식은 회감의 단맛을 끊으니 곁들이지 마세요.",
       "brewTip": "85℃ 안팎이 핵심. 끓는 물을 바로 부으면 떫은맛이 도드라집니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "천홍 쓰촨 이빈 공부홍차 사천금아 장미향"
@@ -18248,7 +18248,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → rolling → oxidation → drying, in the gongfu method shared with Keemun and Dianhong.",
       "story": "Counted with Keemun and Dianhong among China's three great gongfu black teas; its all-bud grade is Sichuan Jinya.",
       "flavor": "Rose-like flowers, a full body, and a sweetness that rolls in afterwards — huigan.",
-      "pairing": "Chinese food, smoked dishes, dark chocolate.",
+      "pairing": "Chinese food, smoked dishes, dark chocolate and roast duck pair well. Rose-like flowers, a full body and the sweetness that rolls in afterwards (huigan) carry smoked flavours a long way. Strongly sour food would cut that returning sweetness.",
       "brewTip": "Around 85 °C is the point; straight boiling water makes it harsh.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Chuanhong Sichuan Yibin gongfu black tea Sichuan Jinya rose"
@@ -18264,7 +18264,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。与祁红、滇红同为工夫制法。",
       "story": "与祁红、滇红并称中国三大工夫红茶。只采芽头制成的“四川金芽”有名。",
       "flavor": "玫瑰般的花香、浓厚的汤体，饮后涌上的回甘。",
-      "pairing": "中餐、熏制料理、黑巧克力。",
+      "pairing": "中餐、烟熏菜肴、黑巧克力和烤鸭搭配得很好。玫瑰般的花香、饱满体感与随后滚来的甘甜（回甘）把烟熏味承载得很远。酸味强的食物会切断那份回甘。",
       "brewTip": "85度上下是关键，沸水直冲会发涩。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "川红 四川 宜宾 工夫红茶 四川金芽 玫瑰香"
@@ -18280,7 +18280,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。與祁紅、滇紅同為工夫製法。",
       "story": "與祁紅、滇紅並稱中國三大工夫紅茶。只採芽頭製成的「四川金芽」有名。",
       "flavor": "玫瑰般的花香、濃厚的湯體，飲後湧上的回甘。",
-      "pairing": "中餐、燻製料理、黑巧克力。",
+      "pairing": "中菜、煙燻料理、黑巧克力和烤鴨搭配起來很好。玫瑰般的花香、飽滿的茶體與隨後滾來的回甘,能把煙燻風味承載很遠。酸味強的食物會切斷那份回甘。",
       "brewTip": "85度上下是關鍵，沸水直沖會發澀。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "川紅 四川 宜賓 工夫紅茶 四川金芽 玫瑰香"
@@ -18348,7 +18348,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조. '홍매'는 우린 찻물 빛이 붉은 매화를 닮은 데서 왔습니다.",
       "story": "녹차 용정의 고장에서 같은 계통의 잎으로 만드는 홍차입니다. '구곡'은 푸젠에서 이주한 사람들이 고향 무이산의 구곡계(九曲溪)를 따서 붙였고, '홍매'는 찻물 빛이 붉은 매화 같다는 데서 왔습니다.",
       "flavor": "카카오 같은 뉘앙스와 말린 과일의 단맛, 부드러운 꽃향.",
-      "pairing": "초콜릿, 견과류, 구운 과자.",
+      "pairing": "초콜릿, 견과류, 구운 과자, 말린 무화과가 어울립니다. 카카오 같은 뉘앙스와 말린 과일의 단맛이 구운 과자의 고소함과 자연스럽게 겹치고 부드러운 꽃향이 마무리를 살려 줍니다. 매운 음식은 섬세한 꽃향을 덮으니 피하세요.",
       "brewTip": "85~90도에서 2분. 길게 우리면 카카오 향보다 떫음이 앞섭니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "구곡홍매 항저우 서호 용정 홍차 카카오"
@@ -18364,7 +18364,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → rolling → oxidation → drying; hongmei, 'red plum', names the red-plum colour of the brew.",
       "story": "The black tea of the Longjing homeland, made from the same leaf stock. 'Jiuqu' was named by Fujian migrants after the Nine-Bend Stream of their Wuyi homeland; hongmei, 'red plum', names the brew's colour.",
       "flavor": "A cacao note, dried-fruit sweetness and soft flowers.",
-      "pairing": "Chocolate, nuts, baked sweets.",
+      "pairing": "Chocolate, nuts, baked sweets and dried figs pair well. A cacao note and dried-fruit sweetness layer naturally over nutty baked goods, with soft flowers lifting the finish. Spicy food would cover the delicate florals.",
       "brewTip": "85–90 °C for 2 minutes; longer and astringency steps ahead of the cacao.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Jiuqu Hongmei Hangzhou West Lake Longjing black tea cacao"
@@ -18380,7 +18380,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。“红梅”指茶汤色如红梅，故名。",
       "story": "龙井故乡以同源的叶做的红茶。“九曲”源于福建移民怀念家乡武夷山的九曲溪，“红梅”指茶汤红如梅花。",
       "flavor": "可可般的韵味、干果的甜与柔和花香。",
-      "pairing": "巧克力、坚果、烤点心。",
+      "pairing": "巧克力、坚果、烘焙甜点和干无花果搭配得很好。可可气息与干果甘甜自然叠在坚果香烘焙点心之上，柔和花香提升收尾。辛辣食物会盖住精致花香。",
       "brewTip": "85~90度泡2分钟，泡久了涩味会盖过可可香。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "九曲红梅 杭州 西湖 龙井 红茶 可可"
@@ -18396,7 +18396,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。「紅梅」指茶湯色如紅梅，故名。",
       "story": "龍井故鄉以同源的葉做的紅茶。「九曲」源於福建移民懷念家鄉武夷山的九曲溪，「紅梅」指茶湯紅如梅花。",
       "flavor": "可可般的韻味、乾果的甜與柔和花香。",
-      "pairing": "巧克力、堅果、烤點心。",
+      "pairing": "巧克力、堅果、烘焙甜點和無花果乾搭配起來很好。可可香與果乾的甜味自然疊在堅果香的烘焙點心之上,柔和的花香提升尾韻。辛辣食物會蓋住細緻的花香。",
       "brewTip": "85~90度泡2分鐘，泡久了澀味會蓋過可可香。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "九曲紅梅 杭州 西湖 龍井 紅茶 可可"
@@ -18464,7 +18464,7 @@ window.TEAFaiData = (function () {
       "process": "홍차 가루를 증기로 쪄서 틀에 넣고 압착 → 건조. 벽돌 모양으로 굳혀 장기 보관과 운송에 맞춥니다.",
       "story": "주로 신장 등 서북 지역으로 나가는 저렴한 일상차로, 보이차처럼 오래 두고 마실 수 있습니다. 조리교차창(趙李橋茶廠)의 기관차 문양 제품이 알려졌습니다.",
       "flavor": "진한 몰트와 흙내음 가까운 구수함. 우유나 소금과도 섞어 마십니다.",
-      "pairing": "기름진 음식, 양고기, 유제품.",
+      "pairing": "기름진 음식, 양고기, 유제품, 구운 감자가 어울립니다. 진한 몰트와 흙내음 가까운 구수함이 양고기의 지방과 맞붙고 우유나 소금과 섞어도 풍미가 무너지지 않습니다. 맑은 디저트는 구수한 흙 향과 결이 달라 따로 드세요.",
       "brewTip": "덩어리를 5g쯤 부숴 끓는 물에 5분. 냄비에 끓여도 됩니다.",
       "keep": "통풍이 되는 건조한 곳. 벽돌차는 장기 보관이 전제입니다.",
       "keywords": "미전차 후난 벽돌차 긴압 홍차 말차 조리교"
@@ -18480,7 +18480,7 @@ window.TEAFaiData = (function () {
       "process": "Black-tea dust is steamed, pressed in a mould and dried into a brick built for storage and transport.",
       "story": "A cheap everyday tea shipped mainly to Xinjiang and the northwest, kept for years like pu'er; the locomotive-stamped bricks of Zhaoliqiao Tea Factory are the famous ones.",
       "flavor": "Strong malt and an earthy savouriness; also drunk with milk or salt.",
-      "pairing": "Greasy food, lamb, dairy.",
+      "pairing": "Greasy food, lamb, dairy and roast potatoes pair well. Strong malt and an earthy savouriness meet lamb fat head-on and hold their flavour mixed with milk or salt. Clear, light desserts run against the earthy depth.",
       "brewTip": "Break off about 5 g and give it 5 minutes in boiling water; it can also be simmered.",
       "keep": "Dry and ventilated — brick tea is made to keep.",
       "keywords": "Mizhuan Hunan brick tea compressed black tea Zhaoliqiao"
@@ -18496,7 +18496,7 @@ window.TEAFaiData = (function () {
       "process": "红茶末蒸后入模压紧 → 干燥。压成砖形便于长期保存与运输。",
       "story": "主要销往新疆等西北地区的廉价日常茶，可像普洱一样久存。赵李桥茶厂的火车头图案产品有名。",
       "flavor": "浓麦芽香与近乎泥土的醇厚，也有人加奶或盐喝。",
-      "pairing": "油腻食物、羊肉、奶制品。",
+      "pairing": "油腻食物、羊肉、乳制品和烤土豆搭配得很好。强烈的麦芽与大地咸鲜正面迎上羊肉油脂，混入牛奶或盐后依然保持滋味。清澈清淡的甜点与大地深度相违。",
       "brewTip": "掰下约5克，沸水泡5分钟，也可以在锅里煮。",
       "keep": "放在通风干燥处，砖茶本就为久存而制。",
       "keywords": "米砖茶 湖南 砖茶 紧压红茶 赵李桥"
@@ -18512,7 +18512,7 @@ window.TEAFaiData = (function () {
       "process": "紅茶末蒸後入模壓緊 → 乾燥。壓成磚形便於長期保存與運輸。",
       "story": "主要銷往新疆等西北地區的廉價日常茶，可像普洱一樣久存。趙李橋茶廠的火車頭圖案產品有名。",
       "flavor": "濃麥芽香與近乎泥土的醇厚，也有人加奶或鹽喝。",
-      "pairing": "油膩食物、羊肉、奶製品。",
+      "pairing": "油膩食物、羊肉、乳製品和烤馬鈴薯搭配起來很好。強勁的麥芽與泥土鮮鹹正面迎接羊肉的油脂,與牛奶或鹽混合也保持味道。清澈清淡的甜點與泥土的深度相逆。",
       "brewTip": "掰下約5公克，沸水泡5分鐘，也可以在鍋裡煮。",
       "keep": "放在通風乾燥處，磚茶本就為久存而製。",
       "keywords": "米磚茶 湖南 磚茶 緊壓紅茶 趙李橋"
@@ -18582,7 +18582,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조. 아삼종과 기문종을 교잡한 품종 홍운(대차21호)으로 만듭니다.",
       "story": "대만 농업부 차 및 음료작물 개량장(구 차업개량장) 위츠분장에서 아삼종과 기문종을 교잡해 낸 품종이 홍운(紅韻, 대차21호)입니다. 기존 '일월담' 항목이 홍옥(대차18호) 중심인 데 비해, 홍운은 유자·꽃 향과 새콤달콤함이 앞서는 다른 품종입니다.",
       "flavor": "유자(柚) 향과 꽃향, 새콤달콤한 과일 맛. 홍옥의 계피·멘솔 계열과는 결이 다릅니다.",
-      "pairing": "과일 디저트, 중식, 가벼운 케이크.",
+      "pairing": "과일 디저트, 가벼운 중식, 유자 케이크, 쉬폰 케이크가 어울립니다. 유자와 꽃의 새콤달콤한 과일 향이 가벼운 케이크의 달콤함과 상큼하게 어우러집니다. 진한 훈제 요리나 매운 음식은 이 과일 향을 덮어 버리니 피하세요.",
       "brewTip": "95도에서 3분. 홍옥보다 향이 섬세해 우유 없이 마시는 쪽이 낫습니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "홍운 일월담 대차21호 유자향 대만 홍차"
@@ -18598,7 +18598,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → rolling → oxidation → drying, from Hong Yun (TTES No.21), a cross of assamica and Keemun stock.",
       "story": "Hong Yun (紅韻, TTES No.21) was bred at the Yuchi branch of Taiwan's Tea and Beverage Crops Improvement Station from assamica × Keemun. Where the existing Sun Moon Lake entry centres on Hong Yu (No.18), Hong Yun is a different cultivar led by pomelo, flowers and a sweet-sour palate.",
       "flavor": "Pomelo and floral notes with a sweet-sour fruit palate — a different line from Hong Yu's cinnamon and menthol.",
-      "pairing": "Fruit desserts, Chinese food, light cakes.",
+      "pairing": "Fruit desserts, light Chinese dishes, yuzu cake and chiffon cake pair well. Pomelo and floral sweet-sour fruit notes blend refreshingly with light cakes. Strong smoked or spicy dishes would bury the fruit aroma.",
       "brewTip": "95 °C for 3 minutes; its aroma is finer than Hong Yu's, so skip the milk.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Hong Yun Sun Moon Lake TTES No.21 pomelo Taiwan black tea"
@@ -18614,7 +18614,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。用阿萨姆种与祁门种杂交的红韵（台茶21号）制作。",
       "story": "红韵（台茶21号）是台湾茶及饮料作物改良场鱼池分场用阿萨姆种与祁门种杂交育成的品种。与以红玉（台茶18号）为主的“日月潭”条目不同，红韵以柚香、花香与酸甜见长，是另一个品种。",
       "flavor": "柚香与花香、酸甜的果味，与红玉的肉桂、薄荷系完全不同。",
-      "pairing": "水果甜点、中餐、清淡蛋糕。",
+      "pairing": "水果甜点、清淡中餐、柚子蛋糕和戚风蛋糕搭配得很好。柚子与花香的酸甜果香清爽地融入清淡蛋糕。浓重烟熏或辛辣菜肴会掩埋水果香气。",
       "brewTip": "95度3分钟。香气比红玉细，不加奶更好。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "红韵 日月潭 台茶21号 柚香 台湾红茶"
@@ -18630,7 +18630,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。用阿薩姆種與祁門種雜交的紅韻（台茶21號）製作。",
       "story": "紅韻（台茶21號）是台灣茶及飲料作物改良場魚池分場用阿薩姆種與祁門種雜交育成的品種。與以紅玉（台茶18號）為主的「日月潭」條目不同，紅韻以柚香、花香與酸甜見長，是另一個品種。",
       "flavor": "柚香與花香、酸甜的果味，與紅玉的肉桂、薄荷系完全不同。",
-      "pairing": "水果甜點、中餐、清淡蛋糕。",
+      "pairing": "水果甜點、清淡中菜、柚子蛋糕和戚風蛋糕搭配起來很好。柚子與花香的酸甜果香,與清淡蛋糕清新地融合。煙燻味強或辛辣的菜會埋沒水果香。",
       "brewTip": "95度3分鐘。香氣比紅玉細，不加奶更好。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "紅韻 日月潭 台茶21號 柚香 台灣紅茶"
@@ -18700,7 +18700,7 @@ window.TEAFaiData = (function () {
       "process": "위조 → 유념 → 산화 → 건조. 자색 싹을 골라 소량씩 모아 만듭니다.",
       "story": "자아산차(紫芽山茶)는 대만 자생 산차의 자줏빛 어린 싹을 가리키는 이름입니다. 일월담 일대에서 소량 만들어지며, 산차 특유의 야성적인 향과 진한 맛으로 고급으로 취급됩니다.",
       "flavor": "야생 꿀과 허브, 말린 과일의 깊은 단맛. 재배 품종보다 거칠고 긴 여운.",
-      "pairing": "견과류, 말린 과일, 숙성 치즈.",
+      "pairing": "견과류, 말린 과일, 숙성 치즈, 꿀 토스트가 어울립니다. 야생 꿀과 허브, 말린 과일의 깊은 단맛과 거친 여운이 숙성 치즈의 짠맛과 고소함을 묵직하게 받아 냅니다. 맑은 생선 요리는 긴 여운에 눌리니 피하세요.",
       "brewTip": "90도에서 2분. 노수 잎은 뒤로 갈수록 단맛이 깊어집니다.",
       "keep": "밀봉해 서늘하고 건조하게. 개봉 후 두 달 안.",
       "keywords": "자아산차 대만 산차 일월담 야생 노수 홍차"
@@ -18716,7 +18716,7 @@ window.TEAFaiData = (function () {
       "process": "Withering → rolling → oxidation → drying, gathered in small lots from purple-flushing trees.",
       "story": "Ziya Shancha (紫芽山茶) names the purple young buds of Taiwan's native mountain tea. Made in small lots around Sun Moon Lake, it is prized for its wild, deep character.",
       "flavor": "Wild honey, herbs and dried fruit in a deep sweetness — rougher and longer than planted cultivars.",
-      "pairing": "Nuts, dried fruit, aged cheese.",
+      "pairing": "Nuts, dried fruit, aged cheese and honey toast pair well. Wild honey, herbs and dried fruit in a deep sweetness with a rough, long finish weightily meet aged cheese's salt and richness. Clear fish dishes would be overwhelmed.",
       "brewTip": "90 °C for 2 minutes; old-tree leaf sweetens as the infusions go on.",
       "keep": "Sealed, cool and dry; within two months of opening.",
       "keywords": "Ziya Shancha Taiwan wild mountain tea Sun Moon Lake old tree black tea"
@@ -18732,7 +18732,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 发酵 → 干燥。挑选紫芽少量收集制作。",
       "story": "紫芽山茶指台湾原生山茶的紫色嫩芽。日月潭一带少量制作，以山茶特有的野性香气与浓厚滋味被视为高级茶。",
       "flavor": "野蜂蜜、草本与干果的深甜，比栽培品种更粗犷、余韵更长。",
-      "pairing": "坚果、干果、熟成奶酪。",
+      "pairing": "坚果、干果、熟成奶酪和蜂蜜吐司搭配得很好。野蜂蜜、草本与干果在深厚甘甜中，加上粗犷悠长的收尾，沉甸甸地迎上熟成奶酪的咸与丰润。清澈鱼类菜肴会被压倒。",
       "brewTip": "90度2分钟。老树叶越泡到后面越甜。",
       "keep": "密封、阴凉干燥，开封后两个月内。",
       "keywords": "紫芽山茶 台湾山茶 日月潭 野生 老树 红茶"
@@ -18748,7 +18748,7 @@ window.TEAFaiData = (function () {
       "process": "萎凋 → 揉捻 → 發酵 → 乾燥。挑選紫芽少量收集製作。",
       "story": "紫芽山茶指台灣原生山茶的紫色嫩芽。日月潭一帶少量製作，以山茶特有的野性香氣與濃厚滋味被視為高級茶。",
       "flavor": "野蜂蜜、草本與乾果的深甜，比栽培品種更粗獷、餘韻更長。",
-      "pairing": "堅果、乾果、熟成起司。",
+      "pairing": "堅果、果乾、熟成起司和蜂蜜吐司搭配起來很好。野蜂蜜、藥草與果乾在深沉甜味中,加上粗獷悠長的尾韻,沉穩地迎接熟成起司的鹹與豐潤。清澈的魚類料理會被壓過。",
       "brewTip": "90度2分鐘。老樹葉越泡到後面越甜。",
       "keep": "密封、陰涼乾燥，開封後兩個月內。",
       "keywords": "紫芽山茶 台灣山茶 日月潭 野生 老樹 紅茶"
@@ -18772,7 +18772,7 @@ window.TEAFaiData = (function () {
       "oneLine": "Lightly oxidised oolong rolled into pearls and scented with jasmine.",
       "origin": "Produced in Taiwan from lightly oxidised oolong rolled into pearls.",
       "oxidation": "About 20%",
-      "pairing": "Dim sum, light desserts, fruit. Heavy food overwhelms its delicacy.",
+      "pairing": "It pairs well with dim sum, light desserts and fresh fruit. The clear jasmine floral and gentle sweetness bring out the dim sum's delicacy, and its impression is as light as its pale cream liquor. The scent is delicate, so avoid heavy food, which overwhelms it.",
       "process": "Withering, light oxidation, rolling leaf and bud into pearls, drying, then scenting with fresh jasmine blossom.",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 or more infusions",
@@ -18794,7 +18794,7 @@ window.TEAFaiData = (function () {
       "oneLine": "가볍게 산화시킨 우롱을 구슬처럼 말아 자스민 향을 입힌 차.",
       "origin": "대만에서 생산됩니다. 가볍게 산화시킨 우롱 찻잎을 구슬처럼 말아 만듭니다.",
       "oxidation": "약 20%",
-      "pairing": "딤섬, 가벼운 디저트, 과일. 향이 섬세해 진한 음식과는 부딪힙니다.",
+      "pairing": "딤섬과 가벼운 디저트, 신선한 과일과 잘 어울립니다. 맑은 자스민 꽃향과 부드러운 단맛이 딤섬의 담백한 맛을 살려 주고, 옅은 크림빛 물색처럼 인상도 가볍습니다. 향이 섬세해 진한 음식과는 부딪히니 피하세요.",
       "process": "위조 → 가벼운 산화 → 잎과 싹을 구슬 모양으로 말기 → 건조 → 생자스민 꽃으로 흡향.",
       "ratioNote": "150ml에 3g",
       "rounds": "3회 이상",
@@ -18849,7 +18849,7 @@ window.TEAFaiData = (function () {
       "oneLine": "轻发酵乌龙揉成龙珠，再窨入茉莉花香。",
       "origin": "产于台湾，以轻发酵乌龙揉成龙珠。",
       "oxidation": "约20%",
-      "pairing": "点心、清淡甜品、水果。味道浓重的食物会盖过它的细腻。",
+      "pairing": "与点心、清淡甜点和新鲜水果都很搭配。清澈的茉莉花香与温和甘甜衬托点心的精致，印象如其淡奶油色茶汤般轻盈。香气细腻，因此避免厚重食物，会压倒它。",
       "process": "萎凋 → 轻发酵 → 把叶芽揉成龙珠 → 干燥 → 以新鲜茉莉花窨制。",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡以上",
@@ -18865,7 +18865,7 @@ window.TEAFaiData = (function () {
       "oneLine": "輕發酵烏龍揉成龍珠，再窨入茉莉花香。",
       "origin": "產於臺灣，以輕發酵烏龍揉成龍珠。",
       "oxidation": "約20%",
-      "pairing": "點心、清淡甜品、水果。味道濃重的食物會蓋過它的細膩。",
+      "pairing": "很適合搭配點心、清淡甜點和新鮮水果。清澈的茉莉花香與溫和甜味能帶出點心的細緻,印象如同它淡奶油色的茶湯一樣輕盈。香氣細緻,因此請避免厚重的食物,以免壓過它。",
       "process": "萎凋 → 輕發酵 → 把葉芽揉成龍珠 → 乾燥 → 以新鮮茉莉花窨製。",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡以上",
@@ -18932,7 +18932,7 @@ window.TEAFaiData = (function () {
       "process": "가지를 썰어 말리고 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "여름에 많이 나는 가지를 저장해 두고 먹던 방식에서 비롯된 민간 차입니다.",
       "flavor": "구수한 볶은 향과 담백한 맛, 깔끔한 뒷맛.",
-      "pairing": "식사, 기름진 음식 뒤.",
+      "pairing": "구수한 볶은 향과 담백한 맛이 가지볶음·제육 같은 반찬이 있는 식사와 잘 어울립니다. 기름진 음식을 먹은 뒤 마시면 뒷맛이 깔끔합니다. 양념이 아주 강한 음식과는 담백함이 묻힐 수 있습니다.",
       "brewTip": "5분 이상 우리면 구수함이 올라옵니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "가지차 말린가지 채소차 구수한차"
@@ -18948,7 +18948,7 @@ window.TEAFaiData = (function () {
       "process": "Eggplant sliced, dried, roasted, then steeped in hot water.",
       "story": "A folk tea born of preserving the summer glut of eggplants.",
       "flavor": "Toasty roast aroma, mild body, clean finish.",
-      "pairing": "Meals, after oily food.",
+      "pairing": "Its toasty roast aroma and mild taste pair well with meals of side dishes like stir-fried eggplant and pork. After oily food, it leaves a clean finish. Very strongly seasoned dishes can bury its mildness.",
       "brewTip": "Five minutes or more brings out the toastiness.",
       "keep": "Sealed and dry.",
       "keywords": "eggplant tea gaji dried vegetable Korea"
@@ -18964,7 +18964,7 @@ window.TEAFaiData = (function () {
       "process": "茄子切片、晒干、炒制后冲泡。",
       "story": "源于把夏季多产的茄子存起来食用的民间做法。",
       "flavor": "焦香、清淡，收尾干净。",
-      "pairing": "餐食、油腻食物之后。",
+      "pairing": "烘焙香与温和味道与炒茄子、猪肉等家常配菜很搭配。油腻食物之后，收尾清爽。调味非常浓重的菜可能掩埋它的温和。",
       "brewTip": "泡五分钟以上更香。",
       "keep": "密封干燥。",
       "keywords": "茄子茶 蔬菜茶 韩国"
@@ -18980,7 +18980,7 @@ window.TEAFaiData = (function () {
       "process": "茄子切片、曬乾、炒製後沖泡。",
       "story": "源於把夏季多產的茄子存起來食用的民間做法。",
       "flavor": "焦香、清淡，收尾乾淨。",
-      "pairing": "餐食、油膩食物之後。",
+      "pairing": "焦香的烘烤香氣與溫和滋味，與炒茄子、豬肉等配菜餐食很搭。油膩食物之後，收尾乾淨。調味極重的料理可能掩蓋它的溫和。",
       "brewTip": "泡五分鐘以上更香。",
       "keep": "密封乾燥。",
       "keywords": "茄子茶 蔬菜茶 韓國"
@@ -19046,7 +19046,7 @@ window.TEAFaiData = (function () {
       "process": "말린 감초를 물에 넣고 달여 우립니다.",
       "story": "한방에서 오래 써 온 재료로, 가정에서는 달여서 차처럼 마셨습니다.",
       "flavor": "또렷한 자연 단맛과 은은한 흙 향, 부드러운 뒷맛.",
-      "pairing": "쓴 차와 번갈아, 식후 한 잔.",
+      "pairing": "또렷한 자연 단맛이 고삼차처럼 쓴 차와 번갈아 마실 때 입안을 부드럽게 달래 줍니다. 식후에 한 잔 마시면 단 디저트 없이도 단맛이 채워집니다. 단맛 나는 간식과 함께하면 단맛이 겹쳐 물릴 수 있습니다.",
       "brewTip": "단맛이 강하니 처음에는 적게 넣고 맞추세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "감초차 감초뿌리 단맛 약재차"
@@ -19062,7 +19062,7 @@ window.TEAFaiData = (function () {
       "process": "Dried licorice simmered in water and strained.",
       "story": "Long used in herbal medicine, and decocted at home as an everyday tea.",
       "flavor": "Clear natural sweetness, a faint earthy note, soft finish.",
-      "pairing": "Alternating with bitter teas, after meals.",
+      "pairing": "Its clear natural sweetness soothes the palate when alternated with a bitter tea like sophora root tea. A cup after a meal satisfies the sweet tooth without dessert. Paired with sweet snacks, the sweetness overlaps and can cloy.",
       "brewTip": "Start with less than you think — the sweetness builds.",
       "keep": "Sealed and dry.",
       "keywords": "licorice root tea gamcho sweet herbal"
@@ -19078,7 +19078,7 @@ window.TEAFaiData = (function () {
       "process": "干甘草入水煎煮后饮用。",
       "story": "是韩方里久用的药材，家里也煎来当茶。",
       "flavor": "自然甜味明显，带淡淡土香，收尾柔和。",
-      "pairing": "与苦味茶交替、饭后一杯。",
+      "pairing": "清亮的天然甘甜与苦参茶等苦味茶交替饮用时，能安抚味觉。饭后一杯，不用甜点也能满足想吃甜的念头。与甜味小吃搭配时，甜味叠加可能腻人。",
       "brewTip": "甜味强，初次少放一些再调整。",
       "keep": "密封干燥。",
       "keywords": "甘草茶 甘草根 甜味 药材茶"
@@ -19094,7 +19094,7 @@ window.TEAFaiData = (function () {
       "process": "乾甘草入水煎煮後飲用。",
       "story": "是韓方裡久用的藥材，家裡也煎來當茶。",
       "flavor": "自然甜味明顯，帶淡淡土香，收尾柔和。",
-      "pairing": "與苦味茶交替、飯後一杯。",
+      "pairing": "清澈的天然甜味，與苦參茶等苦味茶交替飲用時，能安撫味蕾。餐後一杯，不吃甜點也能滿足想吃甜的嘴。與甜點心同配時，甜味重疊可能膩口。",
       "brewTip": "甜味強，初次少放一些再調整。",
       "keep": "密封乾燥。",
       "keywords": "甘草茶 甘草根 甜味 藥材茶"
@@ -19160,7 +19160,7 @@ window.TEAFaiData = (function () {
       "process": "개암을 말려 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "가을 산에서 주운 개암을 저장해 두고 볶아 마시던 민간 차입니다.",
       "flavor": "고소한 견과 향과 은은한 단맛, 부드러운 바디.",
-      "pairing": "간식, 떡과 함께.",
+      "pairing": "고소한 견과 향과 부드러운 바디가 인절미·절편 같은 떡과 잘 어울리고, 구운 과자 같은 간식과도 결이 맞습니다. 견과 향이 떡의 담백함을 살려 줍니다. 매운 음식과는 고소함이 묻혀 어울리기 어렵습니다.",
       "brewTip": "볶은 개암을 살짝 빻아 우리면 더 진합니다.",
       "keep": "밀봉해 건조하게. 기름기가 있어 서늘하게 둡니다.",
       "keywords": "개암차 개암나무 견과 고소한차"
@@ -19176,7 +19176,7 @@ window.TEAFaiData = (function () {
       "process": "Nuts dried, roasted, then steeped in hot water.",
       "story": "A folk tea of autumn-gathered hazelnuts, stored and roasted for drinking.",
       "flavor": "Toasty nut aroma, gentle sweetness, soft body.",
-      "pairing": "Snacks, rice cakes.",
+      "pairing": "Its toasty nut aroma and soft body pair well with rice cakes like injeolmi and jeolpyeon, and match baked snacks too. The nutty scent lifts the cakes' plainness. Spicy food buries its nuttiness, making it a hard match.",
       "brewTip": "Lightly crush the roasted nuts before steeping.",
       "keep": "Sealed, dry and cool — the nut oils prefer it.",
       "keywords": "hazel tea gaeam nutty Korea"
@@ -19192,7 +19192,7 @@ window.TEAFaiData = (function () {
       "process": "榛子晒干炒后热水冲泡。",
       "story": "把秋天山里捡的榛子存起来炒着喝的民间茶。",
       "flavor": "坚果焦香、微甜，口感柔和。",
-      "pairing": "零食、年糕。",
+      "pairing": "烘焙的坚果香气与柔和体感与豆粉年糕、印花米糕等米糕很搭配，也配烘焙小吃。坚果香提升米糕的朴素。辛辣食物会掩埋它的坚果香，很难搭配。",
       "brewTip": "炒过的榛子略碾碎再泡更浓。",
       "keep": "密封干燥阴凉。",
       "keywords": "榛子茶 坚果 韩国"
@@ -19208,7 +19208,7 @@ window.TEAFaiData = (function () {
       "process": "榛子曬乾炒後熱水沖泡。",
       "story": "把秋天山裡撿的榛子存起來炒著喝的民間茶。",
       "flavor": "堅果焦香、微甜，口感柔和。",
-      "pairing": "零食、年糕。",
+      "pairing": "焦香的堅果香氣與柔和茶身，與黃豆粉年糕、切片年糕等年糕很搭，配烘烤點心也合。堅果香能提升年糕的樸實感。辛辣食物會掩蓋它的堅果香，較難搭配。",
       "brewTip": "炒過的榛子略碾碎再泡更濃。",
       "keep": "密封乾燥陰涼。",
       "keywords": "榛子茶 堅果 韓國"
@@ -19273,7 +19273,7 @@ window.TEAFaiData = (function () {
       "process": "말린 계지를 물에 넣고 달여 우립니다.",
       "story": "한방 처방에 자주 등장하는 재료로, 가정에서도 달여 마셨습니다.",
       "flavor": "부드러운 계피 향과 은은한 단맛, 따뜻한 느낌.",
-      "pairing": "추운 날, 식후 한 잔.",
+      "pairing": "부드러운 계피 향과 은은한 단맛이 곶감·약과 같은 겨울 간식과 잘 어울리고, 식후 한 잔으로 마시면 따뜻한 느낌이 이어집니다. 계피 향이 간식의 단맛과 겹쳐 포근합니다. 시원한 샐러드와는 온도의 결이 달라 따로 즐기세요.",
       "brewTip": "대추를 한두 알 넣으면 맛이 부드러워집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "계지차 계피가지 약재차 한방"
@@ -19289,7 +19289,7 @@ window.TEAFaiData = (function () {
       "process": "Dried twigs simmered in water and strained.",
       "story": "A frequent ingredient in herbal prescriptions, also decocted at home.",
       "flavor": "Soft cinnamon aroma, gentle sweetness, a warming feel.",
-      "pairing": "Cold days, after meals.",
+      "pairing": "Its soft cinnamon aroma and gentle sweetness pair well with winter snacks like dried persimmon and yakgwa, and a cup after a meal carries the warmth on. The cinnamon layers cozily over the snacks' sweetness. Cool salads run on a different temperature track, so enjoy it separately.",
       "brewTip": "A jujube or two rounds out the flavor.",
       "keep": "Sealed and dry.",
       "keywords": "cinnamon twig tea gyeji herbal Korea"
@@ -19305,7 +19305,7 @@ window.TEAFaiData = (function () {
       "process": "干桂枝入水煎煮后饮用。",
       "story": "是韩方处方里常见的药材，家里也煎来喝。",
       "flavor": "柔和的桂皮香、微甜，感觉温暖。",
-      "pairing": "寒冷天气、饭后一杯。",
+      "pairing": "柔和的肉桂香气与温和甘甜与柿饼、药果等冬日小吃很搭配，饭后一杯把暖意延续下去。肉桂温馨地叠加在小吃的甜味之上。清凉的沙拉走的是不同的温度路线，请分开享用。",
       "brewTip": "放一两颗大枣味道更柔和。",
       "keep": "密封干燥。",
       "keywords": "桂枝茶 药材茶 韩方"
@@ -19321,7 +19321,7 @@ window.TEAFaiData = (function () {
       "process": "乾桂枝入水煎煮後飲用。",
       "story": "是韓方處方裡常見的藥材，家裡也煎來喝。",
       "flavor": "柔和的桂皮香、微甜，感覺溫暖。",
-      "pairing": "寒冷天氣、飯後一杯。",
+      "pairing": "柔和的肉桂香氣與溫和甜味，與柿餅、藥菓等冬季點心很搭，餐後一杯能延續暖意。肉桂香溫馨地疊在點心的甜味之上。冰涼的沙拉溫度路線不同，建議分開享用。",
       "brewTip": "放一兩顆大棗味道更柔和。",
       "keep": "密封乾燥。",
       "keywords": "桂枝茶 藥材茶 韓方"
@@ -19388,7 +19388,7 @@ window.TEAFaiData = (function () {
       "process": "계피를 물에 넣고 달이거나 뜨거운 물에 우립니다.",
       "story": "수정과로 익숙한 계피를 재료 하나로 우린 차입니다.",
       "flavor": "맵싸한 향신료 향과 단맛, 따뜻하고 진한 바디.",
-      "pairing": "디저트, 곶감·수정과 같은 간식.",
+      "pairing": "맵싸한 계피 향과 진한 단맛이 곶감·약과 같은 전통 간식과 잘 어울리고, 사과파이 같은 구운 디저트와도 향이 겹쳐 좋습니다. 진한 바디가 단 간식의 무게를 받아 줍니다. 담백한 떡과는 향이 강하게 앞설 수 있습니다.",
       "brewTip": "생강을 조금 넣으면 향이 한층 깊어집니다.",
       "keep": "밀봉해 건조하게. 향이 날아가지 않게 합니다.",
       "keywords": "계피차 육계 수정과 향신료차"
@@ -19404,7 +19404,7 @@ window.TEAFaiData = (function () {
       "process": "Bark simmered, or steeped in hot water.",
       "story": "The cinnamon of sujeonggwa punch, brewed as a tea in its own right.",
       "flavor": "Spicy-sweet aroma, a warm and fairly full body.",
-      "pairing": "Desserts, dried persimmon and traditional sweets.",
+      "pairing": "Its spicy-sweet cinnamon aroma and deep sweetness pair well with traditional snacks like dried persimmon and yakgwa, and layer nicely with baked desserts like apple pie. The full body stands up to sweet snacks. With plain rice cakes, its aroma can push too far forward.",
       "brewTip": "A slice of ginger deepens the aroma.",
       "keep": "Sealed and dry, to hold the aroma.",
       "keywords": "cinnamon tea gyepi spice Korea"
@@ -19420,7 +19420,7 @@ window.TEAFaiData = (function () {
       "process": "桂皮入水煎煮，或热水冲泡。",
       "story": "把水正果里熟悉的桂皮单独泡成的茶。",
       "flavor": "辛甜的香料香，口感温暖浓郁。",
-      "pairing": "甜点、柿饼等传统小吃。",
+      "pairing": "辛甜的肉桂香气与深厚甘甜与柿饼、药果等传统小吃很搭配，与苹果派等烘焙甜点叠加也很美妙。饱满的体感能站稳于甜味小吃旁。配朴素的米糕时，它的香气可能过于向前。",
       "brewTip": "加一点生姜香气更深。",
       "keep": "密封干燥，防香气散失。",
       "keywords": "桂皮茶 水正果 香料茶"
@@ -19436,7 +19436,7 @@ window.TEAFaiData = (function () {
       "process": "桂皮入水煎煮，或熱水沖泡。",
       "story": "把水正果裡熟悉的桂皮單獨泡成的茶。",
       "flavor": "辛甜的香料香，口感溫暖濃郁。",
-      "pairing": "甜點、柿餅等傳統小吃。",
+      "pairing": "辛香帶甜的肉桂香氣與深沉甜味，與柿餅、藥菓等傳統點心很搭，與蘋果派等烘焙甜點疊加也很美妙。厚實的茶身能駕馭甜點心。配樸實的年糕時，它的香氣可能過於向前。",
       "brewTip": "加一點生薑香氣更深。",
       "keep": "密封乾燥，防香氣散失。",
       "keywords": "桂皮茶 水正果 香料茶"
@@ -19502,7 +19502,7 @@ window.TEAFaiData = (function () {
       "process": "말린 고삼 뿌리를 물에 넣고 달여 우립니다.",
       "story": "이름의 '고(苦)'가 쓴맛을 뜻하는, 한방에서 오래 쓴 재료입니다.",
       "flavor": "또렷한 쓴맛과 흙 향, 마른 뒷맛.",
-      "pairing": "단맛 나는 차와 번갈아, 소량씩.",
+      "pairing": "또렷한 쓴맛이 있어 감초차나 대추차처럼 단맛 나는 차와 번갈아 마시면 쓴맛이 부드럽게 느껴집니다. 소량씩 작은 잔으로 즐기는 차입니다. 단맛 없는 담백한 음식만 곁들이면 쓴맛이 더 도드라질 수 있습니다.",
       "brewTip": "처음에는 적게 넣고 쓴맛의 정도를 확인하세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "고삼차 쓴차 약재차 한방"
@@ -19518,7 +19518,7 @@ window.TEAFaiData = (function () {
       "process": "Dried root simmered in water and strained.",
       "story": "The 'go' in gosam means bitter — a long-used herbal material.",
       "flavor": "Firm bitterness, earthy notes, a dry finish.",
-      "pairing": "In small cups, alternating with sweeter teas.",
+      "pairing": "With its firm bitterness, alternating it with a sweet tea like licorice or jujube tea makes the bitterness feel softer. It is a tea to enjoy in small cups, a little at a time. Paired only with plain, unsweetened food, the bitterness stands out even more.",
       "brewTip": "Start small and gauge the bitterness first.",
       "keep": "Sealed and dry.",
       "keywords": "sophora root tea gosam bitter herbal"
@@ -19534,7 +19534,7 @@ window.TEAFaiData = (function () {
       "process": "干苦参根入水煎煮后饮用。",
       "story": "名字里的“苦”就是苦味，是韩方久用的药材。",
       "flavor": "苦味明显、带土香，收尾干爽。",
-      "pairing": "小量饮用，与甜味茶交替。",
+      "pairing": "苦味扎实，与甘草茶、红枣茶等甜味茶交替饮用，苦味会显得柔和。这是一款小杯慢饮、一点点品的茶。只配朴素无糖的食物时，苦味会更加突出。",
       "brewTip": "初次少放，先试苦味程度。",
       "keep": "密封干燥。",
       "keywords": "苦参茶 苦味 药材茶"
@@ -19550,7 +19550,7 @@ window.TEAFaiData = (function () {
       "process": "乾苦參根入水煎煮後飲用。",
       "story": "名字裡的「苦」就是苦味，是韓方久用的藥材。",
       "flavor": "苦味明顯、帶土香，收尾乾爽。",
-      "pairing": "小量飲用，與甜味茶交替。",
+      "pairing": "苦味扎實，與甘草茶或大棗茶等甜味茶交替飲用，苦味會感覺柔和些。這是一款小杯慢慢享用的茶。只配樸實無糖的食物時，苦味會更加突出。",
       "brewTip": "初次少放，先試苦味程度。",
       "keep": "密封乾燥。",
       "keywords": "苦參茶 苦味 藥材茶"
@@ -19617,7 +19617,7 @@ window.TEAFaiData = (function () {
       "process": "배초향 잎을 말린 뒤 뜨거운 물에 우립니다.",
       "story": "곽향은 배초향의 약재 이름으로, 잎을 말려 차로도 마셨습니다.",
       "flavor": "깻잎과 민트 사이의 향, 옅은 단맛과 시원한 뒷맛.",
-      "pairing": "식후, 기름진 음식과.",
+      "pairing": "깻잎과 민트 사이의 향과 시원한 뒷맛이 삼겹살·보쌈 같은 기름진 음식과 잘 어울립니다. 식후에 마시면 입안이 상쾌하게 정리됩니다. 향이 섬세한 꽃차 디저트와는 향이 부딪힐 수 있습니다.",
       "brewTip": "차갑게 우려도 향이 살아 있습니다.",
       "keep": "밀봉해 건조하게. 향이 날아가지 않게 합니다.",
       "keywords": "곽향차 배초향 허브차 한국민트"
@@ -19633,7 +19633,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves dried, then steeped in hot water.",
       "story": "Gwakhwang is the herb's medicine name; the leaves were also dried for tea.",
       "flavor": "Between perilla and mint, light sweetness, a cooling finish.",
-      "pairing": "After meals, with rich food.",
+      "pairing": "Its aroma between perilla and mint and its cooling finish pair well with rich food like pork belly and boiled pork. After a meal it refreshes the palate. Delicately scented floral desserts can clash with its aroma.",
       "brewTip": "The aroma survives cold-brewing well.",
       "keep": "Sealed and dry, to hold the aroma.",
       "keywords": "korean mint tea agastache gwakhwang herb"
@@ -19649,7 +19649,7 @@ window.TEAFaiData = (function () {
       "process": "排草香叶晒干后热水冲泡。",
       "story": "藿香是排草香的药材名，叶子也晒干当茶喝。",
       "flavor": "介于紫苏与薄荷之间的香气、微甜，收尾清凉。",
-      "pairing": "饭后、油腻食物。",
+      "pairing": "介于紫苏与薄荷之间的香气与清凉收尾与五花肉、白切猪肉等丰盛食物很搭配。饭后能让味觉清爽。香气精致的花香甜点可能与它的香气相冲。",
       "brewTip": "冷泡香气也在。",
       "keep": "密封干燥，防香气散失。",
       "keywords": "藿香茶 排草香 草本茶"
@@ -19665,7 +19665,7 @@ window.TEAFaiData = (function () {
       "process": "排草香葉曬乾後熱水沖泡。",
       "story": "藿香是排草香的藥材名，葉子也曬乾當茶喝。",
       "flavor": "介於紫蘇與薄荷之間的香氣、微甜，收尾清涼。",
-      "pairing": "飯後、油膩食物。",
+      "pairing": "介於紫蘇與薄荷之間的香氣與清涼收尾，與五花肉、水煮豬肉等豐盛食物很搭。餐後能讓味蕾清爽。香氣細緻的花香甜點可能與它的香氣相衝。",
       "brewTip": "冷泡香氣也在。",
       "keep": "密封乾燥，防香氣散失。",
       "keywords": "藿香茶 排草香 草本茶"
@@ -19732,7 +19732,7 @@ window.TEAFaiData = (function () {
       "process": "귤 껍질을 씻어 말리고 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "겨울 귤의 껍질을 버리지 않고 말려 마시던 민간 차입니다.",
       "flavor": "상큼한 귤 향과 옅은 단맛, 가벼운 뒷맛.",
-      "pairing": "디저트, 식후 한 잔.",
+      "pairing": "상큼한 귤 향이 카스텔라·마들렌 같은 구운 디저트와 잘 어울리고, 기름진 식사 뒤 한 잔으로 마시면 뒷맛이 가볍습니다. 귤 향이 버터 풍미를 산뜻하게 씻어 줍니다. 진한 초콜릿과는 향이 겹칠 수 있습니다.",
       "brewTip": "껍질의 흰 속부분을 줄이면 쓴맛이 덜합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "귤피차 귤껍질 감귤 상큼한차"
@@ -19748,7 +19748,7 @@ window.TEAFaiData = (function () {
       "process": "Peel washed, dried, roasted, then steeped.",
       "story": "A folk tea that saved winter tangerine peels instead of throwing them away.",
       "flavor": "Fresh citrus aroma, light sweetness, a clean finish.",
-      "pairing": "Desserts, after meals.",
+      "pairing": "Its fresh tangerine aroma pairs well with baked desserts like castella and madeleines, and a cup after a rich meal leaves a light finish. The citrus washes the buttery richness away brightly. Dark chocolate can crowd its aroma.",
       "brewTip": "Less white pith means less bitterness.",
       "keep": "Sealed and dry.",
       "keywords": "tangerine peel tea gyulpi citrus Korea"
@@ -19764,7 +19764,7 @@ window.TEAFaiData = (function () {
       "process": "橘皮洗净、晒干、炒制后冲泡。",
       "story": "把冬天橘子的皮晒干来喝的民间茶。",
       "flavor": "清新的橘香、微甜，收尾轻盈。",
-      "pairing": "甜点、饭后一杯。",
+      "pairing": "清新的橘子香气与卡斯特拉、玛德琳等烘焙甜点很搭配，丰盛一餐后一杯，收尾轻盈。柑橘明亮地洗去黄油的浓郁。黑巧克力可能挤压它的香气。",
       "brewTip": "少留白色内皮，苦味更轻。",
       "keep": "密封干燥。",
       "keywords": "橘皮茶 柑橘 清香"
@@ -19780,7 +19780,7 @@ window.TEAFaiData = (function () {
       "process": "橘皮洗淨、曬乾、炒製後沖泡。",
       "story": "把冬天橘子的皮曬乾來喝的民間茶。",
       "flavor": "清新的橘香、微甜，收尾輕盈。",
-      "pairing": "甜點、飯後一杯。",
+      "pairing": "清新的橘皮香氣，與卡斯特拉蛋糕、瑪德蓮等烘焙甜點很搭；豐盛餐食後一杯，收尾輕盈。柑橘香能明亮地洗去奶油的濃郁。黑巧克力可能擠壓它的香氣。",
       "brewTip": "少留白色內皮，苦味更輕。",
       "keep": "密封乾燥。",
       "keywords": "橘皮茶 柑橘 清香"
@@ -19847,7 +19847,7 @@ window.TEAFaiData = (function () {
       "process": "귤꽃을 그늘에서 말린 뒤 따뜻한 물에 우립니다.",
       "story": "귤 껍질을 말려 마시던 관습과 함께, 꽃도 말려 차로 썼습니다.",
       "flavor": "귤을 닮은 꽃향과 옅은 단맛, 맑은 물색.",
-      "pairing": "가벼운 디저트, 오후의 한 잔.",
+      "pairing": "귤을 닮은 꽃향과 맑은 단맛이 화전이나 가벼운 카스텔라 같은 디저트와 잘 어울립니다. 오후에 떡 한 조각과 함께하면 향이 은은하게 이어집니다. 양념이 강한 음식과는 섬세한 꽃향이 묻혀 피하세요.",
       "brewTip": "유리 다구로 우리면 꽃이 피는 모습이 보입니다.",
       "keep": "밀봉해 서늘하게. 향이 쉽게 날아갑니다.",
       "keywords": "귤화차 귤꽃 꽃차 제주"
@@ -19863,7 +19863,7 @@ window.TEAFaiData = (function () {
       "process": "Blossoms shade-dried, then steeped in warm water.",
       "story": "Alongside the dried-peel custom, the blossoms too were dried for tea.",
       "flavor": "Citrus-like floral aroma, light sweetness, clear liquor.",
-      "pairing": "Light desserts, a quiet afternoon cup.",
+      "pairing": "Its citrus-like floral aroma and clear sweetness pair well with light desserts like hwajeon or a plain castella. With a piece of rice cake in the afternoon, the scent carries on softly. Avoid strongly seasoned food, which buries the delicate floral aroma.",
       "brewTip": "Glassware shows the blossoms opening.",
       "keep": "Sealed and cool — the scent fades fast.",
       "keywords": "tangerine blossom tea gyulhwa flower Jeju"
@@ -19879,7 +19879,7 @@ window.TEAFaiData = (function () {
       "process": "橘花阴干后温水冲泡。",
       "story": "与晒橘皮的习惯一起，花也晒干当茶。",
       "flavor": "类似橘子的花香、微甜，汤色清亮。",
-      "pairing": "清淡甜点、午后一杯。",
+      "pairing": "柑橘般的花香与清亮甘甜与花煎饼或原味卡斯特拉等清淡甜点很搭配。午后配一块米糕，香气柔和延续。避免调味强烈的食物，会掩埋细腻的花香。",
       "brewTip": "用玻璃茶具能看到花开。",
       "keep": "密封阴凉，香气易散。",
       "keywords": "橘花茶 花茶 济州"
@@ -19895,7 +19895,7 @@ window.TEAFaiData = (function () {
       "process": "橘花陰乾後溫水沖泡。",
       "story": "與曬橘皮的習慣一起，花也曬乾當茶。",
       "flavor": "類似橘子的花香、微甜，湯色清亮。",
-      "pairing": "清淡甜點、午後一杯。",
+      "pairing": "柑橘般的花香與清澈甜味，與花煎或樸素的卡斯特拉蛋糕等清淡甜點很搭。午後配一塊年糕，香氣柔和延續。避免重口味食物，會掩蓋細緻的花香。",
       "brewTip": "用玻璃茶具能看到花開。",
       "keep": "密封陰涼，香氣易散。",
       "keywords": "橘花茶 花茶 濟州"
@@ -19961,7 +19961,7 @@ window.TEAFaiData = (function () {
       "process": "말린 길경을 물에 넣고 달여 우립니다.",
       "story": "길경은 도라지 뿌리의 약재 이름으로, 달여서 차로 마셔 왔습니다.",
       "flavor": "쌉쌀한 뿌리 향과 옅은 단맛, 마른 뒷맛.",
-      "pairing": "식후, 대추와 함께 달여도.",
+      "pairing": "쌉쌀한 뿌리 향이 기름진 식사 뒤에 마시면 입안을 마른 느낌으로 정리해 줍니다. 대추와 함께 달이면 쓴맛이 부드러워져 곶감 같은 단 간식과도 어울립니다. 매운 음식과는 쌉쌀함이 겹칠 수 있습니다.",
       "brewTip": "대추나 감초를 조금 넣으면 쌉쌀함이 부드러워집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "길경차 도라지뿌리桔梗 약재차"
@@ -19977,7 +19977,7 @@ window.TEAFaiData = (function () {
       "process": "Dried root simmered in water and strained.",
       "story": "Gilgyeong is the medicine name of the doraji root, long decocted as tea.",
       "flavor": "Bittersweet root aroma, light sweetness, a dry finish.",
-      "pairing": "After meals, or decocted with jujube.",
+      "pairing": "Its bittersweet root aroma tidies the palate with a dry feel after a rich meal. Decocted with jujube, the bitterness softens and it suits sweet snacks like dried persimmon. With spicy food, the bitterness can stack up.",
       "brewTip": "A little jujube or licorice softens the bitterness.",
       "keep": "Sealed and dry.",
       "keywords": "platycodon root tea gilgyeong doraji herbal"
@@ -19993,7 +19993,7 @@ window.TEAFaiData = (function () {
       "process": "干桔梗入水煎煮后饮用。",
       "story": "桔梗是桔梗根的药材名，一直煎来当茶喝。",
       "flavor": "微苦的根香、淡甜，收尾干爽。",
-      "pairing": "饭后，或与大枣同煎。",
+      "pairing": "苦甜的根茎香气在一顿丰盛餐食后以干爽感收拾味觉。与红枣一起煎煮，苦味柔和，也适合柿饼等甜味小吃。配辛辣食物时，苦味会叠加。",
       "brewTip": "加一点大枣或甘草，苦味更柔和。",
       "keep": "密封干燥。",
       "keywords": "桔梗茶 桔梗根 药材茶"
@@ -20009,7 +20009,7 @@ window.TEAFaiData = (function () {
       "process": "乾桔梗入水煎煮後飲用。",
       "story": "桔梗是桔梗根的藥材名，一直煎來當茶喝。",
       "flavor": "微苦的根香、淡甜，收尾乾爽。",
-      "pairing": "飯後，或與大棗同煎。",
+      "pairing": "苦甜的根部香氣，以乾爽的口感在豐盛餐食後收拾味蕾。與大棗一起煎煮，苦味變柔和，也適合柿餅等甜點心。配辛辣食物時，苦味會疊加。",
       "brewTip": "加一點大棗或甘草，苦味更柔和。",
       "keep": "密封乾燥。",
       "keywords": "桔梗茶 桔梗根 藥材茶"
@@ -20076,7 +20076,7 @@ window.TEAFaiData = (function () {
       "process": "꿀풀 꽃이삭을 말린 뒤 뜨거운 물에 우립니다.",
       "story": "꿀풀은 약재로 하고초라 불리며, 민간에서는 말려 차로 마셨습니다.",
       "flavor": "담백한 풀·꽃 향과 옅은 단맛, 깔끔한 뒷맛.",
-      "pairing": "오후의 한 잔, 가벼운 간식과.",
+      "pairing": "담백한 풀·꽃 향과 깔끔한 뒷맛이 오후에 비스킷이나 카스텔라 같은 가벼운 간식과 함께하기 좋습니다. 맛이 순해 간식의 맛을 방해하지 않습니다. 진한 양념 음식과는 담백함이 묻힐 수 있습니다.",
       "brewTip": "차갑게 우려도 향이 깨끗합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "꿀풀 하고초 들꽃차 민간차"
@@ -20092,7 +20092,7 @@ window.TEAFaiData = (function () {
       "process": "Flower spikes dried, then steeped in hot water.",
       "story": "Called hagocho in herbal use, and dried for tea in folk practice.",
       "flavor": "Plain green-floral aroma, light sweetness, clean finish.",
-      "pairing": "An afternoon cup, light snacks.",
+      "pairing": "Its plain green-floral aroma and clean finish are lovely in the afternoon with light snacks like biscuits or castella. The gentle taste never gets in the snack's way. Heavily seasoned food can bury its mildness.",
       "brewTip": "Cold-brews cleanly too.",
       "keep": "Sealed and dry.",
       "keywords": "self-heal tea prunella kkulpool meadow"
@@ -20108,7 +20108,7 @@ window.TEAFaiData = (function () {
       "process": "夏枯草花穗晒干后热水冲泡。",
       "story": "夏枯草在药材里叫夏枯草，民间也晒干当茶。",
       "flavor": "清淡的草花香、微甜，收尾干净。",
-      "pairing": "午后一杯、清淡小吃。",
+      "pairing": "朴素的青绿花香与清爽收尾，午后配饼干、卡斯特拉等清淡小吃很美妙。温和的味道不会妨碍小吃。调味浓重的食物可能掩埋它的温和。",
       "brewTip": "冷泡也干净。",
       "keep": "密封干燥。",
       "keywords": "夏枯草茶 夏枯草 野花茶"
@@ -20124,7 +20124,7 @@ window.TEAFaiData = (function () {
       "process": "夏枯草花穗曬乾後熱水沖泡。",
       "story": "夏枯草在藥材裡叫夏枯草，民間也曬乾當茶。",
       "flavor": "清淡的草花香、微甜，收尾乾淨。",
-      "pairing": "午後一杯、清淡小吃。",
+      "pairing": "樸實的青綠花香與乾淨收尾，午後配餅乾或卡斯特拉蛋糕等清淡點心很美好。溫和的滋味不會妨礙點心。重口味食物可能掩蓋它的溫和。",
       "brewTip": "冷泡也乾淨。",
       "keep": "密封乾燥。",
       "keywords": "夏枯草茶 夏枯草 野花茶"
@@ -20191,7 +20191,7 @@ window.TEAFaiData = (function () {
       "process": "냉이를 깨끗이 씻어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "봄나물인 냉이를 국과 나물뿐 아니라 차로도 마셔 온 민간 차입니다.",
       "flavor": "냉이 특유의 풀 향과 옅은 단맛, 담백한 뒷맛.",
-      "pairing": "식사, 봄철 가벼운 음식과.",
+      "pairing": "냉이 특유의 풀 향이 냉이무침·봄나물 비빔밥 같은 봄철 가벼운 음식과 자연스럽게 어울립니다. 담백한 뒷맛이 식사의 흐름을 방해하지 않습니다. 양념이 진한 음식과는 풀 향이 묻혀 아쉬울 수 있습니다.",
       "brewTip": "뿌리째 말린 것이 향이 더 진합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "냉이차 봄나물 나생이 풀차"
@@ -20207,7 +20207,7 @@ window.TEAFaiData = (function () {
       "process": "Plant washed, dried, then steeped in hot water.",
       "story": "The spring green naengi, drunk as tea as well as eaten as namul.",
       "flavor": "The plant's own green aroma, light sweetness, plain finish.",
-      "pairing": "Meals, light spring food.",
+      "pairing": "The plant's own green aroma goes naturally with light spring food like seasoned shepherd's purse and spring-greens bibimbap. The plain finish never interrupts the meal. Heavily seasoned dishes can bury its green aroma.",
       "brewTip": "Root-on dried plants give a deeper aroma.",
       "keep": "Sealed and dry.",
       "keywords": "shepherd's purse tea naengi spring green"
@@ -20223,7 +20223,7 @@ window.TEAFaiData = (function () {
       "process": "荠菜洗净晒干后热水冲泡。",
       "story": "春季野菜荠菜，除了做菜也一直当茶喝的民间茶。",
       "flavor": "荠菜特有的草香、微甜，收尾清淡。",
-      "pairing": "餐食、春季清淡食物。",
+      "pairing": "植物本身的青绿香气自然地配荠菜拌菜、春野菜拌饭等清淡的春季食物。朴素的收尾不会打断用餐。调味浓重的菜可能掩埋它的青绿香气。",
       "brewTip": "连根晒干的香气更浓。",
       "keep": "密封干燥。",
       "keywords": "荠菜茶 春季野菜 民间茶"
@@ -20239,7 +20239,7 @@ window.TEAFaiData = (function () {
       "process": "薺菜洗淨曬乾後熱水沖泡。",
       "story": "春季野菜薺菜，除了做菜也一直當茶喝的民間茶。",
       "flavor": "薺菜特有的草香、微甜，收尾清淡。",
-      "pairing": "餐食、春季清淡食物。",
+      "pairing": "植物本身的青綠香氣，與涼拌薺菜、春野菜拌飯等清淡的春季食物自然相配。樸實的收尾不會打擾一餐。重口味料理可能掩蓋它的青綠香。",
       "brewTip": "連根曬乾的香氣更濃。",
       "keep": "密封乾燥。",
       "keywords": "薺菜茶 春季野菜 民間茶"
@@ -20304,7 +20304,7 @@ window.TEAFaiData = (function () {
       "process": "대용차를 끓인 뒤 식혀 냉장 보관하며 마십니다.",
       "story": "곡물차를 끓여 두었다가 차갑게 마시던 여름의 생활 방식에서 온 이름입니다.",
       "flavor": "재료 본연의 구수함이 차갑게 마시면 더 깔끔하게 느껴집니다.",
-      "pairing": "여름 식사, 매운 음식.",
+      "pairing": "차갑게 마실 때 더 깔끔한 구수함이 떡볶이·매운 닭발 같은 매운 음식의 열기를 식혀 줍니다. 여름철 비빔국수 같은 식사와도 잘 어울립니다. 따뜻한 음식과는 온도가 어긋나 따로 즐기는 게 좋습니다.",
       "brewTip": "완전히 식힌 뒤 냉장해야 맛이 변하지 않습니다.",
       "keep": "냉장 보관하고 이틀 안에 마십니다.",
       "keywords": "냉차 아이스티 여름 대용차 냉장"
@@ -20320,7 +20320,7 @@ window.TEAFaiData = (function () {
       "process": "The tea is boiled, cooled, and kept cold in the fridge.",
       "story": "From the summer habit of boiling grain tea ahead and drinking it cold.",
       "flavor": "The ingredient's own toastiness tastes cleaner when cold.",
-      "pairing": "Summer meals, spicy food.",
+      "pairing": "Its toastiness, cleaner when cold, cools the heat of spicy food like tteokbokki and spicy chicken feet. It also pairs well with summer meals like bibim noodles. With hot food the temperatures are at odds, so enjoy it separately.",
       "brewTip": "Cool it completely before refrigerating to keep the taste true.",
       "keep": "Refrigerated; drink within two days.",
       "keywords": "cold tea naengcha iced summer Korea"
@@ -20336,7 +20336,7 @@ window.TEAFaiData = (function () {
       "process": "代用茶煮好放凉，冷藏保存饮用。",
       "story": "源于把谷物茶煮好、夏天冷着喝的生活方式。",
       "flavor": "材料本身的焦香，冷饮更清爽。",
-      "pairing": "夏季餐食、辣味食物。",
+      "pairing": "冰镇时更清爽的烘焙香能冷却辣炒年糕、辣鸡爪等辛辣食物的热感。也与拌面等夏日餐食很搭配。与热食同享时温度相冲，请分开享用。",
       "brewTip": "完全放凉后再冷藏，味道不变。",
       "keep": "冷藏，两天内喝完。",
       "keywords": "冷茶 冰茶 夏季 代用茶"
@@ -20352,7 +20352,7 @@ window.TEAFaiData = (function () {
       "process": "代用茶煮好放涼，冷藏保存飲用。",
       "story": "源於把穀物茶煮好、夏天冷著喝的生活方式。",
       "flavor": "材料本身的焦香，冷飲更清爽。",
-      "pairing": "夏季餐食、辣味食物。",
+      "pairing": "冷飲時更乾淨的焦香，能冷卻辣炒年糕、辣雞爪等辛辣食物的熱氣。也與拌冷麵等夏季餐食很搭。與熱食溫度相衝，建議分開享用。",
       "brewTip": "完全放涼後再冷藏，味道不變。",
       "keep": "冷藏，兩天內喝完。",
       "keywords": "冷茶 冰茶 夏季 代用茶"
@@ -20418,7 +20418,7 @@ window.TEAFaiData = (function () {
       "process": "노각을 썰어 말리고 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "밭에서 늙혀 버리기 쉬운 노각을 저장해 마시던 민간 차입니다.",
       "flavor": "담백한 구수함과 옅은 단맛, 깔끔한 뒷맛.",
-      "pairing": "여름 식사, 차갑게 마셔도.",
+      "pairing": "담백한 구수함과 깔끔한 뒷맛이 여름철 냉국이나 비빔밥 같은 식사와 잘 어울립니다. 차갑게 마시면 더 산뜻해 매운 음식 곁에도 좋습니다. 진한 단맛의 디저트와는 담백함이 밀릴 수 있습니다.",
       "brewTip": "차갑게 우려도 맛이 깨끗합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "노각차 늙은오이 여름차 민간차"
@@ -20434,7 +20434,7 @@ window.TEAFaiData = (function () {
       "process": "Cucumber sliced, dried, roasted, then steeped.",
       "story": "A folk tea that saved overripe cucumbers from going to waste.",
       "flavor": "Plain toastiness, light sweetness, clean finish.",
-      "pairing": "Summer meals, or served cold.",
+      "pairing": "Its plain toastiness and clean finish pair well with summer meals like chilled soup and bibimbap. Served cold it is fresher still and suits spicy food. Richly sweet desserts can push its mildness aside.",
       "brewTip": "It stays clean-tasting when iced.",
       "keep": "Sealed and dry.",
       "keywords": "aged cucumber tea nogak summer Korea"
@@ -20450,7 +20450,7 @@ window.TEAFaiData = (function () {
       "process": "老黄瓜切片、晒干、炒制后冲泡。",
       "story": "把容易浪费的老黄瓜存起来喝的民间茶。",
       "flavor": "清淡焦香、微甜，收尾干净。",
-      "pairing": "夏季餐食，也可冷饮。",
+      "pairing": "朴素的烘焙香与清爽收尾与冷汤、拌饭等夏日餐食很搭配。冰镇后更清爽，也适合辛辣食物。甜味浓郁的甜点可能把它的温和推到一边。",
       "brewTip": "冷泡也干净。",
       "keep": "密封干燥。",
       "keywords": "老瓜茶 老黄瓜 夏季茶"
@@ -20466,7 +20466,7 @@ window.TEAFaiData = (function () {
       "process": "老黃瓜切片、曬乾、炒製後沖泡。",
       "story": "把容易浪費的老黃瓜存起來喝的民間茶。",
       "flavor": "清淡焦香、微甜，收尾乾淨。",
-      "pairing": "夏季餐食，也可冷飲。",
+      "pairing": "樸實的焦香與乾淨收尾，與冷湯、拌飯等夏季餐食很搭。冷飲更新鮮，也適合辛辣食物。甜味濃郁的甜點可能擠開它的溫和。",
       "brewTip": "冷泡也乾淨。",
       "keep": "密封乾燥。",
       "keywords": "老瓜茶 老黃瓜 夏季茶"
@@ -20532,7 +20532,7 @@ window.TEAFaiData = (function () {
       "process": "녹두를 볶은 뒤 물에 넣고 끓여 우립니다.",
       "story": "녹두를 삶은 물을 마시던 습관에서 비롯된 차입니다.",
       "flavor": "구수한 콩·곡물 향과 옅은 단맛, 담백한 뒷맛.",
-      "pairing": "식사, 여름에 차갑게.",
+      "pairing": "구수한 콩·곡물 향이 녹두전이나 빈대떡 같은 음식과 결이 맞고, 일반 식사 곁에도 담백하게 어울립니다. 여름에 차갑게 마시면 한결 산뜻합니다. 향신료가 강한 음식과는 구수함이 묻힐 수 있습니다.",
       "brewTip": "끓인 뒤 체에 걸러 두면 깔끔합니다.",
       "keep": "밀봉해 건조하게. 끓인 차는 냉장합니다.",
       "keywords": "녹두차 곡물차 구수한차 여름"
@@ -20548,7 +20548,7 @@ window.TEAFaiData = (function () {
       "process": "Beans roasted, then boiled in water and strained.",
       "story": "From the habit of drinking the water mung beans were cooked in.",
       "flavor": "Toasty bean and grain notes, light sweetness, plain finish.",
-      "pairing": "Meals, or cold in summer.",
+      "pairing": "Its toasty bean and grain notes match foods like mung bean pancakes and bindaetteok, and sit plainly beside regular meals. Served cold in summer it feels fresher. Strongly spiced food can bury its toastiness.",
       "brewTip": "Strain after boiling for a cleaner cup.",
       "keep": "Beans sealed and dry; the boiled tea refrigerated.",
       "keywords": "mung bean tea nokdu grain Korea"
@@ -20564,7 +20564,7 @@ window.TEAFaiData = (function () {
       "process": "绿豆炒后入水煮制。",
       "story": "源于喝煮绿豆水的习惯。",
       "flavor": "豆谷焦香、微甜，收尾清淡。",
-      "pairing": "餐食、夏季冷饮。",
+      "pairing": "烘焙的豆香与谷物气息与绿豆煎饼等食物相合，放在正餐旁也朴素相宜。夏天冰镇更清爽。香料味强烈的食物可能掩埋它的烘焙香。",
       "brewTip": "煮后过滤更清爽。",
       "keep": "密封干燥，煮好的茶冷藏。",
       "keywords": "绿豆茶 谷物茶 夏季"
@@ -20580,7 +20580,7 @@ window.TEAFaiData = (function () {
       "process": "綠豆炒後入水煮製。",
       "story": "源於喝煮綠豆水的習慣。",
       "flavor": "豆穀焦香、微甜，收尾清淡。",
-      "pairing": "餐食、夏季冷飲。",
+      "pairing": "焦香的豆香與穀物調，與綠豆煎餅等食物相合，配一般餐食也樸實無礙。夏天冷飲感覺更新鮮。香料味重的食物可能掩蓋它的焦香。",
       "brewTip": "煮後過濾更清爽。",
       "keep": "密封乾燥，煮好的茶冷藏。",
       "keywords": "綠豆茶 穀物茶 夏季"
@@ -20647,7 +20647,7 @@ window.TEAFaiData = (function () {
       "process": "말린 다시마를 따뜻한 물에 우려 우립니다.",
       "story": "국물 재료인 다시마를 차처럼 우려 마셔 온 방식입니다.",
       "flavor": "은은한 감칠맛과 바다 향, 옅은 짠맛.",
-      "pairing": "담백한 식사, 해산물 요리와.",
+      "pairing": "은은한 감칠맛과 바다 향이 생선구이·조개탕 같은 해산물 요리와 자연스럽게 어울리고, 담백한 국물 요리와도 결이 맞습니다. 옅은 짠맛이 음식의 간을 살려 줍니다. 단 디저트와는 바다 향이 어긋나 따로 즐기세요.",
       "brewTip": "표면의 흰 가루는 닦지 말고 그대로 쓰면 감칠맛이 납니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "다시마차 곤부 감칠맛 바다"
@@ -20663,7 +20663,7 @@ window.TEAFaiData = (function () {
       "process": "Dried kelp steeped in warm water.",
       "story": "The stock ingredient kelp, drunk steeped like a tea.",
       "flavor": "Soft umami, a sea breeze aroma, a hint of salt.",
-      "pairing": "Plain meals, seafood dishes.",
+      "pairing": "Its soft umami and sea aroma go naturally with seafood dishes like grilled fish and clam soup, and match plain brothy dishes too. The hint of salt lifts the food's seasoning. Sweet desserts sit at odds with the sea aroma, so enjoy it separately.",
       "brewTip": "Leave the white surface powder on — it carries the umami.",
       "keep": "Sealed and dry.",
       "keywords": "kelp tea dasima umami sea"
@@ -20679,7 +20679,7 @@ window.TEAFaiData = (function () {
       "process": "干昆布用温水冲泡。",
       "story": "把汤底材料昆布当茶泡来喝的方式。",
       "flavor": "淡淡的鲜味与海香，微咸。",
-      "pairing": "清淡餐食、海鲜料理。",
+      "pairing": "柔和的鲜味与海的香气自然地配烤鱼、蛤蜊汤等海鲜菜肴，也配朴素的汤菜。淡淡的咸味提升食物的调味。甜味甜点与海的香气不协调，请分开享用。",
       "brewTip": "表面的白粉别擦掉，那是鲜味来源。",
       "keep": "密封干燥。",
       "keywords": "昆布茶 鲜味 海"
@@ -20695,7 +20695,7 @@ window.TEAFaiData = (function () {
       "process": "乾昆布用溫水沖泡。",
       "story": "把湯底材料昆布當茶泡來喝的方式。",
       "flavor": "淡淡的鮮味與海香，微鹹。",
-      "pairing": "清淡餐食、海鮮料理。",
+      "pairing": "柔和的鮮味與海洋香氣，與烤魚、蛤蜊湯等海鮮料理自然相配，也適合樸實的湯水料理。一絲鹹味能提升食物的調味。甜的甜點與海洋香氣不合，建議分開享用。",
       "brewTip": "表面的白粉別擦掉，那是鮮味來源。",
       "keep": "密封乾燥。",
       "keywords": "昆布茶 鮮味 海"
@@ -20761,7 +20761,7 @@ window.TEAFaiData = (function () {
       "process": "말린 당귀 뿌리를 물에 넣고 달여 우립니다.",
       "story": "한방에서 오래 써 온 재료로, 달여서 차로 마셔 왔습니다.",
       "flavor": "진한 약재 향과 은은한 단맛, 따뜻한 바디.",
-      "pairing": "밤 시간, 대추와 함께.",
+      "pairing": "진한 약재 향과 따뜻한 바디가 대추와 함께 달이면 한결 부드러워져 밤 시간의 간식과 잘 어울립니다. 약식이나 곶감 같은 달콤한 간식과도 결이 맞습니다. 가벼운 샐러드와는 차의 풍미가 강하게 앞설 수 있습니다.",
       "brewTip": "처음에는 연하게 달여 향에 익숙해지세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "당귀차 약재차 한방 뿌리차"
@@ -20777,7 +20777,7 @@ window.TEAFaiData = (function () {
       "process": "Dried root simmered in water and strained.",
       "story": "A long-used herbal material, decocted at home as tea.",
       "flavor": "Deep herbal aroma, gentle sweetness, warm body.",
-      "pairing": "Evenings, with jujube.",
+      "pairing": "Its deep herbal aroma and warm body soften when decocted with jujube, suiting evening snacks. It also matches sweet snacks like yaksik and dried persimmon. With light salads, the tea's flavor can push too far forward.",
       "brewTip": "Start with a lighter decoction to get used to the aroma.",
       "keep": "Sealed and dry.",
       "keywords": "angelica root tea danggwi herbal Korea"
@@ -20793,7 +20793,7 @@ window.TEAFaiData = (function () {
       "process": "干当归根入水煎煮后饮用。",
       "story": "是韩方里久用的药材，一直煎来当茶喝。",
       "flavor": "浓郁药香、微甜，口感温暖。",
-      "pairing": "夜间、配大枣。",
+      "pairing": "深厚的草本香气与温暖体感与红枣一起煎煮后柔和下来，适合晚间小吃。也配药食、柿饼等甜味小吃。配清淡沙拉时，茶的风味可能过于向前。",
       "brewTip": "初次煎淡一点，先适应香气。",
       "keep": "密封干燥。",
       "keywords": "当归茶 药材茶 根茶"
@@ -20809,7 +20809,7 @@ window.TEAFaiData = (function () {
       "process": "乾當歸根入水煎煮後飲用。",
       "story": "是韓方裡久用的藥材，一直煎來當茶喝。",
       "flavor": "濃郁藥香、微甜，口感溫暖。",
-      "pairing": "夜間、配大棗。",
+      "pairing": "深沉的藥草香氣與溫暖茶身，與大棗一起煎煮後變柔和，適合晚間點心。也與藥食、柿餅等甜點心相配。配清淡沙拉時，茶的風味可能過於向前。",
       "brewTip": "初次煎淡一點，先適應香氣。",
       "keep": "密封乾燥。",
       "keywords": "當歸茶 藥材茶 根茶"
@@ -20876,7 +20876,7 @@ window.TEAFaiData = (function () {
       "process": "당근을 썰어 말리고 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "채소를 말려 차로 마시던 민간 방식에서 비롯된 차입니다.",
       "flavor": "볶은 당근의 단맛과 옅은 흙 향, 깔끔한 뒷맛.",
-      "pairing": "식사, 아이들과 함께.",
+      "pairing": "볶은 당근의 자연스러운 단맛이 주먹밥·김밥 같은 식사와 잘 어울리고, 자극이 적어 아이들과 함께하는 식탁에도 무난합니다. 깔끔한 뒷맛이 식사를 방해하지 않습니다. 매운 음식과는 단맛이 묻힐 수 있습니다.",
       "brewTip": "얇게 썰수록 잘 우러납니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "당근차 채소차 볶은당근 단맛"
@@ -20892,7 +20892,7 @@ window.TEAFaiData = (function () {
       "process": "Carrot sliced, dried, roasted, then steeped.",
       "story": "From the folk practice of drying vegetables for tea.",
       "flavor": "Roasted carrot sweetness, a faint earthiness, clean finish.",
-      "pairing": "Meals, and for children.",
+      "pairing": "The roasted carrot's natural sweetness pairs well with meals like rice balls and gimbap, and being mild, it is easy at a table shared with children. The clean finish never interrupts the meal. Spicy food can bury its sweetness.",
       "brewTip": "Thinner slices extract better.",
       "keep": "Sealed and dry.",
       "keywords": "carrot tea danggeun vegetable roasted"
@@ -20908,7 +20908,7 @@ window.TEAFaiData = (function () {
       "process": "胡萝卜切片、晒干、炒制后冲泡。",
       "story": "源于把蔬菜晒干当茶的民间方式。",
       "flavor": "炒胡萝卜的甜味与淡淡土香，收尾干净。",
-      "pairing": "餐食、与孩子一起。",
+      "pairing": "烤胡萝卜的天然甘甜与饭团、紫菜包饭等餐食很搭配，味道温和，在与孩子同桌时也轻松。清爽的收尾不会打断用餐。辛辣食物可能掩埋它的甘甜。",
       "brewTip": "切得越薄越容易出味。",
       "keep": "密封干燥。",
       "keywords": "胡萝卜茶 蔬菜茶 甜味"
@@ -20924,7 +20924,7 @@ window.TEAFaiData = (function () {
       "process": "胡蘿蔔切片、曬乾、炒製後沖泡。",
       "story": "源於把蔬菜曬乾當茶的民間方式。",
       "flavor": "炒胡蘿蔔的甜味與淡淡土香，收尾乾淨。",
-      "pairing": "餐食、與孩子一起。",
+      "pairing": "烤紅蘿蔔的天然甜味，與飯糰、海苔飯捲等餐食很搭；味道溫和，與孩子同桌也輕鬆。乾淨的收尾不會打擾一餐。辛辣食物可能掩蓋它的甜味。",
       "brewTip": "切得越薄越容易出味。",
       "keep": "密封乾燥。",
       "keywords": "胡蘿蔔茶 蔬菜茶 甜味"
@@ -20991,7 +20991,7 @@ window.TEAFaiData = (function () {
       "process": "대나무 잎을 말린 뒤 뜨거운 물에 우립니다.",
       "story": "대나무가 흔한 지역에서 잎을 말려 마셔 온 차입니다.",
       "flavor": "담백한 풀 향과 옅은 단맛, 시원한 뒷맛.",
-      "pairing": "식사, 더운 날 차갑게.",
+      "pairing": "담백한 풀 향과 시원한 뒷맛이 죽이나 담백한 나물 반찬과 잘 어울립니다. 더운 날 차갑게 마시면 식사 곁에서 한결 산뜻합니다. 양념이 진한 고기 요리와는 담백함이 밀릴 수 있습니다.",
       "brewTip": "차갑게 우려도 향이 깨끗합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "대나무차 죽엽차 대나무잎 담양"
@@ -21007,7 +21007,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves dried, then steeped in hot water.",
       "story": "Drunk where bamboo is common, the leaves dried and kept for tea.",
       "flavor": "Plain green aroma, light sweetness, a cooling finish.",
-      "pairing": "Meals, or iced on hot days.",
+      "pairing": "Its plain green aroma and cooling finish pair well with porridge and plain seasoned greens. Served cold on a hot day, it feels fresher beside a meal. Heavily seasoned meat dishes can push its mildness aside.",
       "brewTip": "Cold-brews cleanly as well.",
       "keep": "Sealed and dry.",
       "keywords": "bamboo leaf tea jukyeop Damyang Korea"
@@ -21023,7 +21023,7 @@ window.TEAFaiData = (function () {
       "process": "竹叶晒干后热水冲泡。",
       "story": "在竹子多的地方，把叶子晒干来喝的茶。",
       "flavor": "清淡草香、微甜，收尾清凉。",
-      "pairing": "餐食、热天冷饮。",
+      "pairing": "朴素的青绿香气与清凉收尾与粥和朴素的拌野菜很搭配。炎热的日子冰镇饮用，放在餐食旁更清爽。调味浓重的肉菜可能把它的温和推到一边。",
       "brewTip": "冷泡也干净清香。",
       "keep": "密封干燥。",
       "keywords": "竹叶茶 竹叶 潭阳"
@@ -21039,7 +21039,7 @@ window.TEAFaiData = (function () {
       "process": "竹葉曬乾後熱水沖泡。",
       "story": "在竹子多的地方，把葉子曬乾來喝的茶。",
       "flavor": "清淡草香、微甜，收尾清涼。",
-      "pairing": "餐食、熱天冷飲。",
+      "pairing": "樸實的青綠香氣與清涼收尾，與粥和樸素的涼拌野菜很搭。炎熱天冷飲，配餐更新鮮。重口味的肉類料理可能擠開它的溫和。",
       "brewTip": "冷泡也乾淨清香。",
       "keep": "密封乾燥。",
       "keywords": "竹葉茶 竹葉 潭陽"
@@ -21105,7 +21105,7 @@ window.TEAFaiData = (function () {
       "process": "대파를 깨끗이 씻어 물에 넣고 달여 우립니다.",
       "story": "집에서 몸이 으슬으슬할 때 달여 마시던 민간 방식입니다.",
       "flavor": "은은한 파 향과 옅은 단맛, 따뜻한 뒷맛.",
-      "pairing": "추운 날, 밤 시간.",
+      "pairing": "은은한 파 향과 따뜻한 뒷맛이 추운 날 수제비나 칼국수 같은 따뜻한 음식과 잘 어울립니다. 밤 시간에 곶감 같은 간식과 함께해도 좋습니다. 시원한 음식과는 온도의 결이 달라 따로 즐기세요.",
       "brewTip": "파뿌리의 흙을 잘 씻어 내고 쓰세요.",
       "keep": "달인 차는 냉장해 그날 마십니다.",
       "keywords": "대파차 파뿌리 민간차 생강"
@@ -21121,7 +21121,7 @@ window.TEAFaiData = (function () {
       "process": "Leek washed, then simmered in water and strained.",
       "story": "A home decoction made when a chill was coming on.",
       "flavor": "Gentle onion aroma, light sweetness, a warming finish.",
-      "pairing": "Cold days, evenings.",
+      "pairing": "Its gentle onion aroma and warming finish pair well with warm food like sujebi and knife-cut noodles on a cold day. In the evening it also goes nicely with snacks like dried persimmon. Cool dishes run on a different temperature track, so enjoy it separately.",
       "brewTip": "Wash the soil from the roots well before use.",
       "keep": "Refrigerate the decoction and drink it the same day.",
       "keywords": "welsh onion tea daepa leek folk Korea"
@@ -21137,7 +21137,7 @@ window.TEAFaiData = (function () {
       "process": "大葱洗净后入水煎煮。",
       "story": "是从前在家觉得发冷时煎来喝的民间方式。",
       "flavor": "淡淡葱香、微甜，收尾温暖。",
-      "pairing": "寒冷天气、夜间。",
+      "pairing": "温和的葱香与温暖收尾与面疙瘩汤、刀切面等寒冷日子的热食很搭配。晚间也与柿饼等小吃相宜。清凉的菜肴走的是不同的温度路线，请分开享用。",
       "brewTip": "葱根的泥土要洗干净。",
       "keep": "煎好的茶冷藏，当天喝完。",
       "keywords": "大葱茶 葱根 民间茶"
@@ -21153,7 +21153,7 @@ window.TEAFaiData = (function () {
       "process": "大蔥洗淨後入水煎煮。",
       "story": "是從前在家覺得發冷時煎來喝的民間方式。",
       "flavor": "淡淡蔥香、微甜，收尾溫暖。",
-      "pairing": "寒冷天氣、夜間。",
+      "pairing": "溫和的蔥香與暖和的收尾，與冷天裡的麵疙瘩湯、刀削麵等熱食很搭。晚間配柿餅等點心也不錯。冰涼料理溫度路線不同，建議分開享用。",
       "brewTip": "蔥根的泥土要洗乾淨。",
       "keep": "煎好的茶冷藏，當天喝完。",
       "keywords": "大蔥茶 蔥根 民間茶"
@@ -21219,7 +21219,7 @@ window.TEAFaiData = (function () {
       "process": "말린 더덕 뿌리를 물에 넣고 달여 우립니다.",
       "story": "산나물인 더덕을 말려 두었다가 달여 마시던 민간 차입니다.",
       "flavor": "쌉쌀한 뿌리 향과 구수한 단맛, 따뜻한 바디.",
-      "pairing": "식후, 대추와 함께 달여도.",
+      "pairing": "쌉쌀한 뿌리 향과 구수한 단맛이 더덕구이 같은 식사와 결이 맞고, 식후 한 잔으로도 좋습니다. 대추와 함께 달이면 쓴맛이 부드러워집니다. 단맛이 강한 디저트와는 쌉쌀함이 겹칠 수 있습니다.",
       "brewTip": "대추를 넣으면 쌉쌀함이 부드러워집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "더덕차 사삼 뿌리차 산나물"
@@ -21235,7 +21235,7 @@ window.TEAFaiData = (function () {
       "process": "Dried root simmered in water and strained.",
       "story": "The mountain green deodeok, dried and kept for decocting as tea.",
       "flavor": "Bittersweet root aroma, toasty sweetness, warm body.",
-      "pairing": "After meals, or decocted with jujube.",
+      "pairing": "Its bittersweet root aroma and toasty sweetness match meals like grilled deodeok, and it works as an after-meal cup too. Decocted with jujube, the bitterness softens. With very sweet desserts, the bitterness can clash.",
       "brewTip": "Jujube softens the bittersweet edge.",
       "keep": "Sealed and dry.",
       "keywords": "deodeok root tea codonopsis Korea root"
@@ -21251,7 +21251,7 @@ window.TEAFaiData = (function () {
       "process": "干沙参根入水煎煮后饮用。",
       "story": "把山野菜沙参晒干存着、煎来喝的民间茶。",
       "flavor": "微苦的根香与焦甜，口感温暖。",
-      "pairing": "饭后，或与大枣同煎。",
+      "pairing": "苦甜的根茎香气与烘焙甘甜与烤沙参等餐食相合，也可作饭后一杯。与红枣一起煎煮，苦味柔和。配非常甜的甜点时，苦味可能相冲。",
       "brewTip": "加大枣能柔和苦味。",
       "keep": "密封干燥。",
       "keywords": "沙参茶 根茶 山野菜"
@@ -21267,7 +21267,7 @@ window.TEAFaiData = (function () {
       "process": "乾沙參根入水煎煮後飲用。",
       "story": "把山野菜沙參曬乾存著、煎來喝的民間茶。",
       "flavor": "微苦的根香與焦甜，口感溫暖。",
-      "pairing": "飯後，或與大棗同煎。",
+      "pairing": "苦甜的根部香氣與焦香甜味，與烤沙參等餐食相合，也適合作為餐後一杯。與大棗一起煎煮，苦味變柔和。配很甜的甜點時，苦味可能相衝。",
       "brewTip": "加大棗能柔和苦味。",
       "keep": "密封乾燥。",
       "keywords": "沙參茶 根茶 山野菜"
@@ -21333,7 +21333,7 @@ window.TEAFaiData = (function () {
       "process": "꽃을 그늘에서 말려 뜨거운 물에 우립니다.",
       "story": "복숭아꽃은 예부터 봄을 알리는 꽃으로, 말려 차로 마셔 왔습니다.",
       "flavor": "은은한 꽃향과 옅은 단맛. 물색은 옅은 분홍빛입니다.",
-      "pairing": "떡, 가벼운 디저트, 봄나물.",
+      "pairing": "은은한 꽃향과 옅은 분홍빛 물색이 화전·찹쌀떡 같은 떡과 잘 어울리고, 봄나물 같은 가벼운 음식과도 결이 맞습니다. 향이 섬세해 디저트의 단맛을 방해하지 않습니다. 양념이 강한 음식과는 꽃향이 묻혀 피하세요.",
       "brewTip": "80~85도. 꽃잎이 천천히 펴지는 모습을 즐기세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "도화차 복숭아꽃차 꽃차 봄"
@@ -21349,7 +21349,7 @@ window.TEAFaiData = (function () {
       "process": "Blossoms shade-dried, then steeped in hot water.",
       "story": "Peach blossom has long heralded spring and was dried for tea.",
       "flavor": "Soft floral scent, light sweetness, a pale pink liquor.",
-      "pairing": "Rice cakes, light desserts, spring greens.",
+      "pairing": "Its soft floral scent and pale pink liquor pair well with rice cakes like hwajeon and glutinous rice cakes, and match light food like spring greens. The delicate aroma never disturbs a dessert's sweetness. Avoid strongly seasoned food, which buries the floral scent.",
       "brewTip": "80–85 °C; watch the petals slowly open.",
       "keep": "Sealed, cool and dry.",
       "keywords": "peach blossom tea flower tea spring Korea"
@@ -21365,7 +21365,7 @@ window.TEAFaiData = (function () {
       "process": "花阴干后用热水冲泡。",
       "story": "桃花自古报春，也晒干泡茶。",
       "flavor": "花香清淡，回甘轻柔，汤色浅粉。",
-      "pairing": "年糕、清淡甜点、春菜。",
+      "pairing": "柔和的花香与淡粉色茶汤与花煎饼、糯米糕等米糕很搭配，也配春野菜等清淡食物。细腻的香气不会干扰甜点的甜味。避免调味强烈的食物，会掩埋花香。",
       "brewTip": "80~85度，看花瓣慢慢舒展。",
       "keep": "密封阴凉干燥。",
       "keywords": "桃花茶 花茶 春天 韩国"
@@ -21381,7 +21381,7 @@ window.TEAFaiData = (function () {
       "process": "花陰乾後用熱水沖泡。",
       "story": "桃花自古報春，也曬乾泡茶。",
       "flavor": "花香清淡，回甘輕柔，湯色淺粉。",
-      "pairing": "年糕、清淡甜點、春菜。",
+      "pairing": "柔和的花香與淡粉色茶湯，與花煎、糯米年糕等年糕很搭，也適合春野菜等清淡食物。細緻的香氣不會打擾甜點的甜味。避免重口味食物，會掩蓋花香。",
       "brewTip": "80~85度，看花瓣慢慢舒展。",
       "keep": "密封陰涼乾燥。",
       "keywords": "桃花茶 花茶 春天 韓國"
@@ -21446,7 +21446,7 @@ window.TEAFaiData = (function () {
       "process": "꽃을 그늘에서 말려 뜨거운 물에 우립니다.",
       "story": "동백은 남쪽 지방의 겨울을 대표하는 꽃으로, 꽃차로도 즐겨 왔습니다.",
       "flavor": "은은한 꽃향과 옅은 단맛. 물색은 옅은 노란빛입니다.",
-      "pairing": "떡, 디저트, 과일.",
+      "pairing": "은은한 꽃향과 옅은 단맛이 인절미 같은 떡이나 가벼운 케이크와 잘 어울리고, 딸기 같은 과일과도 산뜻하게 맞습니다. 맑은 향이 디저트 곁에서 부담이 없습니다. 진한 초콜릿과는 향이 겹칠 수 있습니다.",
       "brewTip": "80~85도. 꽃이 물에 펴지는 모습을 즐기세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "동백차 동백꽃차 제주 꽃차"
@@ -21462,7 +21462,7 @@ window.TEAFaiData = (function () {
       "process": "Blossoms shade-dried, then steeped in hot water.",
       "story": "The camellia is the emblem flower of the southern winter, enjoyed as a flower tea too.",
       "flavor": "Soft floral scent, light sweetness, a pale yellow liquor.",
-      "pairing": "Rice cakes, desserts, fruit.",
+      "pairing": "Its soft floral scent and light sweetness pair well with rice cakes like injeolmi and light cakes, and match fruit like strawberries brightly. The clear aroma is never a burden beside dessert. Dark chocolate can crowd its aroma.",
       "brewTip": "80–85 °C; watch the blossom open in the water.",
       "keep": "Sealed, cool and dry.",
       "keywords": "camellia flower tea Jeju Korea winter"
@@ -21478,7 +21478,7 @@ window.TEAFaiData = (function () {
       "process": "花阴干后用热水冲泡。",
       "story": "山茶是南方冬天的代表花，也做花茶。",
       "flavor": "花香清淡，甜味轻柔，汤色浅黄。",
-      "pairing": "年糕、甜点、水果。",
+      "pairing": "柔和的花香与淡淡甘甜与豆粉年糕等米糕和清淡蛋糕很搭配，与草莓等水果明亮相配。清亮的香气在甜点旁毫无负担。黑巧克力可能挤压它的香气。",
       "brewTip": "80~85度，看花在水中舒展。",
       "keep": "密封阴凉干燥。",
       "keywords": "冬柏茶 山茶花 济州 花茶"
@@ -21494,7 +21494,7 @@ window.TEAFaiData = (function () {
       "process": "花陰乾後用熱水沖泡。",
       "story": "山茶是南方冬天的代表花，也做花茶。",
       "flavor": "花香清淡，甜味輕柔，湯色淺黃。",
-      "pairing": "年糕、甜點、水果。",
+      "pairing": "柔和的花香與淡淡甜味，與黃豆粉年糕、清淡蛋糕等年糕點心很搭，與草莓等水果也明亮相配。清澈的香氣配甜點毫不負擔。黑巧克力可能擠壓它的香氣。",
       "brewTip": "80~85度，看花在水中舒展。",
       "keep": "密封陰涼乾燥。",
       "keywords": "冬柏茶 山茶花 濟州 花茶"
@@ -21558,7 +21558,7 @@ window.TEAFaiData = (function () {
       "process": "동아를 설탕이나 꿀에 재었다가 물을 붓고 달입니다.",
       "story": "동아차는 궁중과 민간에서 여름철에 즐기던 전통차로 전해집니다.",
       "flavor": "진한 단맛과 동아 특유의 부드러운 향. 물색은 옅은 갈색입니다.",
-      "pairing": "떡, 한과, 매운 음식 뒤.",
+      "pairing": "진한 단맛이 매운 음식을 먹은 뒤 입안의 열기를 부드럽게 가라앉혀 줍니다. 찹쌀떡이나 한과와도 단맛의 결이 맞아 잘 어울립니다. 단맛이 강한 케이크와는 단맛이 겹쳐 물릴 수 있습니다.",
       "brewTip": "약불에 10분 달인 뒤 따뜻하게, 여름에는 식혀 마십니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "동아차 동과 전통차 여름"
@@ -21574,7 +21574,7 @@ window.TEAFaiData = (function () {
       "process": "Melon macerated in sugar or honey, then simmered with water.",
       "story": "Handed down as a summer tea of court and folk households alike.",
       "flavor": "Deep sweetness with the melon’s soft scent; a light brown liquor.",
-      "pairing": "Rice cakes, hangwa, after spicy food.",
+      "pairing": "Its deep sweetness gently settles the heat in the mouth after spicy food. It also pairs well with glutinous rice cakes and hangwa, sharing their sweet character. With very sweet cakes, the sweetness overlaps and can cloy.",
       "brewTip": "Simmer gently ten minutes; drink warm, or chilled in summer.",
       "keep": "Sealed, cool and dry.",
       "keywords": "winter melon tea donga traditional Korea"
@@ -21590,7 +21590,7 @@ window.TEAFaiData = (function () {
       "process": "冬瓜用糖或蜜腌后加水煮。",
       "story": "冬瓜茶相传是宫中与民间夏天喝的传统茶。",
       "flavor": "甜味浓，带冬瓜柔和的香，汤色浅褐。",
-      "pairing": "年糕、韩果、辣食之后。",
+      "pairing": "深厚的甘甜能在辛辣食物之后温和地安抚口中的热感。也与糯米糕、韩果很搭配，共享甜美的气质。与非常甜的蛋糕同享时，甜味叠加可能腻人。",
       "brewTip": "小火煮10分钟趁热喝，夏天放凉喝。",
       "keep": "密封阴凉干燥。",
       "keywords": "冬瓜茶 传统茶 夏天 韩国"
@@ -21606,7 +21606,7 @@ window.TEAFaiData = (function () {
       "process": "冬瓜用糖或蜜醃後加水煮。",
       "story": "冬瓜茶相傳是宮中與民間夏天喝的傳統茶。",
       "flavor": "甜味濃，帶冬瓜柔和的香，湯色淺褐。",
-      "pairing": "年糕、韓果、辣食之後。",
+      "pairing": "深沉的甜味能溫和地安頓辛辣食物之後口中的熱氣。也與糯米年糕、韓菓很搭，共享香甜的性格。配很甜的蛋糕時，甜味重疊可能膩口。",
       "brewTip": "小火煮10分鐘趁熱喝，夏天放涼喝。",
       "keep": "密封陰涼乾燥。",
       "keywords": "冬瓜茶 傳統茶 夏天 韓國"
@@ -21672,7 +21672,7 @@ window.TEAFaiData = (function () {
       "process": "감자를 얇게 썰어 말린 뒤 볶아 뜨거운 물에 우립니다.",
       "story": "돼지감자는 '뚱딴지'라고도 불리며, 볶아 차로 마시는 집이 늘고 있습니다.",
       "flavor": "구수한 볶은 향과 옅은 단맛, 깔끔한 뒷맛.",
-      "pairing": "식사, 식후, 간식.",
+      "pairing": "구수한 볶은 향과 깔끔한 뒷맛이 밥 위주의 식사와 잘 어울리고, 식후 한 잔으로도 부담이 없습니다. 고구마 같은 구운 간식과도 결이 맞습니다. 향이 섬세한 디저트와는 구수함이 앞설 수 있습니다.",
       "brewTip": "5분 이상. 끓이면 구수함이 진해집니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "돼지감자차 뚱딴지 구수한차"
@@ -21688,7 +21688,7 @@ window.TEAFaiData = (function () {
       "process": "Tubers sliced, dried, roasted, then steeped in hot water.",
       "story": "Nicknamed ttungttanji in Korea, it is increasingly roasted for tea at home.",
       "flavor": "Toasty roasted scent, light sweetness, a clean finish.",
-      "pairing": "Meals, after meals, snacks.",
+      "pairing": "Its toasty roasted scent and clean finish pair well with rice-based meals, and a cup after eating is never a burden. It also matches roasted snacks like sweet potato. With delicately scented desserts, its toastiness can take over.",
       "brewTip": "Five minutes or more; boiling deepens the toastiness.",
       "keep": "Sealed, cool and dry.",
       "keywords": "Jerusalem artichoke tea dwaeji-gamja Korea"
@@ -21704,7 +21704,7 @@ window.TEAFaiData = (function () {
       "process": "切薄晒干炒制后用热水冲泡。",
       "story": "菊芋在韩国俗称“뚱딴지”，炒来泡茶的家庭越来越多。",
       "flavor": "焙香与淡淡甜味，余味干净。",
-      "pairing": "餐食、饭后、零食。",
+      "pairing": "烘焙香与清爽收尾与米饭类餐食很搭配，饭后一杯毫无负担。也配烤红薯等烤制小吃。配香气精致的甜点时，它的烘焙香可能占据主导。",
       "brewTip": "泡五分钟以上，煮更香。",
       "keep": "密封阴凉干燥。",
       "keywords": "菊芋茶 猪甘薯 韩国"
@@ -21720,7 +21720,7 @@ window.TEAFaiData = (function () {
       "process": "切薄曬乾炒製後用熱水沖泡。",
       "story": "菊芋在韓國俗稱「뚱딴지」，炒來泡茶的家庭越來越多。",
       "flavor": "焙香與淡淡甜味，餘味乾淨。",
-      "pairing": "餐食、飯後、零食。",
+      "pairing": "焦香的烘烤香氣與乾淨收尾，與米飯類餐食很搭，餐後一杯也毫不負擔。也適合烤地瓜等烘烤點心。配香氣細緻的甜點時，焦香可能喧賓奪主。",
       "brewTip": "泡五分鐘以上，煮更香。",
       "keep": "密封陰涼乾燥。",
       "keywords": "菊芋茶 豬甘薯 韓國"
@@ -21784,7 +21784,7 @@ window.TEAFaiData = (function () {
       "process": "껍질을 잘게 잘라 물에 넣고 20분쯤 달입니다.",
       "story": "두충은 오래전부터 한방에서 써 온 약재로, 차로 달여 마셔 왔습니다.",
       "flavor": "쌉싸름하고 묵직한 맛, 은은한 나무 향.",
-      "pairing": "식후, 기름진 음식 뒤.",
+      "pairing": "쌉싸름하고 묵직한 맛이 보쌈·족발 같은 기름진 음식을 먹은 뒤 입안을 정리해 줍니다. 은은한 나무 향이 진한 음식과도 밀리지 않습니다. 단맛 없는 가벼운 간식만 곁들이면 쓴맛이 도드라질 수 있습니다.",
       "brewTip": "약불에 충분히 달여야 맛이 우러납니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "두충차 두충나무 껍질 약차"
@@ -21800,7 +21800,7 @@ window.TEAFaiData = (function () {
       "process": "Bark cut small and simmered in water for about twenty minutes.",
       "story": "Eucommia has long been used in herbal medicine and simmered as a tea.",
       "flavor": "Bitter-edged, weighty, with a quiet woody scent.",
-      "pairing": "After meals, after rich food.",
+      "pairing": "Its bitter-edged, weighty taste tidies the palate after rich food like boiled pork and braised pig's trotters. The quiet woody scent holds its own against strong dishes. Paired only with light, unsweetened snacks, the bitterness can stand out.",
       "brewTip": "Simmer long enough on low heat for the flavor to come out.",
       "keep": "Sealed, cool and dry.",
       "keywords": "eucommia bark tea duzhong herbal"
@@ -21816,7 +21816,7 @@ window.TEAFaiData = (function () {
       "process": "树皮切小，加水煮20分钟左右。",
       "story": "杜仲自古用于中药，也煮来当茶喝。",
       "flavor": "微苦厚重，带淡淡木香。",
-      "pairing": "饭后、油腻食物之后。",
+      "pairing": "带苦边、有分量的味道能在白切猪肉、红烧猪蹄等丰盛食物之后收拾味觉。安静的木质香气在浓重菜肴旁不落下风。只配清淡无糖的小吃时，苦味可能显得突出。",
       "brewTip": "小火煮够时间味道才出得来。",
       "keep": "密封阴凉干燥。",
       "keywords": "杜仲茶 树皮 药茶"
@@ -21832,7 +21832,7 @@ window.TEAFaiData = (function () {
       "process": "樹皮切小，加水煮20分鐘左右。",
       "story": "杜仲自古用於中藥，也煮來當茶喝。",
       "flavor": "微苦厚重，帶淡淡木香。",
-      "pairing": "飯後、油膩食物之後。",
+      "pairing": "帶苦邊、厚重的滋味，能在水煮豬肉、滷豬腳等豐盛食物後收拾味蕾。安靜的木質香氣在強味料理面前也站得住。只配清淡無糖的點心時，苦味可能顯得突出。",
       "brewTip": "小火煮夠時間味道才出得來。",
       "keep": "密封陰涼乾燥。",
       "keywords": "杜仲茶 樹皮 藥茶"
@@ -21895,7 +21895,7 @@ window.TEAFaiData = (function () {
       "process": "잎을 그늘에서 말려 뜨거운 물에 우립니다.",
       "story": "두향은 향이 짙어 예부터 약초로 써 왔고, 잎을 차로도 마셨습니다.",
       "flavor": "짙은 풀 향과 쌉싸름한 뒷맛.",
-      "pairing": "식후, 기름진 음식 뒤.",
+      "pairing": "짙은 풀 향과 쌉싸름한 뒷맛이 삼겹살 같은 기름진 음식 뒤에 마시면 느끼함을 씻어 줍니다. 향이 강해 진한 양념 음식과도 균형이 맞습니다. 섬세한 꽃향 디저트와는 향이 부딪힐 수 있습니다.",
       "brewTip": "향이 강해 처음에는 짧게 우려 보세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "두향차 약초차 전통차"
@@ -21911,7 +21911,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves shade-dried, then steeped in hot water.",
       "story": "Prized for its deep scent, duhyang has long served as an herb and a tea.",
       "flavor": "Dense green scent with a bitter edge at the finish.",
-      "pairing": "After meals, after rich food.",
+      "pairing": "Its dense green scent and bitter finish wash away greasiness after rich food like pork belly. The strong aroma also balances heavily seasoned dishes. Delicate floral desserts can clash with its scent.",
       "brewTip": "Brew it short the first time — the scent is strong.",
       "keep": "Sealed, cool and dry.",
       "keywords": "duhyang tea herbal Korea mountains"
@@ -21927,7 +21927,7 @@ window.TEAFaiData = (function () {
       "process": "叶阴干后用热水冲泡。",
       "story": "杜香香气浓，自古作药草，叶也泡茶。",
       "flavor": "浓郁的草香，余味微苦。",
-      "pairing": "饭后、油腻食物之后。",
+      "pairing": "浓密的青绿香气与苦味收尾能在五花肉等丰盛食物之后洗去油腻。强烈的香气也能平衡调味浓重的菜肴。精致的花香甜点可能与它的香气相冲。",
       "brewTip": "香气强，第一次先泡短一点。",
       "keep": "密封阴凉干燥。",
       "keywords": "杜香茶 草药茶 韩国"
@@ -21943,7 +21943,7 @@ window.TEAFaiData = (function () {
       "process": "葉陰乾後用熱水沖泡。",
       "story": "杜香香氣濃，自古作藥草，葉也泡茶。",
       "flavor": "濃郁的草香，餘味微苦。",
-      "pairing": "飯後、油膩食物之後。",
+      "pairing": "濃密的青綠香氣與苦味收尾，能在五花肉等豐盛食物後洗去油膩。強烈的香氣也能平衡重口味料理。香氣細緻的花香甜點可能與它的香氣相衝。",
       "brewTip": "香氣強，第一次先泡短一點。",
       "keep": "密封陰涼乾燥。",
       "keywords": "杜香茶 草藥茶 韓國"
@@ -22007,7 +22007,7 @@ window.TEAFaiData = (function () {
       "process": "들깨를 볶아 곱게 간 뒤 물을 붓고 끓입니다.",
       "story": "들깨는 기름을 짜는 씨앗으로, 볶아 차처럼 끓여 마시기도 했습니다.",
       "flavor": "고소한 깨 향과 부드럽고 진한 맛.",
-      "pairing": "떡, 간식, 추운 날.",
+      "pairing": "고소한 깨 향과 부드럽고 진한 맛이 인절미·경단 같은 떡과 잘 어울리고, 추운 날 간식으로 마시면 든든합니다. 진한 바디가 떡의 쫀득함과 결이 맞습니다. 가벼운 샐러드와는 차가 무겁게 느껴질 수 있습니다.",
       "brewTip": "끓인 뒤 잠시 두면 고소함이 더해집니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "들깨차 자소 고소한차"
@@ -22023,7 +22023,7 @@ window.TEAFaiData = (function () {
       "process": "Seeds roasted, ground fine, then boiled with water.",
       "story": "An oilseed first, perilla was also roasted and boiled like a tea.",
       "flavor": "Nutty sesame-like scent, soft and full in the mouth.",
-      "pairing": "Rice cakes, snacks, cold days.",
+      "pairing": "Its nutty, sesame-like scent and soft, full taste pair well with rice cakes like injeolmi and gyeongdan, and as a cold-day snack drink it feels substantial. The full body matches the cakes' chewiness. With light salads, the tea can feel heavy.",
       "brewTip": "Let it sit a moment after boiling; the nuttiness rounds out.",
       "keep": "Sealed, cool and dry.",
       "keywords": "perilla seed tea deulkkae nutty Korea"
@@ -22039,7 +22039,7 @@ window.TEAFaiData = (function () {
       "process": "籽炒后磨细，加水煮。",
       "story": "紫苏籽本是榨油的种子，也炒来煮茶。",
       "flavor": "浓郁的芝麻香，口感柔和厚实。",
-      "pairing": "年糕、零食、天冷时。",
+      "pairing": "坚果般、芝麻似的香气与柔和饱满的味道与豆粉年糕、蜜粉团子等米糕很搭配，作为寒冷日子的小吃饮品也很扎实。饱满的体感与米糕的嚼劲相配。配清淡沙拉时，茶会显得厚重。",
       "brewTip": "煮好稍放一会儿，香味更圆。",
       "keep": "密封阴凉干燥。",
       "keywords": "紫苏茶 芝麻香 韩国"
@@ -22055,7 +22055,7 @@ window.TEAFaiData = (function () {
       "process": "籽炒後磨細，加水煮。",
       "story": "紫蘇籽本是榨油的種子，也炒來煮茶。",
       "flavor": "濃郁的芝麻香，口感柔和厚實。",
-      "pairing": "年糕、零食、天冷時。",
+      "pairing": "近似芝麻的堅果香氣與柔和厚實的滋味，與黃豆粉年糕、糯米糰子等年糕很搭；作為冷天的點心飲品也扎實。厚實的茶身與年糕的嚼勁相配。配清淡沙拉時，茶會顯得沉重。",
       "brewTip": "煮好稍放一會兒，香味更圓。",
       "keep": "密封陰涼乾燥。",
       "keywords": "紫蘇茶 芝麻香 韓國"
@@ -22120,7 +22120,7 @@ window.TEAFaiData = (function () {
       "process": "딸기를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "딸기는 봄철 대표 과일로, 말리거나 청으로 만들어 차로 즐깁니다.",
       "flavor": "새콤달콤한 딸기 향과 옅은 분홍빛 물색.",
-      "pairing": "케이크, 디저트, 샐러드.",
+      "pairing": "새콤달콤한 딸기 향이 생크림 케이크나 요거트 같은 디저트와 잘 어울리고, 과일 샐러드와도 상큼하게 맞습니다. 옅은 분홍빛 물색이 디저트 자리의 분위기를 살려 줍니다. 진한 초콜릿과는 향이 겹칠 수 있습니다.",
       "brewTip": "꿀을 조금 더하면 향이 살아납니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "딸기차 과일차 새콤달콤"
@@ -22136,7 +22136,7 @@ window.TEAFaiData = (function () {
       "process": "Berries sliced, dried, then steeped in hot water.",
       "story": "The signature spring fruit, dried or made into cheong for tea.",
       "flavor": "Sweet-tart strawberry scent and a pale pink liquor.",
-      "pairing": "Cakes, desserts, salads.",
+      "pairing": "Its sweet-tart strawberry scent pairs well with desserts like fresh-cream cake and yogurt, and matches fruit salads brightly. The pale pink liquor lifts the mood of a dessert table. Dark chocolate can crowd its aroma.",
       "brewTip": "A little honey lifts the scent.",
       "keep": "Sealed, cool and dry.",
       "keywords": "strawberry tea fruit tea Korea spring"
@@ -22152,7 +22152,7 @@ window.TEAFaiData = (function () {
       "process": "草莓切薄晒干，用热水冲泡。",
       "story": "草莓是春天代表水果，晒干或做成果酱青泡茶。",
       "flavor": "酸甜的草莓香，汤色浅粉。",
-      "pairing": "蛋糕、甜点、沙拉。",
+      "pairing": "酸甜的草莓香气与鲜奶油蛋糕、酸奶等甜点很搭配，与水果沙拉明亮相配。淡粉色茶汤提升甜点桌的氛围。黑巧克力可能挤压它的香气。",
       "brewTip": "加一点蜂蜜香气更活。",
       "keep": "密封阴凉干燥。",
       "keywords": "草莓茶 果茶 酸甜 韩国"
@@ -22168,7 +22168,7 @@ window.TEAFaiData = (function () {
       "process": "草莓切薄曬乾，用熱水沖泡。",
       "story": "草莓是春天代表水果，曬乾或做成青泡茶。",
       "flavor": "酸甜的草莓香，湯色淺粉。",
-      "pairing": "蛋糕、甜點、沙拉。",
+      "pairing": "酸甜的草莓香氣，與鮮奶油蛋糕、優格等甜點很搭，與水果沙拉也明亮相配。淡粉色茶湯能提升甜點桌的氣氛。黑巧克力可能擠壓它的香氣。",
       "brewTip": "加一點蜂蜜香氣更活。",
       "keep": "密封陰涼乾燥。",
       "keywords": "草莓茶 果茶 酸甜 韓國"
@@ -22232,7 +22232,7 @@ window.TEAFaiData = (function () {
       "process": "땅콩을 볶아 갈아 물을 붓고 끓입니다.",
       "story": "땅콩은 간식과 요리에 널리 쓰이며, 볶아 차로 끓여 마시기도 합니다.",
       "flavor": "고소한 땅콩 향과 부드럽고 진한 맛.",
-      "pairing": "떡, 간식, 아침 대용.",
+      "pairing": "고소한 땅콩 향과 진한 맛이 찹쌀떡·인절미 같은 떡과 잘 어울리고, 아침에 간단한 간식과 함께 마시면 든든합니다. 부드러운 바디가 떡의 식감과 결이 맞습니다. 가벼운 음식과는 차가 무겁게 느껴질 수 있습니다.",
       "brewTip": "우유를 조금 섞어도 잘 어울립니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "땅콩차 낙화생 고소한차"
@@ -22248,7 +22248,7 @@ window.TEAFaiData = (function () {
       "process": "Peanuts roasted, ground, then boiled with water.",
       "story": "A snack and cooking staple, peanuts are also roasted into a tea.",
       "flavor": "Nutty peanut scent, soft and full in the mouth.",
-      "pairing": "Rice cakes, snacks, in place of breakfast.",
+      "pairing": "Its nutty peanut scent and full taste pair well with rice cakes like glutinous rice cake and injeolmi, and with a simple snack in the morning it feels substantial. The soft body matches the cakes' texture. With light food, the tea can feel heavy.",
       "brewTip": "A splash of milk suits it well.",
       "keep": "Sealed, cool and dry.",
       "keywords": "peanut tea nutty Korea roasted"
@@ -22264,7 +22264,7 @@ window.TEAFaiData = (function () {
       "process": "花生炒后磨碎，加水煮。",
       "story": "花生常作零食与食材，也炒来煮茶。",
       "flavor": "浓郁的花生香，口感柔和厚实。",
-      "pairing": "年糕、零食、代早餐。",
+      "pairing": "坚果般的花生香气与饱满味道与糯米糕、豆粉年糕等米糕很搭配，清晨配一份简单小吃也很扎实。柔和的体感与米糕的质地相配。配清淡食物时，茶会显得厚重。",
       "brewTip": "加一点牛奶也合。",
       "keep": "密封阴凉干燥。",
       "keywords": "花生茶 香浓 韩国"
@@ -22280,7 +22280,7 @@ window.TEAFaiData = (function () {
       "process": "花生炒後磨碎，加水煮。",
       "story": "花生常作零食與食材，也炒來煮茶。",
       "flavor": "濃郁的花生香，口感柔和厚實。",
-      "pairing": "年糕、零食、代早餐。",
+      "pairing": "堅果般的花生香氣與厚實滋味，與糯米年糕、黃豆粉年糕等年糕很搭；早晨配簡單點心也扎實。柔和的茶身與年糕的質地相配。配清淡食物時，茶會顯得沉重。",
       "brewTip": "加一點牛奶也合。",
       "keep": "密封陰涼乾燥。",
       "keywords": "花生茶 香濃 韓國"
@@ -22344,7 +22344,7 @@ window.TEAFaiData = (function () {
       "process": "레몬을 얇게 썰어 설탕에 재어 청을 만들고, 따뜻한 물에 타 마십니다.",
       "story": "과일청 문화가 발달한 한국에서 레몬차는 겨울철 단골 메뉴가 되었습니다.",
       "flavor": "상큼한 레몬 향과 달콤함. 물색은 옅은 노란빛입니다.",
-      "pairing": "케이크, 샌드위치, 추운 날.",
+      "pairing": "상큼한 레몬 향과 달콤함이 파운드케이크나 스콘 같은 디저트와 잘 어울리고, 샌드위치 곁에도 산뜻합니다. 신맛이 버터 풍미의 느끼함을 씻어 줍니다. 신맛이 강한 과일과는 신맛이 겹쳐 피하세요.",
       "brewTip": "너무 뜨거운 물은 향을 날리니 80도 안팎이 좋습니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "레몬차 레몬청 과일청"
@@ -22360,7 +22360,7 @@ window.TEAFaiData = (function () {
       "process": "Lemons sliced and macerated in sugar, then stirred into warm water.",
       "story": "In Korea’s rich fruit-cheong culture, lemon tea became a winter staple.",
       "flavor": "Bright lemon scent and sweetness; a pale yellow liquor.",
-      "pairing": "Cakes, sandwiches, cold days.",
+      "pairing": "Its bright lemon scent and sweetness pair well with desserts like pound cake and scones, and feel fresh beside a sandwich. The tartness washes away buttery richness. Avoid strongly sour fruit, where the sourness overlaps.",
       "brewTip": "Water much hotter than 80 °C dulls the scent.",
       "keep": "Sealed, cool and dry.",
       "keywords": "lemon tea cheong Korea winter"
@@ -22376,7 +22376,7 @@ window.TEAFaiData = (function () {
       "process": "柠檬切薄用糖腌成青，兑温水喝。",
       "story": "韩国果青文化发达，柠檬茶成了冬天常客。",
       "flavor": "清爽的柠檬香与甜味，汤色浅黄。",
-      "pairing": "蛋糕、三明治、天冷时。",
+      "pairing": "明亮的柠檬香气与甘甜与磅蛋糕、司康饼等甜点很搭配，放在三明治旁也清爽。酸味洗去黄油的浓郁。避免酸味强烈的水果，酸味会重叠。",
       "brewTip": "水太烫香气散，80度左右正好。",
       "keep": "密封阴凉干燥。",
       "keywords": "柠檬茶 果青 韩国"
@@ -22392,7 +22392,7 @@ window.TEAFaiData = (function () {
       "process": "檸檬切薄用糖醃成青，兌溫水喝。",
       "story": "韓國果青文化發達，檸檬茶成了冬天常客。",
       "flavor": "清爽的檸檬香與甜味，湯色淺黃。",
-      "pairing": "蛋糕、三明治、天冷時。",
+      "pairing": "明亮的檸檬香氣與甜味，與磅蛋糕、司康等甜點很搭，配三明治也清新。酸味能洗去奶油的濃郁。避免酸味強的水果，酸味會重疊。",
       "brewTip": "水太燙香氣散，80度左右正好。",
       "keep": "密封陰涼乾燥。",
       "keywords": "檸檬茶 果青 韓國"
@@ -22454,7 +22454,7 @@ window.TEAFaiData = (function () {
       "process": "마늘을 구운 뒤 물을 붓고 10분쯤 달입니다.",
       "story": "마늘은 한국 밥상의 기본 재료로, 구워 차로 달여 마시기도 했습니다.",
       "flavor": "구운 마늘의 단맛이 돌고 알싸함은 부드럽습니다.",
-      "pairing": "고기 요리, 식후.",
+      "pairing": "구운 마늘의 단맛이 살아 있어 삼겹살·갈비 같은 고기 요리와 자연스럽게 어울립니다. 식후에 마시면 알싸함이 부드럽게 남아 입안이 개운합니다. 디저트와는 마늘 향이 어긋나 따로 즐기는 게 좋습니다.",
       "brewTip": "꿀이나 대추를 함께 달이면 마시기 편합니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "마늘차 구운마늘 전통차"
@@ -22470,7 +22470,7 @@ window.TEAFaiData = (function () {
       "process": "Garlic roasted, then simmered in water about ten minutes.",
       "story": "A foundation of the Korean table, garlic was also roasted into tea.",
       "flavor": "Roasted sweetness comes forward; the raw bite turns soft.",
-      "pairing": "Meat dishes, after meals.",
+      "pairing": "With the roasted garlic's sweetness forward, it goes naturally with meat dishes like pork belly and ribs. After a meal, the softened bite leaves the palate refreshed. Desserts sit at odds with the garlic aroma, so enjoy it separately.",
       "brewTip": "Simmer with honey or jujube to make it gentler.",
       "keep": "Sealed, cool and dry.",
       "keywords": "garlic tea roasted Korea traditional"
@@ -22486,7 +22486,7 @@ window.TEAFaiData = (function () {
       "process": "大蒜烤后加水煮10分钟左右。",
       "story": "大蒜是韩国饭桌的基本食材，也烤来煮茶。",
       "flavor": "烤蒜的甜味出来，生辣变柔和。",
-      "pairing": "肉菜、饭后。",
+      "pairing": "以烤大蒜的甘甜为主，它自然地配五花肉、排骨等肉菜。饭后，柔和下来的辛辣让味觉清爽。甜点与大蒜香气不协调，请分开享用。",
       "brewTip": "和蜂蜜或大枣一起煮更好入口。",
       "keep": "密封阴凉干燥。",
       "keywords": "大蒜茶 烤蒜 韩国"
@@ -22502,7 +22502,7 @@ window.TEAFaiData = (function () {
       "process": "大蒜烤後加水煮10分鐘左右。",
       "story": "大蒜是韓國飯桌的基本食材，也烤來煮茶。",
       "flavor": "烤蒜的甜味出來，生辣變柔和。",
-      "pairing": "肉菜、飯後。",
+      "pairing": "以烤大蒜的甜味為主，與五花肉、排骨等肉類料理自然相配。餐後，柔和下來的辛味讓味蕾清爽。甜點與大蒜香氣不合，建議分開享用。",
       "brewTip": "和蜂蜜或大棗一起煮更好入口。",
       "keep": "密封陰涼乾燥。",
       "keywords": "大蒜茶 烤蒜 韓國"
@@ -22566,7 +22566,7 @@ window.TEAFaiData = (function () {
       "process": "열매를 말려 물에 넣고 10분쯤 달입니다.",
       "story": "마름은 물에서 자라는 식물로, 열매를 삶아 먹거나 말려 차로 썼습니다.",
       "flavor": "담백하고 옅은 단맛, 부드러운 뒷맛.",
-      "pairing": "식후, 떡.",
+      "pairing": "담백하고 부드러운 맛이 식후 한 잔으로 부담이 없고, 절편이나 인절미 같은 떡과도 무난하게 어울립니다. 맛이 순해 어떤 음식 곁에서도 튀지 않습니다. 양념이 강한 음식과는 담백함이 묻힐 수 있습니다.",
       "brewTip": "껍질째 달이면 맛이 더 우러납니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "마름차 능실 전통차"
@@ -22582,7 +22582,7 @@ window.TEAFaiData = (function () {
       "process": "Fruit dried, then simmered in water about ten minutes.",
       "story": "An aquatic plant whose fruit was boiled for food or dried for tea.",
       "flavor": "Plain and mild with a light sweetness and a soft finish.",
-      "pairing": "After meals, rice cakes.",
+      "pairing": "Its plain, soft taste is an easy after-meal cup and goes smoothly with rice cakes like jeolpyeon and injeolmi. Mild as it is, it never stands out beside any food. Strongly seasoned dishes can bury its mildness.",
       "brewTip": "Simmered in the shell, the flavor deepens.",
       "keep": "Sealed, cool and dry.",
       "keywords": "water caltrop tea mareum Korea traditional"
@@ -22598,7 +22598,7 @@ window.TEAFaiData = (function () {
       "process": "果实晒干，加水煮10分钟左右。",
       "story": "菱是水生植物，果实煮来吃，也晒干泡茶。",
       "flavor": "清淡微甜，余味柔和。",
-      "pairing": "饭后、年糕。",
+      "pairing": "朴素柔和的味道是轻松的饭后一杯，与印花米糕、豆粉年糕等米糕顺畅相配。温和如它，在任何食物旁都不突出。调味浓重的菜可能掩埋它的温和。",
       "brewTip": "带壳煮味道更出。",
       "keep": "密封阴凉干燥。",
       "keywords": "菱角茶 传统茶 韩国"
@@ -22614,7 +22614,7 @@ window.TEAFaiData = (function () {
       "process": "果實曬乾，加水煮10分鐘左右。",
       "story": "菱是水生植物，果實煮來吃，也曬乾泡茶。",
       "flavor": "清淡微甜，餘味柔和。",
-      "pairing": "飯後、年糕。",
+      "pairing": "樸實柔和的滋味，是輕鬆的餐後一杯，與切片年糕、黃豆粉年糕等年糕順口相配。如此溫和，配任何食物都不突出。重口味料理可能掩蓋它的溫和。",
       "brewTip": "帶殼煮味道更出。",
       "keep": "密封陰涼乾燥。",
       "keywords": "菱角茶 傳統茶 韓國"
@@ -22679,7 +22679,7 @@ window.TEAFaiData = (function () {
       "process": "청매를 설탕에 재어 매실청을 만들고, 물에 타 마십니다.",
       "story": "매실청은 한국 가정에서 여름 음료와 요리 양념으로 두루 써 왔습니다.",
       "flavor": "새콤한 첫맛과 달콤한 끝맛. 물색은 옅은 황금빛입니다.",
-      "pairing": "기름진 음식, 여름, 디저트.",
+      "pairing": "새콤한 첫맛이 삼겹살·튀김 같은 기름진 음식의 느끼함을 씻어 주고, 여름에 차갑게 마시면 한결 산뜻합니다. 달콤한 끝맛 덕에 약과 같은 디저트와도 어울립니다. 신 과일과는 신맛이 겹쳐 피하세요.",
       "brewTip": "찬물에 타면 여름 음료로 좋습니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "매실차 매실청 청매 여름"
@@ -22695,7 +22695,7 @@ window.TEAFaiData = (function () {
       "process": "Green plums macerated in sugar into cheong, then stirred into water.",
       "story": "Maesil cheong has long served Korean homes as a summer drink and a seasoning.",
       "flavor": "A tart first note and a sweet finish; a pale gold liquor.",
-      "pairing": "Rich food, summer, desserts.",
+      "pairing": "Its tart first note washes away the greasiness of rich food like pork belly and fritters, and served cold in summer it feels fresher. The sweet finish also suits desserts like yakgwa. Avoid sour fruit, where the sourness overlaps.",
       "brewTip": "In cold water it makes a fine summer drink.",
       "keep": "Sealed, cool and dry.",
       "keywords": "maesil green plum tea cheong Korea"
@@ -22711,7 +22711,7 @@ window.TEAFaiData = (function () {
       "process": "青梅用糖腌成梅青，兑水喝。",
       "story": "梅青在韩国家庭里既是夏日饮品也是调味料。",
       "flavor": "先酸后甜，汤色浅金。",
-      "pairing": "油腻食物、夏天、甜点。",
+      "pairing": "酸味的前调洗去五花肉、炸物等丰盛食物的油腻，夏天冰镇更清爽。甘甜的收尾也适合药果等甜点。避免酸味水果，酸味会重叠。",
       "brewTip": "兑凉水就是夏日饮品。",
       "keep": "密封阴凉干燥。",
       "keywords": "青梅茶 梅青 韩国"
@@ -22727,7 +22727,7 @@ window.TEAFaiData = (function () {
       "process": "青梅用糖醃成梅青，兌水喝。",
       "story": "梅青在韓國家庭裡既是夏日飲品也是調味料。",
       "flavor": "先酸後甜，湯色淺金。",
-      "pairing": "油膩食物、夏天、甜點。",
+      "pairing": "酸味的前調能洗去五花肉、炸物等豐盛食物的油膩，夏天冷飲更新鮮。甘甜的收尾也適合藥菓等甜點。避免酸味水果，酸味會重疊。",
       "brewTip": "兌涼水就是夏日飲品。",
       "keep": "密封陰涼乾燥。",
       "keywords": "青梅茶 梅青 韓國"
@@ -22792,7 +22792,7 @@ window.TEAFaiData = (function () {
       "process": "꽃봉오리와 꽃을 그늘에서 말려 뜨거운 물에 우립니다.",
       "story": "매화는 사군자의 하나로 사랑받아 왔고, 꽃을 말려 차로도 즐겼습니다.",
       "flavor": "맑고 은은한 꽃향과 옅은 단맛.",
-      "pairing": "떡, 가벼운 디저트, 다과.",
+      "pairing": "맑고 은은한 꽃향이 화전이나 찹쌀떡 같은 떡과 잘 어울리고, 가벼운 다과 자리에도 격이 맞습니다. 옅은 단맛이 떡의 단맛과 겹치지 않아 산뜻합니다. 향이 강한 음식과는 꽃향이 묻혀 피하는 게 좋습니다.",
       "brewTip": "80~85도. 향이 섬세해 오래 우리지 마세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "매화차 매화꽃 꽃차 사군자"
@@ -22808,7 +22808,7 @@ window.TEAFaiData = (function () {
       "process": "Buds and blossoms shade-dried, then steeped in hot water.",
       "story": "One of the Four Gentlemen of ink painting, plum blossom was also dried for tea.",
       "flavor": "Clear, quiet floral scent and a light sweetness.",
-      "pairing": "Rice cakes, light desserts, tea sweets.",
+      "pairing": "Its clear, quiet floral scent pairs well with rice cakes like hwajeon and glutinous rice cakes, and fits a light tea-sweets setting. The light sweetness does not overlap the cakes' sugar, keeping it fresh. Avoid strongly flavored food, which buries the floral scent.",
       "brewTip": "80–85 °C; keep it short for the delicate scent.",
       "keep": "Sealed, cool and dry.",
       "keywords": "plum blossom tea maehwa flower Korea"
@@ -22824,7 +22824,7 @@ window.TEAFaiData = (function () {
       "process": "花苞与花阴干后用热水冲泡。",
       "story": "梅花是四君子之一受人喜爱，花也晒干泡茶。",
       "flavor": "清雅的花香与淡淡甜味。",
-      "pairing": "年糕、清淡甜点、茶点。",
+      "pairing": "清亮安静的花香与花煎饼、糯米糕等米糕很搭配，也适合清淡的茶点场合。淡淡的甘甜不与米糕的糖分重叠，保持清爽。避免风味强烈的食物，会掩埋花香。",
       "brewTip": "80~85度，香气细，不要泡久。",
       "keep": "密封阴凉干燥。",
       "keywords": "梅花茶 花茶 四君子 韩国"
@@ -22840,7 +22840,7 @@ window.TEAFaiData = (function () {
       "process": "花苞與花陰乾後用熱水沖泡。",
       "story": "梅花是四君子之一受人喜愛，花也曬乾泡茶。",
       "flavor": "清雅的花香與淡淡甜味。",
-      "pairing": "年糕、清淡甜點、茶點。",
+      "pairing": "清澈安靜的花香，與花煎、糯米年糕等年糕很搭，也適合清淡的茶點場合。淡淡的甜味不與年糕的糖分重疊，保持清新。避免風味強烈的食物，會掩蓋花香。",
       "brewTip": "80~85度，香氣細，不要泡久。",
       "keep": "密封陰涼乾燥。",
       "keywords": "梅花茶 花茶 四君子 韓國"
@@ -22905,7 +22905,7 @@ window.TEAFaiData = (function () {
       "process": "잎을 말려 덖은 뒤 뜨거운 물에 우립니다.",
       "story": "머위는 봄나물로 친숙한 식물로, 잎을 말려 차로도 마셔 왔습니다.",
       "flavor": "쌉싸름한 풀 향과 구수한 뒷맛.",
-      "pairing": "식사, 기름진 음식.",
+      "pairing": "쌉싸름한 풀 향과 구수한 뒷맛이 머위나물 같은 봄 반찬과 결이 맞고, 기름진 음식과 함께해도 느끼함을 잡아 줍니다. 향이 또렷해 진한 식사와도 밀리지 않습니다. 단 디저트와는 쌉쌀함이 도드라질 수 있습니다.",
       "brewTip": "5분. 쌉싸름함이 강하면 시간을 줄이세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "머위차 봄나물 쌉싸름"
@@ -22921,7 +22921,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves dried and pan-fired, then steeped in hot water.",
       "story": "A familiar spring green, butterbur leaves were also dried for tea.",
       "flavor": "Bitter green scent with a toasty finish.",
-      "pairing": "Meals, rich food.",
+      "pairing": "Its bitter green scent and toasty finish match spring side dishes like seasoned butterbur, and alongside rich food it reins in greasiness. The clear aroma holds its own at a hearty table. With sweet desserts, the bitterness can stand out.",
       "brewTip": "Five minutes; shorten it if the bitterness grows.",
       "keep": "Sealed, cool and dry.",
       "keywords": "butterbur tea meowi spring Korea"
@@ -22937,7 +22937,7 @@ window.TEAFaiData = (function () {
       "process": "叶晒干炒制后用热水冲泡。",
       "story": "款冬是熟悉的春菜，叶也晒干泡茶。",
       "flavor": "微苦的草香与焦香余味。",
-      "pairing": "餐食、油腻食物。",
+      "pairing": "苦味的青绿香气与烘焙收尾与拌蜂斗菜等春季配菜相合，在丰盛食物旁能收住油腻。清亮的香气在扎实的餐桌上不落下风。配甜味甜点时，苦味可能显得突出。",
       "brewTip": "5分钟，太苦就泡短些。",
       "keep": "密封阴凉干燥。",
       "keywords": "款冬茶 春菜 韩国"
@@ -22953,7 +22953,7 @@ window.TEAFaiData = (function () {
       "process": "葉曬乾炒製後用熱水沖泡。",
       "story": "款冬是熟悉的春菜，葉也曬乾泡茶。",
       "flavor": "微苦的草香與焦香餘味。",
-      "pairing": "餐食、油膩食物。",
+      "pairing": "苦綠的香氣與焦香收尾，與涼拌蜂斗菜等春季配菜相合；配豐盛食物時也能收住油膩。清澈的香氣在豐盛餐桌上也站得住。配甜的甜點時，苦味可能顯得突出。",
       "brewTip": "5分鐘，太苦就泡短些。",
       "keep": "密封陰涼乾燥。",
       "keywords": "款冬茶 春菜 韓國"
@@ -23019,7 +23019,7 @@ window.TEAFaiData = (function () {
       "process": "꽃봉오리를 그늘에서 말려 뜨거운 물에 우립니다.",
       "story": "목련 꽃봉오리는 '신이'라 불리며 오래전부터 써 왔고, 꽃차로도 즐깁니다.",
       "flavor": "맑고 시원한 꽃향과 옅은 단맛.",
-      "pairing": "떡, 디저트, 봄 다과.",
+      "pairing": "맑고 시원한 꽃향이 화전·찹쌀떡 같은 떡과 잘 어울리고, 봄 다과 자리의 가벼운 디저트와도 결이 맞습니다. 은은한 단맛이 향을 부드럽게 받쳐 줍니다. 양념이 강한 음식과는 꽃향이 묻혀 피하세요.",
       "brewTip": "80~85도. 봉오리가 천천히 펴집니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "목련차 목련꽃 신이 꽃차"
@@ -23035,7 +23035,7 @@ window.TEAFaiData = (function () {
       "process": "Buds shade-dried, then steeped in hot water.",
       "story": "Called sini, magnolia buds have long been used and are enjoyed as a flower tea.",
       "flavor": "Clear, cool floral scent and a light sweetness.",
-      "pairing": "Rice cakes, desserts, spring tea sweets.",
+      "pairing": "Its clear, cool floral scent pairs well with rice cakes like hwajeon and glutinous rice cakes, and matches light desserts at a spring tea-sweets table. The gentle sweetness softly supports the aroma. Avoid strongly seasoned food, which buries the floral scent.",
       "brewTip": "80–85 °C; the buds open slowly.",
       "keep": "Sealed, cool and dry.",
       "keywords": "magnolia tea sini flower Korea"
@@ -23051,7 +23051,7 @@ window.TEAFaiData = (function () {
       "process": "花苞阴干后用热水冲泡。",
       "story": "木兰花苞称辛夷，自古使用，也作花茶。",
       "flavor": "清凉的花香与淡淡甜味。",
-      "pairing": "年糕、甜点、春茶点。",
+      "pairing": "清亮清凉的花香与花煎饼、糯米糕等米糕很搭配，也配春季茶点桌上的清淡甜点。温和的甘甜柔和地支撑香气。避免调味强烈的食物，会掩埋花香。",
       "brewTip": "80~85度，花苞慢慢舒展。",
       "keep": "密封阴凉干燥。",
       "keywords": "木兰茶 辛夷 花茶 韩国"
@@ -23067,7 +23067,7 @@ window.TEAFaiData = (function () {
       "process": "花苞陰乾後用熱水沖泡。",
       "story": "木蘭花苞稱辛夷，自古使用，也作花茶。",
       "flavor": "清涼的花香與淡淡甜味。",
-      "pairing": "年糕、甜點、春茶點。",
+      "pairing": "清澈清涼的花香，與花煎、糯米年糕等年糕很搭，也適合春季茶點桌上的清淡甜點。溫和的甜味柔和地襯托香氣。避免重口味食物，會掩蓋花香。",
       "brewTip": "80~85度，花苞慢慢舒展。",
       "keep": "密封陰涼乾燥。",
       "keywords": "木蘭茶 辛夷 花茶 韓國"
@@ -23129,7 +23129,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 물에 넣고 15분쯤 달입니다.",
       "story": "목향은 향이 강해 오래전부터 한방 약재와 향 재료로 써 왔습니다.",
       "flavor": "깊은 나무 향과 쌉싸름한 맛.",
-      "pairing": "식후.",
+      "pairing": "깊은 나무 향과 쌉싸름한 맛이 진한 식사를 마친 뒤 한 잔으로 입안을 정리해 줍니다. 대추차처럼 단맛 나는 차와 번갈아 마셔도 균형이 맞습니다. 가벼운 디저트와는 향과 쓴맛이 강하게 앞설 수 있습니다.",
       "brewTip": "향이 강해 양을 조금씩 조절하세요.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "목향차 약차 뿌리차"
@@ -23145,7 +23145,7 @@ window.TEAFaiData = (function () {
       "process": "Root simmered in water for about fifteen minutes.",
       "story": "Strongly scented, costus has long served as a herbal medicine and a fragrance material.",
       "flavor": "Deep woody scent and a bitter edge.",
-      "pairing": "After meals.",
+      "pairing": "Its deep woody scent and bitter edge tidy the palate in a cup after a hearty meal. Alternated with a sweet tea like jujube tea, it balances well. With light desserts, its aroma and bitterness can push too far forward.",
       "brewTip": "The scent is strong; adjust the amount little by little.",
       "keep": "Sealed, cool and dry.",
       "keywords": "costus root tea herbal mokhyang"
@@ -23161,7 +23161,7 @@ window.TEAFaiData = (function () {
       "process": "根加水煮15分钟左右。",
       "story": "木香香气强，自古作中药与香料。",
       "flavor": "深沉的木香与微苦。",
-      "pairing": "饭后。",
+      "pairing": "深厚的木质香气与苦边能在丰盛一餐后以一杯收拾味觉。与红枣茶等甜味茶交替饮用，平衡得很好。配清淡甜点时，它的香气与苦味可能过于向前。",
       "brewTip": "香气强，用量慢慢调。",
       "keep": "密封阴凉干燥。",
       "keywords": "木香茶 药茶 根茶"
@@ -23177,7 +23177,7 @@ window.TEAFaiData = (function () {
       "process": "根加水煮15分鐘左右。",
       "story": "木香香氣強，自古作中藥與香料。",
       "flavor": "深沉的木香與微苦。",
-      "pairing": "飯後。",
+      "pairing": "深沉的木質香氣與苦味邊緣，能在豐盛餐食後以一杯收拾味蕾。與大棗茶等甜味茶交替飲用，平衡得很好。配清淡甜點時，它的香氣與苦味可能過於向前。",
       "brewTip": "香氣強，用量慢慢調。",
       "keep": "密封陰涼乾燥。",
       "keywords": "木香茶 藥茶 根茶"
@@ -23243,7 +23243,7 @@ window.TEAFaiData = (function () {
       "process": "무잎을 말려 뜨거운 물에 우리거나 약불에 달입니다.",
       "story": "무잎은 시래기로 먹어 온 재료로, 말려 차로 마시기도 했습니다.",
       "flavor": "구수한 풀 향과 담백한 맛.",
-      "pairing": "식사, 밥 요리.",
+      "pairing": "구수한 풀 향과 담백한 맛이 비빔밥·김밥 같은 밥 요리와 잘 어울리고, 나물 반찬 위주의 식사 곁에도 무난합니다. 맛이 순해 식사를 방해하지 않습니다. 진한 단맛의 디저트와는 구수함이 어긋날 수 있습니다.",
       "brewTip": "5분. 달이면 더 구수합니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "무잎차 무청 시래기"
@@ -23259,7 +23259,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves dried, then steeped in hot water or simmered gently.",
       "story": "Radish leaves, eaten as siraegi greens, were also dried for tea.",
       "flavor": "Toasty green scent and a plain, mild taste.",
-      "pairing": "Meals, rice dishes.",
+      "pairing": "Its toasty green scent and plain taste pair well with rice dishes like bibimbap and gimbap, and sit easily beside meals of seasoned greens. The mild taste never interrupts the meal. Richly sweet desserts can sit at odds with its toastiness.",
       "brewTip": "Five minutes; simmer for more toastiness.",
       "keep": "Sealed, cool and dry.",
       "keywords": "radish leaf tea siraegi Korea"
@@ -23275,7 +23275,7 @@ window.TEAFaiData = (function () {
       "process": "叶晒干用热水冲泡，或小火煮。",
       "story": "萝卜叶本是做干菜的食材，也晒干泡茶。",
       "flavor": "焦香的草味，清淡。",
-      "pairing": "餐食、米饭菜。",
+      "pairing": "烘焙的青绿香气与朴素味道与拌饭、紫菜包饭等米饭类食物很搭配，放在拌野菜餐食旁也轻松。温和的味道不会打断用餐。甜味浓郁的甜点可能与它的烘焙香不协调。",
       "brewTip": "5分钟，煮更香。",
       "keep": "密封阴凉干燥。",
       "keywords": "萝卜叶茶 干菜 韩国"
@@ -23291,7 +23291,7 @@ window.TEAFaiData = (function () {
       "process": "葉曬乾用熱水沖泡，或小火煮。",
       "story": "蘿蔔葉本是做乾菜的食材，也曬乾泡茶。",
       "flavor": "焦香的草味，清淡。",
-      "pairing": "餐食、米飯菜。",
+      "pairing": "焦香的青綠香氣與樸實滋味，與拌飯、海苔飯捲等米食很搭，配涼拌野菜餐食也輕鬆。溫和的滋味不會打擾一餐。甜味濃郁的甜點可能與它的焦香不合。",
       "brewTip": "5分鐘，煮更香。",
       "keep": "密封陰涼乾燥。",
       "keywords": "蘿蔔葉茶 乾菜 韓國"
@@ -23355,7 +23355,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 잘게 썰어 물에 넣고 15분쯤 달입니다.",
       "story": "방풍은 잎은 나물로, 뿌리는 약재로 써 온 식물입니다.",
       "flavor": "은은한 흙 향과 옅은 단맛, 부드러운 뒷맛.",
-      "pairing": "식후, 해산물 요리.",
+      "pairing": "은은한 흙 향과 부드러운 뒷맛이 생선구이·해물탕 같은 해산물 요리와 잘 어울리고, 식후 한 잔으로도 부담이 없습니다. 담백한 풍미가 해산물의 맛을 방해하지 않습니다. 단맛이 강한 디저트와는 흙 향이 어긋날 수 있습니다.",
       "brewTip": "충분히 달여야 맛이 우러납니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "방풍차 방풍 뿌리차 약차"
@@ -23371,7 +23371,7 @@ window.TEAFaiData = (function () {
       "process": "Root cut small and simmered about fifteen minutes.",
       "story": "Its leaves are eaten as a green; its root has served as an herb.",
       "flavor": "Quiet earthy scent, light sweetness, a soft finish.",
-      "pairing": "After meals, seafood dishes.",
+      "pairing": "Its quiet earthy scent and soft finish pair well with seafood dishes like grilled fish and seafood soup, and a cup after the meal is never a burden. The plain flavor never gets in the seafood's way. Very sweet desserts can sit at odds with its earthy note.",
       "brewTip": "Simmer it fully for the flavor to come out.",
       "keep": "Sealed, cool and dry.",
       "keywords": "bangpung tea saposhnikovia root herbal"
@@ -23387,7 +23387,7 @@ window.TEAFaiData = (function () {
       "process": "根切小，加水煮15分钟左右。",
       "story": "防风叶作野菜，根作药材。",
       "flavor": "淡淡土香与微甜，余味柔和。",
-      "pairing": "饭后、海鲜菜。",
+      "pairing": "安静的泥土香气与柔和收尾与烤鱼、海鲜汤等海鲜菜肴很搭配，饭后一杯毫无负担。朴素的风味不会妨碍海鲜。非常甜的甜点可能与它的泥土气息不协调。",
       "brewTip": "煮够时间味道才出得来。",
       "keep": "密封阴凉干燥。",
       "keywords": "防风茶 根茶 药茶"
@@ -23403,7 +23403,7 @@ window.TEAFaiData = (function () {
       "process": "根切小，加水煮15分鐘左右。",
       "story": "防風葉作野菜，根作藥材。",
       "flavor": "淡淡土香與微甜，餘味柔和。",
-      "pairing": "飯後、海鮮菜。",
+      "pairing": "安靜的泥土香氣與柔和收尾，與烤魚、海鮮湯等海鮮料理很搭，餐後一杯也毫不負擔。樸實的風味不會妨礙海鮮。很甜的甜點可能與它的泥土調不合。",
       "brewTip": "煮夠時間味道才出得來。",
       "keep": "密封陰涼乾燥。",
       "keywords": "防風茶 根茶 藥茶"
@@ -23467,7 +23467,7 @@ window.TEAFaiData = (function () {
       "process": "말린 버섯을 물에 넣고 15분쯤 달입니다.",
       "story": "버섯을 말리면 감칠맛이 진해져, 국물 재료이자 차로도 써 왔습니다.",
       "flavor": "깊은 감칠맛과 은은한 버섯 향.",
-      "pairing": "식전, 가벼운 식사.",
+      "pairing": "식전에 한 잔으로 입맛을 돋우기 좋고, 맑은 국·두부찜·채소 샐러드·버섯볶음 같은 담백한 음식과 잘 어울립니다. 깊은 감칠맛이 가벼운 식사의 맛을 받쳐 주며, 마늘·고추장처럼 향이 강한 양념 요리와는 향이 부딪혀 피하는 편이 좋습니다.",
       "brewTip": "달인 뒤 건더기는 요리에 써도 좋습니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "버섯차 표고 감칠맛"
@@ -23483,7 +23483,7 @@ window.TEAFaiData = (function () {
       "process": "Dried mushrooms simmered in water about fifteen minutes.",
       "story": "Drying deepens mushroom umami; they serve as both stock and tea.",
       "flavor": "Deep umami with a quiet mushroom scent.",
-      "pairing": "Before meals, light meals.",
+      "pairing": "A cup before the meal whets the appetite, and it pairs well with plain dishes such as clear soup, steamed tofu, vegetable salad and sautéed mushrooms. Its deep umami supports light food, but strongly seasoned dishes with garlic or gochujang clash with its scent, so avoid those.",
       "brewTip": "The simmered mushrooms can go into cooking afterwards.",
       "keep": "Sealed, cool and dry.",
       "keywords": "mushroom tea shiitake umami Korea"
@@ -23499,7 +23499,7 @@ window.TEAFaiData = (function () {
       "process": "干蘑菇加水煮15分钟左右。",
       "story": "蘑菇晒干鲜味更浓，既作汤料也泡茶。",
       "flavor": "深厚的鲜味与淡淡菌香。",
-      "pairing": "饭前、清淡餐食。",
+      "pairing": "餐前一杯能唤起食欲，与清汤、蒸豆腐、蔬菜沙拉、炒蘑菇等朴素菜肴很搭配。深厚的鲜味支撑清淡食物，但大蒜或辣椒酱调味浓重的菜会与它的香气相冲，请避免。",
       "brewTip": "煮过的蘑菇还能入菜。",
       "keep": "密封阴凉干燥。",
       "keywords": "蘑菇茶 香菇 鲜味 韩国"
@@ -23515,7 +23515,7 @@ window.TEAFaiData = (function () {
       "process": "乾蘑菇加水煮15分鐘左右。",
       "story": "蘑菇曬乾鮮味更濃，既作湯料也泡茶。",
       "flavor": "深厚的鮮味與淡淡菌香。",
-      "pairing": "飯前、清淡餐食。",
+      "pairing": "餐前一杯能喚起食慾，與清湯、蒸豆腐、蔬菜沙拉、炒蘑菇等樸實料理很搭。深沉的鮮味能襯托清淡食物，但大蒜或辣椒醬調味的重口味料理會與它的香氣相衝，應避免。",
       "brewTip": "煮過的蘑菇還能入菜。",
       "keep": "密封陰涼乾燥。",
       "keywords": "蘑菇茶 香菇 鮮味 韓國"
@@ -23580,7 +23580,7 @@ window.TEAFaiData = (function () {
       "process": "꽃을 말려 뜨거운 물에 우리고, 절인 꽃은 물에 헹궈 우립니다.",
       "story": "벚꽃은 봄을 상징하는 꽃으로, 꽃차로 만들어 봄을 마시는 즐거움이 있습니다.",
       "flavor": "은은한 꽃향과 옅은 단맛, 절인 꽃은 짭짤함이 살짝 돕니다.",
-      "pairing": "떡, 디저트, 봄 다과.",
+      "pairing": "백설기·화전·모찌 같은 봄 떡과 가벼운 디저트에 잘 어울립니다. 은은한 꽃향과 옅은 단맛이 떡의 담백함을 해치지 않고, 절인 꽃의 살짝 짭짤한 맛이 단맛을 깔끔하게 잡아 줍니다. 진한 초콜릿 디저트처럼 풍미가 강한 음식과는 향이 묻혀 아쉽습니다.",
       "brewTip": "80~85도. 꽃이 물 위에서 펴지는 모습이 볼거리입니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "벚꽃차 사쿠라 꽃차 봄"
@@ -23596,7 +23596,7 @@ window.TEAFaiData = (function () {
       "process": "Blossoms dried and steeped; pickled ones rinsed, then steeped.",
       "story": "The emblem of spring, brewed as a flower tea to drink the season in.",
       "flavor": "Soft floral scent, light sweetness; pickled blossoms carry a hint of salt.",
-      "pairing": "Rice cakes, desserts, spring tea sweets.",
+      "pairing": "It suits spring rice cakes such as baekseolgi, hwajeon and mochi, plus light desserts. The soft floral scent and light sweetness never overwhelm plain rice cakes, while the blossoms' hint of salt keeps the sweetness tidy. Rich chocolate desserts bury its delicate scent, so skip those.",
       "brewTip": "80–85 °C; the blossom opening on the water is the sight to watch.",
       "keep": "Sealed, cool and dry.",
       "keywords": "cherry blossom tea sakura flower spring"
@@ -23612,7 +23612,7 @@ window.TEAFaiData = (function () {
       "process": "花晒干用热水冲泡，腌花冲洗后冲泡。",
       "story": "樱花是春天的象征，做成花茶把春天喝下去。",
       "flavor": "淡淡花香与甜味，腌花带一点咸。",
-      "pairing": "年糕、甜点、春茶点。",
+      "pairing": "适合白雪糕、花煎饼、麻薯等春季米糕，以及清淡甜点。柔和的花香与淡淡甘甜不会压过朴素的米糕，花朵淡淡的咸味让甜味保持利落。浓郁的巧克力甜点会掩埋它细腻的香气，请跳过。",
       "brewTip": "80~85度，看花在水面舒展。",
       "keep": "密封阴凉干燥。",
       "keywords": "樱花茶 花茶 春天"
@@ -23628,7 +23628,7 @@ window.TEAFaiData = (function () {
       "process": "花曬乾用熱水沖泡，醃花沖洗後沖泡。",
       "story": "櫻花是春天的象徵，做成花茶把春天喝下去。",
       "flavor": "淡淡花香與甜味，醃花帶一點鹹。",
-      "pairing": "年糕、甜點、春茶點。",
+      "pairing": "適合白雪糕、花煎、麻糬等春季年糕，以及清淡甜點。柔和的花香與淡淡甜味不會壓過樸實的年糕，花瓣的一絲鹹味又能收住甜味。濃郁的巧克力甜點會掩蓋它細緻的香氣，建議跳過。",
       "brewTip": "80~85度，看花在水面舒展。",
       "keep": "密封陰涼乾燥。",
       "keywords": "櫻花茶 花茶 春天"
@@ -23692,7 +23692,7 @@ window.TEAFaiData = (function () {
       "process": "복령을 잘게 잘라 물에 넣고 15분쯤 달입니다.",
       "story": "복령은 오래전부터 한방에서 널리 써 온 약재로, 차로 달여 마셔 왔습니다.",
       "flavor": "담백하고 부드러운 맛, 거의 향이 없습니다.",
-      "pairing": "식후, 다른 약차와 함께.",
+      "pairing": "향이 거의 없어 어떤 식사에도 무난하게 곁들일 수 있고, 식후에 죽·누룽지·담백한 나물 반찬과 함께 마시기 좋습니다. 다른 약차와 섞어 우려도 맛이 튀지 않아 베이스로 쓰기 좋지만, 매운 음식 뒤에는 담백함이 너무 묻혀 존재감이 사라집니다.",
       "brewTip": "다른 재료와 섞어 달이면 마시기 편합니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "복령차 백복령 약차"
@@ -23708,7 +23708,7 @@ window.TEAFaiData = (function () {
       "process": "Poria cut small and simmered about fifteen minutes.",
       "story": "A mainstay of herbal medicine for centuries, also simmered as a tea.",
       "flavor": "Plain and soft, with almost no scent of its own.",
-      "pairing": "After meals, blended with other herbal teas.",
+      "pairing": "With almost no scent of its own, it goes with nearly any meal and is nice after eating, alongside porridge, scorched-rice soup or plain seasoned vegetables. It also works as a quiet base blended with other herbal teas, but after spicy food its plainness disappears entirely.",
       "brewTip": "Simmer it with other ingredients to make it easier to drink.",
       "keep": "Sealed, cool and dry.",
       "keywords": "poria tea bokryeong herbal"
@@ -23724,7 +23724,7 @@ window.TEAFaiData = (function () {
       "process": "茯苓切小，加水煮15分钟左右。",
       "story": "茯苓自古是中药常用药材，也煮来当茶。",
       "flavor": "清淡柔和，几乎没有香气。",
-      "pairing": "饭后、与其他药茶一起。",
+      "pairing": "几乎没有自身的香气，几乎能配任何餐食，饭后与粥、锅巴汤或朴素的拌菜同享也很好。也可作为与其他草本茶拼配的安静基底，但辛辣食物之后，它的朴素会完全消失。",
       "brewTip": "和其他材料一起煮更好入口。",
       "keep": "密封阴凉干燥。",
       "keywords": "茯苓茶 药茶"
@@ -23740,7 +23740,7 @@ window.TEAFaiData = (function () {
       "process": "茯苓切小，加水煮15分鐘左右。",
       "story": "茯苓自古是中藥常用藥材，也煮來當茶。",
       "flavor": "清淡柔和，幾乎沒有香氣。",
-      "pairing": "飯後、與其他藥茶一起。",
+      "pairing": "本身幾乎沒有香氣，幾乎任何餐食都能配；餐後配粥、鍋巴湯或樸素的涼拌蔬菜也很好。也能作為與其他藥草茶調配的安靜基底，但辛辣食物之後，它的樸實會完全消失。",
       "brewTip": "和其他材料一起煮更好入口。",
       "keep": "密封陰涼乾燥。",
       "keywords": "茯苓茶 藥茶"
@@ -23806,7 +23806,7 @@ window.TEAFaiData = (function () {
       "process": "복숭아를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "여름에 많이 나는 복숭아를 보관해 두고 마시기 위해 말려 우린 데서 비롯됐습니다.",
       "flavor": "복숭아의 달콤한 향과 옅은 산미. 물색은 옅은 노란빛입니다.",
-      "pairing": "디저트, 여름 아이스티, 가벼운 간식.",
+      "pairing": "요거트·과일 샐러드·머핀·젤리 같은 가벼운 디저트와 잘 어울리고, 아이스티로 마시면 여름 간식과 시원하게 맞습니다. 복숭아의 달콤한 향과 옅은 산미가 단 디저트의 느끼함을 가볍게 끊어 주며, 진한 크림케이크와는 향이 겹쳐 다소 물릴 수 있습니다.",
       "brewTip": "5분 이상 우리고, 차갑게 식혀 얼음을 넣어도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "복숭아차 말린복숭아 과일차 여름"
@@ -23822,7 +23822,7 @@ window.TEAFaiData = (function () {
       "process": "Peaches sliced, dried, then steeped in hot water.",
       "story": "A way to keep the summer peach harvest drinkable all year.",
       "flavor": "Sweet peach aroma with a light tart edge; pale gold liquor.",
-      "pairing": "Desserts, iced in summer, light snacks.",
+      "pairing": "It pairs well with light desserts such as yogurt, fruit salad, muffins and jelly, and over ice it makes a refreshing match for summer snacks. The sweet peach aroma with a tart edge cuts the richness of sweet desserts, though with a heavy cream cake the flavors crowd each other.",
       "brewTip": "Steep five minutes or more; good chilled over ice.",
       "keep": "Sealed and dry.",
       "keywords": "peach tea dried peach fruit tea summer"
@@ -23838,7 +23838,7 @@ window.TEAFaiData = (function () {
       "process": "桃子切片晒干后热水冲泡。",
       "story": "把夏季桃子晒干保存、全年饮用而形成。",
       "flavor": "桃香清甜，微酸，汤色浅金。",
-      "pairing": "甜点、夏季冰茶、轻食。",
+      "pairing": "与酸奶、水果沙拉、麦芬、果冻等清淡甜点很搭配，加冰后是清爽的夏日小吃伴侣。带酸边的甜桃香气能削减甜味甜点的浓郁，但与厚重的奶油蛋糕同享时，风味会互相挤压。",
       "brewTip": "泡五分钟以上，冰镇也好喝。",
       "keep": "密封干燥。",
       "keywords": "桃子茶 干桃 果茶 夏季"
@@ -23854,7 +23854,7 @@ window.TEAFaiData = (function () {
       "process": "桃子切片曬乾後熱水沖泡。",
       "story": "把夏季桃子曬乾保存、全年飲用而形成。",
       "flavor": "桃香清甜，微酸，湯色淺金。",
-      "pairing": "甜點、夏季冰茶、輕食。",
+      "pairing": "與優格、水果沙拉、瑪芬、果凍等清淡甜點很搭；加冰後與夏季點心是清爽的組合。帶酸邊的香甜桃香能化解甜點的濃郁，但配厚重的鮮奶油蛋糕時，風味會互相擠壓。",
       "brewTip": "泡五分鐘以上，冰鎮也好喝。",
       "keep": "密封乾燥。",
       "keywords": "桃子茶 乾桃 果茶 夏季"
@@ -23921,7 +23921,7 @@ window.TEAFaiData = (function () {
       "process": "비트를 얇게 썰어 말리고 살짝 볶은 뒤 우립니다.",
       "story": "서양 채소인 비트가 국내에서 재배되면서 말린 채소차로 자리 잡았습니다.",
       "flavor": "흙 내음 섞인 단맛과 깊은 붉은 물색.",
-      "pairing": "식사, 샐러드, 겨울철 따뜻한 차.",
+      "pairing": "샐러드·구운 채소·호밀빵 샌드위치·수프와 잘 어울리고, 겨울철 따뜻하게 마시면 식사 곁들임으로 든든합니다. 흙 내음 도는 단맛이 채소의 풋내와 이어지고 붉은 물색이 식탁에 색을 더해 줍니다. 생선회처럼 섬세한 해산물과는 흙 향이 앞서 아쉽습니다.",
       "brewTip": "5분 이상. 색이 진하게 우러나도록 충분히 둡니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "비트차 레드비트 비트뿌리 붉은차"
@@ -23937,7 +23937,7 @@ window.TEAFaiData = (function () {
       "process": "Beets sliced, dried, lightly roasted, then steeped.",
       "story": "As beets became a common Korean crop, the dried slices turned into a home tea.",
       "flavor": "Earthy sweetness and a deep ruby-red liquor.",
-      "pairing": "Meals, salads, a warm winter cup.",
+      "pairing": "It goes well with salads, roasted vegetables, rye-bread sandwiches and soups, and served warm in winter it makes a satisfying mealtime cup. Its earthy sweetness flows naturally into the green notes of vegetables and its red liquor brightens the table, but with delicate raw fish the earthy scent takes over.",
       "brewTip": "Five minutes or more, until the color deepens.",
       "keep": "Sealed and dry.",
       "keywords": "beetroot tea red beet earthy ruby"
@@ -23953,7 +23953,7 @@ window.TEAFaiData = (function () {
       "process": "甜菜切片晒干、轻炒后冲泡。",
       "story": "甜菜在韩国普遍种植后，干片成为家庭茶。",
       "flavor": "带泥土气的甜味，汤色深红。",
-      "pairing": "餐食、沙拉、冬季热饮。",
+      "pairing": "与沙拉、烤蔬菜、黑麦面包三明治和汤很搭配，冬天温热饮用是令人满足的餐间一杯。大地的甘甜自然流入蔬菜的青绿气息，红色茶汤让餐桌明亮，但配精致的生鱼时，大地香气会占据主导。",
       "brewTip": "五分钟以上，等颜色变深。",
       "keep": "密封干燥。",
       "keywords": "甜菜根茶 红甜菜 泥土香"
@@ -23969,7 +23969,7 @@ window.TEAFaiData = (function () {
       "process": "甜菜切片曬乾、輕炒後沖泡。",
       "story": "甜菜在韓國普遍種植後，乾片成為家庭茶。",
       "flavor": "帶泥土氣的甜味，湯色深紅。",
-      "pairing": "餐食、沙拉、冬季熱飲。",
+      "pairing": "與沙拉、烤蔬菜、裸麥麵包三明治和湯品很搭；冬天溫熱飲用，是令人滿足的佐餐一杯。大地般的甜味自然融入蔬菜的青綠調，紅色茶湯也讓餐桌明亮；但配精緻的生魚片時，泥土香氣會喧賓奪主。",
       "brewTip": "五分鐘以上，等顏色變深。",
       "keep": "密封乾燥。",
       "keywords": "甜菜根茶 紅甜菜 泥土香"
@@ -24035,7 +24035,7 @@ window.TEAFaiData = (function () {
       "process": "잎 뒷면의 털을 문질러 없애고 말린 뒤 우립니다.",
       "story": "비파는 남부 지방의 정원수로 흔했고, 그 잎을 말려 차로 마셔 왔습니다.",
       "flavor": "담백한 풀 향과 옅은 단맛, 맑은 물색.",
-      "pairing": "식후, 가벼운 간식, 조용한 오후.",
+      "pairing": "식후에 맑은 국·찐 채소·주먹밥 같은 가벼운 음식과 곁들이기 좋고, 조용한 오후에 떡이나 과일 한 조각과 마시기에도 편안합니다. 담백한 풀 향과 옅은 단맛이 입안을 산뜻하게 정리해 주지만, 양념이 진한 볶음 요리와는 맛이 묻혀 버립니다.",
       "brewTip": "잎 뒷면 털을 잘 제거한 것을 고르고, 5분 이상 우립니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "비파차 비파잎차 비파엽 남부"
@@ -24051,7 +24051,7 @@ window.TEAFaiData = (function () {
       "process": "The fuzz on the leaf back is rubbed off, then the leaf is dried and steeped.",
       "story": "Loquat was a common garden tree in the south, and its dried leaves became a folk tea.",
       "flavor": "Quiet herbal notes, light sweetness, clear liquor.",
-      "pairing": "After meals, light snacks, a calm afternoon.",
+      "pairing": "After a meal it sits comfortably beside light food like clear soup, steamed vegetables or rice balls, and on a quiet afternoon it is easy company for a piece of rice cake or fruit. Its mild herbal note and light sweetness freshen the palate, but strongly seasoned stir-fries wash it out.",
       "brewTip": "Choose leaves with the back fuzz removed; steep five minutes or more.",
       "keep": "Sealed and dry.",
       "keywords": "loquat leaf tea bipa southern Korea"
@@ -24067,7 +24067,7 @@ window.TEAFaiData = (function () {
       "process": "搓去叶背绒毛，晒干后冲泡。",
       "story": "枇杷是南部常见庭院果树，干叶成民间茶。",
       "flavor": "清淡草香，微甜，汤色清亮。",
-      "pairing": "饭后、轻食、安静的午后。",
+      "pairing": "饭后放在清汤、蒸蔬菜或饭团等清淡食物旁很舒适，安静的午后配一块米糕或水果也轻松相伴。温和的草本气息与淡淡甘甜让味觉清爽，但调味浓重的炒菜会把它冲淡。",
       "brewTip": "选去净叶背绒毛的，泡五分钟以上。",
       "keep": "密封干燥。",
       "keywords": "枇杷叶茶 枇杷叶 南部"
@@ -24083,7 +24083,7 @@ window.TEAFaiData = (function () {
       "process": "搓去葉背絨毛，曬乾後沖泡。",
       "story": "枇杷是南部常見庭院果樹，乾葉成民間茶。",
       "flavor": "清淡草香，微甜，湯色清亮。",
-      "pairing": "飯後、輕食、安靜的午后。",
+      "pairing": "餐後配清湯、蒸蔬菜或飯糰等清淡食物很自在；安靜的午後，配一塊年糕或水果也是輕鬆的夥伴。溫和的藥草調與淡淡甜味能讓味蕾清新，但重口味的熱炒會把它沖淡。",
       "brewTip": "選去淨葉背絨毛的，泡五分鐘以上。",
       "keep": "密封乾燥。",
       "keywords": "枇杷葉茶 枇杷葉 南部"
@@ -24150,7 +24150,7 @@ window.TEAFaiData = (function () {
       "process": "사과를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "가을에 많이 나는 사과를 말려 두었다가 겨울에 마시는 방식에서 비롯됐습니다.",
       "flavor": "사과의 새콤달콤함과 은은한 향. 옅은 노란 물색.",
-      "pairing": "디저트, 아이스티, 아이들 간식.",
+      "pairing": "팬케이크·와플·사과파이·요거트와 잘 어울리고 아이들 간식 시간에 곁들이기 좋습니다. 사과의 새콤달콤함이 밀가루 디저트의 묵직함을 가볍게 풀어 주고, 차갑게 우려 아이스티로 마시면 한층 산뜻합니다. 카레처럼 향신료가 강한 음식과는 향이 부딪힙니다.",
       "brewTip": "5분 이상. 꿀을 조금 넣어도 잘 어울립니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "사과차 말린사과 과일차 애플티"
@@ -24166,7 +24166,7 @@ window.TEAFaiData = (function () {
       "process": "Apples sliced, dried, then steeped in hot water.",
       "story": "From drying the autumn apple crop to drink through winter.",
       "flavor": "Sweet-tart apple with a soft aroma; pale gold liquor.",
-      "pairing": "Desserts, iced tea, children's snacks.",
+      "pairing": "It pairs nicely with pancakes, waffles, apple pie and yogurt, and makes a good drink for children's snack time. The sweet-tart apple lifts the heaviness of flour-based desserts, and brewed cold as iced tea it turns even brighter. Strongly spiced food like curry clashes with its aroma.",
       "brewTip": "Five minutes or more; a little honey suits it.",
       "keep": "Sealed and dry.",
       "keywords": "apple tea dried apple fruit tea"
@@ -24182,7 +24182,7 @@ window.TEAFaiData = (function () {
       "process": "苹果切片晒干后热水冲泡。",
       "story": "把秋天苹果晒干，留到冬天饮用。",
       "flavor": "苹果的酸甜与淡香，汤色浅金。",
-      "pairing": "甜点、冰茶、儿童点心。",
+      "pairing": "与美式松饼、华夫饼、苹果派和酸奶相配得很好，也是孩子点心时间的好饮品。酸甜的苹果味减轻面粉类甜点的厚重，冰镇成冰茶后更加明亮。咖喱等香料味强烈的食物会与它的香气相冲。",
       "brewTip": "五分钟以上，加少许蜂蜜也好。",
       "keep": "密封干燥。",
       "keywords": "苹果茶 干苹果 果茶"
@@ -24198,7 +24198,7 @@ window.TEAFaiData = (function () {
       "process": "蘋果切片曬乾後熱水沖泡。",
       "story": "把秋天蘋果曬乾，留到冬天飲用。",
       "flavor": "蘋果的酸甜與淡香，湯色淺金。",
-      "pairing": "甜點、冰茶、兒童點心。",
+      "pairing": "與鬆餅、華夫餅、蘋果派和優格很搭，也是孩子點心時間的好飲品。酸甜的蘋果香能減輕麵粉類甜點的厚重，冷泡成冰茶更新鮮明亮。咖哩等香料味重的食物會與它的香氣相衝。",
       "brewTip": "五分鐘以上，加少許蜂蜜也好。",
       "keep": "密封乾燥。",
       "keywords": "蘋果茶 乾蘋果 果茶"
@@ -24264,7 +24264,7 @@ window.TEAFaiData = (function () {
       "process": "마를 썰어 말린 뒤 물에 달여 마십니다.",
       "story": "산약은 본초서에서 오래 기록된 재료로, 말린 마를 달인 차가 민간에 전해집니다.",
       "flavor": "담백한 뿌리 향과 옅은 전분 단맛.",
-      "pairing": "식사, 죽과 함께, 아침 차.",
+      "pairing": "아침에 죽·누룽지·계란찜·담백한 나물과 곁들이기 좋고, 평범한 한식 식사에도 무난히 어울립니다. 담백한 뿌리 향과 옅은 전분 단맛이 자극 없는 음식과 결이 같아 부담이 없지만, 매운 찌개와 함께 마시면 부드러운 맛이 전혀 느껴지지 않습니다.",
       "brewTip": "달일수록 진합니다. 10분가량 달이면 구수합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "산약차 참마 산약 뿌리차"
@@ -24280,7 +24280,7 @@ window.TEAFaiData = (function () {
       "process": "Yam sliced, dried, then decocted in water.",
       "story": "Sanyak is long recorded in herbal texts; the decocted dried yam is a folk tea.",
       "flavor": "Quiet root aroma with a faint starchy sweetness.",
-      "pairing": "Meals, with rice porridge, a morning cup.",
+      "pairing": "In the morning it goes well with porridge, scorched-rice soup, steamed eggs and mild greens, and it fits an ordinary Korean meal without fuss. Its quiet root aroma and faint starchy sweetness match gentle food in kind, but next to a spicy stew its softness is lost completely.",
       "brewTip": "Longer decoction makes it rounder; about ten minutes is good.",
       "keep": "Sealed and dry.",
       "keywords": "Chinese yam tea sanyak root tea"
@@ -24296,7 +24296,7 @@ window.TEAFaiData = (function () {
       "process": "山药切片晒干后加水煎煮。",
       "story": "山药在本草书中记载已久，干片煎茶为民间饮法。",
       "flavor": "清淡根香，微带淀粉甜。",
-      "pairing": "餐食、配粥、晨茶。",
+      "pairing": "清晨与粥、锅巴汤、蒸蛋和温和的野菜很搭配，也毫无违和地融入普通的韩餐。安静的根茎香气与淡淡的淀粉甘甜与温和食物同气质，但放在辛辣炖菜旁，它的柔和会完全消失。",
       "brewTip": "煮久更浓，约十分钟为宜。",
       "keep": "密封干燥。",
       "keywords": "山药茶 山药 根茶"
@@ -24312,7 +24312,7 @@ window.TEAFaiData = (function () {
       "process": "山藥切片曬乾後加水煎煮。",
       "story": "山藥在本草書中記載已久，乾片煎茶為民間飲法。",
       "flavor": "清淡根香，微帶澱粉甜。",
-      "pairing": "餐食、配粥、晨茶。",
+      "pairing": "早晨配粥、鍋巴湯、蒸蛋和溫和的野菜很搭，配一頓普通的韓式餐食也毫不勉強。安靜的根部香氣與淡淡的澱粉甜味與溫和食物同調，但配辛辣的燉湯時，它的柔和會完全消失。",
       "brewTip": "煮久更濃，約十分鐘為宜。",
       "keep": "密封乾燥。",
       "keywords": "山藥茶 山藥 根茶"
@@ -24378,7 +24378,7 @@ window.TEAFaiData = (function () {
       "process": "어린 가지를 썰어 말린 뒤 물에 달입니다.",
       "story": "뽕나무는 잎·열매·뿌리껍질까지 두루 써 온 나무로, 가지를 말린 상지차도 민간에 전해집니다.",
       "flavor": "담백한 나무 향과 옅은 단맛.",
-      "pairing": "식사, 아침 차, 죽과 함께.",
+      "pairing": "죽·누룽지·맑은 탕과 함께 아침 차로 마시기 좋고, 나물 위주의 담백한 식사에도 잘 어울립니다. 담백한 나무 향과 옅은 단맛이 음식 맛을 방해하지 않아 매일 곁들이기 편하지만, 디저트의 강한 단맛과는 결이 달라 따로 마시는 편이 낫습니다.",
       "brewTip": "달일수록 진합니다. 10분가량 달여도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "상지차 뽕나무 가지차 상지"
@@ -24394,7 +24394,7 @@ window.TEAFaiData = (function () {
       "process": "Twigs cut, dried, then decocted in water.",
       "story": "The mulberry tree was used leaf to root; its dried twigs also became a folk tea.",
       "flavor": "Mild woody aroma and light sweetness.",
-      "pairing": "Meals, a morning cup, rice porridge.",
+      "pairing": "It makes a good morning cup with porridge, scorched-rice soup or a clear broth, and suits a plain meal of seasoned vegetables. Its mild woody aroma and light sweetness never get in the food's way, but it sits apart from strongly sweet desserts, so enjoy it separately.",
       "brewTip": "Decoct about ten minutes for a fuller cup.",
       "keep": "Sealed and dry.",
       "keywords": "mulberry twig tea sangji"
@@ -24410,7 +24410,7 @@ window.TEAFaiData = (function () {
       "process": "嫩枝切段晒干后加水煎煮。",
       "story": "桑树叶、果、根皮皆入用，嫩枝茶亦为民间饮法。",
       "flavor": "清淡木香，微甜。",
-      "pairing": "餐食、晨茶、配粥。",
+      "pairing": "是很好的晨间一杯，配粥、锅巴汤或清汤，也适合拌菜为主的朴素餐食。温和的木质香气与淡淡甘甜不会妨碍食物，但与甜味强烈的甜点格格不入，请分开享用。",
       "brewTip": "煎约十分钟更浓。",
       "keep": "密封干燥。",
       "keywords": "桑枝茶 桑枝 桑树"
@@ -24426,7 +24426,7 @@ window.TEAFaiData = (function () {
       "process": "嫩枝切段曬乾後加水煎煮。",
       "story": "桑樹葉、果、根皮皆入用，嫩枝茶亦為民間飲法。",
       "flavor": "清淡木香，微甜。",
-      "pairing": "餐食、晨茶、配粥。",
+      "pairing": "早晨配粥、鍋巴湯或清湯是很好的一杯，也適合涼拌蔬菜的樸實餐食。溫和的木質香氣與淡淡甜味不會妨礙食物，但與甜味強烈的甜點路線不同，建議分開享用。",
       "brewTip": "煎約十分鐘更濃。",
       "keep": "密封乾燥。",
       "keywords": "桑枝茶 桑枝 桑樹"
@@ -24492,7 +24492,7 @@ window.TEAFaiData = (function () {
       "process": "새삼 씨를 말려 물에 달여 마십니다.",
       "story": "새삼 씨는 토사자라는 이름으로 본초서에 기록됐고, 달인 차가 민간에 전해집니다.",
       "flavor": "고소한 씨앗 향과 담백한 맛.",
-      "pairing": "아침 차, 식후, 죽과 함께.",
+      "pairing": "죽·주먹밥·견과류 간식과 잘 어울리고 아침이나 식후에 부담 없이 마시기 좋습니다. 고소한 씨앗 향이 곡물 음식의 구수함과 이어져 편안한 한 잔이 되지만, 새콤한 과일 디저트와는 고소함과 산미가 어긋나 따로 즐기는 편이 좋습니다.",
       "brewTip": "씨가 단단해 달이는 편이 좋습니다. 10분가량 달이세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "새삼차 토사자 새삼씨 씨앗차"
@@ -24508,7 +24508,7 @@ window.TEAFaiData = (function () {
       "process": "Seeds dried, then decocted in water.",
       "story": "Dodder seed is recorded in herbal texts as tosaja; the decoction is a folk tea.",
       "flavor": "Nutty seed aroma, mild and plain.",
-      "pairing": "A morning cup, after meals, with porridge.",
+      "pairing": "It goes well with porridge, rice balls and nut snacks, and is an easy cup in the morning or after meals. Its nutty seed aroma continues the toastiness of grain dishes for a comforting cup, but with tart fruit desserts the nuttiness and acidity pull apart, so keep them separate.",
       "brewTip": "The seeds are hard; decocting for about ten minutes works best.",
       "keep": "Sealed and dry.",
       "keywords": "dodder seed tea cuscuta tosaja"
@@ -24524,7 +24524,7 @@ window.TEAFaiData = (function () {
       "process": "种子晒干后加水煎煮。",
       "story": "菟丝子载于本草，煎茶为民间饮法。",
       "flavor": "坚果般香气，清淡。",
-      "pairing": "晨茶、饭后、配粥。",
+      "pairing": "与粥、饭团和坚果小吃很搭配，是清晨或饭后轻松的一杯。坚果般的种子香气延续谷物菜肴的烘焙香，令人安慰，但与酸味水果甜点同享时，坚果香与酸味会彼此拉开，请分开。",
       "brewTip": "种子硬，煎十分钟左右为宜。",
       "keep": "密封干燥。",
       "keywords": "菟丝子茶 菟丝子 种子茶"
@@ -24540,7 +24540,7 @@ window.TEAFaiData = (function () {
       "process": "種子曬乾後加水煎煮。",
       "story": "菟絲子載於本草，煎茶為民間飲法。",
       "flavor": "堅果般香氣，清淡。",
-      "pairing": "晨茶、飯後、配粥。",
+      "pairing": "與粥、飯糰和堅果點心很搭，早晨或餐後都是輕鬆的一杯。堅果般的種子香氣延續穀物料理的焦香，令人安慰；但配酸味水果甜點時，堅果香與酸味會互相拉扯，建議分開。",
       "brewTip": "種子硬，煎十分鐘左右為宜。",
       "keep": "密封乾燥。",
       "keywords": "菟絲子茶 菟絲子 種子茶"
@@ -24606,7 +24606,7 @@ window.TEAFaiData = (function () {
       "process": "석류를 쪼개 말린 뒤 뜨거운 물에 우립니다.",
       "story": "석류는 남부 지방의 정원수로 흔했고, 열매를 말려 차로 마셔 왔습니다.",
       "flavor": "새콤달콤한 맛과 루비빛 물색.",
-      "pairing": "디저트, 아이스티, 가벼운 간식.",
+      "pairing": "치즈케이크·과일 타르트·요거트·젤리와 잘 어울리고, 차갑게 우려 아이스티로 마시면 가벼운 간식과 산뜻하게 맞습니다. 새콤달콤한 맛이 크림 디저트의 느끼함을 끊어 주고 루비빛 물색이 눈으로도 즐겁지만, 담백한 죽과는 산미가 튀어 어울리지 않습니다.",
       "brewTip": "5분 이상. 차갑게 마시면 산미가 또렷합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "석류차 석류껍질 과일차 붉은차"
@@ -24622,7 +24622,7 @@ window.TEAFaiData = (function () {
       "process": "Fruit split, dried, then steeped in hot water.",
       "story": "Pomegranate was a common southern garden tree; the dried fruit became a tea.",
       "flavor": "Sweet-tart with a ruby-red liquor.",
-      "pairing": "Desserts, iced tea, light snacks.",
+      "pairing": "It pairs well with cheesecake, fruit tarts, yogurt and jelly, and brewed cold as iced tea it brightens light snacks. The sweet-tart taste cuts the richness of creamy desserts and the ruby liquor is a treat for the eyes, but its acidity sticks out against plain porridge.",
       "brewTip": "Five minutes or more; chilled, the tartness sharpens.",
       "keep": "Sealed and dry.",
       "keywords": "pomegranate tea dried pomegranate fruit tea"
@@ -24638,7 +24638,7 @@ window.TEAFaiData = (function () {
       "process": "石榴剖开晒干后热水冲泡。",
       "story": "石榴是南部常见庭院树，干果为茶。",
       "flavor": "酸甜，汤色红宝石般。",
-      "pairing": "甜点、冰茶、轻食。",
+      "pairing": "与芝士蛋糕、水果塔、酸奶和果冻很搭配，冰镇成冰茶能让清淡小吃更明亮。酸甜滋味削减奶油甜点的浓郁，红宝石般的茶汤也赏心悦目，但它的酸味在朴素的粥面前会显得突出。",
       "brewTip": "五分钟以上，冷饮酸味更明显。",
       "keep": "密封干燥。",
       "keywords": "石榴茶 石榴皮 果茶"
@@ -24654,7 +24654,7 @@ window.TEAFaiData = (function () {
       "process": "石榴剖開曬乾後熱水沖泡。",
       "story": "石榴是南部常見庭院樹，乾果為茶。",
       "flavor": "酸甜，湯色紅寶石般。",
-      "pairing": "甜點、冰茶、輕食。",
+      "pairing": "與起司蛋糕、水果塔、優格和果凍很搭，冷泡成冰茶能讓清淡點心更明亮。酸甜滋味能化解奶油甜點的濃郁，紅寶石般的茶湯也賞心悅目，但對上樸實的粥時，酸味會顯得突出。",
       "brewTip": "五分鐘以上，冷飲酸味更明顯。",
       "keep": "密封乾燥。",
       "keywords": "石榴茶 石榴皮 果茶"
@@ -24720,7 +24720,7 @@ window.TEAFaiData = (function () {
       "process": "지의류를 깨끗이 손질해 말린 뒤 뜨겁지 않은 물에 우립니다.",
       "story": "눈처럼 희다고 해서 설차라 불리며, 청정한 고산에서만 채취해 온 귀한 민간 차입니다.",
       "flavor": "아주 옅은 풀 향과 담백한 맛. 물색은 거의 투명에 가깝습니다.",
-      "pairing": "조용한 오후, 단독으로, 가벼운 다과.",
+      "pairing": "단독으로 천천히 마시는 것이 가장 좋고, 곁들인다면 백설기·카스텔라 같은 담백한 다과나 견과 한 줌이 적당합니다. 거의 투명한 물색과 옅은 풀 향은 자극이 없어 밀리지 않지만, 양념이 강한 음식 곁에서는 있는 듯 없는 듯 사라져 버립니다.",
       "brewTip": "너무 뜨거운 물은 향을 죽입니다. 90도 안팎에서 3분.",
       "keep": "밀봉해 건조하게.",
       "keywords": "설차 송라 지의류 고산차"
@@ -24736,7 +24736,7 @@ window.TEAFaiData = (function () {
       "process": "Lichen cleaned, dried, then steeped in water just off the boil.",
       "story": "Named 'snow tea' for the pale lichen; it grows only in clean air, so harvests are small.",
       "flavor": "Very light herbal notes; the liquor is nearly clear.",
-      "pairing": "A quiet afternoon, on its own, light sweets.",
+      "pairing": "It is best sipped slowly on its own; if you pair it, plain sweets like baekseolgi or castella, or a handful of nuts, are just right. The nearly clear liquor and faint green note never fight any snack, yet beside strongly seasoned food it fades into nothing.",
       "brewTip": "Water too hot flattens it; about 90 °C for 3 minutes.",
       "keep": "Sealed and dry.",
       "keywords": "seolcha snow tea lichen usnea"
@@ -24752,7 +24752,7 @@ window.TEAFaiData = (function () {
       "process": "地衣清理晒干后用稍凉热水冲泡。",
       "story": "地衣洁白如雪，故名雪茶；只生于洁净空气，产量少。",
       "flavor": "极淡草香，汤色近乎透明。",
-      "pairing": "安静午后、独饮、轻点心。",
+      "pairing": "最好单独慢慢品；若要搭配，白雪糕、卡斯特拉等朴素甜点或一小把坚果刚刚好。近乎清澈的茶汤与淡淡青绿气息不会与任何小吃相争，但在调味强烈的食物旁，它会淡到消失。",
       "brewTip": "水太烫会压味，90度左右泡3分钟。",
       "keep": "密封干燥。",
       "keywords": "雪茶 松萝 地衣 高山"
@@ -24768,7 +24768,7 @@ window.TEAFaiData = (function () {
       "process": "地衣清理曬乾後用稍涼熱水沖泡。",
       "story": "地衣潔白如雪，故名雪茶；只生於潔淨空氣，產量少。",
       "flavor": "極淡草香，湯色近乎透明。",
-      "pairing": "安靜午后、獨飲、輕點心。",
+      "pairing": "最適合單獨慢慢啜飲；若要搭配，白雪糕或卡斯特拉蛋糕等樸實甜點，或一小把堅果，恰到好處。近乎清澈的茶湯與淡淡青綠調不與任何點心相爭，但配重口味食物時會淡到消失。",
       "brewTip": "水太燙會壓味，90度左右泡3分鐘。",
       "keep": "密封乾燥。",
       "keywords": "雪茶 松蘿 地衣 高山"
@@ -24834,7 +24834,7 @@ window.TEAFaiData = (function () {
       "process": "열매와 잎을 말린 뒤 뜨거운 물에 우립니다.",
       "story": "너무 써서 생긴 관용구 '소태처럼 쓰다'의 그 소태입니다. 쓴맛을 즐기는 민간 차로 전해집니다.",
       "flavor": "강한 쓴맛 뒤에 남는 옅은 단맛. 진한 갈색 물색.",
-      "pairing": "식후에 조금씩, 쓴맛을 좋아하는 이의 차.",
+      "pairing": "식후에 조금씩 마시는 차로, 곁들인다면 꿀떡·약과·곶감처럼 단맛이 또렷한 간식이 어울립니다. 강한 쓴맛을 단 간식이 눌러 주고 뒷맛의 옅은 단맛과 이어져 균형이 맞지만, 담백한 음식과 함께 마시면 쓴맛만 도드라져 부담스럽습니다.",
       "brewTip": "처음에는 연하게 2~3분만 우려 맛을 봅니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "소태차 소태나무 쓴차 민간차"
@@ -24850,7 +24850,7 @@ window.TEAFaiData = (function () {
       "process": "Fruit and leaves dried, then steeped in hot water.",
       "story": "The sotae of the Korean idiom 'bitter as sotae'; a folk tea for those who enjoy bitterness.",
       "flavor": "Strong bitterness with a faint sweet tail; deep brown liquor.",
-      "pairing": "Small sips after meals; for lovers of bitter tastes.",
+      "pairing": "Sip it little by little after a meal, ideally with a distinctly sweet snack such as honey rice cakes, yakgwa or dried persimmon. The sweetness presses down the strong bitterness and meets its faint sweet tail for balance, but with plain food the bitterness stands alone and overwhelms.",
       "brewTip": "Start light — two to three minutes — and adjust.",
       "keep": "Sealed and dry.",
       "keywords": "sotae tea bitter folk tea privet"
@@ -24866,7 +24866,7 @@ window.TEAFaiData = (function () {
       "process": "果与叶晒干后热水冲泡。",
       "story": "韩语俗语“苦如苏苔”即指此物，为嗜苦者的民间茶。",
       "flavor": "苦味强，后有微甜，汤色深褐。",
-      "pairing": "饭后小口饮，适合嗜苦者。",
+      "pairing": "饭后一点点慢慢喝，最好配蜂蜜年糕、药果或柿饼等明确甜味的小吃。甜味压住强烈的苦味，与它淡淡的甜尾相平衡，但配朴素食物时，苦味会独自站立、压倒一切。",
       "brewTip": "先淡泡两三分钟试味。",
       "keep": "密封干燥。",
       "keywords": "苏苔茶 苦茶 民间茶"
@@ -24882,7 +24882,7 @@ window.TEAFaiData = (function () {
       "process": "果與葉曬乾後熱水沖泡。",
       "story": "韓語俗語「苦如蘇苔」即指此物，為嗜苦者的民間茶。",
       "flavor": "苦味強，後有微甜，湯色深褐。",
-      "pairing": "飯後小口飲，適合嗜苦者。",
+      "pairing": "餐後小口慢慢喝，最好配蜂蜜年糕、藥菓或柿餅等甜味明確的點心。甜味壓住強烈的苦味，並與它淡淡的甘甜尾韻取得平衡；但配樸實食物時，苦味會獨自突出、壓倒一切。",
       "brewTip": "先淡泡兩三分鐘試味。",
       "keep": "密封乾燥。",
       "keywords": "蘇苔茶 苦茶 民間茶"
@@ -24948,7 +24948,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 썰어 말린 뒤 물에 달입니다.",
       "story": "속단은 '이어 붙인다'는 뜻의 이름으로 본초서에 기록된 재료이고, 달인 차가 민간에 전해집니다.",
       "flavor": "흙 내음 섞인 뿌리 향과 옅은 단맛, 살짝 쓴 뒷맛.",
-      "pairing": "식사, 아침 차, 죽과 함께.",
+      "pairing": "죽·보리밥·된장국 같은 투박한 한식과 잘 어울리고 아침 차로도 무난합니다. 흙 내음 도는 뿌리 향과 옅은 단맛이 곡물과 발효 음식의 구수함과 결이 같고, 살짝 쓴 뒷맛이 식사의 마무리를 깔끔하게 합니다. 섬세한 디저트와는 흙 향이 겹쳐 아쉽습니다.",
       "brewTip": "10분가량 달이면 뿌리 향이 진해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "속단차 속단뿌리 한속단 뿌리차"
@@ -24964,7 +24964,7 @@ window.TEAFaiData = (function () {
       "process": "Root sliced, dried, then decocted in water.",
       "story": "Sokdan — its name means 'joining what is broken' — is long recorded in herbal texts; the decoction is a folk tea.",
       "flavor": "Earthy root aroma, light sweetness, a slightly bitter tail.",
-      "pairing": "Meals, a morning cup, with porridge.",
+      "pairing": "It suits hearty Korean food such as porridge, barley rice and soybean-paste soup, and works as a morning cup too. Its earthy root aroma and light sweetness share the grainy, fermented depth of such dishes, and the slightly bitter tail tidies the finish. Delicate desserts lose out to its earthiness.",
       "brewTip": "Decoct about ten minutes for a deeper root flavor.",
       "keep": "Sealed and dry.",
       "keywords": "sokdan tea dipsacus root tea"
@@ -24980,7 +24980,7 @@ window.TEAFaiData = (function () {
       "process": "根切片晒干后加水煎煮。",
       "story": "续断之名取“续接”之意，载于本草，煎茶为民间饮法。",
       "flavor": "带土气的根香，微甜，尾微苦。",
-      "pairing": "餐食、晨茶、配粥。",
+      "pairing": "适合粥、大麦饭、大酱汤等扎实的韩餐，也可作晨间一杯。大地的根茎香气与淡淡甘甜共享这类菜肴谷物与发酵的深度，微苦的尾段利落地收尾。精致甜点会输给它的大地气息。",
       "brewTip": "煎约十分钟，根香更浓。",
       "keep": "密封干燥。",
       "keywords": "续断茶 续断根 根茶"
@@ -24996,7 +24996,7 @@ window.TEAFaiData = (function () {
       "process": "根切片曬乾後加水煎煮。",
       "story": "續斷之名取「續接」之意，載於本草，煎茶為民間飲法。",
       "flavor": "帶土氣的根香，微甜，尾微苦。",
-      "pairing": "餐食、晨茶、配粥。",
+      "pairing": "適合粥、大麥飯和大醬湯等扎實的韓式食物，也適合作為晨間一杯。大地般的根部香氣與淡淡甜味，與這類料理的穀物感與發酵深度相通，微苦的尾韻能收拾收尾。精緻甜點敵不過它的泥土氣息。",
       "brewTip": "煎約十分鐘，根香更濃。",
       "keep": "密封乾燥。",
       "keywords": "續斷茶 續斷根 根茶"
@@ -25062,7 +25062,7 @@ window.TEAFaiData = (function () {
       "process": "솔잎을 물에 담가 송진을 빼고 쪄서 말린 뒤 우립니다.",
       "story": "소나무는 한국 산 어디에나 있어, 그 잎을 말린 차가 오래전부터 민간에 전해집니다.",
       "flavor": "상쾌한 솔 향과 깔끔한 맛. 옅은 노란 물색.",
-      "pairing": "식후, 아이스티, 조용한 오후.",
+      "pairing": "기름진 식사 뒤에 마시면 입안이 상쾌해지고, 송편·떡·견과류와도 잘 어울립니다. 또렷한 솔 향이 느끼함을 씻어 주듯 개운하게 마무리해 주며, 차갑게 우려도 향이 살아 있습니다. 진한 치즈 요리처럼 무거운 음식과는 솔 향이 부딪혀 피하는 게 좋습니다.",
       "brewTip": "송진을 충분히 빼야 떫지 않습니다. 냉침도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "솔잎차 소나무잎 송엽 청량"
@@ -25078,7 +25078,7 @@ window.TEAFaiData = (function () {
       "process": "Needles soaked to draw out resin, steamed, dried, then steeped.",
       "story": "Pines grow on every Korean hillside; the dried-needle tea is an old folk standby.",
       "flavor": "Fresh pine aroma, a clean taste, pale gold liquor.",
-      "pairing": "After meals, iced, a quiet afternoon.",
+      "pairing": "After a rich meal it leaves the mouth refreshed, and it also goes well with songpyeon, rice cakes and nuts. Its clear pine scent rinses away heaviness for a clean finish, and the aroma survives even when brewed cold. Heavy, rich dishes like cheesy bakes fight the pine, so avoid them.",
       "brewTip": "Soak the resin out well or it turns harsh; cold-brewing is lovely.",
       "keep": "Sealed and dry.",
       "keywords": "pine needle tea songyeop Korean pine"
@@ -25094,7 +25094,7 @@ window.TEAFaiData = (function () {
       "process": "松针泡水去松脂，蒸后晒干冲泡。",
       "story": "松树遍布韩国山地，干松针茶为古老民间饮法。",
       "flavor": "清爽松香，味道干净，汤色浅金。",
-      "pairing": "饭后、冰茶、安静午后。",
+      "pairing": "丰盛一餐后能让口腔清爽，也与韩式松饼、米糕和坚果很搭配。清亮的松香洗去厚重，收尾干净，冰镇冲泡香气也能存活。芝士焗烤等厚重浓郁的菜会与松香相争，请避免。",
       "brewTip": "松脂去净才不涩，冷泡也好。",
       "keep": "密封干燥。",
       "keywords": "松针茶 松叶 清凉"
@@ -25110,7 +25110,7 @@ window.TEAFaiData = (function () {
       "process": "松針泡水去松脂，蒸後曬乾沖泡。",
       "story": "松樹遍布韓國山地，乾松針茶為古老民間飲法。",
       "flavor": "清爽松香，味道乾淨，湯色淺金。",
-      "pairing": "飯後、冰茶、安靜午后。",
+      "pairing": "豐盛餐食後能讓口腔清爽，也與松片、年糕和堅果很搭。清澈的松香沖去厚重感，收尾乾淨，冷泡時香氣也依然存在。起司焗烤等厚重濃郁的料理會與松香相爭，應避免。",
       "brewTip": "松脂去淨才不澀，冷泡也好。",
       "keep": "密封乾燥。",
       "keywords": "松針茶 松葉 清涼"
@@ -25175,7 +25175,7 @@ window.TEAFaiData = (function () {
       "process": "송화 가루를 따뜻한 물에 곱게 풀어 마십니다. 꿀을 더하면 송화밀수가 됩니다.",
       "story": "송화는 다식과 밀수 등 궁중과 민간의 봄 음료에 두루 쓰인 재료입니다.",
       "flavor": "은은한 솔 향과 부드러운 단맛. 노란빛 물색.",
-      "pairing": "다식과 함께, 봄의 다과, 아침.",
+      "pairing": "다식·약과·송편 같은 전통 다과와 잘 어울리고 봄날 아침에 곁들이기 좋습니다. 은은한 솔 향과 부드러운 단맛이 꿀과 참기름이 들어간 다과의 고소함과 자연스럽게 이어지며, 자극적인 매운 간식과는 섬세한 향이 묻혀 버립니다.",
       "brewTip": "끓는 물은 향을 날립니다. 80도 안팎의 물에 풀어 바로 마십니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "송화차 송화가루 송화밀수 봄"
@@ -25191,7 +25191,7 @@ window.TEAFaiData = (function () {
       "process": "The pollen is whisked into warm water; with honey it becomes songhwa-milsu.",
       "story": "Songhwa (pine pollen) flavored spring drinks and sweets at court and in homes alike.",
       "flavor": "Gentle pine aroma, soft sweetness, yellow liquor.",
-      "pairing": "With dasik sweets, spring refreshments, mornings.",
+      "pairing": "It pairs well with traditional sweets such as dasik, yakgwa and songpyeon, and makes a lovely companion on a spring morning. Its gentle pine aroma and soft sweetness flow into the honeyed, sesame richness of the sweets, while spicy snacks bury its delicate scent.",
       "brewTip": "Boiling water kills the aroma; whisk into water around 80 °C and drink at once.",
       "keep": "Sealed and dry.",
       "keywords": "pine pollen tea songhwa spring"
@@ -25207,7 +25207,7 @@ window.TEAFaiData = (function () {
       "process": "花粉调入温水即饮，加蜂蜜即松花蜜水。",
       "story": "松花是宫廷与民间春季饮品、茶食的常用材料。",
       "flavor": "淡淡松香，柔和甜味，汤色金黄。",
-      "pairing": "配茶食、春季点心、晨饮。",
+      "pairing": "与茶食、药果、韩式松饼等传统甜点很搭配，是春日清晨的美妙伴侣。温和的松香与柔和甘甜流入甜点蜂蜜与芝麻的浓郁，辛辣小吃会掩埋它细腻的香气。",
       "brewTip": "沸水会散香，80度左右调开即饮。",
       "keep": "密封干燥。",
       "keywords": "松花茶 松花粉 春季"
@@ -25223,7 +25223,7 @@ window.TEAFaiData = (function () {
       "process": "花粉調入溫水即飲，加蜂蜜即松花蜜水。",
       "story": "松花是宮廷與民間春季飲品、茶食的常用材料。",
       "flavor": "淡淡松香，柔和甜味，湯色金黃。",
-      "pairing": "配茶食、春季點心、晨飲。",
+      "pairing": "與茶菓、藥菓、松片等傳統甜點很搭，也是春日早晨的美妙夥伴。溫和的松香與柔和甜味融入甜點蜂蜜與芝麻的醇香，而辛辣點心會掩蓋它細緻的香氣。",
       "brewTip": "沸水會散香，80度左右調開即飲。",
       "keep": "密封乾燥。",
       "keywords": "松花茶 松花粉 春季"
@@ -25289,7 +25289,7 @@ window.TEAFaiData = (function () {
       "process": "껍질의 흰 부분을 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "수박을 먹고 남은 껍질을 버리지 않고 말려 마시던 여름의 지혜에서 비롯됐습니다.",
       "flavor": "깔끔하고 옅은 단맛. 거의 투명한 물색.",
-      "pairing": "여름 아이스티, 식후, 더운 날.",
+      "pairing": "더운 날 얼음을 넣어 마시면 여름 과일·냉국·가벼운 샐러드와 잘 어울리고 식후 입가심으로도 좋습니다. 깔끔하고 옅은 단맛이 어떤 음식에도 부담을 주지 않고 시원하게 넘어가지만, 진한 국물 요리와 함께 마시면 맛이 너무 희미하게 느껴집니다.",
       "brewTip": "차갑게 식혀 마시면 청량감이 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "수박차 수박껍질 여름 시원한차"
@@ -25305,7 +25305,7 @@ window.TEAFaiData = (function () {
       "process": "Rind sliced, dried, then steeped in hot water.",
       "story": "Born of not wasting the rind after eating the melon in summer.",
       "flavor": "Clean, very light sweetness; nearly clear liquor.",
-      "pairing": "Iced in summer, after meals, hot days.",
+      "pairing": "On a hot day, served over ice, it goes well with summer fruit, chilled soups and light salads, and works as an after-meal refresher. Its clean, faint sweetness adds no weight to any food and slips down coolly, but next to a rich broth dish it tastes almost like water.",
       "brewTip": "Chilled, it is at its most refreshing.",
       "keep": "Sealed and dry.",
       "keywords": "watermelon rind tea summer Korean"
@@ -25321,7 +25321,7 @@ window.TEAFaiData = (function () {
       "process": "瓜皮切片晒干后热水冲泡。",
       "story": "源于吃完西瓜不浪费瓜皮、晒干饮用的夏日智慧。",
       "flavor": "清爽，微甜，汤色近乎透明。",
-      "pairing": "夏季冰茶、饭后、炎热天。",
+      "pairing": "炎热的日子加冰饮用，与夏日水果、冷汤和清淡沙拉很搭配，也可作饭后清爽一杯。清净淡淡的甘甜不给任何食物添重量，凉凉地滑下喉咙，但在浓郁的汤菜旁，它尝起来几乎像水。",
       "brewTip": "冷饮清凉感更佳。",
       "keep": "密封干燥。",
       "keywords": "西瓜皮茶 夏季 清爽"
@@ -25337,7 +25337,7 @@ window.TEAFaiData = (function () {
       "process": "瓜皮切片曬乾後熱水沖泡。",
       "story": "源於吃完西瓜不浪費瓜皮、曬乾飲用的夏日智慧。",
       "flavor": "清爽，微甜，湯色近乎透明。",
-      "pairing": "夏季冰茶、飯後、炎熱天。",
+      "pairing": "炎熱天加冰飲用，與夏季水果、冷湯和清淡沙拉很搭，也適合作為餐後清爽一杯。乾淨淡淡的甜味不為任何食物增添重量，清涼滑順；但配濃郁的湯水料理時，味道幾乎像水。",
       "brewTip": "冷飲清涼感更佳。",
       "keep": "密封乾燥。",
       "keywords": "西瓜皮茶 夏季 清爽"
@@ -25403,7 +25403,7 @@ window.TEAFaiData = (function () {
       "process": "수수를 볶아 뜨거운 물에 우리거나 끓입니다.",
       "story": "수수는 밥과 떡에 두루 쓰인 곡물로, 볶아 우린 차도 가정에서 마셔 왔습니다.",
       "flavor": "구수한 볶은 곡물 향과 옅은 단맛. 붉은 기 도는 갈색 물색.",
-      "pairing": "식사, 여름, 물 대신.",
+      "pairing": "밥·국·나물로 차린 평범한 식사에 물 대신 곁들이기 좋고, 여름에 차갑게 마셔도 구수함이 살아 있습니다. 볶은 곡물의 구수함이 한식의 담백함과 결이 같아 어떤 반찬과도 무난하지만, 새콤한 디저트와는 구수함과 산미가 따로 놀아 어울리지 않습니다.",
       "brewTip": "끓이면 구수함이 진해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "수수차 볶은수수 곡물차 구수한차"
@@ -25419,7 +25419,7 @@ window.TEAFaiData = (function () {
       "process": "Grains roasted, then steeped or boiled in water.",
       "story": "Sorghum went into rice, cakes and liquor; the roasted grain also became a home tea.",
       "flavor": "Toasty grain aroma, light sweetness, reddish-brown liquor.",
-      "pairing": "Meals, summer, in place of water.",
+      "pairing": "It can stand in for water beside an ordinary meal of rice, soup and greens, and even iced in summer its toastiness holds up. The roasted-grain depth matches the plainness of Korean home cooking and clashes with nothing, but with tart desserts the toastiness and acidity go their separate ways.",
       "brewTip": "Boiling makes it rounder and toastier.",
       "keep": "Sealed and dry.",
       "keywords": "sorghum tea roasted grain Korean"
@@ -25435,7 +25435,7 @@ window.TEAFaiData = (function () {
       "process": "高粱炒后热水冲泡或煮。",
       "story": "高粱用于饭、糕、酒，炒粒亦为家庭茶。",
       "flavor": "焦香谷物味，微甜，汤色红褐。",
-      "pairing": "餐食、夏季、代水饮用。",
+      "pairing": "可以代替水，放在米饭、汤和野菜的普通餐食旁，夏天冰镇其烘焙香也能站稳。烤谷物的深度与韩式家常菜的朴素相配，与什么都不冲突，但与酸味甜点同享时，烘焙香与酸味会各走各路。",
       "brewTip": "煮更香浓。",
       "keep": "密封干燥。",
       "keywords": "高粱茶 炒高粱 谷物茶"
@@ -25451,7 +25451,7 @@ window.TEAFaiData = (function () {
       "process": "高粱炒後熱水沖泡或煮。",
       "story": "高粱用於飯、糕、酒，炒粒亦為家庭茶。",
       "flavor": "焦香穀物味，微甜，湯色紅褐。",
-      "pairing": "餐食、夏季、代水飲用。",
+      "pairing": "可以代替水，配一頓有飯、湯和野菜的普通餐食；夏天即使冰飲，焦香也站得住。烤穀物的深度與韓式家常菜的樸實相配，與什麼都不衝突；但配酸味甜點時，焦香與酸味各走各路。",
       "brewTip": "煮更香濃。",
       "keep": "密封乾燥。",
       "keywords": "高粱茶 炒高粱 穀物茶"
@@ -25516,7 +25516,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 썰어 말린 뒤 물에 달입니다.",
       "story": "시호는 본초서에서 오래 기록된 약재로, 뿌리를 달인 차가 민간에 전해집니다.",
       "flavor": "흙 내음 섞인 뿌리 향과 또렷한 쓴맛.",
-      "pairing": "식후에 조금씩, 아침 차.",
+      "pairing": "식후에 작은 잔으로 조금씩 마시기 좋고, 곁들인다면 대추·곶감·꿀떡처럼 단맛 있는 간식이 어울립니다. 또렷한 쓴맛을 단 간식이 받아 주고 흙 내음 도는 뿌리 향이 차분하게 가라앉지만, 가벼운 샐러드와 함께 마시면 쓴맛만 앞서 부담스럽습니다.",
       "brewTip": "쓴맛이 강해 처음에는 연하게 달여 봅니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "시호차 시호뿌리 약초차 쓴맛"
@@ -25532,7 +25532,7 @@ window.TEAFaiData = (function () {
       "process": "Root sliced, dried, then decocted in water.",
       "story": "Bupleurum is long recorded in herbal texts; the root decoction is a folk tea.",
       "flavor": "Earthy root aroma with a clear bitterness.",
-      "pairing": "Small cups after meals, mornings.",
+      "pairing": "Best in small cups after a meal, ideally with something sweet like jujubes, dried persimmon or honey rice cakes. The sweetness takes the edge off its clear bitterness while the earthy root scent settles calmly, but beside a light salad the bitterness pushes to the front.",
       "brewTip": "It is properly bitter; start with a lighter decoction.",
       "keep": "Sealed and dry.",
       "keywords": "bupleurum root tea siho herbal"
@@ -25548,7 +25548,7 @@ window.TEAFaiData = (function () {
       "process": "根切片晒干后加水煎煮。",
       "story": "柴胡载于本草已久，根煎茶为民间饮法。",
       "flavor": "带土气的根香，苦味明显。",
-      "pairing": "饭后小饮、晨茶。",
+      "pairing": "饭后小杯饮用最好，配红枣、柿饼或蜂蜜年糕等甜味食物。甜味削去它清亮苦味的锋芒，大地的根茎香气安静沉淀，但放在清淡沙拉旁，苦味会冲到前面。",
       "brewTip": "苦味强，先淡煎试味。",
       "keep": "密封干燥。",
       "keywords": "柴胡茶 柴胡根 草药茶"
@@ -25564,7 +25564,7 @@ window.TEAFaiData = (function () {
       "process": "根切片曬乾後加水煎煮。",
       "story": "柴胡載於本草已久，根煎茶為民間飲法。",
       "flavor": "帶土氣的根香，苦味明顯。",
-      "pairing": "飯後小飲、晨茶。",
+      "pairing": "餐後小杯飲用最好，理想是配大棗、柿餅或蜂蜜年糕等甜食。甜味收住它清澈苦味的邊緣，大地般的根部香氣安靜沉穩；但配清淡沙拉時，苦味會衝到前面。",
       "brewTip": "苦味強，先淡煎試味。",
       "keep": "密封乾燥。",
       "keywords": "柴胡茶 柴胡根 草藥茶"
@@ -25630,7 +25630,7 @@ window.TEAFaiData = (function () {
       "process": "잎을 깨끗이 씻어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "아욱은 국과 나물로 흔한 채소였고, 그 잎을 말린 차도 가정에서 마셔 왔습니다.",
       "flavor": "부드러운 풀 향과 옅은 단맛. 살짝 매끄러운 질감.",
-      "pairing": "식사, 아침, 가벼운 국과 함께.",
+      "pairing": "아욱국·된장국·죽 같은 부드러운 국물 음식과 잘 어울리고 아침 식사에 곁들이기 좋습니다. 매끄러운 질감과 옅은 단맛이 국물의 부드러움과 이어져 목 넘김이 편안하지만, 바삭한 튀김과는 질감이 어긋나 따로 즐기는 편이 낫습니다.",
       "brewTip": "5분가량 우리면 부드럽게 우러납니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "아욱차 아욱잎 채소차 부드러운차"
@@ -25646,7 +25646,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves washed, dried, then steeped in hot water.",
       "story": "Mallow was a soup-and-greens staple; its dried leaves also became a home tea.",
       "flavor": "Soft herbal notes, light sweetness, a slightly silky texture.",
-      "pairing": "Meals, mornings, with a light soup.",
+      "pairing": "It goes well with soft, soupy dishes such as mallow soup, soybean-paste soup and porridge, and suits the breakfast table. Its silky texture and light sweetness continue the softness of the broth for an easy swallow, but it sits oddly against crisp fried food.",
       "brewTip": "About five minutes for a smooth cup.",
       "keep": "Sealed and dry.",
       "keywords": "mallow tea auk leaf tea"
@@ -25662,7 +25662,7 @@ window.TEAFaiData = (function () {
       "process": "叶洗净晒干后热水冲泡。",
       "story": "冬葵是常见的汤菜，其干叶亦为家庭茶。",
       "flavor": "柔和草香，微甜，质地略滑。",
-      "pairing": "餐食、晨饮、配清汤。",
+      "pairing": "与锦葵汤、大酱汤、粥等柔软的汤菜很搭配，适合早餐桌。丝滑的质地与淡淡甘甜延续汤的柔软，容易吞咽，但与酥脆的炸物放在一起会显得别扭。",
       "brewTip": "泡约五分钟，口感柔滑。",
       "keep": "密封干燥。",
       "keywords": "冬葵茶 冬葵叶 蔬菜茶"
@@ -25678,7 +25678,7 @@ window.TEAFaiData = (function () {
       "process": "葉洗淨曬乾後熱水沖泡。",
       "story": "冬葵是常見的湯菜，其乾葉亦為家庭茶。",
       "flavor": "柔和草香，微甜，質地略滑。",
-      "pairing": "餐食、晨飲、配清湯。",
+      "pairing": "與葵菜湯、大醬湯、粥等柔軟的湯水料理很搭，也適合早餐桌。絲滑的質地與淡淡甜味延續湯水的柔軟，吞嚥輕鬆；但與酥脆的炸物同席時會顯得格格不入。",
       "brewTip": "泡約五分鐘，口感柔滑。",
       "keep": "密封乾燥。",
       "keywords": "冬葵茶 冬葵葉 蔬菜茶"
@@ -25744,7 +25744,7 @@ window.TEAFaiData = (function () {
       "process": "앵두를 말린 뒤 뜨거운 물에 우립니다.",
       "story": "앵두는 집 마당에 흔한 과일나무였고, 열매를 말려 차로 마셔 왔습니다.",
       "flavor": "새콤달콤한 맛과 옅은 붉은 물색.",
-      "pairing": "디저트, 아이스티, 가벼운 간식.",
+      "pairing": "머핀·스콘·요거트·과일 젤리와 잘 어울리고, 차갑게 우려 아이스티로 마시면 가벼운 간식 시간이 산뜻해집니다. 앵두의 새콤달콤함이 버터 풍미의 디저트를 가볍게 받쳐 주지만, 진한 카레나 마라처럼 향신료가 강한 음식과는 산미가 부딪힙니다.",
       "brewTip": "5분 이상. 차갑게 마시면 산미가 또렷합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "앵두차 앵두열매 과일차 새콤"
@@ -25760,7 +25760,7 @@ window.TEAFaiData = (function () {
       "process": "Cherries dried, then steeped in hot water.",
       "story": "Aengdu was a common yard tree; its dried fruit became a tea.",
       "flavor": "Sweet-tart with a pale red liquor.",
-      "pairing": "Desserts, iced tea, light snacks.",
+      "pairing": "It pairs well with muffins, scones, yogurt and fruit jelly, and brewed cold as iced tea it brightens a light snack. The cherry's sweet-tartness lightly supports buttery desserts, but against strongly spiced food like curry or malatang its acidity clashes.",
       "brewTip": "Five minutes or more; chilled, the tartness sharpens.",
       "keep": "Sealed and dry.",
       "keywords": "Nanking cherry tea aengdu fruit tea"
@@ -25776,7 +25776,7 @@ window.TEAFaiData = (function () {
       "process": "樱桃晒干后热水冲泡。",
       "story": "毛樱桃是常见庭院果树，干果为茶。",
       "flavor": "酸甜，汤色淡红。",
-      "pairing": "甜点、冰茶、轻食。",
+      "pairing": "与麦芬、司康饼、酸奶和水果果冻很搭配，冰镇成冰茶能让清淡小吃更明亮。樱桃的酸甜轻轻支撑黄油甜点，但与咖喱、麻辣烫等香料味强烈的食物相对时，它的酸味会相冲。",
       "brewTip": "五分钟以上，冷饮酸味更明显。",
       "keep": "密封干燥。",
       "keywords": "毛樱桃茶 樱桃 果茶"
@@ -25792,7 +25792,7 @@ window.TEAFaiData = (function () {
       "process": "櫻桃曬乾後熱水沖泡。",
       "story": "毛櫻桃是常見庭院果樹，乾果為茶。",
       "flavor": "酸甜，湯色淡紅。",
-      "pairing": "甜點、冰茶、輕食。",
+      "pairing": "與瑪芬、司康、優格和水果果凍很搭，冷泡成冰茶能讓清淡點心更明亮。櫻桃的酸甜輕輕襯托奶油甜點，但對上咖哩或麻辣燙等香料味重的食物時，它的酸味會相衝。",
       "brewTip": "五分鐘以上，冷飲酸味更明顯。",
       "keep": "密封乾燥。",
       "keywords": "毛櫻桃茶 櫻桃 果茶"
@@ -25857,7 +25857,7 @@ window.TEAFaiData = (function () {
       "process": "껍질을 깨끗이 씻어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "양파 껍질을 버리지 않고 말려 마시던 가정식 차입니다.",
       "flavor": "은은한 양파 향과 옅은 단맛. 호박색 물색.",
-      "pairing": "식사, 느끼한 음식과 함께, 겨울.",
+      "pairing": "삼겹살·전·튀김처럼 느끼한 음식과 함께 마시면 잘 어울리고 겨울철 따뜻한 식사 곁들임으로도 좋습니다. 은은한 양파 향과 옅은 단맛이 기름진 맛을 부드럽게 눌러 입안을 정리해 주지만, 섬세한 디저트와는 양파 향이 앞서 어울리지 않습니다.",
       "brewTip": "5분 이상 우리면 색과 향이 진해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "양파차 양파껍질 껍질차 가정식"
@@ -25873,7 +25873,7 @@ window.TEAFaiData = (function () {
       "process": "Skins washed, dried, then steeped in hot water.",
       "story": "A home tea made from the skins that cooking would otherwise throw away.",
       "flavor": "Soft onion aroma, light sweetness, amber liquor.",
-      "pairing": "Meals, rich food, winter.",
+      "pairing": "It goes well alongside rich food such as grilled pork belly, savory pancakes and fritters, and makes a good warm companion to a winter meal. Its soft onion aroma and light sweetness gently press down the grease and tidy the palate, but the onion note leads too much for delicate desserts.",
       "brewTip": "Five minutes or more deepens color and aroma.",
       "keep": "Sealed and dry.",
       "keywords": "onion peel tea onion skin home tea"
@@ -25889,7 +25889,7 @@ window.TEAFaiData = (function () {
       "process": "皮洗净晒干后热水冲泡。",
       "story": "把做菜剩下的洋葱皮晒干饮用的家庭茶。",
       "flavor": "淡淡葱香，微甜，汤色琥珀。",
-      "pairing": "餐食、油腻食物、冬季。",
+      "pairing": "与烤五花肉、咸香煎饼、炸物等丰盛食物很搭配，是冬日餐食的温暖伴侣。柔和的洋葱香气与淡淡甘甜温和地压住油脂、收拾味觉，但洋葱气息对精致甜点来说过于主导。",
       "brewTip": "泡五分钟以上，色与香更浓。",
       "keep": "密封干燥。",
       "keywords": "洋葱皮茶 洋葱皮 家庭茶"
@@ -25905,7 +25905,7 @@ window.TEAFaiData = (function () {
       "process": "皮洗淨曬乾後熱水沖泡。",
       "story": "把做菜剩下的洋蔥皮曬乾飲用的家庭茶。",
       "flavor": "淡淡蔥香，微甜，湯色琥珀。",
-      "pairing": "餐食、油膩食物、冬季。",
+      "pairing": "與烤五花肉、鹹味煎餅、炸物等豐盛食物很搭，也是冬季餐食的溫暖夥伴。柔和的洋蔥香氣與淡淡甜味輕輕壓住油膩、收拾味蕾，但洋蔥調對精緻甜點來說太過主導。",
       "brewTip": "泡五分鐘以上，色與香更濃。",
       "keep": "密封乾燥。",
       "keywords": "洋蔥皮茶 洋蔥皮 家庭茶"
@@ -25971,7 +25971,7 @@ window.TEAFaiData = (function () {
       "process": "여주를 썰어 말리고 살짝 볶은 뒤 우립니다.",
       "story": "여주는 여름 채소로 흔해졌고, 말려 볶은 차도 가정에서 마셔 왔습니다.",
       "flavor": "또렷한 쓴맛과 구수한 뒷맛. 볶으면 쓴맛이 부드러워집니다.",
-      "pairing": "식사와 함께, 기름진 음식 뒤.",
+      "pairing": "기름진 고기 요리나 볶음 요리와 함께 마시거나 식사 뒤에 마시면 잘 어울립니다. 또렷한 쓴맛이 기름기를 끊어 주고 볶은 여주의 구수한 뒷맛이 음식의 풍미와 이어지지만, 단 디저트와 함께 마시면 쓴맛과 단맛이 따로 놀아 아쉽습니다.",
       "brewTip": "쓴맛이 강하면 우리는 시간을 줄이고, 볶은 것을 고릅니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "여주차 여주 쓴오이 볶은여주"
@@ -25987,7 +25987,7 @@ window.TEAFaiData = (function () {
       "process": "Melon sliced, dried, lightly roasted, then steeped.",
       "story": "As bitter melon became a common summer vegetable, the dried tea spread at home.",
       "flavor": "A clear bitterness with a toasty tail; roasting softens it.",
-      "pairing": "With meals, after rich food.",
+      "pairing": "Drink it with rich meat or stir-fried dishes, or right after them. Its clear bitterness cuts through grease while the roasted melon's toasty tail connects with the food's flavor, but with a sweet dessert the bitterness and sweetness go their separate ways.",
       "brewTip": "If too bitter, steep shorter and choose roasted slices.",
       "keep": "Sealed and dry.",
       "keywords": "bitter melon tea yeoju roasted"
@@ -26003,7 +26003,7 @@ window.TEAFaiData = (function () {
       "process": "苦瓜切片晒干、轻炒后冲泡。",
       "story": "苦瓜成为常见夏菜后，干苦瓜茶亦在家庭流传。",
       "flavor": "苦味分明，尾带焦香，炒后较柔和。",
-      "pairing": "餐食、油腻食物之后。",
+      "pairing": "与丰盛的肉菜或炒菜同饮，或在餐后立即饮用。清亮的苦味穿透油脂，烤苦瓜的烘焙尾段与食物风味相连，但与甜味甜点同享时，苦与甜会各走各路。",
       "brewTip": "太苦可缩短时间，选炒过的。",
       "keep": "密封干燥。",
       "keywords": "苦瓜茶 苦瓜 炒苦瓜"
@@ -26019,7 +26019,7 @@ window.TEAFaiData = (function () {
       "process": "苦瓜切片曬乾、輕炒後沖泡。",
       "story": "苦瓜成為常見夏菜後，乾苦瓜茶亦在家庭流傳。",
       "flavor": "苦味分明，尾帶焦香，炒後較柔和。",
-      "pairing": "餐食、油膩食物之後。",
+      "pairing": "與豐盛的肉類或熱炒料理一起喝，或餐後立刻喝。清澈的苦味能切開油膩，烤苦瓜的焦香尾韻與食物的風味相連；但配甜的甜點時，苦與甜各走各路。",
       "brewTip": "太苦可縮短時間，選炒過的。",
       "keep": "密封乾燥。",
       "keywords": "苦瓜茶 苦瓜 炒苦瓜"
@@ -26085,7 +26085,7 @@ window.TEAFaiData = (function () {
       "process": "연근을 썰어 말려 볶은 뒤 물에 달입니다.",
       "story": "연근은 반찬으로 흔한 재료였고, 말려 볶은 차도 가정에서 마셔 왔습니다.",
       "flavor": "구수한 볶은 향과 옅은 전분 단맛.",
-      "pairing": "식사, 겨울, 죽과 함께.",
+      "pairing": "죽·연근조림·구운 떡과 잘 어울리고 겨울철 식사에 곁들이면 든든합니다. 구수한 볶은 향과 옅은 전분 단맛이 뿌리채소 요리의 담백함과 결이 같아 편안하게 이어지지만, 새콤한 과일과는 구수함이 묻혀 버립니다.",
       "brewTip": "달일수록 구수합니다. 10분가량 달여도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "연근차 연뿌리 우절 볶은연근"
@@ -26101,7 +26101,7 @@ window.TEAFaiData = (function () {
       "process": "Root sliced, dried, roasted, then decocted in water.",
       "story": "Lotus root was a common side-dish ingredient; roasted, it also became a home tea.",
       "flavor": "Toasty aroma with a faint starchy sweetness.",
-      "pairing": "Meals, winter, with porridge.",
+      "pairing": "It pairs well with porridge, braised lotus root and grilled rice cakes, and adds warmth beside a winter meal. Its toasty aroma and faint starchy sweetness share the plain character of root-vegetable dishes, but next to tart fruit the toastiness is drowned out.",
       "brewTip": "Longer decoction makes it toastier; ten minutes is good.",
       "keep": "Sealed and dry.",
       "keywords": "lotus root tea yeongeun roasted"
@@ -26117,7 +26117,7 @@ window.TEAFaiData = (function () {
       "process": "藕切片晒干炒后加水煎煮。",
       "story": "莲藕是常见配菜，炒干片亦为家庭茶。",
       "flavor": "焦香，微带淀粉甜。",
-      "pairing": "餐食、冬季、配粥。",
+      "pairing": "与粥、红烧莲藕和烤米糕很搭配，在冬日餐食旁增添暖意。烘焙香与淡淡的淀粉甘甜共享根茎类菜肴朴素的气质，但在酸味水果旁，烘焙香会被淹没。",
       "brewTip": "煎久更香，约十分钟为宜。",
       "keep": "密封干燥。",
       "keywords": "莲藕茶 莲藕 炒藕片"
@@ -26133,7 +26133,7 @@ window.TEAFaiData = (function () {
       "process": "藕切片曬乾炒後加水煎煮。",
       "story": "蓮藕是常見配菜，炒乾片亦為家庭茶。",
       "flavor": "焦香，微帶澱粉甜。",
-      "pairing": "餐食、冬季、配粥。",
+      "pairing": "與粥、滷蓮藕和烤年糕很搭，配冬季餐食更添溫暖。焦香與淡淡的澱粉甜味，與根莖類料理共享樸實的性格；但配酸味水果時，焦香會被淹沒。",
       "brewTip": "煎久更香，約十分鐘為宜。",
       "keep": "密封乾燥。",
       "keywords": "蓮藕茶 蓮藕 炒藕片"
@@ -26199,7 +26199,7 @@ window.TEAFaiData = (function () {
       "process": "버섯을 얇게 썰어 말린 뒤 물에 달여 우립니다.",
       "story": "불로초로 불리며 귀하게 여긴 버섯으로, 예부터 달인 물을 차로 마셨습니다.",
       "flavor": "강한 쓴맛과 나무·흙 내음, 진한 갈색 물색.",
-      "pairing": "단독으로, 쓴맛이 부담되면 꿀을 조금 곁들입니다.",
+      "pairing": "단독으로 천천히 마시는 차로, 곁들인다면 곶감·대추·꿀떡 같은 단 간식이나 꿀 한 숟가락이 어울립니다. 강한 쓴맛과 나무 향을 단맛이 눌러 주어 한결 마시기 편해지지만, 일반적인 식사와 함께 마시면 쓴맛이 음식 맛을 모두 덮어 버립니다.",
       "brewTip": "얇게 썬 영지일수록 잘 우러납니다. 약불에 오래 달이세요.",
       "keep": "밀봉해 건조하게. 습기를 먹으면 곰팡이가 생기기 쉽습니다.",
       "keywords": "영지차 영지버섯 달인차 불로초"
@@ -26215,7 +26215,7 @@ window.TEAFaiData = (function () {
       "process": "The mushroom is sliced thin, dried, then simmered.",
       "story": "Prized for ages as a herb of longevity, its decoction was drunk as tea.",
       "flavor": "Strong bitterness with woody, earthy notes; deep brown liquor.",
-      "pairing": "On its own; a little honey softens the bitterness.",
+      "pairing": "A tea to drink slowly on its own; if you pair it, choose a sweet snack like dried persimmon, jujubes or honey rice cakes, or a spoon of honey. The sweetness presses down the strong bitterness and woody scent, but with an ordinary meal the bitterness covers every other flavor.",
       "brewTip": "Thinner slices extract better. Keep it at a gentle simmer.",
       "keep": "Sealed and dry — it molds easily once damp.",
       "keywords": "reishi mushroom tea lingzhi decoction bitter"
@@ -26231,7 +26231,7 @@ window.TEAFaiData = (function () {
       "process": "灵芝切片晒干，加水煎煮。",
       "story": "灵芝被视为不老草，自古煎水代茶。",
       "flavor": "苦味浓，带木香与土香，汤色深褐。",
-      "pairing": "单独饮用，怕苦可加少许蜂蜜。",
+      "pairing": "一款单独慢慢喝的茶；若要搭配，选柿饼、红枣、蜂蜜年糕等甜味小吃，或一勺蜂蜜。甜味压住强烈的苦味与木质香气，但配普通餐食时，苦味会盖住其他所有风味。",
       "brewTip": "切得越薄越易出味，小火慢煎。",
       "keep": "密封干燥，受潮易发霉。",
       "keywords": "灵芝茶 灵芝 煎茶"
@@ -26247,7 +26247,7 @@ window.TEAFaiData = (function () {
       "process": "靈芝切片曬乾，加水煎煮。",
       "story": "靈芝被視為不老草，自古煎水代茶。",
       "flavor": "苦味濃，帶木香與土香，湯色深褐。",
-      "pairing": "單獨飲用，怕苦可加少許蜂蜜。",
+      "pairing": "一款單獨慢慢喝的茶；若要搭配，選柿餅、大棗或蜂蜜年糕等甜點心，或一匙蜂蜜。甜味能壓住強烈的苦味與木質香氣，但配普通餐食時，苦味會蓋過所有其他風味。",
       "brewTip": "切得越薄越易出味，小火慢煎。",
       "keep": "密封乾燥，受潮易發霉。",
       "keywords": "靈芝茶 靈芝 煎茶"
@@ -26314,7 +26314,7 @@ window.TEAFaiData = (function () {
       "process": "오디를 말려 뜨거운 물에 우립니다.",
       "story": "뽕잎차가 잎의 차라면 오디차는 열매의 차로, 제철 간식이던 오디를 말려 두고 마셨습니다.",
       "flavor": "달콤하고 옅은 신맛, 베리 같은 향. 물색은 옅은 보랏빛입니다.",
-      "pairing": "디저트, 요거트. 차갑게 우려 여름에 마시기 좋습니다.",
+      "pairing": "요거트·아이스크림·팬케이크·치즈케이크와 잘 어울리고, 차갑게 우려 여름 디저트와 곁들이면 상큼합니다. 오디의 달콤함과 옅은 신맛이 유제품의 부드러움과 어우러져 베리 소스를 곁들인 듯한 조화를 만들지만, 매운 음식 뒤에는 단맛이 튀어 아쉽습니다.",
       "brewTip": "우린 뒤 열매를 건져 먹으면 단맛이 남습니다.",
       "keep": "밀봉해 서늘하게. 말린 열매는 습기에 약합니다.",
       "keywords": "오디차 뽕열매桑椹 오디"
@@ -26330,7 +26330,7 @@ window.TEAFaiData = (function () {
       "process": "Berries dried, then steeped in hot water.",
       "story": "Where mulberry leaf tea uses the leaf, this is the fruit — a seasonal snack preserved by drying.",
       "flavor": "Sweet with a light tartness and a berry note; pale purple liquor.",
-      "pairing": "Desserts and yogurt; good iced in summer.",
+      "pairing": "It goes well with yogurt, ice cream, pancakes and cheesecake, and brewed cold beside a summer dessert it tastes bright. The mulberry's sweetness and light tartness blend with dairy like a berry sauce, but after spicy food its sweetness jumps out awkwardly.",
       "brewTip": "Eat the steeped berries afterwards — they stay sweet.",
       "keep": "Sealed and cool; dried berries dislike humidity.",
       "keywords": "mulberry fruit tea odi sangshen berry"
@@ -26346,7 +26346,7 @@ window.TEAFaiData = (function () {
       "process": "桑葚晒干后用热水冲泡。",
       "story": "桑叶茶用叶，桑葚茶用果，是把时令果子晒干保存的喝法。",
       "flavor": "甜中带微酸，有浆果香，汤色淡紫。",
-      "pairing": "甜点、酸奶，夏季冷泡也好。",
+      "pairing": "与酸奶、冰淇淋、美式松饼和芝士蛋糕很搭配，夏天在甜点旁冰镇饮用味道明亮。桑葚的甘甜与淡淡酸味像莓果酱般与乳制品融合，但辛辣食物之后，它的甜味会突兀地跳出来。",
       "brewTip": "泡过的果实捞出来吃，仍然甜。",
       "keep": "密封阴凉，干果怕潮。",
       "keywords": "桑葚茶 桑葚 果茶"
@@ -26362,7 +26362,7 @@ window.TEAFaiData = (function () {
       "process": "桑葚曬乾後用熱水沖泡。",
       "story": "桑葉茶用葉，桑葚茶用果，是把時令果子曬乾保存的喝法。",
       "flavor": "甜中帶微酸，有漿果香，湯色淡紫。",
-      "pairing": "甜點、優格，夏季冷泡也好。",
+      "pairing": "與優格、冰淇淋、鬆餅和起司蛋糕很搭，夏天配甜點冷泡滋味明亮。桑椹的甜味與淡淡酸味像莓果醬般與乳製品融合；但辛辣食物之後，它的甜味會突兀地跳出來。",
       "brewTip": "泡過的果實撈出來吃，仍然甜。",
       "keep": "密封陰涼，乾果怕潮。",
       "keywords": "桑葚茶 桑葚 果茶"
@@ -26428,7 +26428,7 @@ window.TEAFaiData = (function () {
       "process": "오이를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "여름철 오이를 말려 두었다가 물김치처럼 시원하게, 또는 차로 우려 마시던 방식입니다.",
       "flavor": "청량한 풀 향과 옅은 단맛, 맑은 연둣빛 물색.",
-      "pairing": "여름 식사, 매운 음식. 차갑게 우려도 좋습니다.",
+      "pairing": "매운 닭발·떡볶이·마라 요리처럼 입안이 얼얼한 음식과 잘 어울리고, 여름 식사에 차갑게 곁들이면 시원합니다. 청량한 풀 향과 옅은 단맛이 매운맛의 열기를 가라앉히듯 부드럽게 감싸 주지만, 진한 국물 요리와는 맑은 맛이 묻혀 버립니다.",
       "brewTip": "냉침하면 향이 더 맑습니다. 얼음과 함께 내세요.",
       "keep": "밀봉해 건조하게. 말린 오이는 향이 빨리 날아갑니다.",
       "keywords": "오이차 말린오이 여름차 청량"
@@ -26444,7 +26444,7 @@ window.TEAFaiData = (function () {
       "process": "Cucumber sliced, dried, then steeped.",
       "story": "A way of keeping summer cucumbers — dried and brewed as tea through the season.",
       "flavor": "Cool green scent, light sweetness, clear pale-green liquor.",
-      "pairing": "Summer meals and spicy food; also good iced.",
+      "pairing": "It suits fiery food that leaves the mouth tingling, such as spicy chicken feet, tteokbokki or malatang, and served cold with a summer meal it is cooling. Its fresh green scent and light sweetness gently wrap the heat, but beside a rich broth dish its clarity disappears.",
       "brewTip": "Cold-brewing keeps the scent cleanest; serve over ice.",
       "keep": "Sealed and dry — dried cucumber loses scent fast.",
       "keywords": "cucumber tea dried cucumber summer cooling"
@@ -26460,7 +26460,7 @@ window.TEAFaiData = (function () {
       "process": "黄瓜切片晒干后冲泡。",
       "story": "把夏天黄瓜晒干保存，之后泡茶喝的传统做法。",
       "flavor": "清凉草香、微甜，汤色浅绿清亮。",
-      "pairing": "夏季餐食、辛辣料理，冷泡也好。",
+      "pairing": "适合辣鸡爪、辣炒年糕、麻辣烫等让嘴巴发麻的火辣食物，夏天随餐冰镇饮用也很清凉。清新的青绿香气与淡淡甘甜温和地包裹辣味，但在浓郁的汤菜旁，它的清澈会消失。",
       "brewTip": "冷泡香气更干净，加冰饮用。",
       "keep": "密封干燥，干黄瓜香气散得快。",
       "keywords": "黄瓜茶 干黄瓜 夏茶"
@@ -26476,7 +26476,7 @@ window.TEAFaiData = (function () {
       "process": "黃瓜切片曬乾後沖泡。",
       "story": "把夏天黃瓜曬乾保存，之後泡茶喝的傳統做法。",
       "flavor": "清涼草香、微甜，湯色淺綠清亮。",
-      "pairing": "夏季餐食、辛辣料理，冷泡也好。",
+      "pairing": "適合辣雞爪、辣炒年糕或麻辣燙等讓嘴巴發麻的火辣食物，夏天配餐冷飲也很清涼。清新的青綠香氣與淡淡甜味溫和地包覆辣感；但配濃郁的湯水料理時，它的清澈會消失。",
       "brewTip": "冷泡香氣更乾淨，加冰飲用。",
       "keep": "密封乾燥，乾黃瓜香氣散得快。",
       "keywords": "黃瓜茶 乾黃瓜 夏茶"
@@ -26542,7 +26542,7 @@ window.TEAFaiData = (function () {
       "process": "알갱이를 볶은 뒤 뜨거운 물에 우리거나 끓입니다.",
       "story": "수염차와 함께 옥수수를 버릴 것 없이 마시던 방식이 차로 자리 잡았습니다.",
       "flavor": "팝콘 같은 볶은 곡물 향과 옅은 단맛, 노란 물색.",
-      "pairing": "식사, 분식. 차갑게 마셔도 구수합니다.",
+      "pairing": "떡볶이·김밥·튀김 같은 분식과 잘 어울리고, 평범한 식사에 물처럼 곁들여도 부담이 없습니다. 팝콘 같은 구수한 볶은 곡물 향이 분식의 매콤달콤함 사이에서 입안을 편안하게 정리해 주며, 차갑게 마셔도 구수합니다. 섬세한 꽃차 다과와는 결이 다릅니다.",
       "brewTip": "알갱이가 갈라질 만큼 볶은 것이 잘 우러납니다.",
       "keep": "밀봉해 건조하게. 볶은 알갱이는 눅눅해지기 쉽습니다.",
       "keywords": "옥수수차 볶은옥수수 구수한차 곡물차"
@@ -26558,7 +26558,7 @@ window.TEAFaiData = (function () {
       "process": "Kernels roasted, then steeped or simmered.",
       "story": "Alongside corn silk tea, a no-waste way of drinking the whole corn plant.",
       "flavor": "Popcorn-like roasted grain and light sweetness; golden liquor.",
-      "pairing": "Meals and snacks; toasty even when iced.",
+      "pairing": "It pairs well with snack-bar food like tteokbokki, gimbap and fritters, and can sit beside an ordinary meal like water. Its popcorn-like roasted grain flavor settles the palate between bites of sweet-spicy food, and it stays toasty even iced. It is a different world from delicate floral tea sweets.",
       "brewTip": "Kernels roasted until they split extract best.",
       "keep": "Sealed and dry — roasted kernels stale quickly.",
       "keywords": "roasted corn tea oksusu grain tea popcorn"
@@ -26574,7 +26574,7 @@ window.TEAFaiData = (function () {
       "process": "玉米粒炒后冲泡或煮。",
       "story": "与玉米须茶一样，是把玉米充分利用的喝法。",
       "flavor": "爆米花般的谷香与微甜，汤色金黄。",
-      "pairing": "餐食、小吃，冷饮也香。",
+      "pairing": "与辣炒年糕、紫菜包饭、炸物等小吃摊食物很搭配，也可像水一样放在普通餐食旁。爆米花般的烤谷物风味在甜辣食物的间隙安抚味觉，冰镇后依然烘焙香十足。它与精致的花香茶点是完全不同的世界。",
       "brewTip": "炒到玉米粒裂开的最易出味。",
       "keep": "密封干燥，炒粒易受潮。",
       "keywords": "玉米茶 炒玉米 谷物茶"
@@ -26590,7 +26590,7 @@ window.TEAFaiData = (function () {
       "process": "玉米粒炒後沖泡或煮。",
       "story": "與玉米鬚茶一樣，是把玉米充分利用的喝法。",
       "flavor": "爆米花般的穀香與微甜，湯色金黃。",
-      "pairing": "餐食、小吃，冷飲也香。",
+      "pairing": "與辣炒年糕、海苔飯捲、炸物等小吃店食物很搭，也能像水一樣配普通餐食。近似爆米花的烤穀物風味，能在酸甜辛辣的食物之間安頓味蕾，冰飲也依然焦香。它與精緻的花香茶點是完全不同的世界。",
       "brewTip": "炒到玉米粒裂開的最易出味。",
       "keep": "密封乾燥，炒粒易受潮。",
       "keywords": "玉米茶 炒玉米 穀物茶"
@@ -26656,7 +26656,7 @@ window.TEAFaiData = (function () {
       "process": "와송 잎을 말려 뜨거운 물에 우립니다.",
       "story": "기와 위 소나무라는 이름처럼 척박한 곳에서 자라, 민간에서 말려 차로 마셨습니다.",
       "flavor": "옅은 신맛과 풀 향, 맑은 물색.",
-      "pairing": "단독으로, 기름진 식사 뒤에.",
+      "pairing": "기름진 식사 뒤에 단독으로 마시면 입안이 개운하고, 곁들인다면 담백한 두부 요리나 채소 무침이 어울립니다. 옅은 신맛과 풀 향이 느끼함을 가볍게 씻어 내듯 정리해 주지만, 단 디저트와 함께 마시면 신맛이 도드라져 서로 어긋납니다.",
       "brewTip": "신맛이 싫으면 우리는 시간을 줄이세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "와송차 바위솔 다육식물 전통차"
@@ -26672,7 +26672,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves dried, then steeped in hot water.",
       "story": "Named 'pine on a tile', it grows in barren spots and was dried for tea in folk practice.",
       "flavor": "Light tartness, green scent, clear liquor.",
-      "pairing": "On its own, or after a rich meal.",
+      "pairing": "Drunk on its own after a rich meal it leaves the mouth clean; if you pair it, plain tofu dishes or seasoned vegetables fit. Its light tartness and green scent rinse away heaviness, but with a sweet dessert the acidity stands out and the two pull apart.",
       "brewTip": "Shorten the steep if you dislike sourness.",
       "keep": "Sealed and dry.",
       "keywords": "wasong rock pine orostachys succulent tea"
@@ -26688,7 +26688,7 @@ window.TEAFaiData = (function () {
       "process": "瓦松叶晒干后冲泡。",
       "story": "因生于瓦上、形似松而得名，民间晒干泡茶。",
       "flavor": "淡酸、草香，汤色清亮。",
-      "pairing": "单独饮用，或油腻餐后。",
+      "pairing": "丰盛一餐后单独饮用能让口腔清净；若要搭配，朴素的豆腐菜或拌菜合适。淡淡的酸味与青绿香气洗去厚重，但与甜味甜点同享时，酸味会突出，两者彼此拉开。",
       "brewTip": "怕酸就缩短浸泡时间。",
       "keep": "密封干燥。",
       "keywords": "瓦松茶 瓦松 多肉"
@@ -26704,7 +26704,7 @@ window.TEAFaiData = (function () {
       "process": "瓦松葉曬乾後沖泡。",
       "story": "因生於瓦上、形似松而得名，民間曬乾泡茶。",
       "flavor": "淡酸、草香，湯色清亮。",
-      "pairing": "單獨飲用，或油膩餐後。",
+      "pairing": "豐盛餐食後單獨喝，能讓口腔乾淨；若要搭配，樸實的豆腐料理或涼拌蔬菜合適。淡淡的酸味與青綠香氣沖去厚重感；但配甜的甜點時，酸味會突出，兩者互相拉扯。",
       "brewTip": "怕酸就縮短浸泡時間。",
       "keep": "密封乾燥。",
       "keywords": "瓦松茶 瓦松 多肉"
@@ -26770,7 +26770,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 썰어 말린 뒤 물에 달입니다.",
       "story": "뿌리 마디가 소 무릎을 닮아 우슬이라 불렸고, 한방 약재로 오래 쓰였습니다.",
       "flavor": "구수한 흙 내음과 옅은 단맛, 진한 갈색 물색.",
-      "pairing": "단독으로, 저녁에 따뜻하게.",
+      "pairing": "저녁에 따뜻하게 데워 단독으로 마시기 좋고, 곁들인다면 구운 고구마·밤·떡 같은 소박한 간식이 어울립니다. 구수한 흙 내음과 옅은 단맛이 구운 간식의 담백함과 이어져 차분한 마무리가 되지만, 새콤한 음식과는 흙 향이 겉돌아 아쉽습니다.",
       "brewTip": "달일수록 진합니다. 물을 보태 두 번까지 달이세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "우슬차 쇠무릎 牛膝 뿌리차"
@@ -26786,7 +26786,7 @@ window.TEAFaiData = (function () {
       "process": "Roots sliced, dried, then simmered.",
       "story": "Named for root joints like an ox's knee; long used as a herbal material.",
       "flavor": "Earthy toastiness, light sweetness, deep brown liquor.",
-      "pairing": "On its own, warm in the evening.",
+      "pairing": "Warm it up in the evening and drink it on its own, or with a simple snack like roasted sweet potato, chestnuts or rice cake. Its earthy toastiness and light sweetness continue the plainness of roasted snacks for a calm finish, but with tart food the earthy scent floats apart.",
       "brewTip": "Longer simmering, deeper cup; top up and simmer twice.",
       "keep": "Sealed and dry.",
       "keywords": "achyranthes useul root tea ox knee"
@@ -26802,7 +26802,7 @@ window.TEAFaiData = (function () {
       "process": "根切片晒干后煎煮。",
       "story": "根节似牛膝而得名，是沿用已久的药材。",
       "flavor": "泥土焦香、微甜，汤色深褐。",
-      "pairing": "单独饮用，晚上热饮。",
+      "pairing": "晚间温热后单独饮用，或配烤红薯、栗子、米糕等简单小吃。它大地的烘焙香与淡淡甘甜延续烤制小吃的朴素，收尾安静，但与酸味食物同享时，大地香气会飘散开来。",
       "brewTip": "煎得越久越浓，可加水煎两次。",
       "keep": "密封干燥。",
       "keywords": "牛膝茶 牛膝 根茶"
@@ -26818,7 +26818,7 @@ window.TEAFaiData = (function () {
       "process": "根切片曬乾後煎煮。",
       "story": "根節似牛膝而得名，是沿用已久的藥材。",
       "flavor": "泥土焦香、微甜，湯色深褐。",
-      "pairing": "單獨飲用，晚上熱飲。",
+      "pairing": "晚間溫熱後單獨喝，或配烤地瓜、栗子或年糕等簡單點心。大地般的焦香與淡淡甜味延續烘烤點心的樸實，收尾平靜；但配酸味食物時，泥土香氣會飄散分離。",
       "brewTip": "煎得越久越濃，可加水煎兩次。",
       "keep": "密封乾燥。",
       "keywords": "牛膝茶 牛膝 根茶"
@@ -26884,7 +26884,7 @@ window.TEAFaiData = (function () {
       "process": "덩이줄기를 쪄서 말린 뒤 썰거나 가루로 만듭니다.",
       "story": "카레를 노랗게 물들이는 향신료의 원료로, 진도에서는 차로도 즐깁니다.",
       "flavor": "흙 내음과 매콤한 끝맛, 진한 노란 물색.",
-      "pairing": "우유에 타면 부드럽고, 꿀과도 잘 맞습니다.",
+      "pairing": "따뜻한 우유에 타서 마시면 부드럽고, 꿀 빵·구운 바나나·카레 같은 향신료 음식과도 결이 맞습니다. 흙 내음과 매콤한 끝맛이 우유의 고소함에 눌려 둥글어지고, 진한 노란 물색이 식탁에 색을 더합니다. 맑은 국과는 향이 앞서 따로 마시는 게 좋습니다.",
       "brewTip": "옷과 도마에 노란 물이 들기 쉬우니 주의하세요.",
       "keep": "밀봉해 건조하게. 가루는 향이 빨리 날아갑니다.",
       "keywords": "울금차 강황 진도 커큐민 노란차"
@@ -26900,7 +26900,7 @@ window.TEAFaiData = (function () {
       "process": "Rhizomes steamed, dried, then sliced or ground.",
       "story": "The spice that turns curry yellow, enjoyed as a tea around Jindo.",
       "flavor": "Earthy scent, a peppery finish, deep yellow liquor.",
-      "pairing": "Softened with milk; also good with honey.",
+      "pairing": "Stirred into warm milk it turns soft, and it also matches honeyed bread, baked banana or spiced food like curry. The earthy scent and peppery finish are rounded by the milk's richness, and the deep yellow liquor colors the table. Beside a clear soup the spice leads too much, so drink it apart.",
       "brewTip": "It stains clothes and boards yellow — handle with care.",
       "keep": "Sealed and dry; powder loses scent fast.",
       "keywords": "turmeric tea ulgeum jindo golden"
@@ -26916,7 +26916,7 @@ window.TEAFaiData = (function () {
       "process": "块茎蒸后晒干，切片或磨粉。",
       "story": "是给咖喱染黄的香料原料，珍岛一带也泡茶喝。",
       "flavor": "土香、微辣收尾，汤色深黄。",
-      "pairing": "加牛奶更柔和，也配蜂蜜。",
+      "pairing": "搅入热牛奶会变得柔和，也配蜂蜜面包、烤香蕉或咖喱等香料食物。大地香气与胡椒般的收尾被牛奶的浓郁圆润下来，深黄色茶汤为餐桌着色。但放在清汤旁，香料味过于主导，请分开饮用。",
       "brewTip": "容易把衣服和砧板染黄，注意使用。",
       "keep": "密封干燥，粉末香气散得快。",
       "keywords": "郁金茶 姜黄 珍岛"
@@ -26932,7 +26932,7 @@ window.TEAFaiData = (function () {
       "process": "塊莖蒸後曬乾，切片或磨粉。",
       "story": "是給咖哩染黃的香料原料，珍島一帶也泡茶喝。",
       "flavor": "土香、微辣收尾，湯色深黃。",
-      "pairing": "加牛奶更柔和，也配蜂蜜。",
+      "pairing": "攪入溫牛奶會變得柔和，也與蜂蜜麵包、烤香蕉或咖哩等香料食物相配。大地香氣與胡椒般的收尾被牛奶的醇厚圓潤化，深黃色茶湯為餐桌上色。配清湯時香料味太過主導，建議分開喝。",
       "brewTip": "容易把衣服和砧板染黃，注意使用。",
       "keep": "密封乾燥，粉末香氣散得快。",
       "keywords": "鬱金茶 薑黃 珍島"
@@ -26998,7 +26998,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 다듬어 말린 뒤 물에 달입니다.",
       "story": "'뜻을 멀리 둔다'는 이름의 약재로, 오래 한방에서 써 온 뿌리입니다.",
       "flavor": "쌉쌀한 첫맛과 구수한 뒷맛, 옅은 갈색 물색.",
-      "pairing": "단독으로, 대추를 곁들이면 쓴맛이 눌립니다.",
+      "pairing": "단독으로 마시거나 대추·곶감 같은 단 간식을 곁들이면 잘 어울립니다. 쌉쌀한 첫맛을 단 간식이 눌러 주고 구수한 뒷맛이 천천히 이어져 균형이 잡히지만, 가벼운 샐러드나 과일과는 쓴맛이 앞서 조화가 깨집니다.",
       "brewTip": "달이는 시간이 짧으면 쌉쌀함만 남습니다. 충분히 달이세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "원지차 遠志 뿌리차 약재차"
@@ -27014,7 +27014,7 @@ window.TEAFaiData = (function () {
       "process": "Roots trimmed, dried, then simmered.",
       "story": "A root long used in herbal practice, its name suggesting far-reaching resolve.",
       "flavor": "Bitter first taste, toasty finish, pale brown liquor.",
-      "pairing": "On its own; jujube rounds off the bitterness.",
+      "pairing": "Drink it on its own or with a sweet snack such as jujubes or dried persimmon. The sweetness presses down the bitter first taste while the toasty finish unfolds slowly for balance, but with a light salad or fruit the bitterness leads and the pairing falls apart.",
       "brewTip": "Too short a simmer leaves only bitterness — give it time.",
       "keep": "Sealed and dry.",
       "keywords": "polygala wonji root tea herbal"
@@ -27030,7 +27030,7 @@ window.TEAFaiData = (function () {
       "process": "根修整晒干后煎煮。",
       "story": "名字寓意志向远大，是沿用已久的根类药材。",
       "flavor": "先苦后香，汤色浅褐。",
-      "pairing": "单独饮用，加大枣可压苦味。",
+      "pairing": "单独饮用，或配红枣、柿饼等甜味小吃。甜味压住苦味的前调，烘焙的收尾缓缓展开以求平衡，但与清淡沙拉或水果同享时，苦味主导，搭配会散架。",
       "brewTip": "煎的时间短只剩苦味，要煎足。",
       "keep": "密封干燥。",
       "keywords": "远志茶 远志 根茶"
@@ -27046,7 +27046,7 @@ window.TEAFaiData = (function () {
       "process": "根修整曬乾後煎煮。",
       "story": "名字寓意志向遠大，是沿用已久的根類藥材。",
       "flavor": "先苦後香，湯色淺褐。",
-      "pairing": "單獨飲用，加大棗可壓苦味。",
+      "pairing": "單獨喝，或配大棗、柿餅等甜點心。甜味壓住苦味的前調，焦香的收尾緩緩展開以取得平衡；但配清淡沙拉或水果時，苦味會主導，搭配便瓦解。",
       "brewTip": "煎的時間短只剩苦味，要煎足。",
       "keep": "密封乾燥。",
       "keywords": "遠志茶 遠志 根茶"
@@ -27113,7 +27113,7 @@ window.TEAFaiData = (function () {
       "process": "율무를 볶아 끓이거나, 곱게 갈아 가루로 탑니다.",
       "story": "곡물 대용으로 먹던 씨앗이 차가 되었고, 견과를 더한 자판기 율무차로 널리 알려졌습니다.",
       "flavor": "고소한 곡물 향과 옅은 단맛, 걸쭉한 질감.",
-      "pairing": "아침 대용, 간식. 우유와도 잘 맞습니다.",
+      "pairing": "아침 대용으로 토스트·삶은 달걀·바나나와 곁들이면 든든하고, 간식으로 떡이나 견과류와도 잘 어울립니다. 고소한 곡물 향과 걸쭉한 질감이 포만감을 주어 우유를 타면 한층 부드러워지지만, 맑은 국물 요리와는 질감이 겹쳐 무겁게 느껴집니다.",
       "brewTip": "가루는 덩어리지기 쉬워 조금씩 풀어 저으세요.",
       "keep": "밀봉해 건조하게. 가루는 산패가 빠릅니다.",
       "keywords": "율무차 의이인 薏苡 곡물차 자판기"
@@ -27129,7 +27129,7 @@ window.TEAFaiData = (function () {
       "process": "Seeds roasted and simmered, or ground to powder.",
       "story": "A seed eaten like a grain that became a tea — and a vending-machine staple with nuts added.",
       "flavor": "Nutty grain scent, light sweetness, a thick body.",
-      "pairing": "A light breakfast or snack; good with milk.",
+      "pairing": "As a light breakfast with toast, a boiled egg and banana it is filling, and as a snack it goes well with rice cakes or nuts. Its nutty grain scent and thick body satisfy, and milk makes it softer still, but beside a clear broth dish the textures pile up and feel heavy.",
       "brewTip": "Add powder little by little, stirring, to avoid lumps.",
       "keep": "Sealed and dry; the powder turns rancid fast.",
       "keywords": "job's tears yulmu coix grain tea"
@@ -27145,7 +27145,7 @@ window.TEAFaiData = (function () {
       "process": "薏苡炒后煮，或磨成粉冲泡。",
       "story": "本是代粮的种子，后来成茶，加坚果的贩卖机薏苡茶广为人知。",
       "flavor": "谷物焦香、微甜，质地浓稠。",
-      "pairing": "代早餐、零食，也配牛奶。",
+      "pairing": "作为配吐司、水煮蛋和香蕉的清淡早餐很饱腹，作为小吃与米糕或坚果很搭配。坚果般的谷物香气与厚实体感令人满足，加牛奶更柔和，但放在清汤菜旁，质地叠加会显得厚重。",
       "brewTip": "粉容易结块，要少量多次搅。",
       "keep": "密封干燥，粉易变质。",
       "keywords": "薏苡茶 薏苡仁 谷物茶"
@@ -27161,7 +27161,7 @@ window.TEAFaiData = (function () {
       "process": "薏苡炒後煮，或磨成粉沖泡。",
       "story": "本是代糧的種子，後來成茶，加堅果的販賣機薏苡茶廣為人知。",
       "flavor": "穀物焦香、微甜，質地濃稠。",
-      "pairing": "代早餐、零食，也配牛奶。",
+      "pairing": "作為清淡早餐，配吐司、水煮蛋和香蕉很有飽足感；作為點心，與年糕或堅果很搭。堅果般的穀物香氣與厚實茶身令人滿足，加牛奶更柔和；但配清澈的湯水料理時，質地疊加會顯得沉重。",
       "brewTip": "粉容易結塊，要少量多次攪。",
       "keep": "密封乾燥，粉易變質。",
       "keywords": "薏苡茶 薏苡仁 穀物茶"
@@ -27228,7 +27228,7 @@ window.TEAFaiData = (function () {
       "process": "줄기를 썰어 말리거나 열매를 말려 우립니다.",
       "story": "바나나처럼 벌어지는 열매로 이름난 으름은, 덩굴까지 말려 차로 마셨습니다.",
       "flavor": "옅은 단맛과 풀 향, 맑은 물색.",
-      "pairing": "단독으로, 담백한 식사와.",
+      "pairing": "담백한 나물 반찬·맑은 국·흰밥 위주의 식사와 잘 어울리고 단독으로 마셔도 부담이 없습니다. 옅은 단맛과 풀 향이 음식의 맛을 방해하지 않아 매일 곁들이기 편하지만, 진한 양념 요리와 함께 마시면 맑은 맛이 완전히 묻혀 버립니다.",
       "brewTip": "열매를 말린 것은 단맛이 강해 양을 줄이세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "으름차 으름덩굴 木通 산차"
@@ -27244,7 +27244,7 @@ window.TEAFaiData = (function () {
       "process": "Stems sliced and dried, or fruit dried, then steeped.",
       "story": "Known for fruit that splits like a banana, the vine itself was also dried for tea.",
       "flavor": "Light sweetness, green scent, clear liquor.",
-      "pairing": "On its own or with plain food.",
+      "pairing": "It suits a plain meal of seasoned greens, clear soup and white rice, and is easy to drink on its own. Its light sweetness and green scent never disturb the food, making it an everyday companion, but beside heavily seasoned dishes its clarity is completely buried.",
       "brewTip": "Dried fruit is sweeter — use less of it.",
       "keep": "Sealed and dry.",
       "keywords": "akebia eureum moktong vine tea"
@@ -27260,7 +27260,7 @@ window.TEAFaiData = (function () {
       "process": "茎切片晒干，或果实晒干冲泡。",
       "story": "果实像香蕉一样裂开而闻名，藤本身也晒干泡茶。",
       "flavor": "淡甜、草香，汤色清亮。",
-      "pairing": "单独饮用，或配清淡餐食。",
+      "pairing": "适合拌野菜、清汤和白米饭的朴素餐食，单独饮用也轻松。淡淡的甘甜与青绿香气不会干扰食物，是日常的伴侣，但在调味浓重的菜旁，它的清澈会被完全掩埋。",
       "brewTip": "干果更甜，用量要减。",
       "keep": "密封干燥。",
       "keywords": "木通茶 木通 藤茶"
@@ -27276,7 +27276,7 @@ window.TEAFaiData = (function () {
       "process": "莖切片曬乾，或果實曬乾沖泡。",
       "story": "果實像香蕉一樣裂開而聞名，藤本身也曬乾泡茶。",
       "flavor": "淡甜、草香，湯色清亮。",
-      "pairing": "單獨飲用，或配清淡餐食。",
+      "pairing": "適合涼拌野菜、清湯和白飯的樸實餐食，單獨喝也輕鬆。淡淡的甜味與青綠香氣不會打擾食物，是日常的夥伴；但配重口味料理時，它的清澈會被完全掩蓋。",
       "brewTip": "乾果更甜，用量要減。",
       "keep": "密封乾燥。",
       "keywords": "木通茶 木通 藤茶"
@@ -27342,7 +27342,7 @@ window.TEAFaiData = (function () {
       "process": "잎을 씻어 말린 뒤 덖어 우립니다.",
       "story": "열매의 차가 아니라 잎의 차로, 가로수 은행잎을 모아 만들던 가을 차입니다.",
       "flavor": "옅은 풀 향과 쌉쌀한 뒷맛, 연한 노란빛 물색.",
-      "pairing": "단독으로, 기름진 식사 뒤에.",
+      "pairing": "기름진 식사 뒤에 단독으로 마시면 입안이 정리되고, 곁들인다면 구운 은행·밤 같은 소박한 간식이 어울립니다. 옅은 풀 향과 쌉쌀한 뒷맛이 느끼함을 가볍게 끊어 주지만, 단 디저트와 함께 마시면 쌉쌀함이 도드라져 어긋납니다.",
       "brewTip": "반드시 잘 말리고 덖은 잎을 쓰세요. 생잎은 쓰지 않습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "은행차 은행잎차 銀杏 잎차"
@@ -27358,7 +27358,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves washed, dried, pan-fired, then steeped.",
       "story": "A tea of the leaf, not the nut — an autumn cup made from gathered ginkgo leaves.",
       "flavor": "Light green scent, bittersweet finish, pale yellow liquor.",
-      "pairing": "On its own, or after a rich meal.",
+      "pairing": "On its own after a rich meal it tidies the palate, and a plain snack like roasted ginkgo nuts or chestnuts suits it. Its light green scent and bittersweet finish cut heaviness cleanly, but with a sweet dessert the bitterness stands out and clashes.",
       "brewTip": "Use only well-dried, fired leaves — never fresh ones.",
       "keep": "Sealed and dry.",
       "keywords": "ginkgo leaf tea eunhaeng leaf"
@@ -27374,7 +27374,7 @@ window.TEAFaiData = (function () {
       "process": "叶洗净晒干炒制后冲泡。",
       "story": "不是果实而是叶子的茶，是收集行道树银杏叶的秋茶。",
       "flavor": "淡草香、微苦收尾，汤色浅黄。",
-      "pairing": "单独饮用，或油腻餐后。",
+      "pairing": "丰盛一餐后单独饮用能收拾味觉，烤银杏果或栗子等朴素小吃也适合它。淡淡的青绿香气与苦甜收尾利落地削减厚重感，但与甜味甜点同享时，苦味会突出并相冲。",
       "brewTip": "务必用充分晒干炒过的叶，不要用生叶。",
       "keep": "密封干燥。",
       "keywords": "银杏茶 银杏叶 叶茶"
@@ -27390,7 +27390,7 @@ window.TEAFaiData = (function () {
       "process": "葉洗淨曬乾炒製後沖泡。",
       "story": "不是果實而是葉子的茶，是收集行道樹銀杏葉的秋茶。",
       "flavor": "淡草香、微苦收尾，湯色淺黃。",
-      "pairing": "單獨飲用，或油膩餐後。",
+      "pairing": "豐盛餐食後單獨喝能收拾味蕾，配烤銀杏或栗子等樸實點心也合適。淡淡的青綠香氣與苦甜收尾俐落地切開厚重感；但配甜的甜點時，苦味會突出而相衝。",
       "brewTip": "務必用充分曬乾炒過的葉，不要用生葉。",
       "keep": "密封乾燥。",
       "keywords": "銀杏茶 銀杏葉 葉茶"
@@ -27457,7 +27457,7 @@ window.TEAFaiData = (function () {
       "process": "꽃봉오리와 잎을 그늘에 말려 우립니다.",
       "story": "겨울을 견디는 덩굴이라 인동이라 불렸고, 꽃은 금은화라는 약재로도 쓰였습니다.",
       "flavor": "은은한 꽃향과 옅은 단맛, 맑은 물색.",
-      "pairing": "단독으로, 여름에 차갑게 우려도 좋습니다.",
+      "pairing": "단독으로 마시거나 백설기·카스텔라 같은 담백한 다과와 곁들이면 잘 어울리고, 여름에는 차갑게 우려도 좋습니다. 은은한 꽃향과 옅은 단맛이 섬세해서 가벼운 간식의 맛을 해치지 않지만, 향이 강한 양념 요리와는 꽃향이 묻혀 버립니다.",
       "brewTip": "꽃봉오리는 피기 직전이 향이 가장 좋습니다.",
       "keep": "밀봉해 건조하게. 꽃 재료는 향이 빨리 날아갑니다.",
       "keywords": "인동차 금은화 인동꽃 忍冬 꽃차"
@@ -27473,7 +27473,7 @@ window.TEAFaiData = (function () {
       "process": "Buds and leaves shade-dried, then steeped.",
       "story": "The vine endures winter — hence 'indong' — and its buds serve as the herbal material geumeunhwa.",
       "flavor": "Gentle floral scent, light sweetness, clear liquor.",
-      "pairing": "On its own; also good iced in summer.",
+      "pairing": "Drink it on its own or with plain sweets like baekseolgi or castella, and in summer it is lovely iced. Its gentle floral scent and light sweetness are delicate enough not to disturb a light snack, but beside strongly seasoned food the floral note is lost.",
       "brewTip": "Buds just before opening carry the best scent.",
       "keep": "Sealed and dry — flowers lose scent fast.",
       "keywords": "honeysuckle indong geumeunhwa flower tea"
@@ -27489,7 +27489,7 @@ window.TEAFaiData = (function () {
       "process": "花蕾与叶阴干后冲泡。",
       "story": "藤能忍冬而得名，花称金银花，也是药材。",
       "flavor": "淡淡花香、微甜，汤色清亮。",
-      "pairing": "单独饮用，夏季冷泡也好。",
+      "pairing": "单独饮用，或配白雪糕、卡斯特拉等朴素甜点，夏天冰镇也很美妙。温和的花香与淡淡甘甜细腻到不会干扰清淡小吃，但在调味强烈的食物旁，花香会消失。",
       "brewTip": "开花前的花蕾香气最好。",
       "keep": "密封干燥，花材香气散得快。",
       "keywords": "忍冬茶 金银花 花茶"
@@ -27505,7 +27505,7 @@ window.TEAFaiData = (function () {
       "process": "花蕾與葉陰乾後沖泡。",
       "story": "藤能忍冬而得名，花稱金銀花，也是藥材。",
       "flavor": "淡淡花香、微甜，湯色清亮。",
-      "pairing": "單獨飲用，夏季冷泡也好。",
+      "pairing": "單獨喝，或配白雪糕、卡斯特拉蛋糕等樸實甜點；夏天冰飲也很美妙。溫和的花香與淡淡甜味細緻得不會打擾清淡點心，但配重口味食物時，花香調會消失。",
       "brewTip": "開花前的花蕾香氣最好。",
       "keep": "密封乾燥，花材香氣散得快。",
       "keywords": "忍冬茶 金銀花 花茶"
@@ -27572,7 +27572,7 @@ window.TEAFaiData = (function () {
       "process": "인삼을 썰어 말린 뒤 물에 달입니다.",
       "story": "귀한 약재이던 인삼을 차로 마시는 방식이 자리 잡았고, 손님 접대에도 내던 차입니다.",
       "flavor": "쌉쌀한 단맛과 흙 내음, 옅은 황갈색 물색.",
-      "pairing": "단독으로, 꿀이나 대추를 곁들여도 좋습니다.",
+      "pairing": "단독으로 천천히 마시거나 꿀·대추·곶감 같은 단맛을 곁들이면 잘 어울립니다. 쌉쌀한 단맛과 흙 내음을 단 재료가 눌러 주어 맛이 둥글어지지만, 일반적인 식사와 함께 마시면 인삼 향이 음식 맛을 덮어 버려 따로 마시는 편이 좋습니다.",
       "brewTip": "얇게 썬 편일수록 잘 우러납니다.",
       "keep": "밀봉해 건조하고 서늘하게.",
       "keywords": "인삼차 수삼 금산인삼 人蔘"
@@ -27588,7 +27588,7 @@ window.TEAFaiData = (function () {
       "process": "Root sliced, dried, then simmered.",
       "story": "A precious herbal root turned everyday tea — long served to guests as well.",
       "flavor": "Bittersweet taste, earthy scent, pale amber liquor.",
-      "pairing": "On its own; honey or jujube alongside.",
+      "pairing": "Sip it slowly on its own, or with something sweet alongside — honey, jujubes or dried persimmon. The sweetness rounds off its bittersweet taste and earthy scent, but with an ordinary meal the ginseng aroma covers the food, so it is better kept separate.",
       "brewTip": "Thinner slices extract better.",
       "keep": "Sealed, dry and cool.",
       "keywords": "ginseng tea insam korean ginseng root"
@@ -27604,7 +27604,7 @@ window.TEAFaiData = (function () {
       "process": "人参切片晒干后煎煮。",
       "story": "贵重药材人参成为日常茶饮，也用于待客。",
       "flavor": "苦甜、土香，汤色浅黄褐。",
-      "pairing": "单独饮用，也配蜂蜜或大枣。",
+      "pairing": "单独慢慢品，或配蜂蜜、红枣、柿饼等甜味食物。甜味圆润它苦甜的味道与大地香气，但配普通餐食时，人参香气会盖住食物，最好分开享用。",
       "brewTip": "切得越薄越易出味。",
       "keep": "密封干燥阴凉。",
       "keywords": "人参茶 人参 锦山"
@@ -27620,7 +27620,7 @@ window.TEAFaiData = (function () {
       "process": "人參切片曬乾後煎煮。",
       "story": "貴重藥材人參成為日常茶飲，也用於待客。",
       "flavor": "苦甜、土香，湯色淺黃褐。",
-      "pairing": "單獨飲用，也配蜂蜜或大棗。",
+      "pairing": "單獨慢慢啜飲，或配蜂蜜、大棗、柿餅等甜食。甜味圓潤化它苦甜的滋味與大地香氣；但配普通餐食時，人蔘香氣會蓋過食物，建議分開享用。",
       "brewTip": "切得越薄越易出味。",
       "keep": "密封乾燥陰涼。",
       "keywords": "人參茶 人參 錦山"
@@ -27686,7 +27686,7 @@ window.TEAFaiData = (function () {
       "process": "꽃잎을 그늘에 말려 우립니다.",
       "story": "붉은 염료로 옷감을 물들이던 꽃이 차가 되었습니다. 씨는 기름을 짜기도 합니다.",
       "flavor": "옅은 꽃향과 풀 향, 노란빛에서 주황빛으로 도는 물색.",
-      "pairing": "디저트, 가벼운 다과와.",
+      "pairing": "화전·백설기·과일 젤리 같은 가벼운 다과와 잘 어울리고 디저트 차로도 좋습니다. 옅은 꽃향과 풀 향이 담백한 떡의 맛을 해치지 않고 노란빛 물색이 다과 상차림과 보기 좋게 어울리지만, 진한 초콜릿과는 향이 묻혀 아쉽습니다.",
       "brewTip": "소량으로도 색이 잘 우러납니다.",
       "keep": "밀봉해 건조하게. 색이 바래면 향도 옅어집니다.",
       "keywords": "잇꽃차 홍화 紅花 꽃차 염료"
@@ -27702,7 +27702,7 @@ window.TEAFaiData = (function () {
       "process": "Petals shade-dried, then steeped.",
       "story": "A flower once used to dye cloth red, now a tea; its seeds are also pressed for oil.",
       "flavor": "Light floral and green notes; yellow turning to orange liquor.",
-      "pairing": "Desserts and light sweets.",
+      "pairing": "It pairs well with light sweets such as hwajeon, baekseolgi and fruit jelly, and makes a fine dessert tea. Its light floral and green notes never disturb plain rice cakes, and the yellow liquor looks pretty on a tea table, but rich chocolate buries its scent.",
       "brewTip": "A little goes a long way for color.",
       "keep": "Sealed and dry; faded petals mean faded scent.",
       "keywords": "safflower tea honghwa red flower"
@@ -27718,7 +27718,7 @@ window.TEAFaiData = (function () {
       "process": "花瓣阴干后冲泡。",
       "story": "曾是红色染料的花成了茶，种子也可榨油。",
       "flavor": "淡花香与草香，汤色由黄转橙。",
-      "pairing": "甜点、清淡茶点。",
+      "pairing": "与花煎饼、白雪糕、水果果冻等清淡甜点很搭配，是很好的甜点茶。淡淡的花香与青绿气息不会干扰朴素的米糕，黄色茶汤在茶桌上也好看，但浓郁的巧克力会掩埋它的香气。",
       "brewTip": "少量就能泡出颜色。",
       "keep": "密封干燥，褪色则香淡。",
       "keywords": "红花茶 红花 花茶"
@@ -27734,7 +27734,7 @@ window.TEAFaiData = (function () {
       "process": "花瓣陰乾後沖泡。",
       "story": "曾是紅色染料的花成了茶，種子也可榨油。",
       "flavor": "淡花香與草香，湯色由黃轉橙。",
-      "pairing": "甜點、清淡茶點。",
+      "pairing": "與花煎、白雪糕、水果果凍等清淡甜點很搭，是很好的甜點茶。淡淡的花香與青綠調不會打擾樸實的年糕，黃色茶湯在茶桌上也好看；但濃郁的巧克力會掩蓋它的香氣。",
       "brewTip": "少量就能泡出顏色。",
       "keep": "密封乾燥，褪色則香淡。",
       "keywords": "紅花茶 紅花 花茶"
@@ -27799,7 +27799,7 @@ window.TEAFaiData = (function () {
       "process": "자두를 절여 청을 낸 뒤 물에 탑니다.",
       "story": "제철 과일을 청으로 저장하는 방식이 카페 과일차로 이어졌습니다.",
       "flavor": "새콤달콤한 자두 향, 붉은빛 물색.",
-      "pairing": "디저트, 여름 음료. 얼음을 넣어 에이드처럼 마셔도 좋습니다.",
+      "pairing": "요거트·치즈케이크·과일 샐러드와 잘 어울리고, 얼음을 넣어 에이드처럼 마시면 여름 디저트와 상큼하게 맞습니다. 자두의 새콤달콤함이 크림 디저트의 느끼함을 끊어 주지만, 담백한 죽이나 맑은 국과는 산미가 튀어 따로 마시는 게 좋습니다.",
       "brewTip": "청의 과육을 함께 넣으면 향이 진해집니다.",
       "keep": "청은 냉장 보관하고 깨끗한 숟가락으로 덜어 쓰세요.",
       "keywords": "자두차 자두청 과일차 에이드"
@@ -27815,7 +27815,7 @@ window.TEAFaiData = (function () {
       "process": "Plums are sugared into syrup, then diluted.",
       "story": "Preserving seasonal fruit as cheong carried into café fruit teas.",
       "flavor": "Sweet-tart plum scent, reddish liquor.",
-      "pairing": "Desserts and summer drinks; over ice like an ade.",
+      "pairing": "It goes well with yogurt, cheesecake and fruit salad, and over ice like an ade it brightens summer desserts. The plum's sweet-tartness cuts the richness of creamy desserts, but against plain porridge or a clear soup its acidity sticks out, so keep it separate.",
       "brewTip": "Add some of the preserved fruit for a stronger scent.",
       "keep": "Refrigerate the syrup; scoop with a clean spoon.",
       "keywords": "plum tea jadu cheong fruit ade"
@@ -27831,7 +27831,7 @@ window.TEAFaiData = (function () {
       "process": "李子渍成青后冲水。",
       "story": "把时令水果做成青保存，延续到咖啡馆果茶。",
       "flavor": "酸甜李香，汤色微红。",
-      "pairing": "甜点、夏日饮品，加冰像气泡饮。",
+      "pairing": "与酸奶、芝士蛋糕和水果沙拉很搭配，像气泡饮一样加冰能让夏日甜点更明亮。李子的酸甜削减奶油甜点的浓郁，但在朴素的粥或清汤面前，它的酸味会突出，请分开享用。",
       "brewTip": "连果肉一起加入更香。",
       "keep": "青要冷藏，用干净勺子取。",
       "keywords": "李子茶 李子青 果茶"
@@ -27847,7 +27847,7 @@ window.TEAFaiData = (function () {
       "process": "李子漬成青後沖水。",
       "story": "把時令水果做成青保存，延續到咖啡館果茶。",
       "flavor": "酸甜李香，湯色微紅。",
-      "pairing": "甜點、夏日飲品，加冰像氣泡飲。",
+      "pairing": "與優格、起司蛋糕和水果沙拉很搭；像氣泡飲般加冰，能讓夏季甜點更明亮。李子的酸甜能切開奶油甜點的濃郁；但對上樸實的粥或清湯時，酸味會顯得突出，建議分開。",
       "brewTip": "連果肉一起加入更香。",
       "keep": "青要冷藏，用乾淨匙子取。",
       "keywords": "李子茶 李子青 果茶"
@@ -27912,7 +27912,7 @@ window.TEAFaiData = (function () {
       "process": "자몽 과육과 껍질을 설탕에 절여 청을 낸 뒤 물에 탑니다.",
       "story": "유자청의 방식을 수입 과일 자몽에 적용하면서 널리 퍼졌습니다.",
       "flavor": "상큼한 신맛과 쌉쌀한 끝맛, 연한 분홍빛 물색.",
-      "pairing": "디저트, 브런치. 탄산수에 타면 에이드가 됩니다.",
+      "pairing": "브런치의 팬케이크·프렌치토스트·과일 샐러드와 잘 어울리고, 탄산수에 타면 에이드로도 즐길 수 있습니다. 상큼한 신맛과 쌉쌀한 끝맛이 버터 풍미의 브런치를 가볍게 정리해 주지만, 우유를 넣은 진한 디저트와는 산미가 겉돌아 아쉽습니다.",
       "brewTip": "껍질의 흰 부분이 많으면 쓴맛이 강해집니다.",
       "keep": "청은 냉장 보관하세요.",
       "keywords": "자몽차 자몽청 과일차 카페"
@@ -27928,7 +27928,7 @@ window.TEAFaiData = (function () {
       "process": "Flesh and peel sugared into syrup, then diluted.",
       "story": "Spread as the yuja syrup method met the imported grapefruit.",
       "flavor": "Bright tartness, a bitter finish, pale pink liquor.",
-      "pairing": "Desserts and brunch; sparkling water makes it an ade.",
+      "pairing": "It suits a brunch of pancakes, French toast and fruit salad, and mixed with sparkling water it becomes an ade. Its bright tartness and bitter finish tidy up buttery brunch dishes, but with rich milky desserts the acidity floats apart.",
       "brewTip": "Too much white pith makes it harshly bitter.",
       "keep": "Refrigerate the syrup.",
       "keywords": "grapefruit tea jamong cheong citrus"
@@ -27944,7 +27944,7 @@ window.TEAFaiData = (function () {
       "process": "果肉与皮用糖渍成青后冲水。",
       "story": "柚子青的做法遇上进口葡萄柚后流行开来。",
       "flavor": "清爽酸味、微苦收尾，汤色浅粉。",
-      "pairing": "甜点、早午餐，加气泡水成气泡饮。",
+      "pairing": "适合美式松饼、法式吐司和水果沙拉的早午餐，与苏打水混合就成了气泡饮。明亮的酸味与苦味收尾收拾黄油早午餐菜肴，但与浓郁的牛奶甜点同享时，酸味会飘散开来。",
       "brewTip": "白色内皮太多会过苦。",
       "keep": "青要冷藏。",
       "keywords": "葡萄柚茶 葡萄柚青 果茶"
@@ -27960,7 +27960,7 @@ window.TEAFaiData = (function () {
       "process": "果肉與皮用糖漬成青後沖水。",
       "story": "柚子青的做法遇上進口葡萄柚後流行開來。",
       "flavor": "清爽酸味、微苦收尾，湯色淺粉。",
-      "pairing": "甜點、早午餐，加氣泡水成氣泡飲。",
+      "pairing": "適合鬆餅、法式吐司和水果沙拉的早午餐，與氣泡水混合便成氣泡飲。明亮的酸味與苦味收尾能收拾奶油早午餐料理；但配濃郁的牛奶甜點時，酸味會飄散分離。",
       "brewTip": "白色內皮太多會過苦。",
       "keep": "青要冷藏。",
       "keywords": "葡萄柚茶 葡萄柚青 果茶"
@@ -28027,7 +28027,7 @@ window.TEAFaiData = (function () {
       "process": "알갱이를 말려 물에 끓입니다.",
       "story": "안데스에서 오래 재배한 자색 옥수수로, 고향의 음료 치차 모라다에서 한국식 차로 옮겨 왔습니다.",
       "flavor": "옅은 단맛과 베리 같은 향, 곡물의 구수함. 짙은 보랏빛 물색.",
-      "pairing": "디저트, 여름 음료. 레몬을 넣으면 붉게 변합니다.",
+      "pairing": "베리 타르트·요거트·과일 디저트와 잘 어울리고, 레몬을 넣으면 붉게 변하는 물색까지 즐길 수 있는 여름 음료입니다. 옅은 단맛과 베리 같은 향에 곡물의 구수함이 받쳐 주어 디저트와 균형이 맞지만, 매운 음식과는 단맛이 튀어 어울리지 않습니다.",
       "brewTip": "속대까지 함께 끓이면 색이 훨씬 진해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "자색옥수수차 퍼플콘 치차모라다 안데스"
@@ -28043,7 +28043,7 @@ window.TEAFaiData = (function () {
       "process": "Kernels dried, then simmered in water.",
       "story": "An ancient Andean corn — from the drink chicha morada to a Korean-style tea.",
       "flavor": "Light sweetness, a berry-like note, toasty grain; deep purple liquor.",
-      "pairing": "Desserts and summer drinks; lemon turns it red.",
+      "pairing": "It pairs well with berry tarts, yogurt and fruit desserts, and makes a summer drink you can watch turn red with a squeeze of lemon. Light sweetness and a berry note rest on toasty grain for a balanced match with desserts, but with spicy food the sweetness jumps out.",
       "brewTip": "Simmer the cob too for much deeper color.",
       "keep": "Sealed and dry.",
       "keywords": "purple corn tea maiz morado chicha morada andes"
@@ -28059,7 +28059,7 @@ window.TEAFaiData = (function () {
       "process": "玉米粒晒干后煮水。",
       "story": "安第斯古老玉米，从当地饮料chicha morada变成韩式茶。",
       "flavor": "微甜、浆果香与谷香，汤色深紫。",
-      "pairing": "甜点、夏日饮品，加柠檬会变红。",
+      "pairing": "与莓果塔、酸奶和水果甜点很搭配，挤入柠檬汁还能看着它变红，是夏日饮品。淡淡的甘甜与莓果气息以烘焙谷物为底，与甜点平衡相配，但与辛辣食物同享时，甜味会跳出来。",
       "brewTip": "连玉米芯一起煮颜色更深。",
       "keep": "密封干燥。",
       "keywords": "紫玉米茶 紫玉米 安第斯"
@@ -28075,7 +28075,7 @@ window.TEAFaiData = (function () {
       "process": "玉米粒曬乾後煮水。",
       "story": "安第斯古老玉米，從當地飲料chicha morada變成韓式茶。",
       "flavor": "微甜、漿果香與穀香，湯色深紫。",
-      "pairing": "甜點、夏日飲品，加檸檬會變紅。",
+      "pairing": "與莓果塔、優格和水果甜點很搭；擠入檸檬汁看它變紅，是夏日的趣味飲品。淡淡的甜味與莓果調以焦香穀物為底，與甜點平衡相配；但配辛辣食物時，甜味會跳出來。",
       "brewTip": "連玉米芯一起煮顏色更深。",
       "keep": "密封乾燥。",
       "keywords": "紫玉米茶 紫玉米 安第斯"
@@ -28142,7 +28142,7 @@ window.TEAFaiData = (function () {
       "process": "잎을 그늘에 말려 우립니다.",
       "story": "차조기라고도 부르는 잎으로, 장아찌와 약재를 거쳐 차로도 마시게 되었습니다.",
       "flavor": "자소 특유의 향과 옅은 단맛, 자줏빛이 도는 물색.",
-      "pairing": "식사, 느끼한 음식과. 매실과도 잘 맞습니다.",
+      "pairing": "삼겹살·튀김 같은 느끼한 음식과 함께 마시면 잘 어울리고, 매실청을 조금 타도 향이 어우러집니다. 자소 특유의 또렷한 향이 기름진 맛을 눌러 입안을 개운하게 해 주지만, 섬세한 꽃향 다과와는 향이 부딪혀 따로 즐기는 게 좋습니다.",
       "brewTip": "매실청 몇 방울을 더하면 색이 붉게 또렷해집니다.",
       "keep": "밀봉해 건조하게. 잎차는 향이 빨리 날아갑니다.",
       "keywords": "자소차 차조기 紫蘇 자소엽"
@@ -28158,7 +28158,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves shade-dried, then steeped.",
       "story": "Also called chajogi — pickled and used as a herb before it became a tea.",
       "flavor": "Perilla's distinctive scent, light sweetness, purple-tinged liquor.",
-      "pairing": "Meals and rich food; also good with plum syrup.",
+      "pairing": "It goes well with rich food such as grilled pork belly and fritters, and a little plum syrup blends into its scent. Perilla's distinctive aroma presses down the grease and refreshes the mouth, but it collides with delicate floral sweets, so enjoy those apart.",
       "brewTip": "A few drops of plum syrup turn the color vivid red.",
       "keep": "Sealed and dry — leaf teas lose scent fast.",
       "keywords": "perilla jaso shiso purple leaf tea"
@@ -28174,7 +28174,7 @@ window.TEAFaiData = (function () {
       "process": "叶阴干后冲泡。",
       "story": "在韩国是常见的香辛叶菜，腌渍与药用之外也用来泡茶。",
       "flavor": "紫苏特有香气、微甜，汤色带紫。",
-      "pairing": "餐食、油腻食物，也配梅子青。",
+      "pairing": "与烤五花肉、炸物等丰盛食物很搭配，一点梅子糖浆能融入它的香气。紫苏独特的香气压住油脂、清爽口腔，但与精致的花香甜点相撞，那些请分开享用。",
       "brewTip": "滴几滴梅子青，颜色会变鲜红。",
       "keep": "密封干燥，叶茶香气散得快。",
       "keywords": "紫苏茶 紫苏叶 叶茶"
@@ -28190,7 +28190,7 @@ window.TEAFaiData = (function () {
       "process": "葉陰乾後沖泡。",
       "story": "在韓國是常見的香辛葉菜，醃漬與藥用之外也用來泡茶。",
       "flavor": "紫蘇特有香氣、微甜，湯色帶紫。",
-      "pairing": "餐食、油膩食物，也配梅子青。",
+      "pairing": "與烤五花肉、炸物等豐盛食物很搭，加一點梅子糖漿能融入它的香氣。紫蘇特有的香氣壓住油膩、讓口腔清爽；但與精緻的花香甜點相衝，建議分開享用。",
       "brewTip": "滴幾滴梅子青，顏色會變鮮紅。",
       "keep": "密封乾燥，葉茶香氣散得快。",
       "keywords": "紫蘇茶 紫蘇葉 葉茶"
@@ -28257,7 +28257,7 @@ window.TEAFaiData = (function () {
       "process": "콩과 꼬투리를 썰어 말린 뒤 볶아 우립니다.",
       "story": "작두처럼 생긴 꼬투리에서 이름이 왔고, 볶아 물처럼 마시는 차로 알려졌습니다.",
       "flavor": "구수한 콩 향과 옅은 단맛, 맑은 물색.",
-      "pairing": "식사, 물 대용. 차갑게 마셔도 좋습니다.",
+      "pairing": "밥과 국 위주의 평범한 식사에 물 대신 곁들이기 좋고, 차갑게 마셔도 구수함이 살아 있습니다. 구수한 콩 향과 옅은 단맛이 한식 반찬 어느 것과도 무난하게 어울리지만, 새콤한 과일 디저트와는 구수함이 묻혀 따로 마시는 편이 낫습니다.",
       "brewTip": "볶은 정도가 약하면 비린 향이 날 수 있어 충분히 볶은 것을 쓰세요.",
       "keep": "밀봉해 건조하게.",
       "keywords": "작두콩차 도두 刀豆 볶은콩차"
@@ -28273,7 +28273,7 @@ window.TEAFaiData = (function () {
       "process": "Beans and pods sliced, dried, roasted, then brewed.",
       "story": "Named for pods shaped like a fodder knife, it spread as an everyday roasted tea.",
       "flavor": "Nutty bean scent, light sweetness, clear liquor.",
-      "pairing": "Meals, or as a water substitute; good iced.",
+      "pairing": "It can replace water beside an ordinary meal of rice and soup, and stays nutty even when iced. Its roasted bean scent and light sweetness sit comfortably with any Korean side dish, but next to tart fruit desserts the nuttiness is buried, so drink it apart.",
       "brewTip": "Under-roasted beans can taste beany — choose well-roasted ones.",
       "keep": "Sealed and dry.",
       "keywords": "sword bean tea jakdu kong roasted bean"
@@ -28289,7 +28289,7 @@ window.TEAFaiData = (function () {
       "process": "豆与荚切片晒干炒后冲泡。",
       "story": "因荚形似铡刀得名，成为当水喝的炒豆茶。",
       "flavor": "豆香、微甜，汤色清亮。",
-      "pairing": "餐食、代水，冷饮也好。",
+      "pairing": "可以代替水放在米饭和汤的普通餐食旁，冰镇后依然有坚果香。烤豆香气与淡淡甘甜与任何韩式配菜都舒适相配，但在酸味水果甜点旁，坚果香会被掩埋，请分开饮用。",
       "brewTip": "炒得不够会有豆腥味，要选炒透的。",
       "keep": "密封干燥。",
       "keywords": "刀豆茶 刀豆 炒豆茶"
@@ -28305,7 +28305,7 @@ window.TEAFaiData = (function () {
       "process": "豆與莢切片曬乾炒後沖泡。",
       "story": "因莢形似鍘刀得名，成為當水喝的炒豆茶。",
       "flavor": "豆香、微甜，湯色清亮。",
-      "pairing": "餐食、代水，冷飲也好。",
+      "pairing": "可以代替水，配一頓有飯有湯的普通餐食，冰飲也依然有堅果香。烤豆香氣與淡淡甜味與任何韓式配菜都自在相配；但配酸味水果甜點時，堅果香會被掩蓋，建議分開喝。",
       "brewTip": "炒得不夠會有豆腥味，要選炒透的。",
       "keep": "密封乾燥。",
       "keywords": "刀豆茶 刀豆 炒豆茶"
@@ -28372,7 +28372,7 @@ window.TEAFaiData = (function () {
       "process": "꽃잎을 그늘에 말려 우립니다.",
       "story": "함박꽃이라 불리는 탐스러운 꽃으로, 관상과 약재를 넘어 꽃차가 되었습니다.",
       "flavor": "은은한 꽃향과 옅은 단맛, 맑은 물색에 꽃잎이 피어납니다.",
-      "pairing": "디저트, 다과. 유리 다구에 우리면 보기 좋습니다.",
+      "pairing": "유리 다구에 우려 꽃잎이 피는 모습을 보며 마시는 차로, 백설기·화전·과일 젤리 같은 가벼운 다과와 잘 어울립니다. 은은한 꽃향과 옅은 단맛이 담백한 다과를 해치지 않지만, 양념이 강한 음식 곁에서는 섬세한 향이 사라져 버립니다.",
       "brewTip": "유리잔에 우리면 꽃잎이 펼쳐지는 모습까지 즐길 수 있습니다.",
       "keep": "밀봉해 건조하게. 꽃잎은 향이 빨리 날아갑니다.",
       "keywords": "작약차 작약꽃 함박꽃 芍藥 꽃차"
@@ -28388,7 +28388,7 @@ window.TEAFaiData = (function () {
       "process": "Petals shade-dried, then steeped.",
       "story": "A lush blossom long grown for viewing and herbal use, now a flower tea.",
       "flavor": "Gentle floral scent, light sweetness, petals opening in clear liquor.",
-      "pairing": "Desserts and sweets; lovely in a glass pot.",
+      "pairing": "Brew it in a glass pot and watch the petals open; it pairs well with light sweets such as baekseolgi, hwajeon and fruit jelly. Its gentle floral scent and light sweetness never disturb plain sweets, but beside strongly seasoned food the delicate aroma vanishes.",
       "brewTip": "Brew in glass to watch the petals unfold.",
       "keep": "Sealed and dry — petals lose scent fast.",
       "keywords": "peony tea jagyak flower tea blossom"
@@ -28404,7 +28404,7 @@ window.TEAFaiData = (function () {
       "process": "花瓣阴干后冲泡。",
       "story": "丰盈的花从观赏与药用走入花茶。",
       "flavor": "淡花香、微甜，花瓣在清汤中舒展。",
-      "pairing": "甜点、茶点，用玻璃壶更美。",
+      "pairing": "在玻璃壶中冲泡，看着花瓣展开；与白雪糕、花煎饼、水果果冻等清淡甜点很搭配。温和的花香与淡淡甘甜不会干扰朴素的甜点，但在调味强烈的食物旁，细腻的香气会消失。",
       "brewTip": "用玻璃杯泡，可欣赏花瓣展开。",
       "keep": "密封干燥，花瓣香气散得快。",
       "keywords": "芍药茶 芍药 花茶"
@@ -28420,7 +28420,7 @@ window.TEAFaiData = (function () {
       "process": "花瓣陰乾後沖泡。",
       "story": "豐盈的花從觀賞與藥用走入花茶。",
       "flavor": "淡花香、微甜，花瓣在清湯中舒展。",
-      "pairing": "甜點、茶點，用玻璃壺更美。",
+      "pairing": "在玻璃壺中沖泡，看著花瓣綻開；與白雪糕、花煎、水果果凍等清淡甜點很搭。溫和的花香與淡淡甜味不會打擾樸實的甜點；但配重口味食物時，細緻的香氣會消失。",
       "brewTip": "用玻璃杯泡，可欣賞花瓣展開。",
       "keep": "密封乾燥，花瓣香氣散得快。",
       "keywords": "芍藥茶 芍藥 花茶"
@@ -28487,7 +28487,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 썰어 말린 뒤 물에 달입니다.",
       "story": "사삼이라 불리는 뿌리로, 산에서 캐어 나물과 차로 두루 썼습니다.",
       "flavor": "구수한 단맛과 흙 내음, 옅은 갈색 물색.",
-      "pairing": "단독으로, 담백한 식사와.",
+      "pairing": "담백한 나물·맑은 국·죽 위주의 식사와 잘 어울리고 단독으로 마셔도 편안합니다. 구수한 단맛과 흙 내음이 자극 없는 음식과 결이 같아 부담 없이 이어지지만, 단 디저트의 강한 단맛과는 구수함이 가려져 아쉽습니다.",
       "brewTip": "볶아서 달이면 구수함이 더해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "잔대차 사삼 沙蔘 뿌리차"
@@ -28503,7 +28503,7 @@ window.TEAFaiData = (function () {
       "process": "Roots sliced, dried, then simmered.",
       "story": "Called sasam, the root was dug in the hills for both food and tea.",
       "flavor": "Toasty sweetness, earthy scent, pale brown liquor.",
-      "pairing": "On its own or with plain food.",
+      "pairing": "It suits a plain meal of greens, clear soup and porridge, and is comfortable on its own. Its toasty sweetness and earthy scent share the gentle character of mild food, but beside a strongly sweet dessert the toastiness is masked.",
       "brewTip": "Roasting before simmering adds toastiness.",
       "keep": "Sealed and dry.",
       "keywords": "adenophora jandae sasam root tea"
@@ -28519,7 +28519,7 @@ window.TEAFaiData = (function () {
       "process": "根切片晒干后煎煮。",
       "story": "称沙参的根，山里采来作菜也泡茶。",
       "flavor": "醇甜、土香，汤色浅褐。",
-      "pairing": "单独饮用，或配清淡餐食。",
+      "pairing": "适合野菜、清汤和粥的朴素餐食，单独饮用也舒适。烘焙的甘甜与大地香气共享温和食物的温润气质，但在甜味强烈的甜点旁，烘焙香会被掩盖。",
       "brewTip": "先炒后煎更香。",
       "keep": "密封干燥。",
       "keywords": "沙参茶 沙参 根茶"
@@ -28535,7 +28535,7 @@ window.TEAFaiData = (function () {
       "process": "根切片曬乾後煎煮。",
       "story": "稱沙參的根，山裡採來作菜也泡茶。",
       "flavor": "醇甜、土香，湯色淺褐。",
-      "pairing": "單獨飲用，或配清淡餐食。",
+      "pairing": "適合野菜、清湯和粥的樸實餐食，單獨喝也自在。焦香的甜味與大地香氣，與溫和食物共享溫柔的性格；但配甜味強烈的甜點時，焦香會被掩蓋。",
       "brewTip": "先炒後煎更香。",
       "keep": "密封乾燥。",
       "keywords": "沙參茶 沙參 根茶"
@@ -28601,7 +28601,7 @@ window.TEAFaiData = (function () {
       "process": "죽순을 삶아 썰어 말린 뒤 볶아 우립니다.",
       "story": "제철에만 나는 죽순을 말려 두는 저장 방식이 차로 이어졌습니다.",
       "flavor": "담백한 풀 향과 볶은 구수함, 맑은 물색.",
-      "pairing": "식사, 담백한 음식과.",
+      "pairing": "죽순볶음·나물·맑은 탕 같은 담백한 음식과 잘 어울리고 평범한 식사에 곁들이기 좋습니다. 담백한 풀 향에 볶은 구수함이 더해져 자극 없는 반찬과 결이 맞지만, 진한 양념 요리와 함께 마시면 맑은 맛이 묻혀 버립니다.",
       "brewTip": "말린 죽순은 먼저 살짝 헹궈 쓰면 맛이 맑습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "죽순차 담양 대나무 竹筍"
@@ -28617,7 +28617,7 @@ window.TEAFaiData = (function () {
       "process": "Shoots boiled, sliced, dried, roasted, then steeped.",
       "story": "Drying the brief spring shoot harvest carried into a tea.",
       "flavor": "Plain green scent, roasted depth, clear liquor.",
-      "pairing": "Meals and light food.",
+      "pairing": "It goes well with plain dishes such as stir-fried bamboo shoots, seasoned greens and clear broths, and sits easily beside an ordinary meal. Its mild green scent with a roasted depth matches gentle side dishes, but beside heavily seasoned food its clarity is buried.",
       "brewTip": "Rinse dried shoots briefly first for a cleaner taste.",
       "keep": "Sealed and dry.",
       "keywords": "bamboo shoot tea juksun damyang"
@@ -28633,7 +28633,7 @@ window.TEAFaiData = (function () {
       "process": "竹笋煮后切片晒干炒制冲泡。",
       "story": "把短季的竹笋晒干保存，延续成茶。",
       "flavor": "清淡草香与焦香，汤色清亮。",
-      "pairing": "餐食、清淡料理。",
+      "pairing": "与炒竹笋、拌野菜、清汤等朴素菜肴很搭配，放在普通餐食旁也轻松。温和的青绿香气带着烤制的深度，与温和的配菜相配，但在调味浓重的食物旁，它的清澈会被掩埋。",
       "brewTip": "干竹笋先轻洗再泡，味道更干净。",
       "keep": "密封干燥。",
       "keywords": "竹笋茶 竹笋 潭阳"
@@ -28649,7 +28649,7 @@ window.TEAFaiData = (function () {
       "process": "竹筍煮後切片曬乾炒製沖泡。",
       "story": "把短季的竹筍曬乾保存，延續成茶。",
       "flavor": "清淡草香與焦香，湯色清亮。",
-      "pairing": "餐食、清淡料理。",
+      "pairing": "與炒竹筍、涼拌野菜、清湯等樸實料理很搭，配普通餐食也輕鬆。溫和的青綠香氣帶著烘烤深度，與溫和的配菜相配；但配重口味食物時，它的清澈會被掩蓋。",
       "brewTip": "乾竹筍先輕洗再泡，味道更乾淨。",
       "keep": "密封乾燥。",
       "keywords": "竹筍茶 竹筍 潭陽"
@@ -28716,7 +28716,7 @@ window.TEAFaiData = (function () {
       "process": "뿌리를 말린 생지황, 또는 아홉 번 찌고 말린 숙지황을 달입니다.",
       "story": "찌고 말리기를 거듭할수록 검어지고 단맛이 깊어지는 숙지황 가공으로 이름난 약재입니다.",
       "flavor": "숙지황은 진한 단맛과 묵직한 향, 생지황은 쌉쌀하고 서늘한 맛.",
-      "pairing": "단독으로, 저녁에 따뜻하게.",
+      "pairing": "저녁에 따뜻하게 데워 단독으로 마시기 좋고, 곁들인다면 곶감·대추·밤 같은 소박한 단 간식이 어울립니다. 숙지황의 진한 단맛과 묵직한 향은 단 간식과 이어지고 생지황의 쌉쌀함은 단맛에 눌려 둥글어지지만, 가벼운 샐러드와는 무게감이 어긋납니다.",
       "brewTip": "숙지황은 진해지기 쉬워 양을 조금 줄여 달이세요.",
       "keep": "밀봉해 건조하고 서늘하게.",
       "keywords": "지황차 숙지황 생지황 地黃"
@@ -28732,7 +28732,7 @@ window.TEAFaiData = (function () {
       "process": "Raw dried root, or root steamed and dried nine times, then simmered.",
       "story": "Famed for the nine-steaming process that blackens the root and deepens its sweetness.",
       "flavor": "Steamed root: deep sweetness and weight; raw root: bitter and cooling.",
-      "pairing": "On its own, warm in the evening.",
+      "pairing": "Warm it in the evening and drink it on its own, or with a simple sweet snack like dried persimmon, jujubes or chestnuts. The steamed root's deep sweetness and weight flow into the snack, and the raw root's bitterness is rounded by it, but the tea's heaviness sits oddly with a light salad.",
       "brewTip": "Steamed root brews strong — use a little less.",
       "keep": "Sealed, dry and cool.",
       "keywords": "rehmannia jihwang sukjihwang root tea"
@@ -28748,7 +28748,7 @@ window.TEAFaiData = (function () {
       "process": "生地黄晒干，或熟地黄九蒸九晒后煎煮。",
       "story": "以反复蒸晒变黑、甜味加深的熟地黄加工闻名。",
       "flavor": "熟地黄甜浓醇厚，生地黄苦而清凉。",
-      "pairing": "单独饮用，晚上热饮。",
+      "pairing": "晚间温热后单独饮用，或配柿饼、红枣、栗子等简单甜味小吃。蒸根茎深厚的甘甜与分量流入小吃，生根茎的苦味被它圆润下来，但茶的厚重与清淡沙拉放在一起会显得别扭。",
       "brewTip": "熟地黄容易过浓，用量略减。",
       "keep": "密封干燥阴凉。",
       "keywords": "地黄茶 熟地黄 生地黄"
@@ -28764,7 +28764,7 @@ window.TEAFaiData = (function () {
       "process": "生地黃曬乾，或熟地黃九蒸九曬後煎煮。",
       "story": "以反覆蒸曬變黑、甜味加深的熟地黃加工聞名。",
       "flavor": "熟地黃甜濃醇厚，生地黃苦而清涼。",
-      "pairing": "單獨飲用，晚上熱飲。",
+      "pairing": "晚間溫熱後單獨喝，或配柿餅、大棗、栗子等簡單的甜點心。蒸根的深沉甜味與重量感融入點心，生根的苦味也被圓潤化；但茶的沉重與清淡沙拉同席會顯得格格不入。",
       "brewTip": "熟地黃容易過濃，用量略減。",
       "keep": "密封乾燥陰涼。",
       "keywords": "地黃茶 熟地黃 生地黃"
@@ -28831,7 +28831,7 @@ window.TEAFaiData = (function () {
       "process": "참깨를 볶아 빻은 뒤 뜨거운 물에 우립니다.",
       "story": "참깨는 오래전부터 기름과 가루로 먹어 왔고, 볶아 빻은 참깨를 물에 타 마시는 방식도 가정에서 이어졌습니다.",
       "flavor": "볶은 깨의 고소함과 기름진 부드러움, 옅은 단맛.",
-      "pairing": "식사, 떡, 겨울.",
+      "pairing": "인절미·경단 같은 떡과 잘 어울리고 겨울철 식사에 곁들이면 고소함이 배가됩니다. 볶은 깨의 고소함과 부드러운 기름기가 떡의 쫄깃함과 어우러져 든든한 간식이 되지만, 새콤한 과일과는 기름진 맛이 겉돌아 따로 즐기는 게 좋습니다.",
       "brewTip": "가루가 가라앉으니 저어 가며 마십니다.",
       "keep": "밀봉해 서늘하게. 기름 성분이 있어 산패에 주의합니다.",
       "keywords": "참깨차 참깨 볶은깨 고소한차"
@@ -28847,7 +28847,7 @@ window.TEAFaiData = (function () {
       "process": "Sesame is roasted, ground, then whisked into hot water.",
       "story": "Sesame has long been eaten as oil and powder in Korea; whisking the ground seed into water is a home-style drink.",
       "flavor": "Deep roasted nuttiness, a soft oily body, light sweetness.",
-      "pairing": "Meals, rice cakes, winter.",
+      "pairing": "It pairs well with rice cakes such as injeolmi and gyeongdan, and beside a winter meal its nuttiness doubles. The roasted sesame richness and soft oily body blend with the chewiness of rice cakes for a satisfying snack, but with tart fruit the oiliness floats apart.",
       "brewTip": "Stir as you drink — the powder settles.",
       "keep": "Sealed and cool; the oils turn rancid if kept warm.",
       "keywords": "sesame tea chamkkae Korea nutty"
@@ -28863,7 +28863,7 @@ window.TEAFaiData = (function () {
       "process": "芝麻炒香磨碎后用热水冲调。",
       "story": "芝麻在韩国历来榨油或磨粉食用，磨粉冲水也是家常喝法。",
       "flavor": "炒芝麻的浓香、柔滑油脂感与微甜。",
-      "pairing": "餐食、年糕、冬季。",
+      "pairing": "与豆粉年糕、蜜粉团子等米糕很搭配，在冬日餐食旁坚果香加倍。烤芝麻的浓郁与柔和油润的体感与米糕的嚼劲融合，是令人满足的小吃，但与酸味水果同享时，油润感会飘散开来。",
       "brewTip": "粉末会沉淀，边搅拌边喝。",
       "keep": "密封阴凉，油脂易氧化。",
       "keywords": "芝麻茶 韩国 香浓"
@@ -28879,7 +28879,7 @@ window.TEAFaiData = (function () {
       "process": "芝麻炒香磨碎後用熱水沖調。",
       "story": "芝麻在韓國歷來榨油或磨粉食用，磨粉沖水也是家常喝法。",
       "flavor": "炒芝麻的濃香、柔滑油脂感與微甜。",
-      "pairing": "餐食、年糕、冬季。",
+      "pairing": "與黃豆粉年糕、糯米糰子等年糕很搭，配冬季餐食時堅果香加倍。烤芝麻的醇香與柔和的油潤茶身，與年糕的嚼勁融合，是令人滿足的點心；但配酸味水果時，油潤感會飄散分離。",
       "brewTip": "粉末會沉澱，邊攪拌邊喝。",
       "keep": "密封陰涼，油脂易氧化。",
       "keywords": "芝麻茶 韓國 香濃"
@@ -28946,7 +28946,7 @@ window.TEAFaiData = (function () {
       "process": "참외를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
       "story": "참외는 여름철 대표 과일로, 남은 참외를 말려 차로 우려 마시기도 했습니다.",
       "flavor": "참외의 옅은 단맛과 멜론 같은 향, 맑은 뒷맛.",
-      "pairing": "여름, 가벼운 간식, 식후.",
+      "pairing": "여름철 식후에 과일 화채·젤리·가벼운 샐러드와 곁들이면 시원하고, 단독으로 마셔도 부담이 없습니다. 참외의 옅은 단맛과 맑은 뒷맛이 더운 날의 입안을 산뜻하게 정리해 주지만, 진한 국물 요리와는 맑은 맛이 묻혀 버립니다.",
       "brewTip": "차갑게 식혀 마시면 단맛이 더 맑게 느껴집니다.",
       "keep": "말린 참외는 밀봉해 건조하게.",
       "keywords": "참외차 참외 여름 과일차"
@@ -28962,7 +28962,7 @@ window.TEAFaiData = (function () {
       "process": "Melon sliced thin, dried, then steeped in hot water.",
       "story": "The oriental melon is a summer staple in Korea; surplus melons were dried for tea.",
       "flavor": "Gentle melon sweetness and a clean finish.",
-      "pairing": "Summer, light snacks, after meals.",
+      "pairing": "After a summer meal it is refreshing with fruit punch, jelly or a light salad, and easy on its own too. The melon's gentle sweetness and clean finish freshen the mouth on a hot day, but beside a rich broth dish its clarity disappears.",
       "brewTip": "Chilled, the sweetness tastes even cleaner.",
       "keep": "Keep the dried melon sealed and dry.",
       "keywords": "oriental melon tea chamoe Korea summer"
@@ -28978,7 +28978,7 @@ window.TEAFaiData = (function () {
       "process": "甜瓜切薄片晒干后热水冲泡。",
       "story": "甜瓜是韩国夏季代表水果，多余的会晒干泡茶。",
       "flavor": "淡淡的瓜甜与清爽收尾。",
-      "pairing": "夏季、清淡小吃、饭后。",
+      "pairing": "夏日餐后与水果宾治、果冻或清淡沙拉同享很清爽，单独饮用也轻松。甜瓜温和的甘甜与清爽收尾在炎热的日子让口腔清新，但在浓郁的汤菜旁，它的清澈会消失。",
       "brewTip": "放凉或冰镇后甜味更清。",
       "keep": "瓜干密封干燥保存。",
       "keywords": "香瓜茶 甜瓜 韩国 夏季"
@@ -28994,7 +28994,7 @@ window.TEAFaiData = (function () {
       "process": "甜瓜切薄片曬乾後熱水沖泡。",
       "story": "甜瓜是韓國夏季代表水果，多餘的會曬乾泡茶。",
       "flavor": "淡淡的瓜甜與清爽收尾。",
-      "pairing": "夏季、清淡小吃、飯後。",
+      "pairing": "夏季餐後配水果賓治、果凍或清淡沙拉很清爽，單獨喝也輕鬆。香瓜溫和的甜味與乾淨收尾，能在炎熱天讓口腔清新；但配濃郁的湯水料理時，它的清澈會消失。",
       "brewTip": "放涼或冰鎮後甜味更清。",
       "keep": "瓜乾密封乾燥保存。",
       "keywords": "香瓜茶 甜瓜 韓國 夏季"
@@ -29061,7 +29061,7 @@ window.TEAFaiData = (function () {
       "process": "창포를 말려 달이거나 뜨거운 물에 우립니다.",
       "story": "단옷날 창포물에 머리를 감고 창포를 삶은 물을 마시던 풍습이 있었습니다.",
       "flavor": "시원한 풀 향과 약간의 매운 향, 맑은 뒷맛.",
-      "pairing": "단오, 식후, 여름.",
+      "pairing": "단오에 떡·수리취떡 같은 절기 음식과 곁들이는 전통이 있고, 여름철 식후에 마셔도 시원합니다. 시원한 풀 향과 약간의 매운 향이 떡의 담백함을 받쳐 주며 입안을 개운하게 하지만, 단 디저트의 강한 단맛과는 향이 어긋납니다.",
       "brewTip": "향이 강해 연하게 달이는 편이 마시기 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "창포차 창포 단오 향기차"
@@ -29077,7 +29077,7 @@ window.TEAFaiData = (function () {
       "process": "Sweet flag dried, then decocted or steeped.",
       "story": "On Dano, Koreans washed their hair in sweet-flag water and drank the decoction.",
       "flavor": "Cool green aroma with a slight spice, clean finish.",
-      "pairing": "Dano festival, after meals, summer.",
+      "pairing": "Traditionally it is served at Dano with seasonal rice cakes such as surichwi tteok, and it is cooling after a summer meal too. Its cool green aroma with a hint of spice supports the plainness of rice cakes and refreshes the mouth, but it sits apart from strongly sweet desserts.",
       "brewTip": "The aroma is strong; a lighter decoction drinks easier.",
       "keep": "Sealed and dry.",
       "keywords": "sweet flag tea changpo Dano Korea"
@@ -29093,7 +29093,7 @@ window.TEAFaiData = (function () {
       "process": "菖蒲晒干后煎煮或冲泡。",
       "story": "端午节有以菖蒲水洗头、饮菖蒲水的习俗。",
       "flavor": "清凉草香带微辛，收尾干净。",
-      "pairing": "端午、饭后、夏季。",
+      "pairing": "传统上在端午节与时令米糕（如山野菜年糕）一起上桌，夏日餐后也很清凉。清凉的青绿香气带着一丝香料感，支撑米糕的朴素、清爽口腔，但与甜味强烈的甜点格格不入。",
       "brewTip": "香气浓，煎得淡些更好入口。",
       "keep": "密封干燥。",
       "keywords": "菖蒲茶 端午 韩国"
@@ -29109,7 +29109,7 @@ window.TEAFaiData = (function () {
       "process": "菖蒲曬乾後煎煮或沖泡。",
       "story": "端午節有以菖蒲水洗頭、飲菖蒲水的習俗。",
       "flavor": "清涼草香帶微辛，收尾乾淨。",
-      "pairing": "端午、飯後、夏季。",
+      "pairing": "傳統上在端午節搭配山菜年糕等時令年糕供應，夏季餐後也很清涼。清涼的青綠香氣帶一絲辛香，襯托年糕的樸實並讓口腔清爽；但與甜味強烈的甜點路線不同。",
       "brewTip": "香氣濃，煎得淡些更好入口。",
       "keep": "密封乾燥。",
       "keywords": "菖蒲茶 端午 韓國"
@@ -29175,7 +29175,7 @@ window.TEAFaiData = (function () {
       "process": "청귤을 얇게 썰어 설탕에 재운 청을 뜨거운 물에 탑니다.",
       "story": "풋귤을 버리지 않고 청으로 만들어 마시는 법이 제주 가정에서 이어졌습니다.",
       "flavor": "또렷한 신맛과 귤 껍질의 향, 뒤에 오는 단맛.",
-      "pairing": "디저트, 겨울, 식후.",
+      "pairing": "겨울철 식후에 치즈케이크·요거트·귤 디저트와 곁들이면 상큼하고, 따뜻하게 마시면 몸이 데워지는 느낌입니다. 또렷한 신맛과 껍질 향이 크림 디저트의 느끼함을 끊어 주고 뒤에 오는 단맛이 균형을 잡지만, 담백한 죽과는 산미가 튀어 아쉽습니다.",
       "brewTip": "탄산수에 타면 청귤 에이드가 됩니다.",
       "keep": "청은 냉장 보관하고 깨끗한 수저로 덜어 씁니다.",
       "keywords": "청귤차 청귤 제주 풋귤 과일청"
@@ -29191,7 +29191,7 @@ window.TEAFaiData = (function () {
       "process": "Green tangerines sliced and sugared into a preserve, stirred into hot water.",
       "story": "Jeju households turned unripe tangerines into a sweet preserve rather than wasting them.",
       "flavor": "Bright acidity, peel aroma, then sweetness.",
-      "pairing": "Desserts, winter, after meals.",
+      "pairing": "After a winter meal it is bright beside cheesecake, yogurt or tangerine desserts, and served warm it feels cozy. Its clear acidity and peel aroma cut the richness of creamy desserts while the sweetness that follows restores balance, but against plain porridge the acidity sticks out.",
       "brewTip": "In sparkling water it becomes a green-tangerine ade.",
       "keep": "Refrigerate the preserve; use a clean spoon.",
       "keywords": "green tangerine tea cheonggyul Jeju citrus"
@@ -29207,7 +29207,7 @@ window.TEAFaiData = (function () {
       "process": "青橘切片加糖腌成蜜饯，冲热水调饮。",
       "story": "济州人家把未熟的橘子做成蜜饯泡茶，不浪费果子。",
       "flavor": "酸味明亮、橘皮香，之后回甜。",
-      "pairing": "甜点、冬季、饭后。",
+      "pairing": "冬日餐后放在芝士蛋糕、酸奶或橘子甜点旁很明亮，温热饮用也舒适。清亮的酸味与果皮香气削减奶油甜点的浓郁，随后的甘甜恢复平衡，但在朴素的粥面前，酸味会突出。",
       "brewTip": "加苏打水就是青橘气泡饮。",
       "keep": "蜜饯冷藏，用干净勺子取用。",
       "keywords": "青橘茶 济州 柑橘"
@@ -29223,7 +29223,7 @@ window.TEAFaiData = (function () {
       "process": "青橘切片加糖醃成蜜餞，沖熱水調飲。",
       "story": "濟州人家把未熟的橘子做成蜜餞泡茶，不浪費果子。",
       "flavor": "酸味明亮、橘皮香，之後回甜。",
-      "pairing": "甜點、冬季、飯後。",
+      "pairing": "冬季餐後，配起司蛋糕、優格或柑橘甜點明亮可口，溫熱飲用也溫馨。清澈的酸味與果皮香氣切開奶油甜點的濃郁，隨後的甜味恢復平衡；但對上樸實的粥時，酸味會顯得突出。",
       "brewTip": "加蘇打水就是青橘氣泡飲。",
       "keep": "蜜餞冷藏，用乾淨勺子取用。",
       "keywords": "青橘茶 濟州 柑橘"
@@ -29290,7 +29290,7 @@ window.TEAFaiData = (function () {
       "process": "말린 치자 열매를 달이거나 뜨거운 물에 우립니다.",
       "story": "치자는 단무지와 음식의 노란 색을 내는 재료로도 쓰였고, 열매를 달여 차로도 마셨습니다.",
       "flavor": "옅은 쓴맛과 흙 향, 맑은 노란 물색.",
-      "pairing": "식사, 기름진 음식.",
+      "pairing": "기름진 볶음 요리나 전 같은 음식과 함께 마시면 잘 어울리고 평범한 식사에도 무난합니다. 옅은 쓴맛이 기름기를 가볍게 끊어 주고 흙 향이 음식의 풍미에 묻어 자연스럽지만, 단 디저트와는 쓴맛이 도드라져 어울리지 않습니다.",
       "brewTip": "오래 달이면 쓴맛이 강해지니 시간을 조절합니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "치자차 치자 열매 노란차"
@@ -29306,7 +29306,7 @@ window.TEAFaiData = (function () {
       "process": "Dried gardenia fruit decocted or steeped.",
       "story": "Gardenia fruit also colours foods yellow in Korea; the fruit itself was decocted as tea.",
       "flavor": "Mild bitterness, an earthy note, clear yellow liquor.",
-      "pairing": "Meals, rich food.",
+      "pairing": "It goes well with rich stir-fries or savory pancakes and fits an ordinary meal without fuss. Its mild bitterness lightly cuts grease and the earthy note blends into the food's flavor, but with a sweet dessert the bitterness stands out and clashes.",
       "brewTip": "Long boiling turns it bitter; watch the time.",
       "keep": "Sealed and dry.",
       "keywords": "gardenia fruit tea chija Korea yellow"
@@ -29322,7 +29322,7 @@ window.TEAFaiData = (function () {
       "process": "栀子果晒干后煎煮或冲泡。",
       "story": "栀子也用来给腌萝卜等食物染黄，果实也煎茶饮用。",
       "flavor": "微苦、泥土气，汤色清黄。",
-      "pairing": "餐食、油腻食物。",
+      "pairing": "与丰盛的炒菜或咸香煎饼很搭配，毫无违和地融入普通餐食。温和的苦味轻轻削减油脂，大地气息融入食物风味，但与甜味甜点同享时，苦味会突出并相冲。",
       "brewTip": "煮久会变苦，注意时间。",
       "keep": "密封干燥。",
       "keywords": "栀子茶 栀子果 韩国"
@@ -29338,7 +29338,7 @@ window.TEAFaiData = (function () {
       "process": "梔子果曬乾後煎煮或沖泡。",
       "story": "梔子也用來給醃蘿蔔等食物染黃，果實也煎茶飲用。",
       "flavor": "微苦、泥土氣，湯色清黃。",
-      "pairing": "餐食、油膩食物。",
+      "pairing": "與豐盛的熱炒或鹹味煎餅很搭，配普通餐食也毫不勉強。溫和的苦味輕輕切開油膩，大地調融入食物的風味；但配甜的甜點時，苦味會突出而相衝。",
       "brewTip": "煮久會變苦，注意時間。",
       "keep": "密封乾燥。",
       "keywords": "梔子茶 梔子果 韓國"
@@ -29405,7 +29405,7 @@ window.TEAFaiData = (function () {
       "process": "치커리 뿌리를 말려 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "유럽에서는 커피가 귀하던 시절 볶은 치커리 뿌리를 커피에 섞거나 대신 마셨습니다.",
       "flavor": "볶은 뿌리의 쓴맛과 흙 향, 커피 같은 여운.",
-      "pairing": "아침, 식사, 우유.",
+      "pairing": "아침에 토스트·달걀 요리·베이컨과 곁들이면 커피 대용으로 좋고, 우유를 타면 부드러워집니다. 볶은 뿌리의 쓴맛과 커피 같은 여운이 아침 식사의 고소함과 결이 맞지만, 섬세한 꽃차 다과와는 쓴맛이 앞서 따로 즐기는 게 좋습니다.",
       "brewTip": "우유를 더하면 카페 라테 같은 분위기가 납니다.",
       "keep": "밀봉해 건조하게. 볶은 뿌리는 냄새를 흡수합니다.",
       "keywords": "치커리차 치커리 뿌리 커피대용 무카페인"
@@ -29421,7 +29421,7 @@ window.TEAFaiData = (function () {
       "process": "Chicory root dried, roasted, then steeped.",
       "story": "When coffee was scarce in Europe, roasted chicory root was blended into coffee or drunk on its own.",
       "flavor": "Roasted bitterness, earthiness, a coffee-like finish.",
-      "pairing": "Morning, meals, milk.",
+      "pairing": "In the morning with toast, eggs and bacon it stands in well for coffee, and milk softens it. The roasted root's bitterness and coffee-like finish match the savoriness of breakfast, but beside delicate floral sweets the bitterness leads, so enjoy it apart.",
       "brewTip": "With milk it drinks like a café latte.",
       "keep": "Sealed and dry; roasted root absorbs smells.",
       "keywords": "chicory root tea coffee substitute caffeine free"
@@ -29437,7 +29437,7 @@ window.TEAFaiData = (function () {
       "process": "菊苣根晒干炒制后冲泡。",
       "story": "咖啡稀缺的年代，欧洲人把炒菊苣根掺入咖啡或单独饮用。",
       "flavor": "焙炒苦味与泥土香，余韵像咖啡。",
-      "pairing": "早晨、餐食、牛奶。",
+      "pairing": "清晨配吐司、鸡蛋和培根，能很好地代替咖啡，加牛奶会更柔和。烤根茎的苦味与咖啡般的收尾与早餐的咸鲜相配，但在精致的花香甜点旁，苦味会主导，请分开享用。",
       "brewTip": "加牛奶像拿铁。",
       "keep": "密封干燥，易吸味。",
       "keywords": "菊苣茶 菊苣根 咖啡代用"
@@ -29453,7 +29453,7 @@ window.TEAFaiData = (function () {
       "process": "菊苣根曬乾炒製後沖泡。",
       "story": "咖啡稀缺的年代，歐洲人把炒菊苣根摻入咖啡或單獨飲用。",
       "flavor": "焙炒苦味與泥土香，餘韻像咖啡。",
-      "pairing": "早晨、餐食、牛奶。",
+      "pairing": "早晨配吐司、蛋和培根，能很好地代替咖啡，加牛奶會更柔和。烤根的苦味與近似咖啡的收尾，與早餐的鹹香相配；但配精緻的花香甜點時苦味會主導，建議分開享用。",
       "brewTip": "加牛奶像拿鐵。",
       "keep": "密封乾燥，易吸味。",
       "keywords": "菊苣茶 菊苣根 咖啡代用"
@@ -29519,7 +29519,7 @@ window.TEAFaiData = (function () {
       "process": "탱자를 얇게 썰어 설탕에 재운 청을 뜨거운 물에 탑니다.",
       "story": "탱자나무는 가시 울타리로 심었고, 열매는 청으로 만들어 겨울에 마셨습니다.",
       "flavor": "강한 신맛과 쌉쌀함, 감귤 껍질 향.",
-      "pairing": "겨울, 디저트, 식후.",
+      "pairing": "겨울철 식후에 꿀을 조금 타서 마시거나 곶감·약과 같은 단 간식과 곁들이면 잘 어울립니다. 강한 신맛과 쌉쌀함을 단맛이 눌러 주고 감귤 껍질 향이 상큼하게 남지만, 담백한 음식과 함께 마시면 신맛이 모든 맛을 덮어 버립니다.",
       "brewTip": "신맛이 강해 청의 양과 꿀로 조절합니다.",
       "keep": "청은 냉장 보관합니다.",
       "keywords": "탱자차 탱자 탱자청 겨울차"
@@ -29535,7 +29535,7 @@ window.TEAFaiData = (function () {
       "process": "Fruit sliced and sugared into a preserve, stirred into hot water.",
       "story": "Trifoliate orange was planted as a thorny hedge; its fruit became a winter preserve tea.",
       "flavor": "Strong sourness, a bitter edge, citrus-peel aroma.",
-      "pairing": "Winter, desserts, after meals.",
+      "pairing": "After a winter meal, take it with a little honey or beside a sweet snack like dried persimmon or yakgwa. The sweetness presses down the strong sourness and bitterness while the citrus-peel aroma lingers brightly, but with plain food the sourness covers everything.",
       "brewTip": "It is very sour; balance with more preserve or honey.",
       "keep": "Refrigerate the preserve.",
       "keywords": "trifoliate orange tea taengja Korea winter"
@@ -29551,7 +29551,7 @@ window.TEAFaiData = (function () {
       "process": "枳实切片加糖腌成蜜饯，冲热水调饮。",
       "story": "枳树多种作带刺篱笆，果实做成蜜饯冬日饮用。",
       "flavor": "酸味强、微苦，带柑橘皮香。",
-      "pairing": "冬季、甜点、饭后。",
+      "pairing": "冬日餐后，加一点蜂蜜，或配柿饼、药果等甜味小吃。甜味压住强烈的酸味与苦味，柑橘皮香气明亮萦绕，但在朴素食物面前，酸味会盖住一切。",
       "brewTip": "酸味重，以蜜饯或蜂蜜调节。",
       "keep": "蜜饯冷藏。",
       "keywords": "枳实茶 枳实 韩国"
@@ -29567,7 +29567,7 @@ window.TEAFaiData = (function () {
       "process": "枳實切片加糖醃成蜜餞，沖熱水調飲。",
       "story": "枳樹多種作帶刺籬笆，果實做成蜜餞冬日飲用。",
       "flavor": "酸味強、微苦，帶柑橘皮香。",
-      "pairing": "冬季、甜點、飯後。",
+      "pairing": "冬季餐後，加一點蜂蜜，或配柿餅、藥菓等甜點心。甜味壓住強烈的酸味與苦味，柑橘皮香氣明亮地留存；但配樸實食物時，酸味會蓋過一切。",
       "brewTip": "酸味重，以蜜餞或蜂蜜調節。",
       "keep": "蜜餞冷藏。",
       "keywords": "枳實茶 枳實 韓國"
@@ -29634,7 +29634,7 @@ window.TEAFaiData = (function () {
       "process": "토란을 썰어 말린 뒤 달이거나 볶아 우립니다.",
       "story": "토란은 추석 무렵 국으로 먹던 식재료로, 말려 두면 차로도 달여 마셨습니다.",
       "flavor": "부드러운 전분감과 구수함, 옅은 단맛.",
-      "pairing": "식사, 가을, 간식.",
+      "pairing": "가을철 식사에 토란국·구운 떡·밤 같은 제철 간식과 곁들이면 잘 어울립니다. 부드러운 전분감과 구수함이 뿌리채소 요리의 담백함과 이어져 포근한 한 잔이 되지만, 새콤한 과일과는 전분감이 겉돌아 따로 마시는 게 좋습니다.",
       "brewTip": "끓이면 전분이 풀려 걸쭉해지니 취향에 따라 시간을 조절합니다.",
       "keep": "말린 토란은 밀봉해 건조하게.",
       "keywords": "토란차 토란 뿌리차 구수한차"
@@ -29650,7 +29650,7 @@ window.TEAFaiData = (function () {
       "process": "Taro sliced, dried, then decocted or roasted and steeped.",
       "story": "Taro is an autumn soup ingredient in Korea; dried, it was also boiled as tea.",
       "flavor": "Soft starchy body, nuttiness, light sweetness.",
-      "pairing": "Meals, autumn, snacks.",
+      "pairing": "Beside an autumn meal it goes well with taro soup, grilled rice cakes or chestnuts. Its soft starchy body and nuttiness continue the plainness of root-vegetable dishes for a cozy cup, but with tart fruit the starchiness floats apart, so drink it separately.",
       "brewTip": "Boiling releases starch and thickens it; adjust the time.",
       "keep": "Keep dried taro sealed and dry.",
       "keywords": "taro tea toran Korea root"
@@ -29666,7 +29666,7 @@ window.TEAFaiData = (function () {
       "process": "芋头切片晒干后煎煮，或炒后冲泡。",
       "story": "芋头是秋季汤食材料，晒干后也煎茶。",
       "flavor": "粉糯柔和、焦香，微甜。",
-      "pairing": "餐食、秋季、小吃。",
+      "pairing": "在秋日餐食旁，与芋头汤、烤米糕或栗子很搭配。柔和的淀粉体感与坚果香延续根茎类菜肴的朴素，是一杯温馨的茶，但与酸味水果同享时，淀粉感会飘散开来，请分开饮用。",
       "brewTip": "煮会出淀粉变稠，按口味调时间。",
       "keep": "芋头干密封干燥。",
       "keywords": "芋头茶 芋头 韩国"
@@ -29682,7 +29682,7 @@ window.TEAFaiData = (function () {
       "process": "芋頭切片曬乾後煎煮，或炒後沖泡。",
       "story": "芋頭是秋季湯食材料，曬乾後也煎茶。",
       "flavor": "粉糯柔和、焦香，微甜。",
-      "pairing": "餐食、秋季、小吃。",
+      "pairing": "秋季餐食旁，配芋頭湯、烤年糕或栗子很搭。柔和的澱粉茶身與堅果香延續根莖類料理的樸實，是溫馨的一杯；但配酸味水果時，澱粉感會飄散分離，建議分開喝。",
       "brewTip": "煮會出澱粉變稠，按口味調時間。",
       "keep": "芋頭乾密封乾燥。",
       "keywords": "芋頭茶 芋頭 韓國"
@@ -29748,7 +29748,7 @@ window.TEAFaiData = (function () {
       "process": "파인애플을 썰어 설탕에 재운 청을 뜨거운 물에 탑니다.",
       "story": "수입 과일이 흔해지면서 파인애플도 과일청으로 만들어 마시게 되었습니다.",
       "flavor": "진한 단맛과 파인애플 향, 뒤에 남는 산미.",
-      "pairing": "디저트, 여름, 아이스티.",
+      "pairing": "얼음을 넣어 아이스티로 마시면 여름 디저트와 잘 어울리고, 요거트·과일 샐러드·젤리와도 상큼하게 맞습니다. 진한 단맛 뒤에 남는 산미가 단 디저트의 물림을 끊어 주지만, 담백한 식사와 함께 마시면 단맛이 튀어 음식 맛을 덮어 버립니다.",
       "brewTip": "차갑게 타면 에이드처럼 마실 수 있습니다.",
       "keep": "청은 냉장 보관합니다.",
       "keywords": "파인애플차 파인애플 과일청 열대과일"
@@ -29764,7 +29764,7 @@ window.TEAFaiData = (function () {
       "process": "Pineapple cut and sugared into a preserve, stirred into hot water.",
       "story": "As imported fruit became common, pineapple joined the fruit-preserve teas.",
       "flavor": "Deep sweetness, pineapple aroma, a tart edge.",
-      "pairing": "Desserts, summer, iced tea.",
+      "pairing": "Over ice as iced tea it suits summer desserts, and it brightens yogurt, fruit salad and jelly too. The acidity trailing its deep sweetness cuts the cloying edge of sweet desserts, but beside a plain meal the sweetness jumps out and covers the food.",
       "brewTip": "Served cold, it drinks like a fruit ade.",
       "keep": "Refrigerate the preserve.",
       "keywords": "pineapple tea fruit preserve ade"
@@ -29780,7 +29780,7 @@ window.TEAFaiData = (function () {
       "process": "凤梨切块加糖腌成蜜饯，冲热水调饮。",
       "story": "进口水果普及后，凤梨也做成水果蜜饯茶。",
       "flavor": "浓甜、凤梨香，尾端微酸。",
-      "pairing": "甜点、夏季、冰茶。",
+      "pairing": "作为冰茶加冰饮用适合夏日甜点，也让酸奶、水果沙拉和果冻更明亮。深厚甘甜之后的酸味削减甜味甜点的腻感，但在朴素的餐食旁，甜味会跳出来盖住食物。",
       "brewTip": "冰镇后像水果气泡饮。",
       "keep": "蜜饯冷藏。",
       "keywords": "凤梨茶 菠萝 水果茶"
@@ -29796,7 +29796,7 @@ window.TEAFaiData = (function () {
       "process": "鳳梨切塊加糖醃成蜜餞，沖熱水調飲。",
       "story": "進口水果普及後，鳳梨也做成水果蜜餞茶。",
       "flavor": "濃甜、鳳梨香，尾端微酸。",
-      "pairing": "甜點、夏季、冰茶。",
+      "pairing": "加冰作冰茶適合夏季甜點，也讓優格、水果沙拉和果凍更明亮。深沉甜味之後的酸味能切開甜點的膩口感；但配樸實餐食時，甜味會跳出來蓋過食物。",
       "brewTip": "冰鎮後像水果氣泡飲。",
       "keep": "蜜餞冷藏。",
       "keywords": "鳳梨茶 鳳梨 水果茶"
@@ -29863,7 +29863,7 @@ window.TEAFaiData = (function () {
       "process": "팥을 볶은 뒤 달이거나 뜨거운 물에 우립니다.",
       "story": "팥은 팥죽과 떡 고물로 먹어 왔고, 볶은 팥을 차로 우려 마시기도 합니다.",
       "flavor": "볶은 곡물의 구수함과 담백함, 옅은 단맛.",
-      "pairing": "식사, 겨울, 팥죽.",
+      "pairing": "팥죽·팥떡·단팥 디저트와 잘 어울리고 겨울철 식사에 곁들이면 구수함이 이어집니다. 볶은 곡물의 구수함과 담백함이 팥 음식의 맛과 결이 같아 자연스럽게 어우러지지만, 새콤한 과일과는 구수함이 묻혀 따로 마시는 편이 낫습니다.",
       "brewTip": "끓이면 색과 맛이 진해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "팥차 팥 볶은팥 곡물차"
@@ -29879,7 +29879,7 @@ window.TEAFaiData = (function () {
       "process": "Beans roasted, then decocted or steeped.",
       "story": "Azuki fills porridge and rice cakes in Korea; roasted, it also brews as tea.",
       "flavor": "Roasted grain nuttiness, plain body, light sweetness.",
-      "pairing": "Meals, winter, red-bean porridge.",
+      "pairing": "It pairs well with red-bean porridge, red-bean rice cakes and sweet red-bean desserts, and beside a winter meal its toastiness carries through. The roasted grain's plain nuttiness shares the character of red-bean dishes, but next to tart fruit it is buried, so drink it apart.",
       "brewTip": "Boiling deepens the colour and flavour.",
       "keep": "Sealed and dry.",
       "keywords": "red bean tea azuki pat Korea grain"
@@ -29895,7 +29895,7 @@ window.TEAFaiData = (function () {
       "process": "红豆炒后煎煮或冲泡。",
       "story": "红豆在韩国做粥和年糕馅，炒后也泡茶。",
       "flavor": "炒谷焦香、朴实，微甜。",
-      "pairing": "餐食、冬季、红豆粥。",
+      "pairing": "与红豆粥、红豆米糕和甜红豆甜点很搭配，在冬日餐食旁烘焙香贯穿始终。烤谷物朴素的坚果香与红豆菜肴气质相合，但在酸味水果旁会被掩埋，请分开饮用。",
       "brewTip": "煮后颜色和味道更浓。",
       "keep": "密封干燥。",
       "keywords": "小豆茶 红豆 韩国"
@@ -29911,7 +29911,7 @@ window.TEAFaiData = (function () {
       "process": "紅豆炒後煎煮或沖泡。",
       "story": "紅豆在韓國做粥和年糕餡，炒後也泡茶。",
       "flavor": "炒穀焦香、樸實，微甜。",
-      "pairing": "餐食、冬季、紅豆粥。",
+      "pairing": "與紅豆粥、紅豆年糕和紅豆甜點很搭，配冬季餐食時焦香貫穿。烤穀物樸實的堅果香與紅豆料理共享性格；但配酸味水果時會被掩蓋，建議分開喝。",
       "brewTip": "煮後顏色和味道更濃。",
       "keep": "密封乾燥。",
       "keywords": "小豆茶 紅豆 韓國"
@@ -29977,7 +29977,7 @@ window.TEAFaiData = (function () {
       "process": "포도를 으깨거나 통째로 설탕에 재운 청을 뜨거운 물에 탑니다.",
       "story": "포도가 많이 나는 철에 청을 담가 두고 겨울까지 마시는 가정의 방식입니다.",
       "flavor": "포도의 단맛과 향, 옅은 산미.",
-      "pairing": "디저트, 여름, 식후.",
+      "pairing": "여름철 식후에 과일 타르트·요거트·젤리와 곁들이면 상큼하고, 차갑게 마시면 한층 시원합니다. 포도의 단맛과 옅은 산미가 가벼운 디저트와 균형을 이루지만, 진한 크림 디저트와는 단맛이 겹쳐 물릴 수 있어 양을 조절하는 게 좋습니다.",
       "brewTip": "탄산수에 타면 포도 에이드가 됩니다.",
       "keep": "청은 냉장 보관합니다.",
       "keywords": "포도차 포도 포도청 과일차"
@@ -29993,7 +29993,7 @@ window.TEAFaiData = (function () {
       "process": "Grapes crushed or whole, sugared into a preserve, stirred into hot water.",
       "story": "Households preserve the grape harvest as a syrup to drink into winter.",
       "flavor": "Grape sweetness and aroma with a light tartness.",
-      "pairing": "Desserts, summer, after meals.",
+      "pairing": "After a summer meal it is bright with fruit tarts, yogurt and jelly, and served cold it turns even cooler. The grape's sweetness and light tartness balance light desserts, but with a rich cream dessert the sweetness doubles up and can cloy, so keep the portion modest.",
       "brewTip": "In sparkling water it becomes a grape ade.",
       "keep": "Refrigerate the preserve.",
       "keywords": "grape tea podo Korea fruit"
@@ -30009,7 +30009,7 @@ window.TEAFaiData = (function () {
       "process": "葡萄压碎或整颗加糖腌成蜜饯，冲热水调饮。",
       "story": "葡萄丰收时做成蜜饯，喝到冬天。",
       "flavor": "葡萄的甜与香，微酸。",
-      "pairing": "甜点、夏季、饭后。",
+      "pairing": "夏日餐后与水果塔、酸奶和果冻同享很明亮，冰镇后更清凉。葡萄的甘甜与淡淡酸味平衡清淡甜点，但与浓郁的奶油甜点同享时，甜味叠加可能腻人，请适度控制分量。",
       "brewTip": "加苏打水就是葡萄气泡饮。",
       "keep": "蜜饯冷藏。",
       "keywords": "葡萄茶 葡萄 韩国"
@@ -30025,7 +30025,7 @@ window.TEAFaiData = (function () {
       "process": "葡萄壓碎或整顆加糖醃成蜜餞，沖熱水調飲。",
       "story": "葡萄豐收時做成蜜餞，喝到冬天。",
       "flavor": "葡萄的甜與香，微酸。",
-      "pairing": "甜點、夏季、飯後。",
+      "pairing": "夏季餐後配水果塔、優格和果凍明亮可口，冷飲更清涼。葡萄的甜味與淡淡酸味平衡清淡甜點；但配濃郁的奶油甜點時，甜味加倍可能膩口，份量請適度。",
       "brewTip": "加蘇打水就是葡萄氣泡飲。",
       "keep": "蜜餞冷藏。",
       "keywords": "葡萄茶 葡萄 韓國"
@@ -30091,7 +30091,7 @@ window.TEAFaiData = (function () {
       "process": "한라봉을 썰어 설탕에 재운 청을 뜨거운 물에 탑니다.",
       "story": "한라봉은 꼭지가 한라산처럼 솟은 모양에서 이름이 붙었고, 청으로도 담가 마십니다.",
       "flavor": "진한 감귤 향과 단맛, 부드러운 산미.",
-      "pairing": "겨울, 디저트, 식후.",
+      "pairing": "겨울철 식후에 치즈케이크·요거트·감귤 디저트와 곁들이면 상큼하고 따뜻하게 마시기 좋습니다. 진한 감귤 향과 부드러운 산미가 크림 디저트의 느끼함을 가볍게 끊어 주지만, 담백한 맑은 국과는 산미가 튀어 따로 마시는 게 좋습니다.",
       "brewTip": "껍질째 재운 청은 향이 진하니 양을 조절합니다.",
       "keep": "청은 냉장 보관합니다.",
       "keywords": "한라봉차 한라봉 제주 감귤청"
@@ -30107,7 +30107,7 @@ window.TEAFaiData = (function () {
       "process": "Hallabong sliced and sugared into a preserve, stirred into hot water.",
       "story": "The hallabong is named for its peak-like bump, echoing Mt. Halla; it is also preserved for tea.",
       "flavor": "Deep citrus aroma and sweetness, soft acidity.",
-      "pairing": "Winter, desserts, after meals.",
+      "pairing": "After a winter meal it is lovely and warm beside cheesecake, yogurt or citrus desserts. Its deep citrus aroma and soft acidity lightly cut the richness of creamy desserts, but against a plain clear soup the acidity sticks out, so keep it separate.",
       "brewTip": "Peel-in preserves are strong; adjust the amount.",
       "keep": "Refrigerate the preserve.",
       "keywords": "hallabong tea Jeju citrus preserve"
@@ -30123,7 +30123,7 @@ window.TEAFaiData = (function () {
       "process": "汉拿峰切片加糖腌成蜜饯，冲热水调饮。",
       "story": "汉拿峰因顶部凸起像汉拿山得名，也做蜜饯泡茶。",
       "flavor": "浓郁柑橘香与甜，柔和酸味。",
-      "pairing": "冬季、甜点、饭后。",
+      "pairing": "冬日餐后，温热地放在芝士蛋糕、酸奶或柑橘甜点旁很美妙。深厚的柑橘香气与柔和酸味轻轻削减奶油甜点的浓郁，但在朴素的清汤面前，酸味会突出，请分开享用。",
       "brewTip": "连皮腌的蜜饯香浓，注意分量。",
       "keep": "蜜饯冷藏。",
       "keywords": "汉拿峰茶 济州 柑橘"
@@ -30139,7 +30139,7 @@ window.TEAFaiData = (function () {
       "process": "漢拿峰切片加糖醃成蜜餞，沖熱水調飲。",
       "story": "漢拿峰因頂部凸起像漢拿山得名，也做蜜餞泡茶。",
       "flavor": "濃郁柑橘香與甜，柔和酸味。",
-      "pairing": "冬季、甜點、飯後。",
+      "pairing": "冬季餐後，配起司蛋糕、優格或柑橘甜點，溫暖又美好。深沉的柑橘香氣與柔和酸味輕輕切開奶油甜點的濃郁；但對上樸實的清湯時，酸味會顯得突出，建議分開。",
       "brewTip": "連皮醃的蜜餞香濃，注意分量。",
       "keep": "蜜餞冷藏。",
       "keywords": "漢拿峰茶 濟州 柑橘"
@@ -30206,7 +30206,7 @@ window.TEAFaiData = (function () {
       "process": "해바라기 씨를 볶은 뒤 뜨거운 물에 우립니다.",
       "story": "해바라기 씨는 간식으로 먹던 씨앗으로, 볶아 차로 우려 마시기도 합니다.",
       "flavor": "볶은 씨앗의 고소함과 옅은 기름진 단맛.",
-      "pairing": "간식, 식후, 겨울.",
+      "pairing": "간식으로 견과류·떡·구운 빵과 곁들이기 좋고 겨울철 식후에도 든든합니다. 볶은 씨앗의 고소함과 옅은 기름진 단맛이 구운 간식의 풍미와 이어져 포만감이 있지만, 새콤한 과일과는 기름진 맛이 겉돌아 따로 즐기는 게 좋습니다.",
       "brewTip": "껍질째 볶은 씨는 끓이면 맛이 더 납니다.",
       "keep": "밀봉해 서늘하게. 기름 성분의 산패에 주의합니다.",
       "keywords": "해바라기차 해바라기씨 씨앗차 고소한차"
@@ -30222,7 +30222,7 @@ window.TEAFaiData = (function () {
       "process": "Seeds roasted, then steeped in hot water.",
       "story": "Sunflower seeds are a familiar snack in Korea; roasted, they also brew as tea.",
       "flavor": "Roasted-seed nuttiness with a light oily sweetness.",
-      "pairing": "Snacks, after meals, winter.",
+      "pairing": "As a snack companion it goes well with nuts, rice cakes and toasted bread, and after a winter meal it feels substantial. The roasted seed's nuttiness and light oily sweetness continue the flavor of baked snacks satisfyingly, but with tart fruit the oiliness floats apart.",
       "brewTip": "Seeds roasted in the shell give more when boiled.",
       "keep": "Sealed and cool; mind the oils.",
       "keywords": "sunflower seed tea haebaragi Korea nutty"
@@ -30238,7 +30238,7 @@ window.TEAFaiData = (function () {
       "process": "葵花籽炒后热水冲泡。",
       "story": "葵花籽是常见零食，炒后也泡茶。",
       "flavor": "炒种子的焦香与微油甜。",
-      "pairing": "零食、饭后、冬季。",
+      "pairing": "作为小吃伴侣，与坚果、米糕和烤面包很搭配，冬日餐后也觉得扎实。烤种子的坚果香与淡淡油润甘甜令人满足地延续烘焙小吃的风味，但与酸味水果同享时，油润感会飘散开来。",
       "brewTip": "带壳炒的籽煮更出味。",
       "keep": "密封阴凉，注意油脂氧化。",
       "keywords": "葵花籽茶 向日葵 韩国"
@@ -30254,7 +30254,7 @@ window.TEAFaiData = (function () {
       "process": "葵花籽炒後熱水沖泡。",
       "story": "葵花籽是常見零食，炒後也泡茶。",
       "flavor": "炒種子的焦香與微油甜。",
-      "pairing": "零食、飯後、冬季。",
+      "pairing": "作為點心夥伴，與堅果、年糕和烤吐司很搭，冬季餐後也扎實。烤種子的堅果香與淡淡油潤甜味，令人滿足地延續烘烤點心的風味；但配酸味水果時，油潤感會飄散分離。",
       "brewTip": "帶殼炒的籽煮更出味。",
       "keep": "密封陰涼，注意油脂氧化。",
       "keywords": "葵花籽茶 向日葵 韓國"
@@ -30321,7 +30321,7 @@ window.TEAFaiData = (function () {
       "process": "허브의 잎과 꽃을 말려 뜨거운 물에 우립니다.",
       "story": "허브를 말려 차로 마시는 습관은 유럽과 아시아 곳곳에서 오래 이어졌습니다.",
       "flavor": "허브 종류에 따라 다릅니다. 풀 향과 꽃 향이 중심입니다.",
-      "pairing": "식후, 밤, 디저트.",
+      "pairing": "식후나 밤 시간에 가벼운 쿠키·비스킷·과일과 곁들이기 좋고, 디저트 차로도 무난합니다. 풀 향과 꽃 향이 중심이라 자극이 적어 대부분의 간식과 부딪히지 않지만, 향이 강한 양념 요리와 함께 마시면 허브 향이 묻혀 버립니다.",
       "brewTip": "허브마다 적정 시간이 달라 향이 날아가지 않게 5분 안팎으로 우립니다.",
       "keep": "밀봉해 건조하게. 향이 쉽게 날아갑니다.",
       "keywords": "허브차 허브티 민트 캐모마일 무카페인"
@@ -30337,7 +30337,7 @@ window.TEAFaiData = (function () {
       "process": "Leaves and flowers of herbs dried and steeped.",
       "story": "Brewing dried herbs is an old habit across Europe and Asia alike.",
       "flavor": "Varies by herb; green and floral notes lead.",
-      "pairing": "After meals, evening, desserts.",
+      "pairing": "After a meal or in the evening it goes well with light cookies, biscuits and fruit, and works as a dessert tea too. Led by green and floral notes, it is gentle enough to clash with almost no snack, but beside strongly seasoned food the herbal aroma is lost.",
       "brewTip": "Each herb differs; around five minutes keeps the aroma in.",
       "keep": "Sealed and dry — the aroma fades fast.",
       "keywords": "herb tea herbal tisane mint chamomile"
@@ -30353,7 +30353,7 @@ window.TEAFaiData = (function () {
       "process": "香草的叶与花晒干后热水冲泡。",
       "story": "晒干香草泡茶的习惯在欧洲与亚洲都流传已久。",
       "flavor": "随香草种类而异，以草香与花香为主。",
-      "pairing": "饭后、夜间、甜点。",
+      "pairing": "饭后或晚间与清淡的曲奇、饼干和水果很搭配，也可作甜点茶。以青绿与花香为主导，温和到几乎不与任何小吃相冲，但在调味强烈的食物旁，草本香气会消失。",
       "brewTip": "香草各异，五分钟左右以免香气散失。",
       "keep": "密封干燥，香气易散。",
       "keywords": "草本茶 香草 薄荷 洋甘菊"
@@ -30369,7 +30369,7 @@ window.TEAFaiData = (function () {
       "process": "香草的葉與花曬乾後熱水沖泡。",
       "story": "曬乾香草泡茶的習慣在歐洲與亞洲都流傳已久。",
       "flavor": "隨香草種類而異，以草香與花香為主。",
-      "pairing": "飯後、夜間、甜點。",
+      "pairing": "餐後或晚間，與清淡餅乾、脆餅和水果很搭，也適合作為甜點茶。以青綠與花香調為主，溫和得幾乎不與任何點心相衝；但配重口味食物時，藥草香氣會消失。",
       "brewTip": "香草各異，五分鐘左右以免香氣散失。",
       "keep": "密封乾燥，香氣易散。",
       "keywords": "草本茶 香草 薄荷 洋甘菊"
@@ -30436,7 +30436,7 @@ window.TEAFaiData = (function () {
       "process": "말린 헛개 열매를 물에 넣고 달입니다.",
       "story": "민간에서는 술을 마신 다음 날 헛개를 달여 마시던 풍습이 있었습니다.",
       "flavor": "은은한 단맛과 나무 향, 부드러운 뒷맛.",
-      "pairing": "식사, 술자리 다음 날 아침.",
+      "pairing": "술자리 다음 날 아침에 죽·해장국과 곁들이는 전통이 있고, 평범한 식사에도 무난히 어울립니다. 은은한 단맛과 나무 향이 자극 없는 아침 음식과 결이 같아 부드럽게 넘어가지만, 단 디저트와는 단맛이 겹쳐 따로 마시는 게 좋습니다.",
       "brewTip": "식혀 마셔도 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "헛개나무차 헛개 지구자 전통차"
@@ -30452,7 +30452,7 @@ window.TEAFaiData = (function () {
       "process": "Dried fruit decocted in water.",
       "story": "In Korean folk custom, raisin-tree fruit was decocted the morning after drinking.",
       "flavor": "Gentle sweetness, a woody note, a soft finish.",
-      "pairing": "Meals, the morning after drinks.",
+      "pairing": "It is traditionally taken the morning after drinks, with porridge or a hangover soup, and it also fits an ordinary meal. Its gentle sweetness and woody note share the mild character of morning food and go down softly, but with a sweet dessert the sweetness doubles, so keep it separate.",
       "brewTip": "Also good cooled.",
       "keep": "Sealed and dry.",
       "keywords": "raisin tree tea heotgae Korea decoction"
@@ -30468,7 +30468,7 @@ window.TEAFaiData = (function () {
       "process": "干枳椇果加水煎煮。",
       "story": "韩国民间有酒后次日煎枳椇饮用的习俗。",
       "flavor": "微甜、木香，收尾柔和。",
-      "pairing": "餐食、酒后次日早晨。",
+      "pairing": "传统上在饮酒后的清晨，与粥或解酒汤一起喝，也适合普通餐食。温和的甘甜与木质气息共享晨间食物的温和气质，柔和下咽，但与甜味甜点同享时，甜味会叠加，请分开享用。",
       "brewTip": "放凉也好喝。",
       "keep": "密封干燥。",
       "keywords": "枳椇茶 枳椇 韩国"
@@ -30484,7 +30484,7 @@ window.TEAFaiData = (function () {
       "process": "乾枳椇果加水煎煮。",
       "story": "韓國民間有酒後次日煎枳椇飲用的習俗。",
       "flavor": "微甜、木香，收尾柔和。",
-      "pairing": "餐食、酒後次日早晨。",
+      "pairing": "傳統上在飲酒後的隔天早晨，配粥或解酒湯飲用，也適合普通餐食。溫和的甜味與木質調，與晨間食物共享溫和性格，順口柔和；但配甜的甜點時甜味加倍，建議分開。",
       "brewTip": "放涼也好喝。",
       "keep": "密封乾燥。",
       "keywords": "枳椇茶 枳椇 韓國"
@@ -30551,7 +30551,7 @@ window.TEAFaiData = (function () {
       "process": "형개를 말려 뜨거운 물에 우립니다.",
       "story": "형개는 한방에서 약재로 써 온 허브로, 말려 차로도 우려 마십니다.",
       "flavor": "박하 같은 시원함과 풀 향, 옅은 매운맛.",
-      "pairing": "식후, 여름.",
+      "pairing": "여름철 식후에 냉면·묵 같은 시원한 음식과 곁들이면 잘 어울리고 단독으로 마셔도 개운합니다. 박하 같은 시원함과 옅은 매운맛이 입안을 상쾌하게 정리해 주지만, 따뜻한 우유 음료와는 시원한 향이 어긋나 따로 마시는 게 좋습니다.",
       "brewTip": "향이 날아가기 쉬워 뚜껑을 덮고 우립니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "형개차 형개 허브 약초차"
@@ -30567,7 +30567,7 @@ window.TEAFaiData = (function () {
       "process": "The herb is dried and steeped in hot water.",
       "story": "Schizonepeta is a traditional medicinal herb in Korea, also brewed as a tea.",
       "flavor": "Mint-like coolness, green aroma, a slight spice.",
-      "pairing": "After meals, summer.",
+      "pairing": "After a summer meal it goes well with cool dishes like chilled noodles or mung-bean jelly, and on its own it is refreshing. Its mint-like coolness and slight spice freshen the mouth, but with a warm milky drink the cool aroma sits oddly, so keep them apart.",
       "brewTip": "Cover while steeping; the aroma escapes easily.",
       "keep": "Sealed and dry.",
       "keywords": "schizonepeta tea hyeonggae Korea herb"
@@ -30583,7 +30583,7 @@ window.TEAFaiData = (function () {
       "process": "荆芥晒干后热水冲泡。",
       "story": "荆芥是韩方常用药草，也晒干泡茶。",
       "flavor": "薄荷般清凉、草香，微辛。",
-      "pairing": "饭后、夏季。",
+      "pairing": "夏日餐后与冷面、绿豆凉粉等清凉菜肴很搭配，单独饮用也清爽。薄荷般的清凉与淡淡香料感让口腔清新，但与热牛奶饮品同享时，清凉香气会显得别扭，请分开。",
       "brewTip": "香气易散，加盖冲泡。",
       "keep": "密封干燥。",
       "keywords": "荆芥茶 荆芥 韩国"
@@ -30599,7 +30599,7 @@ window.TEAFaiData = (function () {
       "process": "荊芥曬乾後熱水沖泡。",
       "story": "荊芥是韓方常用藥草，也曬乾泡茶。",
       "flavor": "薄荷般清涼、草香，微辛。",
-      "pairing": "飯後、夏季。",
+      "pairing": "夏季餐後，與冷麵或綠豆涼粉等冰涼料理很搭，單獨喝也清爽。近似薄荷的清涼與微微辛香讓口腔清新；但與溫熱的牛奶飲品同席時，清涼香氣會顯得格格不入，建議分開。",
       "brewTip": "香氣易散，加蓋沖泡。",
       "keep": "密封乾燥。",
       "keywords": "荊芥茶 荊芥 韓國"
@@ -30665,7 +30665,7 @@ window.TEAFaiData = (function () {
       "process": "호두를 갈아 뜨거운 물에 타거나 함께 달입니다.",
       "story": "호두는 정월 대보름에 부럼으로 깨던 견과로, 갈아 차로도 마셨습니다.",
       "flavor": "진한 고소함과 기름진 부드러움, 옅은 단맛.",
-      "pairing": "겨울, 간식, 식사.",
+      "pairing": "겨울철 간식으로 떡·구운 빵·치즈와 곁들이면 든든하고 식사에 곁들여도 좋습니다. 진한 고소함과 기름진 부드러움이 구운 간식의 풍미와 어우러져 포만감을 주지만, 새콤한 과일과는 기름진 맛이 겉돌아 따로 즐기는 편이 좋습니다.",
       "brewTip": "가루가 가라앉으니 저어 가며 마십니다.",
       "keep": "간 호두는 냉장하고 빨리 씁니다.",
       "keywords": "호두차 호두 견과차 고소한차"
@@ -30681,7 +30681,7 @@ window.TEAFaiData = (function () {
       "process": "Walnuts ground and whisked into hot water, or decocted.",
       "story": "Walnuts are cracked as 'bureom' nuts at the first full moon; ground, they also make tea.",
       "flavor": "Deep nuttiness, oily softness, light sweetness.",
-      "pairing": "Winter, snacks, meals.",
+      "pairing": "As a winter snack with rice cakes, toasted bread or cheese it is substantial, and it also suits a meal. Its deep nuttiness and oily softness blend with baked snacks for a satisfying bite, but with tart fruit the richness floats apart, so enjoy it separately.",
       "brewTip": "Stir as you drink; the grounds settle.",
       "keep": "Refrigerate ground walnut and use soon.",
       "keywords": "walnut tea hodu Korea nutty"
@@ -30697,7 +30697,7 @@ window.TEAFaiData = (function () {
       "process": "核桃磨碎后冲热水，或一同煎煮。",
       "story": "核桃是正月十五吃的坚果，磨碎也泡茶。",
       "flavor": "浓郁焦香、油润，微甜。",
-      "pairing": "冬季、小吃、餐食。",
+      "pairing": "作为冬日小吃，与米糕、烤面包或芝士同享很扎实，也适合餐食。深厚的坚果香与油润柔和与烘焙小吃融合，是令人满足的一口，但与酸味水果同享时，浓郁感会飘散开来，请分开享用。",
       "brewTip": "粉末会沉淀，边搅拌边喝。",
       "keep": "核桃粉冷藏并尽快用完。",
       "keywords": "核桃茶 核桃 韩国"
@@ -30713,7 +30713,7 @@ window.TEAFaiData = (function () {
       "process": "核桃磨碎後沖熱水，或一同煎煮。",
       "story": "核桃是正月十五吃的堅果，磨碎也泡茶。",
       "flavor": "濃郁焦香、油潤，微甜。",
-      "pairing": "冬季、小吃、餐食。",
+      "pairing": "作為冬季點心，配年糕、烤吐司或起司很扎實，也適合餐食。深沉的堅果香與油潤柔和與烘烤點心融合，是令人滿足的一口；但配酸味水果時，醇厚感會飄散分離，建議分開享用。",
       "brewTip": "粉末會沉澱，邊攪拌邊喝。",
       "keep": "核桃粉冷藏並盡快用完。",
       "keywords": "核桃茶 核桃 韓國"
@@ -30780,7 +30780,7 @@ window.TEAFaiData = (function () {
       "process": "호박을 썰어 말린 뒤 달이거나 우립니다.",
       "story": "늙은 호박은 호박죽과 떡으로 먹던 식재료로, 말려 두면 차로도 달여 마셨습니다.",
       "flavor": "호박의 단맛과 부드러운 전분감.",
-      "pairing": "식사, 겨울, 간식.",
+      "pairing": "호박죽·호박떡·구운 고구마와 잘 어울리고 겨울철 식사나 간식에 곁들이면 포근합니다. 호박의 단맛과 부드러운 전분감이 같은 재료의 음식과 자연스럽게 이어져 든든하지만, 새콤한 과일과는 단맛과 산미가 따로 놀아 아쉽습니다.",
       "brewTip": "달일수록 단맛이 진해집니다.",
       "keep": "말린 호박은 밀봉해 건조하게.",
       "keywords": "호박차 늙은호박 겨울차"
@@ -30796,7 +30796,7 @@ window.TEAFaiData = (function () {
       "process": "Pumpkin sliced, dried, then decocted or steeped.",
       "story": "Ripe pumpkin fills porridge and rice cakes in Korea; dried, it brews as tea too.",
       "flavor": "Pumpkin sweetness with a soft starchy body.",
-      "pairing": "Meals, winter, snacks.",
+      "pairing": "It pairs well with pumpkin porridge, pumpkin rice cakes and roasted sweet potato, and adds coziness to a winter meal or snack. The pumpkin's sweetness and soft starchy body flow naturally into dishes of the same ingredient, but with tart fruit the sweetness and acidity go their own ways.",
       "brewTip": "Longer decoction makes it sweeter.",
       "keep": "Keep dried pumpkin sealed and dry.",
       "keywords": "pumpkin tea hobak Korea sweet"
@@ -30812,7 +30812,7 @@ window.TEAFaiData = (function () {
       "process": "南瓜切片晒干后煎煮或冲泡。",
       "story": "老南瓜做粥和年糕，晒干后也煎茶。",
       "flavor": "南瓜甜味与柔和粉糯感。",
-      "pairing": "餐食、冬季、小吃。",
+      "pairing": "与南瓜粥、南瓜米糕和烤红薯很搭配，为冬日餐食或小吃增添温馨。南瓜的甘甜与柔和淀粉体感自然流入同食材的菜肴，但与酸味水果同享时，甜与酸会各走各路。",
       "brewTip": "煮久甜味更浓。",
       "keep": "南瓜干密封干燥。",
       "keywords": "南瓜茶 南瓜 韩国"
@@ -30828,7 +30828,7 @@ window.TEAFaiData = (function () {
       "process": "南瓜切片曬乾後煎煮或沖泡。",
       "story": "老南瓜做粥和年糕，曬乾後也煎茶。",
       "flavor": "南瓜甜味與柔和粉糯感。",
-      "pairing": "餐食、冬季、小吃。",
+      "pairing": "與南瓜粥、南瓜年糕和烤地瓜很搭，為冬季餐食或點心增添溫馨。南瓜的甜味與柔和的澱粉茶身，自然融入同一食材的料理；但配酸味水果時，甜味與酸味各走各路。",
       "brewTip": "煮久甜味更濃。",
       "keep": "南瓜乾密封乾燥。",
       "keywords": "南瓜茶 南瓜 韓國"
@@ -30894,7 +30894,7 @@ window.TEAFaiData = (function () {
       "process": "홍삼 절편을 달이거나, 농축액을 뜨거운 물에 탑니다.",
       "story": "인삼을 찌고 말리는 홍삼 가공법은 고려 시대부터 이어진 한국의 방식입니다.",
       "flavor": "쌉쌀함 뒤에 오는 단맛과 흙 향, 진한 여운.",
-      "pairing": "아침, 겨울, 꿀.",
+      "pairing": "아침이나 겨울철에 꿀을 조금 타서 마시면 잘 어울리고, 곁들인다면 곶감·대추 같은 단 간식이 좋습니다. 쌉쌀함을 꿀의 단맛이 눌러 주고 흙 향과 진한 여운이 천천히 이어지지만, 일반적인 식사와 함께 마시면 홍삼 향이 음식 맛을 덮어 버립니다.",
       "brewTip": "꿀을 조금 더하면 쌉쌀함이 부드러워집니다.",
       "keep": "밀봉해 서늘하고 건조하게.",
       "keywords": "홍삼차 홍삼 인삼 전통차"
@@ -30910,7 +30910,7 @@ window.TEAFaiData = (function () {
       "process": "Red ginseng slices decocted, or extract stirred into hot water.",
       "story": "Steaming and drying ginseng into red ginseng is a Korean method dating to the Goryeo era.",
       "flavor": "Bitterness first, then sweetness and earth, a long finish.",
-      "pairing": "Morning, winter, honey.",
+      "pairing": "In the morning or in winter, take it with a little honey; a sweet snack like dried persimmon or jujubes also suits it. The honey presses down the bitterness while the earthy scent and long finish unfold slowly, but with an ordinary meal the red ginseng aroma covers the food.",
       "brewTip": "A little honey softens the bitterness.",
       "keep": "Sealed, cool and dry.",
       "keywords": "red ginseng tea hongsam Korea"
@@ -30926,7 +30926,7 @@ window.TEAFaiData = (function () {
       "process": "红参片煎煮，或浓缩液冲热水调饮。",
       "story": "把人参蒸干制成红参，是高丽时代延续下来的韩国做法。",
       "flavor": "先苦后甜、泥土香，余韵深长。",
-      "pairing": "早晨、冬季、蜂蜜。",
+      "pairing": "清晨或冬天，加一点蜂蜜饮用；柿饼、红枣等甜味小吃也适合。蜂蜜压住苦味，大地香气与悠长收尾缓缓展开，但配普通餐食时，红参香气会盖住食物。",
       "brewTip": "加少许蜂蜜可缓和苦味。",
       "keep": "密封阴凉干燥。",
       "keywords": "红参茶 红参 人参 韩国"
@@ -30942,7 +30942,7 @@ window.TEAFaiData = (function () {
       "process": "紅蔘片煎煮，或濃縮液沖熱水調飲。",
       "story": "把人蔘蒸乾製成紅蔘，是高麗時代延續下來的韓國做法。",
       "flavor": "先苦後甜、泥土香，餘韻深長。",
-      "pairing": "早晨、冬季、蜂蜜。",
+      "pairing": "早晨或冬季，加一點蜂蜜飲用；配柿餅或大棗等甜點心也合適。蜂蜜壓住苦味，大地香氣與悠長收尾緩緩展開；但配普通餐食時，紅蔘香氣會蓋過食物。",
       "brewTip": "加少許蜂蜜可緩和苦味。",
       "keep": "密封陰涼乾燥。",
       "keywords": "紅蔘茶 紅蔘 人蔘 韓國"
@@ -31008,7 +31008,7 @@ window.TEAFaiData = (function () {
       "process": "말린 황기 뿌리를 물에 넣고 달입니다.",
       "story": "황기는 삼계탕에 대추와 함께 넣는 약재로, 뿌리만 달여 차로도 마십니다.",
       "flavor": "은은한 단맛과 콩 같은 구수함, 부드러운 흙 향.",
-      "pairing": "식사, 삼계탕, 여름.",
+      "pairing": "삼계탕과 함께 내는 전통이 있고, 여름철 식사나 평범한 한 끼에 곁들이기 좋습니다. 은은한 단맛과 콩 같은 구수함이 닭고기의 담백함과 결이 같아 자연스럽게 어울리지만, 단 디저트와는 구수함이 가려져 따로 마시는 게 좋습니다.",
       "brewTip": "대추를 함께 달이면 단맛이 더해집니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "황기차 황기 약초차 달인차"
@@ -31024,7 +31024,7 @@ window.TEAFaiData = (function () {
       "process": "Dried root decocted in water.",
       "story": "Astragalus goes into samgyetang with jujube; the root alone is also decocted as tea.",
       "flavor": "Mild sweetness, a bean-like nuttiness, soft earthiness.",
-      "pairing": "Meals, samgyetang, summer.",
+      "pairing": "It is traditionally served with samgyetang and suits a summer meal or an ordinary one. Its mild sweetness and bean-like nuttiness share the plain character of chicken dishes, but beside a sweet dessert the nuttiness is masked, so drink it apart.",
       "brewTip": "Decoct with jujube for extra sweetness.",
       "keep": "Sealed and dry.",
       "keywords": "astragalus tea hwanggi Korea root"
@@ -31040,7 +31040,7 @@ window.TEAFaiData = (function () {
       "process": "干黄芪根加水煎煮。",
       "story": "黄芪与大枣同入参鸡汤，根也单独煎茶。",
       "flavor": "微甜、豆香，柔和泥土气。",
-      "pairing": "餐食、参鸡汤、夏季。",
+      "pairing": "传统上与参鸡汤一起上桌，适合夏日餐食或普通餐食。温和的甘甜与豆般的坚果香共享鸡肉菜肴朴素的气质，但在甜味甜点旁，坚果香会被掩盖，请分开饮用。",
       "brewTip": "与大枣同煎更甜。",
       "keep": "密封干燥。",
       "keywords": "黄芪茶 黄芪 韩国"
@@ -31056,7 +31056,7 @@ window.TEAFaiData = (function () {
       "process": "乾黃芪根加水煎煮。",
       "story": "黃芪與大棗同入蔘雞湯，根也單獨煎茶。",
       "flavor": "微甜、豆香，柔和泥土氣。",
-      "pairing": "餐食、蔘雞湯、夏季。",
+      "pairing": "傳統上與蔘雞湯一起供應，適合夏季餐食或普通餐食。溫和的甜味與豆般的堅果香，與雞肉料理共享樸實性格；但配甜的甜點時堅果香會被掩蓋，建議分開喝。",
       "brewTip": "與大棗同煎更甜。",
       "keep": "密封乾燥。",
       "keywords": "黃芪茶 黃芪 韓國"
@@ -31122,7 +31122,7 @@ window.TEAFaiData = (function () {
       "process": "말린 후박 껍질을 물에 넣고 달입니다.",
       "story": "후박은 한방에서 껍질을 약재로 써 온 나무로, 달여 차로도 마십니다.",
       "flavor": "쌉쌀함과 나무 향, 약간의 매운 여운.",
-      "pairing": "식사, 기름진 음식.",
+      "pairing": "기름진 고기 요리나 볶음 요리와 함께 마시면 잘 어울립니다. 쌉쌀함과 나무 향이 기름진 맛을 눌러 주고 약간의 매운 여운이 입안을 개운하게 하지만, 단 디저트와 함께 마시면 쌉쌀함이 도드라져 어긋납니다.",
       "brewTip": "쓴맛이 강해 연하게 달이는 편이 좋습니다.",
       "keep": "밀봉해 건조하게.",
       "keywords": "후박차 후박 나무껍질 약초차"
@@ -31138,7 +31138,7 @@ window.TEAFaiData = (function () {
       "process": "Dried bark decocted in water.",
       "story": "Magnolia bark is a traditional medicinal material in Korea, also decocted as tea.",
       "flavor": "Bitterness, woody aroma, a slight spicy finish.",
-      "pairing": "Meals, rich food.",
+      "pairing": "It goes well with rich meat dishes and stir-fries. Its bitterness and woody aroma press down the grease while a slight spicy finish refreshes the mouth, but with a sweet dessert the bitterness stands out and clashes.",
       "brewTip": "It is bitter; a lighter decoction drinks better.",
       "keep": "Sealed and dry.",
       "keywords": "magnolia bark tea hubak Korea"
@@ -31154,7 +31154,7 @@ window.TEAFaiData = (function () {
       "process": "干厚朴皮加水煎煮。",
       "story": "厚朴是韩方药材，也煎茶饮用。",
       "flavor": "苦味、木香，微辛余韵。",
-      "pairing": "餐食、油腻食物。",
+      "pairing": "与丰盛的肉菜和炒菜很搭配。苦味与木质香气压住油脂，淡淡辛辣的收尾让口腔清爽，但与甜味甜点同享时，苦味会突出并相冲。",
       "brewTip": "苦味强，煎淡些更好。",
       "keep": "密封干燥。",
       "keywords": "厚朴茶 厚朴 韩国"
@@ -31170,7 +31170,7 @@ window.TEAFaiData = (function () {
       "process": "乾厚朴皮加水煎煮。",
       "story": "厚朴是韓方藥材，也煎茶飲用。",
       "flavor": "苦味、木香，微辛餘韻。",
-      "pairing": "餐食、油膩食物。",
+      "pairing": "與豐盛的肉類料理和熱炒很搭。苦味與木質香氣壓住油膩，微微辛辣的收尾讓口腔清爽；但配甜的甜點時，苦味會突出而相衝。",
       "brewTip": "苦味強，煎淡些更好。",
       "keep": "密封乾燥。",
       "keywords": "厚朴茶 厚朴 韓國"
@@ -31236,7 +31236,7 @@ window.TEAFaiData = (function () {
       "process": "후추를 빻아 뜨거운 물에 넣고 끓입니다.",
       "story": "후추는 귀한 향신료로 약처럼 쓰이던 시절이 있었고, 끓여 차로도 마셨습니다.",
       "flavor": "알싸한 매운맛과 향신료 향, 짧고 또렷한 여운.",
-      "pairing": "겨울, 식사, 꿀.",
+      "pairing": "겨울철 식사에 곁들이거나 꿀을 타서 마시면 잘 어울리고, 구운 고기나 스튜 같은 든든한 음식과 좋습니다. 알싸한 매운맛과 향신료 향이 기름진 음식 사이에서 입안을 또렷하게 깨워 주지만, 섬세한 디저트와는 매운맛이 모든 향을 덮어 버립니다.",
       "brewTip": "양이 많으면 지나치게 매우니 조금씩 조절합니다.",
       "keep": "밀봉해 건조하게. 향이 쉽게 날아갑니다.",
       "keywords": "후추차 후추 향신료 매운차"
@@ -31252,7 +31252,7 @@ window.TEAFaiData = (function () {
       "process": "Pepper ground and boiled in hot water.",
       "story": "Pepper was once a precious spice treated almost as medicine; it was also boiled as tea.",
       "flavor": "Pungent heat, spice aroma, a short sharp finish.",
-      "pairing": "Winter, meals, honey.",
+      "pairing": "Serve it with a winter meal or with a little honey, alongside hearty food like grilled meat or stew. Its pungent heat and spice aroma wake the palate between bites of rich food, but with a delicate dessert the heat covers every other scent.",
       "brewTip": "A little goes far; adjust the amount carefully.",
       "keep": "Sealed and dry — the aroma fades.",
       "keywords": "black pepper tea huchu spice"
@@ -31268,7 +31268,7 @@ window.TEAFaiData = (function () {
       "process": "胡椒磨碎后入热水煮。",
       "story": "胡椒曾是珍贵香料，也煮水作茶饮。",
       "flavor": "辛辣、香料香，余韵短而明。",
-      "pairing": "冬季、餐食、蜂蜜。",
+      "pairing": "随冬日餐食上桌，或加一点蜂蜜，配烤肉、炖菜等扎实食物。它辛辣的热感与香料香气在丰盛食物的间隙唤醒味觉，但配精致甜点时，辣味会盖住其他所有香气。",
       "brewTip": "量多太辣，少量调节。",
       "keep": "密封干燥，香气易散。",
       "keywords": "胡椒茶 胡椒 香料"
@@ -31284,7 +31284,7 @@ window.TEAFaiData = (function () {
       "process": "胡椒磨碎後入熱水煮。",
       "story": "胡椒曾是珍貴香料，也煮水作茶飲。",
       "flavor": "辛辣、香料香，餘韻短而明。",
-      "pairing": "冬季、餐食、蜂蜜。",
+      "pairing": "配冬季餐食，或加一點蜂蜜，與烤肉或燉菜等扎實食物一起供應。辛辣的熱感與香料香氣在豐盛食物之間喚醒味蕾；但配精緻甜點時，辣味會蓋過所有其他香氣。",
       "brewTip": "量多太辣，少量調節。",
       "keep": "密封乾燥，香氣易散。",
       "keywords": "胡椒茶 胡椒 香料"
@@ -31304,7 +31304,7 @@ window.TEAFaiData = (function () {
       "oneLine": "A classic tonic decoction of ten herbs — ginseng, angelica, astragalus and more — simmered together; a winter health drink alongside ssanghwa.",
       "origin": "A formula of Song-dynasty origin, long used in Korean herbal practice; sold as herb sets or ready pouches at herbal shops and clinics.",
       "oxidation": "None · caffeine-free",
-      "pairing": "Cold days when you want warming up, and traditional sweets such as tteok and yakgwa.",
+      "pairing": "Traditionally it is warmed on cold days and served with traditional sweets such as rice cakes, yakgwa and dried persimmon. The herbs' bitterness is softened by the liquorice and the sweets, while the cinnamon's warm spice blends in, but its heavy aroma sits oddly with light food like salads.",
       "process": "Ten herbs — the four of Sagunja-tang (ginseng, atractylodes, poria, liquorice) and the four of Samul-tang (angelica, cnidium, peony, rehmannia), plus astragalus and cinnamon bark — decocted long in water.",
       "ratioNote": "60 g of herbs to 1000 ml of water",
       "rounds": "1 decoction",
@@ -31326,7 +31326,7 @@ window.TEAFaiData = (function () {
       "oneLine": "인삼·당귀·황기 등 열 가지 약재를 한데 달인 대표 보양탕 — 쌍화탕과 함께 겨울에 찾는 한방 음료.",
       "origin": "중국 송대 처방에서 유래해 한국 한방에서 널리 쓰이는 탕. 약재상·한의원에서 약재 묶음이나 파우치로 구합니다.",
       "oxidation": "무산화 · 카페인 없음",
-      "pairing": "추운 날 몸을 데우고 싶을 때, 떡·약과 같은 전통 간식과.",
+      "pairing": "추운 날 따뜻하게 데워 떡·약과·곶감 같은 전통 간식과 곁들이는 전통이 있습니다. 약재의 쌉쌀함을 감초의 단맛과 간식의 단맛이 함께 눌러 주고 계피의 따뜻한 향이 어우러지지만, 가벼운 샐러드 같은 음식과는 묵직한 향이 어긋납니다.",
       "process": "사군자탕(인삼·백출·복령·감초)과 사물탕(당귀·천궁·작약·숙지황)에 황기·육계를 더한 열 가지 약재를 물에 넣고 오래 달입니다.",
       "ratioNote": "물 1000ml에 약재 60g(한 봉)",
       "rounds": "1회 (달임)",
@@ -31378,7 +31378,7 @@ window.TEAFaiData = (function () {
       "oneLine": "人参、当归、黄芪等十味药材同煎的代表补汤——与双和汤并列的冬季韩方饮品。",
       "origin": "源于中国宋代处方，在韩国韩方中广泛使用；在药材店、韩医院可买到药材包或成品袋装。",
       "oxidation": "不发酵 · 无咖啡因",
-      "pairing": "寒冷日子想暖身时，配年糕、药果等传统点心。",
+      "pairing": "传统上在寒冷的日子温热后，与米糕、药果、柿饼等传统甜点一起上桌。草本的苦味被甘草与甜点柔和下来，肉桂温暖的香料感融入其中，但它厚重的香气与沙拉等清淡食物放在一起会显得别扭。",
       "process": "四君子汤（人参、白术、茯苓、甘草）与四物汤（当归、川芎、白芍、熟地黄）再加黄芪、肉桂，共十味药材入水久煎。",
       "ratioNote": "1000毫升水配药材60克（一包）",
       "rounds": "1次（煎煮）",
@@ -31394,7 +31394,7 @@ window.TEAFaiData = (function () {
       "oneLine": "人參、當歸、黃芪等十味藥材同煎的代表補湯——與雙和湯並列的冬季韓方飲品。",
       "origin": "源於中國宋代處方，在韓國韓方中廣泛使用；在藥材店、韓醫院可買到藥材包或成品袋裝。",
       "oxidation": "不發酵 · 無咖啡因",
-      "pairing": "寒冷日子想暖身時，配年糕、藥果等傳統點心。",
+      "pairing": "傳統上在寒冷天溫熱飲用，配年糕、藥菓、柿餅等傳統甜點。藥草的苦味被甘草與甜點柔和化，肉桂溫暖的辛香融入其中；但它厚重的香氣與沙拉等清淡食物同席會顯得格格不入。",
       "process": "四君子湯（人參、白朮、茯苓、甘草）與四物湯（當歸、川芎、白芍、熟地黃）再加黃芪、肉桂，共十味藥材入水久煎。",
       "ratioNote": "1000毫升水配藥材60克（一包）",
       "rounds": "1次（煎煮）",
