@@ -81,12 +81,15 @@ shops = json.loads((BASE / "data" / "shops.json").read_text(encoding="utf-8"))
 affiliate = json.loads((BASE / "data" / "affiliate.json").read_text(encoding="utf-8"))
 teabags = json.loads((BASE / "data" / "teabags.json").read_text(encoding="utf-8"))
 plans = json.loads((BASE / "data" / "onboarding_plans.json").read_text(encoding="utf-8"))
+news_path = BASE / "data" / "news.json"
+news = json.loads(news_path.read_text(encoding="utf-8")) if news_path.exists() else None
 seed = json.dumps(
     {
         "shops": shops.get("shops", []),
         "affiliate": affiliate,
         "teabags": teabags,
         "plans": plans,
+        "news": news,
     },
     ensure_ascii=False,
     separators=(",", ":"),

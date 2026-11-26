@@ -6162,7 +6162,18 @@ window.TEAFaiI18N = (function () {
     "theme.dark": "深色模式",
     "theme.system": "跟隨裝置設定"
   };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18, V19];
+  var V20 = {
+    "ko": { "news.title": "차 뉴스" },
+    "en": { "news.title": "Tea news" },
+    "zh-CN": { "news.title": "茶叶新闻" },
+    "zh-TW": { "news.title": "茶葉新聞" },
+    "ja": { "news.title": "お茶のニュース" },
+    "hi": { "news.title": "चाय समाचार" },
+    "th": { "news.title": "ข่าวชา" },
+    "vi": { "news.title": "Tin tức trà" }
+  };
+  var YUE10 = { "news.title": "茶新聞" };
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18, V19, V20];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -6185,6 +6196,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE7) merged[k] = YUE7[k];
       for (k in YUE8) merged[k] = YUE8[k];
       for (k in YUE9) merged[k] = YUE9[k];
+      for (k in YUE10) merged[k] = YUE10[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;

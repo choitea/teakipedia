@@ -6374,6 +6374,46 @@ h3 {
   margin-top: 8px;
 }
 
+/* ---------- 차 뉴스 (차 문화 목록 맨 위) ---------- */
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.news-card {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 13px 15px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--paper-2);
+  box-shadow: var(--shadow);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.news-meta {
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--amber);
+}
+
+.news-card b {
+  font-size: 15px;
+  line-height: 1.45;
+  letter-spacing: -0.01em;
+}
+
+.news-sum {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
 /* ============================================================
    다크 모드 — html[data-theme="dark"] 일 때만 적용됩니다.
    기본 팔레트는 CSS 변수로 갈아끼우고, 밝은 색을 직접 쓴

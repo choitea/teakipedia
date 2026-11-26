@@ -206,6 +206,28 @@
     return obj.ko || obj.en || "";
   }
 
+  /* 차 뉴스 (data/news.json) — 차 문화 목록 맨 위에 최신순으로 붙습니다 */
+  function newsSectionHtml() {
+    var items = (NEWS && NEWS.items) || [];
+    if (!items.length) return "";
+    var out =
+      '<h2 class="culture-cat">' + esc(t("news.title")) + '</h2><div class="news-list">';
+    items.slice(0, 8).forEach(function (n) {
+      out +=
+        '<a class="news-card" href="' +
+        esc(n.url || "#") +
+        '" target="_blank" rel="noopener"><span class="news-meta">' +
+        esc(n.date || "") +
+        (n.source ? " · " + esc(n.source) : "") +
+        "</span><b>" +
+        esc(l10n(n.title)) +
+        '</b><span class="news-sum">' +
+        esc(l10n(n.summary)) +
+        "</span></a>";
+    });
+    return out + "</div>";
+  }
+
   function renderCulture() {
     var listEl = $("#cultureList");
     var detailEl = $("#cultureDetail");
@@ -315,6 +337,7 @@
       ["ware", t("culture.cat.ware")]
     ];
     var out = "";
+    out += newsSectionHtml();
     var readSet = cultureReadSet();
     var courseArts = COURSE_IDS.map(function (id) {
       return (
@@ -2819,6 +2842,24 @@
     });
   }
 
+  /* 차 뉴스 데이터 (data/news.json) — 티백과 같은 방식으로 캐시·시드를 먼저 쓰고 뒤에서 갱신합니다 */
+  var NEWS_KEY = "teafai.news.v1";
+  var NEWS = null;
+
+  function loadNewsData() {
+    var seed = seedJson() || {};
+    NEWS = cacheOrSeed(NEWS_KEY, seed.news);
+    if (!("fetch" in window) || location.protocol === "file:") return;
+    readJson("data/news.json", NEWS_KEY)
+      .then(function (data) {
+        if (data && data.items) {
+          NEWS = data;
+          if (currentView === "culture") renderCulture();
+        }
+      })
+      .catch(function () {});
+  }
+
   function renderFeatureSections() {
     renderBagFilters();
     renderBagList();
@@ -4693,6 +4734,7 @@
     bindNoteCustom();
     loadPartnerData();
     loadFeatureData();
+    loadNewsData();
     if (window.TeaFaiExtra) window.TeaFaiExtra.init();
 
     document.title = titleFor(currentView);
