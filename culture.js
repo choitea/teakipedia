@@ -1,4 +1,4 @@
-/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (10개 언어) */
+/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (11개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -181,6 +181,24 @@ window.TEAFaiCulture = [
      "h": "الدارييه اليومية اليوم",
      "p": "اليوم، تُمارس دارييه يومية مبسطة على نطاق واسع. فبإبريق واحد وبضعة أكواب في البيت أو في بيت شاي، يتشارك الناس الشاي وقتًا للهدوء والحديث. وإذا كنت في البداية، يكفي أن تنتبه إلى درجة حرارة الماء ووقت النقع لتقديم كوب جيد."
     }
+   ],
+   "ind": [
+    {
+     "h": "Charye, ritual persembahan teh",
+     "p": "Upacara leluhur Korea yang disebut charye (차례) secara luas dijelaskan berasal dari kebiasaan mempersembahkan teh kepada leluhur. Di kuil-kuil, istana, dan rumah tangga cendekiawan pada masa Goryeo dan Joseon, teh disiapkan dengan saksama saat menyambut tamu dan menghormati leluhur. Teh tidak pernah sekadar minuman; teh adalah cara menyampaikan isi hati seseorang."
+    },
+    {
+     "h": "Alur dasar darye",
+     "p": "Pertama, didihkan air dan hangatkan teko serta cangkir dengan air panas. Masukkan daun teh ke dalam teko yang sudah hangat, tuangkan air pada suhu yang tepat, dan biarkan teh menyeduh. Saat menuang, bergantianlah menuang sedikit demi sedikit ke setiap cangkir agar kekuatan setiap cangkir merata."
+    },
+    {
+     "h": "Semangat keramahtamahan",
+     "p": "Inti darye adalah sikap, bukan teknik. Tuan rumah menyiapkan segalanya sebelum tamu duduk dan menyuguhkan cangkir dengan kedua tangan. Selama tamu minum, tuan rumah berbicara sedikit dan tetap diam memperhatikan, agar tamu dapat fokus pada aroma dan rasa."
+    },
+    {
+     "h": "Darye sehari-hari masa kini",
+     "p": "Kini, darye sehari-hari yang disederhanakan dipraktikkan secara luas. Dengan satu teko dan beberapa cangkir di rumah atau di kedai teh, orang-orang berbagi teh sebagai waktu untuk ketenangan dan percakapan. Jika Anda baru memulai, cukup memperhatikan suhu air dan waktu seduh saja sudah cukup untuk menyajikan secangkir teh yang baik."
+    }
    ]
   },
   "cat": "ceremony",
@@ -200,7 +218,8 @@ window.TEAFaiCulture = [
    "hi": "कोरिया में चाय और शिष्टाचार लंबे समय से एक ही चीज़ रहे हैं: पूर्वजों के अनुष्ठान के लिए प्रयुक्त शब्द 'चार्ये' (차례) का शाब्दिक अर्थ ही 'चाय अनुष्ठान' है। यह लेख पानी उबालने से लेकर दोनों हाथों से कप पेश करने तक, रोज़मर्रा के दार्ये की पूरी प्रक्रिया को समझाता है।",
    "th": "ในเกาหลี ชากับมารยาทเป็นเรื่องเดียวกันมานานแล้ว คำว่า ชารเย ซึ่งหมายถึงพิธีไหว้บรรพบุรุษ แปลตรงตัวได้ว่า 'พิธีชา' บทความนี้จะพาไปรู้จักขั้นตอนของดาแรในชีวิตประจำวัน ตั้งแต่การต้มน้ำไปจนถึงการยื่นถ้วยชาด้วยสองมือ",
    "vi": "Ở Hàn Quốc, trà và lễ nghi từ lâu đã là một: từ chỉ nghi lễ cúng tổ tiên, charye, theo nghĩa đen có nghĩa là 'lễ trà'. Bài viết này giới thiệu trình tự của darye thường ngày, từ đun nước đến dâng chén trà bằng cả hai tay.",
-   "ar": "في كوريا، كان الشاي والآداب شيئًا واحدًا منذ زمن طويل: فكلمة «تشارييه» التي تُطلق على طقس تكريم الأسلاف تعني حرفيًا «طقس الشاي». يأخذك هذا المقال عبر خطوات الدارييه اليومية، من غلي الماء إلى تقديم الكوب بكلتا اليدين."
+   "ar": "في كوريا، كان الشاي والآداب شيئًا واحدًا منذ زمن طويل: فكلمة «تشارييه» التي تُطلق على طقس تكريم الأسلاف تعني حرفيًا «طقس الشاي». يأخذك هذا المقال عبر خطوات الدارييه اليومية، من غلي الماء إلى تقديم الكوب بكلتا اليدين.",
+   "ind": "Di Korea, teh dan etiket sejak lama menyatu: kata untuk upacara leluhur, charye, secara harfiah berarti 'ritual teh.' Artikel ini menelusuri alur darye sehari-hari, dari mendidihkan air hingga menyuguhkan cangkir dengan kedua tangan."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -212,7 +231,8 @@ window.TEAFaiCulture = [
    "hi": "कोरियाई दार्ये — चाय पेश करने का शिष्टाचार",
    "th": "ดาแรของเกาหลี — มารยาทแห่งการถวายชา",
    "vi": "Darye Hàn Quốc — Lễ nghi dâng trà",
-   "ar": "الدارييه الكورية — آداب تقديم الشاي"
+   "ar": "الدارييه الكورية — آداب تقديم الشاي",
+   "ind": "Darye Korea — Etiket Menyajikan Teh"
   }
  },
  {
@@ -396,6 +416,24 @@ window.TEAFaiCulture = [
      "h": "إبريق العدالة وكوب الرائحة وكوب التذوق",
      "p": "يُسكب الشاي المحضّر أولًا في إبريق العدالة (غونغداوبي) لمعادلة قوته قبل التقديم. وفي تسلسل شائع آخر، يُسكب الشاي في كوب رائحة طويل (ونشيانغبي) للاستمتاع بالعبير فقط، ثم يُنقل إلى كوب تذوق (بينمينغبي) للشرب — فيُستمتع بالرائحة والمذاق كخطوتين منفصلتين."
     }
+   ],
+   "ind": [
+    {
+     "h": "Rumah teh gongfu",
+     "p": "Teh gongfu (工夫茶) berkembang di Chaozhou, Guangdong, dan wilayah Minnan di Fujian selatan. Catatan dari dinasti Qing sudah menggambarkan teh gongfu Chaozhou, dan gaya ini sangat memengaruhi praktik teh di seluruh Tiongkok dan Taiwan."
+    },
+    {
+     "h": "'Gongfu' berarti waktu dan kepedulian",
+     "p": "Di sini, gongfu tidak berarti seni bela diri. Gongfu berarti mencurahkan waktu dan keterampilan pada sesuatu. Nama ini mencerminkan kepedulian yang dituangkan ke setiap langkah: memilih daun yang baik, memanaskan air, dan menyeduh dalam seduhan singkat yang berulang."
+    },
+    {
+     "h": "Wadah kecil, teh pekat, banyak putaran",
+     "p": "Penyeduhan gongfu menggunakan teko seukuran telapak tangan atau gaiwan yang diisi daun dengan murah hati, diseduh sebentar dan diulang lima kali atau lebih. Setiap seduhan sedikit bergeser dalam aroma dan rasa, dan mencicipi perubahan itu putaran demi putaran adalah kenikmatan gaya ini."
+    },
+    {
+     "h": "Teko keadilan, cangkir aroma, cangkir cicip",
+     "p": "Teh yang diseduh pertama-tama dituangkan ke teko keadilan (gongdaobei) untuk meratakan kekuatannya sebelum disajikan. Dalam urutan umum lainnya, teh dituangkan ke cangkir aroma tinggi (wenxiangbei) hanya untuk menikmati aromanya, lalu dipindahkan ke cangkir cicip (pinmingbei) untuk diminum — menikmati aroma dan rasa sebagai dua langkah terpisah."
+    }
    ]
   },
   "cat": "ceremony",
@@ -415,7 +453,8 @@ window.TEAFaiCulture = [
    "hi": "चाओझोउ और दक्षिणी फ़ुजियान में जन्मी गोंगफ़ू चाय छोटी-सी केतली या गायवान में तेज़ चाय बनाती है और उसे कई छोटी-छोटी बारों में साझा करती है। जानिए कि न्याय पात्र और खुशबू कप क्या काम करते हैं, और 'गोंगफ़ू' का अर्थ समय और देखभाल क्यों है।",
    "th": "ชากงฟูถือกำเนิดที่เฉาโจวและฝูเจี้ยนตอนใต้ เป็นการชงชาเข้มข้นในกาใบเล็กหรือไก้หว่าน แล้วแบ่งกันดื่มหลายรอบ รอบละสั้น ๆ มาทำความรู้จักหน้าที่ของเหยือกแบ่งชาและถ้วยดมกลิ่น และเหตุผลที่คำว่า 'กงฟู' หมายถึงเวลาและความใส่ใจ",
    "vi": "Ra đời ở Triều Châu và miền nam Phúc Kiến, trà công phu pha trà đậm trong chiếc ấm nhỏ xíu hoặc gaiwan và chia sẻ qua nhiều lần pha ngắn. Hãy tìm hiểu chén công đạo và chén ngửi hương dùng để làm gì, và vì sao 'công phu' có nghĩa là thời gian và sự chăm chút.",
-   "ar": "وُلد شاي غونغ فو في تشاوتشو وجنوب فوجيان، وهو يحضّر شايًا قويًا في إبريق صغير أو غايوان ويتشاركه عبر نقعات قصيرة كثيرة. تعرّف على ما يفعله إبريق العدالة وكوب الرائحة، ولماذا تعني كلمة «غونغ فو» الوقت والعناية."
+   "ar": "وُلد شاي غونغ فو في تشاوتشو وجنوب فوجيان، وهو يحضّر شايًا قويًا في إبريق صغير أو غايوان ويتشاركه عبر نقعات قصيرة كثيرة. تعرّف على ما يفعله إبريق العدالة وكوب الرائحة، ولماذا تعني كلمة «غونغ فو» الوقت والعناية.",
+   "ind": "Lahir di Chaozhou dan Fujian selatan, teh gongfu menyeduh teh pekat dalam teko kecil atau gaiwan dan membaginya dalam banyak seduhan singkat. Pelajari fungsi teko keadilan dan cangkir aroma, serta mengapa 'gongfu' berarti waktu dan kepedulian."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -427,7 +466,8 @@ window.TEAFaiCulture = [
    "hi": "चीनी गोंगफ़ू चाय — छोटी केतलियाँ, कई बार की चाय",
    "th": "ชากงฟูของจีน — กาเล็ก ชงหลายรอบ",
    "vi": "Trà Công Phu Trung Quốc — Ấm nhỏ, nhiều lần pha",
-   "ar": "شاي غونغ فو الصيني — أباريق صغيرة ونقعات كثيرة"
+   "ar": "شاي غونغ فو الصيني — أباريق صغيرة ونقعات كثيرة",
+   "ind": "Teh Gongfu Tiongkok — Teko Kecil, Banyak Seduhan"
   }
  },
  {
@@ -611,6 +651,24 @@ window.TEAFaiCulture = [
      "h": "آداب أساسية للضيوف",
      "p": "عند تلقي الوعاء، ينحني الضيف قليلًا، ثم يدير الوعاء قليلًا على راحة يده حتى لا يشرب من واجهته المزخرفة. وبعد الانتهاء، يمسح الضيف حافة الوعاء، ويتأمله بإعجاب، ويشكر المضيف. ومعرفة هذا التسلسل البسيط تكفي تمامًا لتجربة أولى."
     }
+   ],
+   "ind": [
+    {
+     "h": "Mengocok matcha dalam mangkuk",
+     "p": "Dalam sadō, matcha bubuk dimasukkan ke dalam mangkuk teh (chawan), air panas ditambahkan, dan teh dikocok dengan pengocok bambu (chasen) hingga berbusa. Tuan rumah menyiapkan teh di hadapan setiap tamu, dan manisan musiman disajikan terlebih dahulu untuk menyeimbangkan rasa pahit matcha."
+    },
+    {
+     "h": "Sen no Rikyū dan wabi",
+     "p": "Sen no Rikyū, maestro teh abad ke-16, dianggap menyempurnakan gaya teh wabi — menemukan keindahan dalam kesederhanaan dan ketidaksempurnaan. Alih-alih peralatan mewah, ia menghargai mangkuk pedesaan dan ruang teh kecil, dan sadō terbentuk sebagai jalan pendisiplinan batin."
+    },
+    {
+     "h": "Ichi-go ichi-e",
+     "p": "Ungkapan berharga ichi-go ichi-e (一期一會) berarti bahwa pertemuan ini hanya akan terjadi sekali seumur hidup. Tuan rumah mencurahkan kepedulian penuh pada kesempatan yang tidak akan pernah terulang, dan tamu menerima kepedulian itu dengan rasa syukur, menikmati semangkuk teh itu."
+    },
+    {
+     "h": "Tata krama dasar untuk tamu",
+     "p": "Saat menerima mangkuk, tamu membungkuk ringan, lalu memutar mangkuk sedikit di telapak tangan agar tidak minum dari bagian depan yang berhias. Setelah selesai, tamu menyeka bibir mangkuk, mengagumi mangkuknya, dan berterima kasih kepada tuan rumah. Mengetahui alur sederhana ini sudah lebih dari cukup untuk pengalaman pertama."
+    }
    ]
   },
   "cat": "ceremony",
@@ -629,7 +687,8 @@ window.TEAFaiCulture = [
    "hi": "जापानी सादो में माचा को चाय के कटोरे में फेंटकर हर मेहमान को परोसा जाता है। यह लेख सेन नो रिक्यू के वाबी सौंदर्यबोध, इचि-गो इचि-ए की भावना और शुरुआती लोगों के लिए मेहमान के मूल शिष्टाचार से परिचित कराता है।",
    "th": "ในซาโดของญี่ปุ่น มัทฉะจะถูกตีในถ้วยชาและเสิร์ฟให้แขกทีละคน บทความนี้แนะนำสุนทรียะแบบวาบิของเซ็น โนะ ริคิว จิตวิญญาณของอิจิโกะ อิจิเอะ และมารยาทพื้นฐานสำหรับแขกมือใหม่",
    "vi": "Trong sadō của Nhật Bản, matcha được đánh trong bát trà và dâng cho từng vị khách. Bài viết này giới thiệu thẩm mỹ wabi của Sen no Rikyū, tinh thần ichi-go ichi-e và những phép tắc cơ bản dành cho khách mới bắt đầu.",
-   "ar": "في السادو اليابانية، يُخفق الماتشا في وعاء شاي ويُقدَّم لكل ضيف. يقدّم هذا المقال جمالية الوابي عند سين نو ريكيو، وروح «إيتشي-غو إيتشي-إيه»، وآداب الضيف الأساسية للمبتدئين."
+   "ar": "في السادو اليابانية، يُخفق الماتشا في وعاء شاي ويُقدَّم لكل ضيف. يقدّم هذا المقال جمالية الوابي عند سين نو ريكيو، وروح «إيتشي-غو إيتشي-إيه»، وآداب الضيف الأساسية للمبتدئين.",
+   "ind": "Dalam sadō Jepang, matcha dikocok dalam mangkuk teh dan disajikan kepada setiap tamu. Artikel ini memperkenalkan estetika wabi Sen no Rikyū, semangat ichi-go ichi-e, dan tata krama dasar tamu untuk pemula."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -641,7 +700,8 @@ window.TEAFaiCulture = [
    "hi": "जापानी सादो — एक कप, एक मुलाकात",
    "th": "ซาโดของญี่ปุ่น — หนึ่งถ้วย หนึ่งการพบพาน",
    "vi": "Sadō Nhật Bản — Một chén trà, một lần gặp gỡ",
-   "ar": "السادو اليابانية — كوب واحد ولقاء واحد"
+   "ar": "السادو اليابانية — كوب واحد ولقاء واحد",
+   "ind": "Sadō Jepang — Satu Cangkir, Satu Pertemuan"
   }
  },
  {
@@ -825,6 +885,24 @@ window.TEAFaiCulture = [
      "h": "إبريق زيشا صغير ورشفات مركزة",
      "p": "تستخدم كل من لاورين تشا وفن الشاي إبريقًا صغيرًا من طين الزيشا يُملأ بسخاء بالأوراق، ويُحضَّر في نقعات قصيرة متكررة. الأكواب صغيرة لكن كل رشفة مركزة، ومشاركة كيفية تغير النكهة عبر النقعات هي متعة الأولونغ التايواني."
     }
+   ],
+   "ind": [
+    {
+     "h": "Laoren cha, teh yang dibagi perlahan",
+     "p": "Laoren cha (老人茶, 'teh para tetua') adalah kebiasaan sehari-hari para orang tua yang berkumpul di bawah pohon atau atap untuk menyeduh oolong pekat dalam teko kecil dan membaginya perlahan. Kata 'tetua' mengandung sebuah sikap: teh tidak pernah diminum dengan tergesa-gesa."
+    },
+    {
+     "h": "Menjadi rumah seni teh",
+     "p": "Seiring pertumbuhan ekonomi Taiwan pada 1970-an dan 1980-an, kedai teh yang didedikasikan untuk teh — chayiguan — berkembang biak, dan cara laoren cha disempurnakan menjadi 'seni teh' yang formal. Kini kedai-kedai teh inilah tempat pengunjung paling sering merasakan oolong Taiwan."
+    },
+    {
+     "h": "Aroma dulu, dengan cangkir penghirup aroma",
+     "p": "Seni teh Taiwan dikenal karena menikmati aroma sebelum rasa. Teh yang diseduh dituangkan terlebih dahulu ke cangkir penghirup aroma tinggi (wenxiangbei), lalu dipindahkan ke cangkir minum; tamu kemudian mengangkat cangkir penghirup aroma yang sudah kosong dan menghirup keharuman yang tertinggal — sebuah cara untuk sepenuhnya menikmati aroma oolong yang kaya."
+    },
+    {
+     "h": "Teko zisha kecil, tegukan pekat",
+     "p": "Baik laoren cha maupun seni teh menggunakan teko tanah liat zisha kecil yang diisi daun dengan murah hati, diseduh dalam seduhan singkat berulang. Cangkirnya kecil tetapi setiap tegukan pekat, dan berbagi bagaimana rasa berubah di setiap seduhan adalah kegembiraan oolong Taiwan."
+    }
    ]
   },
   "cat": "ceremony",
@@ -844,7 +922,8 @@ window.TEAFaiCulture = [
    "hi": "ताइवान में बुज़ुर्ग कभी छोटी मिट्टी की केतलियों से तेज़ ऊलोंग साझा करने के लिए इकट्ठा होते थे — यह प्रथा 'लाओरेन चा' कहलाती थी और वही आज के चाय-कला घरों में विकसित हुई। खुशबू कप का उपयोग करके खुशबू को पहले रखने वाले इस अनुष्ठान को जानिए।",
    "th": "ในไต้หวัน ครั้งหนึ่งผู้สูงอายุเคยรวมตัวกันแบ่งปันชาอู่หลงเข้มข้นจากดินเผาใบเล็ก ธรรมเนียมที่เรียกว่า เหลาเหรินฉา ซึ่งเติบโตกลายมาเป็นร้านศิลปะชาในปัจจุบัน มาทำความรู้จักพิธีที่ให้ความสำคัญกับกลิ่นก่อนรส โดยใช้ถ้วยดมกลิ่นกัน",
    "vi": "Ở Đài Loan, các bậc cao niên từng tụ họp để chia sẻ trà ô long đậm từ những chiếc ấm đất nhỏ xíu — một phong tục gọi là laoren cha, sau này phát triển thành các trà nghệ quán ngày nay. Hãy khám phá nghi thức ưu tiên hương thơm bằng chén ngửi hương.",
-   "ar": "في تايوان، كان كبار السن يجتمعون يومًا ليتشاركوا أولونغ قويًا من أباريق طينية صغيرة — عادة تسمى لاورين تشا نمت لتصبح بيوت فن الشاي اليوم. اكتشف طقس تقديم الرائحة أولًا باستخدام كوب العبير."
+   "ar": "في تايوان، كان كبار السن يجتمعون يومًا ليتشاركوا أولونغ قويًا من أباريق طينية صغيرة — عادة تسمى لاورين تشا نمت لتصبح بيوت فن الشاي اليوم. اكتشف طقس تقديم الرائحة أولًا باستخدام كوب العبير.",
+   "ind": "Di Taiwan, para tetua dulu berkumpul untuk berbagi oolong pekat dari teko tanah liat kecil — kebiasaan yang disebut laoren cha yang tumbuh menjadi rumah seni teh masa kini. Temukan ritual mengutamakan aroma dengan cangkir penghirup aroma."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -856,7 +935,8 @@ window.TEAFaiCulture = [
    "hi": "ताइवानी चाय कला — लाओरेन चा से चायघर तक",
    "th": "ศิลปะชาไต้หวัน — จากเหลาเหรินฉาสู่ร้านน้ำชา",
    "vi": "Trà nghệ Đài Loan — Từ Laoren Cha đến trà quán",
-   "ar": "فن الشاي التايواني — من لاورين تشا إلى بيت الشاي"
+   "ar": "فن الشاي التايواني — من لاورين تشا إلى بيت الشاي",
+   "ind": "Seni Teh Taiwan — Dari Laoren Cha hingga Kedai Teh"
   }
  },
  {
@@ -1080,6 +1160,28 @@ window.TEAFaiCulture = [
      "h": "طاولات مشتركة وصخب سعيد",
      "p": "في وقت الغداء، من الطبيعي تمامًا مشاركة طاولة مع غرباء — داب توي (搭枱). تُنادى الطلبات باختصارات، وتصل الأطباق في دقائق، ولا يطيل أحد البقاء. قد يبدو الأمر محمومًا في البداية، لكن تلك السرعة والضجة المبهجة هي بالضبط المشهد الذي يستمتع به أهل هونغ كونغ كل يوم."
     }
+   ],
+   "ind": [
+    {
+     "h": "Apa itu cha chaan teng?",
+     "p": "Cha chaan teng adalah kedai makan sehari-hari yang ditemukan di setiap sudut Hong Kong. Ia tumbuh dari bing sutt (冰室), toko yang menjual minuman es dan camilan Barat sederhana, dan setelah Perang Dunia Kedua menjadi tempat makanan Barat cepat dan murah yang dibuat ulang dengan gaya Hong Kong. Roti panggang dan teh susu saat sarapan, mi goreng saat makan siang — inilah kehidupan sehari-hari Hong Kong yang tersaji di meja."
+    },
+    {
+     "h": "Teh susu 'stoking sutra'",
+     "p": "Wajah cha chaan teng adalah teh susu Hong Kong. Beberapa teh hitam dicampur dan diseduh pekat, lalu disaring berulang kali melalui kantong kain panjang yang tampak seperti stoking, yang membuat tehnya sehalus sutra. Susu evaporasi atau susu kental manis memberinya kekentalan dan kekayaan rasa, dan kantong saringan itu memberinya julukan 'teh susu stoking sutra' (絲襪奶茶)."
+    },
+    {
+     "h": "Yuanyang dan teh lemon es",
+     "p": "Yuanyang (鴛鴦), campuran kopi dan teh susu yang dinamai dari bebek mandarin yang berpasangan seumur hidup, adalah minuman khas kedai ini lainnya. Teh lemon es (凍檸茶) — teh hitam di atas es dengan irisan lemon — sama pentingnya. Menusuk lemon dengan sedotan untuk mengeluarkan sarinya dan menyesuaikan rasa adalah bagian dari ritual Hong Kong."
+    },
+    {
+     "h": "Apa yang dimakan bersama teh Anda",
+     "p": "Roti nanas (菠蘿包) sama sekali tidak mengandung nanas; keraknya yang retak-retak hanya menyerupai nanas, dan disajikan dengan sepotong mentega dingin di dalamnya, ia menjadi bo lo yau yang tercinta. Roti panggang ala Prancis Hong Kong (西多士), digoreng dalam minyak banyak dan dilumuri sirup, serta sup makaroni dengan ham adalah menu sarapan tetap. Teh susu pekat dengan sesuatu yang manis dan hangat dari oven adalah paduan klasik cha chaan teng."
+    },
+    {
+     "h": "Meja bersama dan keramaian yang gembira",
+     "p": "Saat makan siang, berbagi meja dengan orang asing — dap toi (搭枱) — adalah hal yang sangat biasa. Pesanan diteriakkan dalam singkatan, hidangan tiba dalam hitungan menit, dan tidak ada yang berlama-lama. Awalnya bisa terasa terburu-buru, tetapi kecepatan dan keriuhan yang ceria itulah persis pemandangan yang dinikmati orang Hong Kong setiap hari."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1098,7 +1200,8 @@ window.TEAFaiCulture = [
    "hi": "हांगकांग के चा चान टेंग भोजनालयों में तेज़ दूध वाली चाय, कॉफ़ी-चाय युआनयांग और पाइनएप्पल बन — शहर की चाय संस्कृति का एक तेज़, जीवंत परिचय।",
    "th": "ชานมเข้มข้น หยวนหยางที่ผสมกาแฟกับชา และขนมปังสับปะรด ที่ร้านอาหารตามสั่งแบบฮ่องกงที่เรียกว่า ฉาฉานเท้ง — บทนำสู่วัฒนธรรมชาของเมืองนี้ที่รวดเร็วและคึกคัก",
    "vi": "Trà sữa đậm, yuanyang cà phê-trà và bánh dứa tại các quán ăn cha chaan teng của Hồng Kông — một giới thiệu nhanh và sôi động về văn hóa trà của thành phố.",
-   "ar": "شاي حليب قوي، ويوانيانغ من القهوة والشاي، وكعك الأناناس في مطاعم تشا تشان تينغ في هونغ كونغ — مقدمة سريعة وحيوية لثقافة الشاي في المدينة."
+   "ar": "شاي حليب قوي، ويوانيانغ من القهوة والشاي، وكعك الأناناس في مطاعم تشا تشان تينغ في هونغ كونغ — مقدمة سريعة وحيوية لثقافة الشاي في المدينة.",
+   "ind": "Teh susu pekat, yuanyang kopi-teh, dan roti nanas di kedai cha chaan teng Hong Kong — pengantar yang cepat dan meriah tentang budaya teh kota ini."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -1110,7 +1213,8 @@ window.TEAFaiCulture = [
    "hi": "हांगकांग के चा चान टेंग और दूध वाली चाय",
    "th": "ฉาฉานเท้งและชานมของฮ่องกง",
    "vi": "Cha Chaan Teng Hồng Kông và Trà Sữa",
-   "ar": "تشا تشان تينغ في هونغ كونغ وشاي الحليب"
+   "ar": "تشا تشان تينغ في هونغ كونغ وشاي الحليب",
+   "ind": "Cha Chaan Teng Hong Kong dan Teh Susu"
   }
  },
  {
@@ -1294,6 +1398,24 @@ window.TEAFaiCulture = [
      "h": "استراحة الشاي اليومية",
      "p": "بمعزل عن شاي ما بعد الظهيرة الرسمي، تتشابك استراحة الشاي القصيرة مع الحياة اليومية البريطانية. فإيقاف العمل لتناول كوب من شاي الأكياس مع الحليب إشارة صغيرة إلى أن وقت الراحة قد حان. وتقديم كوب شاي للزائر أولًا هو أيضًا بادرة أساسية من الضيافة البريطانية."
     }
+   ],
+   "ind": [
+    {
+     "h": "Bagaimana teh sore bermula",
+     "p": "Di Inggris pada pertengahan abad ke-19, kebiasaan menikmati teh dengan makanan ringan di antara makan siang dan makan malam yang larut menyebar di kalangan masyarakat aristokrat, dan inilah yang dikatakan sebagai asal mula teh sore. Teh hitam diseduh pekat dalam teko, dituangkan ke cangkir, dan diakhiri dengan susu dan gula sesuai selera. Seduhan bersusu yang kuat ini menjadi cara khas Inggris dalam minum teh."
+    },
+    {
+     "h": "Tiga tingkat, sesuai urutan",
+     "p": "Di hotel dan ruang teh, teh sore biasanya tiba di atas penyangga tiga tingkat. Urutan yang biasa adalah memulai dengan roti lapis gurih seperti mentimun di tingkat bawah, beralih ke skon dengan krim beku dan selai di tengah, dan mengakhiri dengan kue dan pastri kecil di atas. Apakah krim atau selai yang dioleskan lebih dulu pada skon adalah persaingan regional yang bersahabat itu sendiri."
+    },
+    {
+     "h": "Susu dulu, atau teh dulu?",
+     "p": "Inggris memiliki perdebatan lama yang bersahabat tentang apakah susu harus masuk ke cangkir sebelum teh atau sesudahnya. Menuang susu lebih dulu dikatakan melindungi cangkir porselen yang halus dari kejutan teh panas. Tidak ada cara yang salah; setiap rumah tangga hanya memiliki kebiasaannya sendiri."
+    },
+    {
+     "h": "Jeda teh sehari-hari",
+     "p": "Terpisah dari teh sore formal, jeda teh singkat terjalin dalam kehidupan sehari-hari Inggris. Menghentikan pekerjaan untuk semug teh celup dengan susu adalah tanda kecil bahwa sudah waktunya beristirahat. Menawarkan secangkir teh terlebih dahulu kepada pengunjung juga merupakan isyarat dasar keramahtamahan Inggris."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1313,7 +1435,8 @@ window.TEAFaiCulture = [
    "hi": "केतली में बनाई गई तेज़ काली चाय, दूध और चीनी के साथ परोसी गई, और सैंडविच, स्कोन और केक का तीन मंज़िला अनुष्ठान — साथ ही रोज़मर्रा का चाय विराम।",
    "th": "ชาดำเข้มข้นที่ชงในกา เสิร์ฟพร้อมนมและน้ำตาล และพิธีสามชั้นของแซนด์วิช สโคน และเค้ก — พร้อมด้วยช่วงพักดื่มชาในชีวิตประจำวัน",
    "vi": "Trà đen đậm pha trong ấm, dùng với sữa và đường, cùng nghi thức ba tầng gồm bánh sandwich, scone và bánh ngọt — cộng thêm giờ nghỉ uống trà thường ngày.",
-   "ar": "شاي أسود قوي يُحضَّر في إبريق ويُقدَّم مع الحليب والسكر، وطقس المستويات الثلاثة من السندويشات والسكونز والكعك — إضافة إلى استراحة الشاي اليومية."
+   "ar": "شاي أسود قوي يُحضَّر في إبريق ويُقدَّم مع الحليب والسكر، وطقس المستويات الثلاثة من السندويشات والسكونز والكعك — إضافة إلى استراحة الشاي اليومية.",
+   "ind": "Teh hitam pekat yang diseduh dalam teko, disajikan dengan susu dan gula, serta ritual tiga tingkat berisi roti lapis, skon, dan kue — ditambah jeda teh sehari-hari."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -1325,7 +1448,8 @@ window.TEAFaiCulture = [
    "hi": "ब्रिटिश अपराह्न चाय",
    "th": "ชายามบ่ายของอังกฤษ",
    "vi": "Trà Chiều Anh Quốc",
-   "ar": "شاي ما بعد الظهيرة البريطاني"
+   "ar": "شاي ما بعد الظهيرة البريطاني",
+   "ind": "Teh Sore ala Inggris"
   }
  },
  {
@@ -1509,6 +1633,24 @@ window.TEAFaiCulture = [
      "h": "مشروب يدير اليوم",
      "p": "من أول كوب يفتتح الصباح إلى استراحات العمل واستقبال الضيوف، يجلس التشاي داخل إيقاع اليوم. وتقديم التشاي لشخص ما هو أكثر تعبيرات الضيافة يومية في الهند. قوي وحلو، ورشفة واحدة منه توقظك وتبدأ الأحاديث — مشروب في قلب الحياة الهندية."
     }
+   ],
+   "ind": [
+    {
+     "h": "Dibuat dengan merebus, bukan menyeduh",
+     "p": "Masala chai tidak dibuat dengan menyeduh daun dalam air panas. Sebaliknya, teh hitam, gula, dan rempah direbus bersama dalam panci dengan air dan susu. Saat mendidih perlahan, aroma rempah dan kekuatan teh meresap ke dalam susu, menghasilkan secangkir minuman yang manis dan kaya. Setiap rumah dan warung memiliki campuran rempah yang sedikit berbeda, dan rasanya sendiri."
+    },
+    {
+     "h": "Masala: campuran rempah",
+     "p": "\"Masala\" berarti campuran rempah, dan yang paling sering digunakan dalam chai adalah kapulaga, jahe, kayu manis, cengkih, dan lada hitam. Rempah-rempah penghangat ini bertemu susu yang kaya untuk memberikan minuman yang terasa mengenyangkan dan menenangkan. Banyak keluarga membuat chai yang kaya jahe ketika ada anggota keluarga yang sedang pilek."
+    },
+    {
+     "h": "Chaiwala di pinggir jalan",
+     "p": "Di jalanan dan stasiun kereta di seluruh India, Anda akan menemukan chaiwala merebus chai dalam panci kecil di mana pun Anda pergi. Chai disajikan dalam gelas kecil atau cangkir tanah liat sekali pakai, dan orang-orang berhenti untuk menghabiskan secangkir sambil berdiri, beberapa kali sehari. Cara India adalah porsi kecil, sering."
+    },
+    {
+     "h": "Minuman yang menggerakkan hari",
+     "p": "Dari cangkir pertama yang membuka pagi hingga jeda kerja dan menyambut tamu, chai berada di dalam irama hari. Menawarkan chai kepada seseorang adalah ungkapan keramahtamahan paling sehari-hari di India. Kuat dan manis, satu tegukan membangunkan Anda dan memulai percakapan — minuman di pusat kehidupan India."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1528,7 +1670,8 @@ window.TEAFaiCulture = [
    "hi": "भारत का प्रिय पेय: काली चाय को दूध, चीनी और इलायची व अदरक जैसे मसालों के साथ उबालकर बनाया जाता है, और गली-किनारे के चायवाले दिन भर छोटे कपों में परोसते हैं।",
    "th": "เครื่องดื่มอันเป็นที่รักของอินเดีย: ชาดำเคี่ยวกับนม น้ำตาล และเครื่องเทศอย่างกระวานและขิง เสิร์ฟในถ้วยเล็ก ๆ โดยจายวาลาริมถนนตลอดทั้งวัน",
    "vi": "Thức uống được yêu thích của Ấn Độ: trà đen đun sôi cùng sữa, đường và các gia vị như bạch đậu khấu và gừng, được các chaiwala ven đường phục vụ trong những chiếc cốc nhỏ suốt cả ngày.",
-   "ar": "مشروب الهند المحبوب: شاي أسود يُغلى مع الحليب والسكر وتوابل مثل الهيل والزنجبيل، ويُقدَّم في أكواب صغيرة لدى باعة التشاي على الأرصفة طوال اليوم."
+   "ar": "مشروب الهند المحبوب: شاي أسود يُغلى مع الحليب والسكر وتوابل مثل الهيل والزنجبيل، ويُقدَّم في أكواب صغيرة لدى باعة التشاي على الأرصفة طوال اليوم.",
+   "ind": "Minuman tercinta India: teh hitam yang direbus bersama susu, gula, dan rempah seperti kapulaga dan jahe, disajikan dalam cangkir kecil oleh chaiwala di pinggir jalan sepanjang hari."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -1540,7 +1683,8 @@ window.TEAFaiCulture = [
    "hi": "भारत का मसाला चाय",
    "th": "มาซาลาจายของอินเดีย",
    "vi": "Masala Chai của Ấn Độ",
-   "ar": "تشاي الماسالا الهندي"
+   "ar": "تشاي الماسالا الهندي",
+   "ind": "Masala Chai India"
   }
  },
  {
@@ -1724,6 +1868,24 @@ window.TEAFaiCulture = [
      "h": "رمز للضيافة",
      "p": "سواء كنت تشتري شيئًا في محل، أو تزور مكتبًا، أو تصل إلى بيت أحدهم لأول مرة، يظهر كوب شاي أولًا. تقديم الشاي هو أبسط ترحيب والإشارة لبدء الحديث — كوب صغير ساخن يصل الناس ببعضهم."
     }
+   ],
+   "ind": [
+    {
+     "h": "Çaydanlık: teko dua tingkat",
+     "p": "Teh Turki dibuat dalam çaydanlık, sepasang ceret bertumpuk. Air mendidih di panci bawah; sebagian air itu membasahi daun di panci atas yang lebih kecil, yang kemudian menyeduh perlahan dalam uap menjadi konsentrat pekat. Konsentrat dituangkan ke gelas dan ditambah air panas dari panci bawah, sehingga setiap peminum dapat menyesuaikan kekuatan sesuai selera."
+    },
+    {
+     "h": "Gelas tulip tanpa pegangan",
+     "p": "Teh disajikan dalam gelas kecil tanpa pegangan. Bentuknya yang berpinggang menyerupai tulip menonjolkan warna merah tua teh, dan kaca tipisnya terasa segar di bibir. Gula biasanya datang sebagai gula batu di samping, bukan diadukkan untuk Anda, lengkap dengan tatakan dan sendok kecil."
+    },
+    {
+     "h": "Bangsa teh paling haus di dunia",
+     "p": "Turki termasuk negara dengan konsumsi teh per orang tertinggi di dunia. Wilayah Rize di pantai Laut Hitam adalah daerah penanaman tehnya yang paling terkenal dan memasok sebagian besar teh yang diminum di rumah. Di banyak rumah tangga, ceret tetap menyala di atas kompor dari sarapan hingga larut malam."
+    },
+    {
+     "h": "Simbol keramahtamahan",
+     "p": "Baik Anda membeli sesuatu di toko, mengunjungi kantor, atau tiba di rumah seseorang untuk pertama kali, segelas teh muncul lebih dulu. Menawarkan teh adalah sambutan paling mendasar dan tanda bagi percakapan untuk dimulai — segelas kecil panas yang menghubungkan orang-orang."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1742,7 +1904,8 @@ window.TEAFaiCulture = [
    "hi": "दो मंज़िला चायदानलिक में तेज़ बनाई गई चाय, गर्म पानी से अपने स्वाद अनुसार ढाली गई, और बिना हैंडल वाले ट्यूलिप गिलासों में चीनी के टुकड़ों के साथ परोसी गई — उस देश में मेहमाननवाज़ी, जहाँ प्रति व्यक्ति चाय की खपत दुनिया में सबसे अधिक है।",
    "th": "ชาที่ชงเข้มข้นในไชดันลึกแบบสองชั้นที่วางซ้อนกัน ปรับความเข้มด้วยน้ำร้อน และเสิร์ฟพร้อมน้ำตาลก้อนในแก้วทรงทิวลิปไม่มีหูจับ — การต้อนรับของประเทศที่มีการบริโภคชาต่อคนสูงที่สุดในโลก",
    "vi": "Trà pha đậm trong çaydanlık xếp chồng, điều chỉnh bằng nước nóng, và phục vụ với đường viên trong ly tulip không quai — lòng hiếu khách ở đất nước có mức tiêu thụ trà bình quân đầu người cao nhất thế giới.",
-   "ar": "شاي يُحضَّر قويًا في تشاي دانليك متراكب، ويُضبط بالماء الساخن، ويُقدَّم مع مكعبات السكر في أكواب زجاجية على شكل زهرة التوليب بلا مقابض — ضيافة في بلد لديه أعلى استهلاك للشاي للفرد في العالم."
+   "ar": "شاي يُحضَّر قويًا في تشاي دانليك متراكب، ويُضبط بالماء الساخن، ويُقدَّم مع مكعبات السكر في أكواب زجاجية على شكل زهرة التوليب بلا مقابض — ضيافة في بلد لديه أعلى استهلاك للشاي للفرد في العالم.",
+   "ind": "Teh yang diseduh pekat dalam çaydanlık bertumpuk, disesuaikan dengan air panas, dan disajikan dengan gula batu dalam gelas tulip tanpa pegangan — keramahtamahan di negara dengan konsumsi teh per orang tertinggi di dunia."
   },
   "title": {
    "en": "Turkish Çay",
@@ -1754,7 +1917,8 @@ window.TEAFaiCulture = [
    "hi": "तुर्की चाय",
    "th": "ชาตุรกี (ไช)",
    "vi": "Çay Thổ Nhĩ Kỳ",
-   "ar": "الشاي التركي (تشاي)"
+   "ar": "الشاي التركي (تشاي)",
+   "ind": "Çay Turki"
   }
  },
  {
@@ -1938,6 +2102,24 @@ window.TEAFaiCulture = [
      "h": "ضيافة طوال اليوم",
      "p": "يظهر الأتاي لا للضيوف فقط بل في وجبات العائلة، وأثناء المساومة في المحلات، وعبر أحاديث طويلة مع الأصدقاء. وعادة يحضّر الشاي ويسكبه رب البيت أو المضيف، لأن صنعه بنفسك علامة احترام. في المغرب، إبريق شاي هو دعوة للدخول والراحة."
     }
+   ],
+   "ind": [
+    {
+     "h": "Teh hijau dengan mint dan gula",
+     "p": "Atay Maroko biasanya dibuat dengan teh hijau gunpowder Tiongkok sebagai dasar, diseduh dalam teko bersama daun mint segar dan gula dalam jumlah banyak. Rasanya adalah paduan keharuman mint yang sejuk dan rasa manis yang kuat, diminum bersama makanan atau sesudahnya sebagai penyegar. Ia disajikan dalam gelas kecil berhias."
+    },
+    {
+     "h": "Tuangan tinggi dan busa",
+     "p": "Atay dituang dengan teko dipegang tinggi di atas gelas, dalam aliran tipis. Ini melipat udara ke dalam teh sehingga busa halus menetap di atasnya, dan busa yang baik adalah tanda teko yang dibuat dengan baik. Tuangan tinggi itu sendiri adalah pertunjukan kecil untuk tamu — ungkapan kepedulian."
+    },
+    {
+     "h": "Tiga gelas untuk tamu",
+     "p": "Maroko dikenal dengan kebiasaan menawarkan hingga tiga gelas teh kepada tamu. Waktu yang dihabiskan untuk minum teh adalah waktu yang dihabiskan untuk disambut, sehingga menghabiskan satu gelas dan langsung pergi bisa melewatkan inti ritual ini. Sebuah pepatah melekatkan makna pada ketiga gelas itu — kelembutan seperti kehidupan, kekuatan seperti cinta, kepahitan seperti kematian."
+    },
+    {
+     "h": "Keramahtamahan sepanjang hari",
+     "p": "Atay muncul tidak hanya untuk tamu tetapi juga saat makan keluarga, saat tawar-menawar di toko, dan dalam percakapan panjang dengan teman. Teh biasanya disiapkan dan dituangkan oleh kepala rumah tangga atau tuan rumah, karena membuatnya sendiri adalah tanda penghormatan. Di Maroko, seteko teh adalah undangan untuk masuk dan beristirahat."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1956,7 +2138,8 @@ window.TEAFaiCulture = [
    "hi": "ताज़े पुदीने और चीनी के साथ हरी चाय, झाग उठाने के लिए ऊँचाई से डाली गई — मोरक्को का स्वागत अनुष्ठान, जो मेहमान को दिए जाने वाले तीन गिलासों के लिए प्रसिद्ध है।",
    "th": "ชาเขียวกับมินต์สดและน้ำตาล รินจากที่สูงให้เกิดฟอง — พิธีแห่งการต้อนรับของโมร็อกโก มีชื่อเสียงจากชาสามแก้วที่มอบให้แขก",
    "vi": "Trà xanh với bạc hà tươi và đường, rót từ trên cao để tạo lớp bọt — nghi thức chào đón của Maroc, nổi tiếng với ba ly trà mời khách.",
-   "ar": "شاي أخضر مع نعناع طازج وسكر، يُسكب من ارتفاع لرفع رغوة — طقس الترحيب المغربي، المشهور بالأكواب الثلاثة المقدمة للضيف."
+   "ar": "شاي أخضر مع نعناع طازج وسكر، يُسكب من ارتفاع لرفع رغوة — طقس الترحيب المغربي، المشهور بالأكواب الثلاثة المقدمة للضيف.",
+   "ind": "Teh hijau dengan mint segar dan gula, dituang dari ketinggian untuk membangkitkan busa — ritual penyambutan Maroko, terkenal dengan tiga gelas yang ditawarkan kepada tamu."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -1968,7 +2151,8 @@ window.TEAFaiCulture = [
    "hi": "मोरक्कन अताय",
    "th": "อาเตย์ของโมร็อกโก",
    "vi": "Atay Maroc",
-   "ar": "الأتاي المغربي"
+   "ar": "الأتاي المغربي",
+   "ind": "Atay Maroko"
   }
  },
  {
@@ -2152,6 +2336,24 @@ window.TEAFaiCulture = [
      "h": "الساموفار على السكك",
      "p": "في بلد شاسع مثل روسيا، كانت القطارات طويلة المسافات جزءًا من الحياة، وكان الشاي رفيقها. في القطارات، كان الشاي يُقدَّم في أكواب موضوعة في حوامل معدنية تسمى بودستاكانيك، حتى لا ينسكب المشروب مع اهتزاز العربة — صورة أصبحت أيقونية. وحتى اليوم، يريح كوب شاي ساخن الركاب في رحلات روسيا الطويلة بالقطار."
     }
+   ],
+   "ind": [
+    {
+     "h": "Samovar: ceret yang mendidih sendiri",
+     "p": "Samovar adalah bejana logam yang mendidihkan air dan menjaganya tetap panas; namanya sendiri mengandung arti Rusia \"mendidih sendiri.\" Secara tradisional ia dinyalakan dengan kayu atau arang; kini versi listrik sudah umum. Dengan samovar di tengah meja, keluarga dan tamu berkumpul di sekelilingnya dan menghabiskan waktu berjam-jam sambil minum teh."
+    },
+    {
+     "h": "Zavarka: konsentrat pekat, diencerkan",
+     "p": "Metode Rusia dimulai dengan zavarka — daun teh yang diseduh sangat pekat dalam teko kecil menjadi konsentrat. Untuk menyajikan, Anda menuang sedikit zavarka ke dalam cangkir dan menambahnya dengan air panas dari samovar, menyesuaikan kekuatan dengan selera Anda sendiri. Seduh sekali, dan banyak orang dapat menikmati teh selama berjam-jam, masing-masing pada kekuatan yang disukai."
+    },
+    {
+     "h": "Selai, dan gula di antara gigi",
+     "p": "Orang Rusia secara tradisional mengambil sesendok selai (varenye) bersama teh mereka, atau mengaduknya ke dalam. Kebiasaan yang lebih tua adalah menahan gula batu di antara gigi dan menyeruput teh melaluinya, membiarkan rasa manis meresap sedikit demi sedikit. Pahit dan manis dinikmati bersama, dalam dosis kecil — budaya teh yang dibentuk oleh negara yang dingin."
+    },
+    {
+     "h": "Samovar di atas rel",
+     "p": "Di negara seluas Rusia, kereta jarak jauh adalah bagian dari kehidupan, dan teh adalah pendampingnya. Di kereta, teh disajikan dalam gelas yang diletakkan dalam dudukan logam yang disebut podstakannik, agar minuman tidak tumpah saat gerbong bergoyang — citra yang menjadi ikonik. Bahkan hingga kini, segelas teh panas menghibur penumpang dalam perjalanan rel panjang Rusia."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2170,7 +2372,8 @@ window.TEAFaiCulture = [
    "hi": "समोवार में उबलता रहता पानी, स्वाद के अनुसार पतला किया गया गाढ़ा ज़ावर्का काढ़ा — जैम के साथ, दाँतों के बीच चीनी का टुकड़ा रखकर, और लंबी रेल यात्राओं का साथी समोवार — यही है रूस की चाय शैली।",
    "th": "น้ำที่เดือดอยู่ตลอดในซาโมวาร์ ชาแก่เข้มข้นซาวาร์กาที่เจือจางตามชอบ — วิถีชาของรัสเซีย มีแยมเคียงข้าง ก้อนน้ำตาลคาบไว้ระหว่างฟัน และซาโมวาร์ที่เป็นเพื่อนคู่การเดินทางไกลด้วยรถไฟ",
    "vi": "Nước luôn sôi trong samovar, nước cốt trà đặc zavarka được pha loãng theo khẩu vị — cách uống trà của người Nga, với mứt ăn kèm, viên đường ngậm giữa hai hàm răng, và chiếc samovar đồng hành trên những chuyến tàu dài.",
-   "ar": "ماء يبقى يغلي في ساموفار، ومركز زافاركا قوي يُخفف حسب الذوق — طريقة روسيا في الشاي، مع المربى على الجانب، ومكعبات سكر بين الأسنان، والساموفار رفيق رحلات القطارات الطويلة."
+   "ar": "ماء يبقى يغلي في ساموفار، ومركز زافاركا قوي يُخفف حسب الذوق — طريقة روسيا في الشاي، مع المربى على الجانب، ومكعبات سكر بين الأسنان، والساموفار رفيق رحلات القطارات الطويلة.",
+   "ind": "Air yang terus mendidih dalam samovar, konsentrat zavarka pekat yang diencerkan sesuai selera — cara minum teh Rusia, dengan selai di samping, gula batu di antara gigi, dan samovar sebagai pendamping perjalanan kereta yang panjang."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -2182,7 +2385,8 @@ window.TEAFaiCulture = [
    "hi": "रूस का समोवार",
    "th": "ซาโมวาร์ของรัสเซีย",
    "vi": "Chiếc Samovar của Nga",
-   "ar": "الساموفار الروسي"
+   "ar": "الساموفار الروسي",
+   "ind": "Samovar Rusia"
   }
  },
  {
@@ -2199,7 +2403,8 @@ window.TEAFaiCulture = [
    "hi": "गाइवान का उपयोग कैसे करें — ढक्कन, कटोरे और तश्तरी से चाय बनाना",
    "th": "วิธีใช้ไก้หว่าน — ชงชาด้วยฝา ชาม และจานรอง",
    "vi": "Cách Dùng Gaiwan — Pha Trà với Nắp, Chén và Đĩa",
-   "ar": "كيفية استخدام الغايوان — التحضير بغطاء ووعاء وصحن"
+   "ar": "كيفية استخدام الغايوان — التحضير بغطاء ووعاء وصحن",
+   "ind": "Cara Menggunakan Gaiwan — Menyeduh dengan Tutup, Mangkuk, dan Tatakan"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -2211,7 +2416,8 @@ window.TEAFaiCulture = [
    "hi": "गाइवान — एक ढक्कन, एक कटोरा और एक तश्तरी — चीनी चाय का सबसे बुनियादी बर्तन है। इसे पकड़ने के तरीके से लेकर ज़्यादा गरम लगने पर क्या करें, यह मार्गदर्शिका पहली बार उपयोग करने वालों को हर कदम समझाती है।",
    "th": "ไก้หว่าน — ฝา ชาม และจานรอง — คือภาชนะพื้นฐานที่สุดของชาจีน คู่มือนี้จะพาผู้ใช้ครั้งแรกไปทีละขั้นตอน ตั้งแต่วิธีจับไปจนถึงวิธีแก้เมื่อร้อนมือ",
    "vi": "Gaiwan — gồm nắp, chén và đĩa — là dụng cụ cơ bản nhất trong trà đạo Trung Hoa. Từ cách cầm đến cách xử lý khi quá nóng, bài viết này hướng dẫn người mới dùng qua từng bước.",
-   "ar": "الغايوان — غطاء ووعاء وصحن — هو أبسط أواني الشاي الصينية. من كيفية إمساكه إلى ما تفعله عندما يبدو ساخنًا جدًا، يأخذ هذا الدليل المستخدمين لأول مرة عبر كل خطوة."
+   "ar": "الغايوان — غطاء ووعاء وصحن — هو أبسط أواني الشاي الصينية. من كيفية إمساكه إلى ما تفعله عندما يبدو ساخنًا جدًا، يأخذ هذا الدليل المستخدمين لأول مرة عبر كل خطوة.",
+   "ind": "Gaiwan — tutup, mangkuk, dan tatakan — adalah wadah paling dasar dalam teh Tiongkok. Dari cara memegangnya hingga apa yang dilakukan saat terasa terlalu panas, panduan ini menuntun pengguna pertama kali melalui setiap langkah."
   },
   "body": {
    "ko": [
@@ -2433,6 +2639,28 @@ window.TEAFaiCulture = [
      "h": "لماذا يناسب المبتدئين",
      "p": "الغايوان سهل الغسل، ولأنك تستطيع فتح الغطاء يمكنك مشاهدة الأوراق تتفتح أثناء التحضير. تتحكم في وقت النقع بحرية، ما يجعل من السهل العثور على النقطة المثالية لكل شاي. وهو أيضًا غير مكلف، ولهذا يوصى به كثيرًا كأول قطعة من أدوات الشاي."
     }
+   ],
+   "ind": [
+    {
+     "h": "Tiga bagian — langit, manusia, bumi",
+     "p": "Gaiwan memiliki tiga bagian: tutup, mangkuk, dan tatakan. Secara tradisional tutup dibandingkan dengan langit, tatakan dengan bumi, dan mangkuk di antara keduanya dengan manusia, itulah mengapa ia kadang disebut 'mangkuk tiga bakat.' Tutupnya juga memerangkap aroma, sehingga mengangkatnya setelah menyeduh dan mencium bagian dalam tutup adalah salah satu kenikmatan kecil menggunakan gaiwan."
+    },
+    {
+     "h": "Menyeduh, langkah demi langkah",
+     "p": "Pertama hangatkan gaiwan dengan air panas, buang air itu, dan masukkan daun teh. Tuangkan air segar, tutup dengan tutupnya, dan biarkan teh menyeduh sebentar; lalu singkirkan busa dari permukaan dengan tepi tutup. Jumlah daun bervariasi menurut teh, tetapi mengisi sekitar sepertiga gaiwan adalah tempat yang baik untuk memulai."
+    },
+    {
+     "h": "Menuang — celah pada tutup adalah kuncinya",
+     "p": "Miringkan tutup sedikit sehingga celah kecil terbuka untuk teh mengalir keluar. Pegang tepi mangkuk di antara ibu jari dan jari tengah Anda, dan tekan bagian atas tutup dengan lembut menggunakan jari telunjuk agar tetap pada tempatnya. Miringkan pergelangan tangan Anda dan hanya cairan yang mengalir keluar, sementara tutup menahan daun. Jika celahnya terlalu lebar, daun ikut keluar juga, jadi pertahankan sempit pada awalnya."
+    },
+    {
+     "h": "Saat terasa terlalu panas",
+     "p": "Jika gaiwan terlalu panas untuk dipegang, biasanya Anda mengisinya terlalu penuh. Isi hanya sampai sekitar delapan persepuluh, dan jika masih panas, angkat dan pindahkan dengan tatakannya. Gaiwan yang tepinya sedikit melebar ke luar tetap lebih dingin di tempat jari Anda menyentuh, yang menjadikannya pilihan yang ramah untuk pemula."
+    },
+    {
+     "h": "Mengapa cocok untuk pemula",
+     "p": "Gaiwan mudah dicuci, dan karena Anda dapat membuka tutupnya, Anda dapat menyaksikan daun mengembang saat menyeduh. Anda mengendalikan waktu seduh dengan bebas, yang memudahkan menemukan titik manis setiap teh. Ia juga tidak mahal, itulah mengapa ia begitu sering direkomendasikan sebagai peralatan teh pertama."
+    }
    ]
   },
   "related": [
@@ -2454,7 +2682,8 @@ window.TEAFaiCulture = [
    "hi": "चायदानी और कप चुनना — सामग्री कैसे स्वाद बदलती है",
    "th": "การเลือกกาน้ำชาและถ้วย — วัสดุเปลี่ยนรสชาติอย่างไร",
    "vi": "Chọn Ấm và Chén — Chất Liệu Làm Thay Đổi Hương Vị",
-   "ar": "اختيار إبريق الشاي والأكواب — كيف تغيّر المادة المذاق"
+   "ar": "اختيار إبريق الشاي والأكواب — كيف تغيّر المادة المذاق",
+   "ind": "Memilih Teko dan Cangkir — Bagaimana Bahan Mengubah Rasa"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -2466,7 +2695,8 @@ window.TEAFaiCulture = [
    "hi": "चीनी मिट्टी, काँच, यीशिंग मिट्टी, लोहा — हर बर्तन-सामग्री अलग-अलग चायों के अनुकूल होती है। यह मार्गदर्शिका बताती है कि आकार और आकृति स्वाद को कैसे प्रभावित करते हैं, और शुरुआती लोगों के लिए एक समझदारी भरा पहला सेट सुझाती है।",
    "th": "กระเบื้อง แก้ว ดินอี๋ซิง เหล็ก — วัสดุของอุปกรณ์ชาแต่ละชนิดเหมาะกับชาต่างกัน คู่มือนี้อธิบายว่าขนาดและรูปทรงส่งผลต่อรสชาติอย่างไร พร้อมแนะนำชุดแรกที่เหมาะสมสำหรับผู้เริ่มต้น",
    "vi": "Sứ, thủy tinh, đất tử sa Nghi Hưng, sắt — mỗi chất liệu trà cụ hợp với những loại trà khác nhau. Bài viết này giải thích kích thước và hình dáng ảnh hưởng đến hương vị ra sao, và gợi ý một bộ đầu tiên hợp lý cho người mới.",
-   "ar": "الخزف والزجاج وطين ييشينغ والحديد — كل مادة من مواد أدوات الشاي تناسب أنواع شاي مختلفة. يشرح هذا الدليل كيف يؤثر الحجم والشكل في النكهة، ويقترح مجموعة أولى معقولة للمبتدئين."
+   "ar": "الخزف والزجاج وطين ييشينغ والحديد — كل مادة من مواد أدوات الشاي تناسب أنواع شاي مختلفة. يشرح هذا الدليل كيف يؤثر الحجم والشكل في النكهة، ويقترح مجموعة أولى معقولة للمبتدئين.",
+   "ind": "Porselen, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh cocok untuk teh yang berbeda. Panduan ini menjelaskan bagaimana ukuran dan bentuk memengaruhi rasa, dan menyarankan set pertama yang masuk akal untuk pemula."
   },
   "body": {
    "ko": [
@@ -2688,6 +2918,28 @@ window.TEAFaiCulture = [
      "h": "مجموعة أولى معقولة",
      "p": "ابدأ بغايوان خزفي أو إبريق خزفي صغير بحجم حوالي 100–150 مل وكوبين. تُظهر المادة المحايدة كل شاي كما هو، والعناية سهلة. ومع نمو اهتمامك، تصبح إضافة إبريق مخصص مثل ييشينغ لعائلة شاي واحدة جزءًا من المتعة."
     }
+   ],
+   "ind": [
+    {
+     "h": "Bahan, bagian satu — porselen dan kaca",
+     "p": "Porselen memiliki permukaan halus dan tidak berpori yang tidak menyerap aroma, sehingga satu wadah dapat melayani banyak teh berbeda tanpa membawa rasa sebelumnya. Itu menjadikannya pilihan teraman untuk pemula yang menyeduh sedikit dari segalanya. Kaca memungkinkan Anda menyaksikan warna cairan dan daun yang mengembang — indah untuk teh hijau dan teh bunga — tetapi ia kehilangan panas dengan cepat, sehingga teh cepat dingin."
+    },
+    {
+     "h": "Bahan, bagian dua — tanah liat Yixing dan besi",
+     "p": "Tanah liat Yixing (zisha) memiliki pori-pori halus yang secara bertahap menyerap aroma teh, dan teko yang terawat baik dikatakan membulatkan rasa satu keluarga teh dari waktu ke waktu. Karena ia menyerap aroma, yang terbaik adalah mendedikasikan satu teko untuk satu keluarga, misalnya hanya oolong. Ceret besi digunakan untuk mendidihkan air; ia menahan panas dengan baik dan sering dipuji karena memberi air rasa yang lebih lembut."
+    },
+    {
+     "h": "Bagaimana ukuran dan bentuk memengaruhi rasa",
+     "p": "Teko kecil menjaga rasio daun-air tetap tinggi dan memusatkan aroma, yang cocok untuk banyak seduhan singkat dalam penyeduhan gongfu. Teko besar menyeduh dalam jumlah banyak sekaligus untuk berbagi. Periksa juga bahwa cerat menuang dan berhenti dengan bersih dan tutupnya pas dengan rapat — ini sama pentingnya dengan bahannya."
+    },
+    {
+     "h": "Memilih cangkir",
+     "p": "Cangkir kecil berdinding tipis mengumpulkan aroma dan memungkinkan Anda merasakan suhu setiap tegukan. Bagian dalam yang putih menunjukkan warna teh yang sebenarnya, yang menambah kenikmatan mengenal suatu teh. Set gongfu kadang memasangkan cangkir aroma tinggi dengan cangkir cicip, tetapi satu cangkir sudah lebih dari cukup saat Anda memulai."
+    },
+    {
+     "h": "Set pertama yang masuk akal",
+     "p": "Mulailah dengan gaiwan porselen atau teko porselen kecil sekitar 100–150 ml dan dua cangkir. Bahan yang netral menunjukkan setiap teh apa adanya, dan perawatannya mudah. Seiring minat Anda tumbuh, menambahkan teko khusus seperti Yixing untuk satu keluarga teh menjadi bagian dari kesenangan."
+    }
    ]
   },
   "related": []
@@ -2706,7 +2958,8 @@ window.TEAFaiCulture = [
    "hi": "गोंगफ़ू चाय सेट — हर उपकरण के नाम और भूमिकाएँ",
    "th": "ชุดชากังฟู — ชื่อและหน้าที่ของอุปกรณ์แต่ละชิ้น",
    "vi": "Bộ Trà Công Phu — Tên Gọi và Vai Trò của Từng Dụng Cụ",
-   "ar": "مجموعة شاي غونغ فو — أسماء كل أداة وأدوارها"
+   "ar": "مجموعة شاي غونغ فو — أسماء كل أداة وأدوارها",
+   "ind": "Set Teh Gongfu — Nama dan Peran Setiap Alat"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -2718,7 +2971,8 @@ window.TEAFaiCulture = [
    "hi": "चाय ट्रे, समता घड़ा (गोंगदाओबेई), सुगंध कप और चखने का कप, चाय धारक और चाय सुई — यह मार्गदर्शिका गोंगफ़ू चाय मेज़ पर रखे हर उपकरण को समझाती है और दिखाती है कि घर पर इसका एक सरल संस्करण कैसे तैयार करें।",
    "th": "ถาดชา เหยือกแบ่งชา ถ้วยดมกลิ่นและถ้วยชิม ที่ตักใบชาและเข็มแคะชา — คู่มือนี้อธิบายอุปกรณ์แต่ละชิ้นบนโต๊ะชากังฟู และแสดงวิธีจัดชุดแบบง่าย ๆ ไว้ใช้ที่บ้าน",
    "vi": "Khay trà, chén tống, chén ngửi hương và chén thưởng trà, trà hà và kim trà — bài viết này giải thích từng dụng cụ trên bàn trà công phu và cho thấy cách bày một bộ đơn giản tại nhà.",
-   "ar": "صينية الشاي وإبريق العدالة وكوب الرائحة وكوب التذوق وحامل الشاي وإبرة الشاي — يشرح هذا الدليل كل أداة على طاولة شاي غونغ فو ويوضح كيفية تجميع نسخة بسيطة في البيت."
+   "ar": "صينية الشاي وإبريق العدالة وكوب الرائحة وكوب التذوق وحامل الشاي وإبرة الشاي — يشرح هذا الدليل كل أداة على طاولة شاي غونغ فو ويوضح كيفية تجميع نسخة بسيطة في البيت.",
+   "ind": "Nampan teh, teko keadilan, cangkir aroma dan cangkir cicip, tempat teh dan jarum teh — panduan ini menjelaskan setiap alat di meja teh gongfu dan menunjukkan cara menyusun versi sederhana di rumah."
   },
   "body": {
    "ko": [
@@ -2940,6 +3194,28 @@ window.TEAFaiCulture = [
      "h": "إعداد منزلي بسيط",
      "p": "لا حاجة لشراء كل شيء دفعة واحدة. صينية وغايوان أو إبريق صغير وإبريق صغير على طراز القشدة يقوم مقام إبريق العدالة وكوبان تكفي للاستمتاع بالتدفق الأساسي لشاي غونغ فو. أضف الأدوات واحدة تلو الأخرى، كلما شعرت بالحاجة إليها."
     }
+   ],
+   "ind": [
+    {
+     "h": "Apa itu teh gongfu",
+     "p": "Teh gongfu adalah gaya penyeduhan yang berkembang di Fujian dan Guangdong, Tiongkok. Ia menggunakan wadah kecil, daun dalam jumlah banyak, dan banyak seduhan singkat sehingga Anda dapat mengikuti bagaimana aroma berubah dari seduhan ke seduhan. 'Gongfu' berarti keterampilan yang diperoleh melalui waktu dan usaha — cocok untuk cara minum teh yang mencurahkan kepedulian pada satu cangkir."
+    },
+    {
+     "h": "Nampan teh dan teko keadilan",
+     "p": "Nampan teh (chapan) adalah papan tempat segala sesuatu diletakkan, dibuat dengan drainase sehingga air yang dituangkan ke peralatan teh mengalir turun ke penampungan di bawahnya. Itu memungkinkan Anda menghangatkan dan membilas wadah tepat di tempat Anda duduk. Teko keadilan (gongdaobei) adalah teko kecil yang menerima teh seduhan terlebih dahulu, meratakan kekuatannya sebelum dibagi ke cangkir-cangkir, sehingga cangkir pertama yang dituang terasa sama dengan yang terakhir."
+    },
+    {
+     "h": "Cangkir aroma dan cangkir cicip",
+     "p": "Cangkir aroma adalah cangkir tinggi dan sempit: teh dituangkan ke dalamnya terlebih dahulu, lalu dipindahkan ke cangkir cicip, dan Anda mencium keharuman yang tertinggal di cangkir aroma yang kosong. Cangkir cicip adalah yang benar-benar Anda gunakan untuk minum. Pasangan ini, yang dipopulerkan di Taiwan, adalah cara yang baik untuk menghargai aroma berlapis teh oolong."
+    },
+    {
+     "h": "Alat untuk menangani daun",
+     "p": "Tempat teh (chahe) adalah wadah kecil berbentuk sendok untuk menyajikan daun kering kepada tamu dan mengarahkannya ke dalam teko, sementara sendok teh (chaze) menakar dan memindahkan daun. Jarum teh membersihkan daun yang tersangkut di cerat, dan penjepit digunakan untuk menangani daun dan cangkir panas. Setiap alat kecil, tetapi bersama-sama mereka menjaga meja tetap rapi dan tidak tergesa-gesa."
+    },
+    {
+     "h": "Susunan sederhana di rumah",
+     "p": "Tidak perlu membeli semuanya sekaligus. Sebuah nampan, gaiwan atau teko kecil, teko kecil bergaya krimer sebagai pengganti teko keadilan, dan dua cangkir sudah cukup untuk menikmati alur dasar teh gongfu. Tambahkan alat satu per satu, saat Anda merasa membutuhkannya."
+    }
    ]
   },
   "related": [
@@ -2960,7 +3236,8 @@ window.TEAFaiCulture = [
    "hi": "चाय के छह प्रकार — एक पत्ती, कई चाय",
    "th": "ชาทั้งหกประเภท — ใบเดียว ชาหลากชนิด",
    "vi": "Sáu Loại Trà — Một Lá Trà, Nhiều Loại Trà",
-   "ar": "أنواع الشاي الستة — ورقة واحدة وشايات كثيرة"
+   "ar": "أنواع الشاي الستة — ورقة واحدة وشايات كثيرة",
+   "ind": "Enam Jenis Teh — Satu Daun, Banyak Teh"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -2972,7 +3249,8 @@ window.TEAFaiCulture = [
    "hi": "हरी चाय से लेकर गहरी चाय तक, हर असली चाय एक ही चाय पौधे की पत्ती से शुरू होती है। यह लेख बताता है कि ऑक्सीकरण और प्रसंस्करण उन्हें छह प्रकारों में कैसे बाँटते हैं — और हर्बल काढ़े, सख्ती से कहें तो, चाय क्यों नहीं हैं।",
    "th": "ตั้งแต่ชาเขียวไปจนถึงชาดำ ชาแท้ทุกชนิดเริ่มต้นจากใบของต้นชาต้นเดียวกัน บทความนี้อธิบายว่าการออกซิเดชันและการแปรรูปแบ่งชาออกเป็นหกประเภทได้อย่างไร และทำไมเครื่องดื่มสมุนไพรจึงไม่ใช่ 'ชา' ในความหมายที่เคร่งครัด",
    "vi": "Từ trà xanh đến hắc trà, mọi loại trà thực thụ đều bắt đầu từ lá của cùng một cây trà. Bài viết này giải thích quá trình oxy hóa và chế biến chia chúng thành sáu loại ra sao — và vì sao các loại đồ uống thảo mộc, nói một cách nghiêm ngặt, không phải là trà.",
-   "ar": "من الشاي الأخضر إلى الشاي الداكن، كل شاي حقيقي يبدأ كورقة من نبتة الشاي نفسها. يشرح هذا المقال كيف تقسمها الأكسدة والمعالجة إلى ستة أنواع — ولماذا لا تُعد المشروبات العشبية، بالمعنى الدقيق، شايًا."
+   "ar": "من الشاي الأخضر إلى الشاي الداكن، كل شاي حقيقي يبدأ كورقة من نبتة الشاي نفسها. يشرح هذا المقال كيف تقسمها الأكسدة والمعالجة إلى ستة أنواع — ولماذا لا تُعد المشروبات العشبية، بالمعنى الدقيق، شايًا.",
+   "ind": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun dari tanaman teh yang sama. Artikel ini menjelaskan bagaimana oksidasi dan pengolahan membaginya menjadi enam jenis — dan mengapa seduhan herbal, secara ketat, bukanlah teh."
   },
   "body": {
    "ko": [
@@ -3684,6 +3962,77 @@ window.TEAFaiCulture = [
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
      ]
     }
+   ],
+   "ind": [
+    {
+     "h": "Semua dari tanaman yang sama",
+     "p": "Teh yang tampak sama sekali berbeda — teh hijau, teh hitam, oolong — semua bermula di tempat yang sama: daun dari satu spesies, Camellia sinensis. Kultivar, tanah, dan musim petik semuanya membentuk rasa, tetapi yang menentukan menjadi jenis teh apa sehelai daun terutama adalah bagaimana ia diolah setelah panen."
+    },
+    {
+     "h": "Oksidasi adalah kuncinya",
+     "p": "Begitu sehelai daun dipetik, oksidasi dimulai saat senyawa di dalamnya bereaksi dengan udara. Teh hijau menghentikan ini sejak awal dengan mengukus atau menyangrai di wajan, menjaga karakter segar dan hijaunya; teh hitam digulung dan dioksidasi penuh, memberinya warna cokelat kemerahan dan rasa yang lebih dalam. Oolong berhenti di suatu tempat di tengah, itulah mengapa ia disebut teroksidasi sebagian."
+    },
+    {
+     "h": "Enam jenis sekilas",
+     "p": "Teh putih adalah yang paling sedikit diolah — kuncup muda cukup dilayukan dan dikeringkan, sehingga ia hanya teroksidasi sedikit. Teh kuning dibuat mirip teh hijau tetapi menambahkan langkah menumpuk daun yang lembap, yang melembutkan rasanya. Teh gelap melewati fermentasi lanjutan oleh mikroba setelah dibuat, dengan pu'er sebagai contoh paling terkenal. Bersama-sama, keenam jenis itu adalah teh hijau, putih, kuning, oolong, hitam, dan gelap."
+    },
+    {
+     "h": "Mengapa minuman herbal bukan 'teh'",
+     "p": "Banyak minuman sehari-hari yang disebut teh — teh jelai, rooibos, kamomil — sama sekali tidak mengandung daun tanaman teh. Secara ketat, mereka adalah seduhan herbal atau tisane, kategori terpisah dari teh sejati. Itu bukan penilaian atas rasanya, hanya perbedaan bahan, dan memeriksa label adalah kebiasaan baik yang membuat dunia teh lebih jelas."
+    },
+    {
+     "h": "Setiap keluarga sekilas",
+     "p": "Nilai acuan yang dulu ditampilkan di bagian atas setiap keluarga dalam ensiklopedia, dikumpulkan di sini: oksidasi, suhu air, rasio daun-air, dan waktu seduh pertama untuk setiap keluarga."
+    },
+    {
+     "h": "Teh hijau 綠",
+     "p": [
+      "Semuanya diputuskan dalam 24 jam setelah pemetikan — berpacu dengan waktu.",
+      "Oxidation 0% · Water 70~80℃ · Leaf · water 2~3g / 200ml · First steep 1 min 30 sec"
+     ]
+    },
+    {
+     "h": "Teh oolong 烏",
+     "p": [
+      "Seni oksidasi setengah: berhenti tepat pada titik yang Anda inginkan.",
+      "Oxidation 15–70% · Water 90~95℃ · Leaf · water 5~7g / 200ml · First steep 45 sec"
+     ]
+    },
+    {
+     "h": "Teh hitam 紅",
+     "p": [
+      "Teroksidasi penuh. Warna merah dan kekuatan untuk menahan susu berasal dari sini.",
+      "Oxidation 80–95% · Water 95~100℃ · Leaf · water 3~5g / 200ml · First steep 3 min"
+     ]
+    },
+    {
+     "h": "Teh gelap · Pu-erh 黑",
+     "p": [
+      "Waktu di sini bukan masa simpan; ia adalah bahan.",
+      "Oxidation Post-fermented · Water 100℃ · Leaf · water 5g / 100ml · First steep 20 sec"
+     ]
+    },
+    {
+     "h": "Teh putih 白",
+     "p": [
+      "Layukan dan keringkan — hanya itu, sehingga kualitas daun tampak apa adanya tanpa tersentuh.",
+      "Oxidation 5–10% · Water 80~90℃ · Leaf · water 3~4g / 200ml · First steep 2 min"
+     ]
+    },
+    {
+     "h": "Teh kuning 黃",
+     "p": [
+      "Satu langkah tambahan — penguningan tertutup — memberikan rasa manis paling lembut dari enam keluarga teh, dan yang paling langka di antaranya.",
+      "Oxidation 10–20% · Water 80~85℃ · Leaf · water 3g / 200ml · First steep 1 min 30 sec"
+     ]
+    },
+    {
+     "h": "Teh sehari-hari & herbal 代",
+     "p": [
+      "Biji-bijian, akar, dan buah yang disangrai atau dikeringkan sebagai pengganti semak teh, serta bunga dan daun yang diseduh apa adanya — bebas kafein, selalu siap sedia.",
+      "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
+     ]
+    }
    ]
   },
   "related": []
@@ -3702,7 +4051,8 @@ window.TEAFaiCulture = [
    "hi": "पानी का तापमान और भिगोने का समय — मूल बातें",
    "th": "อุณหภูมิน้ำและเวลาแช่ — พื้นฐานที่ควรรู้",
    "vi": "Nhiệt Độ Nước và Thời Gian Ngâm — Những Điều Cơ Bản",
-   "ar": "درجة حرارة الماء ووقت النقع — الأساسيات"
+   "ar": "درجة حرارة الماء ووقت النقع — الأساسيات",
+   "ind": "Suhu Air dan Waktu Seduh — Dasar-dasarnya"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -3714,7 +4064,8 @@ window.TEAFaiCulture = [
    "hi": "एक ही चाय पानी के तापमान और भिगोने के समय के आधार पर पूरी तरह अलग स्वाद दे सकती है। यह मार्गदर्शिका चाय के प्रकार के अनुसार सुझाए गए तापमान, बहुत गरम पानी चाय को कड़वा क्यों बनाता है, ठंडा करने वाले घड़े से पानी कैसे ठंडा करें, और हर दोबारा काढ़े को कैसे लंबा करें — ये सब बताती है।",
    "th": "ชาชนิดเดียวกันอาจมีรสชาติแตกต่างกันโดยสิ้นเชิงขึ้นอยู่กับอุณหภูมิน้ำและเวลาแช่ คู่มือนี้ครอบคลุมอุณหภูมิที่แนะนำตามประเภทของชา เหตุผลที่น้ำร้อนเกินไปทำให้ชาขม วิธีลดอุณหภูมิน้ำด้วยเหยือกพักน้ำ และวิธียืดเวลาในการชงน้ำถัดไป",
    "vi": "Cùng một loại trà có thể có vị hoàn toàn khác nhau tùy thuộc vào nhiệt độ nước và thời gian ngâm. Bài viết này trình bày nhiệt độ khuyến nghị theo từng loại trà, vì sao nước quá nóng làm trà đắng, cách làm nguội nước bằng bình làm nguội, và cách kéo dài thời gian cho mỗi lần ngâm lại.",
-   "ar": "يمكن أن يختلف مذاق الشاي نفسه تمامًا بحسب درجة حرارة الماء ووقت النقع. يغطي هذا الدليل درجات الحرارة الموصى بها حسب نوع الشاي، ولماذا يجعل الماء الساخن جدًا الشاي مرًا، وكيفية تبريد الماء بإبريق تبريد، وكيفية إطالة كل إعادة نقع."
+   "ar": "يمكن أن يختلف مذاق الشاي نفسه تمامًا بحسب درجة حرارة الماء ووقت النقع. يغطي هذا الدليل درجات الحرارة الموصى بها حسب نوع الشاي، ولماذا يجعل الماء الساخن جدًا الشاي مرًا، وكيفية تبريد الماء بإبريق تبريد، وكيفية إطالة كل إعادة نقع.",
+   "ind": "Teh yang sama bisa terasa sama sekali berbeda tergantung suhu air dan waktu seduh. Panduan ini mencakup suhu yang disarankan menurut jenis teh, mengapa air yang terlalu panas membuat teh pahit, cara mendinginkan air dengan teko pendingin, dan cara memperpanjang setiap seduhan ulang."
   },
   "body": {
    "ko": [
@@ -3896,6 +4247,24 @@ window.TEAFaiCulture = [
      "h": "قاعدة وقت النقع",
      "p": "ابدأ قصيرًا — فأي شاي يصبح مرًا وقاسيًا إذا نقع طويلًا. وللشايات التي تُحضَّر عدة مرات، تستخرج كل نقعة أقل من التي قبلها، فأطل الوقت قليلًا مع كل جولة، بحوالي عشر إلى عشرين ثانية. إذا بدا مذاق الكوب قويًا جدًا، قصّر الوقت؛ وإذا كان ضعيفًا جدًا، أطله، وستجد معيارك الخاص."
     }
+   ],
+   "ind": [
+    {
+     "h": "Mengapa suhu mengubah rasa",
+     "p": "Semakin panas air, semakin cepat dan semakin penuh senyawa dalam daun larut. Komponen pahit dan sepat khususnya mudah keluar dalam air yang sangat panas, sehingga menuangkan air mendidih ke teh yang terbuat dari daun muda menghadirkan rasa pahit sebelum rasa manis dan umami. Air yang terlalu dingin memiliki masalah sebaliknya: aroma dan rasa tetap terkunci dan cangkir terasa datar."
+    },
+    {
+     "h": "Suhu yang disarankan menurut jenis teh",
+     "p": "Teh hijau yang terbuat dari daun muda umumnya diseduh pada 70–80°C, dan teh hijau yang lebih halus sering membutuhkan air yang lebih dingin lagi. Teh putih dan kuning cocok pada 80–90°C, sementara oolong membuka diri paling baik dalam air panas sekitar 90°C ke atas. Teh hitam dan teh gelap memiliki daun yang lebih keras dan lebih teroksidasi dan membutuhkan air pada 95–100°C, tepat setelah mendidih, agar terasa paling baik."
+    },
+    {
+     "h": "Mendinginkan air dengan teko",
+     "p": "Menuangkan air yang baru mendidih ke teko pendingin atau wadah kosong menurunkan suhunya kira-kira sepuluh derajat setiap kali pemindahan. Tanpa termometer, Anda dapat menyesuaikan dengan jumlah pemindahan atau cukup membiarkan air sebentar dengan tutup terbuka. Untuk teh hijau, urutan yang aman adalah mendinginkan air terlebih dahulu, lalu menuangkannya ke daun."
+    },
+    {
+     "h": "Aturan waktu seduh",
+     "p": "Mulailah singkat — teh apa pun menjadi pahit dan kasar jika diseduh terlalu lama. Untuk teh yang diseduh beberapa kali, setiap seduhan mengekstrak lebih sedikit dari yang sebelumnya, jadi perpanjang waktunya sedikit di setiap putaran, sekitar sepuluh hingga dua puluh detik. Jika secangkir terasa terlalu kuat, persingkat waktunya; terlalu lemah, perpanjang, dan Anda akan menemukan standar Anda sendiri."
+    }
    ]
   },
   "related": []
@@ -3914,7 +4283,8 @@ window.TEAFaiCulture = [
    "hi": "कैफ़ीन और थियानिन — चाय की शांत सतर्कता",
    "th": "คาเฟอีนและธีอะนีน — ความตื่นตัวที่สงบของชา",
    "vi": "Caffeine và Theanine — Sự Tỉnh Táo Bình Thản của Trà",
-   "ar": "الكافيين والثيانين — يقظة الشاي الهادئة"
+   "ar": "الكافيين والثيانين — يقظة الشاي الهادئة",
+   "ind": "Kafein dan Teanin — Kewaspadaan Tenang dari Teh"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -3926,7 +4296,8 @@ window.TEAFaiCulture = [
    "hi": "चाय में भी कैफ़ीन होता है, लेकिन आम तौर पर कॉफ़ी से कम, और अमीनो अम्ल थियानिन उसके प्रभाव को नरम करता है। यह लेख बताता है कि किन चायों में अधिक कैफ़ीन होता है, शाम को क्या पिएँ, और पहले काढ़े के बारे में सच्चाई क्या है।",
    "th": "ชาก็มีคาเฟอีนเช่นกัน แต่โดยทั่วไปน้อยกว่ากาแฟ และกรดอะมิโนธีอะนีนช่วยทำให้ฤทธิ์ของมันนุ่มนวลลง บทความนี้อธิบายว่าชาชนิดใดมีคาเฟอีนมากกว่า ควรดื่มอะไรในตอนเย็น และความจริงเกี่ยวกับการชงน้ำแรก",
    "vi": "Trà cũng chứa caffeine, nhưng thường ít hơn cà phê, và axit amin theanine làm dịu tác dụng của nó. Bài viết này giải thích loại trà nào chứa nhiều caffeine hơn, nên uống gì vào buổi tối, và sự thật về lần ngâm đầu tiên.",
-   "ar": "يحتوي الشاي على الكافيين أيضًا، لكن عادة أقل من القهوة، وحمض الثيانين الأميني يخفف من تأثيره. يشرح هذا المقال أي الشايات تحمل كافيين أكثر، وماذا تشرب في المساء، وحقيقة النقعة الأولى."
+   "ar": "يحتوي الشاي على الكافيين أيضًا، لكن عادة أقل من القهوة، وحمض الثيانين الأميني يخفف من تأثيره. يشرح هذا المقال أي الشايات تحمل كافيين أكثر، وماذا تشرب في المساء، وحقيقة النقعة الأولى.",
+   "ind": "Teh juga mengandung kafein, tetapi biasanya lebih sedikit dari kopi, dan asam amino teanin melunakkan efeknya. Artikel ini menjelaskan teh mana yang mengandung lebih banyak kafein, apa yang diminum di malam hari, dan kebenaran tentang seduhan pertama."
   },
   "body": {
    "ko": [
@@ -4148,6 +4519,28 @@ window.TEAFaiCulture = [
      "h": "أسطورة النقعة الأولى",
      "p": "الادعاء بأن التخلص من النقعة الأولى يزيل معظم الكافيين مبالغة. فالكافيين لا يزول بشطفة واحدة؛ بل يستمر في الذوبان عبر نقعات كثيرة. وشطف الأوراق يتعلق أساسًا بغسل الغبار وإيقاظ الأوراق — وليس طريقة موثوقة لنزع الكافيين من شايك."
     }
+   ],
+   "ind": [
+    {
+     "h": "Ya, teh mengandung kafein",
+     "p": "Teh memang mengandung kafein, meskipun secangkir teh umumnya memiliki lebih sedikit daripada secangkir kopi. Jumlahnya sangat bervariasi menurut teh dan cara menyeduhnya — cangkir yang diseduh kuat dan yang diseduh ringan bisa sangat berbeda. Jadi 'teh tidak mengandung kafein' tidak akurat; 'sering lebih lembut daripada kopi' lebih dekat dengan kebenaran."
+    },
+    {
+     "h": "Teanin membuat perbedaan",
+     "p": "Teh juga mengandung asam amino yang disebut teanin, yang melunakkan efek stimulasi kafein. Itulah mengapa banyak orang merasa fokus dengan tenang setelah minum teh, bukan tersentak tajam seperti dengan kopi. Teanin juga merupakan sumber rasa umami yang gurih, sehingga teh yang kaya teanin — seperti teh hijau halus yang ditanam di tempat teduh — cenderung terasa lebih dalam juga."
+    },
+    {
+     "h": "Teh mana yang lebih banyak kafeinnya",
+     "p": "Kafein cenderung lebih tinggi pada kuncup muda dan daun muda, sehingga teh yang kaya kuncup dan matcha, yang dikonsumsi sebagai bubuk daun utuh, memberikan relatif lebih banyak. Teh yang terbuat dari batang atau daun kasar, dan teh sangrai, cenderung memiliki lebih sedikit. Teh yang sama juga melepaskan lebih banyak kafein ketika diseduh lebih lama dalam air yang lebih panas."
+    },
+    {
+     "h": "Pilihan malam yang baik",
+     "p": "Jika Anda sensitif terhadap kafein, hojicha — disangrai, dan lebih rendah kafein — adalah pilihan malam yang baik di antara teh sejati. Teh jelai, rooibos, kamomil, dan seduhan herbal lainnya sama sekali tidak mengandung kafein dan merupakan pilihan mudah di malam hari. Jika Anda tetap ingin teh sejati, seduhlah ringan dan sedikit, dan sisakan beberapa jam sebelum tidur."
+    },
+    {
+     "h": "Mitos seduhan pertama",
+     "p": "Klaim bahwa membuang seduhan pertama menghilangkan sebagian besar kafein adalah berlebihan. Kafein tidak hilang dalam satu kali bilasan; ia terus larut di banyak seduhan. Membilas daun terutama adalah tentang membersihkan debu dan membangunkan daun — bukan cara yang andal untuk menghilangkan kafein dari teh Anda."
+    }
    ]
   },
   "related": [
@@ -4168,7 +4561,8 @@ window.TEAFaiCulture = [
    "hi": "चाय कैसे संग्रहित करें — पाँच चीज़ों से दूर रखें",
    "th": "วิธีเก็บรักษาชา — หลีกให้ห่างจากห้าสิ่ง",
    "vi": "Cách Bảo Quản Trà — Tránh Xa Năm Thứ",
-   "ar": "كيفية تخزين الشاي — أبعده عن خمسة أشياء"
+   "ar": "كيفية تخزين الشاي — أبعده عن خمسة أشياء",
+   "ind": "Cara Menyimpan Teh — Jauhkan dari Lima Hal"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -4180,7 +4574,8 @@ window.TEAFaiCulture = [
    "hi": "चाय प्रकाश, नमी, हवा, गंध और गरमी के सामने नाज़ुक होती है। यह मार्गदर्शिका चाय को ताज़ा रखने के बुनियादी नियम, वायुरोधी डिब्बा कैसे चुनें, फ्रिज में रखते समय किन बातों का ध्यान रखें, और हर प्रकार कितने समय तक ठीक रहता है — ये सब बताती है।",
    "th": "ชาบอบบางต่อแสง ความชื้น อากาศ กลิ่น และความร้อน คู่มือนี้ครอบคลุมกฎพื้นฐานในการรักษาความสดของชา วิธีเลือกภาชนะที่ปิดสนิท ข้อควรระวังในการแช่เย็น และความรู้สึกคร่าว ๆ ว่าชาแต่ละประเภทเก็บได้นานแค่ไหน",
    "vi": "Trà rất nhạy cảm trước ánh sáng, độ ẩm, không khí, mùi lạ và nhiệt. Bài viết này trình bày các quy tắc cơ bản để giữ trà tươi, cách chọn hộp kín, những điều cần lưu ý khi bảo quản lạnh, và cảm nhận về thời gian giữ của từng loại trà.",
-   "ar": "الشاي هش أمام الضوء والرطوبة والهواء والروائح والحرارة. يغطي هذا الدليل القواعد الأساسية للحفاظ على الشاي طازجًا، وكيفية اختيار وعاء محكم الإغلاق، وما يجب الانتباه له مع التبريد، وإحساسًا بمدة بقاء كل نوع."
+   "ar": "الشاي هش أمام الضوء والرطوبة والهواء والروائح والحرارة. يغطي هذا الدليل القواعد الأساسية للحفاظ على الشاي طازجًا، وكيفية اختيار وعاء محكم الإغلاق، وما يجب الانتباه له مع التبريد، وإحساسًا بمدة بقاء كل نوع.",
+   "ind": "Teh rapuh menghadapi cahaya, kelembapan, udara, bau, dan panas. Panduan ini mencakup aturan dasar menjaga teh tetap segar, cara memilih wadah kedap udara, hal yang perlu diperhatikan dengan pendinginan, dan gambaran berapa lama setiap jenis bertahan."
   },
   "body": {
    "ko": [
@@ -4361,6 +4756,24 @@ window.TEAFaiCulture = [
     {
      "h": "كم يبقى كل نوع",
      "p": "يتغير الشاي الأخضر بسرعة، لذا من الأفضل إنهاؤه خلال بضعة أشهر من الفتح؛ أما الشاي الأسود فأصلب ويبقى جيدًا لسنة أو سنتين. وتُخزن الأولونغات المحمصة أكثر لمدة أطول من الأكثر خضرة. والشايات الداكنة مثل البوير هي الاستثناء: يُستمتع بها لكيفية تغيرها عبر السنين في درجة حرارة الغرفة مع بعض تدفق الهواء، لذا تهم التهوية أكثر من الإغلاق المحكم."
+    }
+   ],
+   "ind": [
+    {
+     "h": "Lima hal yang tidak disukai teh",
+     "p": "Cahaya memudarkan warna dan aroma teh, dan kelembapan mengundang jamur dan rasa asing. Kontak dengan udara membuat oksidasi terus berjalan dan mencuri aroma segar, sementara daun kering menyerap bau di sekitarnya dengan begitu mudah sehingga menyimpan teh di samping rempah atau kopi akan mencemarinya. Suhu tinggi juga membuat aroma memudar lebih cepat."
+    },
+    {
+     "h": "Wadah dan tempat — dasar-dasarnya",
+     "p": "Aturan praktisnya adalah wadah kedap udara yang tidak tembus cahaya, disimpan di tempat yang sejuk dan kering. Membagi teh ke wadah-wadah kecil berarti stok utama lebih jarang dibuka, sehingga tetap harum lebih lama. Dapur berayun dalam suhu dan kelembapan dan penuh bau makanan, jadi lemari di ruangan lain adalah rumah yang lebih baik untuk teh Anda."
+    },
+    {
+     "h": "Jika Anda mendinginkan, berhati-hatilah",
+     "p": "Teh hijau dan oolong yang lembut menjaga kesegarannya lebih lama di kulkas, selama segelnya benar-benar kedap udara. Tetapi jika Anda langsung membuka teh dingin, kelembapan dari udara mengembun pada daun, jadi biarkan wadah kembali ke suhu ruangan sebelum membukanya. Setelah dibuka, hindari memindahkan teh bolak-balik antara kulkas dan rak — jaga tetap sejuk dan habiskan dalam waktu yang wajar."
+    },
+    {
+     "h": "Berapa lama setiap jenis bertahan",
+     "p": "Teh hijau berubah dengan cepat, jadi sebaiknya dihabiskan dalam beberapa bulan setelah dibuka; teh hitam lebih kokoh dan bertahan dengan baik selama satu atau dua tahun. Oolong yang disangrai lebih kuat bertahan lebih lama daripada yang lebih hijau. Teh gelap seperti pu'er adalah pengecualian: ia dinikmati karena bagaimana ia berubah selama bertahun-tahun pada suhu ruangan dengan sedikit aliran udara, jadi ventilasi lebih penting daripada segel kedap udara."
     }
    ]
   },
@@ -4547,6 +4960,24 @@ window.TEAFaiCulture = [
      "h": "فئات أخرى، والحفل المقبل",
      "p": "ذهبت جائزة «أفضل ماتشا» إلى شاي ساميدوري العضوي المسحوق من فوروكاوا سيتشا في اليابان، و«أفضل النباتات» إلى الشاي الأصفر «أوركيد فروست» من سيفن تيهاوس في الولايات المتحدة. يقام حفل توزيع الجوائز في 22 يناير 2027 في المتجر الرئيسي لفورتـنم آند ميسون في لندن، يتبعه في اليوم التالي تذوق للشايات الحائزة على الميداليات الذهبية."
     }
+   ],
+   "ind": [
+    {
+     "h": "Apa itu The Leafies?",
+     "p": "The Leafies adalah kompetisi teh internasional yang diluncurkan pada 2022 oleh UK Tea Academy, lembaga pendidikan teh Inggris. Setiap tahun, ratusan teh dari seluruh dunia diikutsertakan, dan panel juri profesional dari berbagai industri dan latar belakang budaya memilih para pemenang melalui putaran pencicipan buta yang berulang. Pengecer mewah Inggris Fortnum & Mason bermitra dengan penghargaan ini, dan teh pemenang dapat memperoleh tempat di raknya atau di menu teh sorenya."
+    },
+    {
+     "h": "Best in Show 2026 — teh hijau kukus dari Jepang",
+     "p": "Penghargaan tertinggi tahun ini, Best in Show, diraih oleh teh hijau kukus Kodama 'Special Edition' yang dibuat oleh Horiguchi Seicha (Wakoen) dari Kagoshima, Jepang. Pengukusan adalah cara khas pembuatan teh hijau Jepang: daun difiksasi dengan uap, bukan panas wajan, yang menjaga aroma hijau dan kedalaman gurihnya tetap sangat hidup."
+    },
+    {
+     "h": "Teh hitam Taiwan melesat ke depan",
+     "p": "Best of Black Teas diraih oleh Mi Ying Black Tea, yang dibuat oleh Fusensen dari Taiwan. Didirikan di Tainan pada 1985, perusahaan ini menciptakan teh hitam beraroma madu ini dari daun yang ditanam di Hualien, di Taiwan timur. Teh Taiwan juga berbagi penghargaan Best of Retail Teas, dan Taiwan membawa pulang tujuh medali emas, 22 perak, dan 26 perunggu pada penghargaan tahun ini. Teh hitam Taiwan pertama kali memenangkan hadiah tertinggi kategori ini pada 2024, dan pada 2025 sebuah teh Taiwan kemudian meraih Best in Show itu sendiri — rangkaian performa yang masih terus menguat."
+    },
+    {
+     "h": "Kategori lain, dan upacara yang akan datang",
+     "p": "Best of Matcha diraih oleh teh bubuk organik SAMIDORI dari Furukawa Seicha dari Jepang, dan Best of Botanicals diraih oleh teh kuning Orchid Frost dari Seven Teahouse di AS. Upacara penghargaan berlangsung pada 22 Januari 2027 di toko utama Fortnum & Mason di London, diikuti keesokan harinya dengan pencicipan teh-teh peraih medali emas."
+    }
    ]
   },
   "cat": "basics",
@@ -4566,7 +4997,8 @@ window.TEAFaiCulture = [
    "hi": "UK Tea Academy द्वारा आयोजित अंतरराष्ट्रीय चाय पुरस्कार The Leafies 2026 के परिणाम आ गए हैं। सबसे बड़ा सम्मान जापान के Kagoshima की भाप से तैयार हरी चाय को मिला, काली चाय का पुरस्कार Taiwan की शहद जैसी खुशबू वाली काली चाय को मिला — और Taiwan ने सात स्वर्ण सहित कुल 55 पदक अपने नाम किए।",
    "th": "ผลรางวัล The Leafies 2026 เวทีประกวดชานานาชาติที่จัดโดย UK Tea Academy ประกาศออกมาแล้ว รางวัลสูงสุดตกเป็นของชาเขียวนึ่งจาก Kagoshima ประเทศญี่ปุ่น รางวัลชาดำตกเป็นของชาดำกลิ่นน้ำผึ้งจาก Taiwan — และ Taiwan กวาดไปทั้งหมด 55 เหรียญ รวมถึง 7 เหรียญทอง",
    "vi": "Kết quả của The Leafies 2026, giải thưởng trà quốc tế do UK Tea Academy tổ chức, đã được công bố. Giải thưởng cao nhất thuộc về một loại trà xanh hấp từ Kagoshima, Nhật Bản, giải trà đen thuộc về một loại trà đen thơm mùi mật ong từ Taiwan — và Taiwan giành tổng cộng 55 huy chương, trong đó có bảy huy chương vàng.",
-   "ar": "صدرت نتائج ذا ليفيز 2026، جوائز الشاي الدولية التي تديرها أكاديمية الشاي في المملكة المتحدة. ذهبت الجائزة الكبرى إلى شاي أخضر مبخر من كاغوشيما في اليابان، وجائزة الشاي الأسود إلى شاي أسود برائحة العسل من تايوان — وحصدت تايوان 55 ميدالية في المجموع، منها سبع ذهبيات."
+   "ar": "صدرت نتائج ذا ليفيز 2026، جوائز الشاي الدولية التي تديرها أكاديمية الشاي في المملكة المتحدة. ذهبت الجائزة الكبرى إلى شاي أخضر مبخر من كاغوشيما في اليابان، وجائزة الشاي الأسود إلى شاي أسود برائحة العسل من تايوان — وحصدت تايوان 55 ميدالية في المجموع، منها سبع ذهبيات.",
+   "ind": "Hasil The Leafies 2026 telah diumumkan, penghargaan teh internasional yang diselenggarakan oleh UK Tea Academy. Penghargaan tertinggi diraih teh hijau kukus dari Kagoshima, Jepang, hadiah teh hitam diraih teh hitam beraroma madu dari Taiwan — dan Taiwan menyapu 55 medali seluruhnya, termasuk tujuh emas."
   },
   "title": {
    "en": "The Leafies 2026 — The World's Teas of the Year",
@@ -4578,7 +5010,8 @@ window.TEAFaiCulture = [
    "hi": "The Leafies 2026 — दुनिया की इस साल की चायें",
    "th": "The Leafies 2026 — ชาแห่งปีของโลก",
    "vi": "The Leafies 2026 — Những loại trà của năm trên thế giới",
-   "ar": "ذا ليفيز 2026 — أفضل شايات العالم لهذا العام"
+   "ar": "ذا ليفيز 2026 — أفضل شايات العالم لهذا العام",
+   "ind": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini"
   }
  }
 ];
