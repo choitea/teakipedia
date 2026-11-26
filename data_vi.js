@@ -18,7 +18,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo → vò → sấy khô. Nhiệt của chảo làm ngưng enzyme và lòng bàn tay ép lá thành dẹt.",
     "story": "Tương truyền hoàng đế Càn Long khi thưởng trà ở Tây Hồ đã phong mười tám cây trà ven hồ là trà ngự — danh hiệu ấy vẫn còn đến nay.",
     "flavor": "Đậu rang, hạt dẻ và hạnh nhân, vị ngọt nhẹ, hơi chát ở cuối. Nước trà màu xanh non nhạt.",
-    "pairing": "Tôm Long Tỉnh, cá hấp, đậu phụ, cháo. Món tráng miệng nhiều kem sẽ lấn át trà này.",
+    "pairing": "Tôm Long Tỉnh, cá trắng hấp, đậu phụ, cháo và rau xào nhẹ rất hợp với trà này. Nốt đậu rang và hạt dẻ gặp hải sản thanh nhẹ mà không xung đột, vị chát nhẹ cuối ngụm giúp khoang miệng sảng khoái. Nên tránh các món tráng miệng nhiều kem, vì kem sẽ che mất hương thơm tinh tế của trà.",
     "brewTip": "Cho nước vào trước rồi mới cho lá: lá chìm từ từ và hương thơm mở ra theo.",
     "keep": "Dùng trong vòng một tháng sau khi mở. Bảo quản kín trong tủ lạnh và lấy ra khi còn đóng kín để hơi nước không đọng trên lá."
   },
@@ -33,7 +33,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo → vò → sấy khô, lá được xoa trong lòng bàn tay thành cuộn xoắn như ốc.",
     "story": "Tên đầu tiên có nghĩa là “hương thơm làm giật mình”; tương truyền hoàng đế Khang Hy thấy tên ấy thiếu thanh nhã nên đổi thành Bích Loa Xuân.",
     "flavor": "Đào và mơ, mềm mượt như kem, vị ngọt mát ở cuối.",
-    "pairing": "Cá trắng, cháo, món tráng miệng trái cây, các loại hạt. Món cay sẽ xóa sạch hương thơm.",
+    "pairing": "Sashimi cá trắng, cháo trong, món tráng miệng đào hoặc mơ và các loại hạt như hạt thông, óc chó rất hợp. Hương trái cây và kết cấu mịn như kem của trà nổi bật bên các món thanh nhẹ, vị ngọt mát ở cuối giúp làm sạch vị giác. Nên tránh món cay, vì vị cay sẽ xóa mất hương thơm tinh tế của trà.",
     "brewTip": "Rót nước 70–75 °C vào trước, rồi mới cho lá. Chuyển nước sôi sang một chén khác để làm nguội.",
     "keep": "Sáu tháng kể từ ngày sản xuất, một tháng sau khi mở. Túi nhôm kín trong ngăn rau của tủ lạnh."
   },
@@ -48,7 +48,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô, lá được ép nhẹ thành màu vàng xanh mà vẫn giữ nguyên lông tơ trắng.",
     "story": "Một loại trà danh tiếng tương đối trẻ, hình thành quanh Hoàng Sơn từ những năm 1890; búp hái trước Thanh minh được gọi là “tim sen”.",
     "flavor": "Hương rang dịu cùng sự tươi mát của hoa lan, và vị umami lưu lại rất lâu.",
-    "pairing": "Món gà, cháo, rau rừng, hạt bạch quả. Món nhẹ hợp hơn món nhiều dầu mỡ.",
+    "pairing": "Các món gà luộc, cháo, rau xanh chần và xiên bạch quả rất hợp. Nốt rang dịu và sự tươi mát của hoa lan của trà không bao giờ lấn át nguyên liệu thanh nhẹ, còn vị umami kéo dài giúp món ăn đơn giản thêm đậm đà. Nên tránh món chiên nhiều dầu mỡ, vì dầu mỡ sẽ đè nén hương thơm sảng khoái của trà.",
     "brewTip": "Lá trà nhỏ nên thời gian ngâm ngắn. Đừng ngâm quá 1½ phút ở 80 °C.",
     "keep": "Một tháng sau khi mở, đóng kín và để lạnh. Để trong ngăn rau để trà không hút mùi."
   },
@@ -63,7 +63,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hấp → vò → sấy khô. Lá không che nắng được hấp để làm ngưng enzyme.",
     "story": "Phương pháp hấp đến từ Trung Quốc vào thời Muromachi và ở lại Nhật Bản thành sencha; ngày nay sencha chiếm khoảng 60% lượng trà xanh tiêu thụ ở Nhật.",
     "flavor": "Rong biển và cỏ mới cắt, vị umami của axit amin, hơi chát ở cuối. Nước trà màu vàng xanh.",
-    "pairing": "Onigiri, sushi, tempura, cơm muối. Hợp với món ăn vặt mặn hơn món tráng miệng ngọt.",
+    "pairing": "Onigiri, sushi, tempura và cá nướng muối rất hợp. Hương thơm giống rong biển và vị umami từ axit amin của trà nâng đỡ cơm và cá, vị chát nhẹ ở cuối cắt bớt độ ngậy của tempura. Trà hợp với đồ ăn vặt mặn hơn nhiều so với món tráng miệng ngọt.",
     "brewTip": "Đun sôi, rồi để nguội xuống 70 °C trước khi rót. Ở 80 °C vị chát tăng vọt.",
     "keep": "Một tháng sau khi mở. Đóng kín và để lạnh, tốt nhất là chia nhỏ và cấp đông."
   },
@@ -78,7 +78,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Che nắng 20 ngày trở lên → hấp → vò → sấy khô. Việc che nắng làm tăng axit amin và giảm catechin.",
     "story": "Năm 1835, người trồng trà ở Uji là Yamamoto Yamakichi phổ biến phương pháp che nắng; tên “ngọc lộ” (gyokuro) bắt nguồn từ vị umami đậm đà.",
     "flavor": "Umami sâu như miso và dashi, kết cấu mượt như kem, gần như không chát.",
-    "pairing": "Loại trà để uống riêng. Nếu ăn kèm, dùng trái cây khô hoặc bánh gạo không nhân.",
+    "pairing": "Gyokuro là loại trà để thưởng thức chậm rãi một mình, nên ngon nhất khi không dùng kèm món ăn. Nếu muốn kết hợp, hãy chọn hương vị nhẹ nhàng như trái cây khô, bánh gạo trắng đơn giản hoặc bánh quy tảo bẹ. Vị umami sâu của miso và dashi cùng kết cấu mịn như kem của trà là điểm nhấn chính, món ăn nêm nếm đậm sẽ che mất chiều sâu đó.",
     "brewTip": "55 °C — nước ấm vừa. Nước nóng hơn sẽ mang vị chát thay vì umami.",
     "keep": "Hương thơm mất nhanh; ngon nhất trong ba tuần sau khi mở. Chia nhỏ và cấp đông."
   },
@@ -93,7 +93,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Che nắng → hấp → sấy khô → tách cuống gân → nghiền cối đá. Bột chính là toàn bộ lá trà.",
     "story": "Trà đánh bột thời Tống truyền sang Nhật và trở thành matcha; một cối đá chỉ nghiền được khoảng 40 g mỗi giờ.",
     "flavor": "Umami đậm dưới lớp bọt mịn như kem, hơi đắng ở cuối. Màu xanh tươi rực.",
-    "pairing": "Wagashi, yokan, matcha latte, kem vani.",
+    "pairing": "Wagashi, thạch yokan, món tráng miệng đậu đỏ và kem vani rất hợp. Vị ngọt làm dịu vị umami sâu và nét đắng của trà, lớp bọt mịn như kem hòa quyện với kết cấu của đậu đỏ và vani. Khi pha thành matcha latte, trà cân bằng đẹp với các món bánh nướng ngọt nhẹ.",
     "brewTip": "Nước dưới 80 °C. Nước sôi chỉ để lại vị đắng. Rây bột một lần để phá vón cục.",
     "keep": "Matcha oxy hóa nhanh: hai đến ba tuần sau khi mở. Cấp đông khi còn đóng kín và đừng mở ở nhiệt độ phòng."
   },
@@ -108,7 +108,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô. Jeju phân hạng theo ngày hái: ujeon trước Cốc vũ, rồi sejaak và jungjak.",
     "story": "Trà xanh đến Jeju năm 1979 tại vườn trà Dosun; đất núi lửa, gió biển và chênh lệch nhiệt độ ngày–đêm lớn đã làm nên dấu ấn của ujeon.",
     "flavor": "Lá xanh và hương rang, vị chát nhẹ dịu dần ở cuối.",
-    "pairing": "Bibimbap rau thơm, cá nướng, bánh jeon, món tráng miệng vị thanh yên.",
+    "pairing": "Bibimbap rau thơm, cá thu hoặc cá ngói nướng, bánh jeon hải sản và món tráng miệng từ quýt yuzu rất hợp. Hương lá tươi và mùi nướng của trà nâng đỡ rau xanh và cá nướng, vị chát nhẹ giúp dọn sạch dầu của bánh chiên. Sự tươi sáng của yuzu gặp trà ở đúng nốt xuân hòa nốt xuân.",
     "brewTip": "70–80 °C. Giữ lần rót đầu dưới 1½ phút thì trà sẽ không đắng.",
     "keep": "Sáu tháng kể từ ngày sản xuất, một tháng sau khi mở. Đóng kín và để lạnh."
   },
@@ -123,7 +123,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sấy khô. Chỉ dùng búp, không vò và không sao.",
     "story": "“Bạch hào” là lớp lông bạc trên búp và “ngân châm” là hình kim; người Phúc Kiến nói “một năm là trà, ba năm là thuốc, bảy năm là báu vật”.",
     "flavor": "Hoa linh lan và hoa tử đinh hương, nước trà màu mơ rất nhạt, không chát và vị ngọt kéo dài.",
-    "pairing": "Các loại hạt, chà là, hạt dẻ, cá nhẹ. Không hợp với thịt nặng mùi.",
+    "pairing": "Các loại hạt như hạt thông và óc chó, chà là, hạt dẻ và cá trắng hấp nhẹ rất hợp. Hương hoa linh lan và vị ngọt kéo dài không chút chát của trà thể hiện rõ nhất bên món ăn nhẹ nhàng. Nên tránh các món thịt nêm nếm đậm, vì chúng sẽ chôn vùi hương thơm tinh tế của trà.",
     "brewTip": "Búp trà nổi: cho nước vào trước, đặt búp lên trên, rồi ấn nhẹ xuống sau 30 giây.",
     "keep": "Nhiệt độ phòng, độ ẩm 50–60%, tránh nắng trực tiếp. Tránh tủ lạnh — hơi nước ngưng tụ và mùi lạ."
   },
@@ -138,7 +138,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sấy khô. Một búp và hai lá sấy cùng nhau.",
     "story": "Búp và lá xòe ra được cho là giống hoa mẫu đơn nở rộ, và trà được đặt tên theo đó.",
     "flavor": "Hoa trắng và cỏ khô, vị ngọt nhẹ vị chà là, đậm đà hơn Ngân Châm.",
-    "pairing": "Thịt gà, cá nhẹ, sandwich, bánh madeleine.",
+    "pairing": "Gà nướng, món cá thanh nhẹ, sandwich nhẹ và bánh madeleine rất hợp. Nốt hoa trắng và cỏ khô với thể trà đậm hơn Bạch Hào Ngân Châm giúp trà đứng vững bên các món đạm nhẹ, vị ngọt giống chà là của trà hòa quyện với bánh nướng. Nên tránh món ăn nhiều gia vị cay, vì chúng sẽ xóa mất hương hoa của trà.",
     "brewTip": "Chịu được 90 °C mà không đắng. Lần rót đầu hãy cho lá đủ chỗ để nở.",
     "keep": "Đóng kín ở nhiệt độ phòng. Một hai năm sau sẽ thêm hương chà là và mật ong."
   },
@@ -153,7 +153,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sấy khô. Làm từ lá không có búp.",
     "story": "Lá khô được cho là trông giống lông mày của ông lão, nên gọi là Thọ Mi; từ lâu nó được giữ như “trà cũ” để lâu năm.",
     "flavor": "Cỏ khô và chà là cùng chút trái cây chín. Nước trà màu mơ đậm hơn.",
-    "pairing": "Bánh kếp, món chiên, món thịt, món hấp. Đứng vững trước vị béo.",
+    "pairing": "Bánh jeon kimchi hoặc hải sản, món chiên giòn, thịt lợn luộc và bánh bao hấp rất hợp. Với thể trà chắc nhất trong các loại bạch trà, vị ngọt cỏ khô và chà là của trà đứng vững bên món ăn đậm vị, nốt trái cây chín nhẹ nhàng ôm lấy hương vị thịt. Tuy nhiên bên sashimi tinh tế, trà có thể cảm thấy nặng hơn món ăn.",
     "brewTip": "Lá dày chịu đắng tốt ngay cả trên 90 °C. Đun trong nồi cũng rất hợp.",
     "keep": "Đóng kín ở nhiệt độ phòng. Ba năm cho nốt hương dược liệu; năm đến bảy năm, màu hổ phách."
   },
@@ -168,7 +168,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bạch trà để lâu ở nhiệt độ phòng từ ba năm trở lên; quá trình oxy hóa chậm và hoạt động vi sinh vẫn tiếp diễn trong lúc bảo quản.",
     "story": "Câu nói của Phúc Kiến — “một năm là trà, ba năm là thuốc, bảy năm là báu vật” — là khởi nguồn của bạch trà lâu năm.",
     "flavor": "Chà là, thảo dược và trái cây khô, vị ngọt mềm và hậu vị dài. Nước trà màu hổ phách đậm.",
-    "pairing": "Bánh kẹo Hàn Quốc, chà là, hạt dẻ, nước dùng mùa đông. Uống sau bữa ăn như trà kết bữa.",
+    "pairing": "Bánh kẹo hangwa, chà là, hạt dẻ kho và các món canh mùa đông như gomtang rất hợp. Vị ngọt chà là và trái cây khô đã sâu thêm nhờ ủ lâu của trà lưu lại dịu dàng sau món canh đậm đà, nốt thảo mộc của trà gặp vị ngọt nhẹ của hangwa. Bên salad nhẹ, chiều sâu của trà sẽ đơn giản lấn át tất cả.",
     "brewTip": "Nước sôi. Lá dày cần ba phút trở lên; đun mười phút trong nồi cho nước trà dược liệu đậm.",
     "keep": "20–25 °C, độ ẩm dưới 60%, không mùi lạ. Đóng kín, trà sẽ tiếp tục chín."
   },
@@ -183,7 +183,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sấy khô. Hạng bạch trà có tỉ lệ lá cao.",
     "story": "Trong bạch trà Trung Quốc, nó xếp dưới Bạch Mẫu Đơn và trên Thọ Mi; trà cùng một vườn lấy tên khác nhau theo đẳng cấp.",
     "flavor": "Cỏ khô, hoa nhẹ nhàng, vị ngọt như chà là — rõ nét hơn Thọ Mi.",
-    "pairing": "Bánh truyền thống Hàn Quốc (hangwa), khoai lang hấp, bánh gạo không nhân.",
+    "pairing": "Hangwa, khoai lang hấp và bánh gạo đơn giản như baekseolgi rất hợp. Vị ngọt giống chà là nằm giữa cỏ khô và hương hoa giúp trà ngồi yên bên đồ ăn vặt bùi, thanh đạm mà hai bên không cản trở nhau. Nên tránh món tráng miệng đậm như sô cô la, vì chúng sẽ che mất hương hoa tĩnh lặng của trà.",
     "brewTip": "Hai phút ở 90 °C. Lá đủ dày cho lần pha thứ hai dễ dàng.",
     "keep": "Đóng kín ở nhiệt độ phòng; càng để lâu càng thêm nốt dược liệu và tròn vị."
   },
@@ -198,7 +198,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Tách lá → sao → sấy theo từng giai đoạn. Búp và cuống được loại bỏ, lá giữ dẹt không vò, rồi sấy thêm một lần trên than.",
     "story": "Trà Lục An vốn là trà tiến thời Minh; dạng qua phiến chỉ dùng lá tách ra từ đó dưới thời Thanh. Chỉ dùng lá là lý do hương thơm của nó giữ được lâu.",
     "flavor": "Hạt dẻ rang và khoai tây, thân vị dày, vị ngọt ở cuối. Nước trà màu vàng xanh đậm.",
-    "pairing": "Món xào, há cảo, vịt hun khói, các loại hạt.",
+    "pairing": "Rau xào, bánh bao chiên áp chảo, vịt hun khói và các loại hạt rang rất hợp. Nốt hạt dẻ rang và khoai tây với thể trà dày của trà hấp thụ dầu xào và khói một cách thoải mái, vị ngọt ở cuối giúp dọn sạch vị giác. Nên tránh sashimi tinh tế, nơi trọng lượng của trà sẽ chiếm phần chủ đạo.",
     "brewTip": "Lá dày dễ nở ở 85 °C. Cho nước vào trước, đặt lá lên trên."
   },
   "green-houkui": {
@@ -212,7 +212,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → ép → sấy khô. Lá được bọc trong vải và lưới rồi ép dẹt, để lại dấu vân lưới.",
     "story": "Tương truyền công lao thuộc về người trồng trà Vương Khôi Sinh ở Hầu Cương khoảng năm 1900; tên trà cũng được cho là bắt nguồn từ ngọn núi đầy khỉ (hầu).",
     "flavor": "Hương hoa lan và umami nhẹ; dù lá to vẫn không hề đắng.",
-    "pairing": "Cá hấp, cháo, đậu phụ.",
+    "pairing": "Cá hấp nhẹ, cháo trong và đậu phụ mềm rất hợp. Hương hoa lan và vị umami dịu của lá trà lớn có vị rõ nhất bên món ăn nêm nếm nhẹ, và vì không có vị đắng nên trà không bao giờ làm phiền kết cấu mềm mại. Nên tránh món ăn nêm gia vị cay, vì chúng sẽ xóa mất nốt hoa lan trong trẻo của trà.",
     "brewTip": "Đặt lá đứng thẳng trong ly cao. 85 °C trong 1½ phút."
   },
   "green-maojian": {
@@ -226,7 +226,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô. Lá mảnh được vò bằng tay thành kim thẳng.",
     "story": "Sử sách thời Đường đã ghi Tín Dương là vùng trà, và trà này được cho là đã giành huy chương vàng tại triển lãm Panama–Thái Bình Dương năm 1915.",
     "flavor": "Cỏ mới cắt, hạt dẻ, khói nhẹ, và vị chát sống động.",
-    "pairing": "Món đậu phụ, thịt gà, rau xuân.",
+    "pairing": "Đậu phụ kho thanh đạm, món ức gà và rau xuân như dureup (măng tây dại) và hẹ dại rất hợp. Cỏ, hạt dẻ và chút khói nhẹ thêm chiều sâu cho nguyên liệu thanh nhẹ, vị chát sống động của trà dọn sạch vị xanh của rau. Món sốt kem sẽ đè nén hương thơm nhẹ của trà.",
     "brewTip": "80 °C trong 1½ phút. Lá mảnh; ngâm lâu một chút là đắng."
   },
   "green-lushan": {
@@ -240,7 +240,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy lần đầu → sấy lần hai. Sương mù làm lá mỏng và mềm, nên trà được sao chậm ở lửa nhỏ.",
     "story": "Trà từ núi Lư đã được biết đến từ thời Đường và Tống; tên Lư Sơn Vân Vụ xuất hiện trong sử sách thời Minh.",
     "flavor": "Cỏ mềm và umami, ít chát.",
-    "pairing": "Cháo, cá trắng, hạt bạch quả.",
+    "pairing": "Cháo trong, cá trắng hấp và hạt bạch quả rang rất hợp. Hương cỏ dịu và vị umami của trà đi theo thớ của món ăn không kích thích, độ chát thấp không bao giờ che mất vị cá tinh tế. Nên tránh món hầm nêm nếm đậm, vì chúng sẽ chôn vùi hương thơm trong trẻo của trà.",
     "brewTip": "80 °C trong 1 phút. Lá mỏng, đừng ngâm lâu."
   },
   "green-hojicha": {
@@ -254,7 +254,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hấp → vò → sấy khô → rang mạnh. Nhiệt làm biến đổi catechin và một phần caffeine, nên trà thơm vị hạt chứ không đắng.",
     "story": "Tương truyền hojicha bắt đầu ở Kyoto những năm 1920 bằng cách rang lại trà đang lưu hành; nó trở thành chén trà cho trẻ em và cho buổi đêm.",
     "flavor": "Ngũ cốc rang, caramel và gỗ, gần như không đắng.",
-    "pairing": "Cơm, món chiên, món tráng miệng ngọt. Sau bữa ăn và vào ban đêm.",
+    "pairing": "Cơm nóng với món kèm, món chiên và món tráng miệng ngọt như pudding hoặc castella rất hợp. Nốt ngũ cốc rang và caramel của trà làm tròn bữa ăn, và vì gần như không đắng nên trà ngồi dễ dàng bên món tráng miệng ngọt. Bên sashimi tinh tế, mùi rang sẽ chiếm phần chủ đạo, nên ở đó hãy thưởng thức trà riêng.",
     "brewTip": "95 °C trong 1 phút. Rót nước sôi thẳng lên cũng được."
   },
   "green-genmaicha": {
@@ -268,7 +268,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Gạo lứt được rang đến khi nổ, rồi trộn với sencha đã hấp.",
     "story": "Tương truyền các hộ gia đình thời Edo kéo dài lượng trà ít ỏi bằng cách trộn thêm gạo.",
     "flavor": "Cơm cháy và bỏng ngô trên nền xanh của sencha.",
-    "pairing": "Onigiri, tempura, món ăn vặt cay.",
+    "pairing": "Onigiri, tempura và đồ ăn vặt cay như tteokbokki rất hợp. Mùi cơm cháy và bắp rang của trà chảy tự nhiên vào các món cơm, cạnh xanh của sencha nhẹ nhàng rửa trôi dầu chiên và vị cay. Bên món cá tinh tế, mùi nướng của trà có thể nổi bật hơn món ăn.",
     "brewTip": "90 °C trong 1 phút. Để gạo lắng xuống trước khi uống."
   },
   "green-hadong": {
@@ -282,7 +282,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo → vò → sấy khô. Hwagae giữ truyền thống sao tay, nên lá vẫn nhăn tự nhiên.",
     "story": "Hadong là một trong những vùng trà lâu đời nhất Hàn Quốc, với ghi chép trà đến đây dưới thời vua Heungdeok của Silla. Ujeon nghĩa là đợt hái sớm nhất trước Cốc vũ (khoảng 20 tháng 4).",
     "flavor": "Lá xanh tươi cùng nốt rang, ít chát và umami dài.",
-    "pairing": "Bibimbap rau thơm, cá nướng, bánh jeon, món tráng miệng vị thanh yên.",
+    "pairing": "Bibimbap rau thơm, cá nướng, bánh jeon hẹ hoặc hải sản và món tráng miệng yuzu rất hợp. Hương lá tươi và mùi nướng của trà nâng đỡ rau rừng và cá nướng, với ít vị chát, vị umami kéo dài đi suốt đến cuối bữa ăn. Sự tươi sáng của yuzu gặp trà ở đúng độ tươi hòa độ tươi.",
     "brewTip": "70–80 °C. Giữ lần rót đầu dưới 1½ phút thì trà sẽ không đắng."
   },
   "green-sejak": {
@@ -296,7 +296,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô. Lá hơi thô hơn ujeon và hương thơm mạnh hơn.",
     "story": "Sejak nghĩa là chim sẻ nhỏ, tên của một hạng trà Hàn Quốc được đặt theo ngày hái.",
     "flavor": "Cỏ và hương rang mạnh hơn ujeon, vị chát nhẹ ở cuối.",
-    "pairing": "Cơm lúa mạch, canh tương đậu, món kho.",
+    "pairing": "Cơm lúa mạch, canh tương đậu và củ cải hoặc khoai tây kho rất hợp. Nốt cỏ mạnh hơn và mùi nướng so với ujeon nâng đỡ bữa cơm nhà đậm đà, vị chát nhẹ ở cuối giúp sảng khoái sau vị mặn của doenjang. Bên sashimi tinh tế, nốt cỏ có thể cảm thấy hơi mạnh.",
     "brewTip": "80 °C trong 1¼ phút; cao hơn ujeon năm độ là vừa."
   },
   "green-jungjak": {
@@ -310,7 +310,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô. Lá dày hơn, nên sao nóng hơn và ngắn hơn ujeon.",
     "story": "Jungjak nghĩa là chim sẻ vừa, hạng trà hái sau ujeon và sejak.",
     "flavor": "Hương rang và vị chát đi cùng nhau; nước trà màu xanh đậm.",
-    "pairing": "Canh tương đậu, cá thu nướng, bánh kimchi chiên.",
+    "pairing": "Canh tương đậu, cá thu nướng và bánh kimchi chiên rất hợp. Mùi nướng và vị chát cùng nhau đứng vững bên món canh đậm và cá nướng nhiều dầu, trà rửa sạch vị giác sau cái cay của bánh kimchi jeon. Nên tránh món tinh tế như cá hấp đơn giản, nơi vị chát sẽ chiếm phần chủ đạo.",
     "brewTip": "85 °C trong 1 phút. Dù lá dày, ngâm quá cũng đắng."
   },
   "green-daejak": {
@@ -324,7 +324,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô. Lá thô, sao lâu hơn, làm với số lượng lớn.",
     "story": "Daejak nghĩa là chim sẻ lớn, hạng cuối của năm hái — chén trà các quán ăn rót cho khách.",
     "flavor": "Hương rang với vị chát rõ, dịu dần khi trà nguội.",
-    "pairing": "Món hầm cay, món thịt, cơm trắng.",
+    "pairing": "Món hầm cay, món thịt như thịt lợn xào và suất cơm đơn giản rất hợp. Vị chát trong và mùi nướng của trà xử lý chắc tay vị cay và dầu mỡ, khi nước trà nguội dần vị chát mềm đi, giúp trà dễ uống cùng cơm. Hương vị thô mộc của trà xung đột với món ăn tinh tế, nêm nếm nhẹ nhàng.",
     "brewTip": "90 °C trở lên. Ngâm lâu trong nước sôi sẽ đắng; giữ trong một phút."
   },
   "green-jukro": {
@@ -338,7 +338,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → sấy khô, tất cả bằng tay: hơn 300 vòng xoa trong nồi gang bằng cả hai lòng bàn tay.",
     "story": "Jukro nghĩa là sương tre, được cho là bắt nguồn từ tên một vườn trà ở Agyang.",
     "flavor": "Umami sâu và nốt hoa của lá hoang, ít chát.",
-    "pairing": "Rau rừng, nấm, cá nhẹ, bánh kẹo Hàn Quốc.",
+    "pairing": "Rau rừng như dương xỉ và cúc sao, nấm xào, cá nướng nhẹ và hangwa rất hợp. Vị umami sâu và hương hoa của lá trà dại nâng đỡ vị đắng nhẹ của rau rừng và hương thơm của nấm, độ chát thấp không bao giờ làm phiền kết cấu của món ăn. Thịt nêm nếm đậm sẽ che mất hương hoa tinh tế của trà.",
     "brewTip": "75 °C trong 1½ phút. Lá sao tay giữ được nhiều nước."
   },
   "yellow-junshan": {
@@ -352,7 +352,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → sấy lần đầu → bọc giấy để ủ vàng → sấy lại → bọc lại → hoàn thiện trên lửa. Búp giữ hình dáng tự nhiên; trong ly, chúng nổi tiếng vì đứng thẳng.",
     "story": "Nổi tiếng từ thời Đường và được tiến cống từ thời Ngũ Đại, dưới thời Thanh trà này được nói là quý hơn vàng. Tương truyền búp trà lên xuống ba lần khi ngâm.",
     "flavor": "Nước trà vàng nhạt, vị ngọt ngô và bơ, gần như không chát.",
-    "pairing": "Cá hấp, cháo, hạt bạch quả.",
+    "pairing": "Cá hấp nhẹ, cháo trong và hạt bạch quả rang rất hợp. Vị ngọt ấm áp của ngô và bơ của trà phủ dịu lên món ăn thanh đạm, và vì gần như không chát nên trà không bao giờ che mất hương vị tinh tế. Nên tránh món ăn nêm gia vị cay, vì chúng sẽ xóa mất vị ngọt ấm và hậu vị hoa của trà.",
     "brewTip": "85 °C. Trong ly thủy tinh, bạn có thể ngắm búp trà đứng thẳng."
   },
   "yellow-mengding": {
@@ -366,7 +366,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → ủ vàng (menhuang) → sấy khô. Búp được sao trong chảo, rồi chất đống để tự ngả vàng.",
     "story": "Tương truyền trà được trồng ở đây từ thời Tây Hán; tiến cống từ thời Đường, nó nằm trong số những trà danh tiếng lâu đời nhất Trung Quốc.",
     "flavor": "Ngô, bơ và nốt hoa lặng lẽ, vị ngọt mềm.",
-    "pairing": "Món Trung Hoa, cháo, món trứng.",
+    "pairing": "Món xào Trung Hoa nhẹ, cháo và món trứng như trứng hấp hoặc trứng khuấy rất hợp. Vị ngọt dịu của ngô và bơ của trà gặp độ béo của trứng, hương hoa tĩnh lặng ngồi nhẹ nhàng với món Trung Hoa không dầu mỡ. Món nhiều gia vị cay như mala sẽ che mất hương thơm dịu của trà.",
     "brewTip": "85 °C trong 1½ phút. Lá đã ủ vàng không ưa nhiệt cao."
   },
   "yellow-huoshan": {
@@ -380,7 +380,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → ủ vàng → sấy khô. Lá được sao nhẹ, ủ vàng, rồi sấy ở nhiệt thấp.",
     "story": "Sử sách thời Minh ghi trà Hoắc Sơn là trà tiến; suốt nhiều thế kỷ nó chỉ được làm với số lượng nhỏ.",
     "flavor": "Ngũ cốc mềm và vị ngọt, hơi chát ở cuối.",
-    "pairing": "Món Trung Hoa nhẹ, cháo, các loại hạt.",
+    "pairing": "Món Trung Hoa nhẹ, cháo trong và các loại hạt rang rất hợp. Hương ngũ cốc dịu và vị ngọt của trà đi theo vị mặn mà của món ăn không kích thích, vị chát mờ ở cuối nhẹ nhàng dọn sạch vị giác. Nên tránh thịt sốt đậm, nơi nốt ngũ cốc sẽ bị chôn vùi.",
     "brewTip": "85 °C trong 1¼ phút. Lá nhỏ nở nhanh."
   },
   "blend-jasmine": {
@@ -394,7 +394,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá và hoa được xếp lớp để hương chuyển sang trà, lặp lại nhiều lần (yinxiang — ướp hương).",
     "story": "Bắt đầu từ thời Tống và phát triển mạnh ở Phúc Kiến dưới thời Thanh; molihua là tên tiếng Trung của hoa nhài.",
     "flavor": "Hoa trắng ngọt ngào trên nền umami mềm của trà xanh.",
-    "pairing": "Món Trung Hoa, trái cây, món tráng miệng nhẹ.",
+    "pairing": "Món Trung Hoa như dim sum, trái cây tươi và món tráng miệng nhẹ như thạch hoặc mousse rất hợp. Hương hoa trắng ngọt ngào của trà làm sảng khoái vị giác một cách thơm ngát giữa những miếng món Trung Hoa đậm vị, còn vị umami dịu của trà xanh không bao giờ gây trở ngại. Món ăn nặng tỏi hoặc gia vị cay sẽ xung đột với hương hoa.",
     "brewTip": "85 °C trong 2½ phút; đậy nắp để hương không bay mất."
   },
   "green-zhuyeqing": {
@@ -408,7 +408,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trong chảo, vò, sấy khô. Việc sao giữ lá thẳng và dẹt, như lá tre.",
     "story": "Tương truyền trà bắt đầu trên núi Nga Mi năm 1964; cái tên đơn giản mô tả hình dáng của lá.",
     "flavor": "Hương cỏ xanh nhẹ, vị ngọt, hơi chát ở cuối. Nước trà màu xanh lam nhạt.",
-    "pairing": "Cá trắng hấp, đậu phụ, cháo. Món nhiều dầu sẽ lấn át nó.",
+    "pairing": "Cá hấp nhẹ, đậu phụ mềm và cháo trong rất hợp. Hương cỏ nhẹ và vị ngọt trong trẻo của trà thể hiện thuần khiết như màu nước xanh lam của nó bên món ăn nêm nếm nhẹ, vị chát dịu làm tươi mới vị giác. Nên tránh món xào nhiều dầu, vì dầu sẽ đè nén hương thơm trong trẻo của trà.",
     "brewTip": "Trong ly, rót nước vào trước rồi thả lá vào; lá chìm từ từ và nở dần.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín trong tủ lạnh.",
     "keywords": "Trúc Diệp Thanh Zhu Ye Qing Nga Mi Emei Tứ Xuyên Sichuan trà xanh sao chảo trước Thanh minh pre-Qingming"
@@ -424,7 +424,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hấp → vò → sấy khô. Diệt men bằng hơi hấp hiếm gặp trong trà xanh Trung Quốc, được giữ từ phương pháp của Nhật Bản.",
     "story": "Làm ở Ân Thi, Hồ Bắc từ thời Thanh; quy trình hấp hiện nay được định hình vào những năm 1960.",
     "flavor": "Umami đậm của lá hấp, viền rong biển, vị ngọt mềm. Nước trà xanh nhạt trong.",
-    "pairing": "Sashimi, sushi, namul. Thịt nhiều dầu sẽ xung đột.",
+    "pairing": "Sashimi cá trắng, sushi và rau xanh chần rất hợp. Vị umami của lá trà hấp và cạnh rong biển liên kết cá và cơm một cách tự nhiên, vị ngọt dịu của trà để lại hậu vị sạch cho sashimi. Nên tránh thịt nhiều dầu, vì nó xung đột với vị umami trong trẻo của trà.",
     "brewTip": "70–75 °C. Rót nước sôi sang một chén khác một lần để đạt gần mức đó.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh — lá hấp mất hương nhanh hơn.",
     "keywords": "Ân Thi Ngọc Lộ Enshi Yulu trà xanh hấp Hồ Bắc Hubei lá kim needle"
@@ -440,7 +440,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, sấy khô — nhẹ nhàng và ngắn, vì lá mỏng.",
     "story": "Dù mang tên bạch trà, đây là trà xanh chứ không phải bạch trà: giống 'Baiye 1' ngả màu nhạt vào mùa xuân.",
     "flavor": "Axit amin cao cho umami mạnh và gần như không chát; nước trà rất nhạt.",
-    "pairing": "Cá trắng, đậu phụ, bánh không đường.",
+    "pairing": "Cá trắng hấp, món đậu phụ và bánh quy gạo không đường rất hợp. Giàu axit amin, vị umami của trà rõ rệt nhưng gần như không chát, hoạt động gần như một thứ gia vị nâng đỡ nguyên liệu thanh nhẹ. Món ăn nêm nếm đậm sẽ che mất vị umami tinh tế đó.",
     "brewTip": "75–80 °C. Ngâm quá lâu, cỏ sẽ lấn vị ngon.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "An Cát Bạch Trà Anji Bai Cha Baiye 1 Chiết Giang Zhejiang trà xanh umami"
@@ -456,7 +456,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, sấy khô; lá đến từ một thung lũng nhiều sương.",
     "story": "Sử sách ghi rằng nó giành huy chương vàng tại triển lãm Panama–Thái Bình Dương năm 1915.",
     "flavor": "Hoa thiên về hoa lan, vị ngọt dịu, ít chát.",
-    "pairing": "Món hấp nhẹ, cháo, các loại hạt.",
+    "pairing": "Món hấp nhẹ, cháo trong và các loại hạt rang rất hợp. Hương hoa nghiêng về hoa lan và vị ngọt dịu của trà lan tỏa tĩnh lặng bên món ăn không kích thích, độ chát thấp không bao giờ cản trở kết cấu. Nên tránh món ăn nêm gia vị cay, vì chúng sẽ xóa mất hương hoa trong trẻo của trà.",
     "brewTip": "80 °C là đủ cho lá mỏng này; lần pha thứ hai là ngon nhất.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Cẩu Cổ Não Gougunao Toại Xuyên Suichuan Giang Tây Jiangxi trà xanh hoa lan orchid"
@@ -472,7 +472,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Được tạo ra năm 1958 và sau đó được xếp vào hàng trà danh tiếng của Trung Quốc, theo cách kể thông thường.",
     "story": "Lá được vò thành hình lông mày — vì thế có chữ 'mei' (lông mày) trong tên.",
     "flavor": "Cỏ mềm, ngọt hạt dẻ, ít chát.",
-    "pairing": "Món rau, đậu phụ, bữa cơm thường ngày.",
+    "pairing": "Rau xanh như rau bina và giá đỗ, món kèm đậu phụ và nói chung là cơm nhà hằng ngày rất hợp. Hương cỏ dịu và vị ngọt hạt dẻ của trà hòa quyện tự nhiên với bữa cơm nhà không kích thích, độ chát thấp giúp trà dễ uống mỗi ngày. Bên món ăn nhiều gia vị cay, nốt cỏ sẽ bị chôn vùi.",
     "brewTip": "Ngâm ngắn ở 80 °C; hai lần pha là đủ cho lá mỏng này.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Vụ Nguyên Minh Mi Wuyuan Mingmei Giang Tây Jiangxi trà xanh lông mày eyebrow"
@@ -488,7 +488,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, rồi sao và vò thêm hai lần nữa, tạo nên độ xoăn mịn.",
     "story": "Trà Mông Đính đã được tiến vào triều đình nhà Đường — một trong những hồ sơ lâu đời nhất của trà Trung Quốc.",
     "flavor": "Hạt dẻ và đậu rang, vị ngọt mềm, hậu vị sạch.",
-    "pairing": "Cơm, rau, súp nhẹ.",
+    "pairing": "Cơm mới nấu, món kèm rau và canh giá đỗ nhẹ rất hợp. Mùi rang hạt dẻ và đậu nành của trà chảy vào vị ngọt của cơm, hậu vị trong trẻo nâng đỡ món kèm thanh đạm mà không che lấp chúng. Món kem đậm hoặc gia vị cay sẽ xung đột với hậu vị trong trẻo đó.",
     "brewTip": "80 °C; cuộn xoăn chặt nhả hết vị trong một phút.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Mông Đính Cam Lộ Mengding Ganlu Nhã An Ya'an Tứ Xuyên Sichuan trà tiến tribute"
@@ -504,7 +504,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hán Trung nằm gần rìa phía bắc của xứ trà Trung Quốc: mùa đông dài, lứa xuân muộn, lá dày hơn.",
     "story": "Năm 2007, nhiều tên trà của vùng được gộp dưới một nhãn chung là Hán Trung Tiên Hào.",
     "flavor": "Cỏ và hoa thoang thoảng, vị ngọt kéo dài, ít chát.",
-    "pairing": "Mì đơn giản, rau, các loại hạt.",
+    "pairing": "Món mì thanh đạm như mì tiệc (banquet noodles), rau và các loại hạt rang rất hợp. Cỏ và hương hoa mờ phủ nhẹ lên nước dùng trong, vị ngọt kéo dài đi dịu dàng qua bữa ăn. Nên tránh mì Trung Hoa nhiều dầu, vì dầu sẽ đè nén hương thơm trong trẻo của trà.",
     "brewTip": "Lá dày cần 1¼ phút ở 80 °C; vị ngọt hiện rõ ở lần pha thứ hai.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Hán Trung Tiên Hào Hanzhong Xianhao Thiểm Tây Shaanxi Tần Lĩnh Qinling trà phương bắc northern"
@@ -520,7 +520,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, sấy khô ở nhiệt thấp vì búp non.",
     "story": "Trà lớn lên quanh chùa Huệ Minh ở Cảnh Ninh, Chiết Giang — ngôi chùa đã cho trà cái tên này.",
     "flavor": "Hoa thoang thoảng cùng cỏ, vị ngọt sạch.",
-    "pairing": "Cháo, rau, cá nhẹ.",
+    "pairing": "Cháo trong, rau xanh chần và cá hấp nhẹ rất hợp. Hương hoa mờ, cỏ và vị ngọt trong trẻo của trà đi theo thớ của món ăn không kích thích và để lại vị giác thanh sạch. Nên tránh món hầm nêm nếm đậm, vì chúng sẽ chôn vùi hương thơm tinh tế của trà.",
     "brewTip": "Một phút ở 80 °C; lá non để lâu sẽ đắng.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Trà Huệ Minh Huiming Cảnh Ninh Jingning Chiết Giang Zhejiang trà chùa temple"
@@ -536,7 +536,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo, vò, sấy khô — sao bằng máy ở quy mô lớn, sao tay ở các nông trại nhỏ.",
     "story": "Boseong ở Jeollanam-do có những cánh đồng trà rộng nhất Hàn Quốc, hái từ ujeon đến daejak từ mùa xuân vào đầu hè.",
     "flavor": "Rang và cỏ cùng lúc, vị ngọt phía sau; những đợt hái muộn hơn chát hơn.",
-    "pairing": "Rau, cá nướng, rong biển, cơm lúa mạch.",
+    "pairing": "Món kèm rau, cá nướng, rong biển nướng và cơm lúa mạch rất hợp. Mùi nướng và cỏ cùng nhau nâng đỡ mâm cơm đậm đà, vị ngọt theo sau cân bằng vị mặn của cá nướng. Bên sashimi tinh tế, nốt rang có thể cảm thấy hơi mạnh.",
     "brewTip": "70–75 °C; daejak thô có thể chịu 85–90 °C trong thời gian ngắn.",
     "keep": "Trong vòng một tháng sau khi mở, để lạnh và khô.",
     "keywords": "Boseong trà xanh Hàn Quốc Korea ujeon sejak jungjak daejak"
@@ -552,7 +552,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò thành xoắn mịn, sấy khô.",
     "story": "Tam Hiệp, ở Tân Bắc, làm trà xanh kiểu Trung Hoa từ những năm 1940; cái tên bắt nguồn từ Bích Loa Xuân của Đông Đình, Giang Tô.",
     "flavor": "Hương cỏ xanh, ngọt trái cây thoang thoảng, ít chát, nước trà trong.",
-    "pairing": "Món Trung Hoa nhẹ, cá trắng, món tráng miệng đơn giản.",
+    "pairing": "Món xào Trung Hoa nhẹ, cá trắng hấp và món tráng miệng trái cây đơn giản rất hợp. Hương cỏ xanh và vị ngọt trái cây mờ của trà phủ nhẹ như màu nước trong của nó, nâng đỡ tươi mới món ăn không kích thích. Nên tránh món cay, vì chúng sẽ xóa mất nốt trái cây trong trẻo của trà.",
     "brewTip": "75 °C; xoắn mịn nhả hương trong một phút.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Bích Loa Xuân Tam Hiệp Sanxia Biluochun Đài Loan Taiwan Tân Bắc New Taipei trà xanh xoắn spiral"
@@ -568,7 +568,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hấp, vò, sấy khô. Việc che nắng làm tăng axit amin và giảm catechin, nên umami tăng lên.",
     "story": "Chỉ che trong một đến hai tuần trước thu hoạch — nằm giữa gyokuro (khoảng 20 ngày) và sencha (không che).",
     "flavor": "Umami sâu, ít chát, rong biển và vị ngọt đi cùng nhau.",
-    "pairing": "Sashimi, món trứng, cơm.",
+    "pairing": "Sashimi cá trắng, trứng cuộn hoặc trứng hấp và cơm mới nấu rất hợp. Vị umami được làm sâu thêm nhờ che bóng của trà nâng đỡ cá và trứng một cách đậm đà, nốt rong biển và vị ngọt chảy tự nhiên vào cơm. Với ít vị chát, trà không bao giờ xung đột với món ăn tinh tế.",
     "brewTip": "60–70 °C; nước nóng hơn biến umami thành vị chát.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Kabusecha Nhật Bản Japan trà xanh che nắng shaded umami"
@@ -584,7 +584,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo, vò, sấy khô: không hấp, nên chén trà thơm rang chứ không giống rong biển.",
     "story": "Hầu hết trà xanh Nhật Bản được hấp, nhưng cách sao chảo vẫn tồn tại ở Kyushu, nổi bật là Ureshino.",
     "flavor": "Ngọt ngũ cốc rang, dịu, ít tính rong biển.",
-    "pairing": "Cá nướng, cơm, món chiên.",
+    "pairing": "Cá nướng, cơm và món chiên rất hợp. Mùi nướng ngũ cốc rang chảo của trà gặp hương thơm của cá nướng, và vì ít tính chất rong biển nên trà hợp với món cơm hằng ngày mà không gượng ép. Sau món chiên, vị ngọt nhẹ của trà dịu dàng dọn sạch vị giác.",
     "brewTip": "80 °C; trà này pha lạnh cũng ngon.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Kamairicha trà xanh Nhật Bản sao chảo pan-fired Ureshino Kyushu"
@@ -600,7 +600,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ép dẹt bằng tay, sấy khô.",
     "story": "Trà xanh kiểu Long Tỉnh làm ở Tân Xương, Chiết Giang: hái sớm hơn và rẻ hơn Tây Hồ Long Tỉnh.",
     "flavor": "Ngọt đậu rang, hương thơm thô hơn Tây Hồ Long Tỉnh một chút.",
-    "pairing": "Món xào, tôm, đậu phụ.",
+    "pairing": "Rau xào, món tôm và đậu phụ rất hợp. Mùi nướng đậu rang của trà hơi thô hơn Long Tỉnh Tây Hồ, điều đó giúp trà xử lý chắc tay hương chảo của món xào và vị ngọt của tôm. Bên cá hấp tinh tế, mùi nướng hơi nhỉnh hơn một chút.",
     "brewTip": "Một phút ở 80 °C; lá dẹt nhả vị nhanh.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Đại Phật Long Tỉnh Dafo Longjing Tân Xương Xinchang Chiết Giang Zhejiang trà xanh dẹt flat"
@@ -616,7 +616,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lao Sơn, gần Thanh Đảo ở Sơn Đông, là nơi trà Trung Quốc được trồng xa về phía bắc gần nhất: gió biển và đất granit cho lá dày hơn.",
     "story": "Sử sách ghi việc trồng các bụi trà phương nam ở đây từ năm 1959.",
     "flavor": "Rang thơm và vị ngọt chắc; lá dày bền qua nhiều lần pha.",
-    "pairing": "Hải sản, há cảo, món xào.",
+    "pairing": "Món hải sản, bánh bao chiên áp chảo và món xào rất hợp. Mùi rang nướng và vị ngọt chắc của trà nâng đỡ vị umami của hải sản và độ đậm của bánh bao, lá trà dày giữ trà pha lại được suốt bữa ăn dài. Bên sashimi đơn giản, nốt rang sẽ chiếm phần chủ đạo.",
     "brewTip": "1¼ phút ở 80 °C; hương vẫn còn ở lần pha thứ ba.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Trà xanh Lao Sơn Laoshan Thanh Đảo Qingdao Sơn Đông Shandong trà phương bắc northern"
@@ -632,7 +632,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò nhẹ, sấy khô; việc vò làm oxy hóa mép lá một chút và để lại viền đỏ.",
     "story": "Được nghĩ ra ở Phúc Đỉnh, Phúc Kiến năm 1968: làm héo lâu hơn và vò nhẹ, đưa bạch trà tiến một phần về phía ô long.",
     "flavor": "Vị ngọt dịu của bạch trà với hoa và chút hương rang.",
-    "pairing": "Trái cây khô, các loại hạt, bánh quy không nhân.",
+    "pairing": "Trái cây khô, các loại hạt rang và bánh quy đơn giản rất hợp. Vị ngọt bạch trà lớp lớp với hương hoa và chút mùi nướng của trà thể hiện các lớp hương rõ nhất bên đồ ăn vặt bùi. Nên tránh món tráng miệng sô cô la đậm, vì chúng sẽ che mất hương hoa tĩnh lặng của trà.",
     "brewTip": "85 °C; hương mở nhanh hơn bạch trà truyền thống — hai phút là đủ.",
     "keep": "Mát và khô; hương thơm dịu dần theo thời gian.",
     "keywords": "bạch trà tân công nghệ new craft white tea Phúc Đỉnh Fuding vò nhẹ light roll bán oxy hóa semi-oxidised"
@@ -648,7 +648,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bạch trà từ bụi lá lớn Vân Nam; một mặt lá khô nhạt màu, mặt kia sẫm, như ánh trăng và bóng tối — nên có tên này.",
     "story": "Làm héo trong bóng râm trong nhà; khí hậu khô của Vân Nam và lá lớn tạo nên vẻ hai tông màu.",
     "flavor": "Trái cây khô và vị ngọt mật ong, thân vị mềm, nước trà màu mơ nhạt.",
-    "pairing": "Mơ khô, táo tàu, các loại hạt, món tráng miệng hạt dẻ.",
+    "pairing": "Mơ khô, táo tàu, các loại hạt và món tráng miệng hạt dẻ rất hợp. Khi vị ngọt trái cây khô và mật ong của trà gặp đồ ăn vặt cùng một thớ vị, thể trà mềm mại ôm lấy vị ngọt một cách ấm áp. Bên salad trái cây chua, vị ngọt kéo theo hướng khác, nên ở đó hãy thưởng thức trà riêng.",
     "brewTip": "Pha ngắn, lặp lại ở 85 °C; vị ngọt tăng từ lần thứ ba.",
     "keep": "Mát và khô; tránh ẩm thì giữ được nhiều năm.",
     "keywords": "Nguyệt Quang Bạch Moonlight White Vân Nam Yunnan bạch trà lá lớn large leaf làm héo trong bóng râm shade withered"
@@ -664,7 +664,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo và sấy khô, sấy lâu hơn cho lá dày.",
     "story": "Làm ở Lăng Vân, Quảng Tây từ một giống trà mà búp mang nhiều lông tơ trắng; cùng loại lá này cũng được làm thành trà xanh.",
     "flavor": "Hoa mềm, cỏ thoang thoảng, vị ngọt nhẹ.",
-    "pairing": "Món tráng miệng đơn giản, các loại hạt, trái cây.",
+    "pairing": "Món tráng miệng thanh đạm, các loại hạt rang và trái cây tươi rất hợp. Hương hoa dịu và cỏ mờ với vị ngọt nhẹ của trà lan tỏa tĩnh lặng bên đồ ăn vặt không kích thích. Món tráng miệng caramel hoặc sô cô la đậm sẽ chôn vùi hương hoa nhẹ của trà.",
     "brewTip": "1½ phút ở 85 °C; lá dày bền ba lần pha.",
     "keep": "Mát, khô, đóng kín.",
     "keywords": "Lăng Vân Bạch Hào Lingyun Baihao Quảng Tây Guangxi bạch trà búp lông tơ downy buds"
@@ -680,7 +680,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, rồi 'men huang' — chất đống và bọc lại để lá tự ngả vàng — rồi sấy khô.",
     "story": "Một loại trà vàng nhỏ từ Bắc Cảng gần Nhạc Dương, Hồ Nam, phía tây hồ Động Đình.",
     "flavor": "Ngọt ngũ cốc mềm, ít chát hơn trà xanh.",
-    "pairing": "Cháo, rau, bữa cơm thường ngày.",
+    "pairing": "Cháo trong, món kèm rau và cơm nhà hằng ngày rất hợp. Hương ngũ cốc dịu và vị ngọt của trà hòa quyện tự nhiên với bữa cơm nhà thanh đạm, và với độ chát ít hơn trà xanh, trà không bao giờ làm phiền các món kèm. Nên tránh món ăn nêm gia vị cay, vì chúng sẽ chôn vùi nốt ngũ cốc của trà.",
     "brewTip": "1½ phút ở 85 °C; lá đã ủ đống đạt đỉnh ở lần pha thứ hai.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Bắc Cảng Mao Tiêm Beigang Maojian Hồ Nam Hunan Nhạc Dương Yueyang trà vàng ủ vàng men huang"
@@ -696,7 +696,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, chất đống để ủ vàng, rồi sấy bằng khói; một nốt thông nhẹ ở lại trong lá.",
     "story": "Trà vàng Hồ Nam từ Nguy Sơn, Ninh Hương, khác thường ở công đoạn hun khói nhẹ khi sấy cuối.",
     "flavor": "Ngọt ngũ cốc với khói thông nhẹ, ít chát.",
-    "pairing": "Món hun khói, cá nướng, cơm.",
+    "pairing": "Vịt hoặc cá hun khói, cá nướng và cơm rất hợp. Vị ngọt ngũ cốc lớp lớp với khói thông nhẹ chảy tự nhiên vào hương thơm của món hun khói, độ chát thấp giúp trà dễ uống cùng cơm. Bên cá hấp tinh tế, khói hơi nhỉnh hơn một chút.",
     "brewTip": "1½ phút ở 85 °C; khói dịu đi ở lần pha thứ hai.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh, để xa các loại trà khác.",
     "keywords": "Nguy Sơn Mao Tiêm Weishan Maojian Hồ Nam Hunan trà vàng sấy khói smoke dried"
@@ -712,7 +712,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, chất đống ủ vàng trong thời gian ngắn, sấy khô — đống ủ ngắn giữ trà gần với trà xanh.",
     "story": "Trà vàng từ Bình Dương ở nam Chiết Giang, được ghi là trà tiến thời Thanh.",
     "flavor": "Ngũ cốc mềm, hoa thoang thoảng, vị ngọt nhẹ.",
-    "pairing": "Cháo, cá nhẹ, rau.",
+    "pairing": "Cháo trong, cá hấp nhẹ và rau rất hợp. Hương ngũ cốc dịu và hương hoa mờ của trà lan tỏa nhẹ nhàng bên món ăn không kích thích, vị ngọt nhẹ để lại hậu vị sạch. Món ăn nêm nếm đậm sẽ che mất hương hoa tĩnh lặng của trà.",
     "brewTip": "1 phút 20 giây ở 85 °C — gần với trà xanh, nên giữ thời gian ngắn.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Bình Dương Hoàng Thang Pingyang Huangtang Ôn Châu Wenzhou Chiết Giang Zhejiang trà vàng trà tiến tribute"
@@ -728,7 +728,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, chất đống ủ vàng lâu, sấy khô; thường đun trong nồi thay vì ngâm pha.",
     "story": "Trà vàng lá thô từ tây An Huy; 'đại trà' (trà lớn) nói thẳng điều đó — lá lớn, nước đậm.",
     "flavor": "Rang thơm, vị ngọt mạnh, và chịu được khi pha với sữa.",
-    "pairing": "Món cay, súp, bữa sáng.",
+    "pairing": "Món cay, canh nóng và đồ ăn sáng như bánh mì nướng rất hợp. Mùi rang nướng và vị ngọt mạnh của trà làm dịu vị cay, hương thơm của trà vẫn sống được trong sữa nên trà cũng hợp làm trà sữa. Bên cá tinh tế, nốt rang sẽ chiếm phần chủ đạo.",
     "brewTip": "95–100 °C và cho trà đủ thời gian; đun trong nồi cũng rất ngon.",
     "keep": "Trong vòng hai tháng sau khi mở, mát và khô.",
     "keywords": "Hoản Tây Hoàng Đại Trà Wanxi Huangda An Huy Anhui trà vàng đun sôi boiled lá thô coarse leaf"
@@ -744,7 +744,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, chất đống ủ vàng, vò thành sợi mịn, sấy khô.",
     "story": "Trà vàng Hồ Bắc từ quanh chùa Lộc Uyển ở Viễn An, được ghi chép từ thời Càn Long nhà Thanh.",
     "flavor": "Ngũ cốc mềm và hoa, vị ngọt sạch.",
-    "pairing": "Cháo, rau, súp nhẹ.",
+    "pairing": "Cháo trong, món kèm rau và canh giá đỗ nhẹ rất hợp. Ngũ cốc dịu và hương hoa phủ lên món ăn thanh đạm, vị ngọt trong trẻo của trà để lại hậu vị rõ ràng sau món canh. Nên tránh món xào nhiều dầu mỡ, vì chúng sẽ đè nén hương thơm trong trẻo của trà.",
     "brewTip": "1½ phút ở 85 °C; hai lần pha là đủ cho lá mỏng này.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để lạnh.",
     "keywords": "Viễn An Lộc Uyển Yu'an Luyuan Hồ Bắc Hubei trà vàng trà chùa temple"
@@ -760,7 +760,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà bạc hà của Maroc và vùng Maghreb rộng hơn: trà xanh gunpowder Trung Quốc với bạc hà xanh tươi và đường, rót từ trên cao.",
     "story": "Trà gunpowder pha ngắn, thêm bạc hà và đường, rồi rót từ cao để sục khí.",
     "flavor": "Bạc hà mát, đường đậm, cỏ của trà xanh — sảng khoái ngay cả khi uống nóng.",
-    "pairing": "Bánh ngọt, couscous, sau bữa ăn.",
+    "pairing": "Bánh ngọt với mật ong hoặc đường, món couscous và thịt cừu rất hợp. Sự mát lạnh của bạc hà và đường đậm của trà rửa vị giác một cách sảng khoái sau bữa ăn đậm đà, còn nốt cỏ của trà xanh cân bằng bên dưới bạc hà. Bên cá tinh tế, bạc hà sẽ chiếm phần chủ đạo.",
     "brewTip": "Ngâm ngắn ở 85 °C; cho bạc hà vào sau cùng để tinh dầu không mất.",
     "keep": "Lá đóng kín và khô; dùng bạc hà tươi mỗi lần.",
     "keywords": "Trà bạc hà Maroc Moroccan mint tea gunpowder Maghreb bạc hà xanh spearmint"
@@ -776,7 +776,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao trên chảo → vò → sấy khô. Trà xanh Hàn Quốc làm từ lá non đầu xuân.",
     "story": "Tương truyền cái tên do họa sĩ Heo Baek-ryeon đặt tại xưởng vẽ Chunseolheon của ông trên núi Mudeung; gắn bó chặt chẽ với Samae Dawon.",
     "flavor": "Hương xanh tươi, vị ngọt dịu, nước trà trong và nhẹ.",
-    "pairing": "Món Hàn nhẹ, namul, bánh gạo. Gia vị mạnh sẽ lấn át nó.",
+    "pairing": "Món kèm Hàn Quốc nhẹ, namul và bánh gạo như baekseolgi rất hợp. Hương thơm tươi và vị ngọt dịu của lá trà mềm như tuyết xuân có vị rõ nhất bên món ăn nhẹ nhàng. Nên tránh món ăn mạnh vị gochujang hoặc gia vị tỏi, vì chúng sẽ chôn vùi hương thơm tinh tế của trà.",
     "brewTip": "70–75 °C; để nước sôi nguội bớt một chút để giữ vị ngọt.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để tủ lạnh.",
     "keywords": "Chunseol Mudeung Jeungsimsa trà xanh Hàn Quốc Korean green tea sao chảo pan-fired"
@@ -792,7 +792,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Che nắng → hấp → sấy khô → loại bỏ cuống và gân. Lá không vò sẽ trở thành matcha.",
     "story": "Nghiền chậm trên cối đá, nó biến thành matcha; bản thân lá cũng được pha uống nguyên trạng.",
     "flavor": "Umami sâu nhờ che nắng, viền rong biển, màu xanh tươi.",
-    "pairing": "Wagashi và sushi; umami của nó hợp với món ăn đơn giản.",
+    "pairing": "Wagashi, sushi và sashimi cá trắng rất hợp. Vị umami được làm sâu thêm nhờ che bóng và cạnh rong biển của trà nâng đỡ cá và cơm một cách đậm đà, trà tạo cân bằng đắng ngọt với vị ngọt của wagashi. Thịt nhiều dầu xung đột với vị umami sâu và làm mờ cả hai.",
     "brewTip": "60–70 °C; nước nóng hơn làm nổi vị đắng.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để tủ lạnh, tránh ánh sáng và mùi lạ.",
     "keywords": "Tencha nguyên liệu matcha base che nắng shaded hấp steamed Uji"
@@ -808,7 +808,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sencha dạng bột, khuấy vào nước và uống dưới dạng hỗn hợp lơ lửng thay vì nước ngâm.",
     "story": "Làm từ sencha không che nắng, khác với matcha; món quen thuộc ở các quán sushi băng chuyền.",
     "flavor": "Vị xanh, hơi đắng của sencha trọn vẹn; toàn bộ lá được uống hết.",
-    "pairing": "Sushi và sashimi; làm dịu vị béo của cá nhiều dầu.",
+    "pairing": "Sushi, sashimi và cá nhiều dầu nướng rất hợp. Hương xanh và vị đắng của sencha pha lên trọn vẹn ở dạng bột, rửa trôi độ ngậy của cá và để lại vị giác sảng khoái. Vị đắng của trà xung đột với món tráng miệng ngọt, nên hãy giữ trà ở phía bữa ăn.",
     "brewTip": "Khuấy trước khi uống vì bột lắng xuống. Bột cũng tan trong nước lạnh.",
     "keep": "Đóng kín và để tủ lạnh; trà bột oxy hóa nhanh.",
     "keywords": "Funmatsu sencha bột powdered sencha bột trà xanh green tea powder sushi"
@@ -824,7 +824,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm từ búp và mảnh lá được sàng ra trong quá trình làm gyokuro và sencha.",
     "story": "Nổi tiếng là 'agari' đậm được phục vụ ở các quán sushi; cũng được dùng rộng rãi cho trà túi lọc.",
     "flavor": "Màu sẫm, vị mạnh, viền đắng; pha nhanh và đậm.",
-    "pairing": "Sushi và sashimi; làm dịu vị béo của cá nhiều mỡ.",
+    "pairing": "Sushi, sashimi và cá nhiều dầu như cá cam và cá ngừ rất hợp. Hương vị mạnh, pha nhanh và hậu vị đắng của trà bắt lấy mùi tanh của cá nhiều dầu và rửa sạch vị giác. Bên sashimi cá trắng tinh tế, sức mạnh của trà có thể chiếm phần chủ đạo.",
     "brewTip": "Giữ thời gian ngắn — để quá lâu sẽ đắng gắt.",
     "keep": "Trong vòng một tháng sau khi mở, đóng kín và để tủ lạnh.",
     "keywords": "Konacha agari trà sushi sushi tea mảnh vụn fragments trà túi lọc tea bag"
@@ -856,7 +856,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sấy khô, không vò hay sao — bạch trà từ búp non sấy nguyên trạng.",
     "story": "Làm theo lô nhỏ từ giống trà Trung Quốc và giống clonal ở Darjeeling, với nốt muscatel.",
     "flavor": "Hoa mềm, nốt muscatel của Darjeeling, vị ngọt nhẹ và sạch.",
-    "pairing": "Món tráng miệng đơn giản và trái cây; ngon nhất khi uống riêng.",
+    "pairing": "Món tráng miệng thanh đạm, trái cây tươi và sandwich nhẹ rất hợp. Hương hoa dịu và sắc thái muscatel của Darjeeling của trà thể hiện rõ bên món ăn nhẹ nhàng, vị ngọt nhẹ, trong trẻo lớp lớp hài hòa với sự tươi sáng của trái cây. Món ăn nêm nếm đậm sẽ che mất hương thơm tinh tế của trà, nên trà ngon nhất khi thưởng thức một mình.",
     "brewTip": "Cách nào cũng được: 2.5 g ngâm lâu ở 80–90 °C trong 2–4 phút, hoặc 5 g với nhiều lần ngâm ngắn. Nếu nhà sản xuất có hướng dẫn, hãy theo hướng dẫn đó trước.",
     "keep": "Đóng kín, mát và khô; bạch trà hút mùi nhanh.",
     "keywords": "Bạch trà Darjeeling Darjeeling white tea Ấn Độ India muscatel núi cao high mountain"
@@ -872,7 +872,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá (6–8 lần) → sao diệt men → vò trong vải thành viên → sấy khô → nướng nhẹ.",
     "story": "Truyền thống kể rằng giống trà này xuất phát từ một cây trà được Ngụy Ấm ở làng Tùng Nham tìm thấy gần miếu Quan Âm vào những năm 1720; cái tên được hiểu là nặng như sắt và nhân từ như Quan Âm.",
     "flavor": "Hương lan và hoa huệ, vị béo mượt như kem, chút chát nhẹ chuyển thành vị ngọt hậu.",
-    "pairing": "Thịt nướng, phô mai, các loại hạt, trà sữa ô long.",
+    "pairing": "Trà kết hợp tốt với thịt nướng, phô mai ủ lâu, các loại hạt rang và trà sữa ô long. Hương hoa lan và kết cấu mịn như kem nhẹ nhàng ôm lấy hương vị béo đậm, còn vị chát mờ ở cuối để lại khoang miệng sảng khoái. Hương thơm của trà tinh tế, nên tránh món ăn nặng gia vị tỏi hoặc ớt.",
     "brewTip": "Tráng bỏ nước đầu. Trà vò viên cần đủ 45 giây để nở lá.",
     "keywords": "thiết quan âm an khê ô long phúc kiến hương lan Tieguanyin Anxi oolong"
   },
@@ -887,7 +887,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng than, từ ba đến sáu lần.",
     "story": "Tương truyền rằng Đinh Hiển, một thư sinh trên đường đi thi, được trà Vũ Di chữa khỏi bệnh và đã treo chiếc áo đỏ của mình lên vách đá để tạ ơn; sáu cây trà mẹ là những cây trên vách Cửu Long Khoa.",
     "flavor": "Ngũ cốc rang, ca cao và đá ướt, vị đậm dày và hậu vị kéo dài.",
-    "pairing": "Thịt cừu, vịt hun khói, các món tương đậu, sô cô la đen.",
+    "pairing": "Trà hợp với thịt cừu nướng, vịt hun khói, món tương đậu như canh doenjang, và sô cô la đen cacao cao. Nốt ngũ cốc rang và cacao chồng lên hương vị khói và vị mặn mà của tương lên men, thể trà dày đứng vững trước món ăn đậm vị. Hương thơm của trà xung đột với salad hoặc dưa chua có vị chua gắt.",
     "brewTip": "98–100 °C. Tráng trà trước. Trà nướng bắt đầu mở hương từ nước pha thứ ba.",
     "keywords": "đại hồng bào vũ di nham trà nướng than Da Hong Pao Wuyi rock oolong"
   },
@@ -902,7 +902,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá nhiều lần → sao diệt men → vò → sấy khô → nướng nhẹ.",
     "story": "Mỗi cây trà cổ trên núi Phượng Hoàng được chế biến riêng, vì thế gọi là đơn tùng — tức một cây riêng lẻ.",
     "flavor": "Hương hoa trắng, hoa dành dành và mật ong rất rõ, kết thúc bằng vị chát và ngọt hậu.",
-    "pairing": "Trái cây, phô mai, cá nướng, highball ô long.",
+    "pairing": "Trà kết hợp tốt với trái cây tươi, phô mai mềm, cá nướng giòn da, và highball ô long đá. Hương hoa dành dành và mật ong sống động hòa quyện với vị ngọt của trái cây, còn vị chát và hậu ngọt ở cuối rửa trôi độ ngậy của cá. Món sốt kem đậm sẽ chôn vùi hương hoa của trà.",
     "brewTip": "Pha ngắn và nhiều lần. Quá 15–30 giây, hương hoa sẽ bị phá vỡ.",
     "keywords": "đơn tùng phượng hoàng triều châu quảng đông Dancong Phoenix oolong"
   },
@@ -917,7 +917,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng vừa.",
     "story": "Năm 1855, cử nhân Lâm Phượng Trì được cho là đã mang 36 cây giống từ Vũ Di, Phúc Kiến về trồng tại đây; theo cách giải thích dân gian, 'Đông Đỉnh' nghĩa là 'đỉnh đóng băng', chỉ ngọn núi có con đường lạnh đến mức tê cóng ngón chân.",
     "flavor": "Ngũ cốc rang và hạt dẻ, hoa lan, vị ngọt dịu.",
-    "pairing": "Rau củ nướng, thịt ba chỉ, dứa, phô mai.",
+    "pairing": "Trà kết hợp tốt với rau củ nướng, thịt ba chỉ, dứa nướng và phô mai ủ lâu. Độ đậm của ngũ cốc rang và hạt dẻ nâng đỡ hương vị của thịt, vị ngọt dịu làm dịu độ ngậy của thịt ba chỉ. Dưa chua quá chua có thể làm lệch cân bằng ngọt của trà.",
     "brewTip": "95 °C trong 45 giây. Với trà nướng vừa, vị ngọt nổi lên từ nước pha thứ hai.",
     "keywords": "đông đỉnh ô long đài loan lộc cốc nam đầu Dong Ding Taiwan oolong"
   },
@@ -932,7 +932,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò viên → sấy khô → nướng nhẹ.",
     "story": "Các vườn trà ở A Lý Sơn lan rộng cùng cơn sốt trà núi cao của Đài Loan vào những năm 1980; vườn càng cao, vị umami càng mạnh.",
     "flavor": "Hoa lan, kem và táo xanh, vị ngọt trong và kéo dài, gần như không chát.",
-    "pairing": "Trái cây, cá trắng, món tráng miệng nhẹ.",
+    "pairing": "Trà kết hợp tốt với trái cây theo mùa, cá trắng hấp và món tráng miệng nhẹ như panna cotta. Nốt hoa lan, kem và táo xanh trong trẻo của trà không bao giờ lấn át hương vị tinh tế, và vì gần như không chát nên trà ngồi tĩnh lặng bên món ăn tinh tế. Món xào nêm nếm đậm sẽ che mất vị ngọt trong trẻo của trà.",
     "brewTip": "95 °C trong 50 giây. Lá vò viên cần trọn nước đầu để nở ra.",
     "keywords": "ô long núi cao a lý sơn đài loan Alishan high mountain oolong"
   },
@@ -947,7 +947,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô. Vết chích làm lá oxy hóa và tạo ra nốt hương mật ong.",
     "story": "Nữ hoàng Victoria được cho là đã đặt tên 'Đông Phương Mỹ Nhân' (Oriental Beauty) sau khi nếm thử; ở Đài Loan, trà này còn gọi là trà Bành Phong.",
     "flavor": "Mật ong, đào chín và hoa hồng, cùng vị ngọt tròn trịa, mềm mại.",
-    "pairing": "Bánh tart trái cây, phô mai, cá hồi hun khói, món tráng miệng.",
+    "pairing": "Trà kết hợp tốt với tart trái cây, phô mai brie, cá hồi hun khói và món tráng miệng dùng với mật ong. Vị ngọt của mật ong và đào chín chồng lên trái cây của tart, kết cấu tròn trịa nhẹ nhàng ôm lấy độ ngậy của cá hồi. Hương thơm ngọt của trà xung đột với nước sốt giấm mạnh.",
     "brewTip": "90 °C trong 1 phút. Lá bị rầy chích sẽ nở thêm trong nước nóng hơn.",
     "keywords": "đông phương mỹ nhân ô long đài loan hương mật ong Oriental Beauty"
   },
@@ -962,7 +962,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sao diệt men → vò thành viên → sấy khô. Quá trình oxy hóa dừng ở mức 15–20 phần trăm.",
     "story": "Một cây trà được phát hiện tình cờ ở Mộc Sách, Đài Bắc vào những năm 1980, cứ ra búp suốt bốn mùa, được cho là nguồn gốc của cái tên này. Hương thơm của nó khiến nó trở thành nền phổ biến cho trà nhài.",
     "flavor": "Hương hoa dành dành và hoa nhài, vị ngọt nhẹ, ít chát.",
-    "pairing": "Món tráng miệng nhẹ, trái cây, bánh sandwich. Hương thơm dịu, nên tránh xa đồ ăn quá ngọt.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng nhẹ, trái cây tươi và sandwich trứng. Hương hoa dành dành và nhài thêm hương thơm dịu dàng cho món ăn thanh đạm, độ chát thấp giúp trà dễ uống kèm theo. Hương thơm dịu nhẹ, nên giữ trà tránh xa món tráng miệng quá ngọt.",
     "brewTip": "85–90 °C giữ được hương hoa; nước sôi đẩy vị ngọt lên trước. Đừng để lá trà ngâm trong nước.",
     "keep": "Đóng kín và để tủ lạnh sau khi mở; hương thơm sẽ phai, nên dùng hết trong khoảng ba tháng.",
     "keywords": "tứ quý xuân ô long đài loan Si Ji Chun four seasons oolong"
@@ -978,7 +978,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sao diệt men → vò → sấy khô, là loại ô long oxy hóa nhẹ ở mức 15–20 phần trăm.",
     "story": "Được Trạm Nghiên cứu và Khuyến nông Trà Đài Loan đăng ký là giống số 12 vào năm 1981. Nốt hương sữa là đặc tính tự nhiên của giống trà; một số sản phẩm bán dưới tên ô long sữa là cùng loại lá nhưng có thêm hương liệu, vì vậy nên đọc kỹ thành phần.",
     "flavor": "Sữa và kem, hoa nhài, vị ngọt tròn, ít chát.",
-    "pairing": "Bánh scone, món tráng miệng kem, các loại hạt. Hương thơm vẫn giữ được khi thêm một chút sữa.",
+    "pairing": "Trà kết hợp tốt với bánh scone, món tráng miệng phủ kem và các loại hạt rang. Hương thơm sữa, kem và vị ngọt tròn trịa của trà chảy tự nhiên vào hương vị bơ, độ chát thấp không bao giờ đối đầu với vị ngọt của món tráng miệng. Hương thơm vẫn sống được khi thêm chút sữa, nên hãy thử trà dưới dạng trà sữa nữa.",
     "brewTip": "Giữ gần 90 °C và dưới một phút để bảo toàn nốt hương kem sữa.",
     "keep": "Đóng kín và để tủ lạnh; hương thơm tinh tế, nên dùng hết trong khoảng ba tháng.",
     "keywords": "kim huyên ô long sữa đài loan Jin Xuan milk oolong TTES No. 12"
@@ -994,7 +994,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sao diệt men → vò thành dải → sấy khô. Với mức oxy hóa 8–12 phần trăm, nó nằm gần với trà xanh.",
     "story": "Cái tên được cho là xuất phát từ việc gói trà trong giấy để giữ hương. Khác với bao chủng ướp hương, bao chủng nguyên sản được đánh giá qua hương hoa tự nhiên của lá trà.",
     "flavor": "Hoa lan và hoa dành dành, hậu vị xanh mát, nhẹ và trong.",
-    "pairing": "Cá trắng, món rau, bánh ngọt nhẹ.",
+    "pairing": "Trà kết hợp tốt với cá trắng hấp, món rau chần và bánh ngọt nhẹ thanh đạm. Hương hoa lan và dành dành trong trẻo của trà làm nổi bật hương vị tinh tế của nguyên liệu, thể trà nhẹ không bao giờ làm nặng bữa ăn. Gia vị mạnh như dầu ớt sẽ che mất hậu vị xanh tươi của trà.",
     "brewTip": "80–85 °C và pha ngắn. Nước sôi làm vị chát nổi lên trước hương hoa.",
     "keep": "Đóng kín và để tủ lạnh; hương thơm nhẹ nên sẽ phai trước tiên.",
     "keywords": "bao chủng văn sơn ô long đài loan Pouchong Wen Shan"
@@ -1010,7 +1010,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, rồi nướng than qua nhiều đợt.",
     "story": "Được đặt tên theo nốt hương vỏ quế; cùng với Đại Hồng Bào, đây là giống được trồng nhiều nhất trong các nham trà Vũ Di.",
     "flavor": "Gia vị quế và đinh hương, ngũ cốc rang, vị ngọt sâu, hậu vị kéo dài.",
-    "pairing": "Thịt nướng, vịt hun khói, các món Hoa đậm vị.",
+    "pairing": "Trà kết hợp tốt với thịt nướng, vịt hun khói và món Trung Hoa đậm vị như đậu phụ mapo. Gia vị quế và đinh hương ấm của trà chồng lên hương vị của thịt, vị ngọt sâu và hậu vị dài gánh được độ béo đậm. Với món hải sản nhẹ, trong trẻo, trà đơn giản là quá mạnh và cân bằng sẽ vỡ.",
     "brewTip": "98 °C trở lên. Tráng bỏ nước đầu và bắt đầu từ nước thứ hai.",
     "keep": "Đóng kín và để nơi mát; ô long nướng sẽ tròn vị hơn sau một đến hai năm.",
     "keywords": "Nhục Quế Vũ Di nham trà ô long quế nướng than Wuyi Rougui rock oolong cinnamon charcoal baked"
@@ -1026,7 +1026,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng; lá to cần thời gian nướng dài.",
     "story": "Những cây già ('lão tùng') được đánh giá riêng nhờ chiều sâu mùi rêu và gỗ.",
     "flavor": "Hoa lan trên nền gỗ và rêu; bản nướng giữ vị ngọt kéo dài.",
-    "pairing": "Cá nướng, món nấm, một buổi thưởng trà dài.",
+    "pairing": "Trà kết hợp tốt với cá nướng vàng kỹ, nấm xào và đồ ăn bàn trà đậm đà như cơm chiên. Nốt gỗ và rêu bên dưới hoa lan gặp vị đất của nấm, vị ngọt kéo dài của bản nướng nâng đỡ vị mặn mà của cá. Món tráng miệng quá ngọt đi ngược với thớ vị của trà.",
     "brewTip": "98 °C. Khía cạnh mùi rêu của cây già mở ra từ nước pha thứ hai.",
     "keep": "Đóng kín và để nơi mát; vị nướng sẽ dịu đi theo thời gian.",
     "keywords": "Thủy Tiên Vũ Di lão tùng cây già nham trà ô long Wuyi Shuixian lao cong old bush rock oolong"
@@ -1042,7 +1042,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò thành viên, sấy khô; cái lạnh làm lá dày và lớn chậm.",
     "story": "Một trong những vùng trà cao nhất Đài Loan, trên 2,300 m, nơi đôi khi có tuyết rơi.",
     "flavor": "Hoa trong trẻo, vị ngọt mát, gần như không chát; nước trà vàng nhạt.",
-    "pairing": "Món tráng miệng nhẹ, trái cây, hoặc uống riêng.",
+    "pairing": "Trà hợp với món tráng miệng nhẹ, trái cây như lê và táo, và uống một mình. Hương hoa trong trẻo và vị ngọt mát của trà sinh ra để thưởng thức chính trà, và vì gần như không chát nên trà dễ chịu với vị giác. Nên tránh món ăn nêm nếm đậm, vì chúng sẽ xóa mất hương thơm trong trẻo đó ngay lập tức.",
     "brewTip": "90–95 °C, nhiều lá, pha ngắn nhiều lần.",
     "keep": "Đóng kín để ngăn đá sẽ giữ được hương; dùng trong vòng một tháng sau khi mở.",
     "keywords": "Đại Vũ Lĩnh ô long núi cao Đài Loan 2300 m Dayuling high mountain oolong Taiwan"
@@ -1058,7 +1058,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò viên, sấy khô; bóng rừng và sương mù giữ hương thơm sạch.",
     "story": "Trà núi cao từ các khoảnh rừng tuyết tùng ở độ cao 1,600–1,800 m tại Trúc Sơn, Nam Đầu.",
     "flavor": "Hoa trong trẻo, chút hương cỏ, vị ngọt sạch.",
-    "pairing": "Trái cây, món tráng miệng nhẹ.",
+    "pairing": "Trà kết hợp tốt với trái cây tươi, món tráng miệng nhẹ và bánh gạo nếp đơn giản. Hương hoa trong trẻo và vị ngọt sạch của trà nâng sự tươi mới của trái cây, nốt cỏ mờ ngồi thoải mái với đồ ăn vặt thanh đạm. Món chiên nhiều dầu mỡ có xu hướng làm mờ ấn tượng trong trẻo của trà.",
     "brewTip": "Pha ngắn ở 90–95 °C.",
     "keep": "Đóng kín, để tủ lạnh hoặc ngăn đá.",
     "keywords": "Sam Lâm Khê ô long Đài Loan Trúc Sơn núi cao Shanlinxi oolong Taiwan Zhushan high mountain"
@@ -1074,7 +1074,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò viên, sấy khô; chênh lệch ngày–đêm lớn làm lá trà dày lên.",
     "story": "Được trồng giữa các vườn cây ăn quả gần Hòa Bình, Đài Trung, ở độ cao khoảng 2,000 m.",
     "flavor": "Trái cây chín và hoa, vị ngọt mềm.",
-    "pairing": "Lê, táo, các loại hạt, món tráng miệng nhẹ.",
+    "pairing": "Trà kết hợp tốt với lê, táo, các loại hạt rang và món tráng miệng nhẹ. Hương trái cây chín của trà chồng lên trái cây thật để cảm thấy đầy đặn hơn, vị ngọt dịu hòa quyện với độ bùi của các loại hạt. Cam quýt quá chua có thể phá vỡ cân bằng ngọt dịu đó.",
     "brewTip": "Pha ngắn ở 90–95 °C; hương trái cây đến ở nước thứ ba.",
     "keep": "Đóng kín và để tủ lạnh; dùng trong vòng một tháng sau khi mở.",
     "keywords": "Lê Sơn ô long Đài Loan Đài Trung Hòa Bình trái cây Lishan oolong Taiwan Taichung Heping fruit"
@@ -1090,7 +1090,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô; oxy hóa nhẹ giữ hương hoa ở phía trước.",
     "story": "Được làm từ giống Hoàng Đán của An Khê; hương thơm nổi bật đến mức trà có biệt danh 'hương thơm xuyên trời'.",
     "flavor": "Hương thơm béo ngậy như trà sữa với hoa và vị ngọt nhẹ; nhẹ hơn Thiết Quan Âm.",
-    "pairing": "Món tráng miệng nhẹ, trái cây, hoặc uống riêng.",
+    "pairing": "Trà hợp với món tráng miệng nhẹ, trái cây theo mùa và uống một mình. Hương kem giống trà sữa và hương hoa của trà gặp độ bơ của bánh nướng thanh đạm, vị ngọt nhẹ để lại hậu vị tươi mới. Trà dịu hơn Thiết Quan Âm, nên món ăn nêm nếm đậm sẽ đẩy hương thơm của trà sang một bên.",
     "brewTip": "Pha ngắn ở 95 °C; bắt đầu từ nước pha thứ hai để hương thơm lắng xuống.",
     "keep": "Đóng kín và để lạnh; hương thơm phai nhanh sau khi mở.",
     "keywords": "Hoàng Kim Quế Hoàng Đán An Khê ô long thơm Huang Jin Gui Huangdan Anxi oolong fragrant"
@@ -1106,7 +1106,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò ít hơn, sấy khô — điều này giữ hương thơm nhẹ.",
     "story": "Cùng vùng An Khê với Thiết Quan Âm nhưng nhẹ và rẻ hơn — thường được gọi là người em của Thiết Quan Âm.",
     "flavor": "Hoa lan và cỏ thoang thoảng, vị ngọt nhẹ; ít đậm hơn Thiết Quan Âm.",
-    "pairing": "Các món cơm và món Hoa nhẹ.",
+    "pairing": "Trà kết hợp tốt với bữa cơm kèm món phụ và món xào Trung Hoa nhẹ. Nốt hoa lan và cỏ mờ của trà không bao giờ làm gián đoạn món ăn, vị ngọt nhẹ dịu dàng tiếp nhận gia vị của các món phụ. Trà có thể trà ít hơn Thiết Quan Âm, nên trà nhạt đi bên món hun khói hoặc nêm nếm đậm.",
     "brewTip": "Pha ngắn ở 95 °C; trà sẽ loãng dần sau nước pha thứ năm.",
     "keep": "Đóng kín và để lạnh.",
     "keywords": "Bản Sơn ô long An Khê nhẹ hơn Thiết Quan Âm Benshan oolong Anxi lighter Tieguanyin"
@@ -1122,7 +1122,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô; lá dày giữ hương qua nhiều nước pha.",
     "story": "Được đặt tên theo những chiếc lá to như quả phật thủ; trà đến từ Vĩnh Xuân, Phúc Kiến.",
     "flavor": "Trái lê và hồng ngọt, vị mềm, ít chát.",
-    "pairing": "Lê, bánh nướng ngọt, các loại hạt.",
+    "pairing": "Trà kết hợp tốt với lê, bánh ngọt bơ nướng và các loại hạt rang. Nốt trái cây lê và hồng ngọt của trà chồng lên vị ngọt của chính trái cây, thể trà mềm và độ chát thấp gánh thoải mái đồ ăn vặt mặn mà. Đồ ăn vặt nêm gia vị cay sẽ che mất hương trái cây ngọt của trà.",
     "brewTip": "95 °C; lá dày mở hương từ nước pha thứ hai và kéo dài đến nước thứ bảy.",
     "keep": "Đóng kín và để lạnh; dùng trong vòng một tháng sau khi mở.",
     "keywords": "Phật Thủ Vĩnh Xuân ô long Phúc Kiến hương lê Yongchun Foshou oolong Fujian pear aroma"
@@ -1138,7 +1138,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò viên, sấy khô, rồi nướng trên than qua nhiều đợt.",
     "story": "Thiết Quan Âm được làm ở Mộc Sách, Đài Bắc từ cuối thế kỷ 19, nổi tiếng với cách nướng than lâu.",
     "flavor": "Trái cây rang, caramel, vị ngọt sâu, chút mùi than nhẹ ở cuối.",
-    "pairing": "Hạt rang, món tráng miệng caramel, món Hoa đậm vị.",
+    "pairing": "Trà kết hợp tốt với các loại hạt rang, món tráng miệng caramel và món Trung Hoa đậm vị. Nốt trái cây rang và caramel của trà chồng lên vị ngọt của món tráng miệng, vị ngọt sâu đứng vững trước món ăn nhiều dầu mỡ. Nét cháy nhẹ ở cuối đi ngược với trái cây tươi tinh tế.",
     "brewTip": "98 °C, tráng trà trước; vị ngọt đến từ nước pha thứ hai.",
     "keep": "Đóng kín và để nơi mát; vị nướng sẽ tròn hơn sau vài năm.",
     "keywords": "Thiết Quan Âm Mộc Sách Đài Bắc nướng than ô long Muzha Tieguanyin Taipei charcoal baked oolong"
@@ -1154,7 +1154,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ; mỗi cây cổ thụ cho một hương riêng.",
     "story": "Loại hương được trồng rộng rãi nhất trong các đơn tùng Phượng Hoàng của Triều Châu, Quảng Đông: mật ong trên nền hoa lan.",
     "flavor": "Vị ngọt mật ong, hoa lan, vị đậm đầy, hậu vị kéo dài.",
-    "pairing": "Trái cây, món tráng miệng mật ong, món Hoa đậm vị.",
+    "pairing": "Trà kết hợp tốt với trái cây tươi, món tráng miệng mật ong và món Trung Hoa đậm vị. Vị ngọt mật ong và hương hoa lan của trà hòa quyện với trái cây, thể trà đầy đặn và hậu vị dài gánh món ăn đậm vị đến cuối. Dưa chua quá chua có thể làm gián đoạn dòng vị ngọt đó.",
     "brewTip": "98 °C, nhiều lá, pha ngắn nhiều lần; vị mật ong đậm dần từ nước thứ tư.",
     "keep": "Đóng kín và để nơi mát; chia thành các phần nhỏ để giữ hương.",
     "keywords": "Đơn Tùng Mật Lan Hương Phượng Hoàng ô long Triều Châu mật ong hoa lan Mi Lan Xiang dancong Phoenix oolong Chaozhou honey orchid"
@@ -1170,7 +1170,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ.",
     "story": "Cái tên thô mộc che giấu một hương hoa ánh bạc, vì thế trà còn được bán với tên 'Ngân Hoa Hương' (hoa bạc).",
     "flavor": "Hương hoa linh lan mát lành, vị ngọt tươi sáng, hậu vị kéo dài.",
-    "pairing": "Món tráng miệng nhẹ, trái cây, hoặc uống riêng.",
+    "pairing": "Trà hợp với món tráng miệng nhẹ, trái cây như lê và dưa lê Hàn Quốc, và uống một mình. Hương hoa linh lan mát lành của trà lan tỏa rõ ràng bên đồ ăn vặt thanh đạm, vị ngọt tươi sáng nhẹ nhàng dọn sạch vị giác. Món tráng miệng sô cô la đậm sẽ chôn vùi nốt hoa tinh tế này.",
     "brewTip": "Pha ngắn ở 98 °C; hương hoa rõ nhất ở nước pha thứ hai.",
     "keep": "Đóng kín, để nơi mát, chia thành các phần nhỏ.",
     "keywords": "Áp Thí Hương đơn tùng hoa bạc ô long Ya Shi Xiang duck shit aroma dancong silver flower oolong"
@@ -1186,7 +1186,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng; oxy hóa sâu hơn tạo ra nước trà đỏ, nguồn gốc của cái tên.",
     "story": "Phong cách cổ của Đài Loan, oxy hóa đến khoảng 60% và nướng; nó dần nhường chỗ cho ô long nhẹ từ những năm 1970.",
     "flavor": "Trái cây chín, mật ong, nốt hương nướng; nước trà gần như đậm như hồng trà.",
-    "pairing": "Bánh nướng ngọt, trái cây khô, phô mai.",
+    "pairing": "Trà kết hợp tốt với bánh ngọt nướng, trái cây khô và phô mai ủ lâu. Nốt trái cây chín, mật ong và mùi nướng của trà chồng lên vị ngọt cô đặc của trái cây khô, thể trà chắc như màu nước gần như hồng trà của nó gợi ý. Vị ngọt sâu của trà có thể cảm thấy tách rời khỏi salad tươi sáng.",
     "brewTip": "40 giây ở 95 °C; trà vẫn mềm mại ngay cả khi pha đậm.",
     "keep": "Đóng kín và để nơi mát; trà nướng sẽ dịu đi theo năm tháng.",
     "keywords": "Ô long Hồng Thủy Đài Loan truyền thống oxy hóa sâu nướng Hong Shui oolong Taiwan traditional deep oxidation baked"
@@ -1202,7 +1202,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò viên, sấy khô, ở độ cao mát mẻ của miền bắc Thái Lan.",
     "story": "Ô long từ Doi Mae Salong ở Chiang Rai, miền bắc Thái Lan, nơi phương pháp và giống trà Đài Loan đến vào cuối thế kỷ 20.",
     "flavor": "Hoa nhẹ và vị ngọt, vị mềm hơn ô long núi cao Đài Loan.",
-    "pairing": "Món Thái, trái cây, trà đá.",
+    "pairing": "Trà kết hợp tốt với món Thái, trái cây nhiệt đới và trà đá dùng trên đá. Hương hoa nhẹ và vị ngọt của trà dịu dàng dọn sạch vị giác giữa những miếng món Thái nhiều gia vị. Thể trà mềm hơn ô long núi cao Đài Loan, hương thơm của trà có thể cảm thấy mờ nhạt bên món hầm đậm vị.",
     "brewTip": "Pha ngắn ở 90–95 °C; trà cũng giữ được hương khi pha lạnh.",
     "keep": "Đóng kín và để tủ lạnh.",
     "keywords": "Doi Mae Salong ô long Thái Lan Chiang Rai vùng cao Doi Mae Salong Thai oolong Chiang Rai highland"
@@ -1218,7 +1218,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô ở độ cao khoảng 1,000 m.",
     "story": "Trà từ cao nguyên Mộc Châu ở Sơn La, Việt Nam. Người Pháp đưa nghề trồng trà đến vào đầu thế kỷ 20; phương pháp ô long Đài Loan đến sau.",
     "flavor": "Cỏ và hoa nhẹ, vị ngọt sạch — tươi hơn ô long Đài Loan.",
-    "pairing": "Món Việt, phở, trà đá.",
+    "pairing": "Trà kết hợp tốt với món Việt, phở và trà đá. Nốt cỏ và hoa nhẹ cùng vị ngọt sạch của trà hợp với nước dùng trong của phở và để lại bữa ăn cảm giác tươi mới. Món ăn nạp nhiều gia vị mạnh như nước mắm có thể xung đột với vị ngọt sạch đó.",
     "brewTip": "Pha ngắn ở 90 °C; pha đậm trà sẽ nhanh chóng trở nên chát.",
     "keep": "Đóng kín và để tủ lạnh.",
     "keywords": "Ô long Mộc Châu Việt Nam Sơn La vùng cao Moc Chau oolong Vietnam Son La highland"
@@ -1234,7 +1234,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hoa quế mùa thu được xếp lớp cùng lá trà để truyền hương; Quế Lâm ở Quảng Tây và Phúc Kiến là những nguồn cổ điển.",
     "story": "Lá và hoa được xếp chồng thành từng lớp để ướp hương trà, lặp lại vài lần, rồi hoa được nhặt ra.",
     "flavor": "Hương hoa như mơ và đào, vị ngọt mềm; càng nhiều cánh hoa, hương càng đậm.",
-    "pairing": "Bánh nướng ngọt nhạt, các loại hạt, trái cây.",
+    "pairing": "Trà kết hợp tốt với bánh ngọt nướng không đường, các loại hạt rang và trái cây như lê và đào. Hương hoa ngọt giống mơ và đào của trà nổi bật rõ hơn trên bánh nướng thanh đạm, bùi, vị ngọt dịu giữ vị giác dễ chịu. Bánh ngọt phủ mứt đủ ngọt để che mất hương hoa của trà.",
     "brewTip": "85 °C; nước sôi sẽ làm hương hoa bay mất và chỉ còn vị chát.",
     "keep": "Đóng kín và để nơi mát — hương hoa phai nhanh sau khi mở.",
     "keywords": "trà quế hoa Quế Lâm trà ướp hương osmanthus tea guihua Guilin scented tea"
@@ -1250,7 +1250,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô, dùng cách vò viên trong vải của trà cao sơn Đài Loan.",
     "story": "Từ núi Kỳ Lai ở ranh giới Hoa Liên – Nam Đầu, trên 2,000 m — một trong những vùng núi cao được biết đến muộn hơn của Đài Loan.",
     "flavor": "Hương hoa trong trẻo, vị béo mềm và ngọt mát. Nước trà vàng xanh tươi sáng.",
-    "pairing": "Món tráng miệng nhẹ và trái cây. Gia vị đậm sẽ xung đột.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng nhẹ, trái cây tươi và bánh gạo đơn giản. Hương hoa núi cao trong trẻo, sự mềm mại như kem và vị ngọt mát của trà thể hiện tốt nhất bên món ăn thanh đạm. Gia vị đậm xung đột, nên tốt hơn hãy giữ trà riêng.",
     "brewTip": "95 °C. Bắt đầu tính giờ khi lá đã nở.",
     "keep": "Đóng kín, để nơi mát và khô; tốt nhất trong 2–3 tháng sau khi mở.",
     "keywords": "Ô long núi cao Kỳ Lai Đài Loan cao sơn Hoa Liên Qilai high mountain oolong Taiwan gaoshan Hualien"
@@ -1266,7 +1266,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá bị rầy chích được làm héo và oxy hóa, rồi vò trong vải thành viên — khác với Đông Phương Mỹ Nhân vốn giữ hình dải lỏng.",
     "story": "Lá bị chích tiết ra các hợp chất phòng vệ có mùi như mật ong và trái cây chín. Loại trà này chỉ có thể làm trong những vườn không phun thuốc.",
     "flavor": "Mật ong, đào chín và hoa; vị ngọt kéo dài và nước trà hổ phách tươi sáng.",
-    "pairing": "Bánh nướng nhạt như madeleine và castella.",
+    "pairing": "Trà kết hợp tốt với bánh nướng thanh đạm như madeleine và castella, và với bánh quy bơ. Vị ngọt của mật ong và đào chín của trà chồng lên độ bơ của bánh nướng, vị ngọt kéo dài đi dịu dàng từ miếng này sang miếng khác. Bánh đậm phủ sô cô la sẽ che mất nốt mật ong của trà.",
     "brewTip": "90 °C. Nước đầu ngắn hơn ưu tiên hương thơm, dài hơn ưu tiên vị ngọt.",
     "keep": "Đóng kín và để khô; tốt nhất trong hai tháng sau khi mở, vì hương thơm sẽ phai.",
     "keywords": "ô long hương mật Đài Loan rầy chích honey-scented oolong Taiwan leafhopper mixiang"
@@ -1282,7 +1282,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → oxy hóa dài → sao diệt men → vò viên → sấy khô, với mức oxy hóa đẩy gần đến mức hồng trà.",
     "story": "Một loại trà tương đối mới được phát triển ở Lộc Dã, Đài Đông vào những năm 2000. Bối cảnh và hương thơm của nó khác với ô long Hồng Thủy truyền thống.",
     "flavor": "Trái cây chín, mật ong và ngũ cốc rang; ít chát, nước trà đỏ hổ phách.",
-    "pairing": "Bánh phô mai, trái cây khô, các loại hạt.",
+    "pairing": "Trà kết hợp tốt với bánh phô mai (cheesecake), trái cây khô và các loại hạt rang. Vị ngọt của trái cây chín, mật ong và ngũ cốc rang nâng đỡ độ đậm của cheesecake, độ chát thấp giúp trà chảy dịu dàng cùng món tráng miệng. Sốt quả mọng chua gắt kéo vị ngọt của trà theo hướng khác.",
     "brewTip": "95 °C. Vị ngọt giữ được khi lạnh, nên trà phù hợp để pha lạnh.",
     "keep": "Đóng kín và để nơi mát; tốt nhất trong ba tháng sau khi mở.",
     "keywords": "hồng ô long Đài Đông Lộc Dã oxy hóa cao red oolong Taitung Luye high oxidation"
@@ -1298,7 +1298,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng, theo kiểu dải của nham trà Vũ Di.",
     "story": "Chữ 'lan' trong tên nghĩa là hoa lan. Giống trà này có nguồn gốc từ Vũ Di nhưng cũng được trồng rộng rãi ở miền nam Phúc Kiến, và được làm theo cả hai phong cách.",
     "flavor": "Nốt hoa lan và thảo mộc sạch trên nền nướng nhẹ và vị ngọt. Nước trà vàng tươi sáng.",
-    "pairing": "Hải sản và dim sum nhẹ.",
+    "pairing": "Trà kết hợp tốt với hải sản như tôm và sò, dim sum nhẹ và rau chần. Nốt hoa lan và thảo mộc trong trẻo của trà làm nổi bật sự tinh tế của hải sản, mùi rang nhẹ và vị ngọt ngồi tĩnh lặng với món ăn nêm nếm nhẹ. Món hải sản cay sẽ che mất hương thơm trong trẻo của trà.",
     "brewTip": "98 °C. Nước đầu để đọc hương thơm, các nước sau để đọc vị ngọt.",
     "keep": "Đóng kín và để khô; tốt nhất trong ba tháng sau khi mở.",
     "keywords": "Kỳ Lan nham trà Vũ Di hoa lan Phúc Kiến Qilan Wuyi rock tea orchid Fujian"
@@ -1314,7 +1314,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng; mức nướng thay đổi theo vùng.",
     "story": "Một giống trà cổ của Phúc Kiến với phạm vi rộng — nó được chế biến thành cả hồng trà và trà xanh bên cạnh ô long.",
     "flavor": "Hương hoa mai, trái cây nhẹ và vị ngọt mềm. Nước trà vàng óng.",
-    "pairing": "Món xào nhẹ và các món đậu phụ.",
+    "pairing": "Trà kết hợp tốt với món xào nhẹ, món đậu phụ và cá hấp. Hương hoa mai và vị ngọt dịu của trà không bao giờ làm phiền món ăn nêm nếm nhẹ, ấn tượng của trà dịu dàng như màu nước vàng của nó. Gia vị tương đậu đậm có thể chôn vùi hương hoa dịu của trà.",
     "brewTip": "95 °C; với các lô nướng nhẹ, bắt đầu ở 90 °C.",
     "keep": "Đóng kín và để khô; tốt nhất trong ba tháng sau khi mở.",
     "keywords": "Mai Chiêm giống trà Phúc Kiến hoa mai Vũ Di An Khê Meizhan Fujian cultivar plum blossom Wuyi Anxi"
@@ -1330,7 +1330,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng, theo cách danh tùng truyền thống.",
     "story": "Một trong bốn danh tùng lớn của Vũ Di — Đại Hồng Bào, Thiết La Hán, Bạch Kê Quan, Thủy Kim Quy — và thuộc nhóm cổ nhất trong số đó.",
     "flavor": "Thảo dược, khoáng chất và ngũ cốc rang; vị đậm dày và vị ngọt có trọng lượng.",
-    "pairing": "Các món thịt đậm vị và món Hoa nêm nếm mạnh.",
+    "pairing": "Trà kết hợp tốt với món thịt đậm vị, món Trung Hoa nêm nếm mạnh và món hun khói. Nốt thảo dược, khoáng chất và ngũ cốc rang sâu của trà, với thể trà dày, tiếp nhận mỡ của thịt, vị ngọt nặng ký kéo dài đến cuối bữa ăn. Bên salad đơn giản, trà đơn giản là quá mạnh.",
     "brewTip": "98 °C. Nốt thảo dược mở ra và vị ngọt tăng dần qua các nước pha.",
     "keep": "Đóng kín và để khô; trà nướng bảo quản tốt ở nhiệt độ phòng.",
     "keywords": "Thiết La Hán danh tùng Vũ Di nham trà Phúc Kiến Tie Luo Han Wuyi mingcong rock tea Fujian"
@@ -1346,7 +1346,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng nhẹ, giữ nhẹ nhàng để bảo toàn lá nhạt màu.",
     "story": "Búp của nó ra màu vàng trắng nhạt, nổi bật ngay từ cái nhìn đầu tiên giữa các cây trà khác.",
     "flavor": "Hương hoa nhẹ, trong với nốt thảo dược thoang thoảng và vị ngọt mát. Nước trà vàng nhạt hơn các nham trà khác.",
-    "pairing": "Món cá nhạt và salad.",
+    "pairing": "Trà kết hợp tốt với món cá thanh đạm, salad và rau hấp. Hương hoa nhẹ, trong trẻo, nốt thảo mộc mờ và vị ngọt mát của trà làm nổi bật hương vị riêng của nguyên liệu, ấn tượng sáng nhất trong các loại nham trà hợp với bữa ăn nhẹ. Món ăn đậm vị như món hun khói sẽ che mất hương thơm trong trẻo đó.",
     "brewTip": "95 °C. Mức nướng nhẹ, nên pha lâu sẽ phá hương; hãy pha ngắn và nhiều lần.",
     "keep": "Đóng kín và để khô; tốt nhất trong 2–3 tháng sau khi mở.",
     "keywords": "Bạch Kê Quan danh tùng Vũ Di nham trà búp nhạt Bai Ji Guan Wuyi mingcong rock tea pale buds"
@@ -1362,7 +1362,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng, theo cách danh tùng truyền thống.",
     "story": "Cái tên đến từ một truyền thuyết: một cây trà bị lũ cuốn trôi mà lá có hoa văn như mai rùa.",
     "flavor": "Hương hoa mềm và vị nướng trên nền vị ngọt tròn; ấn tượng dịu nhất trong các danh tùng.",
-    "pairing": "Món xào và thịt nướng.",
+    "pairing": "Trà kết hợp tốt với món xào, thịt nướng và rau củ nướng. Hương hoa dịu, nốt rang và vị ngọt tròn trịa của trà nâng đỡ vị mặn mà của món xào, và là loại dịu nhất trong các danh tùng (mingcong), trà hợp với nhiều bữa ăn mà không gây phiền. Gia vị quá cay có thể phá vỡ cân bằng ngọt tròn của trà.",
     "brewTip": "98 °C. Các nước pha giữa cho vị ngọt tròn nhất.",
     "keep": "Đóng kín và để khô; tốt nhất trong ba tháng sau khi mở.",
     "keywords": "Thủy Kim Quy danh tùng Vũ Di nham trà rùa Shui Jin Gui Wuyi mingcong rock tea tortoise"
@@ -1378,7 +1378,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô → nướng, theo cách danh tùng truyền thống.",
     "story": "Cái tên đến từ những cây mọc giữa vách đá — 'eo' giữa trời và đất. Tính chất nham của nó rất rõ rệt.",
     "flavor": "Khoáng chất rõ ràng (nham vận), vị nướng và vị ngọt sâu với hậu vị kéo dài.",
-    "pairing": "Món hun khói và thịt sốt đậm.",
+    "pairing": "Trà kết hợp tốt với món hun khói, thịt sốt đậm và xiên thịt cừu. Tính khoáng trong trẻo và mùi rang của trà chồng lên hương vị khói, vị ngọt sâu và hậu vị dài đứng vững trước nước sốt đậm. Bên món hải sản trong trẻo, thể trà của nó cảm thấy quá nặng.",
     "brewTip": "98 °C. Vị khoáng sắc nét hơn ở các nước sau; đừng dừng trước nước thứ năm.",
     "keep": "Đóng kín và để khô; tốt nhất trong ba tháng sau khi mở.",
     "keywords": "Bán Thiên Yêu danh tùng Vũ Di nham trà vách đá Ban Tian Yao Wuyi mingcong rock tea cliff"
@@ -1394,7 +1394,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá đã làm héo, lắc, sao và vò được ép trong khuôn vuông, gói giấy và sấy khô — một dạng ép hiếm trong các loại ô long.",
     "story": "Cùng giống Thủy Tiên, nhưng khác với dạng dải lỏng của Thủy Tiên Vũ Di, Chương Bình ép lá thành bánh.",
     "flavor": "Hoa lan và nốt xanh mát với vị ngọt trong. Nước trà vàng óng tươi sáng.",
-    "pairing": "Dim sum nhẹ và rau xào.",
+    "pairing": "Trà kết hợp tốt với dim sum nhẹ, rau xào và bánh bao hấp. Nốt hoa lan và xanh mát cùng vị ngọt trong trẻo của trà lan tỏa tươi mới bên món ăn ít béo, hậu vị sạch như màu nước vàng sáng của nó. Hương thơm trong trẻo của trà không thuộc về mì Ý sốt kem đậm.",
     "brewTip": "95 °C. Pha cả một bánh, hoặc tách một bánh để điều chỉnh độ đậm.",
     "keep": "Giữ nguyên giấy gói, đóng kín và để khô; dạng ép bảo quản tốt.",
     "keywords": "Thủy Tiên Chương Bình ô long ép Phúc Kiến bánh trà Zhangping Shuixian pressed oolong Fujian cake"
@@ -1410,7 +1410,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà lá lớn Vân Nam được làm héo, lắc và sao, rồi vò trong vải thành viên theo cách của Đài Loan.",
     "story": "Từ quê hương của phổ nhĩ và Điền Hồng — một nỗ lực nhằm mang cho thân vị nặng của lá lớn hương thơm của ô long núi cao.",
     "flavor": "Mạch nha sâu và vị ngọt mật ong dưới hương hoa; thân vị dày hơn cao sơn Đài Loan.",
-    "pairing": "Thịt nướng và các món nêm nếm mạnh.",
+    "pairing": "Trà kết hợp tốt với thịt nướng, món ăn nêm nếm mạnh và nấm nướng. Hương hoa trên nền mạch nha sâu và vị ngọt mật ong của trà nâng đỡ hương vị của thịt, thể trà dày hơn ô long núi cao Đài Loan đứng vững trước gia vị mạnh. Với salad trái cây nhẹ, vị ngọt của trà có thể cảm thấy quá nhiều.",
     "brewTip": "95 °C. Vị và hương đến cùng lúc khi các viên trà đã nở hoàn toàn.",
     "keep": "Đóng kín và để khô; tốt nhất trong 2–3 tháng sau khi mở.",
     "keywords": "ô long Vân Nam lá lớn vò viên Yunnan oolong large leaf ball rolled"
@@ -1426,7 +1426,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá vốn dành cho hồng trà được dừng ở mức oxy hóa một phần, vò nhẹ và sấy khô — một phong cách lô nhỏ trong các vườn Darjeeling.",
     "story": "Tính cách của nó là nốt nho muscatel của Darjeeling xếp lớp cùng hương hoa ô long.",
     "flavor": "Nho muscatel, mơ và hoa; nhẹ và trong, với nước trà màu đồng tươi sáng.",
-    "pairing": "Bánh tart trái cây và sandwich nhẹ.",
+    "pairing": "Trà kết hợp tốt với tart trái cây, sandwich nhẹ và bánh scone. Nốt nho muscatel và mơ của trà chồng lên trái cây của tart, thể trà nhẹ, trong trẻo hợp với bữa ăn nhẹ kiểu trà chiều. Món thịt đậm vị nhanh chóng chôn vùi hương thơm trong trẻo của trà.",
     "brewTip": "90 °C. Nước sôi trực tiếp sẽ làm bay nốt muscatel; hãy để nước nguội một chút.",
     "keep": "Đóng kín và để nơi mát; tốt nhất trong 1–2 tháng sau khi mở — hương thơm là tất cả ở loại trà này.",
     "keywords": "ô long Darjeeling Ấn Độ oxy hóa một phần muscatel Darjeeling oolong India semi-oxidized muscatel"
@@ -1442,7 +1442,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Được đặt tên theo hương thơm như hoa dành dành đến từ chính lá trà, không phải từ hoa thêm vào.",
     "flavor": "Nốt hoa dành dành ngọt và trái cây chín, vị ngọt mềm, hậu vị sạch. Nước trà vàng óng tươi sáng.",
-    "pairing": "Món tráng miệng trái cây nhẹ, bánh trung thu nhạt. Gia vị mạnh sẽ lấn át nó.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng trái cây nhẹ, bánh trung thu thanh đạm và trái cây như lê và đào. Nốt dành dành ngọt và trái cây chín của trà sống dậy rõ ràng bên đồ ăn vặt thanh đạm. Hương thơm tinh tế, nên gia vị mạnh sẽ lấn át nó — tốt hơn hãy giữ chúng riêng.",
     "brewTip": "95 °C, pha ngắn nhiều lần; pha lâu làm hương ngọt trở nên nặng.",
     "keep": "Đóng kín và để nơi mát; chia thành các phần nhỏ để giữ hương.",
     "keywords": "Đơn Tùng Hoàng Chi Hương Phượng Hoàng ô long Triều Châu dành dành Huangzhi Xiang dancong Phoenix oolong Chaozhou gardenia"
@@ -1458,7 +1458,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng — chỉ làm từ một cây duy nhất.",
     "story": "Được đặt tên theo hương hạnh nhân rang; ở Triều Châu, nó cũng được ưa chuộng vì cảm giác dễ chịu cho cổ họng.",
     "flavor": "Hạnh nhân rang và hạt nướng, một chút đắng nhẹ chuyển thành ngọt, nuốt vào êm.",
-    "pairing": "Các loại hạt, bánh nếp nhạt. Ngon khi uống riêng mà không cần món tráng miệng.",
+    "pairing": "Trà kết hợp tốt với các loại hạt, bánh gạo nếp đơn giản và bánh ngọt hạnh nhân rang. Độ bùi của hạnh nhân và hạt nướng của trà chồng lên độ bùi của chính đồ ăn vặt, vị ngọt sau nét đắng dọn sạch vị giác một cách mượt mà. Hương thơm nướng của trà cũng giúp trà ngon khi uống một mình, không cần món tráng miệng.",
     "brewTip": "98 °C; nốt hương hạt chắc lại từ nước pha thứ ba hoặc thứ tư.",
     "keep": "Đóng kín và để nơi mát; chia thành các phần nhỏ để giữ hương nướng.",
     "keywords": "Đơn Tùng Hạnh Nhân Hương Phượng Hoàng ô long Triều Châu hạnh nhân Xingren Xiang dancong Phoenix oolong Chaozhou almond"
@@ -1474,7 +1474,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng — chỉ làm từ một cây duy nhất.",
     "story": "Một loại hương của núi Phượng Hoàng với nốt quế ấm; không phải ô long giống Nhục Quế của Vũ Di, Phúc Kiến.",
     "flavor": "Quế và gia vị ấm trên nền nướng nhẹ, vị đậm đầy, hậu vị kéo dài.",
-    "pairing": "Món Hoa đậm vị, thịt rang; gia vị ấm giúp cắt vị béo ngậy.",
+    "pairing": "Trà kết hợp tốt với món Trung Hoa đậm vị, thịt nướng và thịt kho Đông Pha (dongpo pork). Quế và gia vị ấm của trà, với thể trà đầy đặn, chồng lên hương vị của thịt, gia vị ấm cắt qua dầu mỡ. Bên cá sống tinh tế, gia vị có thể dễ dàng chạy trước món ăn.",
     "brewTip": "98 °C. Giữ nước đầu ngắn; gia vị đậm dần ở các nước sau.",
     "keep": "Đóng kín và để nơi mát, bảo quản riêng để hương gia vị không lan sang.",
     "keywords": "Đơn Tùng Nhục Quế Hương Phượng Hoàng ô long Triều Châu quế Rougui Xiang dancong Phoenix oolong Chaozhou cinnamon"
@@ -1490,7 +1490,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Một loại hương tự nhiên: hương quế hoa nằm trong chính lá trà, khác với các hỗn hợp 'ô long quế hoa' ướp bằng hoa thật.",
     "flavor": "Hoa quế ngọt trên nốt mơ, vị nhẹ, hậu vị sạch.",
-    "pairing": "Bánh quế hoa nhạt, trái cây nhẹ. Đồ ăn đậm vị sẽ chôn vùi hương thơm.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng hoa thanh đạm như bánh quế hoa (osmanthus), trái cây nhẹ và bánh ngọt mơ. Hoa quế ngọt lớp lớp với mơ của trà nổi bật rõ hơn bên món tráng miệng thanh đạm. Thể trà nhẹ, nên tránh món ăn nặng, vì chúng sẽ chôn vùi hương thơm.",
     "brewTip": "95 °C; mức nướng nhẹ và hương thơm tinh tế, nên tránh pha quá lâu.",
     "keep": "Đóng kín và để nơi mát, tránh xa gia vị — lá hương hoa dễ hút mùi.",
     "keywords": "Đơn Tùng Quế Hoa Hương Phượng Hoàng ô long Triều Châu quế hoa Guihua Xiang dancong Phoenix oolong Chaozhou osmanthus"
@@ -1506,7 +1506,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Một loại hương thanh nhã như hoa lan, được tính vào nhóm hương đơn tùng tinh tế.",
     "flavor": "Hương lan trong và tinh tế, vị ngọt nhẹ nhàng, hậu vị sạch và kéo dài.",
-    "pairing": "Bánh gạo nhạt, trái cây nhẹ. Ngon nhất khi nhấp chậm rãi và uống riêng.",
+    "pairing": "Trà kết hợp tốt với bánh gạo đơn giản như baekseolgi và trái cây nhẹ. Hương hoa lan tinh tế và vị ngọt tinh tế của trà để lại hậu vị dài, sạch mà không dựa vào hương vị của đồ ăn vặt. Sự thanh lịch của trà hợp nhất với việc nhấp chậm rãi một mình.",
     "brewTip": "95 °C, pha ngắn ngay từ nước đầu; ngửi chén trước khi uống.",
     "keep": "Đóng kín và để nơi mát; các phần nhỏ bảo vệ hương thơm tinh tế.",
     "keywords": "Đơn Tùng Chi Lan Hương Phượng Hoàng ô long Triều Châu hoa lan Zhilan Xiang dancong Phoenix oolong Chaozhou orchid"
@@ -1522,7 +1522,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Được đặt tên theo hoa dạ lai nở về đêm; hương ngọt đậm đặc khác thường.",
     "flavor": "Hương hoa đêm ngọt với hậu vị mật ong, vị vừa, hậu vị sạch.",
-    "pairing": "Món tráng miệng ngọt, trái cây nhiệt đới. Phù hợp để uống chậm vào buổi tối.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng ngọt, trái cây nhiệt đới như xoài và dứa, và bánh ngọt mật ong. Hương hoa nở đêm ngọt ngào và hậu vị mật ong của trà chồng lên vị ngọt của món tráng miệng; hương thơm đậm đặc nhưng hậu vị vẫn sạch, nên trà không bao giờ cảm thấy nặng. Một loại trà để uống chậm vào buổi tối.",
     "brewTip": "95 °C; hương mạnh, nên bắt đầu pha ngắn thay vì pha lâu.",
     "keep": "Đóng kín và để nơi mát; các phần nhỏ giữ hương đậm.",
     "keywords": "Đơn Tùng Dạ Lai Hương Phượng Hoàng ô long Triều Châu hoa đêm Yelai Xiang dancong Phoenix oolong Chaozhou night flower"
@@ -1538,7 +1538,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Được đặt tên 'thông thiên' (vươn tới trời) vì hương thơm bốc cao và mạnh khác thường.",
     "flavor": "Hương hoa trào dâng ngay từ nước đầu, vị tươi sáng giòn, hậu vị sạch.",
-    "pairing": "Bánh nhạt, trái cây nhẹ. Hương thơm là sự kiện chính — ngon nhất với ít hoặc không có đồ ăn.",
+    "pairing": "Trà kết hợp tốt với bánh đơn giản, trái cây nhẹ và bánh quy gạo. Hương hoa trào dâng từ lần pha đầu tiên và hương vị tươi sáng, giòn là điểm nhấn chính, nên giữ đồ ăn vặt ở mức vừa đủ để không gây trở ngại. Hương thơm mạnh — trà ngon nhất khi dùng với ít hoặc không có món ăn.",
     "brewTip": "98 °C; giữ nước đầu đặc biệt ngắn, và ngửi nắp chén khải để đón hương bốc lên.",
     "keep": "Đóng kín và để nơi mát; hương cao phai nhanh, nên bảo quản thành các phần nhỏ.",
     "keywords": "Đơn Tùng Thông Thiên Hương Phượng Hoàng ô long Triều Châu hương cao Tongtian Xiang dancong Phoenix oolong Chaozhou high aroma"
@@ -1554,7 +1554,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — chỉ làm từ một cây duy nhất.",
     "story": "Được đặt tên theo hương hoa bưởi tươi, như những bông hoa nở vào mùa xuân.",
     "flavor": "Hoa bưởi và hoa cam quýt, vị nhẹ, vị ngọt rõ và hậu vị sạch.",
-    "pairing": "Món tráng miệng cam quýt, trái cây nhẹ; hương tươi cũng hợp với bánh không đường.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng cam quýt, trái cây nhẹ và bánh ngọt yuzu. Hương bưởi tươi và hoa cam quýt của trà chồng lên sự tươi sáng của cam quýt, vị ngọt rõ rệt để lại hậu vị sạch. Hương thơm tươi đó cũng hợp với bánh không đường.",
     "brewTip": "95 °C, pha ngắn; uống khi còn ấm, vì các nốt hương sáng trên cùng sẽ chìm xuống khi trà nguội.",
     "keep": "Đóng kín và để nơi mát; các phần nhỏ bảo vệ hương hoa.",
     "keywords": "Đơn Tùng Dữu Hoa Hương Phượng Hoàng ô long Triều Châu hoa bưởi Youhua Xiang dancong Phoenix oolong Chaozhou pomelo blossom"
@@ -1570,7 +1570,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng — làm từ dòng cây mẹ cổ.",
     "story": "Được cho là hậu duệ của những cây trồng từ triều Tống; nó cũng từng được gọi là Đông Phương Hồng, 'phương Đông đỏ'.",
     "flavor": "Hương hoa sâu trên nền vị ngọt có trọng lượng và thân vị đầy của lá cây cổ, với hậu vị kéo dài.",
-    "pairing": "Bánh nhạt, các loại hạt. Đậm đà đủ để uống chậm rãi một mình.",
+    "pairing": "Trà kết hợp tốt với bánh đơn giản, các loại hạt rang và trái cây khô. Vị ngọt nặng ký bên dưới hương hoa sâu của trà, và thể trà đầy đặn của lá cây cổ thụ, nâng đỡ chắc chắn đồ ăn vặt mặn mà. Giàu cả hương thơm lẫn thể trà, trà cũng ngon khi uống chậm một mình.",
     "brewTip": "98 °C; lá cây cổ giữ sức mạnh đến muộn, nên hãy pha đến khoảng mười nước.",
     "keep": "Đóng kín và để nơi mát; bảo quản loại trà quý hiếm này thành các phần nhỏ.",
     "keywords": "Đơn Tùng Tống Chủng Phượng Hoàng ô long Triều Châu cây cổ Đông Phương Hồng Song Zhong dancong Phoenix oolong Chaozhou old bush Dongfang Hong"
@@ -1586,7 +1586,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng nhẹ — từ loại cây lá to, mềm.",
     "story": "Cái tên được cho là đến từ truyền thuyết Bát Tiên.",
     "flavor": "Hương hoa mềm và trong; lá to cho trà hào phóng, với vị ngọt đều và dịu.",
-    "pairing": "Món tráng miệng nhẹ, bánh nếp nhạt. Tính dịu của nó hợp với hầu hết đồ ăn nhẹ.",
+    "pairing": "Trà kết hợp tốt với món tráng miệng nhẹ, bánh gạo nếp đơn giản và bánh ngọt nướng. Hương hoa dịu, trong trẻo và vị ngọt đều của trà không bao giờ làm phiền hương vị của đồ ăn vặt, lá trà cho nhiều nước để chia sẻ qua nhiều chén. Sự dịu nhẹ của trà hợp với hầu hết đồ ăn vặt.",
     "brewTip": "95 °C; lá to lấp đầy chén khải, nên rót nước ngập hoàn toàn lá.",
     "keep": "Đóng kín và để nơi mát; các phần nhỏ giữ hương hoa.",
     "keywords": "Đơn Tùng Bát Tiên Phượng Hoàng ô long Triều Châu Bát Tiên Baxian dancong Phoenix oolong Chaozhou Eight Immortals"
@@ -1602,7 +1602,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, lắc, sao, vò, sấy khô, nướng — từ dòng Ô Diệp lá to, sẫm.",
     "story": "Mạnh về hương và vị; ở Triều Châu, nó cũng được pha đặc và mạnh, hoặc uống lạnh.",
     "flavor": "Hương hoa đậm, thân vị nặng, vị ngọt hậu mạnh sau cạnh đắng; pha đặc, nó vẫn đứng vững trên đá.",
-    "pairing": "Món Hoa đậm vị, đồ ăn nhẹ thịnh soạn; sức mạnh của nó đứng vững trước đồ ăn.",
+    "pairing": "Trà kết hợp tốt với món Trung Hoa đậm vị, đồ ăn vặt đậm đà và thịt nướng. Hương hoa đậm đặc, thể trà nặng và hậu ngọt mạnh sau nét đắng của trà tiếp nhận món ăn nhiều dầu mỡ và dọn sạch vị giác. Pha đậm, trà đứng vững trên đá, nên trà không thua trước món ăn đậm vị.",
     "brewTip": "98 °C. Cho chén đậm, dùng nhiều lá và pha ngắn; cho trà đá, pha đặc và rót lên đá.",
     "keep": "Đóng kín và để nơi mát; các phần nhỏ bảo vệ hương nướng.",
     "keywords": "Đơn Tùng Đại Ô Diệp Phượng Hoàng ô long Triều Châu pha mạnh Da Wu Ye dancong Phoenix oolong Chaozhou strong brew"
@@ -1618,7 +1618,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô — lá hồng trà được dừng ở mức oxy hóa một nửa.",
     "story": "Một phong cách mới hơn được làm thành các lô nhỏ bởi các vườn Assam để cho thấy lá lớn có thể làm được gì.",
     "flavor": "Mạch nha, mật ong và ngũ cốc rang với hương hoa ô long nâng lên; thân vị dày.",
-    "pairing": "Bánh mì nướng bơ, thịt nướng, phô mai mạnh.",
+    "pairing": "Trà kết hợp tốt với bánh mì nướng phết bơ, thịt nướng và phô mai mạnh. Vị ngọt mạch nha, mật ong và ngũ cốc rang của trà với nét hoa ô long tạo thể trà dày nâng đỡ độ đậm của bơ và phô mai. Bên salad nhẹ, trong trẻo, thể trà đó có thể cảm thấy nặng.",
     "brewTip": "95 °C. Một chút sữa vẫn để mạch nha đứng vững.",
     "keep": "Đóng kín, để nơi mát và khô; trong hai tháng sau khi mở.",
     "keywords": "ô long Assam Ấn Độ assamica oxy hóa một nửa mạch nha Assam oolong India assamica half-oxidised malt"
@@ -1634,7 +1634,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô — lá Ceylon vùng cao được làm thành ô long oxy hóa một nửa.",
     "story": "Được sản xuất thành các lô nhỏ cùng với hồng trà ở Uva và các vườn vùng cao khác.",
     "flavor": "Cam quýt và hoa trong trẻo với mật ong nhẹ, trên khung tươi sáng của hồng trà Ceylon.",
-    "pairing": "Bánh tart trái cây, salad, cá trắng.",
+    "pairing": "Trà kết hợp tốt với tart trái cây, salad và cá trắng hấp. Cam quýt và hoa trong trẻo với mật ong nhẹ của trà chồng lên sự tươi sáng của tart, khung sáng của hồng trà Ceylon kết thúc bữa ăn nhẹ một cách gọn gàng. Món hầm đậm vị có thể dễ dàng chôn vùi hương thơm trong trẻo của trà.",
     "brewTip": "85–90 °C; nước nóng hơn sẽ chôn vùi hương hoa.",
     "keep": "Đóng kín, để nơi mát và khô; trong hai tháng sau khi mở.",
     "keywords": "ô long Ceylon Sri Lanka Uva oxy hóa một nửa vùng cao Ceylon oolong Sri Lanka Uva half-oxidised high-grown"
@@ -1650,7 +1650,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò viên → sấy khô → nướng đậm; sâu cả về oxy hóa lẫn nướng.",
     "story": "Được làm bằng tay nghề Đài Loan ở vùng cao Chiang Rai quanh Doi Mae Salong; được đặt tên theo nước trà đỏ của nó.",
     "flavor": "Vị ngọt của mận khô và nho khô, hạt rang, nước trà đỏ.",
-    "pairing": "Trái cây khô, sô cô la đen, món tráng miệng hạt.",
+    "pairing": "Trà kết hợp tốt với trái cây khô, sô cô la đen và món tráng miệng hạt. Vị ngọt mận khô và nho khô cùng độ bùi hạt rang của trà chồng lên vị ngọt sâu của món tráng miệng để cảm thấy đầy đặn hơn. Vị ngọt cô đặc của trà có thể ngồi tách rời khỏi salad trái cây tươi sáng.",
     "brewTip": "95 °C. Tráng nhanh để đánh thức viên trà cũng được.",
     "keep": "Đóng kín, để nơi mát và khô; hương nướng ghét độ ẩm.",
     "keywords": "ô long Ruby Thái Lan Chiang Rai Doi Mae Salong viên nướng Ruby oolong Thailand Chiang Rai Doi Mae Salong roasted ball"
@@ -1666,7 +1666,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò → sấy khô — lá Jeju được làm thành ô long oxy hóa một nửa.",
     "story": "Một thử nghiệm ô long từ các vườn của Jeju, xây dựng trên tính chất khoáng của đất bazan.",
     "flavor": "Hoa và cỏ sạch, nốt khoáng từ đất núi lửa, vị ngọt gọn.",
-    "pairing": "Hải sản, namul, món Hàn nhẹ.",
+    "pairing": "Trà kết hợp tốt với hải sản, namul và món kèm Hàn Quốc nhẹ. Hoa và cỏ trong trẻo của trà, với nốt khoáng gợi nhớ đất núi lửa, hợp với sự tinh tế của hải sản, vị ngọt gọn gàng không bao giờ làm phiền hương vị nhẹ của namul. Hương thơm trong trẻo của trà xung đột với món kho nêm nếm đậm.",
     "brewTip": "85–90 °C. Nó chịu được thời gian pha lâu hơn trà xanh Jeju mà không trở nên gắt.",
     "keep": "Đóng kín và để tủ lạnh; trong một tháng sau khi mở.",
     "keywords": "trà nham thạch núi lửa Jeju ô long Hàn Quốc đất núi lửa khoáng chất Jeju volcanic rock tea Korean oolong volcanic soil mineral"
@@ -1682,7 +1682,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → lắc làm dập lá → sao diệt men → vò viên → sấy khô — thanh trà oxy hóa nhẹ kiểu Đài Loan từ lá Hàn Quốc.",
     "story": "Một tên phong cách hơn là tên vườn, được sản xuất ở Jeju, Boseong, Hadong và các nơi khác ở Hàn Quốc.",
     "flavor": "Hoa lan và hoa đồng cỏ trong trẻo, vị ngọt nhẹ — nằm giữa trà xanh và ô long.",
-    "pairing": "Trái cây, món tráng miệng nhẹ, salad.",
+    "pairing": "Trà kết hợp tốt với trái cây tươi, món tráng miệng nhẹ và salad. Hoa lan và hoa đồng cỏ trong trẻo với vị ngọt nhẹ của trà cho ấn tượng tươi mới giữa trà xanh và ô long, là bạn đồng hành dễ chịu cho bữa ăn nhẹ. Món thịt đậm vị nhanh chóng chôn vùi sự tươi mới đó.",
     "brewTip": "85–90 °C, pha ngắn và thường xuyên, giữ hương hoa trong trẻo.",
     "keep": "Đóng kín và để tủ lạnh; trong một tháng sau khi mở.",
     "keywords": "ô long Thanh Hàn Quốc thanh trà oxy hóa nhẹ kiểu Đài Loan Cheong oolong Korean oolong qingcha light oxidation Taiwanese style"
@@ -1698,7 +1698,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Ô long oxy hóa nhẹ được vò thành viên ngọc và ướp bằng hoa nhài tươi.",
     "story": "Long châu nhài thường có nền trà xanh (Phúc Kiến); loại của Đài Loan dùng nền ô long, hiếm hơn.",
     "flavor": "Hương nhài trong trẻo trên vị ngọt thực vật dịu. Nước trà kem nhạt.",
-    "pairing": "Dim sum, món tráng miệng nhẹ, trái cây. Đồ ăn đậm vị sẽ lấn át sự tinh tế của nó.",
+    "pairing": "Trà kết hợp tốt với dim sum, món tráng miệng nhẹ và trái cây tươi. Hương hoa nhài trong trẻo và vị ngọt dịu của trà làm nổi bật sự tinh tế của dim sum, ấn tượng của trà nhẹ như màu nước kem nhạt của nó. Hương thơm tinh tế, nên tránh món ăn nặng, vì chúng sẽ lấn át trà.",
     "brewTip": "Pha trong ly thủy tinh để ngắm các viên ngọc nở ra; dành thời gian cho nước đầu để trà nở.",
     "keep": "Đóng kín và để nơi mát — hương phai nhanh; dùng hết trong hai đến ba tháng sau khi mở.",
     "keywords": "ô long long châu nhài Đài Loan trà ướp hương jasmine dragon pearls oolong Taiwan scented"
@@ -1714,7 +1714,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa ngắn → sấy khô. Trà vụ đầu dừng oxy hóa dưới 30%, giữ lại sắc xanh của lá.",
     "story": "Vùng này hình thành sau khi Anh tiếp quản khu vực vào năm 1835; bác sĩ Campbell trồng những cây trà Trung Quốc đầu tiên vào năm 1841. Trà thương mại bắt đầu sớm hơn ở Assam. Biệt danh 'sâm panh' đến từ nốt hương muscatel (nho xạ) đặc trưng.",
     "flavor": "Nho xanh, muscatel và hoa trắng, vị nhẹ, ít chát.",
-    "pairing": "Bánh scone, tart trái cây, cá trắng.",
+    "pairing": "Bánh scone, tart trái cây, cá trắng nướng và madeleine chanh kết hợp tuyệt đẹp. Nốt nho xanh và muscatel trong trẻo của trà nâng đỡ hương vị tinh tế thay vì che phủ chúng. Nên tránh sốt kem đậm hoặc gia vị cay, vì chúng sẽ làm nghẹt hương thơm tinh tế của trà.",
     "brewTip": "85–90 °C trong 2½ phút. Không thêm sữa."
   },
   "black-assam": {
@@ -1728,7 +1728,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa hoàn toàn → sấy khô. Cách chế biến CTC xé nhỏ lá trà nên trà lên màu chỉ trong một, hai phút.",
     "story": "Bắt đầu từ năm 1823, khi Robert Bruce phát hiện những bụi trà assamica mọc hoang; lá to chính là lý do hương mạch nha đậm đến vậy.",
     "flavor": "Mạch nha, mật ong và nho khô với vị đậm dày; CTC mạnh hơn và chát hơn.",
-    "pairing": "Bagel phô mai kem, bánh mì nướng bơ, bánh sô cô la, nền của masala chai.",
+    "pairing": "Bánh mì bagel phô mai kem, bánh mì nướng phết bơ, bánh sô cô la và xúc xích nướng đều hợp. Độ đậm mạch nha và mật ong sâu cùng thể trà dày của trà đứng vững trước bơ và kem, và khi pha với sữa trà tạo thành nền masala chai ngon. Món ăn quá tinh tế như sashimi đơn giản có xu hướng bị lấn át.",
     "brewTip": "98 °C trong 3 phút. Pha với sữa thì dùng 5 g cho 150 ml."
   },
   "black-nilgiri": {
@@ -1742,7 +1742,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô. Độ cao cho phép hái vụ đông với hương thơm riêng.",
     "story": "Người Anh trồng trà đầu tiên ở đây năm 1835, vườn thương mại đầu tiên mở năm 1859; trà được đánh giá cao nhờ sự tươi mát của cao nguyên kết hợp với độ mạnh của hồng trà.",
     "flavor": "Cam chanh và cảm giác mát như bạc hà trên nền mạch nha dịu.",
-    "pairing": "Cà ri Nam Ấn, sandwich, trái cây.",
+    "pairing": "Cà ri Nam Ấn, sandwich rau, trái cây cam quýt như cam và samosa kết hợp đẹp. Sự mát lạnh cam quýt, giống bạc hà của trà làm dịu cái cay của cà ri cay và để lại vị giác tươi mới. Món tráng miệng kem đậm sẽ làm phẳng sự tươi sáng đó, nên hãy giữ mọi thứ nhẹ nhàng.",
     "brewTip": "95 °C trong 3 phút. Uống đá cũng ngon."
   },
   "black-nuwaraeliya": {
@@ -1756,7 +1756,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô. Không khí mát làm oxy hóa chậm lại, nên hương thơm giữ được sự tinh tế.",
     "story": "Sau khi bệnh rụi lá cà phê tàn phá vào thế kỷ 19, hòn đảo chuyển sang trồng trà; Nuwara Eliya được gọi là 'sâm panh của Ceylon'.",
     "flavor": "Cam chanh, hoa trắng và chút bạc hà, vị nhẹ và sáng.",
-    "pairing": "Trái cây, sandwich, tráng miệng nhẹ.",
+    "pairing": "Trái cây tươi, sandwich dưa chuột, bánh chanh và món tráng miệng nhẹ như macaron rất hợp. Nốt cam quýt và hoa trắng tươi sáng, nhẹ của trà hòa quyện sạch sẽ với món ăn nhẹ nhàng. Sô cô la đen hoặc món hun khói mạnh sẽ che mất sự trong trẻo của trà.",
     "brewTip": "90–95 °C trong 3 phút. Không thêm sữa."
   },
   "black-udapussellawa": {
@@ -1770,7 +1770,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô; đậm hơn Nuwara Eliya, dịu hơn Uva.",
     "story": "Trà làm vào mùa chất lượng mát mẻ được cho là mang thoảng hương hoa hồng.",
     "flavor": "Hoa hồng và cam chanh nhẹ, vị vừa, hậu vị sáng.",
-    "pairing": "Bánh scone, trái cây, tráng miệng nhẹ.",
+    "pairing": "Bánh scone, trái cây tươi như dâu tây, bánh sữa chua và mứt trên bánh mì nướng kết hợp tốt. Sự tươi sáng hồng, cam quýt của trà hòa quyện với món tráng miệng ngọt, còn hậu vị chát tươi cắt vị ngọt một cách sạch sẽ. Món ăn cay sẽ làm tan hương hoa của trà.",
     "brewTip": "95 °C trong 3 phút; không thêm sữa để giữ hương hoa hồng."
   },
   "black-uva": {
@@ -1784,7 +1784,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô. Lá vụ khô thơm và sáng.",
     "story": "Trà Uva hái vào mùa gió đông được xếp vào nhóm hồng trà mát nhất thế giới.",
     "flavor": "Bạc hà và khuynh diệp, cuối vị có chát.",
-    "pairing": "Trái cây, phô mai, trà đá.",
+    "pairing": "Trái cây tươi, phô mai mềm, trà đá chanh và salad bạc hà hợp. Nốt bạc hà và khuynh diệp mát của trà rửa sạch vị giác sau phô mai đậm vị. Món hầm ấm, nặng kéo theo hướng khác, nên tốt hơn hãy thưởng thức trà riêng khỏi chúng.",
     "brewTip": "95 °C trong 3 phút. Uống đá rất xuất sắc."
   },
   "black-dimbula": {
@@ -1798,7 +1798,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô; mùa khô tháng 1–3 thơm nhất.",
     "story": "Dimbula là trung tâm thương mại trà của Ceylon và là trụ cột của các blend English Breakfast.",
     "flavor": "Hoa, cam chanh và mạch nha cân bằng, chát vừa phải.",
-    "pairing": "Bữa sáng, bánh scone, English Breakfast.",
+    "pairing": "Bữa sáng kiểu Anh đầy đủ, bánh scone, bánh mì nướng phết bơ và mứt cam kết hợp tốt. Hoa, cam quýt và mạch nha cân bằng của trà, với độ chát vừa phải, dọn dẹp gọn gàng bữa sáng đậm đà. Món cá quá tinh tế có thể bị sức mạnh của trà lấn át.",
     "brewTip": "95 °C trong 3 phút. Giữ hương ngay cả khi pha sữa."
   },
   "black-sabaragamuwa": {
@@ -1812,7 +1812,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô; khí hậu ẩm giữ lá trà mềm.",
     "story": "Một trong các vùng trà của Ceylon, nổi tiếng với nốt hương trái cây.",
     "flavor": "Trái cây chín và mật ong với vị mềm.",
-    "pairing": "Trái cây, tráng miệng, trà sữa.",
+    "pairing": "Trái cây chín, pudding caramel, bánh mật ong và trà sữa với sữa đặc kết hợp tốt. Vị ngọt trái cây chín và mật ong dịu của trà chảy tự nhiên vào món tráng miệng và hòa quyện dịu dàng với sữa. Trái cây quá chua có thể làm đảo lộn cân bằng ngọt của trà.",
     "brewTip": "95 °C trong 3 phút."
   },
   "black-kandy": {
@@ -1826,7 +1826,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô. James Taylor trồng vườn thương mại đầu tiên tại Loolecondera năm 1867.",
     "story": "Ngành trà Sri Lanka khởi đầu năm 1867 tại điền trang Loolecondera của Taylor gần Kandy.",
     "flavor": "Mạch nha dịu và hoa, ít chát.",
-    "pairing": "Trà sữa, cà ri, bữa sáng.",
+    "pairing": "Trà sữa, cà ri nhẹ, món trứng và bánh mì nướng phết bơ kết hợp tốt. Mạch nha và hoa dịu với ít vị chát giúp trà xoa dịu vị giác bên cà ri cay mà không xung đột. Món ăn cực cay có thể xóa mất nốt hoa dịu của trà.",
     "brewTip": "95 °C trong 3 phút; hợp với sữa."
   },
   "black-ruhuna": {
@@ -1840,7 +1840,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô; cái nóng làm oxy hóa nhanh và màu trà sâu hơn.",
     "story": "Ruhuna cho nước trà đậm nhất của Ceylon và phần lớn dùng làm trà sữa.",
     "flavor": "Đỏ sâu, mạch nha rộng, chát mạnh.",
-    "pairing": "Trà sữa, masala chai, một tách trà sáng thật mạnh.",
+    "pairing": "Trà sữa với sữa đặc, masala chai, bữa sáng thịnh soạn và brownie sô cô la rất hợp. Mạch nha rộng và vị chát mạnh của trà đứng vững trước mỡ sữa và gia vị, tạo thành một chén trà buổi sáng mạnh mẽ. Cá trắng đơn giản sẽ bị sức nắm của trà nghiền nát.",
     "brewTip": "98 °C trong 3½ phút; sữa làm dịu lại."
   },
   "black-keemun": {
@@ -1854,7 +1854,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô → phân loại, lá được vò kỹ và oxy hóa chậm.",
     "story": "Tương truyền Dư Can Thần (Yu Ganchen) của Kỳ Môn mang phương pháp Phúc Kiến về đây năm 1875; hương Keemun được xếp vào ba hương trà vĩ đại nhất thế giới.",
     "flavor": "Hoa hồng, lan và sô cô la đen, chát dịu và hậu vị dài.",
-    "pairing": "Sô cô la đen, món hun khói, bữa sáng.",
+    "pairing": "Sô cô la đen, vịt hun khói, nấm nướng và bánh mì lúa mạch đen nướng kết hợp tuyệt đẹp. Sự thanh lịch của hoa hồng và hoa lan trên chiều sâu sô cô la đen của trà đi vào món hun khói với hậu vị dài. Dưa chua gắt sẽ cắt qua hương thơm tinh tế của trà.",
     "brewTip": "90–95 °C trong 2½ phút. Không thêm sữa."
   },
   "black-lapsang": {
@@ -1868,7 +1868,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô trên khói thông.",
     "story": "Câu chuyện cuối thời Minh: quân lính khiến người trồng trà phải bỏ chạy, lá trà oxy hóa đỏ lên, và họ vội sấy khô trên lửa thông.",
     "flavor": "Khói thông, nhựa đường và trái cây khô, sâu và nặng.",
-    "pairing": "Thịt hun khói, đồ nướng, phô mai, whisky than bùn.",
+    "pairing": "Thịt hun khói, barbecue, phô mai ủ lâu và whisky peat là bạn đồng hành tự nhiên. Khói thông nặng của trà chạy cùng một đường với mùi cháy và khói, còn vị ngọt trái cây khô làm dịu vị mặn. Món tráng miệng tinh tế và sashimi sẽ bị khói chôn vùi hoàn toàn.",
     "brewTip": "98 °C trong 3 phút. Đủ mạnh để pha sữa."
   },
   "black-jinjunmei": {
@@ -1882,7 +1882,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô, chỉ dùng búp mùa xuân và hoàn toàn không hun khói, nên hương hoa và mật ong được giữ lại.",
     "story": "Được tạo ra năm 2005 bởi đội của Giang Nguyên Huân (Jiang Yuanxun) tại Chính Sơn Đường (Zheng Shan Tang), chỉ dùng búp của giống trà lapsang.",
     "flavor": "Mật ong, hoa trắng và mơ khô, ngọt dịu và dài.",
-    "pairing": "Trái cây, tráng miệng nhẹ, cá trắng.",
+    "pairing": "Trái cây tươi, mơ khô, cá trắng hấp và bánh gạo nhẹ kết hợp tốt. Vị ngọt mật ong và hoa trắng dịu, dài của trà nâng đỡ món ăn nhẹ nhàng mà không xâm phạm. Gia vị cay và nước sốt đậm sẽ dễ dàng che mất sự tinh tế của trà.",
     "brewTip": "85–90 °C trong 2 phút; nước sôi làm tổn thương búp trà."
   },
   "black-dianhong": {
@@ -1896,7 +1896,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa dài → sấy khô, làm nổi bật những búp vàng.",
     "story": "Được làm lần đầu ở Phượng Khánh năm 1939 — một hồng trà còn trẻ.",
     "flavor": "Mật ong, mận khô và mạch nha với vị đậm dày.",
-    "pairing": "Món Hoa, đồ nướng, trà sữa.",
+    "pairing": "Món xào Trung Hoa, barbecue, trà sữa mật ong và bánh trung thu kết hợp tốt. Vị ngọt mật ong và mận khô với thể trà dày của trà đứng vững trước món ăn nhiều dầu và mùi cháy, làm lắng vị giác sau bữa ăn. Món ăn quá thanh đạm như sashimi có thể bị lấn át.",
     "brewTip": "95 °C trong 3 phút; vẫn đủ mạnh khi pha sữa."
   },
   "blend-masala": {
@@ -1910,7 +1910,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Assam CTC đậm với gừng, bạch đậu khấu, quế, đinh hương và tiêu, đun cùng sữa.",
     "story": "Trồng trà lan rộng ở Ấn Độ thời thuộc địa và cách uống trà với gia vị và sữa cũng định hình theo đó.",
     "flavor": "Gia vị ấm, vị ngọt tròn của sữa và độ mạnh của hồng trà đậm.",
-    "pairing": "Samosa, paratha, bánh mì buổi sáng.",
+    "pairing": "Samosa, paratha, bánh mì buổi sáng nướng và bánh quy bạch đậu khấu kết hợp tốt. Gia vị ấm và vị ngọt sữa tròn trịa của trà gặp đồ ăn vặt chiên Ấn Độ trong một sự kết hợp quê nhà tự nhiên. Món tráng miệng trái cây tinh tế có xu hướng biến mất dưới gia vị.",
     "brewTip": "Đun cùng sữa để gia vị bung hương. Đường tùy khẩu vị."
   },
   "black-sikkim": {
@@ -1924,7 +1924,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô; bang này chuyển sang trồng hữu cơ vào những năm 2000.",
     "story": "Sikkim là bang đầu tiên của Ấn Độ tuyên bố toàn bộ trà của mình là hữu cơ.",
     "flavor": "Hoa và muscatel nhẹ, vị mềm.",
-    "pairing": "Bánh scone, các loại hạt, tráng miệng nhẹ.",
+    "pairing": "Bánh scone, các loại hạt rang, bánh meringue và món tráng miệng trái cây nhẹ kết hợp tốt. Hoa và muscatel nhẹ trên thể trà mềm của trà mang hương thơm sạch sẽ giữa những miếng bùi và ngọt. Cà ri mạnh hoặc món ăn cay sẽ phá vỡ sự dịu dàng của trà.",
     "brewTip": "95 °C trong 3 phút; không thêm sữa để giữ hương."
   },
   "black-nepal": {
@@ -1938,7 +1938,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô, phần lớn làm thủ công ở các nông hộ nhỏ.",
     "story": "Trà Nepal bắt đầu từ hạt giống Trung Quốc năm 1863 và nổi tiếng với hương thơm giống Darjeeling.",
     "flavor": "Hoa, nho xanh và muscatel nhẹ.",
-    "pairing": "Bánh scone, trái cây, tráng miệng nhẹ.",
+    "pairing": "Bánh scone, trái cây tươi như nho xanh, bánh chanh và món tráng miệng sữa chua kết hợp tốt. Hoa nhẹ và nho xanh của trà tinh tế như Darjeeling, giữ món tráng miệng nhẹ nhàng có vị sạch. Kem đậm hoặc sô cô la sẽ che mất sự nhẹ nhàng của trà.",
     "brewTip": "90–95 °C trong 3 phút, không thêm sữa."
   },
   "black-kenya": {
@@ -1952,7 +1952,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → CTC (nghiền, xé, vò cuộn) → sấy khô; lá xé nhỏ lên màu nhanh.",
     "story": "Trà đến đây năm 1903 và Kenya trở thành một trong ba nước xuất khẩu trà lớn nhất thế giới, chủ yếu cho trà túi.",
     "flavor": "Đỏ sâu, mạch nha và chát mạnh, chịu được sữa.",
-    "pairing": "Trà sữa, chai, trà túi buổi sáng.",
+    "pairing": "Trà sữa, masala chai, bữa sáng thịnh soạn và bánh quy bơ kết hợp tốt. Mạch nha và vị chát mạnh của trà vẫn đứng vững ngay cả dưới nhiều sữa, tạo thành một chén trà buổi sáng chắc chắn. Uống nguyên chất, trà hơi mạnh đối với món tráng miệng tinh tế — hãy dùng trà với sữa.",
     "brewTip": "98 °C trong 3 phút. Sinh ra để pha sữa."
   },
   "black-jaksal": {
@@ -1966,7 +1966,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa hoàn toàn → sấy khô, dùng lá trà xanh Hadong.",
     "story": "Jaksal là phương ngữ Gyeongsang của 'jakseol' (lá non); người trồng trà Hadong đặt tên này cho hồng trà của họ.",
     "flavor": "Mật ong, trái cây khô và mạch nha, chát dịu.",
-    "pairing": "Trái cây, bánh mì, trà sữa.",
+    "pairing": "Trái cây theo mùa, bánh mì nướng, trà sữa mật ong và yakgwa kết hợp tốt. Vị ngọt mật ong và trái cây khô với vị chát dịu của trà nâng đỡ gọn gàng món tráng miệng Hàn Quốc và bánh mì bùi. Món hầm cay kéo ngược hương thơm của trà, nên hãy thưởng thức trà riêng.",
     "brewTip": "85–90 °C trong 3 phút. Đủ dịu để uống không sữa."
   },
   "black-ruby18": {
@@ -1980,7 +1980,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô, với quá trình oxy hóa dài cho lá lớn.",
     "story": "Được lai năm 1951 tại chi nhánh Ngư Trì (Yuchi) của trạm cải tiến trà Đài Loan từ assamica Miến Điện (B-729) và trà núi dại Đài Loan (B-607); đặt số TTES No.18 năm 1999 và được đặt tên Hồng Ngọc (Hong Yu, Ruby) năm 2003.",
     "flavor": "Bạc hà, quế và nhục đậu khấu, màu sâu, hậu vị dài.",
-    "pairing": "Món Hoa, món hun khói, trà sữa.",
+    "pairing": "Món xào Trung Hoa, món hun khói, trà sữa và bánh quy quế kết hợp tốt. Gia vị bạc hà, quế và nhục đậu khấu của trà cắt qua món ăn đậm vị một cách sảng khoái và để lại hậu vị dài. Sashimi đơn giản sẽ bị gia vị lấn át.",
     "brewTip": "95 °C trong 3 phút; nước nóng làm hương bạc hà bung ra."
   },
   "dark-sheng": {
@@ -1994,7 +1994,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sao (diệt men) → vò → sấy khô → ép bánh, rồi lên men sau tự nhiên.",
     "story": "Thời Thanh, bánh trà được tiến cống và chở số lượng lớn đến Tây Tạng, Quảng Đông và Hồng Kông; trà sống được để lão hóa nhiều năm.",
     "flavor": "Trái cây khô và mật ong ở năm năm, táo tàu và thảo mộc ở mười năm, mùi ngăn kéo gỗ cũ ở hai mươi năm.",
-    "pairing": "Bữa ăn thịnh soạn, món Hoa, thịt.",
+    "pairing": "Món Trung Hoa đậm vị, thịt nướng, bánh trung thu và món tráng miệng trái cây khô kết hợp tốt. Chiều sâu trái cây ủ, mật ong và thảo mộc của trà rửa trôi mỡ thịt cho hậu vị sạch. Hải sản tinh tế có thể bị đè nén bởi hương thơm ủ lâu nặng ký của trà.",
     "brewTip": "Nước sôi. Bỏ nước tráng đầu tiên."
   },
   "dark-shou": {
@@ -2008,7 +2008,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → sao → vò → ốc đôi (wo dui: độ ẩm 30–40%, 50–65 °C, 40–70 ngày) → sấy khô → ép bánh.",
     "story": "Nhà máy trà Côn Minh phát triển kỹ thuật ốc đôi (wo dui) năm 1973 để rút ngắn thời gian chờ.",
     "flavor": "Đất, táo tàu và nấm, kết cấu mềm và ngọt.",
-    "pairing": "Sau bữa ăn, đồ ăn béo, món cay.",
+    "pairing": "Một chén trà sau bữa ăn đậm đà, món cay, thịt nướng và món tráng miệng táo tàu kết hợp tốt. Vị ngọt đất và chà là với kết cấu mềm mại của trà an ủi vị giác sau món ăn nhiều dầu. Trà đi ngược với sự tươi mới của trái cây sống, nên hãy thưởng thức chúng riêng.",
     "brewTip": "100 °C trong 15 giây. Bỏ hai nước tráng đầu."
   },
   "dark-anhua": {
@@ -2022,7 +2022,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → ốc đôi → sấy khô chậm trên khói thông ở bếp thất tinh.",
     "story": "An Hóa là quê hương của trà biên cương gửi ra biên giới thời Minh và Thanh.",
     "flavor": "Khói, táo tàu và thảo mộc, dịu mà sâu.",
-    "pairing": "Thịt, món Hoa, và uống lạnh cũng hợp.",
+    "pairing": "Thịt nướng, món Trung Hoa đậm vị, xúc xích hun khói và trà táo tàu kết hợp tốt, và trà cũng ngon khi uống lạnh. Khói, chà là và thảo mộc trong nước trà dịu, sâu của trà dọn dẹp mỡ thịt. Món tráng miệng nhẹ, tinh tế sẽ bị trọng lượng của trà che khuất.",
     "brewTip": "100 °C trong 20 giây, pha nhiều lần."
   },
   "dark-liubao": {
@@ -2036,7 +2036,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao → vò → ủ đống → sấy khô, rồi tiếp tục ủ đống và hấp, và lão hóa trong giỏ tre.",
     "story": "Được xếp vào 24 danh trà của Trung Quốc thời Gia Khánh, trà trở nên nổi tiếng như trà xuất khẩu qua Quảng Châu đến Hồng Kông và Đông Nam Á; phương pháp ủ đống nước lạnh được định hình vào những năm 1950.",
     "flavor": "Nốt nấm và cau với vị ngọt dịu.",
-    "pairing": "Đồ ăn béo, món Hoa.",
+    "pairing": "Món Trung Hoa đậm vị, dim sum, món nấm nướng và thịt lợn kết hợp tốt. Nốt nấm và cau đặc trưng với vị ngọt dịu của trà nhẹ nhàng tiếp nhận mỡ của dim sum và thịt. Món ăn quá chua xung đột với vị ngọt tròn của trà.",
     "brewTip": "100 °C trong 20 giây; trà mềm hơn theo tuổi."
   },
   "dark-cheongtaejeon": {
@@ -2050,7 +2050,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá trà hấp được giã, ép thành đồng xu có lỗ, sấy khô và lưu trữ để lên men.",
     "story": "Được làm ở Jangheung và Gangjin thời Joseon, trà mai một sau thời kỳ thuộc địa Nhật và được khôi phục ở Jangheung vào 2006–2008.",
     "flavor": "Đất, thảo mộc và táo tàu, dịu và ấm.",
-    "pairing": "Sau bữa ăn, mùa đông, đồ ăn béo.",
+    "pairing": "Một chén trà sau bữa ăn đậm đà, mâm cơm Hàn Quốc mùa đông, món tráng miệng táo tàu và hạt dẻ và thịt nướng kết hợp tốt. Đất, thảo mộc và chà là trong nước trà dịu, ấm của trà làm lắng bữa ăn một cách bình tĩnh. Salad lạnh, chua gắt xung đột với sự ấm áp của trà.",
     "brewTip": "100 °C trong 1 phút, hoặc đun một đồng xu trong 500 ml trong 5 phút."
   },
   "blend-earlgrey": {
@@ -2064,7 +2064,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Keemun, Assam, Ceylon và các hồng trà khác được phối trộn và ướp tinh dầu bergamot; tỉ lệ khác nhau theo thương hiệu.",
     "story": "Vào những năm 1830, thủ tướng Anh Charles Grey tương truyền được tặng một loại trà ướp hương từ Trung Quốc, và Twinings biến nó thành sản phẩm; Earl Grey trở thành một dòng trà chứ không phải một thương hiệu.",
     "flavor": "Cam chanh và hoa, cân bằng ở ba phút. Một tách chứa 40–70 mg caffeine.",
-    "pairing": "Scone với kem đông (clotted cream), sô cô la đen, tart chanh, yakgwa, cá hồi hun khói.",
+    "pairing": "Bánh scone với kem clotted, sô cô la đen, tart chanh, yakgwa và cá hồi hun khói kết hợp tốt. Cam quýt bergamot của trà cắt qua kem một cách sảng khoái, hương thơm của trà hòa quyện với vị đắng của sô cô la. Món ăn tỏi mạnh sẽ chôn vùi hương thơm của trà.",
     "brewTip": "Trà túi ở 90–95 °C trong 2½–3 phút; pha trà sữa thì 4–5 phút cho đậm."
   },
   "blend-ladygrey": {
@@ -2078,7 +2078,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hồng trà ướp hương bergamot, vỏ cam chanh và cánh hoa.",
     "story": "Tương truyền trà lấy tên từ Nữ bá tước Grey (Countess Grey).",
     "flavor": "Cam chanh dịu hơn Earl Grey, với hoa và vị ngọt nhẹ.",
-    "pairing": "Tart trái cây, cheesecake, trà đá.",
+    "pairing": "Tart trái cây, cheesecake, trà đá chanh và meringue quả mọng kết hợp tốt. Cam quýt dịu hơn Earl Grey, với hương hoa, của trà nhẹ nhàng ôm lấy vị chua và ngọt của cheesecake. Món hun khói hoặc cay mạnh sẽ xóa mất sự dịu dàng của trà.",
     "brewTip": "3 phút; uống đá cũng ngon."
   },
   "blend-englishbreakfast": {
@@ -2092,7 +2092,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Xây dựng quanh hồng trà đậm, tăng cường mạch nha và màu sắc.",
     "story": "Blend đậm uống cùng bữa sáng ở Anh thế kỷ 19 đã định hình thành loại trà này.",
     "flavor": "Mạch nha, mật ong và trái cây khô, chịu được sữa.",
-    "pairing": "Thịt xông khói và trứng, bánh mì nướng, bữa sáng.",
+    "pairing": "Thịt xông khói và trứng, bánh mì nướng phết bơ, xúc xích nướng và mứt cam kết hợp tốt. Mạch nha và mật ong sâu của trà nâng đỡ chắc chắn bữa sáng mặn và đứng vững dưới sữa. Salad trái cây tinh tế một mình có thể để sức mạnh của trà không có đối trọng.",
     "brewTip": "3–4 phút; pha với sữa thì dùng 5 g cho 150 ml."
   },
   "blend-hongkong": {
@@ -2106,7 +2106,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nhiều loại hồng trà được phối trộn và pha đậm, rồi thêm sữa đặc không đường.",
     "story": "Trà sữa kiểu Anh định hình ở Hồng Kông thành một tách trà đậm với sữa đặc không đường.",
     "flavor": "Mạch nha mạnh và vị ngọt tròn của sữa, kết cấu dày.",
-    "pairing": "Bánh dứa (pineapple bun), bánh mì nướng, tart trứng.",
+    "pairing": "Bánh dứa (pineapple bun), bánh mì nướng phết bơ, tart trứng và bánh mì nướng kiểu Pháp kết hợp tốt. Mạch nha mạnh, vị ngọt tròn của sữa đặc và kết cấu dày của trà hợp với bánh mì cha chaan teng như thể chúng sinh ra để đi cùng nhau. Salad đơn giản chạy trên một kết cấu khác.",
     "brewTip": "Năm phút, pha đậm. Thêm sữa sau cùng và khuấy đều."
   },
   "black-lapsang-unsmoked": {
@@ -2120,7 +2120,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, chỉ sấy trên than — không hun khói.",
     "story": "Nhánh của Chính Sơn Tiểu Chủng không sấy khói: lá và nước trà sạch, không có khói thông.",
     "flavor": "Trái cây khô, mật ong, hoa, vị mềm — trà nền không có khói.",
-    "pairing": "Tart trái cây, thịt nướng không hun khói, tráng miệng.",
+    "pairing": "Tart trái cây, thịt nướng không hun khói, bánh mật ong và món tráng miệng hạt kết hợp tốt. Trái cây khô, mật ong và hoa không có khói của trà nhẹ nhàng ôm lấy thịt nướng và để hương thơm thật của trà thể hiện. Món hun khói sẽ xóa mất điểm cốt lõi của phong cách không hun khói.",
     "brewTip": "2½ phút ở 90 °C; pha sữa cũng vẫn giữ vị.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "Chính Sơn Tiểu Chủng không hun khói Zhengshan Xiaozhong unsmoked Lapsang Vũ Di hồng trà"
@@ -2136,7 +2136,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, sấy khô — lá lớn cần oxy hóa dài.",
     "story": "Hồng trà Quảng Đông từ giống lá lớn ở Anh Đức; đậm và sáng, dùng làm nền trà sữa.",
     "flavor": "Mạch nha, mật ong, trái cây đỏ; nước trà đậm vẫn giữ hương khi pha sữa.",
-    "pairing": "Bữa sáng, trà sữa, thịt nướng.",
+    "pairing": "Bữa sáng thịnh soạn, trà sữa, thịt nướng và bánh mì nướng mật ong kết hợp tốt. Mạch nha, mật ong và trái cây đỏ của trà vẫn thơm ngay cả với sữa, nâng đỡ chắc chắn thịt đậm vị và bữa sáng. Món cá trong trẻo, tinh tế có thể bị chiều sâu của trà lấn át.",
     "brewTip": "3 phút ở 95 °C; gấp đôi lượng trà khi pha trà sữa.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "hồng trà Anh Đức Yingde Quảng Đông lá lớn trà sữa"
@@ -2152,7 +2152,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, sấy khô; phần lớn là lá vụn mịn, gần với CTC.",
     "story": "Rize bên bờ Biển Đen là trung tâm trà của Thổ Nhĩ Kỳ; trà được pha đậm và phục vụ trong ly tulip nhỏ.",
     "flavor": "Mạch nha và bánh mì nướng, nước đỏ sâu; thường uống với đường viên.",
-    "pairing": "Bữa sáng, bánh mì, bánh ngọt.",
+    "pairing": "Bữa sáng kiểu Thổ Nhĩ Kỳ, bánh mì tươi, đồ ngọt như Turkish delight và phô mai kết hợp tốt. Vị mặn mà mạch nha và bánh mì nướng của trà gặp vị ngọt của đường viên và làm dịu vị mặn của bánh mì và phô mai. Món tráng miệng trái cây tinh tế dễ bị chôn vùi.",
     "brewTip": "Pha đậm năm phút; ấm đôi cho phép pha loãng theo khẩu vị.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "Rize cay trà Thổ Nhĩ Kỳ Biển Đen"
@@ -2168,7 +2168,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, sấy khô; phần lớn là CTC, vụn mịn.",
     "story": "Hồng trà từ Cameron Highlands ở Malaysia, khoảng 1.500 m; một điền trang đã trồng trà từ năm 1929.",
     "flavor": "Mạch nha và bánh mì nướng, nước trà đậm hợp với sữa.",
-    "pairing": "Bữa sáng, trà sữa, bánh scone.",
+    "pairing": "Bữa sáng, trà sữa, bánh scone và bánh mì nướng kaya kết hợp tốt. Nước trà sẫm của mạch nha và bánh mì nướng hòa quyện mượt mà với sữa và hợp với mâm sáng Đông Nam Á. Trái cây một mình để sức mạnh của trà nổi bật, nên hãy thêm chút bánh mì.",
     "brewTip": "Ba phút ở 95 °C; pha đậm và thêm sữa như cách uống địa phương.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "Cameron Highlands Malaysia hồng trà điền trang cao nguyên"
@@ -2184,7 +2184,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, sấy khô; phần lớn là CTC.",
     "story": "Rwanda là nhà sản xuất cao nguyên ở Đông Phi; lá trà lớn chậm trong những đồi mờ sương ở 1.600–2.000 m.",
     "flavor": "Mạch nha với sắc sáng, nước đỏ sâu, dịu hơn trà Kenya.",
-    "pairing": "Bữa sáng, trà sữa, bánh mì.",
+    "pairing": "Bữa sáng, trà sữa, bánh mì nướng và mứt trên bánh mì nướng kết hợp tốt. Mạch nha với cạnh tươi sáng của trà dọn dẹp bữa sáng đậm đà dịu dàng hơn trà Kenya. Món tráng miệng sô cô la quá đen có thể xung đột với độ chua tươi sáng đó.",
     "brewTip": "Ba phút ở 95 °C; sữa làm tròn vị sáng.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "hồng trà Rwanda Đông Phi cao nguyên CTC"
@@ -2200,7 +2200,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa, sấy khô; lá đồng bằng đậm thường dùng trong blend bữa sáng.",
     "story": "Đồng bằng phía bắc Tây Bengal, phía nam Darjeeling và phía đông Assam — vành đai giữa hai vùng trà nổi tiếng.",
     "flavor": "Mạch nha và bánh mì nướng, đậm và khá gắt — hợp với sữa.",
-    "pairing": "Bữa sáng, trà sữa.",
+    "pairing": "Bữa sáng, trà sữa, bánh mì nướng phết bơ và xúc xích nướng kết hợp tốt. Mạch nha và bánh mì nướng với độ nắm khá của trà mềm đi trong sữa và nâng đỡ chắc chắn đĩa ăn sáng mặn. Món tráng miệng tinh tế bị sức mạnh của trà áp đảo.",
     "brewTip": "Ba phút ở 95 °C; phối tốt vào các blend bữa sáng.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "trà Dooars Ấn Độ Tây Bengal bữa sáng"
@@ -2216,7 +2216,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo, vò, oxy hóa hoàn toàn, sấy khô — lá vụ hè.",
     "story": "Yeongdeok, ở bờ biển phía đông Hàn Quốc, có các nông trại nhỏ làm hồng trà từ lá trồng tại địa phương; sản lượng nhỏ và phần lớn bán tại chỗ.",
     "flavor": "Mạch nha với nốt hoa thoảng, ngọt dịu; nhẹ hơn hồng trà Hadong.",
-    "pairing": "Tráng miệng đơn giản, trái cây khô, trà buổi sáng.",
+    "pairing": "Món tráng miệng thanh đạm, trái cây khô, một chén trà buổi sáng và bánh quy gạo kết hợp tốt. Mạch nha với nốt hoa mờ và vị ngọt dịu của trà nhẹ hơn hồng trà Hadong, không bao giờ xâm phạm đồ ăn vặt nhẹ nhàng. Món ăn mạnh như cà ri đậm sẽ che mất sự nhẹ nhàng của trà.",
     "brewTip": "Ba phút ở 90 °C; lá non cho hai lần pha ngon.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "hồng trà Yeongdeok Hàn Quốc bờ biển phía đông"
@@ -2232,7 +2232,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ủ đống, ép nén, rồi sấy khô trong giai đoạn 'ra hoa' nơi hoa vàng phát triển.",
     "story": "Nổi tiếng với 'hoa vàng' màu vàng nở bên trong viên gạch — một loại nấm mốc được khuyến khích bằng nhiệt và ẩm có kiểm soát.",
     "flavor": "Nấm, đất, ngũ cốc; ngọt mềm tròn, càng nhiều hoa vàng càng mượt.",
-    "pairing": "Thịt béo, món Hoa, sữa.",
+    "pairing": "Thịt béo, món Trung Hoa, sản phẩm sữa như sữa chua và nấm nướng kết hợp tốt. Vị mặn mà nấm và ngũ cốc với vị ngọt dịu, tròn của trà bình tĩnh làm sạch mỡ thịt. Độ chua của trái cây tươi ngồi khó xử với vị ngọt tròn đó.",
     "brewTip": "Nước sôi; tráng một lần, và cũng có thể đun.",
     "keep": "Độ ẩm khoảng 60%, tránh mùi lạ — hoa vẫn tiếp tục phát triển.",
     "keywords": "trà gạch Phó Chuyên Fu brick hoa vàng hắc trà An Hóa"
@@ -2248,7 +2248,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ủ đống, ép vào tre, rồi sấy khô nhiều tháng; cắt ra khi cần.",
     "story": "Một khúc trà dài nén chặt bên trong vỏ tre; tên gọi đến từ trọng lượng cũ 1.000 lượng, khoảng 36 kg.",
     "flavor": "Tre và đất, ngọt sâu; để càng lâu càng dịu.",
-    "pairing": "Bữa ăn béo, món Hoa, sữa.",
+    "pairing": "Bữa ăn nhiều mỡ, món xào Trung Hoa, món tráng miệng từ sữa và thịt hun khói kết hợp tốt. Tre và đất với vị ngọt sâu của trà làm lắng vị giác một cách nặng ký sau món ăn đậm đà. Salad nhẹ không tương xứng về trọng lượng.",
     "brewTip": "Nước sôi; lần pha đầu ngắn vì khúc trà rất đặc.",
     "keep": "Khô và thoáng, giữ nguyên vỏ tre.",
     "keywords": "Thiên Lượng Qianliang An Hóa trà ép tre hắc trà"
@@ -2264,7 +2264,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ủ đống, ép nén, sấy khô; lá và cọng thô được ép chặt.",
     "story": "Hắc trà ép từ Nhã An, Tứ Xuyên, thuộc tuyến thương mại trà gạch 'đường phía nam' đến Tây Tạng, nơi trà được đun với sữa và muối.",
     "flavor": "Đất và ngũ cốc, mạnh và hơi thô; sữa hoặc bơ làm dịu lại.",
-    "pairing": "Thịt, sữa, bữa ăn thịnh soạn.",
+    "pairing": "Món thịt, sản phẩm sữa như bơ và phô mai, bữa ăn đậm đà và đồ ăn vặt lúa mạch rang kết hợp tốt. Đất và ngũ cốc trong vị ngọt mạnh, hơi thô của trà mềm đi với sữa hoặc bơ và gặp mỡ thịt trực diện. Món tráng miệng tinh tế có thể bị lấn át.",
     "brewTip": "Pha dài ở 100 °C; phong cách Tây Tạng thêm sữa và muối.",
     "keep": "Khô và thoáng.",
     "keywords": "Kangzhuan Tứ Xuyên trà gạch Tây Tạng hắc trà"
@@ -2280,7 +2280,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Thức uống thường ngày của Tây Tạng: trà gạch đun cô đặc mạnh, rồi đánh với bơ và muối.",
     "story": "Trà được đun thành dạng cô đặc ('chaku') và giữ lại; mỗi phần uống được đánh với bơ và muối.",
     "flavor": "Bơ và mặn trên nền đất của hắc trà; lạ lúc đầu, ấm dần về sau.",
-    "pairing": "Tsampa (bột lúa mạch rang), thịt, bữa sáng.",
+    "pairing": "Tsampa (bột lúa mạch rang), thịt khô, bữa sáng và phô mai mặn kết hợp tốt. Độ béo của bơ, vị mặn và vị đất của trà sẫm mang hương vị lúa mạch và thịt thành một thứ no bụng như một bữa ăn. Món tráng miệng ngọt xung đột với vị mặn của trà.",
     "brewTip": "Chìa khóa là đun trà thật đậm; dùng bơ không muối.",
     "keep": "Bảo quản lạnh phần cô đặc và hâm lại khi dùng.",
     "keywords": "trà bơ Tây Tạng Tibetan butter tea suyou cha trà gạch Tibet"
@@ -2296,7 +2296,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ủ đống, ép nén, sấy khô; lá và cọng được ép chặt.",
     "story": "Hắc trà gạch xanh của Triệu Lý Kiều, Hồ Bắc; gạch để lâu được gọi là lão thanh chuyên, và đây là dòng trà từng đi đến Mông Cổ và Nga.",
     "flavor": "Đất và ngũ cốc, ngọt dịu; gạch càng lâu năm càng điềm.",
-    "pairing": "Thịt béo, sữa, món Hoa.",
+    "pairing": "Thịt béo, sản phẩm sữa, món Trung Hoa và các loại hạt rang kết hợp tốt. Vị mặn mà đất và ngũ cốc với vị ngọt dịu của trà bình tĩnh rửa trôi mỡ thịt cho hậu vị thoải mái. Salad trái cây chua gắt chạy trên một đường khác với sự dịu dàng của trà.",
     "brewTip": "Pha dài ở 100 °C; đun làm vị ngọt bung ra.",
     "keep": "Khô và thoáng.",
     "keywords": "Lão Thanh Chuyên Lao Qingzhuan Hồ Bắc Zhaoliqiao hắc trà gạch"
@@ -2312,7 +2312,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Sao, vò, ủ đống, sấy khô, rồi lão hóa rời trong thùng chứa.",
     "story": "Hạng cao nhất của dòng hắc trà 'Tương Tiêm' (Xiangjian) của An Hóa, và khác thường ở chỗ không ép nén — lá trà giữ dạng rời.",
     "flavor": "Khói và đất, ngọt như táo tàu; nhẹ và tươi hơn hắc trà ép.",
-    "pairing": "Bữa ăn béo, món Hoa, trái cây khô.",
+    "pairing": "Bữa ăn nhiều mỡ, món Trung Hoa, trái cây khô và hạt dẻ rang kết hợp tốt. Khói và đất với vị ngọt giống chà là của trà, nhẹ hơn các loại trà sẫm ép bánh, giúp trà dễ uống sau món ăn đậm đà. Cá tinh tế có thể bị khói che khuất.",
     "brewTip": "Pha ngắn, lặp lại ở 100 °C; vị ngọt từ lần thứ ba.",
     "keep": "Khô và thoáng, tránh mùi mạnh.",
     "keywords": "Thiên Tiêm Tianjian An Hóa hắc trà rời Xiangjian"
@@ -2328,7 +2328,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nụ hồng khô được phối với hồng trà hoặc trà xanh — hoặc pha riêng.",
     "story": "Lá trà và hoa khô được phối trộn, hoặc trà đậm được ướp hương hoa hồng.",
     "flavor": "Hoa hồng và vị ngọt mật ong với mạch nha phía sau.",
-    "pairing": "Sô cô la, các loại hạt, tráng miệng trái cây.",
+    "pairing": "Sô cô la, các loại hạt rang, món tráng miệng trái cây như dâu tây và macaron hoa hồng kết hợp tốt. Hương hoa hồng và vị ngọt mật ong của trà gặp chiều sâu của sô cô la, với mạch nha phía sau để hương thơm giữ được nền. Món ăn cay sẽ làm tan hương hoa hồng.",
     "brewTip": "2½ phút ở 90 °C; quá nhiều cánh hoa sẽ thành vị xà phòng, nên giữ ngắn.",
     "keep": "Đậy kín và mát; cánh hoa phai màu nghĩa là hương cũng phai.",
     "keywords": "trà hoa hồng rose tea meigui hồng trà ướp hương"
@@ -2344,7 +2344,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hồng trà Quảng Đông ướp hương vải, loại trái cây của miền nam Quảng Đông và Phúc Kiến.",
     "story": "Lá hồng trà được ướp hương vải, hoặc trái cây khô được phối vào.",
     "flavor": "Vải ngọt trên nền mạch nha; hương vẫn giữ khi uống đá.",
-    "pairing": "Tráng miệng trái cây, trà đá.",
+    "pairing": "Món tráng miệng trái cây, thạch vải, trà đá và pudding dừa kết hợp tốt. Hương vải ngọt của trà vẫn sống được qua đá, lớp lớp ngọt ngào trên món tráng miệng trái cây khi dùng lạnh. Món thịt nặng đi ngược với hương trái cây của trà.",
     "brewTip": "2½ phút ở 90 °C; pha gấp đôi độ đậm cho trà đá.",
     "keep": "Đậy kín và mát.",
     "keywords": "hồng trà vải lychee lizhi Quảng Đông trà trái cây"
@@ -2360,7 +2360,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hồng trà đậm với sữa đặc và đường, rót lên đá — thức uống đường phố màu cam sáng của Thái.",
     "story": "Hồng trà vụn mịn pha đậm, làm ngọt bằng sữa đặc, rót lên đá.",
     "flavor": "Mạch nha và đường rất mạnh, béo nhờ sữa đặc; dịu dần khi đá tan.",
-    "pairing": "Món Thái cay, tráng miệng.",
+    "pairing": "Món Thái cay, pad thai, món tráng miệng dừa và xôi xoài kết hợp tốt. Mạch nha và đường rất mạnh với kem sữa đặc của trà nhẹ nhàng ôm lấy cái cay của món Thái như một bộ đôi. Bên món ăn thanh đạm, vị ngọt của trà có thể nổi bật.",
     "brewTip": "Pha đậm năm phút; điều chỉnh độ ngọt bằng sữa đặc.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "cha yen trà đá Thái sữa đặc"
@@ -2376,7 +2376,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Blend bữa sáng thiên về Assam: đậm và mạnh hơn English Breakfast.",
     "story": "Chủ yếu là Assam với lá Ceylon và Kenya cho mạch nha và màu sắc.",
     "flavor": "Mạch nha và màu sắc sâu; sữa làm trà thành vị kem.",
-    "pairing": "Bữa sáng, bánh mì đen, bơ.",
+    "pairing": "Bữa sáng thịnh soạn, bánh mì đen, bơ và mứt và xúc xích nướng kết hợp tốt. Mạch nha và màu trà sâu của trà trở nên mịn như kem với sữa, nâng đỡ nặng ký đĩa ăn sáng mặn. Trái cây nhẹ một mình không thể cân bằng sức mạnh của trà.",
     "brewTip": "Bốn phút ở 98 °C; thêm chút trà nếu uống với sữa.",
     "keep": "Đậy kín và khô ráo.",
     "keywords": "Irish breakfast blend Assam mạnh"
@@ -2392,7 +2392,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô — hồng trà công phu của Tứ Xuyên, đứng cùng Keemun và Điền Hồng.",
     "story": "Định hình ở Nghi Tân vào những năm 1950, một hồng trà tương đối trẻ; hạng toàn búp Tứ Xuyên Kim Nha (Sichuan Jinya) là hạng chủ lực.",
     "flavor": "Hoa như hoa hồng, vị đầy, và vị ngọt lan theo sau — hồi cam (huigan).",
-    "pairing": "Món Hoa, món hun khói, sô cô la đen.",
+    "pairing": "Món Trung Hoa, món hun khói, sô cô la đen và vịt nướng kết hợp tốt. Hoa giống hoa hồng, thể trà đầy đặn và vị ngọt cuộn vào sau đó (hồi cam) của trà mang hương vị khói đi rất xa. Món ăn quá chua sẽ cắt đứt hậu ngọt quay lại đó.",
     "brewTip": "Khoảng 85 °C là điểm chuẩn; nước sôi trực tiếp làm trà gắt.",
     "keep": "Đậy kín, mát và khô; dùng trong hai tháng sau khi mở.",
     "keywords": "Xuyên Hồng Chuanhong Tứ Xuyên Yibin hồng trà công phu Sichuan Jinya hoa hồng"
@@ -2424,7 +2424,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô — lá họ Long Tỉnh làm thành hồng trà.",
     "story": "Gương mặt khác của Hàng Châu: hồng trà mang tên hồng mai (hoa mai đỏ) vì lá trà giống hoa.",
     "flavor": "Nốt ca cao, vị ngọt trái cây khô và hoa dịu.",
-    "pairing": "Sô cô la, các loại hạt, bánh nướng ngọt.",
+    "pairing": "Sô cô la, các loại hạt, bánh ngọt nướng và sung khô kết hợp tốt. Nốt cacao và vị ngọt trái cây khô của trà lớp lớp tự nhiên trên bánh nướng bùi, hoa dịu nâng hậu vị lên. Món ăn cay sẽ che mất hương hoa tinh tế của trà.",
     "brewTip": "85–90 °C trong 2 phút; pha lâu hơn vị chát sẽ vượt lên trước ca cao.",
     "keep": "Đậy kín, mát và khô; dùng trong hai tháng sau khi mở.",
     "keywords": "Cửu Khúc Hồng Mai Jiuqu Hongmei Hàng Châu Tây Hồ Long Tỉnh hồng trà ca cao"
@@ -2440,7 +2440,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bụi hồng trà hấp và ép trong khuôn → sấy khô: hồng trà gạch nén.",
     "story": "Được làm ở Hồ Nam cho Tân Cương và vùng tây bắc; viên gạch đóng dấu đầu máy xe lửa của Triệu Lý Kiều là biểu tượng.",
     "flavor": "Mạch nha mạnh và vị mặn đất; cũng uống với sữa hoặc muối.",
-    "pairing": "Đồ ăn nhiều dầu mỡ, thịt cừu, sữa.",
+    "pairing": "Món ăn nhiều dầu mỡ, thịt cừu, sản phẩm sữa và khoai tây nướng kết hợp tốt. Mạch nha mạnh và vị mặn mà đất của trà gặp mỡ cừu trực diện và giữ hương vị khi pha với sữa hoặc muối. Món tráng miệng nhẹ, trong trẻo đi ngược với chiều sâu đất của trà.",
     "brewTip": "Bẻ khoảng 5 g và ngâm 5 phút trong nước sôi; cũng có thể đun nhỏ lửa.",
     "keep": "Khô và thoáng — trà gạch sinh ra để lưu trữ.",
     "keywords": "Mễ Chuyên Mizhuan Hồ Nam trà gạch hồng trà nén Zhaoliqiao"
@@ -2456,7 +2456,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô — hồng trà hồ Nhật Nguyệt từ Hồng Vận (TTES No.21), lai assamica × Keemun.",
     "story": "Cùng ở hồ Nhật Nguyệt với Hồng Ngọc (No.18), nhưng tuyến hương bưởi và hoa chua ngọt là của riêng Hồng Vận.",
     "flavor": "Nốt bưởi và hoa với vị trái cây chua ngọt — một tuyến khác hẳn quế và bạc hà của Hồng Ngọc.",
-    "pairing": "Tráng miệng trái cây, món Hoa, bánh nhẹ.",
+    "pairing": "Món tráng miệng trái cây, món Trung Hoa nhẹ, bánh yuzu và bánh chiffon kết hợp tốt. Nốt trái cây chua ngọt của bưởi và hoa của trà hòa quyện sảng khoái với bánh nhẹ. Món hun khói hoặc cay mạnh sẽ chôn vùi hương thơm trái cây của trà.",
     "brewTip": "95 °C trong 3 phút; hương của trà tinh tế hơn Hồng Ngọc, nên bỏ qua sữa.",
     "keep": "Đậy kín, mát và khô; dùng trong hai tháng sau khi mở.",
     "keywords": "Hồng Vận Hong Yun hồ Nhật Nguyệt Sun Moon Lake TTES No.21 bưởi hồng trà Đài Loan"
@@ -2472,7 +2472,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Làm héo → vò → oxy hóa → sấy khô — hồng trà từ assamica già đã tự nhiên hóa và giống núi bản địa.",
     "story": "Gần với cội nguồn của trà hồ Nhật Nguyệt: nhiều cây già cao tuổi, ít lá, và vị thế quý hiếm.",
     "flavor": "Mật ong dại, thảo mộc và trái cây khô trong vị ngọt sâu — thô hơn và dài hơn các giống trồng.",
-    "pairing": "Các loại hạt, trái cây khô, phô mai ủ lâu.",
+    "pairing": "Các loại hạt, trái cây khô, phô mai ủ lâu và bánh mì nướng mật ong kết hợp tốt. Mật ong dại, thảo mộc và trái cây khô trong vị ngọt sâu với hậu vị thô, dài của trà gặp vị mặn và độ đậm của phô mai ủ lâu một cách nặng ký. Món cá trong trẻo sẽ bị lấn át.",
     "brewTip": "90 °C trong 2 phút; lá cây già càng pha càng ngọt.",
     "keep": "Đậy kín, mát và khô; dùng trong hai tháng sau khi mở.",
     "keywords": "Tử Nha Sơn Trà Ziya Shancha trà núi dại Đài Loan Sun Moon Lake hồng trà cây già"
@@ -2486,7 +2486,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút; với cheong, chỉ cần hòa tan trong nước nóng.",
     "origin": "Khắp Hàn Quốc, nổi tiếng nhất là táo của Gyeongsan và Boeun.",
     "flavor": "Vị ngọt của táo tàu với chút hương khét nhẹ và hậu vị mềm mại.",
-    "pairing": "Bánh kẹo truyền thống Hàn Quốc, hạt dẻ, đồ ăn vặt mùa đông.",
+    "pairing": "Vị ngọt sâu của nó hợp với yakgwa (bánh mật ong), injeolmi (bánh gạo phủ bột đậu) và bánh óc chó, đồng thời rất hợp tính với yanggaeng hạt dẻ (thạch đậu đỏ hạt dẻ). Sau những món ngày lễ nhiều dầu mỡ, vị ngọt nhẹ nhàng làm dịu lại vị giác. Tránh các món tráng miệng ngọt như bánh sô cô la, vì vị ngọt chồng lên nhau sẽ gây ngấy.",
     "brewTip": "Tách đôi quả táo để vị ngọt ra nhanh hơn.",
     "keywords": "trà táo tàu daechu táo đỏ Hàn Quốc mùa đông không caffeine"
   },
@@ -2499,7 +2499,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "Khuấy vào nước 95 °C; gừng tươi thái lát cần 5 phút.",
     "origin": "Hàn Quốc và Trung Quốc; củ gừng thái lát mỏng ngâm trong mật ong.",
     "flavor": "Vị cay nồng sạch miệng cùng vị ngọt của mật ong.",
-    "pairing": "Khi sắp cảm lạnh, hoặc sau bữa ăn.",
+    "pairing": "Vị cay nồng và vị ngọt của nó cân bằng với các món ăn vặt ngọt dẻo như injeolmi, hồng khô và yaksik (cơm nếp ngọt). Uống cùng khoai lang nướng vào ngày lạnh, cảm giác ấm áp càng thêm trọn vẹn. Tránh món cay như tteokbokki (bánh gạo cay), vì vị cay sẽ chồng lên nhau.",
     "brewTip": "Đun quá lâu thì chỉ còn lại vị cay.",
     "keywords": "trà gừng gừng mật ong Hàn Quốc ấm người không caffeine"
   },
@@ -2512,7 +2512,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "80 °C giữ được hương thơm; nước sôi làm hương bay mất.",
     "origin": "Goheung và Wando ở Jeollanam-do; thanh yên tháng 11–12 được ngâm cả vỏ sau khi thu hoạch.",
     "flavor": "Hương vỏ cam quýt cùng vị chua thanh sạch.",
-    "pairing": "Trái cây, món tráng miệng, khi đau họng.",
+    "pairing": "Hương thanh yên (yuja) tươi sáng và vị chua ngọt giúp rửa trôi một cách sảng khoái vị béo của bánh castella, madeleine và bánh phô mai (cheesecake). Nó cũng hợp với bánh mì kẹp nhẹ. Tránh món tráng miệng sô cô la đen, vì hương của chúng có thể xung đột với hương thanh yên.",
     "brewTip": "Dùng 80 °C thay vì nước sôi để giữ hương thơm.",
     "keywords": "trà thanh yên yuja yuzu mật ong Hàn Quốc mùa đông"
   },
@@ -2525,7 +2525,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "Nước lạnh giữ vị tươi sáng; nước nóng làm hương thơm bay đi.",
     "origin": "Mungyeong ở Bắc Gyeongsang và Jeongseon ở Gangwon; quả chín vào tháng 9 được hái và ngâm.",
     "flavor": "Chua, ngọt, đắng, mặn và cay cùng lúc.",
-    "pairing": "Nước trái cây mùa hè, bánh kẹo truyền thống Hàn Quốc.",
+    "pairing": "Vị chua trong trẻo, nổi bật nhất trong ngũ vị, giúp rửa trôi vị ngấy của các món béo như thịt ba chỉ và jeon (bánh chiên Hàn Quốc). Nó cũng hợp một cách chua ngọt với các loại bánh gạo như hwajeon (bánh hoa chiên) và injeolmi. Tránh các món tráng miệng quá chua như bánh tart chanh, vì vị chua sẽ nhân đôi.",
     "brewTip": "Pha với nước lạnh hoặc nước đá để giữ vị chua.",
     "keywords": "trà ngũ vị tử omija schisandra năm vị Hàn Quốc mùa hè"
   },
@@ -2538,7 +2538,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "Hâm nóng nước sắc; có người khuấy thêm lòng đỏ trứng.",
     "origin": "Trà thảo dược truyền thống của Hàn Quốc gồm bạch thược, địa hoàng, hoàng kỳ, đương quy, xuyên khung, quế và cam thảo, cùng gừng và táo tàu.",
     "flavor": "Thảo dược đắng ngọt, đậm và nặng vị.",
-    "pairing": "Khi mệt, vào mùa đông, sau bữa ăn.",
+    "pairing": "Hương vị thảo mộc sâu và ngọt của nó hợp với các món ăn vặt mùa đông như yaksik, injeolmi và hồng khô, đồng thời cũng hợp với hạt dẻ nướng. Vị trà đậm và đầy đặn đủ sức sánh với các món ăn vặt đậm vị. Tránh món nhẹ như salad, vì hương vị của trà sẽ lấn át.",
     "brewTip": "Hâm nóng và thêm mật ong hoặc siro táo tàu cho dịu vị.",
     "keywords": "trà ssanghwa thảo dược truyền thống Hàn Quốc chín vị thuốc"
   },
@@ -2551,7 +2551,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút; đun nhỏ lửa thì càng thơm bùi.",
     "origin": "Các sườn đồi ở Hàn Quốc; rễ được đào vào mùa thu, phơi khô và rang.",
     "flavor": "Vị ngọt của ngũ cốc rang với hậu vị nhẹ nhàng.",
-    "pairing": "Sau bữa ăn, buổi tối, cùng món tráng miệng.",
+    "pairing": "Hương thơm rang của rễ cây và vị ngọt dịu hòa quyện tự nhiên với các món cơm như gimbap (cơm cuộn) và cơm nắm, cũng như khoai lang nướng. Dịu nhẹ và dễ uống, nó phù hợp với bữa ăn hằng ngày. Tránh món nêm nếm đậm gia vị, vì chúng sẽ vùi lấp hương thơm rang của trà.",
     "brewTip": "Rễ đã rang cần năm phút trở lên.",
     "keywords": "trà hoàng tinh dunggulle solomon's seal rang Hàn Quốc"
   },
@@ -2564,7 +2564,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút.",
     "origin": "Hàn Quốc và Nhật Bản; hạt kiều mạch được rang trước khi pha.",
     "flavor": "Ngũ cốc rang cùng chút đắng nhẹ đặc trưng của kiều mạch.",
-    "pairing": "Sau bữa ăn, buổi tối, cùng bánh kiều mạch.",
+    "pairing": "Vị bùi béo, thanh đạm của kiều mạch rang hợp với các món ăn chính như bánh crepe kiều mạch, bánh mandu (bánh bao Hàn Quốc) và gimbap. Dịu nhẹ đến mức hợp với hầu hết mọi món ăn, nó để lại vị giác sạch sẽ sau bữa ăn. Các món tráng miệng kem béo ngậy sẽ lấn át sự thanh đạm của nó.",
     "brewTip": "Kiều mạch rang chỉ cần năm phút là xong.",
     "keywords": "trà kiều mạch buckwheat rang ngũ cốc Hàn Quốc không caffeine"
   },
@@ -2577,7 +2577,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "Đun nhỏ lửa 10 phút trong nước sôi.",
     "origin": "Khắp Hàn Quốc, dùng lúa mạch nguyên vỏ đã rang.",
     "flavor": "Ngũ cốc nướng thơm với hậu vị sạch.",
-    "pairing": "Mọi bữa ăn, món cay.",
+    "pairing": "Vị thơm rang, sạch sẽ của nó hợp với hầu hết các món Hàn — bibimbap (cơm trộn), canh kim chi, thịt ba chỉ. Uống kèm món béo, nó giúp làm mới vị giác. Với các món tráng miệng hương hoa tinh tế, hương rang của nó có thể lấn át, nên hãy thưởng thức riêng.",
     "brewTip": "Đun sôi, để nguội và uống dần trong ngày.",
     "keywords": "trà lúa mạch barley rang Hàn Quốc uống như nước"
   },
@@ -2590,7 +2590,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "Đun nhỏ lửa 10 phút.",
     "origin": "Hàn Quốc và Nhật Bản; gạo lứt còn nguyên cám được rang lên.",
     "flavor": "Hương cơm cháy cùng vị ngọt nhẹ.",
-    "pairing": "Trong bữa ăn, sau bữa ăn.",
+    "pairing": "Hương thơm rang, càng nấu lâu càng sâu, hợp với các món Hàn giản dị như canh tương đậu (doenjang), rau trộn và gimbap. Hậu vị đậm đà nâng đỡ sự no đủ của bữa ăn. Với món nhẹ như salad hay cá sống, trà có thể tạo cảm giác nặng.",
     "brewTip": "Đun càng lâu vị càng đậm.",
     "keywords": "trà gạo lứt brown rice rang cơm cháy Hàn Quốc"
   },
@@ -2603,7 +2603,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "90 °C trong 3 phút.",
     "origin": "Khắp Hàn Quốc; lá hái vào tháng 6 và tháng 7, hấp hoặc phơi khô.",
     "flavor": "Hương cỏ nhẹ và vị ngọt, ít chát.",
-    "pairing": "Sau bữa ăn, cùng đồ ăn nhẹ.",
+    "pairing": "Hương xanh dịu nhẹ và vị chát nhẹ của nó kiềm chế vị ngọt của các loại bánh gạo dẻo như injeolmi và jeolpyeon (bánh gạo dẹp). Nó cũng dễ dàng hợp với bánh mì kẹp nhẹ. Tránh món quá chua, vì chúng có thể làm vị chát nổi bật lên.",
     "brewTip": "Hấp lá giúp giảm vị chát và bảo quản tốt hơn.",
     "keywords": "trà lá hồng persimmon leaf vitamin C Hàn Quốc"
   },
@@ -2616,7 +2616,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút.",
     "origin": "Hàn Quốc và Trung Quốc; lá cuối xuân và mùa hè được phơi khô rồi rang.",
     "flavor": "Lá rang thơm cùng vị ngọt nhẹ.",
-    "pairing": "Uống nhẹ nhàng, sau bữa ăn.",
+    "pairing": "Hương xanh thanh đạm và vị ngọt nhẹ của nó phù hợp với các bữa ăn nhiều rau như bibimbap, rau trộn và các món đậu phụ. Vị dịu nhẹ không bao giờ làm gián đoạn bữa ăn. Với các món thịt nêm nếm đậm, sự dịu nhẹ của nó sẽ bị vùi lấp.",
     "brewTip": "Lá đã rang cần năm phút.",
     "keywords": "trà lá dâu tằm mulberry leaf rang Hàn Quốc"
   },
@@ -2629,7 +2629,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "90 °C trong 3 phút; pha lâu hơn sẽ đắng.",
     "origin": "Các ao hồ ở Hàn Quốc và Trung Quốc; lá mùa hè được phơi khô.",
     "flavor": "Xanh mát và hơi đắng, thanh mát.",
-    "pairing": "Sau bữa ăn nhiều dầu mỡ, vào mùa hè.",
+    "pairing": "Vị sạch sẽ, hơi đắng nhẹ của nó hợp với các món thanh đạm như cơm gói lá sen và bánh gạo nếp. Nó cũng hợp với các món hấp ít béo, để lại hậu vị tươi mát. Tránh món nêm nếm đậm, vì chúng sẽ vùi lấp hương thơm tinh tế của trà.",
     "brewTip": "Hai gam là đủ; nhiều hơn sẽ đắng.",
     "keywords": "trà lá sen lotus leaf mùa hè Hàn Quốc thanh mát"
   },
@@ -2642,7 +2642,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 10 phút; đun nhỏ lửa thì vị sâu hơn.",
     "origin": "Các vùng đồi Hàn Quốc; rễ mùa thu được phơi khô.",
     "flavor": "Đắng nhẹ và ngọt, cùng hương thơm của rễ cây.",
-    "pairing": "Khi đau họng, vào mùa đông.",
+    "pairing": "Vị đắng ngọt của rễ cây cân bằng với các món ăn vặt ngọt như yaksik và hồng khô, đồng thời hợp với khoai lang nướng. Khi sắc cùng táo tàu, vị đắng sẽ dịu đi. Với món cay, vị đắng có thể chồng chất và gây cảm giác gắt.",
     "brewTip": "Rễ khô cần được đun nhỏ lửa.",
     "keywords": "trà rễ cát cánh doraji balloon flower cổ họng Hàn Quốc"
   },
@@ -2655,7 +2655,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "90 °C trong 3 phút.",
     "origin": "Khắp Hàn Quốc; lá non tháng 3 và tháng 4 được phơi khô.",
     "flavor": "Xanh và hơi đắng; một loại trà mùa xuân uống ấm.",
-    "pairing": "Mùa xuân, sau bữa ăn.",
+    "pairing": "Hương ngải cứu sâu và vị đắng của nó hòa quyện tự nhiên với các loại bánh gạo như bánh ngải cứu, ssuk-beomuri (bánh gạo ngải cứu) và injeolmi. Hậu vị đắng kiềm chế vị ngọt của bánh nên không bao giờ gây ngấy. Cà phê đậm hoặc món nhiều gia vị có thể xung đột với hương ngải cứu.",
     "brewTip": "Hai gam ngải cứu khô là đủ nhiều.",
     "keywords": "trà ngải cứu mugwort mùa xuân Hàn Quốc"
   },
@@ -2668,7 +2668,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "100 °C trong 3 phút, hoặc đun nhỏ lửa 10 phút.",
     "origin": "Jeolla và Gyeongsang ở Hàn Quốc; lá trà hấp được giã và ép trong khuôn rồi phơi khô.",
     "flavor": "Thảo dược, táo tàu và đất, mềm mại và ấm áp.",
-    "pairing": "Sau bữa ăn, mùa đông, món nhiều dầu mỡ.",
+    "pairing": "Hương vị sâu và nặng của nó hợp với các loại bánh trà truyền thống như yakgwa và hồng khô, đồng thời cũng hợp với bánh gạo nếp. Độ đậm đầy đặn từ quá trình nấu lâu cân bằng với các món ăn vặt ngọt. Với món nhẹ như salad, trà có thể gây cảm giác quá nặng.",
     "brewTip": "Bẻ một miếng và đun nhỏ lửa để vị sâu hơn.",
     "keywords": "tteokcha trà ép bánh trà tiền xu Hàn Quốc lên men"
   },
@@ -2681,7 +2681,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút, đậy nắp.",
     "origin": "Ai Cập, Đức và nhiều nơi khác; hoa được phơi khô.",
     "flavor": "Táo, mật ong và cỏ khô, mềm mại và hơi ngọt.",
-    "pairing": "Buổi tối, món tráng miệng, một muỗng mật ong.",
+    "pairing": "Hương hoa dịu nhẹ tựa táo của nó hợp với các loại bánh nướng như madeleine, scone và bánh quy bơ. Nó cũng hợp tính với bánh mì nướng mật ong. Tránh món nhiều tỏi, vì chúng sẽ vùi lấp hương hoa tinh tế.",
     "brewTip": "Năm phút trong nước sôi, đậy nắp để giữ hương thơm.",
     "keywords": "trà hoa cúc la mã chamomile trước khi ngủ mật ong không caffeine"
   },
@@ -2694,7 +2694,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút.",
     "origin": "Châu Âu và châu Mỹ; lá bạc hà phơi khô.",
     "flavor": "Menthol mát lạnh, không chát.",
-    "pairing": "Sau bữa ăn, sau món nhiều dầu mỡ.",
+    "pairing": "Cảm giác mát lạnh mạnh mẽ của nó hợp với sô cô la và bánh sô cô la, đồng thời sau món béo nó giúp làm mới vị giác. Nó cũng kết hợp sảng khoái với kem vani. Với các loại bánh gạo hay bánh trà hương tinh tế, hương bạc hà có thể lấn át.",
     "brewTip": "Năm phút là đủ; lâu hơn sẽ đắng.",
     "keywords": "trà bạc hà peppermint mát lạnh sau bữa ăn không caffeine"
   },
@@ -2707,7 +2707,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút; lâu hơn sẽ chua gắt.",
     "origin": "Châu Phi, Mỹ Latinh và Đông Nam Á; đài hoa bụp giấm (roselle) phơi khô.",
     "flavor": "Vị chua của quả mọng và màu đỏ đậm.",
-    "pairing": "Trà đá, món tráng miệng, sau bữa ăn.",
+    "pairing": "Vị chua trong trẻo tựa nam việt quất của nó giúp rửa trôi các món tráng miệng béo như bánh phô mai và kết hợp chua dịu với sữa chua. Uống lạnh, nó cũng hợp với món cay. Tránh bánh tart chanh, vì vị chua sẽ chồng lên nhau.",
     "brewTip": "Năm phút trong nước sôi; uống lạnh còn ngon hơn.",
     "keywords": "trà hibiscus atiso đỏ roselle chua trà đá không caffeine"
   },
@@ -2720,7 +2720,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút; không bao giờ bị đắng.",
     "origin": "Vùng Cederberg ở Nam Phi; lá hình kim được lên men và phơi khô.",
     "flavor": "Vani, sung và mật ong cùng vị ngọt dịu.",
-    "pairing": "Trà sữa, trà đá, món tráng miệng.",
+    "pairing": "Vị ngọt dịu và hương gỗ nhẹ của nó hợp với các loại bánh nướng như bánh quy và bánh pound cake, và khi pha thành trà sữa nó cũng hợp với món tráng miệng sô cô la. Món quá chua có thể không hòa hợp với vị ngọt của nó.",
     "brewTip": "Ngâm năm phút trở lên; thêm sữa sẽ thành trà sữa.",
     "keywords": "trà rooibos Nam Phi trà đỏ không caffeine trà sữa"
   },
@@ -2733,7 +2733,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "80 °C trong 3 phút; nước sôi làm trà đắng.",
     "origin": "Argentina, Brazil và Paraguay; lá phơi khô của cây mate.",
     "flavor": "Cỏ, cỏ khô và chút khói nhẹ, hậu vị đắng.",
-    "pairing": "Buổi sáng, khi làm việc, món thịt.",
+    "pairing": "Vị đắng ngọt mang hương cỏ của nó hợp với thịt nướng như asado và bánh empanada, đồng thời dễ dàng đi kèm bánh mì kẹp. Vị đắng đặc trưng cắt qua vị dầu mỡ. Các món tráng miệng ngọt tinh tế khó kết hợp, vì vị đắng sẽ nổi bật.",
     "brewTip": "80 °C là vừa; trên 90 °C sẽ đắng.",
     "keywords": "trà yerba mate Nam Mỹ caffeine quả bầu bombilla"
   },
@@ -2746,7 +2746,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "90 °C trong 3 phút; lâu hơn sẽ có vị như xà phòng.",
     "origin": "Provence ở Pháp; hoa oải hương phơi khô.",
     "flavor": "Oải hương, mật ong và chút cam quýt nhẹ, rất thơm.",
-    "pairing": "Món tráng miệng, buổi tối, pha trộn.",
+    "pairing": "Hương hoa sâu của nó hợp với các loại bánh nướng bơ như bánh shortbread và scone, đồng thời hòa quyện đẹp với kem vani. Chỉ nên pha một ít để hương thơm không che lấp món ăn. Món nêm nếm đậm có thể xung đột với hương hoa.",
     "brewTip": "Một gam là đủ nhiều; một nhúm pha vào trà đen cũng ngon.",
     "keywords": "trà oải hương lavender Provence hoa thơm không caffeine"
   },
@@ -2759,7 +2759,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 5 phút.",
     "origin": "Thái Lan và Việt Nam; thân và lá phơi khô.",
     "flavor": "Chanh, cam quýt và thoang thoảng gừng, sảng khoái.",
-    "pairing": "Món ăn Đông Nam Á, sau bữa ăn, trà đá.",
+    "pairing": "Hương thơm tươi mát tựa chanh của nó hòa quyện tự nhiên với các món Đông Nam Á như tom yum, pad thai và cà ri xanh. Nó gọn gàng làm sạch vị cay và dầu mỡ. Các món tráng miệng kem béo đi theo hướng khác hẳn, nên hãy thưởng thức riêng.",
     "brewTip": "Thái thân sả thật nhỏ và ngâm năm phút.",
     "keywords": "trà sả lemongrass Đông Nam Á sảng khoái không caffeine"
   },
@@ -2772,7 +2772,7 @@ window.TEAFaiDataVi = (function () {
     "steepBasis": "95 °C trong 3 phút.",
     "origin": "Hàng Châu và Hoàng Sơn ở Trung Quốc, và Hàn Quốc; hoa cúc vàng phơi khô.",
     "flavor": "Nốt hương dược liệu mát cùng vị ngọt nhẹ.",
-    "pairing": "Hạt óc chó, táo tàu, sau bữa ăn nhiều dầu mỡ.",
+    "pairing": "Hương hoa dịu nhẹ và vị ngọt nhẹ của nó hợp với các loại bánh trà truyền thống như yakgwa và hangwa (bánh kẹo truyền thống Hàn Quốc), đồng thời cũng hợp với bánh gạo nếp. Nó cũng rất tuyệt với hạt dẻ nướng vào mùa thu. Tránh món nhiều gia vị đậm, vì chúng sẽ vùi lấp hương hoa tinh tế.",
     "brewTip": "Khi hoa nổi lên, đậy nắp tách để giữ hương thơm.",
     "keywords": "trà hoa cúc chrysanthemum trà hoa mùa thu không caffeine"
   },
@@ -2787,7 +2787,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Mộc qua thái mỏng cả hạt, ngâm trong đường, mật ong hoặc jocheong → khuấy vào nước nóng. Giữ cả vỏ thì giữ được hương thơm.",
     "story": "Nó từng được gọi là “hương thơm sinh trên cây” và được dùng để thơm phòng từ rất lâu trước khi có người uống nó.",
     "flavor": "Hương hoa dịu và vị ngọt, cuối vị hơi chát nhẹ.",
-    "pairing": "Yakgwa, bánh óc chó, món tráng miệng mùa đông.",
+    "pairing": "Hương hoa dịu nhẹ, vị ngọt và hậu vị hơi chát của nó hợp với yakgwa và bánh óc chó, đồng thời hợp với các món tráng miệng mùa đông như hạt dẻ nướng. Hậu vị chát kiềm chế vị ngọt của bánh nên không bao giờ gây ngấy. Trái cây quá chua có thể lấn át hương thơm của nó.",
     "brewTip": "Hai muỗng cheong trong 200 ml nước 80–90 °C, dùng cả phần quả.",
     "keywords": "trà mộc qua mogwa quince mật ong Hàn Quốc mùa đông"
   },
@@ -2802,7 +2802,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt muồng rang, pha không caffeine, nên hợp với buổi tối.",
     "story": "Hạt được rang lấy hương thơm, rồi ngâm từ năm phút trở lên; độ rang quyết định sự cân bằng giữa vị bùi và vị đắng.",
     "flavor": "Ngũ cốc rang, hơi đắng nhẹ, cuối vị có chút ngọt.",
-    "pairing": "Bữa ăn, món nhiều dầu mỡ, buổi tối.",
+    "pairing": "Hương thơm rang của hạt và vị đắng nhẹ phù hợp với các món béo như thịt ba chỉ và đồ chiên rán, đồng thời nó cũng là trà dùng hằng ngày trong bữa ăn thường. Hậu vị đậm đà làm sạch vị dầu mỡ. Với các món tráng miệng hương hoa tinh tế, hương rang của nó có thể lấn át.",
     "brewTip": "Năm phút trở lên; hạt cứng nên đun sôi sẽ tốt hơn.",
     "keep": "Đậy kín, nơi mát và khô — hạt rang dễ hút mùi.",
     "keywords": "trà hạt muồng quyết minh tử gyeolmyeongja Hàn Quốc không caffeine cassia seed"
@@ -2818,7 +2818,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ ngưu bàng thái lát, phơi khô và rang; không caffeine.",
     "story": "Rễ khô được rang đến nâu, rồi ngâm từ năm phút trở lên.",
     "flavor": "Mùi đất rang cùng vị ngọt trầm và hậu đắng nhẹ.",
-    "pairing": "Bữa ăn, món béo, buổi tối.",
+    "pairing": "Hương vị đất của rễ rang và vị ngọt trầm của nó hợp với các món béo như thịt lợn xào và đồ chiên rán, đồng thời dễ dàng đi kèm bữa ăn Hàn Quốc. Hậu vị hơi đắng rửa trôi vị dầu mỡ. Các món tráng miệng quá ngọt có thể không hòa hợp với nốt hương đất của nó.",
     "brewTip": "Năm phút trở lên; đun sôi làm vị ngọt rõ hơn.",
     "keep": "Đậy kín và khô — rễ ẩm sẽ mốc.",
     "keywords": "trà ngưu bàng ueong burdock Hàn Quốc rễ rang không caffeine"
@@ -2834,7 +2834,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả kỷ tử khô ngâm trong nước nóng; Cheongyang ở Hàn Quốc và Ninh Hạ ở Trung Quốc là những nguồn nổi tiếng.",
     "story": "Quả khô ngâm từ năm phút trở lên, hoặc đun cùng táo tàu và cam thảo.",
     "flavor": "Ngọt nhẹ, hơi đắng một chút, hương trái cây khô; nước trà vàng nhạt.",
-    "pairing": "Táo tàu, cam thảo, các loại hạt.",
+    "pairing": "Vị ngọt nhẹ và hương trái cây khô của nó hợp với các loại hạt như óc chó và hạt thông, và khi sắc cùng táo tàu hoặc cam thảo, vị ngọt càng thêm sâu. Nó cũng dễ dàng hợp với các món ăn vặt bánh gạo như yaksik. Món quá chua có thể vùi lấp vị ngọt dịu của nó.",
     "brewTip": "Năm phút trở lên ở 90 °C; quả sau khi ngâm có thể ăn được.",
     "keep": "Đậy kín và để tủ lạnh — đường trong quả khiến chúng nhạy với ẩm.",
     "keywords": "trà kỷ tử gugija goji berry Hàn Quốc Ninh Hạ"
@@ -2850,7 +2850,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả sơn thù du đỏ phơi khô ngâm làm trà; vị chua gắt, thường làm dịu bằng mật ong hoặc táo tàu.",
     "story": "Quả khô ngâm từ năm phút trở lên, hoặc đun cùng táo tàu.",
     "flavor": "Chua mạnh, hơi đắng một chút, nước trà đỏ; mật ong làm dịu vị.",
-    "pairing": "Táo tàu, mật ong, các loại hạt.",
+    "pairing": "Vị chua mạnh của nó làm mới vị giác sau món béo, và khi thêm mật ong hoặc táo tàu, nó dịu đi đủ để hợp với các món ăn vặt ngọt như yakgwa. Nó cũng hợp với các loại hạt như óc chó. Tránh trái cây chua, vì vị chua sẽ chồng lên nhau.",
     "brewTip": "Năm phút trở lên ở 90 °C; thêm táo tàu nếu vị chua quá gắt.",
     "keep": "Đậy kín và để tủ lạnh.",
     "keywords": "trà sơn thù du sansuyu cornus Hàn Quốc chua"
@@ -2866,7 +2866,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá hoặc rễ bồ công anh phơi khô: lá thì đắng, rễ rang thì thơm bùi.",
     "story": "Lá ngâm ba phút; rễ rang ngâm từ năm phút trở lên.",
     "flavor": "Lá đắng và mùi cỏ; rễ rang thơm nướng với vị ngọt nhẹ.",
-    "pairing": "Sau bữa ăn, sau món nhiều dầu mỡ.",
+    "pairing": "Vị đắng của lá và hương thơm rang của rễ giúp làm sạch vị giác sau các món béo như thịt ba chỉ và jeon. Nó cũng phù hợp với các bữa ăn thanh đạm xoay quanh rau trộn. Với món tráng miệng ngọt, vị đắng có thể nổi bật.",
     "brewTip": "3 g là đủ; nhiều hơn sẽ đắng gắt.",
     "keep": "Đậy kín, nơi mát và khô.",
     "keywords": "trà bồ công anh mindulle dandelion Hàn Quốc rễ rang"
@@ -2882,7 +2882,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Râu ngô phơi khô, rang và ngâm — rất giống nước đã luộc ngô.",
     "story": "Râu ngô phơi khô và rang, rồi ngâm từ năm phút trở lên; đun sôi làm vị tròn hơn.",
     "flavor": "Ngũ cốc nướng thơm, ngọt nhẹ, hậu vị sạch.",
-    "pairing": "Bữa ăn, mùa hè, trà đá.",
+    "pairing": "Hương thơm rang của ngũ cốc và hậu vị sạch sẽ của nó hợp rộng rãi với các bữa ăn hằng ngày như gimbap và bibimbap. Uống lạnh vào mùa hè, nó dễ dàng đi kèm món cay. Với các món tráng miệng hương tinh tế, hương rang của nó có thể lấn át, nên hãy thưởng thức riêng.",
     "brewTip": "Năm phút trở lên; pha lạnh cũng ngon.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà râu ngô oksusu corn silk Hàn Quốc mùa hè"
@@ -2898,7 +2898,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cà tím thái mỏng, phơi khô, rang và ngâm.",
     "story": "Một cách dân gian để giữ vụ cà tím mùa hè trong tách trà.",
     "flavor": "Hương rang thơm, vị dịu, hậu vị sạch.",
-    "pairing": "Bữa ăn, sau món nhiều dầu.",
+    "pairing": "Hương thơm rang và vị dịu nhẹ của nó hợp với các bữa ăn có món phụ như cà tím xào và thịt lợn. Sau món dầu mỡ, nó để lại hậu vị sạch sẽ. Các món nêm nếm quá đậm có thể vùi lấp sự dịu nhẹ của nó.",
     "brewTip": "Năm phút trở lên làm hương nướng nổi lên.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà cà tím gaji eggplant rau khô Hàn Quốc"
@@ -2914,7 +2914,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ cam thảo phơi khô đem sắc — ngọt rõ rệt mà không thêm đường.",
     "story": "Một vị quen thuộc trong các bài thuốc thảo dược, cũng được sắc ở nhà làm trà.",
     "flavor": "Vị ngọt tự nhiên trong trẻo, chút mùi đất nhẹ, hậu vị mềm.",
-    "pairing": "Uống xen kẽ với trà đắng, sau bữa ăn.",
+    "pairing": "Vị ngọt tự nhiên trong trẻo của nó làm dịu vị giác khi uống xen kẽ với trà đắng như trà rễ khổ sâm (sophora). Một tách sau bữa ăn thỏa mãn cơn thèm ngọt mà không cần món tráng miệng. Khi kết hợp với món ăn vặt ngọt, vị ngọt sẽ chồng lên nhau và có thể gây ngấy.",
     "brewTip": "Bắt đầu với ít hơn bạn nghĩ — vị ngọt sẽ tăng dần.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà cam thảo gamcho licorice root ngọt thảo dược"
@@ -2930,7 +2930,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt của cây phỉ Hàn Quốc, rang và ngâm — thơm bùi đúng nghĩa.",
     "story": "Một loại trà dân gian từ hạt nhặt trong rừng, để dành và rang cho tách trà.",
     "flavor": "Hương hạt rang thơm, ngọt dịu, vị mềm.",
-    "pairing": "Đồ ăn nhẹ, bánh gạo.",
+    "pairing": "Hương hạt thơm rang và thân vị mềm mại của nó hợp với các loại bánh gạo như injeolmi và jeolpyeon, đồng thời cũng hợp với các món ăn vặt nướng. Hương hạt bùi nâng đỡ sự thanh đạm của bánh. Món cay vùi lấp hương bùi của nó, khiến việc kết hợp trở nên khó khăn.",
     "brewTip": "Giã nhẹ hạt đã rang trước khi ngâm.",
     "keep": "Đậy kín, khô và mát — dầu trong hạt thích như vậy.",
     "keywords": "trà hạt phỉ gaeam hazel thơm bùi Hàn Quốc"
@@ -2946,7 +2946,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cành quế non (gyeji), phơi khô và sắc — hương nhẹ hơn vỏ quế.",
     "story": "Từ lâu dùng trong y học thảo dược, và được sắc ở nhà làm trà.",
     "flavor": "Hương quế mềm, ngọt dịu, cảm giác ấm áp.",
-    "pairing": "Ngày lạnh, sau bữa ăn.",
+    "pairing": "Hương quế dịu nhẹ và vị ngọt nhẹ nhàng của nó hợp với các món ăn vặt mùa đông như hồng khô và yakgwa, và một tách sau bữa ăn tiếp nối cảm giác ấm áp. Hương quế phủ ấm áp lên vị ngọt của món ăn vặt. Salad mát lạnh đi theo hướng nhiệt độ khác hẳn, nên hãy thưởng thức riêng.",
     "brewTip": "Thêm một hai quả táo tàu làm vị tròn hơn.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà quế chi gyeji cinnamon twig thảo dược Hàn Quốc"
@@ -2962,7 +2962,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Vỏ quế cassia, sắc hoặc ngâm — hương cay ngọt.",
     "story": "Chính là quế quen thuộc trong sujeonggwa, nay pha uống riêng.",
     "flavor": "Hương cay ngọt, cảm giác ấm và khá đầy vị.",
-    "pairing": "Món tráng miệng, hồng khô và bánh kẹo truyền thống.",
+    "pairing": "Hương quế cay ngọt và vị ngọt sâu của nó hợp với các món ăn vặt truyền thống như hồng khô và yakgwa, đồng thời hòa quyện đẹp với các món tráng miệng nướng như bánh táo (apple pie). Độ đậm đầy đặn đủ sức sánh với các món ăn vặt ngọt. Với bánh gạo thanh đạm, hương thơm của nó có thể trở nên quá nổi bật.",
     "brewTip": "Một lát gừng làm hương sâu hơn.",
     "keep": "Đậy kín và khô, để giữ hương thơm.",
     "keywords": "trà quế gyepi cinnamon gia vị Hàn Quốc"
@@ -2978,7 +2978,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ khổ sâm phơi khô đem sắc — một loại trà thảo dược đắng mạnh, đúng như tên gọi hứa hẹn.",
     "story": "Từ lâu dùng trong y học thảo dược; ở nhà người ta sắc với lượng nhỏ.",
     "flavor": "Đắng rõ, nốt mùi đất, hậu vị khô.",
-    "pairing": "Trong tách nhỏ, uống xen kẽ với trà ngọt hơn.",
+    "pairing": "Với vị đắng rõ rệt, việc uống xen kẽ với trà ngọt như trà cam thảo hoặc trà táo tàu sẽ khiến vị đắng trở nên dịu hơn. Đây là loại trà nên thưởng thức từng chút một trong tách nhỏ. Nếu chỉ kết hợp với món thanh đạm, không ngọt, vị đắng sẽ càng nổi bật hơn.",
     "brewTip": "Bắt đầu với lượng nhỏ và nếm độ đắng trước.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà khổ sâm gosam sophora root đắng thảo dược"
@@ -2994,7 +2994,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá baechohyang (bạc hà Hàn Quốc) phơi khô và ngâm; gwakhwang là tên của nó trong y học thảo dược.",
     "story": "Một loại thảo mộc bản địa Hàn Quốc với hương thơm nằm giữa tía tô và bạc hà.",
     "flavor": "Giữa tía tô và bạc hà, ngọt nhẹ, hậu vị mát.",
-    "pairing": "Sau bữa ăn, cùng món nhiều dầu mỡ.",
+    "pairing": "Hương thơm nằm giữa tía tô và bạc hà cùng hậu vị mát lạnh của nó hợp với các món béo như thịt ba chỉ và thịt lợn luộc. Sau bữa ăn, nó giúp làm mới vị giác. Các món tráng miệng hương hoa tinh tế có thể xung đột với hương thơm của nó.",
     "brewTip": "Hương thơm giữ tốt cả khi pha lạnh.",
     "keep": "Đậy kín và khô, để giữ hương thơm.",
     "keywords": "trà bạc hà hàn quốc agastache gwakhwang baechohyang thảo mộc"
@@ -3010,7 +3010,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Vỏ quýt rửa sạch, phơi khô và rang — hương cam quýt tươi sáng.",
     "story": "Một loại trà dân gian từ vỏ quýt mùa đông, ăn quả xong thì để dành vỏ phơi khô.",
     "flavor": "Hương cam quýt tươi, ngọt nhẹ, hậu vị sạch.",
-    "pairing": "Món tráng miệng, sau bữa ăn.",
+    "pairing": "Hương quýt tươi mát của nó hợp với các món tráng miệng nướng như castella và madeleine, và một tách sau bữa ăn béo để lại hậu vị nhẹ nhàng. Hương cam quýt rửa trôi vị béo của bơ một cách tươi sáng. Sô cô la đen có thể lấn át hương thơm của nó.",
     "brewTip": "Càng ít phần cùi trắng thì càng ít đắng.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà trần bì gyulpi tangerine peel cam quýt Hàn Quốc"
@@ -3026,7 +3026,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hoa quýt phơi khô đem ngâm — tiếng vọng hương hoa của mùi quả.",
     "story": "Hoa ít, nên được phơi khô từng mẻ nhỏ để làm trà.",
     "flavor": "Hương hoa kiểu cam quýt, ngọt nhẹ, nước trà trong.",
-    "pairing": "Món tráng miệng nhẹ, một tách buổi chiều yên tĩnh.",
+    "pairing": "Hương hoa tựa cam quýt và vị ngọt trong trẻo của nó hợp với các món tráng miệng nhẹ như hwajeon hoặc castella nguyên bản. Nhâm nhi cùng một miếng bánh gạo vào buổi chiều, hương thơm lan tỏa dịu dàng. Tránh món nêm nếm đậm, vì chúng sẽ vùi lấp hương hoa tinh tế.",
     "brewTip": "Dùng đồ thủy tinh để ngắm hoa nở.",
     "keep": "Đậy kín và mát — hương bay nhanh.",
     "keywords": "trà hoa quýt gyulhwa tangerine blossom hoa Jeju"
@@ -3042,7 +3042,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Gilgyeong là tên trong y học thảo dược của rễ cát cánh phơi khô, đem sắc làm trà.",
     "story": "Cùng một loại rễ với trà doraji, dưới tên gọi trong dược liệu.",
     "flavor": "Hương rễ đắng ngọt, ngọt nhẹ, hậu vị khô.",
-    "pairing": "Sau bữa ăn, hoặc sắc cùng táo tàu.",
+    "pairing": "Hương rễ đắng ngọt của nó làm sạch vị giác với cảm giác khô ráo sau bữa ăn béo. Khi sắc cùng táo tàu, vị đắng dịu đi và nó hợp với các món ăn vặt ngọt như hồng khô. Với món cay, vị đắng có thể chồng chất.",
     "brewTip": "Một chút táo tàu hoặc cam thảo làm dịu vị đắng.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà cát cánh gilgyeong platycodon doraji thảo dược"
@@ -3058,7 +3058,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bông hoa của cây self-heal (kkulpool), phơi khô và ngâm; trong y học thảo dược nó được gọi là hagocho.",
     "story": "Một cây đồng cỏ mùa hè quen thuộc, phơi khô và để dành làm trà dân gian.",
     "flavor": "Hương hoa xanh mộc mạc, ngọt nhẹ, hậu vị sạch.",
-    "pairing": "Một tách buổi chiều, đồ ăn nhẹ.",
+    "pairing": "Hương xanh hoa thanh đạm và hậu vị sạch sẽ của nó rất tuyệt vào buổi chiều cùng các món ăn vặt nhẹ như bánh quy hoặc castella. Vị dịu nhẹ không bao giờ cản trở món ăn vặt. Món nêm nếm đậm có thể vùi lấp sự dịu nhẹ của nó.",
     "brewTip": "Pha lạnh cũng sạch vị.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà hạ khô thảo self-heal prunella kkulpool hoa đồng cỏ"
@@ -3074,7 +3074,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá và rễ tề thái, loại rau xanh mùa xuân, phơi khô và ngâm.",
     "story": "Một loại trà dân gian từ chính loại rau xuân ăn như namul, phơi khô để dành.",
     "flavor": "Hương xanh riêng của cây, ngọt nhẹ, hậu vị mộc mạc.",
-    "pairing": "Bữa ăn, món ăn mùa xuân nhẹ nhàng.",
+    "pairing": "Hương xanh tự nhiên của cây hòa quyện tự nhiên với các món xuân nhẹ nhàng như rau tề thái trộn và bibimbap rau xuân. Hậu vị thanh đạm không bao giờ làm gián đoạn bữa ăn. Các món nêm nếm đậm có thể vùi lấp hương xanh của nó.",
     "brewTip": "Cây phơi khô còn nguyên rễ cho hương sâu hơn.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà tề thái naengi shepherd's purse rau xuân"
@@ -3090,7 +3090,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Các loại trà ngũ cốc và thảo dược như trà lúa mạch hay trà ngô, đun sôi, để nguội và uống lạnh — một cách uống của mùa hè.",
     "story": "Đun sôi, để nguội hoàn toàn, rồi giữ trong tủ lạnh và uống như nước.",
     "flavor": "Hương nướng riêng của nguyên liệu khi lạnh lại càng sạch vị.",
-    "pairing": "Bữa ăn mùa hè, món cay.",
+    "pairing": "Hương thơm rang, càng sạch sẽ khi uống lạnh, làm dịu vị cay của các món như tteokbokki và chân gà cay. Nó cũng hợp với các bữa ăn mùa hè như mì trộn (bibim guksu). Với món nóng, nhiệt độ sẽ xung đột nhau, nên hãy thưởng thức riêng.",
     "brewTip": "Để nguội hoàn toàn trước khi cho vào tủ lạnh để giữ đúng vị.",
     "keep": "Để tủ lạnh; uống trong vòng hai ngày.",
     "keywords": "trà lạnh naengcha trà đá mùa hè Hàn Quốc"
@@ -3106,7 +3106,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nogak — dưa chuột để chín vàng — thái lát, phơi khô, rang và ngâm.",
     "story": "Một loại trà dân gian để giữ lại những quả dưa chuột cuối mùa hè.",
     "flavor": "Hương nướng mộc mạc, ngọt nhẹ, hậu vị sạch.",
-    "pairing": "Bữa ăn mùa hè, hoặc dùng lạnh.",
+    "pairing": "Hương thơm rang thanh đạm và hậu vị sạch sẽ của nó hợp với các bữa ăn mùa hè như canh lạnh và bibimbap. Uống lạnh, nó càng tươi mát hơn và hợp với món cay. Các món tráng miệng quá ngọt có thể gạt đi sự dịu nhẹ của nó.",
     "brewTip": "Khi uống đá vẫn giữ vị sạch.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà dưa chuột già nogak aged cucumber mùa hè Hàn Quốc"
@@ -3122,7 +3122,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Đậu xanh rang và đun sôi — một loại trà ngũ cốc mộc mạc, thơm nướng.",
     "story": "Từ thói quen uống nước đã nấu đậu xanh.",
     "flavor": "Nốt đậu và ngũ cốc nướng thơm, ngọt nhẹ, hậu vị mộc mạc.",
-    "pairing": "Bữa ăn, hoặc uống lạnh vào mùa hè.",
+    "pairing": "Các nốt hương đậu và ngũ cốc thơm rang của nó hợp với các món như bánh đậu xanh và bindaetteok (bánh đậu xanh chiên), đồng thời thanh đạm đi kèm bữa ăn thường. Uống lạnh vào mùa hè, nó cảm thấy tươi mát hơn. Món nhiều gia vị đậm có thể vùi lấp hương thơm rang của nó.",
     "brewTip": "Lọc sau khi đun để tách trà sạch hơn.",
     "keep": "Đậu đậy kín và khô; trà đã đun để tủ lạnh.",
     "keywords": "trà đậu xanh nokdu mung bean ngũ cốc Hàn Quốc"
@@ -3138,7 +3138,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Tảo bẹ khô đem ngâm — vị umami biển dịu trong tách.",
     "story": "Tảo bẹ vốn dùng nấu nước dùng, đơn giản là ngâm và uống như vậy.",
     "flavor": "Umami mềm, hương gió biển, chút vị mặn.",
-    "pairing": "Bữa ăn thanh đạm, món hải sản.",
+    "pairing": "Vị umami dịu và hương biển của nó hòa quyện tự nhiên với các món hải sản như cá nướng và canh nghêu, đồng thời cũng hợp với các món nước thanh đạm. Chút vị mặn nâng đỡ gia vị của món ăn. Món tráng miệng ngọt không hòa hợp với hương biển, nên hãy thưởng thức riêng.",
     "brewTip": "Giữ lại lớp phấn trắng trên bề mặt — nó mang vị umami.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà tảo bẹ dasima kelp umami biển"
@@ -3154,7 +3154,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ đương quy phơi khô đem sắc — hương thảo dược sâu và đặc trưng.",
     "story": "Từ lâu dùng trong y học thảo dược; ở nhà thường sắc cùng táo tàu.",
     "flavor": "Hương thảo dược sâu, ngọt dịu, vị ấm đầy.",
-    "pairing": "Buổi tối, cùng táo tàu.",
+    "pairing": "Hương thảo mộc sâu và thân vị ấm của nó dịu đi khi sắc cùng táo tàu, phù hợp với món ăn vặt buổi tối. Nó cũng hợp với các món ăn vặt ngọt như yaksik và hồng khô. Với salad nhẹ, hương vị của trà có thể trở nên quá nổi bật.",
     "brewTip": "Bắt đầu với nước sắc nhạt hơn để quen với hương thơm.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà đương quy danggwi angelica root thảo dược Hàn Quốc"
@@ -3170,7 +3170,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cà rốt thái lát, phơi khô và rang — một loại trà rau củ ngọt dịu.",
     "story": "Một trong những cách dân gian biến rau củ phơi khô thành trà.",
     "flavor": "Vị ngọt của cà rốt rang, chút mùi đất nhẹ, hậu vị sạch.",
-    "pairing": "Bữa ăn, và cho trẻ em.",
+    "pairing": "Vị ngọt tự nhiên của cà rốt rang hợp với các bữa ăn như cơm nắm và gimbap, và vì dịu nhẹ nên nó cũng dễ uống trên bàn ăn có trẻ em. Hậu vị sạch sẽ không bao giờ làm gián đoạn bữa ăn. Món cay có thể vùi lấp vị ngọt của nó.",
     "brewTip": "Thái lát mỏng hơn thì chiết xuất tốt hơn.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà cà rốt danggeun carrot rau củ rang"
@@ -3186,7 +3186,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá tre phơi khô đem ngâm — còn gọi là trà jukyeop.",
     "story": "Được uống ở vùng trồng tre như Damyang, nơi lá tre được phơi khô làm trà.",
     "flavor": "Hương xanh mộc mạc, ngọt nhẹ, hậu vị thanh mát.",
-    "pairing": "Bữa ăn, hoặc uống đá vào ngày nóng.",
+    "pairing": "Hương xanh thanh đạm và hậu vị mát lạnh của nó hợp với cháo và rau trộn thanh đạm. Uống lạnh vào ngày nóng, nó cảm thấy tươi mát hơn bên cạnh bữa ăn. Các món thịt nêm nếm đậm có thể gạt đi sự dịu nhẹ của nó.",
     "brewTip": "Pha lạnh cũng sạch vị.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà lá tre jukyeop bamboo leaf Damyang Hàn Quốc"
@@ -3202,7 +3202,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Phần trắng và rễ của hành Hàn Quốc, đem sắc — hương hành dịu.",
     "story": "Một bài sắc tại nhà từ lâu được nấu khi thấy sắp bị cảm lạnh.",
     "flavor": "Hương hành dịu, ngọt nhẹ, hậu vị ấm áp.",
-    "pairing": "Ngày lạnh, buổi tối.",
+    "pairing": "Hương hành dịu nhẹ và hậu vị ấm áp của nó hợp với các món nóng như sujebi (mì bột xé tay) và mì cắt dao (kalguksu) vào ngày lạnh. Vào buổi tối, nó cũng hợp với các món ăn vặt như hồng khô. Các món mát lạnh đi theo hướng nhiệt độ khác hẳn, nên hãy thưởng thức riêng.",
     "brewTip": "Rửa sạch đất ở rễ trước khi dùng.",
     "keep": "Để tủ lạnh nước sắc và uống trong cùng ngày.",
     "keywords": "trà hành daepa welsh onion dân gian Hàn Quốc"
@@ -3218,7 +3218,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ deodeok phơi khô đem sắc — hương đắng ngọt gần giống rễ cát cánh.",
     "story": "Loại rau củ núi này được phơi khô và để dành để sắc.",
     "flavor": "Hương rễ đắng ngọt, ngọt thơm nướng, vị ấm đầy.",
-    "pairing": "Sau bữa ăn, hoặc sắc cùng táo tàu.",
+    "pairing": "Hương rễ đắng ngọt và vị ngọt thơm rang của nó hợp với các bữa ăn như deodeok nướng (rễ sâm dây nướng), đồng thời cũng thích hợp làm tách trà sau bữa ăn. Khi sắc cùng táo tàu, vị đắng dịu đi. Với món tráng miệng quá ngọt, vị đắng có thể xung đột.",
     "brewTip": "Táo tàu làm dịu cạnh đắng ngọt.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà rễ deodeok codonopsis Hàn Quốc rễ"
@@ -3234,7 +3234,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hoa đào phơi khô trong bóng râm, đem ngâm.",
     "story": "Hoa mùa xuân được phơi khô và để dành cho cả năm.",
     "flavor": "Hương hoa mềm, ngọt nhẹ, nước trà hồng nhạt.",
-    "pairing": "Bánh gạo, món tráng miệng nhẹ, rau xanh mùa xuân.",
+    "pairing": "Hương hoa dịu nhẹ và nước trà hồng nhạt của nó hợp với các loại bánh gạo như hwajeon và bánh gạo nếp, đồng thời hợp với các món nhẹ như rau xuân. Hương thơm tinh tế không bao giờ làm phiền vị ngọt của món tráng miệng. Tránh món nêm nếm đậm, vì chúng sẽ vùi lấp hương hoa.",
     "brewTip": "80–85 °C; ngắm cánh hoa từ từ nở ra.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà hoa đào peach blossom trà hoa mùa xuân Hàn Quốc"
@@ -3250,7 +3250,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hoa sơn trà phơi khô trong bóng râm, đem ngâm.",
     "story": "Hoa sơn trà mùa đông từ Jeju và bờ biển phía nam, phơi khô làm trà.",
     "flavor": "Hương hoa mềm, ngọt nhẹ, nước trà vàng nhạt.",
-    "pairing": "Bánh gạo, món tráng miệng, trái cây.",
+    "pairing": "Hương hoa dịu nhẹ và vị ngọt nhẹ của nó hợp với các loại bánh gạo như injeolmi và bánh ngọt nhẹ, đồng thời tươi sáng kết hợp với trái cây như dâu tây. Hương thơm trong trẻo không bao giờ là gánh nặng bên cạnh món tráng miệng. Sô cô la đen có thể lấn át hương thơm của nó.",
     "brewTip": "80–85 °C; ngắm hoa nở trong nước.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà hoa sơn trà camellia Jeju Hàn Quốc mùa đông"
@@ -3266,7 +3266,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bí đao ngâm trong đường hoặc mật ong, rồi đun nhỏ lửa.",
     "story": "Một loại trà mùa hè; uống lạnh thì vị ngọt trở nên dịu hơn.",
     "flavor": "Vị ngọt sâu cùng hương dịu của bí; nước trà nâu nhạt.",
-    "pairing": "Bánh gạo, hangwa, sau món cay.",
+    "pairing": "Vị ngọt sâu của nó nhẹ nhàng làm dịu cảm giác nóng trong miệng sau món cay. Nó cũng hợp với bánh gạo nếp và hangwa, cùng chia sẻ tính ngọt. Với bánh quá ngọt, vị ngọt sẽ chồng lên nhau và có thể gây ngấy.",
     "brewTip": "Đun nhỏ lửa nhẹ nhàng mười phút; uống ấm, hoặc lạnh vào mùa hè.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà bí đao donga winter melon truyền thống Hàn Quốc"
@@ -3282,7 +3282,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cúc vu thái lát, phơi khô, rang và ngâm.",
     "story": "Rang càng sâu càng thơm nướng — dễ uống như nước.",
     "flavor": "Hương rang thơm, ngọt nhẹ, hậu vị sạch.",
-    "pairing": "Bữa ăn, sau bữa ăn, đồ ăn nhẹ.",
+    "pairing": "Hương thơm rang và hậu vị sạch sẽ của nó hợp với các bữa ăn cơm, và một tách sau bữa ăn không bao giờ là gánh nặng. Nó cũng hợp với các món ăn vặt nướng như khoai lang. Với các món tráng miệng hương tinh tế, hương rang của nó có thể lấn át.",
     "brewTip": "Năm phút trở lên; đun sôi làm hương nướng sâu hơn.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà cúc vu dwaeji-gamja jerusalem artichoke Hàn Quốc"
@@ -3298,7 +3298,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Vỏ đỗ trọng cắt nhỏ và đun nhỏ lửa.",
     "story": "Vỏ lột ra kéo thành những sợi dai như cao su — dấu ấn riêng của cây này.",
     "flavor": "Có cạnh đắng, nặng vị, cùng hương gỗ trầm.",
-    "pairing": "Sau bữa ăn, sau món nhiều dầu mỡ.",
+    "pairing": "Vị nặng với cạnh đắng của nó làm sạch vị giác sau các món béo như thịt lợn luộc và chân giò hầm. Hương gỗ trầm lặng đủ sức sánh với các món đậm vị. Nếu chỉ kết hợp với món ăn vặt nhẹ, không ngọt, vị đắng có thể nổi bật.",
     "brewTip": "Đun nhỏ lửa trên lửa nhỏ đủ lâu để vị tiết ra.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà đỗ trọng duzhong eucommia bark thảo dược"
@@ -3314,7 +3314,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá duhyang phơi khô trong bóng râm và ngâm.",
     "story": "Thơm đến mức chỉ một ít là dùng được lâu.",
     "flavor": "Hương xanh đậm đặc với cạnh đắng ở cuối vị.",
-    "pairing": "Sau bữa ăn, sau món nhiều dầu mỡ.",
+    "pairing": "Hương xanh đậm đặc và hậu vị đắng của nó rửa trôi vị dầu mỡ sau các món béo như thịt ba chỉ. Hương thơm mạnh cũng cân bằng với các món nêm nếm đậm. Các món tráng miệng hương hoa tinh tế có thể xung đột với hương của nó.",
     "brewTip": "Lần đầu hãy pha ngắn — hương thơm rất mạnh.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà duhyang thảo dược núi Hàn Quốc"
@@ -3330,7 +3330,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt tía tô rang, xay và đun sôi.",
     "story": "Hạt rang cho vị thơm bùi sâu và đầy.",
     "flavor": "Hương bùi như vừng, mềm và đầy trong miệng.",
-    "pairing": "Bánh gạo, đồ ăn nhẹ, ngày lạnh.",
+    "pairing": "Hương bùi tựa vừng và vị mềm đầy đặn của nó hợp với các loại bánh gạo như injeolmi và gyeongdan (bánh gạo viên phủ bột), và làm đồ uống ăn vặt ngày lạnh nó mang lại cảm giác no đủ. Độ đậm đầy đặn hợp với độ dẻo của bánh. Với salad nhẹ, trà có thể gây cảm giác nặng.",
     "brewTip": "Để yên một lúc sau khi đun; vị bùi sẽ tròn hơn.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà hạt tía tô deulkkae perilla seed thơm bùi Hàn Quốc"
@@ -3346,7 +3346,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Dâu tây thái mỏng, phơi khô và ngâm.",
     "story": "Quả đúng mùa phơi khô giữ được hương vị cả năm.",
     "flavor": "Hương dâu tây chua ngọt và nước trà hồng nhạt.",
-    "pairing": "Bánh kem, món tráng miệng, salad.",
+    "pairing": "Hương dâu tây chua ngọt của nó hợp với các món tráng miệng như bánh kem tươi và sữa chua, đồng thời tươi sáng kết hợp với salad trái cây. Nước trà hồng nhạt nâng tầm không khí của bàn tráng miệng. Sô cô la đen có thể lấn át hương thơm của nó.",
     "brewTip": "Một chút mật ong làm hương thơm nổi lên.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà dâu tây strawberry trà trái cây Hàn Quốc mùa xuân"
@@ -3362,7 +3362,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Đậu phộng rang, xay và đun sôi.",
     "story": "Giàu vị và thơm bùi đến mức thay được bữa sáng.",
     "flavor": "Hương đậu phộng thơm bùi, mềm và đầy trong miệng.",
-    "pairing": "Bánh gạo, đồ ăn nhẹ, thay bữa sáng.",
+    "pairing": "Hương đậu phộng bùi và vị đầy đặn của nó hợp với các loại bánh gạo như bánh gạo nếp và injeolmi, và cùng một món ăn vặt đơn giản vào buổi sáng nó mang lại cảm giác no đủ. Thân vị mềm mại hợp với kết cấu của bánh. Với món nhẹ, trà có thể gây cảm giác nặng.",
     "brewTip": "Một chút sữa rất hợp với nó.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà đậu phộng peanut thơm bùi Hàn Quốc rang"
@@ -3378,7 +3378,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cheong chanh — chanh ngâm trong đường — khuấy vào nước.",
     "story": "Trong nước lạnh nó trở thành thức uống mùa hè.",
     "flavor": "Hương chanh tươi sáng và vị ngọt; nước trà vàng nhạt.",
-    "pairing": "Bánh kem, bánh mì kẹp, ngày lạnh.",
+    "pairing": "Hương chanh tươi sáng và vị ngọt của nó hợp với các món tráng miệng như bánh pound cake và scone, đồng thời mang lại cảm giác tươi mát bên cạnh bánh mì kẹp. Vị chua rửa trôi vị béo của bơ. Tránh trái cây quá chua, vì vị chua sẽ chồng lên nhau.",
     "brewTip": "Nước nóng hơn 80 °C nhiều làm hương thơm mờ đi.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà chanh lemon cheong Hàn Quốc mùa đông"
@@ -3394,7 +3394,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Tỏi rang và đun nhỏ lửa.",
     "story": "Rang làm giảm vị hăng và đưa vị ngọt ra.",
     "flavor": "Vị ngọt rang nổi lên trước; vị hăng sống trở nên mềm.",
-    "pairing": "Món thịt, sau bữa ăn.",
+    "pairing": "Với vị ngọt của tỏi rang nổi bật, nó hòa quyện tự nhiên với các món thịt như thịt ba chỉ và sườn. Sau bữa ăn, vị hăng đã dịu đi để lại vị giác sảng khoái. Món tráng miệng không hòa hợp với hương tỏi, nên hãy thưởng thức riêng.",
     "brewTip": "Đun cùng mật ong hoặc táo tàu cho dịu hơn.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà tỏi garlic rang Hàn Quốc truyền thống"
@@ -3410,7 +3410,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả ấu phơi khô, đun nhỏ lửa.",
     "story": "Quả mùa thu từ cây ấu trồng ở ao, phơi khô làm trà.",
     "flavor": "Mộc mạc và dịu với vị ngọt nhẹ và hậu vị mềm.",
-    "pairing": "Sau bữa ăn, bánh gạo.",
+    "pairing": "Vị thanh đạm, mềm mại của nó là tách trà sau bữa ăn dễ chịu và trôi chảy hợp với các loại bánh gạo như jeolpyeon và injeolmi. Dịu nhẹ như vậy, nó không bao giờ nổi bật bên cạnh bất kỳ món ăn nào. Các món nêm nếm đậm có thể vùi lấp sự dịu nhẹ của nó.",
     "brewTip": "Đun cả vỏ thì vị sâu hơn.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà củ ấu mareum water caltrop Hàn Quốc truyền thống"
@@ -3426,7 +3426,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cheong mơ xanh khuấy vào nước.",
     "story": "Vào mùa hè, khuấy vào nước lạnh và uống mát.",
     "flavor": "Nốt chua mở đầu và hậu vị ngọt; nước trà vàng nhạt.",
-    "pairing": "Món nhiều dầu mỡ, mùa hè, món tráng miệng.",
+    "pairing": "Nốt chua đầu tiên của nó rửa trôi vị dầu mỡ của các món béo như thịt ba chỉ và đồ chiên rán, và uống lạnh vào mùa hè nó cảm thấy tươi mát hơn. Hậu vị ngọt cũng hợp với các món tráng miệng như yakgwa. Tránh trái cây chua, vì vị chua sẽ chồng lên nhau.",
     "brewTip": "Trong nước lạnh nó thành thức uống mùa hè tuyệt vời.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà mơ xanh maesil green plum cheong Hàn Quốc"
@@ -3442,7 +3442,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nụ và hoa mơ phơi khô trong bóng râm và ngâm.",
     "story": "Hoa nở ngắn ngủi vào đầu xuân; hương của nó thanh khiết và được trân trọng.",
     "flavor": "Hương hoa thanh khiết, tĩnh lặng và vị ngọt nhẹ.",
-    "pairing": "Bánh gạo, món tráng miệng nhẹ, bánh kẹo ăn cùng trà.",
+    "pairing": "Hương hoa trong trẻo, trầm lặng của nó hợp với các loại bánh gạo như hwajeon và bánh gạo nếp, đồng thời phù hợp với buổi trà bánh nhẹ nhàng. Vị ngọt nhẹ không chồng lên vị ngọt của bánh, giữ cảm giác tươi mát. Tránh món hương vị đậm, vì chúng sẽ vùi lấp hương hoa.",
     "brewTip": "80–85 °C; pha ngắn để giữ hương mỏng manh.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà hoa mơ maehwa plum blossom hoa Hàn Quốc"
@@ -3458,7 +3458,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá meowi phơi khô, sao trên chảo và ngâm.",
     "story": "Một loại rau xanh mùa xuân được phơi khô để dành cả năm.",
     "flavor": "Hương xanh đắng với hậu vị thơm nướng.",
-    "pairing": "Bữa ăn, món nhiều dầu mỡ.",
+    "pairing": "Hương xanh đắng và hậu vị thơm rang của nó hợp với các món phụ mùa xuân như lá butterbur trộn, và bên cạnh món béo nó kiềm chế vị dầu mỡ. Hương thơm trong trẻo đủ sức đứng vững trên bàn ăn thịnh soạn. Với món tráng miệng ngọt, vị đắng có thể nổi bật.",
     "brewTip": "Năm phút; rút ngắn nếu vị đắng tăng lên.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà meowi butterbur mùa xuân Hàn Quốc"
@@ -3474,7 +3474,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nụ mộc lan phơi khô trong bóng râm và ngâm.",
     "story": "Những nụ hoa, gọi là sini, đã được dùng từ nhiều thế kỷ.",
     "flavor": "Hương hoa thanh mát và vị ngọt nhẹ.",
-    "pairing": "Bánh gạo, món tráng miệng, bánh kẹo trà mùa xuân.",
+    "pairing": "Hương hoa trong trẻo, mát lạnh của nó hợp với các loại bánh gạo như hwajeon và bánh gạo nếp, đồng thời hợp với các món tráng miệng nhẹ trên bàn trà bánh mùa xuân. Vị ngọt dịu nhẹ nhàng nâng đỡ hương thơm. Tránh món nêm nếm đậm, vì chúng sẽ vùi lấp hương hoa.",
     "brewTip": "80–85 °C; nụ hoa nở chậm.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà nụ mộc lan sini magnolia hoa Hàn Quốc"
@@ -3490,7 +3490,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ mộc hương cắt nhỏ và đun nhỏ lửa.",
     "story": "Một vị thảo dược mạnh — một ít là cho hương sâu.",
     "flavor": "Hương gỗ sâu và cạnh đắng.",
-    "pairing": "Sau bữa ăn.",
+    "pairing": "Hương gỗ sâu và cạnh đắng của nó làm sạch vị giác trong một tách trà sau bữa ăn thịnh soạn. Uống xen kẽ với trà ngọt như trà táo tàu, nó cân bằng tốt. Với món tráng miệng nhẹ, hương thơm và vị đắng của nó có thể trở nên quá nổi bật.",
     "brewTip": "Hương thơm mạnh; điều chỉnh lượng từng chút một.",
     "keep": "Đậy kín, mát và khô.",
     "keywords": "trà mộc hương mokhyang costus root thảo dược"
@@ -3506,7 +3506,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá củ cải phơi khô, đem ngâm.",
     "story": "Lá siraegi, phơi khô để làm trà nữa.",
     "flavor": "Hương xanh thơm nướng và vị mộc mạc, dịu.",
-    "pairing": "Bữa ăn, món cơm.",
+    "pairing": "Hương xanh thơm rang và vị thanh đạm của nó hợp với các món cơm như bibimbap và gimbap, đồng thời dễ dàng đi kèm các bữa ăn rau trộn. Vị dịu nhẹ không bao giờ làm gián đoạn bữa ăn. Các món tráng miệng quá ngọt có thể không hòa hợp với hương thơm rang của nó.",
     "brewTip": "Năm phút; đun nhỏ lửa để thơm nướng hơn.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà lá củ cải siraegi radish leaf Hàn Quốc"
@@ -3522,7 +3522,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ bangpung cắt nhỏ và đun nhỏ lửa.",
     "story": "Rễ của một loài cây mà lá của nó được ăn như rau xanh.",
     "flavor": "Hương đất trầm, ngọt nhẹ, hậu vị mềm.",
-    "pairing": "Sau bữa ăn, món hải sản.",
+    "pairing": "Hương đất trầm lặng và hậu vị mềm mại của nó hợp với các món hải sản như cá nướng và canh hải sản, và một tách sau bữa ăn không bao giờ là gánh nặng. Hương vị thanh đạm không bao giờ cản trở hải sản. Các món tráng miệng quá ngọt có thể không hòa hợp với nốt hương đất của nó.",
     "brewTip": "Đun nhỏ lửa thật kỹ để vị tiết ra.",
     "keep": "Đậy kín và khô.",
     "keywords": "trà phòng phong bangpung saposhnikovia rễ thảo dược"
@@ -3538,7 +3538,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nấm khô đem ninh lấy nước.",
     "story": "Phơi khô làm vị umami đậm hơn — gần như một thứ nước dùng loãng.",
     "flavor": "Vị umami sâu với hương nấm nhẹ nhàng.",
-    "pairing": "Trước bữa ăn, bữa ăn nhẹ.",
+    "pairing": "Một tách trước bữa ăn kích thích vị giác, và nó hợp với các món thanh đạm như canh trong, đậu phụ hấp, salad rau và nấm xào. Vị umami sâu của nó nâng đỡ các món nhẹ, nhưng các món nêm nếm đậm với tỏi hoặc gochujang (tương ớt Hàn Quốc) xung đột với hương thơm của nó, nên hãy tránh những món đó.",
     "brewTip": "Nấm sau khi ninh có thể dùng tiếp vào món ăn.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "trà nấm nấm hương umami mushroom tea shiitake Hàn Quốc"
@@ -3554,7 +3554,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hoa anh đào phơi khô hoặc muối, rồi đem hãm.",
     "story": "Ngắm bông hoa nở bung trên mặt nước cũng là một nửa thú vui.",
     "flavor": "Hương hoa mềm, vị ngọt nhẹ; hoa muối có thêm chút vị mặn.",
-    "pairing": "Bánh gạo, món tráng miệng, bánh ngọt mùa xuân.",
+    "pairing": "Nó phù hợp với các loại bánh gạo mùa xuân như baekseolgi (bánh gạo hấp), hwajeon và mochi, cùng các món tráng miệng nhẹ. Hương hoa dịu nhẹ và vị ngọt nhẹ không bao giờ lấn át bánh gạo thanh đạm, trong khi chút vị mặn của hoa giữ cho vị ngọt gọn gàng. Các món tráng miệng sô cô la béo ngậy vùi lấp hương thơm tinh tế của nó, nên hãy bỏ qua.",
     "brewTip": "80–85 °C; khoảnh khắc hoa nở trên mặt nước là cảnh đáng ngắm nhất.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "trà hoa anh đào sakura cherry blossom tea hoa mùa xuân"
@@ -3570,7 +3570,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Phục linh cắt nhỏ rồi đem ninh.",
     "story": "Vị nhạt đến mức dễ dàng hòa cùng các thảo mộc khác.",
     "flavor": "Nhạt và mềm, gần như không có mùi riêng.",
-    "pairing": "Sau bữa ăn, pha chung với các trà thảo mộc khác.",
+    "pairing": "Với gần như không có hương thơm riêng, nó hợp với hầu hết mọi bữa ăn và rất thích hợp sau bữa ăn, cùng với cháo, canh cơm cháy (nurungji) hoặc rau trộn thanh đạm. Nó cũng là nền pha trộn trầm lặng với các loại trà thảo mộc khác, nhưng sau món cay, sự thanh đạm của nó biến mất hoàn toàn.",
     "brewTip": "Ninh chung với nguyên liệu khác sẽ dễ uống hơn.",
     "keep": "Đậy kín, để nơi mát và khô.",
     "keywords": "trà phục linh bokryeong poria tea thảo mộc"
@@ -3586,7 +3586,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà trái cây từ đào khô cắt lát mỏng — hương thơm dịu hơn đào tươi và để được lâu.",
     "story": "Từ thói quen phơi khô vụ đào mùa hè để uống quanh năm.",
     "flavor": "Hương đào ngọt với chút chua nhẹ; nước trà vàng nhạt.",
-    "pairing": "Món tráng miệng, uống đá vào mùa hè, đồ ăn nhẹ.",
+    "pairing": "Nó hợp với các món tráng miệng nhẹ như sữa chua, salad trái cây, bánh muffin và thạch, và uống với đá nó là sự kết hợp sảng khoái cho các món ăn vặt mùa hè. Hương đào ngọt với cạnh chua cắt qua vị béo của món tráng miệng ngọt, dù với bánh kem béo nặng, các hương vị sẽ chen lấn nhau.",
     "brewTip": "Hãm từ năm phút trở lên; ướp lạnh uống với đá rất ngon.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà đào đào khô peach tea trà trái cây mùa hè"
@@ -3602,7 +3602,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà rau củ từ củ dền khô cắt lát mỏng; nước trà có màu đỏ ruby.",
     "story": "Trở nên phổ biến như một loại trà tại nhà khi củ dền được trồng rộng rãi ở Hàn Quốc.",
     "flavor": "Vị ngọt mùi đất và nước trà đỏ ruby đậm.",
-    "pairing": "Bữa ăn, salad, một tách ấm vào mùa đông.",
+    "pairing": "Nó hợp với salad, rau củ nướng, bánh mì kẹp lúa mạch đen và súp, và uống ấm vào mùa đông nó là tách trà bữa ăn thỏa mãn. Vị ngọt hương đất của nó chảy tự nhiên vào các nốt xanh của rau củ và nước trà đỏ làm sáng bàn ăn, nhưng với cá sống tinh tế, hương đất sẽ lấn át.",
     "brewTip": "Hãm từ năm phút trở lên, đến khi màu đậm dần.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà củ dền beetroot tea củ dền đỏ ruby"
@@ -3618,7 +3618,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá tỳ bà phơi khô đem hãm; khâu quan trọng khi sơ chế là cạo lớp lông tơ ở mặt sau lá.",
     "story": "Tỳ bà là cây ăn quả quen thuộc dọc bờ biển phía nam và ở Jeju, nơi trà lá tỳ bà là thức uống dân gian quen thuộc.",
     "flavor": "Hương thảo mộc nhẹ, vị ngọt thoảng, nước trà trong.",
-    "pairing": "Sau bữa ăn, đồ ăn nhẹ, một buổi chiều thong thả.",
+    "pairing": "Sau bữa ăn, nó thoải mái đi kèm các món nhẹ như canh trong, rau hấp hoặc cơm nắm, và vào buổi chiều yên tĩnh nó dễ dàng đồng hành cùng một miếng bánh gạo hoặc trái cây. Nốt thảo mộc dịu và vị ngọt nhẹ của nó làm mới vị giác, nhưng các món xào nêm nếm đậm sẽ rửa trôi nó.",
     "brewTip": "Chọn lá đã cạo lông mặt sau; hãm từ năm phút trở lên.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà lá tỳ bà bipa loquat leaf tea miền nam Hàn Quốc"
@@ -3634,7 +3634,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà trái cây từ táo khô cắt lát mỏng, để cả vỏ.",
     "story": "Từ thói quen phơi khô táo mùa thu để dành uống vào mùa đông.",
     "flavor": "Táo chua ngọt với hương thơm dịu; nước trà vàng nhạt.",
-    "pairing": "Món tráng miệng, trà đá, đồ ăn nhẹ cho trẻ em.",
+    "pairing": "Nó kết hợp đẹp với bánh pancake, bánh waffle, bánh táo và sữa chua, đồng thời là đồ uống tốt cho giờ ăn vặt của trẻ em. Vị táo chua ngọt nâng đỡ cảm giác nặng của các món tráng miệng từ bột, và pha lạnh thành trà đá nó càng tươi sáng hơn. Món nhiều gia vị đậm như cà ri xung đột với hương thơm của nó.",
     "brewTip": "Hãm từ năm phút trở lên; thêm chút mật ong rất hợp.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà táo táo khô apple tea trà trái cây"
@@ -3650,7 +3650,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lát hoài sơn khô đem sắc. Đừng nhầm với matcha.",
     "story": "Hoài sơn vừa là thực phẩm vừa là dược liệu; nước sắc từ củ khô còn lưu lại như một loại trà dân gian.",
     "flavor": "Hương củ nhẹ với vị ngọt bột thoảng qua.",
-    "pairing": "Bữa ăn, ăn cùng cháo, một tách buổi sáng.",
+    "pairing": "Vào buổi sáng, nó hợp với cháo, canh cơm cháy, trứng hấp và rau xanh dịu nhẹ, đồng thời vừa vặn với bữa ăn Hàn Quốc thường ngày mà không cầu kỳ. Hương rễ trầm lặng và vị ngọt tinh bột nhẹ của nó đồng điệu với các món dịu nhẹ, nhưng bên cạnh món hầm cay, sự mềm mại của nó mất hẳn.",
     "brewTip": "Sắc lâu hơn sẽ tròn vị hơn; khoảng mười phút là vừa.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà hoài sơn sanyak Chinese yam tea trà củ"
@@ -3666,7 +3666,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cành dâu non cắt khúc, phơi khô rồi sắc — khác với trà lá dâu vì dùng bộ phận khác của cây.",
     "story": "Mỗi bộ phận của cây dâu đều có tên gọi và cách dùng riêng; cành dâu, sangji, là một trong số đó.",
     "flavor": "Hương gỗ dịu và vị ngọt nhẹ.",
-    "pairing": "Bữa ăn, một tách buổi sáng, cháo.",
+    "pairing": "Nó là tách trà buổi sáng tốt cùng cháo, canh cơm cháy hoặc nước dùng trong, đồng thời phù hợp với bữa ăn thanh đạm gồm rau trộn. Hương gỗ dịu và vị ngọt nhẹ của nó không bao giờ cản trở món ăn, nhưng nó không hòa hợp với các món tráng miệng quá ngọt, nên hãy thưởng thức riêng.",
     "brewTip": "Sắc khoảng mười phút cho tách trà đậm đà hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà cành dâu sangji mulberry twig tea"
@@ -3682,7 +3682,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt tơ hồng phơi khô đem sắc — hạt nhỏ và cứng nên đun sôi hợp hơn hãm.",
     "story": "Tơ hồng là dây leo ký sinh; hạt của nó từ lâu đã được ghi chép dưới tên tosaja.",
     "flavor": "Hương hạt bùi, dịu và thanh.",
-    "pairing": "Một tách buổi sáng, sau bữa ăn, ăn cùng cháo.",
+    "pairing": "Nó hợp với cháo, cơm nắm và các món ăn vặt hạt, đồng thời là tách trà dễ chịu vào buổi sáng hoặc sau bữa ăn. Hương hạt bùi của nó tiếp nối hương thơm rang của các món ngũ cốc tạo nên tách trà ấm lòng, nhưng với món tráng miệng trái cây chua, hương bùi và vị chua sẽ tách rời nhau, nên hãy để chúng riêng.",
     "brewTip": "Hạt cứng; sắc khoảng mười phút là tốt nhất.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà hạt tơ hồng tosaja dodder seed tea cuscuta"
@@ -3698,7 +3698,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà trái cây từ lựu khô, cả quả và vỏ; nước trà đỏ trong.",
     "story": "Lựu là cây quen thuộc trong vườn nhà miền nam, và phơi khô quả làm trà là thói quen của nhiều gia đình.",
     "flavor": "Chua ngọt với nước trà đỏ ruby.",
-    "pairing": "Món tráng miệng, trà đá, đồ ăn nhẹ.",
+    "pairing": "Nó hợp với bánh phô mai, bánh tart trái cây, sữa chua và thạch, và pha lạnh thành trà đá nó làm tươi sáng các món ăn vặt nhẹ. Vị chua ngọt cắt qua vị béo của món tráng miệng kem và nước trà đỏ ruby là món quà cho mắt, nhưng vị chua của nó nổi bật một cách lạc lõng bên cạnh cháo thanh đạm.",
     "brewTip": "Hãm từ năm phút trở lên; ướp lạnh thì vị chua sắc hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà lựu lựu khô pomegranate tea trà trái cây"
@@ -3714,7 +3714,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà từ địa y khô (usnea) mọc trên đá và cây ở vùng núi cao.",
     "story": "Vẻ ngoài trắng như tuyết cho nó cái tên seolcha; nó chỉ mọc nơi không khí sạch nên thu hái được rất ít.",
     "flavor": "Hương thảo mộc rất nhẹ; nước trà gần như trong suốt.",
-    "pairing": "Một buổi chiều yên tĩnh, uống riêng, bánh ngọt nhẹ.",
+    "pairing": "Tốt nhất là nhâm nhi chậm rãi một mình; nếu kết hợp, các món ngọt thanh đạm như baekseolgi hoặc castella, hoặc một nắm hạt, là vừa đúng. Nước trà gần như trong suốt và nốt xanh nhẹ của nó không bao giờ tranh giành với bất kỳ món ăn vặt nào, nhưng bên cạnh món nêm nếm đậm nó sẽ mờ nhạt đến vô hình.",
     "brewTip": "Nước quá nóng làm mất vị; khoảng 90 °C trong 3 phút.",
     "keep": "Đậy kín và để khô.",
     "keywords": "seolcha trà tuyết snow tea địa y usnea lichen"
@@ -3730,7 +3730,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả và lá sotae phơi khô; đặc trưng bởi vị đắng mạnh.",
     "story": "Câu nói Hàn Quốc 'đắng như sotae' bắt nguồn từ quả này — và trà của nó giữ đúng danh tiếng ấy.",
     "flavor": "Đắng mạnh với hậu ngọt thoảng; nước trà nâu đậm.",
-    "pairing": "Nhấp từng ngụm nhỏ sau bữa ăn; dành cho người thích vị đắng.",
+    "pairing": "Hãy nhấp từng chút sau bữa ăn, lý tưởng nhất là cùng món ăn vặt ngọt rõ rệt như bánh gạo mật ong, yakgwa hoặc hồng khô. Vị ngọt đè xuống vị đắng mạnh và gặp gỡ hậu ngọt nhẹ của nó để cân bằng, nhưng với món thanh đạm, vị đắng đứng một mình và lấn át.",
     "brewTip": "Bắt đầu nhạt — hai đến ba phút — rồi điều chỉnh dần.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà sotae sotae tea đắng trà dân gian privet"
@@ -3746,7 +3746,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ sokdan cắt lát, phơi khô rồi đem sắc.",
     "story": "Nguyên liệu từ lâu đã được ghi trong các sách thảo dược; nước sắc từ rễ còn lưu lại như một loại trà dân gian.",
     "flavor": "Hương rễ mùi đất, vị ngọt nhẹ, hậu hơi đắng.",
-    "pairing": "Bữa ăn, một tách buổi sáng, ăn cùng cháo.",
+    "pairing": "Nó phù hợp với các món Hàn thịnh soạn như cháo, cơm lúa mạch và canh tương đậu, đồng thời cũng thích hợp làm tách trà buổi sáng. Hương rễ đất và vị ngọt nhẹ của nó chia sẻ chiều sâu ngũ cốc, lên men của các món như vậy, và hậu vị hơi đắng làm gọn gàng kết thúc. Các món tráng miệng tinh tế sẽ thua trước hương đất của nó.",
     "brewTip": "Sắc khoảng mười phút cho hương rễ đậm hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà sokdan tục đoạn sokdan tea dipsacus trà rễ"
@@ -3762,7 +3762,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá thông non sơ chế rồi phơi khô; khâu rút nhựa thông là yếu tố quyết định hương vị.",
     "story": "Nơi thông mọc khắp chốn, phơi lá thông làm trà là thói quen từ xưa.",
     "flavor": "Hương thông tươi, vị sạch, nước trà vàng nhạt.",
-    "pairing": "Sau bữa ăn, uống đá, một buổi chiều yên tĩnh.",
+    "pairing": "Sau bữa ăn béo, nó để lại miệng sảng khoái, đồng thời cũng hợp với songpyeon (bánh gạo nửa vầng trăng), bánh gạo và các loại hạt. Hương thông trong trẻo của nó rửa trôi cảm giác nặng nề cho hậu vị sạch sẽ, và hương thơm vẫn giữ được ngay cả khi pha lạnh. Các món nặng, béo như món nướng phô mai tranh giành với hương thông, nên hãy tránh.",
     "brewTip": "Ngâm rút nhựa thật kỹ, nếu không sẽ chát gắt; pha lạnh rất ngon.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà lá thông songyeop pine needle tea thông Hàn Quốc"
@@ -3778,7 +3778,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Phấn thông khuấy vào nước — một thức uống pha trộn hơn là trà hãm.",
     "story": "Chỉ thu được vào mùa xuân, songhwa được dùng trong cả bánh ngọt lẫn đồ uống mật ong.",
     "flavor": "Hương thông dịu, vị ngọt mềm, nước trà vàng.",
-    "pairing": "Cùng bánh dasik, đồ điểm tâm mùa xuân, buổi sáng.",
+    "pairing": "Nó hợp với các loại bánh ngọt truyền thống như dasik (bánh trà truyền thống), yakgwa và songpyeon, đồng thời là bạn đồng hành đáng yêu vào buổi sáng mùa xuân. Hương thông dịu nhẹ và vị ngọt mềm của nó chảy vào vị béo mật ong, vừng của bánh ngọt, trong khi món ăn vặt cay vùi lấp hương thơm tinh tế của nó.",
     "brewTip": "Nước sôi làm mất hương; khuấy vào nước khoảng 80 °C và uống ngay.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà phấn thông songhwa pine pollen tea mùa xuân"
@@ -3794,7 +3794,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà mùa hè từ phần vỏ trắng dưa hấu phơi khô.",
     "story": "Bắt đầu như cách tận dụng cả quả dưa; thường uống lạnh nhất.",
     "flavor": "Vị ngọt rất nhẹ, sạch; nước trà gần như trong.",
-    "pairing": "Uống đá vào mùa hè, sau bữa ăn, những ngày nóng.",
+    "pairing": "Vào ngày nóng, uống với đá, nó hợp với trái cây mùa hè, canh lạnh và salad nhẹ, đồng thời là thức uống làm mới sau bữa ăn. Vị ngọt nhẹ, sạch sẽ của nó không thêm chút nặng nề nào cho bất kỳ món ăn nào và trôi xuống mát lạnh, nhưng bên cạnh món nước dùng béo đậm nó có vị gần như nước lọc.",
     "brewTip": "Ướp lạnh là lúc trà này sảng khoái nhất.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà vỏ dưa hấu watermelon rind tea mùa hè Hàn Quốc"
@@ -3810,7 +3810,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà ngũ cốc từ cao lương rang, hương nướng gần giống trà lúa mạch.",
     "story": "Cao lương vừa là lương thực vừa là đồ uống; hạt rang cũng được đem nấu lấy nước.",
     "flavor": "Hương ngũ cốc nướng, vị ngọt nhẹ, nước trà nâu đỏ.",
-    "pairing": "Bữa ăn, mùa hè, uống thay nước.",
+    "pairing": "Nó có thể thay thế nước bên cạnh bữa ăn thường ngày gồm cơm, canh và rau xanh, và ngay cả khi uống đá vào mùa hè, hương thơm rang của nó vẫn giữ vững. Chiều sâu ngũ cốc rang của nó hợp với sự thanh đạm của món ăn gia đình Hàn Quốc và không xung đột với gì cả, nhưng với món tráng miệng chua, hương rang và vị chua sẽ đi hai đường riêng.",
     "brewTip": "Đun sôi làm trà tròn vị và thơm nướng hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà cao lương sorghum tea ngũ cốc rang Hàn Quốc"
@@ -3826,7 +3826,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ sài hồ cắt lát, phơi khô rồi đem sắc.",
     "story": "Từ lâu đã được ghi trong các sách thảo dược; nước sắc còn lưu lại như một loại trà dân gian.",
     "flavor": "Hương rễ mùi đất với vị đắng rõ.",
-    "pairing": "Tách nhỏ sau bữa ăn, buổi sáng.",
+    "pairing": "Tốt nhất là uống trong tách nhỏ sau bữa ăn, lý tưởng nhất là cùng món ngọt như táo tàu, hồng khô hoặc bánh gạo mật ong. Vị ngọt làm dịu vị đắng trong trẻo của nó trong khi hương rễ đất lắng xuống bình thản, nhưng bên cạnh salad nhẹ, vị đắng sẽ đẩy lên phía trước.",
     "brewTip": "Trà này đắng đúng nghĩa; hãy bắt đầu với nước sắc nhạt hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà rễ sài hồ siho bupleurum root tea thảo dược"
@@ -3842,7 +3842,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá cẩm quỳ non phơi khô rồi hãm — một loại rau nấu canh nay thành trà.",
     "story": "Cẩm quỳ mọc trong mọi vườn bếp; phơi lá làm trà là thói quen của nhiều gia đình.",
     "flavor": "Hương thảo mộc mềm, vị ngọt nhẹ, chất nước hơi sánh mượt.",
-    "pairing": "Bữa ăn, buổi sáng, cùng một món canh nhẹ.",
+    "pairing": "Nó hợp với các món mềm, có nước như canh rau aok (mallow Hàn Quốc), canh tương đậu và cháo, đồng thời phù hợp với bàn ăn sáng. Kết cấu mượt như lụa và vị ngọt nhẹ của nó tiếp nối sự mềm mại của nước dùng cho dễ nuốt, nhưng nó không hòa hợp với đồ chiên giòn.",
     "brewTip": "Khoảng năm phút cho một tách mượt mà.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà cẩm quỳ auk mallow tea trà lá"
@@ -3858,7 +3858,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà trái cây từ quả aengdu khô (anh đào Nam Kinh).",
     "story": "Cây quen thuộc trong sân nhà; phơi khô quả làm trà là thói quen của nhiều gia đình.",
     "flavor": "Chua ngọt với nước trà đỏ nhạt.",
-    "pairing": "Món tráng miệng, trà đá, đồ ăn nhẹ.",
+    "pairing": "Nó hợp với bánh muffin, scone, sữa chua và thạch trái cây, và pha lạnh thành trà đá nó làm tươi sáng món ăn vặt nhẹ. Vị chua ngọt của anh đào nhẹ nhàng nâng đỡ các món tráng miệng bơ, nhưng trước các món nhiều gia vị đậm như cà ri hoặc malatang (lẩu cay), vị chua của nó sẽ xung đột.",
     "brewTip": "Hãm từ năm phút trở lên; ướp lạnh thì vị chua sắc hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà anh đào aengdu Nanking cherry tea trà trái cây"
@@ -3874,7 +3874,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Trà từ vỏ hành khô — điểm chính là phần vỏ, không phải phần thịt.",
     "story": "Một loại trà gia đình làm từ việc giữ lại và phơi khô vỏ hành khi sơ chế nấu ăn.",
     "flavor": "Hương hành mềm, vị ngọt nhẹ, nước trà màu hổ phách.",
-    "pairing": "Bữa ăn, món nhiều dầu mỡ, mùa đông.",
+    "pairing": "Nó đi kèm tốt với các món béo như thịt ba chỉ nướng, bánh chiên mặn và đồ chiên rán, đồng thời là bạn đồng hành ấm áp tốt cho bữa ăn mùa đông. Hương hành mềm và vị ngọt nhẹ của nó nhẹ nhàng đè xuống vị dầu mỡ và làm gọn vị giác, nhưng nốt hành quá nổi bật đối với các món tráng miệng tinh tế.",
     "brewTip": "Hãm từ năm phút trở lên cho màu và hương đậm hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà vỏ hành tây onion peel tea trà gia đình"
@@ -3890,7 +3890,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lát khổ qua phơi khô rồi hãm; rang lên sẽ làm dịu bớt vị đắng.",
     "story": "Khi khổ qua trở thành rau mùa hè quen thuộc, trà khô từ nó cũng theo sau.",
     "flavor": "Vị đắng rõ với hậu thơm nướng; rang lên sẽ dịu hơn.",
-    "pairing": "Cùng bữa ăn, sau món nhiều dầu mỡ.",
+    "pairing": "Hãy uống cùng các món thịt béo hoặc món xào, hoặc ngay sau chúng. Vị đắng trong trẻo của nó cắt qua vị dầu mỡ trong khi hậu vị thơm rang của mướp đắng rang kết nối với hương vị món ăn, nhưng với món tráng miệng ngọt, vị đắng và vị ngọt sẽ đi hai đường riêng.",
     "brewTip": "Nếu quá đắng, hãm ngắn hơn và chọn lát đã rang.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà khổ qua mướp đắng bitter melon tea yeoju rang"
@@ -3906,7 +3906,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Củ sen cắt lát, phơi khô, rang rồi sắc — bộ phận khác của cây sen so với trà lá sen.",
     "story": "Nguyên liệu món phụ quen thuộc, những lát rang của nó đã thành trà gia đình.",
     "flavor": "Hương nướng với vị ngọt bột thoảng qua.",
-    "pairing": "Bữa ăn, mùa đông, ăn cùng cháo.",
+    "pairing": "Nó hợp với cháo, củ sen kho và bánh gạo nướng, đồng thời thêm ấm áp bên cạnh bữa ăn mùa đông. Hương thơm rang và vị ngọt tinh bột nhẹ của nó chia sẻ tính thanh đạm của các món rau củ rễ, nhưng bên cạnh trái cây chua, hương rang sẽ bị nhấn chìm.",
     "brewTip": "Sắc lâu hơn sẽ thơm nướng hơn; mười phút là vừa.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà củ sen yeongeun lotus root tea rang"
@@ -3922,7 +3922,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nấm linh chi cắt lát mỏng, phơi khô, ninh trong nước.",
     "story": "Từ lâu được quý trọng như vị thuốc trường thọ, linh chi được sắc và uống như trà trong y học thảo dược.",
     "flavor": "Đắng mạnh với hương gỗ và đất; nước trà nâu đậm.",
-    "pairing": "Uống riêng; một chút mật ong làm dịu vị đắng.",
+    "pairing": "Đây là loại trà để uống chậm rãi một mình; nếu kết hợp, hãy chọn món ăn vặt ngọt như hồng khô, táo tàu hoặc bánh gạo mật ong, hoặc một thìa mật ong. Vị ngọt đè xuống vị đắng mạnh và hương gỗ, nhưng với bữa ăn thường ngày, vị đắng sẽ che phủ mọi hương vị khác.",
     "brewTip": "Lát càng mỏng càng dễ chiết xuất. Giữ lửa ninh liu riu.",
     "keep": "Đậy kín và để khô — ẩm vào là dễ mốc.",
     "keywords": "trà linh chi reishi mushroom tea lingzhi nước sắc đắng"
@@ -3938,7 +3938,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả dâu tằm khô hãm trong nước nóng — khác với trà lá dâu.",
     "story": "Quả chín đen được phơi khô hoặc làm siro; quả sau khi hãm vẫn ăn được.",
     "flavor": "Ngọt với chút chua nhẹ và hương quả mọng; nước trà tím nhạt.",
-    "pairing": "Món tráng miệng và sữa chua; uống đá ngon vào mùa hè.",
+    "pairing": "Nó hợp với sữa chua, kem, bánh pancake và bánh phô mai, và pha lạnh bên cạnh món tráng miệng mùa hè nó có vị tươi sáng. Vị ngọt và chua nhẹ của dâu tằm hòa quyện với sữa như sốt quả mọng, nhưng sau món cay, vị ngọt của nó nổi bật một cách lạc lõng.",
     "brewTip": "Ăn luôn quả sau khi hãm — chúng vẫn còn ngọt.",
     "keep": "Đậy kín và để mát; quả khô kỵ ẩm.",
     "keywords": "trà dâu tằm odi sangshen mulberry fruit tea quả mọng"
@@ -3954,7 +3954,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Dưa leo cắt lát mỏng, phơi khô rồi hãm.",
     "story": "Khác với nước dưa leo tươi, dưa leo khô giữ được hương thơm cả trong nước nóng.",
     "flavor": "Hương xanh mát, vị ngọt nhẹ, nước trà xanh nhạt trong.",
-    "pairing": "Bữa ăn mùa hè và món cay; uống đá cũng ngon.",
+    "pairing": "Nó phù hợp với các món cay nồng khiến miệng tê rần như chân gà cay, tteokbokki hoặc malatang, và uống lạnh cùng bữa ăn mùa hè nó mang lại cảm giác mát. Hương xanh tươi và vị ngọt nhẹ của nó nhẹ nhàng bao bọc vị cay, nhưng bên cạnh món nước dùng béo đậm, sự trong trẻo của nó biến mất.",
     "brewTip": "Pha lạnh giữ hương sạch nhất; dùng với đá.",
     "keep": "Đậy kín và để khô — dưa leo khô mất hương nhanh.",
     "keywords": "trà dưa leo cucumber tea dưa leo khô mùa hè mát"
@@ -3970,7 +3970,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt ngô rang ninh trong nước — đậm hơn trà râu ngô, loại chỉ dùng phần râu.",
     "story": "Hạt rang đến vàng óng cho hương thơm nướng như bỏng ngô khi đun.",
     "flavor": "Hương ngũ cốc rang như bỏng ngô và vị ngọt nhẹ; nước trà vàng óng.",
-    "pairing": "Bữa ăn và đồ ăn nhẹ; uống đá vẫn thơm nướng.",
+    "pairing": "Nó hợp với các món quán ăn vặt như tteokbokki, gimbap và đồ chiên rán, đồng thời có thể ngồi bên cạnh bữa ăn thường ngày như nước lọc. Hương vị ngũ cốc rang tựa bỏng ngô của nó làm lắng vị giác giữa các miếng món cay ngọt, và nó vẫn thơm rang ngay cả khi uống đá. Nó thuộc về một thế giới khác hẳn so với các loại bánh trà hương hoa tinh tế.",
     "brewTip": "Hạt rang đến nứt vỏ chiết xuất tốt nhất.",
     "keep": "Đậy kín và để khô — hạt rang nhanh bị hôi dầu.",
     "keywords": "trà ngô rang oksusu roasted corn tea trà ngũ cốc bỏng ngô"
@@ -3986,7 +3986,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Wasong, loài cây mọng nước mọc trên ngói và đá, phơi khô rồi hãm.",
     "story": "Được đặt tên vì dáng giống cây thông, nó trữ nước trong những chiếc lá dày.",
     "flavor": "Vị chua nhẹ, hương xanh, nước trà trong.",
-    "pairing": "Uống riêng, hoặc sau bữa ăn nhiều dầu mỡ.",
+    "pairing": "Uống một mình sau bữa ăn béo, nó để lại miệng sạch sẽ; nếu kết hợp, các món đậu phụ thanh đạm hoặc rau trộn là phù hợp. Vị chua nhẹ và hương xanh của nó rửa trôi cảm giác nặng nề, nhưng với món tráng miệng ngọt, vị chua nổi bật và hai thứ tách rời nhau.",
     "brewTip": "Rút ngắn thời gian hãm nếu bạn không thích vị chua.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà ngõa tùng wasong rock pine orostachys trà cây mọng nước"
@@ -4002,7 +4002,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ ngưu tất phơi khô rồi đem sắc.",
     "story": "Những đốt rễ sần sùi, được cho là giống đầu gối bò, đã cho nó cái tên useul.",
     "flavor": "Hương nướng mùi đất, vị ngọt nhẹ, nước trà nâu đậm.",
-    "pairing": "Uống riêng, uống ấm vào buổi tối.",
+    "pairing": "Hãy hâm ấm vào buổi tối và uống một mình, hoặc cùng món ăn vặt đơn giản như khoai lang nướng, hạt dẻ hoặc bánh gạo. Hương thơm rang đất và vị ngọt nhẹ của nó tiếp nối sự thanh đạm của các món ăn vặt nướng cho một kết thúc bình thản, nhưng với món chua, hương đất sẽ tách rời lạc lõng.",
     "brewTip": "Ninh càng lâu, tách trà càng đậm; châm nước và ninh hai lần.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà ngưu tất useul achyranthes root tea đầu gối bò"
@@ -4018,7 +4018,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nghệ thuộc họ gừng, cắt lát phơi khô hoặc nghiền bột pha vào nước nóng.",
     "story": "Jindo ở Jeollanam-do nổi tiếng về nghệ; đây cũng là cây tạo màu vàng cho cà ri.",
     "flavor": "Hương đất, hậu cay như tiêu, nước trà vàng đậm.",
-    "pairing": "Làm dịu bằng sữa; cũng ngon với mật ong.",
+    "pairing": "Khuấy vào sữa ấm, nó trở nên mềm mại, đồng thời cũng hợp với bánh mì mật ong, chuối nướng hoặc món nhiều gia vị như cà ri. Hương đất và hậu vị cay nồng được làm tròn bởi vị béo của sữa, và nước trà vàng đậm tô màu cho bàn ăn. Bên cạnh canh trong, gia vị quá nổi bật, nên hãy uống riêng.",
     "brewTip": "Nghệ làm ố vàng quần áo và thớt — hãy cẩn thận khi dùng.",
     "keep": "Đậy kín và để khô; dạng bột mất hương nhanh.",
     "keywords": "trà nghệ turmeric tea ulgeum jindo vàng"
@@ -4034,7 +4034,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ viễn chí phơi khô rồi đem sắc.",
     "story": "Một dược liệu rễ mảnh, được rút lõi trước khi phơi khô và ninh.",
     "flavor": "Đầu lưỡi đắng, hậu thơm nướng, nước trà nâu nhạt.",
-    "pairing": "Uống riêng; táo tàu làm tròn vị đắng.",
+    "pairing": "Hãy uống một mình hoặc cùng món ăn vặt ngọt như táo tàu hoặc hồng khô. Vị ngọt đè xuống vị đắng đầu tiên trong khi hậu vị thơm rang mở ra chậm rãi để cân bằng, nhưng với salad nhẹ hoặc trái cây, vị đắng sẽ nổi bật và sự kết hợp đổ vỡ.",
     "brewTip": "Ninh quá ngắn chỉ còn vị đắng — hãy cho nó thời gian.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà viễn chí wonji polygala root tea thảo dược"
@@ -4050,7 +4050,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Ý dĩ rang đem ninh, hoặc bột rang khuấy vào nước nóng.",
     "story": "Hạt giống ngũ cốc làm nên một tách trà no bụng; ở Hàn Quốc nó nổi tiếng với trà yulmu ở máy bán hàng tự động.",
     "flavor": "Hương ngũ cốc bùi, vị ngọt nhẹ, chất nước sánh.",
-    "pairing": "Bữa sáng nhẹ hoặc bữa phụ; ngon với sữa.",
+    "pairing": "Làm bữa sáng nhẹ cùng bánh mì nướng, trứng luộc và chuối, nó mang lại cảm giác no, và làm món ăn vặt nó hợp với bánh gạo hoặc các loại hạt. Hương ngũ cốc bùi và thân vị dày của nó thỏa mãn, và sữa làm nó càng mềm hơn, nhưng bên cạnh món nước dùng trong, các kết cấu chồng chất và gây cảm giác nặng.",
     "brewTip": "Cho bột từng chút một, vừa cho vừa khuấy để tránh vón cục.",
     "keep": "Đậy kín và để khô; bột nhanh bị hôi dầu.",
     "keywords": "trà ý dĩ yulmu job's tears coix trà ngũ cốc"
@@ -4066,7 +4066,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Thân và quả của dây akebia, phơi khô rồi hãm.",
     "story": "Loài dây leo nổi tiếng với quả nứt bung vào mùa thu; thân của nó, gọi là moktong, cũng là một dược liệu.",
     "flavor": "Vị ngọt nhẹ, hương xanh, nước trà trong.",
-    "pairing": "Uống riêng hoặc cùng món ăn thanh đạm.",
+    "pairing": "Nó phù hợp với bữa ăn thanh đạm gồm rau trộn, canh trong và cơm trắng, đồng thời dễ uống một mình. Vị ngọt nhẹ và hương xanh của nó không bao giờ làm phiền món ăn, khiến nó thành bạn đồng hành hằng ngày, nhưng bên cạnh các món nêm nếm đậm, sự trong trẻo của nó bị vùi lấp hoàn toàn.",
     "brewTip": "Quả khô ngọt hơn — dùng ít lại.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà mộc thông akebia eureum moktong trà dây leo"
@@ -4082,7 +4082,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá bạch quả phơi khô, sao chảo rồi hãm — dùng lá, không phải hạt.",
     "story": "Lá thu vàng được gom lại phơi khô; phơi và sao kỹ làm dịu vị gắt của lá.",
     "flavor": "Hương xanh nhẹ, hậu đắng ngọt, nước trà vàng nhạt.",
-    "pairing": "Uống riêng, hoặc sau bữa ăn nhiều dầu mỡ.",
+    "pairing": "Uống một mình sau bữa ăn béo, nó làm gọn vị giác, và món ăn vặt thanh đạm như hạt bạch quả nướng hoặc hạt dẻ rất hợp với nó. Hương xanh nhẹ và hậu vị đắng ngọt của nó cắt qua cảm giác nặng nề một cách sạch sẽ, nhưng với món tráng miệng ngọt, vị đắng nổi bật và xung đột.",
     "brewTip": "Chỉ dùng lá đã phơi khô và sao kỹ — không bao giờ dùng lá tươi.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà lá bạch quả eunhaeng ginkgo leaf tea lá"
@@ -4098,7 +4098,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nụ hoa và lá của dây kim ngân, phơi khô rồi hãm.",
     "story": "Được gọi là 'chịu đựng mùa đông' vì dây leo cứng cáp; nụ hoa, gọi là geumeunhwa, là một dược liệu.",
     "flavor": "Hương hoa dịu, vị ngọt nhẹ, nước trà trong.",
-    "pairing": "Uống riêng; uống đá cũng ngon vào mùa hè.",
+    "pairing": "Hãy uống một mình hoặc cùng các món ngọt thanh đạm như baekseolgi hoặc castella, và vào mùa hè uống đá rất tuyệt. Hương hoa dịu nhẹ và vị ngọt nhẹ của nó đủ tinh tế để không làm phiền món ăn vặt nhẹ, nhưng bên cạnh món nêm nếm đậm, nốt hoa sẽ bị mất đi.",
     "brewTip": "Nụ ngay trước khi nở có hương thơm nhất.",
     "keep": "Đậy kín và để khô — hoa mất hương nhanh.",
     "keywords": "trà kim ngân indong geumeunhwa honeysuckle trà hoa"
@@ -4114,7 +4114,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nhân sâm cắt lát mỏng, phơi khô rồi đem sắc.",
     "story": "Geumsan và Punggi là những vùng sâm nổi tiếng; mật ong hoặc táo tàu làm dịu vị đắng.",
     "flavor": "Vị đắng ngọt, hương đất, nước trà hổ phách nhạt.",
-    "pairing": "Uống riêng; cùng mật ong hoặc táo tàu.",
+    "pairing": "Hãy nhâm nhi chậm rãi một mình, hoặc cùng món ngọt bên cạnh — mật ong, táo tàu hoặc hồng khô. Vị ngọt làm tròn vị đắng ngọt và hương đất của nó, nhưng với bữa ăn thường ngày, hương nhân sâm sẽ che phủ món ăn, nên tốt hơn hãy để riêng.",
     "brewTip": "Lát càng mỏng càng dễ chiết xuất.",
     "keep": "Đậy kín, để khô và mát.",
     "keywords": "trà sâm ginseng tea insam nhân sâm Hàn Quốc rễ"
@@ -4130,7 +4130,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cánh hoa hồng hoa (safflower), phơi khô rồi hãm.",
     "story": "Từ lâu được dùng làm thuốc nhuộm đỏ và dược liệu; nước pha chuyển từ vàng sang cam.",
     "flavor": "Hương hoa và xanh nhẹ; nước trà vàng chuyển sang cam.",
-    "pairing": "Món tráng miệng và bánh ngọt nhẹ.",
+    "pairing": "Nó hợp với các món ngọt nhẹ như hwajeon, baekseolgi và thạch trái cây, đồng thời là trà tráng miệng tuyệt vời. Các nốt hoa và xanh nhẹ của nó không bao giờ làm phiền bánh gạo thanh đạm, và nước trà vàng trông đẹp trên bàn trà, nhưng sô cô la béo ngậy vùi lấp hương thơm của nó.",
     "brewTip": "Chỉ một ít cũng đủ lên màu đậm.",
     "keep": "Đậy kín và để khô; cánh hoa phai màu nghĩa là hương cũng phai.",
     "keywords": "trà hồng hoa honghwa safflower tea hoa đỏ"
@@ -4146,7 +4146,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Mận ngâm đường hoặc mật ong, siro khuấy vào nước.",
     "story": "Cheong được làm vào lúc mận mùa hè rộ nhất và thưởng thức như trà trái cây quanh năm.",
     "flavor": "Hương mận chua ngọt, nước trà hơi đỏ.",
-    "pairing": "Món tráng miệng và đồ uống mùa hè; thêm đá như một ly ade.",
+    "pairing": "Nó hợp với sữa chua, bánh phô mai và salad trái cây, và uống với đá như một ly ade nó làm tươi sáng các món tráng miệng mùa hè. Vị chua ngọt của mận cắt qua vị béo của món tráng miệng kem, nhưng trước cháo thanh đạm hoặc canh trong, vị chua của nó nổi bật lạc lõng, nên hãy để riêng.",
     "brewTip": "Thêm một ít quả ngâm cho hương thơm mạnh hơn.",
     "keep": "Bảo quản siro trong tủ lạnh; múc bằng muỗng sạch.",
     "keywords": "trà mận jadu plum tea cheong ade trái cây"
@@ -4162,7 +4162,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bưởi ngâm đường, siro khuấy vào nước.",
     "story": "Một loại trà trái cây cheong kiểu Hàn Quốc giống trà yuja, giữ lại vị đắng đặc trưng của bưởi.",
     "flavor": "Vị chua tươi sáng, hậu đắng, nước trà hồng nhạt.",
-    "pairing": "Món tráng miệng và bữa brunch; pha nước có ga thành ade.",
+    "pairing": "Nó phù hợp với bữa brunch gồm bánh pancake, bánh mì nướng kiểu Pháp (French toast) và salad trái cây, và pha với nước có ga nó trở thành một ly ade. Vị chua tươi sáng và hậu vị đắng của nó làm gọn các món brunch bơ béo, nhưng với các món tráng miệng sữa béo ngậy, vị chua sẽ tách rời lạc lõng.",
     "brewTip": "Quá nhiều cùi trắng sẽ đắng gắt khó chịu.",
     "keep": "Bảo quản siro trong tủ lạnh.",
     "keywords": "trà bưởi jamong grapefruit tea cheong cam chanh"
@@ -4178,7 +4178,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Ngô tím từ vùng Andes của Peru, phơi khô rồi ninh.",
     "story": "Ở quê nhà, nó làm nên thức uống gia vị chicha morada; ở Hàn Quốc, hạt và bột ngô đến như một loại trà.",
     "flavor": "Vị ngọt nhẹ, hương như quả mọng, ngũ cốc thơm nướng; nước trà tím đậm.",
-    "pairing": "Món tráng miệng và đồ uống mùa hè; thêm chanh sẽ chuyển sang đỏ.",
+    "pairing": "Nó hợp với bánh tart quả mọng, sữa chua và các món tráng miệng trái cây, đồng thời là đồ uống mùa hè mà bạn có thể ngắm nó chuyển sang màu đỏ khi vắt thêm chanh. Vị ngọt nhẹ và nốt quả mọng nằm trên nền ngũ cốc thơm rang tạo nên sự kết hợp cân bằng với món tráng miệng, nhưng với món cay, vị ngọt sẽ nổi bật hẳn lên.",
     "brewTip": "Ninh cả lõi ngô cho màu đậm hơn nhiều.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà ngô tím purple corn tea maiz morado chicha morada andes"
@@ -4194,7 +4194,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá tía tô tím phơi khô rồi hãm.",
     "story": "Cây họ bạc hà giống tía tô Hàn Quốc; giống mặt lá tím được dùng làm trà và dược liệu.",
     "flavor": "Hương tía tô đặc trưng, vị ngọt nhẹ, nước trà ánh tím.",
-    "pairing": "Bữa ăn và món nhiều dầu mỡ; cũng ngon với siro mận.",
+    "pairing": "Nó hợp với các món béo như thịt ba chỉ nướng và đồ chiên rán, và một chút siro mận hòa quyện vào hương thơm của nó. Hương thơm đặc trưng của tía tô đè xuống vị dầu mỡ và làm mới miệng, nhưng nó va chạm với các loại bánh ngọt hương hoa tinh tế, nên hãy thưởng thức chúng riêng.",
     "brewTip": "Vài giọt siro mận làm màu chuyển đỏ rực.",
     "keep": "Đậy kín và để khô — trà lá mất hương nhanh.",
     "keywords": "trà tía tô jaso perilla shiso trà lá tím"
@@ -4210,7 +4210,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Đậu kiếm cắt lát, rang rồi pha.",
     "story": "Loại đậu có quả dài như lưỡi kiếm; quả non và hạt được phơi khô rồi rang.",
     "flavor": "Hương đậu bùi, vị ngọt nhẹ, nước trà trong.",
-    "pairing": "Bữa ăn, hoặc uống thay nước; uống đá cũng ngon.",
+    "pairing": "Nó có thể thay thế nước bên cạnh bữa ăn thường ngày gồm cơm và canh, và vẫn giữ hương bùi ngay cả khi uống đá. Hương đậu rang và vị ngọt nhẹ của nó thoải mái đi cùng bất kỳ món phụ Hàn Quốc nào, nhưng bên cạnh món tráng miệng trái cây chua, hương bùi bị vùi lấp, nên hãy uống riêng.",
     "brewTip": "Đậu rang chưa tới sẽ có mùi tanh đậu — hãy chọn loại rang kỹ.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà đậu kiếm jakdu sword bean tea đậu rang"
@@ -4226,7 +4226,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Cánh hoa mẫu đơn phơi khô rồi hãm.",
     "story": "Rễ là dược liệu lâu đời; những bông hoa sum suê được thưởng thức như trà hoa.",
     "flavor": "Hương hoa dịu, vị ngọt nhẹ, cánh hoa nở trong nước trà trong.",
-    "pairing": "Món tráng miệng và bánh ngọt; rất đẹp trong ấm thủy tinh.",
+    "pairing": "Hãy pha trong ấm thủy tinh và ngắm những cánh hoa nở ra; nó hợp với các món ngọt nhẹ như baekseolgi, hwajeon và thạch trái cây. Hương hoa dịu nhẹ và vị ngọt nhẹ của nó không bao giờ làm phiền các món ngọt thanh đạm, nhưng bên cạnh món nêm nếm đậm, hương thơm tinh tế sẽ biến mất.",
     "brewTip": "Pha trong ấm thủy tinh để ngắm cánh hoa bung nở.",
     "keep": "Đậy kín và để khô — cánh hoa mất hương nhanh.",
     "keywords": "trà mẫu đơn jagyak peony tea trà hoa hoa nở"
@@ -4242,7 +4242,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ sa sâm (adenophora), phơi khô rồi đem sắc.",
     "story": "Được gọi là sasam, 'sâm cát', vì mọc trên đất cát; họ hàng với hoa chuông như cát cánh.",
     "flavor": "Vị ngọt thơm nướng, hương đất, nước trà nâu nhạt.",
-    "pairing": "Uống riêng hoặc cùng món ăn thanh đạm.",
+    "pairing": "Nó phù hợp với bữa ăn thanh đạm gồm rau xanh, canh trong và cháo, đồng thời thoải mái khi uống một mình. Vị ngọt thơm rang và hương đất của nó chia sẻ tính dịu nhẹ của các món nhẹ, nhưng bên cạnh món tráng miệng quá ngọt, hương rang sẽ bị che lấp.",
     "brewTip": "Rang trước khi ninh sẽ thêm hương nướng.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà sa sâm jandae sasam adenophora trà rễ"
@@ -4258,7 +4258,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Măng non cắt lát, phơi khô, rang rồi hãm.",
     "story": "Damyang nổi tiếng về tre và măng; măng theo mùa được phơi khô để dùng dần.",
     "flavor": "Hương xanh thanh đạm, vị rang sâu, nước trà trong.",
-    "pairing": "Bữa ăn và món nhẹ.",
+    "pairing": "Nó hợp với các món thanh đạm như măng xào, rau trộn và nước dùng trong, đồng thời dễ dàng ngồi bên cạnh bữa ăn thường ngày. Hương xanh dịu với chiều sâu thơm rang của nó hợp với các món phụ nhẹ nhàng, nhưng bên cạnh món nêm nếm đậm, sự trong trẻo của nó bị vùi lấp.",
     "brewTip": "Tráng nhanh măng khô trước cho vị sạch hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà măng juksun bamboo shoot tea damyang"
@@ -4274,7 +4274,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ địa hoàng đem sắc.",
     "story": "Nó có dạng rễ khô sống, hoặc sukjihwang — hấp và phơi chín lần cho đến khi đen và ngọt đậm.",
     "flavor": "Rễ hấp: ngọt sâu và đậm vị; rễ sống: đắng và mát.",
-    "pairing": "Uống riêng, uống ấm vào buổi tối.",
+    "pairing": "Hãy hâm ấm vào buổi tối và uống một mình, hoặc cùng món ăn vặt ngọt đơn giản như hồng khô, táo tàu hoặc hạt dẻ. Vị ngọt sâu và độ nặng của rễ hấp chảy vào món ăn vặt, và vị đắng của rễ sống được nó làm tròn, nhưng độ nặng của trà không hòa hợp với salad nhẹ.",
     "brewTip": "Rễ hấp pha rất đậm — dùng ít lại một chút.",
     "keep": "Đậy kín, để khô và mát.",
     "keywords": "trà địa hoàng jihwang sukjihwang rehmannia trà rễ"
@@ -4290,7 +4290,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Mè rang xay nhuyễn khuấy vào nước nóng; bột tạo nên độ sánh cho tách trà.",
     "story": "Xay hạt rang thật mịn rồi khuấy vào nước nóng; để yên sẽ bị lắng.",
     "flavor": "Vị bùi rang sâu, chất dầu mềm, vị ngọt nhẹ.",
-    "pairing": "Bữa ăn, bánh gạo, mùa đông.",
+    "pairing": "Nó hợp với các loại bánh gạo như injeolmi và gyeongdan, và bên cạnh bữa ăn mùa đông, hương bùi của nó nhân đôi. Vị béo của vừng rang và thân vị dầu mềm hòa quyện với độ dẻo của bánh gạo tạo nên món ăn vặt thỏa mãn, nhưng với trái cây chua, vị dầu sẽ tách rời lạc lõng.",
     "brewTip": "Khuấy trong khi uống — bột sẽ lắng xuống.",
     "keep": "Đậy kín và để mát; dầu dễ hôi nếu để nơi ấm.",
     "keywords": "trà mè chamkkae sesame tea Hàn Quốc bùi"
@@ -4306,7 +4306,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Dưa lê cắt lát mỏng, phơi khô rồi hãm; một loại trà trái cây ngọt nhẹ.",
     "story": "Phơi lát dưa thật khô để giữ được lâu; hãm từ bốn phút trở lên.",
     "flavor": "Vị ngọt dưa dịu và hậu vị sạch.",
-    "pairing": "Mùa hè, đồ ăn nhẹ, sau bữa ăn.",
+    "pairing": "Sau bữa ăn mùa hè, nó sảng khoái cùng punch trái cây, thạch hoặc salad nhẹ, và cũng dễ uống một mình. Vị ngọt dịu của dưa và hậu vị sạch sẽ làm mới miệng vào ngày nóng, nhưng bên cạnh món nước dùng béo đậm, sự trong trẻo của nó biến mất.",
     "brewTip": "Ướp lạnh, vị ngọt càng thêm thanh sạch.",
     "keep": "Giữ dưa khô đậy kín và khô ráo.",
     "keywords": "trà dưa lê chamoe oriental melon tea Hàn Quốc mùa hè"
@@ -4322,7 +4322,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ và lá xương bồ phơi khô rồi sắc; hương thơm rất mạnh.",
     "story": "Một phong tục ngày lễ Dano ở Hàn Quốc, nơi nước xương bồ đánh dấu lễ hội đầu hè.",
     "flavor": "Hương xanh mát với chút cay nhẹ, hậu vị sạch.",
-    "pairing": "Lễ hội Dano, sau bữa ăn, mùa hè.",
+    "pairing": "Theo truyền thống, nó được dùng vào lễ Đoan Ngọ (Dano) cùng các loại bánh gạo theo mùa như bánh surichwi tteok, và nó cũng mát lạnh sau bữa ăn mùa hè. Hương xanh mát với chút gia vị của nó nâng đỡ sự thanh đạm của bánh gạo và làm mới miệng, nhưng nó không hòa hợp với các món tráng miệng quá ngọt.",
     "brewTip": "Hương rất mạnh; sắc nhạt sẽ dễ uống hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà xương bồ changpo sweet flag tea Dano Hàn Quốc"
@@ -4338,7 +4338,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quýt Jeju chưa chín cắt lát và ngâm đường thành mứt để pha trà.",
     "story": "Xanh hơn trà quýt chín, với vị cam chanh sắc hơn.",
     "flavor": "Vị chua tươi sáng, hương vỏ, rồi đến vị ngọt.",
-    "pairing": "Món tráng miệng, mùa đông, sau bữa ăn.",
+    "pairing": "Sau bữa ăn mùa đông, nó tươi sáng bên cạnh bánh phô mai, sữa chua hoặc các món tráng miệng quýt, và uống ấm nó mang lại cảm giác ấm cúng. Vị chua trong trẻo và hương vỏ của nó cắt qua vị béo của món tráng miệng kem trong khi vị ngọt theo sau khôi phục cân bằng, nhưng trước cháo thanh đạm, vị chua nổi bật lạc lõng.",
     "brewTip": "Pha vào nước có ga sẽ thành ade quýt xanh.",
     "keep": "Bảo quản mứt trong tủ lạnh; dùng muỗng sạch.",
     "keywords": "trà quýt xanh cheonggyul green tangerine tea Jeju cam chanh"
@@ -4354,7 +4354,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả dành dành khô đem sắc; nước trà vàng trong.",
     "story": "Cũng là quả dùng để tạo màu cho củ cải muối và các món ăn ngày lễ.",
     "flavor": "Vị đắng nhẹ, hương đất, nước trà vàng trong.",
-    "pairing": "Bữa ăn, món nhiều dầu mỡ.",
+    "pairing": "Nó hợp với các món xào béo hoặc bánh chiên mặn và vừa vặn với bữa ăn thường ngày mà không cầu kỳ. Vị đắng nhẹ của nó nhẹ nhàng cắt vị dầu mỡ và nốt hương đất hòa quyện vào hương vị món ăn, nhưng với món tráng miệng ngọt, vị đắng nổi bật và xung đột.",
     "brewTip": "Đun lâu sẽ đắng; hãy canh thời gian.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà dành dành chija gardenia fruit tea Hàn Quốc vàng"
@@ -4370,7 +4370,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ rau diếp xoăn rang hãm trong nước nóng; đắng và hương đất như cà phê.",
     "story": "Một chất thay thế cà phê của châu Âu với lịch sử lâu đời ở Pháp.",
     "flavor": "Vị đắng rang, hương đất, hậu vị như cà phê.",
-    "pairing": "Buổi sáng, bữa ăn, sữa.",
+    "pairing": "Vào buổi sáng cùng bánh mì nướng, trứng và thịt xông khói, nó thay thế tốt cho cà phê, và sữa làm nó dịu đi. Vị đắng của rễ rang và hậu vị tựa cà phê hợp với vị đậm đà của bữa sáng, nhưng bên cạnh các loại bánh ngọt hương hoa tinh tế, vị đắng sẽ nổi bật, nên hãy thưởng thức riêng.",
     "brewTip": "Thêm sữa uống như một ly latte.",
     "keep": "Đậy kín và để khô; rễ rang dễ hút mùi.",
     "keywords": "trà rễ rau diếp xoăn chicory root tea thay thế cà phê không caffeine"
@@ -4386,7 +4386,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả chỉ cắt lát và ngâm đường thành mứt để pha nước nóng.",
     "story": "Quá chua và đắng để ăn tươi, quả này hợp làm trà ngâm đường.",
     "flavor": "Vị chua mạnh, rìa vị đắng, hương vỏ cam chanh.",
-    "pairing": "Mùa đông, món tráng miệng, sau bữa ăn.",
+    "pairing": "Sau bữa ăn mùa đông, hãy uống cùng một chút mật ong hoặc bên cạnh món ăn vặt ngọt như hồng khô hoặc yakgwa. Vị ngọt đè xuống vị chua và đắng mạnh trong khi hương vỏ cam quýt lưu lại tươi sáng, nhưng với món thanh đạm, vị chua sẽ che phủ mọi thứ.",
     "brewTip": "Trà này rất chua; cân bằng bằng thêm mứt hoặc mật ong.",
     "keep": "Bảo quản mứt trong tủ lạnh.",
     "keywords": "trà taengja trifoliate orange tea Hàn Quốc mùa đông"
@@ -4402,7 +4402,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Khoai môn cắt lát phơi khô rồi sắc; mềm và ngọt dịu.",
     "story": "Một loại trà củ từ thực phẩm chính mùa thu, sánh nhẹ dần khi đun.",
     "flavor": "Chất bột mềm, vị bùi, vị ngọt nhẹ.",
-    "pairing": "Bữa ăn, mùa thu, đồ ăn nhẹ.",
+    "pairing": "Bên cạnh bữa ăn mùa thu, nó hợp với canh khoai môn, bánh gạo nướng hoặc hạt dẻ. Thân vị tinh bột mềm và hương bùi của nó tiếp nối sự thanh đạm của các món rau củ rễ tạo nên tách trà ấm cúng, nhưng với trái cây chua, vị tinh bột sẽ tách rời lạc lõng, nên hãy uống riêng.",
     "brewTip": "Đun sôi làm tinh bột tiết ra và nước sánh lại; điều chỉnh thời gian cho phù hợp.",
     "keep": "Giữ khoai môn khô đậy kín và khô ráo.",
     "keywords": "trà khoai môn toran taro tea Hàn Quốc củ"
@@ -4418,7 +4418,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Dứa ngâm đường thành mứt rồi khuấy vào nước nóng.",
     "story": "Ngọt và thơm; uống lạnh với nước có ga cũng ngon.",
     "flavor": "Vị ngọt sâu, hương dứa, rìa vị chua.",
-    "pairing": "Món tráng miệng, mùa hè, trà đá.",
+    "pairing": "Uống với đá thành trà đá, nó phù hợp với các món tráng miệng mùa hè, đồng thời làm tươi sáng sữa chua, salad trái cây và thạch. Vị chua theo sau vị ngọt sâu của nó cắt qua cạnh ngấy của món tráng miệng ngọt, nhưng bên cạnh bữa ăn thanh đạm, vị ngọt nổi bật hẳn lên và che phủ món ăn.",
     "brewTip": "Uống lạnh, nó như một ly ade trái cây.",
     "keep": "Bảo quản mứt trong tủ lạnh.",
     "keywords": "trà dứa pineapple tea mứt trái cây ade"
@@ -4434,7 +4434,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Đậu đỏ rang pha như trà ngũ cốc; bùi và thanh đạm.",
     "story": "Đun sôi thay vì hãm cho tách trà sâu và đậm màu hơn.",
     "flavor": "Vị bùi ngũ cốc rang, chất nước thanh đạm, vị ngọt nhẹ.",
-    "pairing": "Bữa ăn, mùa đông, cháo đậu đỏ.",
+    "pairing": "Nó hợp với cháo đậu đỏ, bánh gạo đậu đỏ và các món tráng miệng đậu đỏ ngọt, và bên cạnh bữa ăn mùa đông, hương thơm rang của nó xuyên suốt. Hương bùi thanh đạm của ngũ cốc rang chia sẻ tính cách của các món đậu đỏ, nhưng bên cạnh trái cây chua nó bị vùi lấp, nên hãy uống riêng.",
     "brewTip": "Đun sôi làm màu và hương đậm hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà đậu đỏ azuki pat red bean tea Hàn Quốc ngũ cốc"
@@ -4450,7 +4450,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Nho ngâm đường thành mứt rồi khuấy vào nước nóng.",
     "story": "Thơm và ngọt; vỏ nho làm màu thêm đậm.",
     "flavor": "Vị ngọt và hương nho với chút chua nhẹ.",
-    "pairing": "Món tráng miệng, mùa hè, sau bữa ăn.",
+    "pairing": "Sau bữa ăn mùa hè, nó tươi sáng cùng bánh tart trái cây, sữa chua và thạch, và uống lạnh nó càng mát hơn. Vị ngọt và chua nhẹ của nho cân bằng các món tráng miệng nhẹ, nhưng với món tráng miệng kem béo ngậy, vị ngọt nhân đôi và có thể gây ngấy, nên hãy giữ khẩu phần vừa phải.",
     "brewTip": "Pha vào nước có ga sẽ thành ade nho.",
     "keep": "Bảo quản mứt trong tủ lạnh.",
     "keywords": "trà nho podo grape tea Hàn Quốc trái cây"
@@ -4466,7 +4466,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hallabong Jeju cắt lát và ngâm đường thành mứt để pha nước nóng.",
     "story": "Đậm và tròn vị hơn trà quýt thường, với hương vỏ sâu.",
     "flavor": "Hương cam chanh và vị ngọt sâu, vị chua mềm.",
-    "pairing": "Mùa đông, món tráng miệng, sau bữa ăn.",
+    "pairing": "Sau bữa ăn mùa đông, nó thật đáng yêu và ấm áp bên cạnh bánh phô mai, sữa chua hoặc các món tráng miệng cam quýt. Hương cam quýt sâu và vị chua mềm của nó nhẹ nhàng cắt qua vị béo của món tráng miệng kem, nhưng trước canh trong thanh đạm, vị chua nổi bật lạc lõng, nên hãy để riêng.",
     "brewTip": "Mứt có cả vỏ rất đậm; điều chỉnh lượng cho phù hợp.",
     "keep": "Bảo quản mứt trong tủ lạnh.",
     "keywords": "trà hallabong hallabong tea Jeju cam chanh mứt"
@@ -4482,7 +4482,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hạt hướng dương rang hãm trong nước nóng; bùi và dịu.",
     "story": "Đun sôi rút được nhiều hơn từ hạt cứng so với hãm.",
     "flavor": "Vị bùi hạt rang với vị ngọt dầu nhẹ.",
-    "pairing": "Đồ ăn nhẹ, sau bữa ăn, mùa đông.",
+    "pairing": "Làm bạn đồng hành ăn vặt, nó hợp với các loại hạt, bánh gạo và bánh mì nướng, và sau bữa ăn mùa đông nó mang lại cảm giác no đủ. Hương bùi của hạt rang và vị ngọt dầu nhẹ tiếp nối hương vị của các món ăn vặt nướng một cách thỏa mãn, nhưng với trái cây chua, vị dầu sẽ tách rời lạc lõng.",
     "brewTip": "Hạt rang cả vỏ cho nhiều hơn khi đun sôi.",
     "keep": "Đậy kín và để mát; chú ý phần dầu.",
     "keywords": "trà hạt hướng dương haebaragi sunflower seed tea Hàn Quốc bùi"
@@ -4498,7 +4498,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Thuật ngữ chung cho nước hãm từ thảo mộc khô — bạc hà, cúc La Mã, tía tô đất và nhiều loại nữa.",
     "story": "Khác với trà thật, trà thảo mộc không chứa caffeine và mỗi loại thảo mộc pha một kiểu khác nhau.",
     "flavor": "Thay đổi theo loại thảo mộc; hương xanh và hoa là chủ đạo.",
-    "pairing": "Sau bữa ăn, buổi tối, món tráng miệng.",
+    "pairing": "Sau bữa ăn hoặc vào buổi tối, nó hợp với bánh quy nhẹ, bánh biscuit và trái cây, đồng thời cũng thích hợp làm trà tráng miệng. Với các nốt xanh và hoa dẫn đầu, nó đủ dịu nhẹ để gần như không xung đột với món ăn vặt nào, nhưng bên cạnh món nêm nếm đậm, hương thảo mộc sẽ bị mất đi.",
     "brewTip": "Mỗi loại thảo mộc khác nhau; khoảng năm phút giữ được hương thơm.",
     "keep": "Đậy kín và để khô — hương thơm phai nhanh.",
     "keywords": "trà thảo mộc herb tea tisane bạc hà cúc La Mã chamomile"
@@ -4514,7 +4514,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Quả khúng khéng phơi khô rồi sắc trong nước; tách trà ngọt dịu và hương gỗ.",
     "story": "Ở Hàn Quốc, nó từ lâu được sắc tại nhà, thường cho buổi sáng sau khi uống rượu.",
     "flavor": "Vị ngọt dịu, hương gỗ, hậu vị mềm.",
-    "pairing": "Bữa ăn, buổi sáng sau khi uống rượu.",
+    "pairing": "Theo truyền thống, nó được uống vào buổi sáng sau khi uống rượu, cùng cháo hoặc canh giải rượu, đồng thời cũng vừa vặn với bữa ăn thường ngày. Vị ngọt dịu và nốt gỗ của nó chia sẻ tính dịu nhẹ của món ăn buổi sáng và trôi xuống mềm mại, nhưng với món tráng miệng ngọt, vị ngọt nhân đôi, nên hãy để riêng.",
     "brewTip": "Để nguội uống cũng ngon.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà khúng khéng heotgae raisin tree tea Hàn Quốc nước sắc"
@@ -4530,7 +4530,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Lá và bông kinh giới khô đem hãm; mát và hương bạc hà.",
     "story": "Một vị thuốc Hàn Quốc từ lâu dùng trong nước sắc, nay dùng như trà nhẹ.",
     "flavor": "Cảm giác mát như bạc hà, hương xanh, chút cay nhẹ.",
-    "pairing": "Sau bữa ăn, mùa hè.",
+    "pairing": "Sau bữa ăn mùa hè, nó hợp với các món mát như mì lạnh hoặc thạch đậu xanh, và uống một mình nó cũng sảng khoái. Cảm giác mát tựa bạc hà và chút gia vị của nó làm mới miệng, nhưng với đồ uống sữa ấm, hương mát sẽ không hòa hợp, nên hãy để chúng riêng.",
     "brewTip": "Đậy nắp khi hãm; hương thơm dễ bay mất.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà kinh giới hyeonggae schizonepeta tea Hàn Quốc thảo mộc"
@@ -4546,7 +4546,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Óc chó xay khuấy vào nước nóng; béo và bùi.",
     "story": "Đôi khi được sắc cùng táo tàu và gừng trong các gia đình Hàn Quốc.",
     "flavor": "Vị bùi sâu, chất dầu mềm, vị ngọt nhẹ.",
-    "pairing": "Mùa đông, đồ ăn nhẹ, bữa ăn.",
+    "pairing": "Làm món ăn vặt mùa đông cùng bánh gạo, bánh mì nướng hoặc phô mai, nó mang lại cảm giác no đủ, đồng thời cũng phù hợp với bữa ăn. Hương bùi sâu và độ mềm dầu của nó hòa quyện với các món ăn vặt nướng tạo nên miếng ăn thỏa mãn, nhưng với trái cây chua, vị béo sẽ tách rời lạc lõng, nên hãy thưởng thức riêng.",
     "brewTip": "Khuấy trong khi uống; phần bột sẽ lắng xuống.",
     "keep": "Bảo quản óc chó xay trong tủ lạnh và dùng sớm.",
     "keywords": "trà óc chó hodu walnut tea Hàn Quốc bùi"
@@ -4562,7 +4562,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Bí đỏ chín cắt lát, phơi khô rồi sắc; ngọt tự nhiên.",
     "story": "Một loại trà trữ mùa đông từ loại rau quen thuộc của Hàn Quốc.",
     "flavor": "Vị ngọt bí đỏ với chất bột mềm.",
-    "pairing": "Bữa ăn, mùa đông, đồ ăn nhẹ.",
+    "pairing": "Nó hợp với cháo bí ngô, bánh gạo bí ngô và khoai lang nướng, đồng thời thêm ấm cúng cho bữa ăn hoặc món ăn vặt mùa đông. Vị ngọt của bí ngô và thân vị tinh bột mềm chảy tự nhiên vào các món cùng nguyên liệu, nhưng với trái cây chua, vị ngọt và vị chua sẽ đi hai đường riêng.",
     "brewTip": "Sắc lâu hơn sẽ ngọt hơn.",
     "keep": "Giữ bí khô đậy kín và khô ráo.",
     "keywords": "trà bí đỏ hobak pumpkin tea Hàn Quốc ngọt"
@@ -4578,7 +4578,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Hồng sâm — nhân sâm hấp và phơi khô — đem sắc hoặc dùng dạng chiết xuất pha nước nóng.",
     "story": "Quá trình hấp làm rễ chuyển màu nâu đỏ và làm sâu thêm vị đắng ngọt.",
     "flavor": "Đắng trước, rồi ngọt và hương đất, hậu vị dài.",
-    "pairing": "Buổi sáng, mùa đông, mật ong.",
+    "pairing": "Vào buổi sáng hoặc mùa đông, hãy uống cùng một chút mật ong; món ăn vặt ngọt như hồng khô hoặc táo tàu cũng hợp với nó. Mật ong đè xuống vị đắng trong khi hương đất và hậu vị dài mở ra chậm rãi, nhưng với bữa ăn thường ngày, hương hồng sâm sẽ che phủ món ăn.",
     "brewTip": "Một chút mật ong làm dịu vị đắng.",
     "keep": "Đậy kín, để mát và khô.",
     "keywords": "trà hồng sâm hongsam red ginseng tea Hàn Quốc"
@@ -4594,7 +4594,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Rễ hoàng kỳ khô sắc trong nước; ngọt dịu và hương đất.",
     "story": "Quen thuộc từ món samgyetang (gà hầm sâm), rễ này cũng đứng một mình thành trà.",
     "flavor": "Vị ngọt dịu, vị bùi như đậu, hương đất mềm.",
-    "pairing": "Bữa ăn, samgyetang, mùa hè.",
+    "pairing": "Theo truyền thống, nó được dùng cùng samgyetang (gà hầm sâm) và phù hợp với bữa ăn mùa hè hoặc bữa ăn thường ngày. Vị ngọt dịu và hương bùi tựa đậu của nó chia sẻ tính thanh đạm của các món gà, nhưng bên cạnh món tráng miệng ngọt, hương bùi bị che lấp, nên hãy uống riêng.",
     "brewTip": "Sắc cùng táo tàu cho thêm vị ngọt.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà hoàng kỳ hwanggi astragalus tea Hàn Quốc rễ"
@@ -4610,7 +4610,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Vỏ hậu phác khô sắc trong nước; đắng và thơm.",
     "story": "Một loại vỏ cây làm thuốc của Hàn Quốc, ở đây pha thành trà thảo mộc đậm.",
     "flavor": "Vị đắng, hương gỗ, hậu hơi cay.",
-    "pairing": "Bữa ăn, món nhiều dầu mỡ.",
+    "pairing": "Nó hợp với các món thịt béo và món xào. Vị đắng và hương gỗ của nó đè xuống vị dầu mỡ trong khi hậu vị hơi cay làm mới miệng, nhưng với món tráng miệng ngọt, vị đắng nổi bật và xung đột.",
     "brewTip": "Trà này đắng; sắc nhạt sẽ dễ uống hơn.",
     "keep": "Đậy kín và để khô.",
     "keywords": "trà hậu phác hubak magnolia bark tea Hàn Quốc"
@@ -4626,7 +4626,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Tiêu đen xay đun trong nước; nóng và cay nồng.",
     "story": "Một loại trà gia vị uống trong những tách nhỏ, đậm, đôi khi thêm mật ong.",
     "flavor": "Vị cay nồng, hương gia vị, hậu vị ngắn và sắc.",
-    "pairing": "Mùa đông, bữa ăn, mật ong.",
+    "pairing": "Hãy dùng cùng bữa ăn mùa đông hoặc với một chút mật ong, bên cạnh các món thịnh soạn như thịt nướng hoặc món hầm. Vị cay nồng và hương gia vị của nó đánh thức vị giác giữa các miếng món béo, nhưng với món tráng miệng tinh tế, vị cay sẽ che phủ mọi hương thơm khác.",
     "brewTip": "Chỉ một ít cũng rất mạnh; điều chỉnh lượng cẩn thận.",
     "keep": "Đậy kín và để khô — hương thơm sẽ phai.",
     "keywords": "trà tiêu đen huchu black pepper tea gia vị"
@@ -4642,7 +4642,7 @@ window.TEAFaiDataVi = (function () {
     "process": "Mười vị thuốc kết hợp bốn vị của Tứ Quân Tử Thang và bốn vị của Tứ Vật Thang với hoàng kỳ và quế — thành phần chuẩn của đơn thuốc phòng khám và bộ thảo dược bán tại tiệm.",
     "story": "Túi pha sẵn chỉ cần hâm nóng; với bộ thảo dược, thêm táo tàu và gừng sẽ làm dịu hương vị.",
     "flavor": "Thảo dược đắng ngọt được làm mềm bởi vị ngọt dịu của cam thảo và vị cay ấm của quế.",
-    "pairing": "Những ngày lạnh khi muốn làm ấm người, và các món ngọt truyền thống như tteok và yakgwa.",
+    "pairing": "Theo truyền thống, nó được hâm ấm vào những ngày lạnh và dùng cùng các loại bánh ngọt truyền thống như bánh gạo, yakgwa và hồng khô. Vị đắng của các vị thuốc được cam thảo và bánh ngọt làm dịu đi, trong khi vị cay ấm của quế hòa quyện vào, nhưng hương thơm nặng của nó không hòa hợp với các món nhẹ như salad.",
     "brewTip": "Đun sôi lên, rồi ninh nhỏ lửa thật lâu cho đậm vị; một chút mật ong làm tròn vị thảo dược.",
     "keep": "Giữ thảo dược đậy kín, nơi mát và khô; nước sắc bảo quản tủ lạnh và uống trong vài ngày.",
     "keywords": "thập toàn đại bổ thang sipjeon daebotang shiquan dabu tang trà bổ thảo dược Hàn Quốc nước sắc nhân sâm hoàng kỳ"

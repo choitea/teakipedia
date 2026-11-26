@@ -18,7 +18,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai dalam wajan → penggulungan → pengeringan. Panas wajan menghentikan enzim dan telapak tangan mempres daun hingga pipih.",
     "story": "Tradisi mengatakan Kaisar Qianlong, saat mencicipi teh di Danau Barat, menganugerahkan delapan belas semak di tepi danau sebagai pohon teh kekaisaran — gelar yang masih dipertahankan.",
     "flavor": "Kedelai sangrai, kastanye dan almond, manis ringan, sepat samar di akhir. Air seduhannya hijau muda pucat.",
-    "pairing": "Udang Longjing, ikan kukus, tahu, bubur. Hidangan penutup yang kaya krim tidak cocok dengannya.",
+    "pairing": "Udang Longjing, ikan putih kukus, tahu, bubur, dan sayuran tumis ringan sangat cocok dengannya. Nuansa kedelai sangrai dan kastanye-nya berpadu dengan hidangan laut yang lembut tanpa bertabrakan, dan sepat samar di akhir membuat mulut terasa segar. Hindari hidangan penutup yang kaya krim, karena akan menutupi aromanya yang halus.",
     "brewTip": "Air dulu, baru daunnya: daun tenggelam perlahan dan aromanya membuka seiring tenggelamnya.",
     "keep": "Dalam sebulan setelah dibuka. Simpan tertutup rapat di kulkas dan keluarkan dalam keadaan tertutup agar embun tidak menempel pada daun."
   },
@@ -33,7 +33,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai wajan → penggulungan → pengeringan, dengan daun digosok di telapak tangan menjadi gulungan seperti siput.",
     "story": "Nama pertamanya berarti “aroma yang mengagetkan”; Kaisar Kangxi konon menganggapnya kurang halus dan menamainya Biluochun.",
     "flavor": "Persik dan aprikot, kelembutan creamy, manis sejuk di akhir.",
-    "pairing": "Ikan putih, bubur, hidangan penutup buah, kacang-kacangan. Makanan pedas menghapus aromanya.",
+    "pairing": "Sashimi ikan putih, bubur bening, hidangan penutup persik atau aprikot, serta kacang-kacangan seperti kacang pinus dan kenari cocok dengannya. Aroma buah dan teksturnya yang lembut menonjol di atas makanan ringan, dan rasa manis sejuk di akhir membersihkan mulut. Hindari makanan pedas, yang akan menghapus aromanya yang halus.",
     "brewTip": "Tuangkan air 70–75 °C terlebih dahulu, lalu tambahkan daun. Pindahkan air mendidih ke cangkir lain untuk mendinginkannya.",
     "keep": "Enam bulan sejak produksi, sebulan setelah dibuka. Kantong aluminium tertutup rapat di laci sayur kulkas."
   },
@@ -48,7 +48,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan, daun dipres ringan hingga kuning-hijau dengan bulu putihnya tetap utuh.",
     "story": "Teh terkenal yang relatif muda, mapan di sekitar Huangshan sejak 1890-an; pucuk sebelum Qingming disebut “hati teratai.”",
     "flavor": "Nuansa sangrai lembut dengan kesegaran anggrek, dan umami yang bertahan lama.",
-    "pairing": "Hidangan ayam, bubur, sayuran liar, biji ginkgo. Makanan ringan lebih cocok daripada hidangan kaya rasa.",
+    "pairing": "Hidangan ayam rebus, bubur, sayuran hijau rebus sebentar, dan sate biji ginkgo cocok dengannya. Nuansa sangrai yang lembut dan kesegaran anggreknya tidak pernah menenggelamkan bahan yang ringan, sementara umami yang panjang mengangkat makanan yang sederhana. Hindari gorengan berminyak, yang menekan aromanya yang menyegarkan.",
     "brewTip": "Daunnya halus, jadi seduhannya singkat. Jangan melebihi 1½ menit pada 80 °C.",
     "keep": "Sebulan setelah dibuka, tertutup rapat dan dingin. Simpan di laci sayur agar tidak menyerap bau."
   },
@@ -63,7 +63,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pengukusan → penggulungan → pengeringan. Daun tanpa naungan dikukus untuk menghentikan enzim.",
     "story": "Pengukusan datang dari Tiongkok pada periode Muromachi dan bertahan di Jepang sebagai sencha; kini sekitar 60% konsumsi teh hijau Jepang.",
     "flavor": "Rumput laut dan rumput yang baru dipotong, umami asam amino yang gurih, sepat ringan di akhir. Air seduhannya kuning-hijau.",
-    "pairing": "Onigiri, sushi, tempura, nasi asin. Lebih cocok dengan camilan asin daripada hidangan penutup manis.",
+    "pairing": "Onigiri, sushi, tempura, dan ikan panggang garam sangat cocok dengannya. Aroma mirip rumput laut dan umami asam aminonya mendukung nasi dan ikan, sementara sepat ringan di akhir memotong minyak tempura. Teh ini jauh lebih cocok dengan camilan asin daripada hidangan penutup manis.",
     "brewTip": "Didihkan, lalu dinginkan hingga 70 °C sebelum dituang. Pada 80 °C sepatnya melonjak.",
     "keep": "Sebulan setelah dibuka. Tertutup rapat dan dingin, idealnya dibagi-bagi dan dibekukan."
   },
@@ -78,7 +78,7 @@ window.TEAFaiDataId = (function () {
     "process": "Naungan selama 20 hari atau lebih → kukus → gulung → keringkan. Naungan menaikkan asam amino dan menurunkan katekin.",
     "story": "Pada 1835 petani Uji Yamamoto Yamakichi menyebarkan metode naungan; nama “embun giok” berasal dari umaminya yang dalam.",
     "flavor": "Umami dalam seperti miso dan dashi, tekstur creamy, hampir tanpa sepat.",
-    "pairing": "Teh untuk diminum sendiri. Jika dengan sesuatu, buah kering atau kue beras tawar.",
+    "pairing": "Gyokuro adalah teh untuk dinikmati perlahan-lahan apa adanya, jadi paling baik tanpa makanan. Jika ingin dipadukan, pilih rasa yang tenang seperti buah kering, kue beras putih polos, atau kerupuk rumput laut. Umami miso dan dashi yang dalam serta teksturnya yang lembut adalah bintang utamanya, dan makanan berbumbu kuat akan menutupi kedalaman itu.",
     "brewTip": "55 °C — air hangat-hangat kuku. Air yang lebih panas menghadirkan sepat, bukan umami.",
     "keep": "Aromanya cepat memudar; terbaik dalam tiga minggu setelah dibuka. Bagi dan bekukan."
   },
@@ -93,7 +93,7 @@ window.TEAFaiDataId = (function () {
     "process": "Naungan → kukus → keringkan → buang tangkai → gilingan batu. Bubuknya adalah seluruh daun.",
     "story": "Teh kocok dinasti Song mencapai Jepang dan menjadi matcha; satu gilingan batu hanya menggiling sekitar 40 g per jam.",
     "flavor": "Umami dalam di bawah busa creamy, tepi pahit di akhir. Hijau mencolok.",
-    "pairing": "Wagashi, yokan, matcha latte, es krim vanila.",
+    "pairing": "Wagashi, yokan, hidangan penutup kacang merah, dan es krim vanila sangat cocok dengannya. Rasa manis melembutkan umami yang dalam dan tepi pahitnya, dan busa lembutnya menyamai tekstur kacang merah dan vanila. Sebagai matcha latte, teh ini seimbang dengan baik bersama kue panggang yang sedikit manis.",
     "brewTip": "Air di bawah 80 °C. Air mendidih hanya menyisakan pahit. Ayak sekali untuk memecah gumpalan.",
     "keep": "Cepat teroksidasi: dua hingga tiga minggu setelah dibuka. Bekukan dalam keadaan tertutup dan jangan pernah membukanya pada suhu ruang."
   },
@@ -108,7 +108,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan. Jeju menilai petikan berdasarkan tanggal: ujeon sebelum Grain Rain, lalu sejaak dan jungjak.",
     "story": "Teh hijau datang ke Jeju pada 1979 di kebun teh Dosun; tanah vulkanik, angin laut, dan perbedaan suhu siang–malam yang besar menjadikan ujeon ciri khasnya.",
     "flavor": "Daun hijau dan nuansa panggangan, dengan sepat ringan yang melembut di akhir.",
-    "pairing": "Bibimbap sayur, ikan bakar, jeon, hidangan penutup citron.",
+    "pairing": "Bibimbap sayuran liar, makerel atau ikan tilefish panggang, jeon hidangan laut, dan hidangan penutup citron cocok dengannya. Aroma daun segar dan nuansa sangrainya mengangkat sayuran dan ikan panggang, sementara sepat ringannya merapikan minyak pancake. Kecerahan citron menyambutnya dengan kesegaran yang sama-sama bernuansa musim semi.",
     "brewTip": "70–80 °C. Jaga tuangan pertama di bawah 1½ menit dan tidak akan menjadi pahit.",
     "keep": "Enam bulan sejak produksi, sebulan setelah dibuka. Tertutup rapat dan dingin."
   },
@@ -123,7 +123,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pengeringan. Hanya pucuk, tanpa penggulungan dan tanpa sangrai.",
     "story": "“Baihao” adalah bulu keperakan pada pucuk dan “yinzhen” bentuk jarumnya; Fujian berkata “setahun teh, tiga tahun obat, tujuh tahun harta.”",
     "flavor": "Lily of the valley dan lilac, air seduhan aprikot sangat pucat, tanpa sepat dan manis yang panjang.",
-    "pairing": "Kacang-kacangan, kurma, kastanye, ikan ringan. Tidak cocok dengan daging berat.",
+    "pairing": "Kacang-kacangan seperti kacang pinus dan kenari, kurma, kastanye, dan ikan putih kukus ringan cocok dengannya. Aroma bunga lily of the valley dan rasa manis panjang tanpa sepat tampak paling jelas di samping makanan yang tenang. Hindari hidangan daging berbumbu kuat, yang akan mengubur aromanya yang halus.",
     "brewTip": "Pucuknya mengapung: air dulu, pucuk di atas, lalu tekan perlahan setelah 30 detik.",
     "keep": "Suhu ruang, kelembapan 50–60%, jauh dari sinar matahari langsung. Hindari kulkas — embun dan bau."
   },
@@ -138,7 +138,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pengeringan. Satu pucuk dan dua daun dikeringkan bersama.",
     "story": "Pucuk dan daun yang terbuka dikatakan menyerupai peony yang mekar penuh, yang memberi nama pada teh ini.",
     "flavor": "Bunga putih dan jerami, manis kurma ringan, lebih berisi daripada Silver Needle.",
-    "pairing": "Ayam, ikan ringan, sandwich, madeleine.",
+    "pairing": "Ayam panggang, hidangan ikan ringan, sandwich ringan, dan madeleine sangat cocok dengannya. Nuansa bunga putih dan jerami kering dengan bodi lebih berisi daripada Silver Needle membuatnya mampu mendampingi hidangan protein ringan, dan rasa manis mirip kurma-nya menyamai kue panggang. Hindari makanan berbumbu kuat, yang menghapus aroma bunganya.",
     "brewTip": "Tahan 90 °C tanpa menjadi pahit. Beri ruang pada tuangan pertama agar daun membuka.",
     "keep": "Tertutup rapat pada suhu ruang. Setahun atau dua menambah kurma dan madu."
   },
@@ -153,7 +153,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pengeringan. Dibuat dari daun tanpa pucuk.",
     "story": "Daun keringnya dikatakan tampak seperti alis orang tua, maka dinamai Shou Mei; lama disimpan sebagai “teh tua” yang diperam.",
     "flavor": "Jerami dan kurma dengan sentuhan buah matang. Air seduhannya aprikot lebih pekat.",
-    "pairing": "Panekuk, gorengan, hidangan daging, makanan kukus. Tahan terhadap rasa kaya.",
+    "pairing": "Jeon kimchi atau hidangan laut, gorengan, daging babi rebus, dan pangsit kukus sangat cocok dengannya. Dengan bodi paling kokoh di antara teh putih, rasa manis jerami dan kurma-nya mampu bertahan di samping makanan kaya rasa, dan nuansa buah matang membungkus rasa daging dengan lembut. Namun di samping sashimi yang halus, teh ini bisa terasa lebih berat daripada makanannya.",
     "brewTip": "Daun tebalnya tahan pahit bahkan di atas 90 °C. Merebusnya dalam panci juga berhasil baik.",
     "keep": "Tertutup rapat pada suhu ruang. Tiga tahun menghadirkan nuansa obat; lima hingga tujuh, amber."
   },
@@ -168,7 +168,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh putih diperam pada suhu ruang selama tiga tahun atau lebih; oksidasi lambat dan aktivitas mikroba berlanjut selama penyimpanan.",
     "story": "Pepatah Fujian — “setahun teh, tiga tahun obat, tujuh tahun harta” — adalah asal mula teh putih peram.",
     "flavor": "Kurma, herba obat dan buah kering, manis lembut dan akhir yang panjang. Air seduhan amber pekat.",
-    "pairing": "Manisan Korea, kurma, kastanye, kaldu musim dingin. Diminum setelah makan sebagai digestif.",
+    "pairing": "Manisan hangwa, kurma, kastanye rebus bumbu, dan kaldu musim dingin seperti gomtang cocok dengannya. Rasa manis kurma dan buah kering yang mendalam karena penuaan lama bertahan lembut setelah kaldu yang kaya, dan nuansa herbalnya berpadu dengan rasa manis hangwa yang lembut. Di samping salad ringan, kedalaman teh ini justru mengambil alih.",
     "brewTip": "Air mendidih. Daun tebal butuh tiga menit atau lebih; sepuluh menit dalam panci menghasilkan seduhan obat yang kuat.",
     "keep": "20–25 °C, kelembapan di bawah 60%, tanpa bau. Tertutup rapat, ia terus matang."
   },
@@ -183,7 +183,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pengeringan. Mutu teh putih dengan proporsi daun tinggi.",
     "story": "Dalam teh putih Tiongkok ia berada di bawah Bai Mudan dan di atas Shou Mei; teh dari ladang yang sama mendapat nama berbeda menurut mutunya.",
     "flavor": "Jerami, bunga yang tenang, manis seperti kurma — lebih jelas daripada Shou Mei.",
-    "pairing": "Manisan hangwa, ubi kukus, kue beras tawar.",
+    "pairing": "Hangwa, ubi kukus, dan kue beras polos seperti baekseolgi cocok dengannya. Rasa manis mirip kurma di antara jerami dan bunga membuatnya nyaman di samping camilan gurih dan sederhana tanpa saling mengganggu. Hindari hidangan penutup kaya seperti cokelat, yang menutupi aroma bunganya yang tenang.",
     "brewTip": "Dua menit pada 90 °C. Daunnya cukup tebal untuk seduhan kedua yang mudah.",
     "keep": "Tutup rapat pada suhu ruang; seiring usia ia mendapat nuansa obat dan menjadi lebih bulat."
   },
@@ -198,7 +198,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun dipisahkan → sangrai → pemanggangan bertahap. Pucuk dan tangkai dibuang, daun dijaga pipih tanpa digulung, lalu dikeringkan sekali lagi di atas arang.",
     "story": "Teh Lu'an sendiri adalah upeti Ming; bentuk guapian khusus daun memisahkan diri darinya pada masa Qing. Pemakaian daun saja adalah alasan aromanya bertahan lama.",
     "flavor": "Kastanye dan kentang sangrai, tubuh tebal, manis di akhir. Air seduhannya kuning-hijau pekat.",
-    "pairing": "Tumisan, pangsit, bebek asap, kacang-kacangan.",
+    "pairing": "Tumis sayuran, pangsit goreng wajan, bebek asap, dan kacang sangrai sangat cocok dengannya. Nuansa kastanye sangrai dan kentang dengan bodi tebal menyerap minyak tumisan dan asap dengan nyaman, dan rasa manis di akhir merapikan mulut. Hindari sashimi yang halus, karena bobot teh ini akan mengambil alih.",
     "brewTip": "Daun tebal mudah membuka pada 85 °C. Air dulu, daun di atas."
   },
   "green-houkui": {
@@ -212,7 +212,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → pengepresan → pengeringan. Daun dibungkus kain dan jaring lalu dipres pipih, yang meninggalkan bekas kisi.",
     "story": "Tradisi mengaitkannya dengan petani Hougang Wang Kuisheng sekitar 1900; namanya juga dikatakan berasal dari gunung yang penuh monyet (hou).",
     "flavor": "Aroma anggrek dan umami ringan; daun sebesar itu pun tetap bebas pahit.",
-    "pairing": "Ikan kukus, bubur, tahu.",
+    "pairing": "Ikan kukus ringan, bubur bening, dan tahu lembut cocok dengannya. Aroma anggrek dan umami lembut dari daunnya yang besar terasa paling jernih di samping makanan berbumbu ringan, dan tanpa rasa pahit ia tidak pernah mengganggu tekstur lembut. Hindari hidangan berbumbu pedas, yang menghapus nuansa anggreknya yang bersih.",
     "brewTip": "Berdirikan daun tegak dalam gelas tinggi. 85 °C selama 1½ menit."
   },
   "green-maojian": {
@@ -226,7 +226,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan. Daun halus digulung dengan tangan menjadi jarum lurus.",
     "story": "Catatan Tang menyebut Xinyang sebagai daerah teh, dan teh ini dikatakan meraih emas pada pameran Panama–Pasifik 1915.",
     "flavor": "Rumput yang dipotong, kastanye, asap samar, dan sepat yang hidup.",
-    "pairing": "Hidangan tahu, ayam, sayuran musim semi.",
+    "pairing": "Tahu rebus bumbu sederhana, hidangan dada ayam, dan sayuran musim semi seperti dureup dan kucai liar cocok dengannya. Rumput, kastanye, dan asap samar menambah kedalaman pada bahan yang ringan, sementara sepatnya yang hidup merapikan kehijauan sayuran. Hidangan saus krim menekan aromanya yang ringan.",
     "brewTip": "80 °C selama 1½ menit. Daunnya halus; sedikit lebih lama dan ia menjadi pahit."
   },
   "green-lushan": {
@@ -240,7 +240,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan pertama → pengeringan kedua. Kabut membuat daun tipis dan lembut, jadi disangrai perlahan dengan api kecil.",
     "story": "Teh dari Gunung Lu dikenal pada masa Tang dan Song; nama Lushan Yunwu muncul dalam catatan Ming.",
     "flavor": "Rumput lembut dan umami, dengan sedikit sepat.",
-    "pairing": "Bubur, ikan putih, biji ginkgo.",
+    "pairing": "Bubur bening, ikan putih kukus, dan kacang ginkgo sangrai cocok dengannya. Aroma rumput lembut dan umaminya mengikuti alur makanan yang tidak merangsang, dan sepatnya yang rendah tidak pernah menutupi ikan yang halus. Hindari rebusan berbumbu kaya, yang mengubur aromanya yang bersih.",
     "brewTip": "80 °C selama 1 menit. Daunnya tipis, jadi jangan biarkan lama."
   },
   "green-hojicha": {
@@ -254,7 +254,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pengukusan → penggulungan → pengeringan → pemanggangan kuat. Panas mengubah katekin dan sebagian kafein, sehingga menjadi gurih kacang, bukan pahit.",
     "story": "Dikatakan bermula di Kyoto tahun 1920-an dengan memanggang teh yang sudah beredar; ia menjadi cangkir untuk anak-anak dan untuk malam hari.",
     "flavor": "Biji-bijian panggang, karamel dan kayu, hampir tanpa pahit.",
-    "pairing": "Nasi, gorengan, hidangan penutup manis. Setelah makan dan di malam hari.",
+    "pairing": "Nasi hangat dengan lauk, gorengan, dan hidangan penutup manis seperti puding atau castella sangat cocok dengannya. Nuansa biji-bijian sangrai dan karamel melengkapi sebuah santapan, dan dengan hampir tanpa rasa pahit ia nyaman di samping hidangan penutup manis. Di samping sashimi yang halus, nuansa sangrainya mengambil alih, jadi nikmati secara terpisah di sana.",
     "brewTip": "95 °C selama 1 menit. Menuangkan air mendidih langsung juga berhasil."
   },
   "green-genmaicha": {
@@ -268,7 +268,7 @@ window.TEAFaiDataId = (function () {
     "process": "Beras merah dipanggang hingga meletup, lalu dicampur dengan sencha kukus.",
     "story": "Dikatakan rumah tangga era Edo menghemat sedikit teh dengan mencampurkan beras.",
     "flavor": "Nasi gosong dan popcorn di atas tepi hijau sencha.",
-    "pairing": "Onigiri, tempura, camilan pedas.",
+    "pairing": "Onigiri, tempura, dan camilan pedas seperti tteokbokki sangat cocok dengannya. Nuansa nasi gosong dan popcorn sangrai mengalir alami ke hidangan nasi, sementara tepi hijau sencha dengan ringan membasuh minyak gorengan dan rasa pedas. Di samping hidangan ikan yang halus, nuansa sangrainya bisa lebih menonjol daripada makanannya.",
     "brewTip": "90 °C selama 1 menit. Biarkan beras mengendap sebelum diminum."
   },
   "green-hadong": {
@@ -282,7 +282,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai wajan → penggulungan → pengeringan. Hwagae mempertahankan tradisi sangrai tangan, jadi daunnya tetap kusut.",
     "story": "Hadong adalah salah satu distrik teh tertua Korea, dengan catatan teh tiba pada masa Raja Heungdeok dari Silla. Ujeon berarti petikan paling awal sebelum Grain Rain (sekitar 20 April).",
     "flavor": "Daun hijau segar dengan nuansa panggangan, sedikit sepat dan umami panjang.",
-    "pairing": "Bibimbap sayur, ikan bakar, jeon, hidangan penutup citron.",
+    "pairing": "Bibimbap sayuran liar, ikan panggang, jeon kucai atau hidangan laut, dan hidangan penutup citron cocok dengannya. Aroma daun segar dan nuansa sangrainya mengangkat sayuran pegunungan dan ikan panggang, dan dengan sedikit sepat, umami yang panjang bertahan hingga akhir santapan. Kecerahan citron menyambutnya dengan kesegaran yang setara.",
     "brewTip": "70–80 °C. Jaga tuangan pertama di bawah 1½ menit dan tidak akan menjadi pahit."
   },
   "green-sejak": {
@@ -296,7 +296,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan. Daunnya sedikit lebih kasar daripada ujeon dan aromanya lebih kuat.",
     "story": "Sejak berarti burung pipit halus, nama mutu Korea yang ditetapkan berdasarkan tanggal petik.",
     "flavor": "Rumput dan panggangan lebih kuat daripada ujeon, dengan sepat ringan di akhir.",
-    "pairing": "Nasi barley, sup pasta kedelai, hidangan rebus.",
+    "pairing": "Nasi jelai, sup pasta kedelai (doenjang), dan lobak atau kentang rebus bumbu sangat cocok dengannya. Nuansa rumput yang lebih kuat dan sangrai dibandingkan ujeon mendukung masakan rumah yang mengenyangkan, dan sepat ringan di akhir menyegarkan setelah rasa asin doenjang. Di samping sashimi yang halus, nuansa rumputnya bisa terasa agak kuat.",
     "brewTip": "80 °C selama 1¼ menit; lima derajat di atas ujeon cocok untuknya."
   },
   "green-jungjak": {
@@ -310,7 +310,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan. Daun lebih tebal, jadi sangrainya lebih panas dan lebih singkat daripada ujeon.",
     "story": "Jungjak berarti burung pipit tengah, mutu yang dipetik setelah ujeon dan sejak.",
     "flavor": "Panggangan dan sepat bersamaan; air seduhannya hijau pekat.",
-    "pairing": "Rebusan pasta kedelai, makerel bakar, panekuk kimchi.",
+    "pairing": "Rebusan pasta kedelai, makerel panggang, dan pancake kimchi sangat cocok dengannya. Nuansa sangrai dan sepat bersama-sama mampu bertahan di samping rebusan kaya rasa dan ikan panggang berminyak, dan ia membilas mulut dengan bersih setelah pedasnya jeon kimchi. Hindari hidangan halus seperti ikan kukus polos, karena sepatnya akan mengambil alih.",
     "brewTip": "85 °C selama 1 menit. Daun tebal pun menjadi pahit jika melebihinya."
   },
   "green-daejak": {
@@ -324,7 +324,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan. Daun kasar, sangrai lebih lama, dibuat dalam jumlah banyak.",
     "story": "Daejak berarti burung pipit besar, mutu terakhir tahun petik — cangkir yang dituang restoran.",
     "flavor": "Panggangan dengan sepat jelas yang melembut saat cangkir mendingin.",
-    "pairing": "Rebusan pedas, hidangan daging, nasi putih.",
+    "pairing": "Rebusan pedas, hidangan daging seperti babi tumis, dan set nasi sederhana sangat cocok dengannya. Sepatnya yang jernih dan nuansa sangrai dengan tegas menangani rasa pedas dan minyak, dan saat cangkir mendingin sepatnya melembut, membuatnya mudah diminum bersama nasi. Rasanya yang lebih kasar bertabrakan dengan hidangan halus beraroma lembut.",
     "brewTip": "90 °C atau lebih. Penyeduhan lama dalam air mendidih membuatnya pahit; batasi satu menit."
   },
   "green-jukro": {
@@ -338,7 +338,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → penggulungan → pengeringan, semuanya dengan tangan: lebih dari 300 putaran dalam panci besi dengan kedua telapak tangan.",
     "story": "Jukro berarti embun bambu, dikatakan berasal dari nama kebun teh di Agyang.",
     "flavor": "Umami dalam dan nuansa bunga daun liar, dengan sedikit sepat.",
-    "pairing": "Sayuran liar, jamur, ikan ringan, manisan Korea.",
+    "pairing": "Sayuran pegunungan seperti pakis dan aster, jamur tumis, ikan panggang ringan, dan hangwa cocok dengannya. Umami yang dalam dan aroma bunga dari daun liar mendukung sedikit pahit sayuran dan aroma jamur, dan sepat yang rendah tidak pernah mengganggu tekstur makanan. Daging berbumbu kuat menutupi aroma bunganya yang halus.",
     "brewTip": "75 °C selama 1½ menit. Daun sangrai tangan menahan banyak air."
   },
   "yellow-junshan": {
@@ -352,7 +352,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → panggang pertama → dibungkus kertas agar menguning → dipanggang lagi → dibungkus lagi → diselesaikan di atas api. Pucuk mempertahankan bentuk alaminya; dalam gelas ia terkenal karena berdiri tegak.",
     "story": "Terkenal sejak masa Tang dan dikirim sebagai upeti sejak Lima Dinasti, pada masa Qing dikatakan lebih berharga daripada emas. Tradisi mengatakan pucuknya naik dan turun tiga kali saat diseduh.",
     "flavor": "Air seduhan kuning pucat, manis jagung-dan-mentega, hampir tanpa sepat.",
-    "pairing": "Ikan kukus, bubur, biji ginkgo.",
+    "pairing": "Ikan kukus ringan, bubur bening, dan kacang ginkgo sangrai cocok dengannya. Rasa manis jagung dan mentega yang nyaman berlapis lembut di atas makanan sederhana, dan dengan hampir tanpa sepat ia tidak pernah menutupi rasa yang halus. Hindari hidangan berbumbu pedas, yang menghapus rasa manis hangat dan akhir bunganya.",
     "brewTip": "85 °C. Dalam gelas Anda bisa menyaksikan pucuknya berdiri."
   },
   "yellow-mengding": {
@@ -366,7 +366,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → menhuang → pengeringan. Pucuk disangrai dalam wajan, lalu ditumpuk agar menguning dengan sendirinya.",
     "story": "Tradisi mengatakan teh ditanam di sini pada Han Barat; dikirim sebagai upeti sejak Tang, ia termasuk teh terkenal tertua Tiongkok.",
     "flavor": "Jagung, mentega dan nuansa bunga yang tenang, dengan manis lembut.",
-    "pairing": "Hidangan Tiongkok, bubur, hidangan telur.",
+    "pairing": "Tumisan Tiongkok ringan, bubur, dan hidangan telur seperti telur kukus atau telur orak-arik sangat cocok dengannya. Rasa manis jagung dan mentega yang lembut berpadu dengan kekayaan telur, dan aroma bunganya yang tenang nyaman bersama makanan Tiongkok yang tidak berminyak. Hidangan berbumbu kuat seperti mala menutupi aromanya yang lembut.",
     "brewTip": "85 °C selama 1½ menit. Daun yang menguning tidak menyukai panas."
   },
   "yellow-huoshan": {
@@ -380,7 +380,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai → menhuang → pengeringan. Daun disangrai ringan, dikuningkan, lalu dikeringkan dengan api kecil.",
     "story": "Catatan Ming mencantumkan teh Huoshan sebagai upeti; selama berabad-abad ia dibuat hanya dalam jumlah kecil.",
     "flavor": "Biji-bijian lembut dan manis dengan sepat samar di akhir.",
-    "pairing": "Hidangan Tiongkok ringan, bubur, kacang-kacangan.",
+    "pairing": "Hidangan Tiongkok ringan, bubur bening, dan kacang sangrai cocok dengannya. Aroma biji-bijian lembut dan rasa manisnya mengikuti kegurihan makanan yang tidak merangsang, dan sepat samar di akhir dengan ringan merapikan mulut. Hindari daging dalam saus kaya, karena nuansa biji-bijiannya akan terkubur.",
     "brewTip": "85 °C selama 1¼ menit. Daun kecilnya membuka dengan cepat."
   },
   "blend-jasmine": {
@@ -394,7 +394,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun dan bunga dilapisi agar aromanya berpindah, diulang berkali-kali (yinxiang).",
     "story": "Bermula pada masa Song dan berkembang besar di Fujian pada masa Qing; molihua adalah nama Tiongkok untuk melati.",
     "flavor": "Bunga putih manis di atas umami lembut teh hijau.",
-    "pairing": "Makanan Tiongkok, buah, hidangan penutup ringan.",
+    "pairing": "Makanan Tiongkok seperti dim sum, buah segar, dan hidangan penutup ringan seperti jeli atau mousse sangat cocok dengannya. Aroma bunga putihnya yang manis menyegarkan mulut dengan harum di sela gigitan hidangan Tiongkok yang kaya, sementara umami lembut teh hijau tidak pernah mengganggu. Hidangan yang berat bawang putih atau rempah bertabrakan dengan aroma bunganya.",
     "brewTip": "85 °C selama 2½ menit; tutup rapat agar aromanya tetap tinggal."
   },
   "green-zhuyeqing": {
@@ -408,7 +408,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai dalam wajan, digulung, dikeringkan. Sangrai menjaga bilah lurus dan pipih, seperti daun bambu.",
     "story": "Dikatakan bermula di Gunung Emei pada 1964; namanya sekadar menggambarkan bentuk daunnya.",
     "flavor": "Aroma rumput hijau ringan, manis, sepat samar di akhir. Air seduhan biru-hijau pucat.",
-    "pairing": "Ikan putih kukus, tahu, bubur. Hidangan berminyak melawannya.",
+    "pairing": "Ikan kukus ringan, tahu lembut, dan bubur bening cocok dengannya. Aroma rumput ringannya dan rasa manis bersih tampak semurni warna seduhan biru-hijaunya di samping makanan berbumbu ringan, dan sepat lembutnya menyegarkan mulut. Hindari tumisan berminyak, yang menekan aromanya yang bersih.",
     "brewTip": "Dalam gelas, tuang air terlebih dahulu dan masukkan daun; ia tenggelam perlahan dan membuka seiring perjalanan.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat di kulkas.",
     "keywords": "Zhu Ye Qing Emei Sichuan teh hijau sangrai wajan sebelum Qingming pre-Qingming"
@@ -424,7 +424,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dikukus → digulung → dikeringkan. Fiksasi kukus langka di antara teh hijau Tiongkok, dipertahankan dari praktik Jepang.",
     "story": "Dibuat di Enshi, Hubei sejak era Qing; proses kukus yang sekarang dikonsolidasikan pada 1960-an.",
     "flavor": "Umami daun kukus yang gurih, tepi rumput laut, manis lembut. Air seduhan hijau pucat jernih.",
-    "pairing": "Sashimi, sushi, namul. Daging berminyak bertabrakan.",
+    "pairing": "Sashimi ikan putih, sushi, dan sayuran hijau rebus sebentar cocok dengannya. Umami daun kukus dan tepi rumput lautnya menghubungkan ikan dan nasi secara alami, dan rasa manis lembutnya membuat akhir sashimi bersih. Hindari daging berminyak, yang bertabrakan dengan umaminya yang jernih.",
     "brewTip": "70–75 °C. Tuang air mendidih ke cangkir lain sekali untuk mendekati suhu itu.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin — daun kukus lebih cepat memudar.",
     "keywords": "Enshi Yulu teh hijau kukus Hubei jarum needle"
@@ -440,7 +440,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung, dikeringkan — lembut dan singkat, karena daunnya tipis.",
     "story": "Meski namanya demikian, ia adalah teh hijau, bukan teh putih: kultivar 'Baiye 1' menjadi pucat di musim semi.",
     "flavor": "Asam amino tinggi memberi umami kuat dan hampir tanpa sepat; air seduhan sangat pucat.",
-    "pairing": "Ikan putih, tahu, pastry tanpa gula.",
+    "pairing": "Ikan putih kukus, hidangan tahu, dan kerupuk beras tanpa gula cocok dengannya. Kaya asam amino, umaminya khas namun hampir bebas sepat, bekerja hampir seperti bumbu yang mengangkat bahan yang ringan. Hidangan berbumbu kaya menutupi umami halusnya itu.",
     "brewTip": "75–80 °C. Terlalu lama dan rumput mengalahkan gurihnya.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Anji Bai Cha Baiye 1 Zhejiang umami teh hijau"
@@ -456,7 +456,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung, dikeringkan; daunnya berasal dari lokasi lembah berkabut.",
     "story": "Catatan mengatakan ia meraih medali emas pada ekspo Panama-Pasifik 1915.",
     "flavor": "Bunga condong anggrek, manis lembut, sedikit sepat.",
-    "pairing": "Hidangan kukus ringan, bubur, kacang-kacangan.",
+    "pairing": "Hidangan kukus ringan, bubur bening, dan kacang sangrai cocok dengannya. Aroma bunga condong anggrek dan rasa manis lembutnya menyebar dengan tenang di samping makanan yang tidak merangsang, dan sepat rendah tidak pernah mengganggu tekstur. Hindari hidangan berbumbu pedas, yang menghapus aroma bunganya yang bersih.",
     "brewTip": "80 °C cukup untuk daun tipis ini; seduhan kedua adalah yang terbaik.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Gougunao Suichuan Jiangxi anggrek teh hijau"
@@ -472,7 +472,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dibuat pada 1958 dan kemudian tercantum di antara teh terkenal Tiongkok, menurut catatan yang umum.",
     "story": "Daunnya digulung menjadi bentuk alis — maka 'mei' (alis) dalam namanya.",
     "flavor": "Rumput lembut, manis kastanye, sedikit sepat.",
-    "pairing": "Hidangan sayur, tahu, makanan nasi sehari-hari.",
+    "pairing": "Sayuran hijau seperti bayam dan tauge, lauk tahu, dan makanan meja nasi sehari-hari pada umumnya sangat cocok dengannya. Aroma rumput lembut dan rasa manis kastanye-nya berpadu alami dengan masakan rumah yang tidak merangsang, dan sepat rendah membuatnya mudah diminum setiap hari. Di samping hidangan berbumbu kuat, nuansa rumputnya terkubur.",
     "brewTip": "Singkat pada 80 °C; dua seduhan cukup untuk daun tipis ini.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Wuyuan Mingmei Jiangxi alis eyebrow teh hijau"
@@ -488,7 +488,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung, lalu disangrai dan digulung dua kali lagi, yang memberi gulungan halus.",
     "story": "Teh Mengding sudah dikirim ke istana Tang sebagai upeti — salah satu catatan terpanjang dalam teh Tiongkok.",
     "flavor": "Sangrai kastanye dan kedelai, manis lembut, akhir yang bersih.",
-    "pairing": "Nasi, sayuran, sup ringan.",
+    "pairing": "Nasi yang baru matang, lauk sayuran, dan sup tauge ringan cocok dengannya. Nuansa sangrai kastanye dan kedelai mengalir ke rasa manis nasi, dan akhir yang bersih mendukung lauk sederhana tanpa menutupinya. Hidangan krim kaya atau bumbu pedas bertabrakan dengan akhir bersih itu.",
     "brewTip": "80 °C; gulungan rapatnya menyerahkan semuanya dalam semenit.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Mengding Ganlu Ya'an Sichuan teh upeti tribute"
@@ -504,7 +504,7 @@ window.TEAFaiDataId = (function () {
     "process": "Hanzhong terletak dekat tepi utara negeri teh Tiongkok: musim dingin panjang, petikan musim semi lambat, daun lebih tebal.",
     "story": "Pada 2007 berbagai nama teh daerah itu disatukan dalam satu label, Hanzhong Xianhao.",
     "flavor": "Rumput dan bunga samar, manis yang bertahan, sepat rendah.",
-    "pairing": "Mi tawar, sayuran, kacang-kacangan.",
+    "pairing": "Hidangan mi polos seperti mi pesta, sayuran, dan kacang sangrai cocok dengannya. Rumput dan bunga samar berlapis ringan di atas kaldu bening, dan rasa manis yang bertahan mengalir lembut melewati santapan. Hindari mi Tiongkok berminyak, yang menekan aromanya yang bersih.",
     "brewTip": "Daun tebalnya menginginkan 1¼ menit pada 80 °C; manis tampak pada seduhan kedua.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Hanzhong Xianhao Shaanxi Qinling teh utara northern"
@@ -520,7 +520,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung, dikeringkan dengan api kecil karena pucuknya lembut.",
     "story": "Ia tumbuh di sekitar kuil Huiming di Jingning, Zhejiang — kuil itu memberi nama pada tehnya.",
     "flavor": "Bunga samar dengan rumput, manis yang bersih.",
-    "pairing": "Bubur, sayuran, ikan ringan.",
+    "pairing": "Bubur bening, sayuran hijau rebus sebentar, dan ikan kukus ringan cocok dengannya. Bunga samar, rumput, dan rasa manis bersih mengikuti alur makanan yang tidak merangsang dan membuat mulut jernih. Hindari rebusan berbumbu kaya, yang mengubur aromanya yang halus.",
     "brewTip": "Satu menit pada 80 °C; daun lembut menjadi pahit jika dibiarkan.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Huiming Jingning Zhejiang kuil temple teh hijau"
@@ -536,7 +536,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai wajan, digulung, dikeringkan — disangrai mesin dalam skala besar, disangrai tangan di pertanian kecil.",
     "story": "Boseong di Jeollanam-do memiliki ladang teh terluas di Korea, memetik ujeon hingga daejak dari musim semi hingga awal musim panas.",
     "flavor": "Panggangan dan rumput sekaligus, dengan manis di belakang; petikan berikutnya lebih sepat.",
-    "pairing": "Sayuran, ikan bakar, rumput laut, nasi barley.",
+    "pairing": "Lauk sayuran, ikan panggang, rumput laut panggang, dan nasi jelai sangat cocok dengannya. Nuansa sangrai dan rumput bersama-sama mendukung meja nasi yang mengenyangkan, dan rasa manis yang menyusul menyeimbangkan rasa asin ikan panggang. Di samping sashimi yang halus, nuansa sangrainya bisa terasa sedikit kuat.",
     "brewTip": "70–75 °C; daejak yang kasar dapat menerima 85–90 °C sebentar.",
     "keep": "Dalam sebulan setelah dibuka, dingin dan kering.",
     "keywords": "Boseong teh hijau Korea ujeon sejak jungjak daejak"
@@ -552,7 +552,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung menjadi spiral halus, dikeringkan.",
     "story": "Sanxia, di New Taipei, telah membuat teh hijau gaya Tiongkok sejak 1940-an; namanya berasal dari Biluochun dari Dongting, Jiangsu.",
     "flavor": "Aroma rumput hijau, manis buah samar, sepat rendah, air seduhan jernih.",
-    "pairing": "Hidangan Tiongkok ringan, ikan putih, hidangan penutup sederhana.",
+    "pairing": "Tumisan Tiongkok ringan, ikan putih kukus, dan hidangan penutup buah sederhana cocok dengannya. Aroma rumput hijau dan rasa manis buah samar berlapis seringan warna seduhannya yang jernih, mendukung makanan yang tidak merangsang dengan segar. Hindari hidangan pedas, yang menghapus nuansa buahnya yang bersih.",
     "brewTip": "75 °C; spiral halusnya menyerahkan rasanya dalam semenit.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Sanxia Biluochun Taiwan New Taipei teh hijau spiral"
@@ -568,7 +568,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dikukus, digulung, dikeringkan. Naungan menaikkan asam amino dan menurunkan katekin, sehingga umami naik.",
     "story": "Ditutup hanya satu hingga dua minggu sebelum panen — di antara gyokuro (sekitar 20 hari) dan sencha (tanpa penutup).",
     "flavor": "Umami dalam, sedikit sepat, rumput laut dan manis bersamaan.",
-    "pairing": "Sashimi, hidangan telur, nasi.",
+    "pairing": "Sashimi ikan putih, telur gulung atau kukus, dan nasi yang baru matang cocok dengannya. Umami yang diperdalam oleh peneduhan mendukung ikan dan telur dengan kaya, sementara nuansa rumput laut dan rasa manis mengalir alami ke nasi. Dengan sedikit sepat, ia tidak pernah bertabrakan dengan makanan halus.",
     "brewTip": "60–70 °C; air yang lebih panas mengubah umami menjadi sepat.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Kabusecha Jepang teh hijau naungan shaded umami"
@@ -584,7 +584,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai wajan, digulung, dikeringkan: tanpa pengukusan, jadi cangkirnya berpanggangan, bukan seperti rumput laut.",
     "story": "Kebanyakan teh hijau Jepang dikukus, tetapi sangrai wajan bertahan di Kyushu, terutama Ureshino.",
     "flavor": "Manis biji-bijian panggang, ringan, dengan sedikit karakter rumput laut.",
-    "pairing": "Ikan bakar, nasi, gorengan.",
+    "pairing": "Ikan panggang, nasi, dan gorengan sangat cocok dengannya. Nuansa sangrai biji-bijian dari sangrai wajan berpadu dengan aroma ikan panggang, dan dengan sedikit karakter rumput laut ia cocok dengan hidangan nasi sehari-hari tanpa paksaan. Setelah gorengan, rasa manis ringannya dengan lembut merapikan mulut.",
     "brewTip": "80 °C; ia juga enak diseduh dingin.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Kamairicha teh hijau Jepang sangrai wajan pan-fired Ureshino Kyushu"
@@ -600,7 +600,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, digulung, dipres pipih dengan tangan, dikeringkan.",
     "story": "Teh hijau gaya Longjing yang dibuat di Xinchang, Zhejiang: dipetik lebih awal dan lebih murah daripada West Lake Longjing.",
     "flavor": "Manis kedelai sangrai, aromanya sedikit lebih kasar daripada West Lake Longjing.",
-    "pairing": "Tumisan, udang, tahu.",
+    "pairing": "Tumisan sayuran, serta hidangan udang dan tahu, sangat cocok dengannya. Nuansa sangrai kedelainya sedikit lebih kasar daripada Longjing Danau Barat, sehingga ia mampu menangani aroma wajan tumisan dan rasa manis udang dengan tegas. Di samping ikan kukus yang halus, nuansa sangrainya sedikit melangkah ke depan.",
     "brewTip": "Satu menit pada 80 °C; daun pipih menyerahkan rasanya dengan cepat.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Dafo Longjing Xinchang Zhejiang teh hijau pipih flat"
@@ -616,7 +616,7 @@ window.TEAFaiDataId = (function () {
     "process": "Laoshan, dekat Qingdao di Shandong, adalah sejauh utara teh Tiongkok ditanam: angin laut dan tanah granit memberi daun lebih tebal.",
     "story": "Catatan mengaitkan penanaman semak selatan di sini pada 1959.",
     "flavor": "Panggangan gurih dan manis yang kokoh; daun tebal bertahan beberapa seduhan.",
-    "pairing": "Makanan laut, pangsit, tumisan.",
+    "pairing": "Hidangan laut, pangsit goreng wajan, dan tumisan sangat cocok dengannya. Sangrai gurih dan rasa manis kokohnya mendukung umami hidangan laut dan kekayaan pangsit, dan daunnya yang tebal tetap bisa diseduh ulang sepanjang santapan yang panjang. Di samping sashimi polos, nuansa sangrainya mengambil alih.",
     "brewTip": "1¼ menit pada 80 °C; aroma masih ada pada seduhan ketiga.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Laoshan teh hijau Qingdao Shandong teh utara northern"
@@ -632,7 +632,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung ringan, dikeringkan; gulungan mengoksidasi tepi daun sedikit dan meninggalkan pinggiran merah.",
     "story": "Diciptakan di Fuding, Fujian pada 1968: pelayuan lebih lama dan gulungan ringan, yang membawa teh putih setengah jalan menuju oolong.",
     "flavor": "Manis teh putih yang lembut dengan bunga dan panggangan samar.",
-    "pairing": "Buah kering, kacang-kacangan, biskuit tawar.",
+    "pairing": "Buah kering, kacang sangrai, dan biskuit polos cocok dengannya. Rasa manis teh putih berlapis bunga dan sangrai samar menunjukkan lapisannya paling jelas di samping camilan gurih kacang. Hindari hidangan penutup cokelat kaya, yang menutupi aroma bunganya yang tenang.",
     "brewTip": "85 °C; aromanya membuka lebih cepat daripada teh putih tradisional — dua menit cukup.",
     "keep": "Sejuk dan kering; aromanya melembut seiring usia.",
     "keywords": "teh putih kerajinan baru new craft Fuding gulungan ringan semi-oksidasi"
@@ -648,7 +648,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh putih dari semak daun besar Yunnan; satu sisi daun mengering pucat, sisi lain gelap, seperti cahaya bulan dan bayangan — maka namanya.",
     "story": "Dilayukan dengan naungan di dalam ruangan; udara kering Yunnan dan daun besar menghasilkan tampilan dua warna.",
     "flavor": "Manis buah kering dan madu, tubuh lembut, air seduhan aprikot pucat.",
-    "pairing": "Aprikot kering, jujube, kacang-kacangan, hidangan penutup kastanye.",
+    "pairing": "Aprikot kering, jujube, kacang-kacangan, dan hidangan penutup kastanye cocok dengannya. Saat rasa manis buah kering dan madunya bertemu camilan sejenis, bodinya yang lembut membungkus rasa manis itu dengan nyaman. Di samping salad buah yang asam, rasa manisnya bergerak ke arah berbeda, jadi nikmati secara terpisah di sana.",
     "brewTip": "Seduhan singkat berulang pada 85 °C; manis naik dari seduhan ketiga.",
     "keep": "Sejuk dan kering; dijauhkan dari lembap ia akan bertahan bertahun-tahun.",
     "keywords": "Moonlight White Yunnan teh putih daun besar large leaf pelayuan naungan"
@@ -664,7 +664,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan dan dikeringkan, dengan pengeringan lebih lama untuk daun tebal.",
     "story": "Dibuat di Lingyun, Guangxi dari semak yang pucuknya berbulu putih tebal; daun yang sama juga dibuat menjadi teh hijau.",
     "flavor": "Bunga lembut, rumput samar, manis ringan.",
-    "pairing": "Hidangan penutup tawar, kacang-kacangan, buah.",
+    "pairing": "Hidangan penutup sederhana, kacang sangrai, dan buah segar cocok dengannya. Bunga lembut dan rumput samar dengan rasa manis ringan menyebar tenang di samping camilan yang tidak merangsang. Hidangan penutup karamel atau cokelat kaya mengubur aroma bunganya yang ringan.",
     "brewTip": "1½ menit pada 85 °C; daun tebal bertahan tiga seduhan.",
     "keep": "Sejuk, kering, tertutup rapat.",
     "keywords": "Lingyun Baihao Guangxi teh putih pucuk berbulu downy"
@@ -680,7 +680,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, lalu 'men huang' — ditumpuk dan dibungkus agar daun menguning sendiri — lalu dikeringkan.",
     "story": "Teh kuning kecil dari Beigang dekat Yueyang, Hunan, di barat Danau Dongting.",
     "flavor": "Manis biji-bijian lembut, kurang sepat daripada teh hijau.",
-    "pairing": "Bubur, sayuran, hidangan nasi sehari-hari.",
+    "pairing": "Bubur bening, lauk sayuran, dan makanan meja nasi sehari-hari cocok dengannya. Aroma biji-bijian lembut dan rasa manisnya berpadu alami dengan masakan rumah sederhana, dan dengan sepat lebih sedikit daripada teh hijau ia tidak pernah mengganggu lauk. Hindari makanan berbumbu pedas, yang mengubur nuansa biji-bijiannya.",
     "brewTip": "1½ menit pada 85 °C; daun yang ditumpuk mencapai puncaknya pada seduhan kedua.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Beigang Maojian Hunan Yueyang teh kuning men huang"
@@ -696,7 +696,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, ditumpuk agar menguning, lalu dikeringkan dengan asap; nuansa pinus samar tetap dalam daun.",
     "story": "Teh kuning Hunan dari Weishan, Ningxiang, tidak biasa karena pengasapan ringan pada pengeringan akhir.",
     "flavor": "Manis biji-bijian dengan asap pinus ringan, sepat rendah.",
-    "pairing": "Makanan asap, ikan bakar, nasi.",
+    "pairing": "Bebek atau ikan asap, ikan panggang, dan nasi cocok dengannya. Rasa manis biji-bijian berlapis asap pinus ringan mengalir alami ke aroma hidangan asap, dan sepat rendah membuatnya mudah diminum bersama nasi. Di samping ikan kukus yang halus, asapnya sedikit melangkah ke depan.",
     "brewTip": "1½ menit pada 85 °C; asapnya melembut pada seduhan kedua.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin, jauh dari teh lain.",
     "keywords": "Weishan Maojian Hunan teh kuning kering asap smoke dried"
@@ -712,7 +712,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, ditumpuk sebentar agar menguning, dikeringkan — tumpukan singkat menjaganya dekat dengan teh hijau.",
     "story": "Teh kuning dari Pingyang di Zhejiang selatan, tercatat sebagai teh upeti pada masa Qing.",
     "flavor": "Biji-bijian lembut, bunga samar, manis ringan.",
-    "pairing": "Bubur, ikan ringan, sayuran.",
+    "pairing": "Bubur bening, ikan kukus ringan, dan sayuran cocok dengannya. Aroma biji-bijian lembut dan bunga samarnya menyebar ringan di samping makanan yang tidak merangsang, dan rasa manis ringannya meninggalkan akhir yang bersih. Hidangan berbumbu kaya menutupi aroma bunganya yang tenang.",
     "brewTip": "1 menit 20 pada 85 °C — dekat dengan teh hijau, jadi buat singkat.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Pingyang Huangtang Wenzhou Zhejiang teh kuning upeti tribute"
@@ -728,7 +728,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, ditumpuk lama agar menguning, dikeringkan; sering direbus dalam panci daripada diseduh.",
     "story": "Teh kuning daun kasar dari Anhui barat; 'da cha' (teh besar) mengatakannya dengan jelas — daun besar, seduhan kuat.",
     "flavor": "Panggangan gurih, manis kuat, dan tahan dicampur susu.",
-    "pairing": "Makanan pedas, sup, sarapan.",
+    "pairing": "Makanan pedas, sup panas, dan menu sarapan seperti roti panggang sangat cocok dengannya. Sangrai gurih dan rasa manis kuatnya mengurangi tepi rasa pedas, dan aromanya bertahan meski dicampur susu, jadi ia juga cocok sebagai teh susu. Di samping ikan yang halus, nuansa sangrainya mengambil alih.",
     "brewTip": "95–100 °C dan beri waktu; ia juga enak direbus dalam panci.",
     "keep": "Dalam dua bulan setelah dibuka, sejuk dan kering.",
     "keywords": "Wanxi Huangda Anhui teh kuning rebus boiled daun kasar"
@@ -744,7 +744,7 @@ window.TEAFaiDataId = (function () {
     "process": "Disangrai, ditumpuk agar menguning, digulung menjadi untaian halus, dikeringkan.",
     "story": "Teh kuning Hubei dari sekitar kuil Luyuan di Yuan'an, tercatat pada era Qianlong masa Qing.",
     "flavor": "Biji-bijian dan bunga lembut, manis yang bersih.",
-    "pairing": "Bubur, sayuran, sup ringan.",
+    "pairing": "Bubur bening, lauk sayuran, dan sup tauge ringan cocok dengannya. Biji-bijian lembut dan bunga berlapis di atas makanan sederhana, dan rasa manis bersihnya meninggalkan akhir yang jernih setelah sup. Hindari tumisan berminyak, yang menekan aromanya yang bersih.",
     "brewTip": "1½ menit pada 85 °C; dua seduhan cukup untuk daun tipis ini.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan dingin.",
     "keywords": "Yu'an Luyuan Hubei teh kuning kuil temple"
@@ -760,7 +760,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh mint Maroko dan Maghreb yang lebih luas: teh hijau gunpowder Tiongkok dengan spearmint segar dan gula, dituang dari ketinggian.",
     "story": "Teh hijau gunpowder diseduh sebentar, spearmint dan gula ditambahkan, lalu dituang tinggi untuk mengaerasi.",
     "flavor": "Mint sejuk, gula pekat, rumput teh hijau — menyegarkan bahkan saat panas.",
-    "pairing": "Pastry manis, couscous, setelah makan.",
+    "pairing": "Kue manis dengan madu atau gula, hidangan couscous, dan domba cocok dengannya. Kesejukan mint dan gula yang dalam membilas mulut dengan menyegarkan setelah santapan kaya, sementara nuansa rumput teh hijau menyeimbangkan di bawah mint. Di samping ikan yang halus, mint mengambil alih.",
     "brewTip": "Singkat pada 85 °C; tambahkan mint terakhir agar minyaknya bertahan.",
     "keep": "Daun tertutup rapat dan kering; gunakan mint segar setiap kali.",
     "keywords": "Moroccan mint tea gunpowder Maghreb spearmint teh mint Maroko"
@@ -776,7 +776,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sangrai wajan → digulung → dikeringkan. Teh hijau Korea yang dibuat dari daun awal musim semi yang lembut.",
     "story": "Dinamai, konon, oleh pelukis Heo Baek-ryeon di studio Chunseolheon miliknya di Gunung Mudeung; terkait erat dengan Samae Dawon.",
     "flavor": "Aroma hijau segar, manis lembut, air seduhan jernih dan ringan.",
-    "pairing": "Hidangan Korea ringan, namul, kue beras. Bumbu kuat mengalahkannya.",
+    "pairing": "Lauk Korea ringan, namul, dan kue beras seperti baekseolgi cocok dengannya. Aroma segar dan rasa manis lembut dari daun selembut salju musim semi terasa paling jernih di samping makanan yang tenang. Hindari hidangan yang kuat bumbu gochujang atau bawang putih, yang mengubur aromanya yang halus.",
     "brewTip": "70–75 °C; biarkan air mendidih mendingin sedikit untuk menjaga manisnya.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan didinginkan.",
     "keywords": "Chunseol Mudeung Jeungsimsa teh hijau Korea sangrai wajan pan-fired"
@@ -792,7 +792,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dinaungi → dikukus → dikeringkan → tangkai dan urat dibuang. Daun yang tidak digulung yang menjadi matcha.",
     "story": "Digiling perlahan dengan gilingan batu, ia berubah menjadi matcha; daunnya sendiri juga diseduh apa adanya.",
     "flavor": "Umami dalam dari naungan, tepi rumput laut, warna hijau mencolok.",
-    "pairing": "Wagashi dan sushi; umaminya cocok dengan makanan tawar.",
+    "pairing": "Wagashi, sushi, dan sashimi ikan putih cocok dengannya. Umami yang diperdalam oleh peneduhan dan tepi rumput lautnya mendukung ikan dan nasi dengan kaya, dan ia mencapai keseimbangan manis-pahit dengan rasa manis wagashi. Daging berminyak bertabrakan dengan umami yang dalam dan menumpulkan keduanya.",
     "brewTip": "60–70 °C; air yang lebih panas menghadirkan pahit.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan didinginkan, jauh dari cahaya dan bau.",
     "keywords": "Tencha bahan dasar matcha base naungan kukus Uji"
@@ -808,7 +808,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sencha bubuk, diaduk ke dalam air dan diminum sebagai suspensi, bukan seduhan.",
     "story": "Dibuat dari sencha tanpa naungan, tidak seperti matcha; makanan pokok kedai sushi conveyor-belt.",
     "flavor": "Rasa hijau sencha yang sedikit pahit secara penuh; seluruh daun dikonsumsi.",
-    "pairing": "Sushi dan sashimi; memotong kekayaan ikan berminyak.",
+    "pairing": "Sushi, sashimi, dan ikan berminyak panggang sangat cocok dengannya. Aroma hijau dan pahit sencha terseduh dengan kekuatan penuh dalam bentuk bubuk, membasuh minyak ikan dan membuat mulut segar. Pahitnya bertabrakan dengan hidangan penutup manis, jadi tetaplah di sisi santapan.",
     "brewTip": "Aduk sebelum diminum, karena bubuknya mengendap. Ia juga larut dalam air dingin.",
     "keep": "Tertutup rapat dan didinginkan; teh bubuk cepat teroksidasi.",
     "keywords": "Funmatsu sencha bubuk powdered teh hijau bubuk sushi"
@@ -824,7 +824,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dibuat dari pucuk dan fragmen daun yang disaring keluar selama pembuatan gyokuro dan sencha.",
     "story": "Terkenal sebagai 'agari' kuat yang disajikan di kedai sushi; juga banyak dipakai untuk teh celup.",
     "flavor": "Warna gelap, rasa kuat, tepi pahit; terseduh cepat dan berani.",
-    "pairing": "Sushi dan sashimi; memotong minyak ikan berlemak.",
+    "pairing": "Sushi, sashimi, dan ikan berminyak seperti ekor kuning dan tuna sangat cocok dengannya. Rasanya yang kuat dan cepat terseduh serta akhir yang pahit menangkap amis ikan berminyak dan membilas mulut. Di samping sashimi ikan putih yang halus, kekuatan teh ini bisa mengambil alih.",
     "brewTip": "Buat singkat — dibiarkan terlalu lama ia menjadi pahit keras.",
     "keep": "Dalam sebulan setelah dibuka, tertutup rapat dan didinginkan.",
     "keywords": "Konacha agari teh sushi fragmen fragments teh celup tea bag"
@@ -856,7 +856,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan → dikeringkan, tanpa penggulungan atau sangrai — teh putih pucuk lembut yang dikeringkan apa adanya.",
     "story": "Dibuat dalam lot kecil dari semak Tiongkok dan klonal di Darjeeling, dengan nuansa muscatel.",
     "flavor": "Bunga lembut, nuansa muscatel Darjeeling, manis ringan dan bersih.",
-    "pairing": "Hidangan penutup tawar dan buah; paling baik dinikmati sendiri.",
+    "pairing": "Hidangan penutup sederhana, buah segar, dan sandwich ringan cocok dengannya. Aroma bunga lembut dan nuansa muscatel Darjeeling tampak jelas di samping makanan yang tenang, dan rasa manis ringan dan bersih berlapis baik dengan kecerahan buah. Hidangan berbumbu kuat menutupi aromanya yang halus, jadi paling baik dinikmati apa adanya.",
     "brewTip": "Dua cara sama-sama bisa: 2.5 g diseduh lama pada 80–90 °C selama 2–4 menit, atau 5 g dalam seduhan singkat berulang. Jika pembuatnya memberi petunjuk, ikuti itu terlebih dahulu.",
     "keep": "Tertutup rapat, sejuk dan kering; teh putih cepat menyerap bau.",
     "keywords": "Darjeeling teh putih India muscatel pegunungan tinggi high mountain"
@@ -872,7 +872,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan (6–8 kali) → penyangraian → penggulungan menjadi bola berbalut kain → pengeringan → pemanggangan ringan.",
     "story": "Tradisi menelusurinya ke semak yang ditemukan di dekat kuil Guanyin oleh Wei Yin dari desa Songyan pada tahun 1720-an; namanya dimaknai seberat besi dan semurah hati Guanyin.",
     "flavor": "Anggrek dan lili, tekstur lembut seperti krim, sedikit sepat yang berubah menjadi manis yang kembali.",
-    "pairing": "Daging panggang, keju, kacang-kacangan, teh susu oolong.",
+    "pairing": "Teh ini cocok dengan daging panggang, keju tua, kacang sangrai, dan teh susu oolong. Aroma anggrek dan tekstur lembutnya membungkus rasa kaya berlemak dengan halus, sementara sepat samar di akhir membuat mulut segar. Aromanya halus, jadi hindari hidangan yang berat bumbu bawang putih atau cabai.",
     "brewTip": "Bilas tuangan pertama dan buang. Teh yang digulung butuh 45 detik penuh untuk membuka.",
     "keywords": "Tieguanyin Anxi teh oolong Fujian aroma anggrek Tieguanyin Anxi oolong"
   },
@@ -887,7 +887,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan arang, tiga sampai enam kali.",
     "story": "Legenda mengatakan Ding Xian, seorang sarjana dalam perjalanan mengikuti ujian, disembuhkan oleh teh Wuyi dan menggantungkan jubah merahnya di batu sebagai tanda terima kasih; semak induknya adalah enam semak di tebing Jiulongke.",
     "flavor": "Biji-bijian panggang, kakao dan batu basah, tubuh tebal dan akhir yang panjang.",
-    "pairing": "Daging kambing, bebek asap, hidangan pasta kedelai, cokelat hitam.",
+    "pairing": "Teh ini cocok dengan domba panggang, bebek asap, hidangan pasta kedelai seperti rebusan doenjang, dan cokelat hitam berkadar kakao tinggi. Nuansa biji-bijian sangrai dan kakao tumpang tindih dengan rasa asap dan kegurihan pasta fermentasi, dan bodinya yang tebal bertahan menghadapi makanan kaya. Aromanya bertabrakan dengan salad atau acar yang sangat asam.",
     "brewTip": "98–100 °C. Bilas dulu. Teh panggang mulai membuka dari seduhan ketiga.",
     "keywords": "Da Hong Pao Wuyi teh batu oolong panggang Da Hong Pao Wuyi rock oolong"
   },
@@ -902,7 +902,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan berulang → penyangraian → penggulungan → pengeringan → pemanggangan ringan.",
     "story": "Setiap semak tua di Gunung Phoenix dibuat terpisah, karena itu disebut dancong — semak tunggal.",
     "flavor": "Aroma bunga putih, gardenia dan madu yang sangat jernih, dengan rasa sepat dan manis yang kembali di akhir.",
-    "pairing": "Buah, keju, ikan panggang, highball oolong.",
+    "pairing": "Teh ini cocok dengan buah segar, keju lembut, ikan panggang berkulit renyah, dan highball oolong dingin. Aroma bunga gardenia dan madu yang hidup berbaur dengan rasa manis buah, sementara sepat dan rasa manis yang kembali di akhir membasuh minyak ikan. Hidangan saus krim kaya akan mengubur aroma bunganya.",
     "brewTip": "Singkat dan banyak. Lewat 15–30 detik bunga-bunganya buyar.",
     "keywords": "Dancong Phoenix teh oolong Chaozhou Guangdong semak tunggal Dancong Phoenix oolong"
   },
@@ -917,7 +917,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan sedang.",
     "story": "Pada 1855 lulusan ujian Lin Fengchi dikisahkan membawa 36 bibit dari Wuyi di Fujian dan menanamnya di sini; etimologi rakyat mengatakan dong ding, 'puncak beku', menamai puncak yang dicapai lewat jalan setapak yang cukup dingin untuk membekukan jari kaki.",
     "flavor": "Biji-bijian panggang dan kastanye, anggrek, manis yang lembut.",
-    "pairing": "Sayuran panggang, perut babi, nanas, keju.",
+    "pairing": "Teh ini cocok dengan sayuran panggang, daging perut babi, nanas panggang, dan keju tua. Kekayaan biji-bijian sangrai dan kastanye mendukung rasa daging, dan rasa manis lembutnya meredakan minyak perut babi. Acar yang sangat asam bisa mengganggu keseimbangan manisnya.",
     "brewTip": "95 °C selama 45 detik. Dengan panggangan sedang, rasa manis naik dari seduhan kedua.",
     "keywords": "Dong Ding teh oolong Taiwan Lugu Nantou Dong Ding Taiwan oolong"
   },
@@ -932,7 +932,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan bola → pengeringan → pemanggangan ringan.",
     "story": "Kebun-kebun Alishan menyebar seiring ledakan teh pegunungan tinggi Taiwan pada 1980-an; semakin tinggi kebunnya, semakin kuat umaminya.",
     "flavor": "Anggrek, krim dan apel hijau, manis jernih yang panjang, hampir tanpa sepat.",
-    "pairing": "Buah, ikan putih, hidangan penutup ringan.",
+    "pairing": "Teh ini cocok dengan buah musiman, ikan putih kukus, dan hidangan penutup ringan seperti panna cotta. Nuansa anggrek, krim, dan apel hijau yang jernih tidak pernah mengalahkan rasa yang halus, dan dengan hampir tanpa sepat ia duduk tenang di samping hidangan yang halus. Tumisan berbumbu kuat akan menutupi rasa manis jernihnya.",
     "brewTip": "95 °C selama 50 detik. Daun yang digulung butuh tuangan pertama penuh untuk membuka.",
     "keywords": "Alishan teh oolong pegunungan tinggi Taiwan Alishan high mountain oolong"
   },
@@ -947,7 +947,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan. Luka gigitan mengoksidasi dan menghasilkan nada madu.",
     "story": "Ratu Victoria dikisahkan menamainya Oriental Beauty setelah mencicipinya; di Taiwan teh ini juga disebut teh puff-fong.",
     "flavor": "Madu, persik matang dan mawar, dengan manis yang bulat dan lembut.",
-    "pairing": "Tart buah, keju, salmon asap, hidangan penutup.",
+    "pairing": "Teh ini cocok dengan tart buah, brie, salmon asap, dan hidangan penutup yang disajikan dengan madu. Rasa manis madu dan persik matang tumpang tindih dengan buah pada tart, dan teksturnya yang bulat membungkus minyak salmon dengan lembut. Aroma manisnya bertabrakan dengan dressing yang sangat bercuka.",
     "brewTip": "90 °C selama 1 menit. Daun yang digigit membuka lebih jauh dalam air yang lebih panas.",
     "keywords": "Oriental Beauty teh oolong Taiwan aroma madu wereng Oriental Beauty honey oolong"
   },
@@ -962,7 +962,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penyangraian → penggulungan menjadi bentuk bola → pengeringan. Oksidasi berhenti pada 15–20 persen.",
     "story": "Pohon yang ditemukan secara kebetulan di Muzha, Taipei, pada 1980-an dan terus bertunas sepanjang empat musim dikisahkan memberi nama pada teh ini. Wanginya membuatnya menjadi bahan dasar yang umum untuk teh melati.",
     "flavor": "Bunga gardenia dan melati, manis ringan, sedikit sepat.",
-    "pairing": "Hidangan penutup ringan, buah, roti lapis. Aromanya lembut, jadi jauhkan dari makanan yang sangat manis.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, buah segar, dan sandwich telur. Aroma bunga gardenia dan melati menambahkan keharuman lembut pada makanan sederhana, dan sepat yang rendah membuatnya mudah diminum bersamaan. Aromanya lembut, jadi jauhkan dari hidangan penutup yang sangat manis.",
     "brewTip": "85–90 °C menjaga bunga-bunganya; air mendidih mendorong rasa manis ke depan. Jangan biarkan daun terendam.",
     "keep": "Segel dan dinginkan di kulkas setelah dibuka; aromanya memudar, jadi habiskan dalam waktu sekitar tiga bulan.",
     "keywords": "Si Ji Chun teh oolong Taiwan empat musim Si Ji Chun four seasons oolong"
@@ -978,7 +978,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penyangraian → penggulungan → pengeringan, sebagai oolong beroksidasi ringan 15–20 persen.",
     "story": "Didaftarkan oleh Stasiun Penelitian dan Penyuluhan Teh Taiwan sebagai No. 12 pada 1981. Nada susu adalah sifat alami kultivar ini; beberapa produk yang dijual sebagai milk oolong adalah daun yang sama dengan tambahan perisa, jadi daftar bahannya layak dibaca.",
     "flavor": "Susu dan krim, melati, manis yang bulat, sedikit sepat.",
-    "pairing": "Scone, hidangan penutup krim, kacang-kacangan. Aromanya bertahan meski ditambah sedikit susu.",
+    "pairing": "Teh ini cocok dengan scone, hidangan penutup bertoping krim, dan kacang sangrai. Aroma susu yang lembut dan rasa manis yang bulat mengalir alami ke rasa mentega, dan sepat rendah tidak pernah melawan rasa manis hidangan penutup. Aromanya bertahan meski diberi sedikit susu, jadi coba juga sebagai teh susu.",
     "brewTip": "Tetap di sekitar 90 °C dan di bawah satu menit untuk menjaga nada lembut krimnya.",
     "keep": "Segel dan dinginkan di kulkas; aromanya halus, jadi habiskan dalam waktu sekitar tiga bulan.",
     "keywords": "Jin Xuan teh oolong susu Taiwan TTES No. 12 Jin Xuan milk oolong"
@@ -994,7 +994,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penyangraian → penggulungan menjadi lembaran → pengeringan. Pada oksidasi 8–12 persen ia dekat dengan teh hijau.",
     "story": "Namanya dikisahkan berasal dari membungkus teh dengan kertas untuk menahan aromanya. Berbeda dengan pouchong beraroma tambahan, pouchong asal dinilai dari bunga alami daunnya sendiri.",
     "flavor": "Anggrek dan gardenia, akhir yang hijau, ringan dan jernih.",
-    "pairing": "Ikan putih, hidangan sayur, kue ringan.",
+    "pairing": "Teh ini cocok dengan ikan putih kukus, hidangan sayuran rebus sebentar, dan kue ringan polos. Aroma bunga anggrek dan gardenia yang jernih menonjolkan rasa halus bahan-bahannya, dan bodinya yang ringan tidak pernah memberatkan santapan. Bumbu kuat seperti minyak cabai akan menutupi akhirnya yang segar dan hijau.",
     "brewTip": "80–85 °C dan singkat. Air mendidih mengeluarkan rasa sepat sebelum bunga-bunganya.",
     "keep": "Segel dan dinginkan di kulkas; aromanya ringan, jadi ia yang pertama hilang.",
     "keywords": "Pouchong Wen Shan teh oolong Taiwan Pouchong Wen Shan oolong"
@@ -1010,7 +1010,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, lalu dipanggang arang dalam beberapa putaran.",
     "story": "Dinamai dari nada kulit kayu manis; bersama Da Hong Pao ia adalah semak yang paling banyak ditanam di antara teh batu Wuyi.",
     "flavor": "Rempah kayu manis dan cengkeh, biji-bijian panggang, manis yang dalam, akhir yang panjang.",
-    "pairing": "Daging panggang, bebek asap, hidangan Cina yang kaya rasa.",
+    "pairing": "Teh ini cocok dengan daging panggang, bebek asap, dan hidangan Tiongkok kaya seperti mapo tofu. Rempah kayu manis dan cengkeh yang hangat tumpang tindih dengan rasa daging, dan rasa manis yang dalam serta akhir yang panjang membawa kekayaan berminyak. Dengan hidangan laut bening yang ringan, teh ini terlalu kuat dan keseimbangannya rusak.",
     "brewTip": "98 °C atau lebih. Bilas tuangan pertama dan mulai dari yang kedua.",
     "keep": "Tersegel dan sejuk; oolong panggang membulat selama satu atau dua tahun.",
     "keywords": "Rougui Wuyi teh batu oolong kayu manis panggang arang Wuyi Rougui rock oolong cinnamon charcoal baked"
@@ -1026,7 +1026,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang; daun yang besar membutuhkan panggangan lama.",
     "story": "Semak tua ('lao cong') dihargai tersendiri karena kedalaman berlumut dan berkayunya.",
     "flavor": "Anggrek di atas kayu dan lumut; versi panggangnya menyimpan manis yang panjang.",
-    "pairing": "Ikan panggang, hidangan jamur, sesi teh yang panjang.",
+    "pairing": "Teh ini cocok dengan ikan panggang yang kecokelatan sempurna, jamur tumis, dan makanan meja teh yang mengenyangkan seperti nasi goreng. Nuansa kayu dan lumut di bawah anggrek bertemu dengan karakter tanah jamur, dan rasa manis panjang versi panggangnya mendukung kegurihan ikan. Hidangan penutup yang sangat manis berlawanan dengan karakternya.",
     "brewTip": "98 °C. Sisi berlumut dari semak tua membuka dari seduhan kedua.",
     "keep": "Tersegel dan sejuk; panggangannya melunak seiring waktu.",
     "keywords": "Shuixian Wuyi lao cong semak tua teh batu oolong Wuyi Shuixian lao cong old bush rock oolong"
@@ -1042,7 +1042,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung menjadi bola, dikeringkan; hawa dingin menghasilkan daun tebal yang tumbuh lambat.",
     "story": "Salah satu daerah teh tertinggi di Taiwan, di atas 2,300 m, tempat salju kadang turun.",
     "flavor": "Bunga jernih, manis sejuk, hampir tanpa sepat; cairan teh emas pucat.",
-    "pairing": "Hidangan penutup ringan, buah, atau diminum begitu saja.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, buah seperti pir dan apel, dan diminum apa adanya. Aroma bunga jernih dan rasa manis sejuknya memang dibuat untuk menikmati teh itu sendiri, dan dengan hampir tanpa sepat ia terasa ringan di mulut. Hindari makanan berbumbu kuat, yang menghapus aroma jernih itu seketika.",
     "brewTip": "90–95 °C, daun yang banyak, seduhan singkat berulang.",
     "keep": "Tersegel di freezer menjaga aromanya; gunakan dalam sebulan setelah dibuka.",
     "keywords": "Dayuling teh oolong pegunungan tinggi Taiwan 2300 m Dayuling high mountain oolong Taiwan 2300 m"
@@ -1058,7 +1058,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung bola, dikeringkan; naungan hutan dan kabut menjaga aromanya tetap bersih.",
     "story": "Teh pegunungan tinggi dari petak hutan aras pada 1,600–1,800 m di Zhushan, Nantou.",
     "flavor": "Bunga jernih, sedikit rumput, manis yang bersih.",
-    "pairing": "Buah, hidangan penutup ringan.",
+    "pairing": "Teh ini cocok dengan buah segar, hidangan penutup ringan, dan kue beras ketan polos. Aroma bunga jernih dan rasa manis bersihnya mengangkat kesegaran buah, dan nuansa rumput samar nyaman bersama camilan sederhana. Gorengan berminyak cenderung mengaburkan kesan bersihnya.",
     "brewTip": "Seduhan singkat pada 90–95 °C.",
     "keep": "Tersegel, didinginkan di kulkas atau dibekukan.",
     "keywords": "Shanlinxi teh oolong Taiwan Zhushan pegunungan tinggi Shanlinxi oolong Taiwan Zhushan high mountain"
@@ -1074,7 +1074,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung bola, dikeringkan; perbedaan suhu siang–malam yang lebar menebalkan daun.",
     "story": "Ditanam di antara kebun buah di dekat Heping, Taichung, pada sekitar 2,000 m.",
     "flavor": "Buah matang dan bunga, manis yang lembut.",
-    "pairing": "Pir, apel, kacang-kacangan, hidangan penutup ringan.",
+    "pairing": "Teh ini cocok dengan pir, apel, kacang sangrai, dan hidangan penutup ringan. Aroma buah matangnya tumpang tindih dengan buah sungguhan sehingga terasa lebih penuh, dan rasa manis lembutnya selaras dengan kekayaan kacang. Jeruk yang sangat asam bisa merusak keseimbangan manis lembut itu.",
     "brewTip": "Seduhan singkat pada 90–95 °C; buahnya tiba pada seduhan ketiga.",
     "keep": "Tersegel dan didinginkan di kulkas; gunakan dalam sebulan setelah dibuka.",
     "keywords": "Lishan teh oolong Taiwan Taichung Heping buah Lishan oolong Taiwan Taichung Heping fruit"
@@ -1090,7 +1090,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan; oksidasi ringan menempatkan bunga-bunganya di depan.",
     "story": "Dibuat dari kultivar Huangdan dari Anxi; aromanya begitu menonjol hingga teh ini dijuluki 'wangi penembus langit'.",
     "flavor": "Aroma lembut seperti teh susu dengan bunga dan manis ringan; lebih ringan dari Tieguanyin.",
-    "pairing": "Hidangan penutup ringan, buah, atau diminum sendiri.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, buah musiman, dan diminum sendiri. Aroma krim mirip teh susu dan bunganya berpadu dengan rasa mentega kue panggang sederhana, dan rasa manis ringannya meninggalkan akhir yang segar. Ia lebih lembut daripada Tieguanyin, jadi hidangan berbumbu kuat akan menyingkirkan aromanya.",
     "brewTip": "Singkat pada 95 °C; mulai dari seduhan kedua agar aromanya menetap.",
     "keep": "Tersegel dan dingin; aromanya cepat memudar setelah dibuka.",
     "keywords": "Huang Jin Gui Huangdan Anxi teh oolong wangi Huang Jin Gui Huangdan Anxi oolong fragrant"
@@ -1106,7 +1106,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung lebih sedikit, dikeringkan, yang menjaga aromanya tetap ringan.",
     "story": "Dari daerah Anxi yang sama dengan Tieguanyin tetapi lebih ringan dan lebih murah — sering disebut adik Tieguanyin.",
     "flavor": "Anggrek dan rumput samar, manis ringan; tubuhnya kurang dari Tieguanyin.",
-    "pairing": "Hidangan nasi dan makanan Cina ringan.",
+    "pairing": "Teh ini cocok dengan santapan nasi dan lauk serta tumisan Tiongkok ringan. Nuansa anggrek dan rumput samar tidak pernah mengganggu makanan, dan rasa manis ringannya dengan lembut menerima bumbu lauk. Bodinya lebih sedikit daripada Tieguanyin, jadi ia memudar di samping hidangan asap atau berbumbu kuat.",
     "brewTip": "Singkat pada 95 °C; ia menipis setelah seduhan kelima.",
     "keep": "Tersegel dan dingin.",
     "keywords": "Benshan teh oolong Anxi lebih ringan Tieguanyin Benshan oolong Anxi lighter Tieguanyin"
@@ -1122,7 +1122,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan; daun yang tebal menahan aroma melalui banyak seduhan.",
     "story": "Dinamai dari daun sebesar jeruk tangan Buddha; berasal dari Yongchun, Fujian.",
     "flavor": "Buah pir dan kesemek yang manis, tubuh lembut, sedikit sepat.",
-    "pairing": "Pir, kue panggang manis, kacang-kacangan.",
+    "pairing": "Teh ini cocok dengan pir, manisan panggang bermentega, dan kacang sangrai. Nuansa buah pir dan kesemek yang manis tumpang tindih dengan rasa manis buah itu sendiri, dan bodi lembut serta sepat rendahnya dengan nyaman membawa camilan gurih. Camilan berbumbu pedas akan menutupi aroma buah manisnya.",
     "brewTip": "95 °C; daun tebal membuka dari seduhan kedua dan bertahan sampai ketujuh.",
     "keep": "Tersegel dan dingin; gunakan dalam sebulan setelah dibuka.",
     "keywords": "Foshou Yongchun teh oolong Fujian aroma pir Yongchun Foshou oolong Fujian pear aroma"
@@ -1138,7 +1138,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung bola, dikeringkan, lalu dipanggang di atas arang dalam putaran berulang.",
     "story": "Tieguanyin yang dibuat di Muzha, Taipei sejak akhir abad ke-19, dan dikenal karena pemanggangan arang yang lama.",
     "flavor": "Buah panggang, karamel, manis yang dalam, sedikit gosong di akhir.",
-    "pairing": "Kacang panggang, hidangan penutup karamel, makanan Cina yang kaya rasa.",
+    "pairing": "Teh ini cocok dengan kacang sangrai, hidangan penutup karamel, dan makanan Tiongkok kaya. Nuansa buah sangrai dan karamel tumpang tindih dengan rasa manis hidangan penutup, dan rasa manisnya yang dalam bertahan menghadapi hidangan berminyak. Gosong ringan di akhir berlawanan dengan buah segar yang halus.",
     "brewTip": "98 °C, bilas dulu; rasa manis datang dari seduhan kedua.",
     "keep": "Tersegel dan sejuk; panggangannya membulat selama beberapa tahun.",
     "keywords": "Tieguanyin Muzha Taipei teh oolong panggang arang Muzha Tieguanyin Taipei charcoal baked oolong"
@@ -1154,7 +1154,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan; setiap semak tua memberi aromanya sendiri.",
     "story": "Jenis aroma yang paling banyak ditanam di antara dancong Phoenix dari Chaozhou, Guangdong: madu di atas anggrek.",
     "flavor": "Manis madu, anggrek, tubuh penuh, akhir yang panjang.",
-    "pairing": "Buah, hidangan penutup madu, hidangan Cina yang kaya rasa.",
+    "pairing": "Teh ini cocok dengan buah segar, hidangan penutup madu, dan hidangan Tiongkok kaya. Rasa manis madu dan aroma anggrek berbaur dengan buah, dan bodi penuh serta akhir panjangnya membawa hidangan kaya hingga akhir. Acar yang sangat asam bisa mengganggu aliran rasa manis itu.",
     "brewTip": "98 °C, daun banyak, seduhan singkat berulang; madunya menguat dari seduhan keempat.",
     "keep": "Tersegel dan sejuk; bagi menjadi porsi kecil agar aromanya bertahan.",
     "keywords": "Mi Lan Xiang dancong Phoenix teh oolong Chaozhou madu anggrek Mi Lan Xiang dancong Phoenix oolong Chaozhou honey orchid"
@@ -1170,7 +1170,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan.",
     "story": "Nama yang kasar itu menyembunyikan aroma bunga keperakan, jadi ia juga dijual sebagai 'Yin Hua Xiang' (bunga perak).",
     "flavor": "Bunga lili lembah yang sejuk, manis cerah, akhir yang panjang.",
-    "pairing": "Hidangan penutup ringan, buah, atau diminum sendiri.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, buah seperti pir dan melon Korea, dan diminum apa adanya. Aroma bunga lily of the valley yang sejuk menyebar jelas di samping camilan sederhana, dan rasa manis cerahnya dengan ringan merapikan mulut. Hidangan penutup cokelat kaya akan mengubur nuansa bunga halus ini.",
     "brewTip": "Singkat pada 98 °C; bunga paling jernih ada di seduhan kedua.",
     "keep": "Tersegel, sejuk, dalam porsi kecil.",
     "keywords": "Ya Shi Xiang dancong aroma kotoran bebek bunga perak teh oolong Ya Shi Xiang duck shit aroma dancong silver flower oolong"
@@ -1186,7 +1186,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang; oksidasi yang lebih dalam memberi nama pada cairan merahnya.",
     "story": "Gaya lama Taiwan, dioksidasi hingga sekitar 60% dan dipanggang; ia kehilangan tempat dari oolong ringan sejak 1970-an.",
     "flavor": "Buah matang, madu, nada panggang; cairannya hampir segelap teh hitam.",
-    "pairing": "Kue panggang manis, buah kering, keju.",
+    "pairing": "Teh ini cocok dengan manisan panggang, buah kering, dan keju tua. Nuansa buah matang, madu, dan panggang tumpang tindih dengan rasa manis pekat buah kering, dan bodinya sekokoh yang disarankan warna seduhannya yang nyaris seperti teh hitam. Rasa manisnya yang dalam bisa terasa terpisah dari salad segar yang cerah.",
     "brewTip": "40 detik pada 95 °C; ia tetap lembut meski diseduh kuat.",
     "keep": "Tersegel dan sejuk; teh panggang melunak seiring tahun.",
     "keywords": "Hong Shui teh oolong Taiwan tradisional oksidasi dalam panggang Hong Shui oolong Taiwan traditional deep oxidation baked"
@@ -1202,7 +1202,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung bola, dikeringkan, pada ketinggian sejuk Thailand utara.",
     "story": "Oolong dari Doi Mae Salong di Chiang Rai, Thailand utara, tempat metode dan bibit Taiwan tiba pada akhir abad ke-20.",
     "flavor": "Bunga ringan dan manis, tubuhnya lebih lembut dari oolong pegunungan tinggi Taiwan.",
-    "pairing": "Makanan Thailand, buah, es teh.",
+    "pairing": "Teh ini cocok dengan makanan Thailand, buah tropis, dan es teh yang disajikan di atas es. Aroma bunga ringan dan rasa manisnya dengan lembut merapikan mulut di sela gigitan hidangan Thailand berbumbu. Bodinya lebih lembut daripada oolong pegunungan tinggi Taiwan, sehingga aromanya bisa terasa samar di samping rebusan kaya.",
     "brewTip": "Singkat pada 90–95 °C; ia juga menjaga aromanya saat diseduh dingin.",
     "keep": "Tersegel dan didinginkan di kulkas.",
     "keywords": "Doi Mae Salong teh oolong Thailand Chiang Rai dataran tinggi Doi Mae Salong Thai oolong Chiang Rai highland"
@@ -1218,7 +1218,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan pada sekitar 1,000 m.",
     "story": "Teh dari plato Moc Chau di Son La, Vietnam. Prancis memperkenalkan penanaman teh pada awal abad ke-20; metode oolong Taiwan datang kemudian.",
     "flavor": "Rumput dan bunga ringan, manis bersih — lebih segar dari oolong Taiwan.",
-    "pairing": "Makanan Vietnam, pho, es teh.",
+    "pairing": "Teh ini cocok dengan makanan Vietnam, pho, dan es teh. Nuansa rumput dan bunga ringan serta rasa manis bersihnya cocok dengan kaldu bening pho dan membuat santapan terasa segar. Hidangan yang sarat bumbu kuat seperti saus ikan bisa bertabrakan dengan rasa manis bersih itu.",
     "brewTip": "Singkat pada 90 °C; diseduh kuat ia cepat menjadi sepat.",
     "keep": "Tersegel dan didinginkan di kulkas.",
     "keywords": "Moc Chau teh oolong Vietnam Son La dataran tinggi Moc Chau oolong Vietnam Son La highland"
@@ -1234,7 +1234,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bunga osmanthus musim gugur dilapiskan dengan daun teh untuk memindahkan aromanya; Guilin di Guangxi dan Fujian adalah sumber klasiknya.",
     "story": "Daun dan bunga ditumpuk berlapis-lapis untuk mengharumkan teh, diulang beberapa kali, lalu bunganya dipisahkan.",
     "flavor": "Bunga aprikot dan persik, manis lembut; semakin banyak kelopak, semakin kuat aromanya.",
-    "pairing": "Kue panggang tawar, kacang-kacangan, buah.",
+    "pairing": "Teh ini cocok dengan manisan panggang tanpa gula, kacang sangrai, dan buah seperti pir dan persik. Aroma bunga manis mirip aprikot dan persik tampak lebih jelas di atas kue panggang sederhana dan gurih, dan rasa manis lembutnya membuat mulut nyaman. Manisan bertoping selai cukup manis untuk menyembunyikan aroma bunganya.",
     "brewTip": "85 °C; air mendidih mengusir bunga-bunganya dan menyisakan tanin.",
     "keep": "Tersegel dan sejuk — aroma bunga cepat memudar setelah dibuka.",
     "keywords": "teh osmanthus guihua Guilin teh wangi osmanthus tea guihua Guilin scented tea"
@@ -1250,7 +1250,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan, menggunakan penggulungan bola kain khas gaoshan Taiwan.",
     "story": "Dari Gunung Qilai di perbatasan Hualien–Nantou, di atas 2,000 m — salah satu daerah pegunungan tinggi Taiwan yang paling akhir dikenal.",
     "flavor": "Aroma bunga jernih, kelembutan seperti krim dan manis sejuk. Cairan teh kuning-hijau cerah.",
-    "pairing": "Hidangan penutup ringan dan buah. Bumbu berat bertabrakan dengannya.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, buah segar, dan kue beras polos. Aroma bunga pegunungan tinggi yang jernih, kelembutan krim, dan rasa manis sejuknya tampak paling baik di samping makanan sederhana. Bumbu kuat bertabrakan, jadi lebih baik dipisahkan.",
     "brewTip": "95 °C. Mulai menghitung waktu setelah daunnya membuka.",
     "keep": "Tersegel, sejuk dan kering; terbaik dalam 2–3 bulan setelah dibuka.",
     "keywords": "Qilai teh oolong pegunungan tinggi Taiwan gaoshan Hualien Qilai high mountain oolong Taiwan gaoshan Hualien"
@@ -1266,7 +1266,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun yang digigit wereng dilayukan dan dioksidasi, lalu digulung dengan kain menjadi bola — berbeda dengan Oriental Beauty yang mempertahankan bentuk lembaran longgar.",
     "story": "Daun yang digigit melepaskan senyawa pertahanan yang terbaca sebagai madu dan buah matang. Teh ini hanya bisa dibuat di kebun yang tidak disemprot pestisida.",
     "flavor": "Madu, persik matang dan bunga; manis yang panjang dan cairan teh amber cerah.",
-    "pairing": "Kue panggang tawar seperti madeleine dan castella.",
+    "pairing": "Teh ini cocok dengan kue panggang sederhana seperti madeleine dan castella, serta kue mentega. Rasa manis madu dan persik matang tumpang tindih dengan rasa mentega kue panggang, dan rasa manis panjangnya mengalir lembut dari gigitan ke gigitan. Kue kaya berlapis cokelat akan menutupi nuansa madunya.",
     "brewTip": "90 °C. Seduhan pertama yang lebih singkat mengutamakan aroma, yang lebih lama mengutamakan manis.",
     "keep": "Tersegel dan kering; terbaik dalam dua bulan setelah dibuka, karena aromanya memudar.",
     "keywords": "teh oolong aroma madu Taiwan wereng daun mixiang honey-scented oolong Taiwan leafhopper mixiang"
@@ -1282,7 +1282,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → oksidasi lama → penyangraian → penggulungan bola → pengeringan, dengan oksidasi didorong mendekati tingkat teh hitam.",
     "story": "Teh yang relatif baru yang dikembangkan di Luye, Taitung pada 2000-an. Latar belakang dan aromanya berbeda dari oolong Hongshui tradisional.",
     "flavor": "Buah matang, madu dan biji-bijian panggang; sedikit sepat, cairan teh merah-amber.",
-    "pairing": "Cheesecake, buah kering, kacang-kacangan.",
+    "pairing": "Teh ini cocok dengan cheesecake, buah kering, dan kacang sangrai. Rasa manis buah matang, madu, dan biji-bijian sangrai mendukung kekayaan cheesecake, dan sepat rendah membuatnya mengalir lembut bersama hidangan penutup. Saus beri yang sangat asam menarik rasa manisnya ke arah lain.",
     "brewTip": "95 °C. Rasa manisnya bertahan dalam keadaan dingin, jadi cocok untuk seduh dingin.",
     "keep": "Tersegel dan sejuk; terbaik dalam tiga bulan setelah dibuka.",
     "keywords": "red oolong teh oolong merah Taitung Luye oksidasi tinggi red oolong Taitung Luye high oxidation"
@@ -1298,7 +1298,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan, dalam gaya lembaran teh batu Wuyi.",
     "story": "Lan dalam namanya berarti anggrek. Kultivar ini berasal dari Wuyi tetapi juga banyak ditanam di Fujian selatan, dan dibuat dalam kedua gaya.",
     "flavor": "Nada anggrek dan herba yang bersih di atas panggangan ringan dan manis. Cairan teh kuning cerah.",
-    "pairing": "Makanan laut dan dim sum ringan.",
+    "pairing": "Teh ini cocok dengan hidangan laut seperti udang dan kerang, dim sum ringan, dan sayuran rebus sebentar. Nuansa anggrek dan herba yang bersih menonjolkan kehalusan hidangan laut, dan sangrai ringan serta rasa manisnya duduk tenang bersama makanan berbumbu ringan. Hidangan laut pedas akan menutupi aromanya yang jernih.",
     "brewTip": "98 °C. Baca seduhan pertama untuk aroma, seduhan berikutnya untuk manis.",
     "keep": "Tersegel dan kering; terbaik dalam tiga bulan setelah dibuka.",
     "keywords": "Qilan teh batu Wuyi anggrek Fujian Qilan Wuyi rock tea orchid Fujian"
@@ -1314,7 +1314,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan; tingkat panggangan bervariasi menurut daerah.",
     "story": "Kultivar tua Fujian dengan jangkauan luas — ia juga diolah menjadi teh hitam dan teh hijau selain oolong.",
     "flavor": "Bunga plum, buah ringan dan manis lembut. Cairan teh keemasan.",
-    "pairing": "Tumisan ringan dan hidangan tahu.",
+    "pairing": "Teh ini cocok dengan tumisan ringan, hidangan tahu, dan ikan kukus. Aroma bunga plum dan rasa manis lembutnya tidak pernah mengganggu makanan berbumbu ringan, dan kesannya selembut warna seduhan keemasannya. Bumbu pasta kedelai yang kuat bisa mengubur aroma bunganya yang lembut.",
     "brewTip": "95 °C; untuk lot panggang ringan, mulai dari 90 °C.",
     "keep": "Tersegel dan kering; terbaik dalam tiga bulan setelah dibuka.",
     "keywords": "Meizhan kultivar Fujian bunga plum Wuyi Anxi Meizhan Fujian cultivar plum blossom Wuyi Anxi"
@@ -1330,7 +1330,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan, dengan cara mingcong tradisional.",
     "story": "Salah satu dari empat mingcong besar Wuyi — Da Hong Pao, Tie Luo Han, Bai Ji Guan, Shui Jin Gui — dan termasuk yang tertua di antaranya.",
     "flavor": "Herba obat, mineral dan biji-bijian panggang; tubuh tebal dan manis yang berbobot.",
-    "pairing": "Hidangan daging kaya rasa dan makanan Cina berbumbu kuat.",
+    "pairing": "Teh ini cocok dengan hidangan daging kaya, makanan Tiongkok berbumbu kuat, dan hidangan asap. Nuansa dalam herba obat, mineral, dan biji-bijian sangrai, dengan bodi tebal, menerima lemak daging, dan rasa manisnya yang berbobot bertahan hingga akhir santapan. Di samping salad sederhana, teh ini terlalu kuat.",
     "brewTip": "98 °C. Nada herbalnya membuka dan rasa manis tumbuh seiring seduhan.",
     "keep": "Tersegel dan kering; teh panggang awet pada suhu ruang.",
     "keywords": "Tie Luo Han Wuyi mingcong teh batu Fujian Tie Luo Han Wuyi mingcong rock tea Fujian"
@@ -1346,7 +1346,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan ringan, dijaga lembut untuk mempertahankan daun pucatnya.",
     "story": "Kuncupnya bertunas kuning-putih pucat, menonjol sekilas di antara semak-semak lainnya.",
     "flavor": "Bunga ringan dan jernih dengan nada herbal samar dan manis sejuk. Cairan teh kuning lebih pucat daripada teh batu lainnya.",
-    "pairing": "Hidangan ikan tawar dan salad.",
+    "pairing": "Teh ini cocok dengan hidangan ikan sederhana, salad, dan sayuran kukus. Aroma bunga ringan dan jernih, nuansa herba samar, dan rasa manis sejuk menonjolkan rasa asli bahan-bahannya, dan kesan paling cerah di antara teh batu ini cocok dengan santapan ringan. Makanan beraroma kuat seperti hidangan asap menutupi aroma jernih itu.",
     "brewTip": "95 °C. Panggangan ringan, jadi seduhan lama merusak aromanya; jaga singkat dan banyak.",
     "keep": "Tersegel dan kering; terbaik dalam 2–3 bulan setelah dibuka.",
     "keywords": "Bai Ji Guan Wuyi mingcong teh batu kuncup pucat Bai Ji Guan Wuyi mingcong rock tea pale buds"
@@ -1362,7 +1362,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan, dengan cara mingcong tradisional.",
     "story": "Namanya berasal dari legenda: semak yang tersapu banjir yang daunnya bermotif seperti cangkang kura-kura.",
     "flavor": "Bunga lembut dan panggangan di atas manis yang bulat; kesan paling ringan di antara para mingcong.",
-    "pairing": "Tumisan dan daging panggang.",
+    "pairing": "Teh ini cocok dengan tumisan, daging panggang, dan sayuran panggang. Aroma bunga lembut, nuansa sangrai, dan rasa manis bulatnya mendukung kegurihan tumisan, dan sebagai mingcong yang paling ringan ia cocok dengan banyak santapan tanpa repot. Bumbu yang sangat pedas bisa merusak keseimbangan manis bulatnya.",
     "brewTip": "98 °C. Seduhan tengah menunjukkan manis yang paling bulat.",
     "keep": "Tersegel dan kering; terbaik dalam tiga bulan setelah dibuka.",
     "keywords": "Shui Jin Gui Wuyi mingcong teh batu kura-kura Shui Jin Gui Wuyi mingcong rock tea tortoise"
@@ -1378,7 +1378,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan → pemanggangan, dengan cara mingcong tradisional.",
     "story": "Namanya berasal dari semak yang tumbuh di tengah tebing — 'pinggang' antara langit dan bumi. Karakter batunya menonjol.",
     "flavor": "Mineralitas jernih (rima batu), panggangan dan manis yang dalam dengan akhir yang panjang.",
-    "pairing": "Hidangan asap dan daging bersaus kaya.",
+    "pairing": "Teh ini cocok dengan hidangan asap, daging bersaus kaya, dan sate domba. Mineralitas jernih dan sangrainya tumpang tindih dengan rasa asap, dan rasa manis dalam serta akhir panjangnya bertahan menghadapi saus berat. Di samping hidangan laut bening, bodinya terasa terlalu berat.",
     "brewTip": "98 °C. Mineralitasnya menajam pada seduhan berikutnya; jangan berhenti sebelum yang kelima.",
     "keep": "Tersegel dan kering; terbaik dalam tiga bulan setelah dibuka.",
     "keywords": "Ban Tian Yao Wuyi mingcong teh batu tebing Ban Tian Yao Wuyi mingcong rock tea cliff"
@@ -1394,7 +1394,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun yang dilayukan, digosok, disangrai dan digulung dipres dalam cetakan persegi, dibungkus kertas dan dikeringkan — bentuk pres yang langka di antara oolong.",
     "story": "Kultivar Shuixian yang sama, tetapi berbeda dengan lembaran longgar Shuixian Wuyi, Zhangping membentuk daunnya menjadi kue.",
     "flavor": "Anggrek dan nada hijau sejuk dengan manis jernih. Cairan teh keemasan cerah.",
-    "pairing": "Dim sum ringan dan sayuran tumis.",
+    "pairing": "Teh ini cocok dengan dim sum ringan, sayuran tumis, dan pangsit kukus. Nuansa anggrek dan hijau sejuk serta rasa manis jernihnya menyebar segar di samping makanan rendah lemak, dan akhirnya sebersih warna seduhan emas cerahnya. Aroma jernihnya tidak cocok dengan pasta krim kaya.",
     "brewTip": "95 °C. Seduh satu kue utuh, atau belah satu untuk menyesuaikan kekuatan.",
     "keep": "Biarkan bungkus kertasnya, tersegel dan kering; bentuk presnya awet disimpan.",
     "keywords": "Zhangping Shuixian teh oolong pres Fujian kue Zhangping Shuixian pressed oolong Fujian cake"
@@ -1410,7 +1410,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh daun besar Yunnan dilayukan, digosok dan disangrai, lalu digulung dengan kain menjadi bola dengan cara Taiwan.",
     "story": "Dari rumah pu'er dan Dianhong — upaya memberi tubuh berat daun besar itu aroma oolong pegunungan tinggi.",
     "flavor": "Malt yang dalam dan manis madu di bawah bunga-bunga; tubuh lebih tebal daripada gaoshan Taiwan.",
-    "pairing": "Daging panggang dan hidangan berbumbu kuat.",
+    "pairing": "Teh ini cocok dengan daging panggang, hidangan berbumbu kuat, dan jamur panggang. Aroma bunga di atas malt dalam dan rasa manis madu mendukung rasa daging, dan bodi yang lebih tebal daripada gaoshan Taiwan bertahan menghadapi bumbu kuat. Dengan salad buah ringan, rasa manisnya bisa terasa berlebihan.",
     "brewTip": "95 °C. Tubuh dan aroma tiba bersamaan setelah bola-bolanya membuka penuh.",
     "keep": "Tersegel dan kering; terbaik dalam 2–3 bulan setelah dibuka.",
     "keywords": "Yunnan teh oolong daun besar gulung bola Yunnan oolong large leaf ball rolled"
@@ -1426,7 +1426,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun yang ditujukan untuk teh hitam dihentikan pada oksidasi sebagian, digulung ringan dan dikeringkan — gaya lot kecil di kebun-kebun Darjeeling.",
     "story": "Karaternya adalah nada anggur muscatel khas Darjeeling yang berlapis bunga oolong.",
     "flavor": "Anggur muscatel, aprikot dan bunga; ringan dan jernih, dengan cairan teh berwarna kuningan cerah.",
-    "pairing": "Tart buah dan roti lapis ringan.",
+    "pairing": "Teh ini cocok dengan tart buah, sandwich ringan, dan scone. Nuansa anggur muscatel dan aprikot tumpang tindih dengan buah pada tart, dan bodi ringan dan jernihnya cocok dengan santapan ringan ala teh sore. Hidangan daging kaya dengan cepat mengubur aromanya yang jernih.",
     "brewTip": "90 °C. Air yang mendidih langsung mengusir nada muscatel; biarkan agak dingin dulu.",
     "keep": "Tersegel dan sejuk; terbaik dalam 1–2 bulan setelah dibuka — aroma adalah segalanya di sini.",
     "keywords": "Darjeeling teh oolong India semi-oksidasi muscatel Darjeeling oolong India semi-oxidized muscatel"
@@ -1442,7 +1442,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Dinamai dari aroma seperti gardenia yang berasal dari daun itu sendiri, bukan dari bunga tambahan.",
     "flavor": "Nada gardenia manis dan buah matang, manis lembut, akhir yang bersih. Cairan teh keemasan cerah.",
-    "pairing": "Hidangan penutup buah ringan, kue bulan tawar. Bumbu kuat menenggelamkannya.",
+    "pairing": "Teh ini cocok dengan hidangan penutup buah ringan, kue bulan polos, dan buah seperti pir dan persik. Nuansa gardenia manis dan buah matang menjadi hidup dengan jelas di samping camilan sederhana. Aromanya halus, jadi bumbu kuat mengalahkannya — lebih baik dipisahkan.",
     "brewTip": "95 °C, seduhan singkat berulang; seduhan lama membuat aroma manisnya berat.",
     "keep": "Tersegel dan sejuk; bagi menjadi porsi kecil agar aromanya bertahan.",
     "keywords": "Huangzhi Xiang dancong Phoenix teh oolong Chaozhou gardenia Huangzhi Xiang dancong Phoenix oolong Chaozhou gardenia"
@@ -1458,7 +1458,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang — dibuat hanya dari satu semak.",
     "story": "Dinamai dari aroma almond panggang; di Chaozhou ia juga disukai karena terasa menenangkan di tenggorokan.",
     "flavor": "Almond panggang dan kacang sangrai, sisi pahit singkat yang berubah manis, telan yang halus.",
-    "pairing": "Kacang-kacangan, kue ketan tawar. Enak diminum sendiri tanpa hidangan penutup.",
+    "pairing": "Teh ini cocok dengan kacang-kacangan, kue beras ketan polos, dan manisan almond sangrai. Kekayaan almond dan kacang sangrai tumpang tindih dengan kegurihan kacang pada camilan itu sendiri, dan rasa manis setelah tepi pahit merapikan mulut dengan mulus. Aroma sangrainya juga membuatnya enak diminum apa adanya, tanpa hidangan penutup.",
     "brewTip": "98 °C; nada kacangnya menguat dari seduhan ketiga atau keempat.",
     "keep": "Tersegel dan sejuk; bagi menjadi porsi kecil untuk menahan aroma panggangnya.",
     "keywords": "Xingren Xiang dancong Phoenix teh oolong Chaozhou almond Xingren Xiang dancong Phoenix oolong Chaozhou almond"
@@ -1474,7 +1474,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang — dibuat hanya dari satu semak.",
     "story": "Jenis aroma Gunung Phoenix dengan nada kayu manis hangat; bukan oolong kultivar Rougui dari Wuyi di Fujian.",
     "flavor": "Kayu manis dan rempah hangat di atas panggangan ringan, tubuh penuh, akhir yang panjang.",
-    "pairing": "Hidangan Cina kaya rasa, daging panggang; rempah hangatnya memotong rasa berminyak.",
+    "pairing": "Teh ini cocok dengan hidangan Tiongkok kaya, daging panggang, dan daging babi dongpo. Kayu manis dan rempah hangat, dengan bodi penuh, tumpang tindih dengan rasa daging, dan rempah hangatnya memotong minyak. Di samping ikan mentah yang halus, rempahnya bisa dengan mudah melampaui makanan.",
     "brewTip": "98 °C. Jaga seduhan pertama tetap singkat; rempahnya menguat pada seduhan berikutnya.",
     "keep": "Tersegel dan sejuk, disimpan terpisah agar aroma rempahnya tidak menyebar.",
     "keywords": "Rougui Xiang dancong Phoenix teh oolong Chaozhou kayu manis Rougui Xiang dancong Phoenix oolong Chaozhou cinnamon"
@@ -1490,7 +1490,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Jenis aroma alami: aroma osmanthus ada di dalam daun itu sendiri, berbeda dengan campuran 'osmanthus oolong' beraroma yang dibuat dengan bunga asli.",
     "flavor": "Bunga osmanthus manis di atas nada aprikot, tubuh ringan, akhir yang bersih.",
-    "pairing": "Kue osmanthus tawar, buah ringan. Makanan berat mengubur aromanya.",
+    "pairing": "Teh ini cocok dengan hidangan penutup bunga sederhana seperti kue osmanthus, buah ringan, dan manisan aprikot. Bunga osmanthus manis berlapis aprikot tampak lebih jelas di samping hidangan penutup sederhana. Bodinya ringan, jadi hindari makanan berat, yang mengubur aromanya.",
     "brewTip": "95 °C; panggangan ringan dan aroma halus, jadi hindari seduhan yang sangat lama.",
     "keep": "Tersegel dan sejuk, jauh dari rempah — daun bunga mudah menyerap bau.",
     "keywords": "Guihua Xiang dancong Phoenix teh oolong Chaozhou osmanthus Guihua Xiang dancong Phoenix oolong Chaozhou osmanthus"
@@ -1506,7 +1506,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Jenis aroma seperti anggrek yang elegan, termasuk di antara aroma dancong yang lebih halus.",
     "flavor": "Aroma anggrek yang jernih dan halus, manis yang lembut, akhir bersih yang panjang.",
-    "pairing": "Kue beras tawar, buah ringan. Terbaik diminum perlahan-lahan sendiri.",
+    "pairing": "Teh ini cocok dengan kue beras polos seperti baekseolgi dan buah ringan. Aroma anggrek yang anggun dan rasa manis halus meninggalkan akhir panjang dan bersih tanpa bersandar pada rasa camilan. Keanggunannya membuatnya paling cocok diteguk perlahan apa adanya.",
     "brewTip": "95 °C, seduhan singkat sejak yang pertama; hirup aroma cangkirnya sebelum menyeruput.",
     "keep": "Tersegel dan sejuk; porsi kecil melindungi aroma halusnya.",
     "keywords": "Zhilan Xiang dancong Phoenix teh oolong Chaozhou anggrek Zhilan Xiang dancong Phoenix oolong Chaozhou orchid"
@@ -1522,7 +1522,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Dinamai dari bunga yelai yang mekar di malam hari; aroma manisnya luar biasa pekat.",
     "flavor": "Aroma bunga malam yang manis dengan akhir madu, tubuh sedang, sisa rasa yang bersih.",
-    "pairing": "Hidangan penutup manis, buah tropis. Cocok untuk diminum perlahan di malam hari.",
+    "pairing": "Teh ini cocok dengan hidangan penutup manis, buah tropis seperti mangga dan nanas, dan manisan madu. Aroma bunga malam yang manis dan akhir madu tumpang tindih dengan rasa manis hidangan penutup; aromanya pekat tetapi rasa akhirnya tetap bersih, jadi tidak pernah terasa berat. Teh untuk diminum perlahan di malam hari.",
     "brewTip": "95 °C; aromanya kuat, jadi mulai singkat daripada menyeduh lama.",
     "keep": "Tersegel dan sejuk; porsi kecil menjaga aroma pekatnya.",
     "keywords": "Yelai Xiang dancong Phoenix teh oolong Chaozhou bunga malam Yelai Xiang dancong Phoenix oolong Chaozhou night flower"
@@ -1538,7 +1538,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Dinamai 'menjangkau langit' karena aromanya yang naik luar biasa tinggi dan kuat.",
     "flavor": "Aroma bunga melonjak sejak seduhan pertama, rasa cerah dan renyah, akhir yang bersih.",
-    "pairing": "Kue tawar, buah ringan. Aromanya adalah acara utamanya — terbaik dengan sedikit atau tanpa makanan.",
+    "pairing": "Teh ini cocok dengan kue sederhana, buah ringan, dan kerupuk beras. Aroma bunga yang membuncah sejak seduhan pertama dan rasa cerah dan renyah adalah bintang utamanya, jadi batasi camilan sekadar tidak mengganggu. Aromanya kuat — paling baik dinikmati dengan sedikit makanan atau tanpa makanan.",
     "brewTip": "98 °C; jaga seduhan pertama terutama singkat, dan hirup tutup gaiwan untuk aroma yang naik.",
     "keep": "Tersegel dan sejuk; aromatik tinggi cepat memudar, jadi simpan dalam porsi kecil.",
     "keywords": "Tongtian Xiang dancong Phoenix teh oolong Chaozhou aroma tinggi Tongtian Xiang dancong Phoenix oolong Chaozhou high aroma"
@@ -1554,7 +1554,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dibuat hanya dari satu semak.",
     "story": "Dinamai dari aroma bunga jeruk bali yang segar, seperti bunga yang mekar di musim semi.",
     "flavor": "Bunga jeruk bali dan sitrus, tubuh ringan, manis yang khas dan akhir yang bersih.",
-    "pairing": "Hidangan penutup sitrus, buah ringan; aroma segarnya juga cocok dengan kue tanpa gula.",
+    "pairing": "Teh ini cocok dengan hidangan penutup jeruk, buah ringan, dan manisan yuzu. Jeruk bali segar dan bunga jeruk tumpang tindih dengan kecerahan jeruk, dan rasa manisnya yang khas meninggalkan akhir yang bersih. Aroma segar itu juga cocok dengan kue tanpa gula.",
     "brewTip": "95 °C, seduhan singkat; minum selagi hangat, karena nada atas yang cerah tenggelam saat mendingin.",
     "keep": "Tersegel dan sejuk; porsi kecil melindungi aroma bunganya.",
     "keywords": "Youhua Xiang dancong Phoenix teh oolong Chaozhou bunga jeruk bali Youhua Xiang dancong Phoenix oolong Chaozhou pomelo blossom"
@@ -1570,7 +1570,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang — dibuat dari garis keturunan semak induk tua.",
     "story": "Dikisahkan keturunan tanaman dari dinasti Song; ia juga pernah disebut Dongfang Hong, 'Timur itu Merah'.",
     "flavor": "Aroma bunga yang dalam di atas manis yang berbobot dan tubuh penuh daun semak tua, dengan akhir yang panjang.",
-    "pairing": "Kue tawar, kacang-kacangan. Cukup kaya untuk diminum perlahan-lahan sendiri.",
+    "pairing": "Teh ini cocok dengan kue sederhana, kacang sangrai, dan buah kering. Rasa manis berbobot di bawah aroma bunga yang dalam, dan bodi penuh dari daun semak tua, dengan kokoh mendukung camilan gurih. Kaya aroma dan bodi, ia juga enak diminum perlahan apa adanya.",
     "brewTip": "98 °C; daun semak tua mempertahankan kekuatannya hingga akhir, jadi seduh sampai sekitar sepuluh kali.",
     "keep": "Tersegel dan sejuk; simpan teh langka ini dalam porsi kecil.",
     "keywords": "Song Zhong dancong Phoenix teh oolong Chaozhou semak tua Dongfang Hong Song Zhong dancong Phoenix oolong Chaozhou old bush Dongfang Hong"
@@ -1586,7 +1586,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang ringan — dari jenis semak berdaun besar dan lembut.",
     "story": "Namanya dikisahkan berasal dari legenda Delapan Dewa.",
     "flavor": "Aroma bunga yang lembut dan jernih; daun besarnya memberi dengan murah hati, dengan manis yang merata dan lembut.",
-    "pairing": "Hidangan penutup ringan, kue ketan tawar. Kelembutannya cocok dengan sebagian besar camilan.",
+    "pairing": "Teh ini cocok dengan hidangan penutup ringan, kue beras ketan polos, dan manisan panggang. Aroma bunga lembut dan jernih serta rasa manis yang merata tidak pernah mengganggu rasa camilan, dan daunnya memberi dengan murah hati selama banyak cangkir untuk dibagikan. Kelembutannya cocok dengan kebanyakan camilan.",
     "brewTip": "95 °C; daun besar memenuhi gaiwan, jadi tuang hingga terendam sepenuhnya.",
     "keep": "Tersegel dan sejuk; porsi kecil menjaga aroma bunganya.",
     "keywords": "Baxian dancong Phoenix teh oolong Chaozhou Delapan Dewa Baxian dancong Phoenix oolong Chaozhou Eight Immortals"
@@ -1602,7 +1602,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digoyang, disangrai, digulung, dikeringkan, dipanggang — dari garis Wuye yang berdaun besar dan gelap.",
     "story": "Kuat dalam aroma dan tubuh; di Chaozhou ia juga diseduh kental dan kuat, atau diminum dingin.",
     "flavor": "Aroma bunga yang pekat, tubuh berat, kembalinya manis yang kuat setelah sisi pahit; diseduh kental, ia bertahan di atas es.",
-    "pairing": "Hidangan Cina kaya rasa, camilan gurih; kekuatannya tahan terhadap makanan.",
+    "pairing": "Teh ini cocok dengan hidangan Tiongkok kaya, camilan mengenyangkan, dan daging panggang. Aroma bunga pekat, bodi berat, dan rasa manis kuat yang kembali setelah tepi pahit menerima makanan berminyak dan merapikan mulut. Diseduh pekat, ia bertahan di atas es, jadi tidak kalah oleh makanan beraroma kuat.",
     "brewTip": "98 °C. Untuk cangkir yang kuat gunakan daun banyak dan seduhan singkat; untuk es teh, seduh kental dan tuang di atas es.",
     "keep": "Tersegel dan sejuk; porsi kecil melindungi aroma panggangnya.",
     "keywords": "Da Wu Ye dancong Phoenix teh oolong Chaozhou seduhan kuat Da Wu Ye dancong Phoenix oolong Chaozhou strong brew"
@@ -1618,7 +1618,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan — daun teh hitam yang dihentikan pada setengah oksidasi.",
     "story": "Gaya yang lebih baru yang dibuat dalam lot kecil oleh kebun-kebun Assam untuk menunjukkan kemampuan daun besarnya.",
     "flavor": "Malt, madu dan biji-bijian panggang dengan angkatan bunga oolong; tubuh yang tebal.",
-    "pairing": "Roti panggang mentega, daging panggang, keju kuat.",
+    "pairing": "Teh ini cocok dengan roti panggang bermentega, daging panggang, dan keju kuat. Rasa manis malt, madu, dan biji-bijian sangrai dengan sentuhan bunga oolong memberi bodi tebal yang mendukung kekayaan mentega dan keju. Di samping salad ringan dan bening, bodi itu bisa terasa berat.",
     "brewTip": "95 °C. Sedikit susu pun tetap membiarkan maltnya berdiri.",
     "keep": "Tersegel, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Assam teh oolong India assamica setengah oksidasi malt Assam oolong India assamica half-oxidised malt"
@@ -1634,7 +1634,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan — daun Ceylon dataran tinggi yang dibuat sebagai oolong setengah oksidasi.",
     "story": "Diproduksi dalam lot kecil di samping teh hitam di Uva dan kebun dataran tinggi lainnya.",
     "flavor": "Sitrus dan bunga jernih dengan madu ringan, di atas kerangka cerah teh hitam Ceylon.",
-    "pairing": "Tart buah, salad, ikan putih.",
+    "pairing": "Teh ini cocok dengan tart buah, salad, dan ikan putih kukus. Jeruk dan bunga jernih dengan madu ringan tumpang tindih dengan kecerahan tart, dan kerangka cerah teh hitam Ceylon menyelesaikan santapan ringan dengan rapi. Rebusan kaya bisa dengan mudah mengubur aromanya yang jernih.",
     "brewTip": "85–90 °C; air yang lebih panas mengubur bunga-bunganya.",
     "keep": "Tersegel, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Ceylon teh oolong Sri Lanka Uva setengah oksidasi dataran tinggi Ceylon oolong Sri Lanka Uva half-oxidised high-grown"
@@ -1650,7 +1650,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan bola → pengeringan → pemanggangan berat; dalam baik pada oksidasi maupun panggangan.",
     "story": "Dibuat dengan keahlian Taiwan di dataran tinggi Chiang Rai sekitar Doi Mae Salong; dinamai dari cairan teh merahnya.",
     "flavor": "Manis plum kering dan kismis, kacang panggang, cairan teh merah.",
-    "pairing": "Buah kering, cokelat hitam, hidangan penutup kacang.",
+    "pairing": "Teh ini cocok dengan buah kering, cokelat hitam, dan hidangan penutup kacang. Rasa manis plum kering dan kismis serta kekayaan kacang sangrai tumpang tindih dengan rasa manis dalam hidangan penutup sehingga terasa lebih penuh. Rasa manis pekatnya bisa terasa terpisah dari salad buah yang cerah.",
     "brewTip": "95 °C. Bilasan cepat untuk membangunkan bolanya tidak masalah.",
     "keep": "Tersegel, sejuk dan kering; aroma panggangan membenci kelembapan.",
     "keywords": "Ruby oolong teh Thailand Chiang Rai Doi Mae Salong bola panggang Ruby oolong Thailand Chiang Rai Doi Mae Salong roasted ball"
@@ -1666,7 +1666,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan → pengeringan — daun Jeju yang dibuat sebagai oolong setengah oksidasi.",
     "story": "Eksperimen oolong dari kebun-kebun Jeju, dibangun di atas karakter mineral tanah basal.",
     "flavor": "Bunga dan rumput yang bersih, nada mineral dari tanah vulkanik, manis yang rapi.",
-    "pairing": "Makanan laut, namul, hidangan Korea ringan.",
+    "pairing": "Teh ini cocok dengan hidangan laut, namul, dan lauk Korea ringan. Bunga dan rumput bersih, dengan nuansa mineral yang mengingatkan pada tanah vulkanik, cocok dengan kehalusan hidangan laut, dan rasa manis rapinya tidak pernah mengganggu rasa ringan namul. Aroma jernihnya bertabrakan dengan hidangan rebus bumbu kuat.",
     "brewTip": "85–90 °C. Ia tahan seduhan lebih lama daripada teh hijau Jeju tanpa menjadi kasar.",
     "keep": "Tersegel dan didinginkan di kulkas; dalam sebulan setelah dibuka.",
     "keywords": "Jeju teh batu vulkanik oolong Korea tanah vulkanik mineral Jeju volcanic rock tea Korean oolong volcanic soil mineral"
@@ -1682,7 +1682,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggosokan → penyangraian → penggulungan bola → pengeringan — qingcha oksidasi ringan Taiwan dari daun Korea.",
     "story": "Nama gaya dan bukan nama kebun, diproduksi di Jeju, Boseong, Hadong dan tempat lain di Korea.",
     "flavor": "Anggrek jernih dan bunga padang rumput, manis ringan — di antara teh hijau dan oolong.",
-    "pairing": "Buah, hidangan penutup ringan, salad.",
+    "pairing": "Teh ini cocok dengan buah segar, hidangan penutup ringan, dan salad. Anggrek dan bunga padang rumput yang jernih dengan rasa manis ringan memberi kesan segar di antara teh hijau dan oolong, teman yang mudah untuk santapan ringan. Hidangan daging kaya dengan cepat mengubur kesegaran itu.",
     "brewTip": "85–90 °C, singkat dan sering, menjaga bunga-bunganya tetap jernih.",
     "keep": "Tersegel dan didinginkan di kulkas; dalam sebulan setelah dibuka.",
     "keywords": "Cheong teh oolong Korea qingcha oksidasi ringan gaya Taiwan Cheong oolong Korean oolong qingcha light oxidation Taiwanese style"
@@ -1698,7 +1698,7 @@ window.TEAFaiDataId = (function () {
     "process": "Oolong beroksidasi ringan yang digulung menjadi mutiara dan diharumkan dengan bunga melati segar.",
     "story": "Mutiara naga melati biasanya berbasis teh hijau (Fujian); jenis Taiwan menggunakan basis oolong, yang lebih langka.",
     "flavor": "Bunga melati jernih di atas manis nabati yang lembut. Cairan teh krem pucat.",
-    "pairing": "Dim sum, hidangan penutup ringan, buah. Makanan berat menenggelamkan kehalusannya.",
+    "pairing": "Teh ini cocok dengan dim sum, hidangan penutup ringan, dan buah segar. Bunga melati jernih dan rasa manis lembutnya menonjolkan kehalusan dim sum, dan kesannya seringan warna seduhan krem pucatnya. Aromanya halus, jadi hindari makanan berat, yang mengalahkannya.",
     "brewTip": "Seduh dalam gelas untuk menyaksikan mutiaranya membuka; beri waktu pada seduhan pertama untuk membuka.",
     "keep": "Tersegel dan sejuk — aromanya cepat memudar; habiskan dalam dua sampai tiga bulan setelah dibuka.",
     "keywords": "mutiara naga melati teh oolong Taiwan wangi jasmine dragon pearls oolong Taiwan scented"
@@ -1714,7 +1714,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi singkat → pengeringan. Petikan pertama menghentikan oksidasi di bawah 30%, menyisakan daun yang hijau.",
     "story": "Daerah ini berkembang setelah Inggris mengambil alih wilayahnya pada 1835; Dr Campbell pertama kali menanam semak teh Tiongkok pada 1841. Penanaman teh komersial dimulai lebih awal di Assam. Julukan sampanye berasal dari aroma muscatel-nya.",
     "flavor": "Anggur hijau, muscatel, dan bunga putih, ringan dengan sedikit rasa sepat.",
-    "pairing": "Scone, tart buah, ikan putih.",
+    "pairing": "Scone, tart buah, ikan putih panggang, dan madeleine lemon berpadu indah. Nuansa anggur hijau dan muscatel yang jernih mengangkat rasa halus alih-alih menutupinya. Hindari saus krim berat atau bumbu pedas, yang akan menenggelamkan aromanya yang halus.",
     "brewTip": "85–90 °C selama 2½ menit. Tanpa susu."
   },
   "black-assam": {
@@ -1728,7 +1728,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi penuh → pengeringan. Metode CTC merobek daun sehingga warnanya keluar dalam satu atau dua menit.",
     "story": "Bermula pada 1823 ketika Robert Bruce menemukan semak assamica liar; daunnya yang besar membuat rasa malt-nya begitu kuat.",
     "flavor": "Malt, madu, dan kismis dengan rasa yang tebal; CTC lebih kuat dan lebih sepat.",
-    "pairing": "Bagel krim keju, roti panggang bermentega, kue cokelat, bahan dasar masala chai.",
+    "pairing": "Bagel krim keju, roti panggang bermentega, kue cokelat, dan sosis panggang semuanya cocok. Kekayaan malt dan madu yang dalam serta bodi tebalnya bertahan menghadapi mentega dan krim, dan dengan susu ia menjadi dasar masala chai yang baik. Hidangan yang sangat halus seperti sashimi polos cenderung kewalahan.",
     "brewTip": "98 °C selama 3 menit. Untuk susu, gunakan 5 g untuk 150 ml."
   },
   "black-nilgiri": {
@@ -1742,7 +1742,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan. Ketinggiannya memungkinkan petikan musim dingin dengan aromanya sendiri.",
     "story": "Inggris pertama kali menanam teh di sini pada 1835, dan kebun komersial pertama dibuka pada 1859; teh ini dihargai karena kesegaran dataran tinggi dengan kekuatan teh hitam.",
     "flavor": "Jeruk dan kesejukan mirip mint di atas malt yang lembut.",
-    "pairing": "Kari India Selatan, roti lapis, buah.",
+    "pairing": "Kari India Selatan, sandwich sayuran, buah jeruk seperti jeruk manis, dan samosa berpadu apik. Kesejukan jeruk dan mirip mint-nya meredakan panas kari pedas dan membuat mulut segar. Hidangan penutup krim berat akan meratakan kecerahan itu, jadi jagalah tetap ringan.",
     "brewTip": "95 °C selama 3 menit. Enak disajikan dingin."
   },
   "black-nuwaraeliya": {
@@ -1756,7 +1756,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan. Udara sejuk memperlambat oksidasi, sehingga aromanya tetap halus.",
     "story": "Setelah hawar kopi pada abad ke-19, pulau ini beralih ke teh; Nuwara Eliya disebut sampanye-nya Ceylon.",
     "flavor": "Jeruk, bunga putih, dan sentuhan mint, ringan dan cerah.",
-    "pairing": "Buah, roti lapis, hidangan penutup ringan.",
+    "pairing": "Buah segar, sandwich mentimun, kue lemon, dan hidangan penutup ringan seperti makaron sangat cocok dengannya. Nuansa jeruk cerah dan ringan serta bunga putih berpadu bersih dengan makanan ringan. Cokelat hitam atau hidangan asap kuat akan menutupi kejernihannya.",
     "brewTip": "90–95 °C selama 3 menit. Tanpa susu."
   },
   "black-udapussellawa": {
@@ -1770,7 +1770,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan; lebih gelap dari Nuwara Eliya, lebih lembut dari Uva.",
     "story": "Teh yang dibuat pada musim kualitas yang sejuk dikatakan membawa sedikit aroma mawar.",
     "flavor": "Mawar dan jeruk ringan, rasa sedang, akhir yang cerah.",
-    "pairing": "Scone, buah, hidangan penutup ringan.",
+    "pairing": "Scone, buah segar seperti stroberi, kue yoghurt, dan selai di atas roti panggang berpadu baik. Kecerahan mawar dan jeruknya selaras dengan hidangan penutup manis, sementara akhir sepat segarnya memotong rasa manis dengan bersih. Makanan pedas akan menyebarkan aroma bunganya.",
     "brewTip": "95 °C selama 3 menit; tanpa susu agar aroma mawarnya tetap terasa."
   },
   "black-uva": {
@@ -1784,7 +1784,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan. Daun musim kering aromatik dan cerah.",
     "story": "Teh Uva yang dipetik pada musim angin timur termasuk teh hitam paling sejuk di dunia.",
     "flavor": "Mentol dan eukaliptus, dengan rasa sepat di akhir.",
-    "pairing": "Buah, keju, es teh.",
+    "pairing": "Buah segar, keju lembut, es teh lemon, dan salad mint cocok. Nuansa mentol dan eukaliptus yang sejuk membilas mulut hingga bersih setelah keju kaya. Rebusan hangat dan berat bergerak ke arah berbeda, jadi lebih baik dinikmati terpisah darinya.",
     "brewTip": "95 °C selama 3 menit. Sangat enak disajikan dingin."
   },
   "black-dimbula": {
@@ -1798,7 +1798,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan; musim kering Januari–Maret adalah yang paling harum.",
     "story": "Dimbula adalah pusat perdagangan teh Ceylon dan penopang campuran English breakfast.",
     "flavor": "Bunga, jeruk, dan malt yang seimbang, dengan rasa sepat sedang.",
-    "pairing": "Sarapan, scone, English breakfast.",
+    "pairing": "Sarapan Inggris lengkap, scone, roti panggang bermentega, dan selai jeruk berpadu baik. Bunga, jeruk, dan malt yang seimbang, dengan sepat sedang, merapikan sarapan yang kaya. Hidangan ikan yang sangat halus bisa dikalahkan oleh kekuatannya.",
     "brewTip": "95 °C selama 3 menit. Aromanya bertahan meski dicampur susu."
   },
   "black-sabaragamuwa": {
@@ -1812,7 +1812,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan; iklim lembap menjaga daun tetap lembut.",
     "story": "Salah satu wilayah teh Ceylon, dikenal dengan aroma buahnya.",
     "flavor": "Buah matang dan madu dengan rasa yang lembut.",
-    "pairing": "Buah, hidangan penutup, teh susu.",
+    "pairing": "Buah matang, puding karamel, kue madu, dan teh susu dengan susu kental manis berpadu baik. Rasa manis buah matang dan madu yang lembut mengalir alami ke hidangan penutup dan berbaur lembut dengan susu. Buah yang sangat asam bisa mengganggu keseimbangan manisnya.",
     "brewTip": "95 °C selama 3 menit."
   },
   "black-kandy": {
@@ -1826,7 +1826,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan. James Taylor menanam kebun komersial pertama di Loolecondera pada 1867.",
     "story": "Industri teh Sri Lanka dimulai pada 1867 di perkebunan Loolecondera milik Taylor dekat Kandy.",
     "flavor": "Malt lembut dan bunga, sedikit rasa sepat.",
-    "pairing": "Teh susu, kari, sarapan.",
+    "pairing": "Teh susu, kari ringan, hidangan telur, dan roti panggang bermentega berpadu baik. Malt dan bunga lembut dengan sedikit sepat membuatnya menenangkan mulut di samping kari pedas tanpa bertabrakan. Hidangan yang sangat pedas bisa menghapus nuansa bunga lembutnya.",
     "brewTip": "95 °C selama 3 menit; cocok dengan susu."
   },
   "black-ruhuna": {
@@ -1840,7 +1840,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan; panas mempercepat oksidasi dan memperdalam warna.",
     "story": "Ruhuna menghasilkan seduhan tergelap Ceylon dan sebagian besar digunakan untuk teh susu.",
     "flavor": "Merah tua, malt pekat, rasa sepat kuat.",
-    "pairing": "Teh susu, masala chai, secangkir kuat di pagi hari.",
+    "pairing": "Teh susu dengan susu kental manis, masala chai, sarapan mengenyangkan, dan brownies cokelat sangat cocok dengannya. Malt yang luas dan sepat kuat bertahan menghadapi lemak susu dan rempah, menjadikannya cangkir pagi yang bertenaga. Ikan putih polos akan hancur oleh cengkeramannya.",
     "brewTip": "98 °C selama 3½ menit; susu melembutkannya."
   },
   "black-keemun": {
@@ -1854,7 +1854,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan → penyortiran, dengan daun digulung halus dan dioksidasi perlahan.",
     "story": "Menurut tradisi, Yu Ganchen dari Qimen membawa metode Fujian ke sini pada 1875; aroma Keemun termasuk tiga aroma teh terbesar di dunia.",
     "flavor": "Mawar, anggrek, dan cokelat hitam, rasa sepat lembut dan akhir yang panjang.",
-    "pairing": "Cokelat hitam, hidangan asap, sarapan.",
+    "pairing": "Cokelat hitam, bebek asap, jamur panggang, dan roti panggang gandum hitam berpadu indah. Keanggunan mawar dan anggrek di atas kedalaman cokelat hitam berlanjut ke hidangan asap dengan akhir yang panjang. Acar tajam akan memotong aromanya yang halus.",
     "brewTip": "90–95 °C selama 2½ menit. Tanpa susu."
   },
   "black-lapsang": {
@@ -1868,7 +1868,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan di atas asap pinus.",
     "story": "Sebuah kisah akhir Dinasti Ming: tentara memaksa para petani melarikan diri, daun teroksidasi menjadi merah, dan mereka mengeringkannya dengan tergesa di atas api pinus.",
     "flavor": "Asap pinus, ter, dan buah kering, dalam dan berat.",
-    "pairing": "Daging asap, barbekyu, keju, wiski peated.",
+    "pairing": "Daging asap, barbekyu, keju tua, dan wiski peated adalah pasangan alami. Asap pinus beratnya berjalan searah dengan gosong dan asap, sementara rasa manis buah kering melembutkan rasa asin. Hidangan penutup halus dan sashimi akan terkubur sepenuhnya oleh asap.",
     "brewTip": "98 °C selama 3 menit. Cukup kuat untuk susu."
   },
   "black-jinjunmei": {
@@ -1882,7 +1882,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan, hanya dengan tunas musim semi dan tanpa asap sama sekali, sehingga aroma bunga dan madunya tetap terjaga.",
     "story": "Diciptakan pada 2005 oleh tim Jiang Yuanxun di Zheng Shan Tang, hanya menggunakan tunas semak lapsang.",
     "flavor": "Madu, bunga putih, dan aprikot kering, dengan rasa manis lembut yang panjang.",
-    "pairing": "Buah, hidangan penutup ringan, ikan putih.",
+    "pairing": "Buah segar, aprikot kering, ikan putih kukus, dan kue beras ringan berpadu baik. Rasa manis madu dan bunga putih yang lembut dan panjang mendukung makanan ringan tanpa mengganggu. Bumbu pedas dan saus berat akan dengan mudah menutupi kehalusannya.",
     "brewTip": "85–90 °C selama 2 menit; air mendidih merusak tunasnya."
   },
   "black-dianhong": {
@@ -1896,7 +1896,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi panjang → pengeringan, yang memunculkan tunas keemasan.",
     "story": "Pertama kali dibuat di Fengqing pada 1939 — teh hitam yang masih muda.",
     "flavor": "Madu, prem kering, dan malt dengan rasa yang tebal.",
-    "pairing": "Makanan Tiongkok, barbekyu, teh susu.",
+    "pairing": "Hidangan Tiongkok tumis, barbekyu, teh susu madu, dan kue bulan berpadu baik. Rasa manis madu dan plum kering dengan bodi tebal bertahan menghadapi makanan berminyak dan gosong, menenangkan mulut setelah santapan. Hidangan yang sangat sederhana seperti sashimi bisa kewalahan.",
     "brewTip": "95 °C selama 3 menit; tetap kuat meski dicampur susu."
   },
   "blend-masala": {
@@ -1910,7 +1910,7 @@ window.TEAFaiDataId = (function () {
     "process": "Assam CTC yang kuat dengan jahe, kapulaga, kayu manis, cengkeh, dan lada, direbus bersama susu.",
     "story": "Penanaman teh menyebar di India kolonial dan cara minum berempah dan bersusu ini menetap bersamanya.",
     "flavor": "Rempah hangat, manis susu yang bulat, dan kekuatan teh hitam pekat.",
-    "pairing": "Samosa, paratha, roti pagi.",
+    "pairing": "Samosa, paratha, roti pagi panggang, dan kue kering kapulaga berpadu baik. Rempah hangat dan rasa manis susu yang bulat bertemu gorengan India dalam paduan kampung halaman yang alami. Hidangan penutup buah yang halus cenderung menghilang di bawah rempah.",
     "brewTip": "Rebus bersama susu agar rempahnya terbuka. Gula sesuai selera."
   },
   "black-sikkim": {
@@ -1924,7 +1924,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan; negara bagian ini beralih ke penanaman organik pada tahun 2000-an.",
     "story": "Sikkim adalah negara bagian India pertama yang menyatakan seluruh tehnya organik.",
     "flavor": "Bunga dan muscatel ringan, dengan rasa yang lembut.",
-    "pairing": "Scone, kacang, hidangan penutup ringan.",
+    "pairing": "Scone, kacang sangrai, meringue, dan hidangan penutup buah ringan berpadu baik. Bunga dan muscatel ringan di atas bodi lembut membawa aroma dengan bersih di antara gigitan gurih dan manis. Kari kuat atau makanan pedas akan merusak kelembutannya.",
     "brewTip": "95 °C selama 3 menit; tanpa susu, agar aromanya terjaga."
   },
   "black-nepal": {
@@ -1938,7 +1938,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan, sebagian besar dikerjakan dengan tangan di pertanian kecil.",
     "story": "Teh Nepal bermula dari benih asal Tiongkok pada 1863 dan dikenal dengan aroma mirip Darjeeling.",
     "flavor": "Bunga, anggur hijau, dan muscatel ringan.",
-    "pairing": "Scone, buah, hidangan penutup ringan.",
+    "pairing": "Scone, buah segar seperti anggur hijau, kue lemon, dan hidangan penutup yoghurt berpadu baik. Bunga ringan dan anggur hijaunya sehalus Darjeeling, menjaga hidangan penutup ringan tetap terasa bersih. Krim berat atau cokelat akan menutupi keringanannya.",
     "brewTip": "90–95 °C selama 3 menit, tanpa susu."
   },
   "black-kenya": {
@@ -1952,7 +1952,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → CTC (crush, tear, curl — hancurkan, robek, gulung) → pengeringan; daun yang dirobek cepat mengeluarkan warna.",
     "story": "Teh tiba pada 1903 dan Kenya menjadi salah satu dari tiga eksportir terbesar dunia, sebagian besar untuk teh celup.",
     "flavor": "Merah pekat, malt dan rasa sepat kuat, tahan terhadap susu.",
-    "pairing": "Teh susu, chai, teh celup pagi.",
+    "pairing": "Teh susu, masala chai, sarapan mengenyangkan, dan kue mentega berpadu baik. Malt dan sepat yang kuat tetap berdiri meski di bawah banyak susu, menjadikannya cangkir pagi yang kokoh. Diminum apa adanya, ia agak memaksa untuk hidangan penutup halus — minumlah dengan susu.",
     "brewTip": "98 °C selama 3 menit. Memang dibuat untuk susu."
   },
   "black-jaksal": {
@@ -1966,7 +1966,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi penuh → pengeringan, menggunakan daun teh hijau Hadong.",
     "story": "Jaksal adalah dialek Gyeongsang untuk jakseol, daun muda; petani Hadong memberikan nama itu pada teh hitam mereka.",
     "flavor": "Madu, buah kering, dan malt, dengan rasa sepat lembut.",
-    "pairing": "Buah, roti, teh susu.",
+    "pairing": "Buah musiman, roti panggang, teh susu madu, dan yakgwa berpadu baik. Rasa manis madu dan buah kering dengan sepat lembut dengan rapi mendukung hidangan penutup Korea dan roti gurih. Rebusan pedas berlawanan dengan aromanya, jadi nikmati secara terpisah.",
     "brewTip": "85–90 °C selama 3 menit. Cukup lembut tanpa susu."
   },
   "black-ruby18": {
@@ -1980,7 +1980,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan, dengan oksidasi panjang pada daun besar.",
     "story": "Disilangkan pada 1951 di cabang Yuchi stasiun perbaikan teh Taiwan dari assamica Burma (B-729) dan teh gunung liar Taiwan (B-607); dinamai TTES No.18 pada 1999 dan diberi nama Hong Yu (Ruby) pada 2003.",
     "flavor": "Mint, kayu manis, dan pala, warna pekat, akhir yang panjang.",
-    "pairing": "Makanan Tiongkok, hidangan asap, teh susu.",
+    "pairing": "Tumisan Tiongkok, hidangan asap, teh susu, dan kue kering kayu manis berpadu baik. Rempah mint, kayu manis, dan pala memotong makanan kaya dengan menyegarkan dan meninggalkan akhir yang panjang. Sashimi polos akan kewalahan oleh rempah.",
     "brewTip": "95 °C selama 3 menit; air panas membuka aroma mint-nya."
   },
   "dark-sheng": {
@@ -1994,7 +1994,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pemanasan → penggulungan → pengeringan → pengepresan, lalu fermentasi lanjutan alami.",
     "story": "Pada masa Dinasti Qing, kue teh ini dikirim sebagai upeti dan dalam jumlah besar ke Tibet serta ke Guangdong dan Hong Kong; sheng dibiarkan matang selama bertahun-tahun.",
     "flavor": "Buah kering dan madu pada usia lima tahun, kurma dan herba pada sepuluh tahun, laci kayu tua pada dua puluh tahun.",
-    "pairing": "Hidangan kaya rasa, makanan Tiongkok, daging.",
+    "pairing": "Hidangan Tiongkok kaya, daging panggang, kue bulan, dan hidangan penutup buah kering berpadu baik. Kedalaman buah penuaan, madu, dan herbanya membilas lemak daging untuk akhir yang bersih. Hidangan laut halus bisa tertekan oleh aroma tua yang berbobot.",
     "brewTip": "Air mendidih. Buang bilasan pertama."
   },
   "dark-shou": {
@@ -2008,7 +2008,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → pemanasan → penggulungan → wo dui (kelembapan 30–40%, 50–65 °C, 40–70 hari) → pengeringan → pengepresan.",
     "story": "Pabrik teh Kunming mengembangkan wo dui pada 1973 untuk mempersingkat masa tunggu.",
     "flavor": "Tanah, kurma, dan jamur, dengan tekstur lembut dan rasa manis.",
-    "pairing": "Setelah makan, makanan kaya rasa, hidangan pedas.",
+    "pairing": "Secangkir setelah santapan kaya, hidangan pedas, daging panggang, dan hidangan penutup jujube berpadu baik. Tanah dan rasa manis kurma dengan tekstur lembut menenangkan mulut setelah makanan berminyak. Ia berlawanan dengan kesegaran buah mentah, jadi nikmati itu secara terpisah.",
     "brewTip": "100 °C selama 15 detik. Buang dua bilasan pertama."
   },
   "dark-anhua": {
@@ -2022,7 +2022,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pemanasan → penggulungan → wo dui → pengeringan perlahan di atas asap pinus pada tungku bintang tujuh.",
     "story": "Anhua adalah kampung halaman teh perbatasan yang dikirim ke wilayah perbatasan pada masa Ming dan Qing.",
     "flavor": "Asap, kurma, dan herba, lembut namun dalam.",
-    "pairing": "Daging, makanan Tiongkok, dan enak juga diminum dingin.",
+    "pairing": "Daging panggang, hidangan Tiongkok kaya, sosis asap, dan teh jujube berpadu baik, dan ia juga enak diminum dingin. Asap, kurma, dan herba dalam seduhan lembut dan dalam merapikan lemak daging. Hidangan penutup ringan dan halus akan tersembunyi oleh bobotnya.",
     "brewTip": "100 °C selama 20 detik, berkali-kali."
   },
   "dark-liubao": {
@@ -2036,7 +2036,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pemanasan → penggulungan → penumpukan → pengeringan, lalu penumpukan dan pengukusan lebih lanjut, dan penuaan dalam keranjang bambu.",
     "story": "Termasuk dalam 24 teh terkenal Tiongkok pada era Jiaqing, teh ini dikenal sebagai teh ekspor yang dikirim melalui Guangzhou ke Hong Kong dan Asia Tenggara; metode penumpukan air dingin ditetapkan pada tahun 1950-an.",
     "flavor": "Aroma jamur dan pinang dengan rasa manis lembut.",
-    "pairing": "Makanan kaya rasa, hidangan Tiongkok.",
+    "pairing": "Makanan Tiongkok kaya, dim sum, hidangan jamur panggang, dan daging babi berpadu baik. Nuansa jamur dan pinang yang khas dengan rasa manis lembut dengan halus menerima lemak dim sum dan daging. Makanan yang sangat asam bertabrakan dengan rasa manis bulatnya.",
     "brewTip": "100 °C selama 20 detik; semakin tua semakin lembut."
   },
   "dark-cheongtaejeon": {
@@ -2050,7 +2050,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun yang dikukus ditumbuk, dipres menjadi koin berlubang, dikeringkan dan disimpan untuk fermentasi.",
     "story": "Dibuat di Jangheung dan Gangjin pada masa Joseon, teh ini memudar setelah masa penjajahan Jepang dan dihidupkan kembali di Jangheung pada 2006–2008.",
     "flavor": "Tanah, herba, dan kurma, lembut dan menghangatkan.",
-    "pairing": "Setelah makan, musim dingin, makanan kaya rasa.",
+    "pairing": "Secangkir setelah santapan kaya, meja Korea musim dingin, hidangan penutup jujube dan kastanye, dan daging panggang berpadu baik. Tanah, herba, dan kurma dalam seduhan lembut dan menghangatkan menenangkan santapan dengan tenang. Salad dingin dan segar bertabrakan dengan kehangatannya.",
     "brewTip": "100 °C selama 1 menit, atau rebus satu koin dalam 500 ml selama 5 menit."
   },
   "blend-earlgrey": {
@@ -2064,7 +2064,7 @@ window.TEAFaiDataId = (function () {
     "process": "Keemun, Assam, Ceylon, dan teh hitam lain dicampur dan diberi aroma minyak bergamot; proporsinya berbeda menurut merek.",
     "story": "Pada tahun 1830-an, perdana menteri Inggris Charles Grey konon diberi teh beraroma dari Tiongkok, yang kemudian Twinings jadikan produk; Earl Grey menjadi keluarga teh, bukan sebuah merek.",
     "flavor": "Jeruk dan bunga, seimbang pada tiga menit. Satu cangkir mengandung 40–70 mg kafein.",
-    "pairing": "Scone dengan krim kental, cokelat hitam, tart lemon, yakgwa, salmon asap.",
+    "pairing": "Scone dengan krim kental, cokelat hitam, tart lemon, yakgwa, dan salmon asap berpadu baik. Jeruk bergamot memotong krim dengan menyegarkan, dan aromanya selaras dengan pahit cokelat. Hidangan bawang putih kuat akan mengubur keharumannya.",
     "brewTip": "Teh celup pada 90–95 °C selama 2½–3 menit; untuk teh susu, 4–5 menit pekat."
   },
   "blend-ladygrey": {
@@ -2078,7 +2078,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh hitam beraroma bergamot, kulit jeruk, dan kelopak bunga.",
     "story": "Konon namanya diambil dari Countess Grey.",
     "flavor": "Jeruk yang lebih lembut dari Earl Grey, dengan bunga dan rasa manis ringan.",
-    "pairing": "Tart buah, kue keju, es teh.",
+    "pairing": "Tart buah, cheesecake, es teh lemon, dan meringue beri berpadu baik. Jeruk yang lebih lembut daripada Earl Grey, dengan bunga, membungkus rasa asam dan manis cheesecake dengan ringan. Hidangan asap atau pedas yang kuat akan menghapus kelembutannya.",
     "brewTip": "3 menit; enak disajikan dingin."
   },
   "blend-englishbreakfast": {
@@ -2092,7 +2092,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dibangun di atas teh hitam kuat, dengan malt dan warna yang diperkuat.",
     "story": "Campuran kuat yang diminum saat sarapan di Inggris abad ke-19 menetap menjadi bentuk ini.",
     "flavor": "Malt, madu, dan buah kering, tahan terhadap susu.",
-    "pairing": "Daging asap dan telur, roti panggang, sarapan.",
+    "pairing": "Bacon dan telur, roti panggang bermentega, sosis panggang, dan selai jeruk berpadu baik. Malt dan madu yang dalam dengan kokoh mendukung sarapan asin dan bertahan di bawah susu. Salad buah halus saja bisa membuat kekuatan teh ini tak tertandingi.",
     "brewTip": "3–4 menit; dengan susu, 5 g untuk 150 ml."
   },
   "blend-hongkong": {
@@ -2106,7 +2106,7 @@ window.TEAFaiDataId = (function () {
     "process": "Beberapa teh hitam dicampur dan diseduh pekat, lalu ditambahkan susu evaporasi.",
     "story": "Teh susu Inggris menetap di Hong Kong sebagai cangkir pekat dengan susu evaporasi.",
     "flavor": "Malt kuat dan manis susu yang bulat, dengan tekstur tebal.",
-    "pairing": "Roti nanas, roti panggang, tart telur.",
+    "pairing": "Roti nanas, roti panggang bermentega, tart telur, dan roti panggang Prancis berpadu baik. Malt kuat, rasa manis bulat susu kental manis, dan tekstur tebal cocok dengan roti cha chaan teng seolah dibuat bersama. Salad sederhana berjalan pada tekstur yang berbeda.",
     "brewTip": "Lima menit, pekat. Tambahkan susu terakhir dan aduk."
   },
   "black-lapsang-unsmoked": {
@@ -2120,7 +2120,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan hanya di atas arang — tanpa pengasapan.",
     "story": "Cabang Zhengshan Xiaozhong yang tidak dikeringkan dengan asap: daun dan seduhannya bersih, tanpa asap pinus.",
     "flavor": "Buah kering, madu, bunga, rasa lembut — teh dasar tanpa asap.",
-    "pairing": "Tart buah, daging panggang tanpa asap, hidangan penutup.",
+    "pairing": "Tart buah, daging panggang tanpa asap, kue madu, dan hidangan penutup kacang berpadu baik. Buah kering, madu, dan bunga tanpa asap membungkus daging panggang dengan lembut dan membiarkan aroma sejati teh tampak. Hidangan asap akan menghapus maksud gaya tanpa asap ini.",
     "brewTip": "2½ menit pada 90 °C; tetap enak dengan susu.",
     "keep": "Tertutup rapat, sejuk dan kering.",
     "keywords": "Zhengshan Xiaozhong tanpa asap Lapsang Wuyi teh hitam"
@@ -2136,7 +2136,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan — daun besar membutuhkan oksidasi yang lama.",
     "story": "Teh hitam Guangdong dari semak berdaun besar di Yingde; kuat dan cerah, dan digunakan sebagai bahan dasar teh susu.",
     "flavor": "Malt, madu, buah merah; seduhan gelap yang aromanya bertahan dengan susu.",
-    "pairing": "Sarapan, teh susu, daging panggang.",
+    "pairing": "Sarapan mengenyangkan, teh susu, daging panggang, dan roti panggang madu berpadu baik. Malt, madu, dan buah merah tetap aromatik meski dengan susu, dengan kokoh mendukung daging kaya dan sarapan. Hidangan ikan bening dan halus bisa kewalahan oleh kedalamannya.",
     "brewTip": "3 menit pada 95 °C; gandakan daun untuk teh susu.",
     "keep": "Tertutup rapat, sejuk dan kering.",
     "keywords": "Yingde teh hitam Guangdong daun besar teh susu"
@@ -2152,7 +2152,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan; sebagian besar daun remuk halus, mirip CTC.",
     "story": "Rize di pesisir Laut Hitam adalah pusat teh Turki; tehnya diseduh pekat dan disajikan dalam gelas tulip kecil.",
     "flavor": "Malt dan roti panggang, seduhan merah pekat; biasanya disajikan dengan gula kubus.",
-    "pairing": "Sarapan, roti, kue manis.",
+    "pairing": "Sarapan ala Turki, roti segar, camilan manis seperti Turkish delight, dan keju berpadu baik. Kegurihan malt dan roti panggang bertemu rasa manis gula batu dan melembutkan rasa asin roti dan keju. Hidangan penutup buah yang halus mudah terkubur.",
     "brewTip": "Seduhan pekat lima menit; teko ganda memungkinkan Anda mengencerkannya sesuai selera.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "Rize cay teh Turki Laut Hitam"
@@ -2168,7 +2168,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan; sebagian besar CTC, remuk halus.",
     "story": "Teh hitam dari Cameron Highlands di Malaysia, pada ketinggian sekitar 1.500 m; satu perkebunan telah menanam teh sejak 1929.",
     "flavor": "Malt dan roti panggang, seduhan gelap yang cocok dengan susu.",
-    "pairing": "Sarapan, teh susu, scone.",
+    "pairing": "Sarapan, teh susu, scone, dan roti panggang kaya berpadu baik. Seduhan gelap malt dan roti panggang berbaur mulus dengan susu dan cocok dengan meja sarapan Asia Tenggara. Buah saja membuat kekuatannya menonjol, jadi tambahkan sedikit roti.",
     "brewTip": "Tiga menit pada 95 °C; seduh pekat dan tambahkan susu, seperti cara setempat.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "Cameron Highlands Malaysia teh hitam perkebunan dataran tinggi"
@@ -2184,7 +2184,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan; sebagian besar CTC.",
     "story": "Rwanda adalah produsen dataran tinggi Afrika Timur; daun tumbuh perlahan di perbukitan berkabut pada 1.600–2.000 m.",
     "flavor": "Malt dengan tepian cerah, seduhan merah pekat, lebih lembut dari teh Kenya.",
-    "pairing": "Sarapan, teh susu, roti.",
+    "pairing": "Sarapan, teh susu, roti panggang, dan selai di atas roti panggang berpadu baik. Malt dengan tepi cerah merapikan sarapan kaya dengan lebih lembut daripada teh Kenya. Hidangan penutup cokelat yang sangat gelap bisa bertabrakan dengan keasaman cerah itu.",
     "brewTip": "Tiga menit pada 95 °C; susu membulatkan kecerahannya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "Rwanda teh hitam Afrika Timur dataran tinggi CTC"
@@ -2200,7 +2200,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi, dikeringkan; daun dataran yang kuat, sering digunakan dalam campuran sarapan.",
     "story": "Dataran Benggala Barat utara, di selatan Darjeeling dan timur Assam — sabuk di antara dua wilayah terkenal itu.",
     "flavor": "Malt dan roti panggang, kuat dengan cengkeraman yang cukup — enak dengan susu.",
-    "pairing": "Sarapan, teh susu.",
+    "pairing": "Sarapan, teh susu, roti panggang bermentega, dan sosis panggang berpadu baik. Malt dan roti panggang dengan cengkeraman yang cukup melembut menjadi susu dan dengan kokoh mendukung piring pagi yang asin. Hidangan penutup halus kalah oleh kekuatannya.",
     "brewTip": "Tiga menit pada 95 °C; menyatu dengan baik ke dalam campuran sarapan.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "Dooars teh India Benggala Barat sarapan"
@@ -2216,7 +2216,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dilayukan, digulung, dioksidasi penuh, dikeringkan — daun musim panas.",
     "story": "Yeongdeok, di pesisir timur Korea, memiliki pertanian kecil yang membuat teh hitam dari daun setempat; volumenya kecil dan sebagian besar dijual secara lokal.",
     "flavor": "Malt dengan sedikit aroma bunga, manis lembut; lebih ringan dari teh hitam Hadong.",
-    "pairing": "Hidangan penutup polos, buah kering, teh pagi.",
+    "pairing": "Hidangan penutup sederhana, buah kering, secangkir pagi, dan kerupuk beras berpadu baik. Malt dengan nuansa bunga samar dan rasa manis lembut lebih ringan daripada teh hitam Hadong, tidak pernah mengganggu camilan ringan. Hidangan kuat seperti kari kaya akan menutupi keringanannya.",
     "brewTip": "Tiga menit pada 90 °C; daun yang lembut memberikan dua seduhan yang baik.",
     "keep": "Tertutup rapat, sejuk dan kering.",
     "keywords": "Yeongdeok teh hitam Korea pesisir timur"
@@ -2232,7 +2232,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dipanaskan, digulung, ditumpuk, dipres, lalu dikeringkan dalam tahap 'pembungaan' tempat bunga emas berkembang.",
     "story": "Terkenal karena 'bunga emas' kuning yang mekar di dalam bata — jamur yang didorong oleh kehangatan dan kelembapan yang terkendali.",
     "flavor": "Jamur, tanah, biji-bijian; manis bulat yang lembut, semakin halus semakin banyak bunga emasnya.",
-    "pairing": "Daging berlemak, makanan Tiongkok, produk susu.",
+    "pairing": "Daging berlemak, makanan Tiongkok, produk susu seperti yoghurt, dan jamur panggang berpadu baik. Kegurihan jamur dan biji-bijian dengan rasa manis lembut dan bulat dengan tenang membersihkan lemak daging. Keasaman buah segar terasa janggal dengan rasa manis bulat itu.",
     "brewTip": "Air mendidih; bilas sekali, dan bisa juga direbus.",
     "keep": "Kelembapan sekitar 60%, jauh dari bau — bunganya terus berkembang.",
     "keywords": "Fu brick tea bunga emas Anhua teh gelap bata"
@@ -2248,7 +2248,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dipanaskan, digulung, ditumpuk, dipres ke dalam bambu, lalu dikeringkan selama berbulan-bulan; dipotong sesuai kebutuhan.",
     "story": "Balok panjang teh yang dimampatkan di dalam selubung bambu; namanya berasal dari berat lamanya 1.000 liang, sekitar 36 kg.",
     "flavor": "Bambu dan tanah, manis yang dalam; semakin lembut semakin lama disimpan.",
-    "pairing": "Makanan berlemak, makanan Tiongkok, produk susu.",
+    "pairing": "Santapan berlemak, tumisan Tiongkok, hidangan penutup susu, dan daging asap berpadu baik. Bambu dan tanah dengan rasa manis dalam menenangkan mulut dengan berbobot setelah makanan kaya. Salad ringan tidak sepadan bobotnya.",
     "brewTip": "Air mendidih; seduhan pertama singkat karena baloknya padat.",
     "keep": "Kering dan berangin, selubung bambu tetap terpasang.",
     "keywords": "Qianliang teh Anhua bambu pres teh gelap"
@@ -2264,7 +2264,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dipanaskan, digulung, ditumpuk, dipres, dikeringkan; daun dan tangkai kasar dipres keras.",
     "story": "Teh gelap pres dari Ya'an, Sichuan, bagian dari perdagangan teh bata 'jalur selatan' ke Tibet, tempat teh ini direbus dengan susu dan garam.",
     "flavor": "Tanah dan biji-bijian, kuat dan agak kasar; susu atau mentega melembutkannya.",
-    "pairing": "Daging, produk susu, hidangan kaya rasa.",
+    "pairing": "Hidangan daging, produk susu seperti mentega dan keju, santapan kaya, dan camilan jelai sangrai berpadu baik. Tanah dan biji-bijian dalam rasa manis kuat dan sedikit kasar melembut dengan susu atau mentega dan menghadapi lemak daging secara langsung. Hidangan penutup halus bisa kewalahan.",
     "brewTip": "Lama pada 100 °C; gaya Tibet menambahkan susu dan garam.",
     "keep": "Kering dan berangin.",
     "keywords": "Kangzhuan Sichuan teh bata Tibet teh gelap"
@@ -2280,7 +2280,7 @@ window.TEAFaiDataId = (function () {
     "process": "Minuman sehari-hari Tibet: teh bata direbus hingga menjadi konsentrat pekat, lalu dikocok dengan mentega dan garam.",
     "story": "Teh direbus menjadi konsentrat ('chaku') dan disimpan; setiap sajian dikocok dengan mentega dan garam.",
     "flavor": "Mentega dan asin di atas aroma tanah teh gelap; aneh pada awalnya, menghangatkan setelahnya.",
-    "pairing": "Tsampa (tepung jelai panggang), daging, sarapan.",
+    "pairing": "Tsampa (tepung jelai sangrai), daging kering, sarapan, dan keju asin berpadu baik. Kekayaan mentega, garam, dan tanah teh gelap membawa rasa jelai dan daging menjadi sesuatu yang mengenyangkan seperti santapan. Hidangan penutup manis bertabrakan dengan rasa asinnya.",
     "brewTip": "Kuncinya adalah merebus teh hingga pekat; gunakan mentega tawar.",
     "keep": "Simpan konsentrat di lemari es dan panaskan kembali untuk disajikan.",
     "keywords": "Tibetan butter tea suyou cha teh bata Tibet"
@@ -2296,7 +2296,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dipanaskan, digulung, ditumpuk, dipres, dikeringkan; daun dan tangkai dipres keras.",
     "story": "Teh gelap bata hijau dari Zhaoliqiao, Hubei; bata yang dituakan disebut lao qingzhuan dan keluarga teh inilah yang dulu berkelana ke Mongolia dan Rusia.",
     "flavor": "Tanah dan biji-bijian, manis lembut; bata yang lebih tua lebih tenang.",
-    "pairing": "Daging berlemak, produk susu, makanan Tiongkok.",
+    "pairing": "Daging berlemak, produk susu, makanan Tiongkok, dan kacang sangrai berpadu baik. Kegurihan tanah dan biji-bijian dengan rasa manis lembut dengan tenang membilas lemak daging untuk akhir yang nyaman. Salad buah segar berjalan pada arah berbeda dari kelembutannya.",
     "brewTip": "Lama pada 100 °C; merebusnya memunculkan rasa manis.",
     "keep": "Kering dan berangin.",
     "keywords": "Lao Qingzhuan Hubei Zhaoliqiao teh gelap bata"
@@ -2312,7 +2312,7 @@ window.TEAFaiDataId = (function () {
     "process": "Dipanaskan, digulung, ditumpuk, dikeringkan, lalu dituakan dalam keadaan lepas di dalam wadah.",
     "story": "Kelas tertinggi teh gelap 'Xiangjian' dari Anhua, dan tidak biasa karena tidak dipres — daunnya tetap lepas.",
     "flavor": "Asap dan tanah, manis mirip kurma; lebih ringan dan segar dari teh gelap pres.",
-    "pairing": "Makanan berlemak, makanan Tiongkok, buah kering.",
+    "pairing": "Santapan berlemak, makanan Tiongkok, buah kering, dan kastanye sangrai berpadu baik. Asap dan tanah dengan rasa manis mirip kurma, lebih ringan daripada teh gelap pres, membuatnya mudah setelah makanan kaya. Ikan halus bisa tersembunyi oleh asap.",
     "brewTip": "Seduhan singkat berulang pada 100 °C; rasa manis muncul dari seduhan ketiga.",
     "keep": "Kering dan berangin, jauh dari bau kuat.",
     "keywords": "Tianjian Anhua teh gelap lepas Xiangjian"
@@ -2328,7 +2328,7 @@ window.TEAFaiDataId = (function () {
     "process": "Tunas mawar kering dicampur dengan teh hitam atau hijau — atau diseduh sendiri.",
     "story": "Daun dan bunga kering dicampur, atau teh pekat diberi aroma mawar.",
     "flavor": "Mawar dan manis madu dengan malt di belakangnya.",
-    "pairing": "Cokelat, kacang, hidangan penutup buah.",
+    "pairing": "Cokelat, kacang sangrai, hidangan penutup buah seperti stroberi, dan makaron mawar berpadu baik. Aroma mawar dan rasa manis madu bertemu kedalaman cokelat, dengan malt di belakang sehingga keharuman tetap berpijak. Makanan pedas akan menyebarkan mawar.",
     "brewTip": "2½ menit pada 90 °C; terlalu banyak kelopak membuatnya seperti sabun, jadi jaga tetap singkat.",
     "keep": "Tertutup rapat dan sejuk; kelopak yang pudar berarti aroma yang pudar.",
     "keywords": "rose tea meigui teh hitam beraroma mawar"
@@ -2344,7 +2344,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh hitam Kanton beraroma leci, buah dari Guangdong selatan dan Fujian.",
     "story": "Daun teh hitam diberi aroma leci, atau buah kering dicampurkan ke dalamnya.",
     "flavor": "Leci manis di atas malt; aromanya bertahan meski diberi es.",
-    "pairing": "Hidangan penutup buah, es teh.",
+    "pairing": "Hidangan penutup buah, jeli leci, es teh, dan puding kelapa berpadu baik. Aroma leci manis bertahan meski dengan es, berlapis manis di atas hidangan penutup buah saat disajikan dingin. Hidangan daging berat berlawanan dengan aroma buah.",
     "brewTip": "2½ menit pada 90 °C; seduh dua kali lebih pekat untuk es teh.",
     "keep": "Tertutup rapat dan sejuk.",
     "keywords": "lychee black tea lizhi Guangdong teh buah leci"
@@ -2360,7 +2360,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh hitam pekat dengan susu kental manis dan gula, dituang di atas es — minuman jalanan Thailand yang oranye cerah.",
     "story": "Teh hitam remuk halus diseduh pekat, dimaniskan dengan susu kental manis, dituang di atas es.",
     "flavor": "Malt dan gula yang sangat kuat, creamy dari susu kental manis; semakin lembut saat es mencair.",
-    "pairing": "Makanan Thailand pedas, hidangan penutup.",
+    "pairing": "Hidangan Thailand pedas, pad thai, hidangan penutup kelapa, dan ketan mangga berpadu baik. Malt dan gula yang sangat kuat dengan krim susu kental manis membungkus pedas makanan Thailand dengan lembut seperti satu set. Di samping makanan sederhana, rasa manisnya bisa menonjol.",
     "brewTip": "Seduh lima menit hingga pekat; atur rasa manis dengan susu kental manis.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "cha yen Thai iced tea es teh Thailand susu kental manis"
@@ -2376,7 +2376,7 @@ window.TEAFaiDataId = (function () {
     "process": "Campuran sarapan yang condong ke Assam: lebih gelap dan lebih kuat dari English Breakfast.",
     "story": "Sebagian besar Assam dengan daun Ceylon dan Kenya untuk malt dan warna.",
     "flavor": "Malt dan warna yang pekat; susu membuatnya creamy.",
-    "pairing": "Sarapan, roti gelap, mentega.",
+    "pairing": "Sarapan mengenyangkan, roti gelap, mentega dan selai, serta sosis panggang berpadu baik. Malt dan warna yang dalam menjadi lembut seperti krim dengan susu, dengan berbobot mendukung piring pagi yang asin. Buah ringan saja tidak bisa menyeimbangkan kekuatannya.",
     "brewTip": "Empat menit pada 98 °C; tambahkan sedikit lebih banyak daun jika Anda memakai susu.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "Irish breakfast Assam campuran kuat sarapan"
@@ -2392,7 +2392,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan — teh hitam gongfu Sichuan, sejajar dengan Keemun dan Dianhong.",
     "story": "Menetap di Yibin pada tahun 1950-an, teh hitam yang relatif muda; Sichuan Jinya yang seluruhnya tunas adalah kelas unggulannya.",
     "flavor": "Bunga mirip mawar, rasa penuh, dan manis yang datang bergulung setelahnya — huigan.",
-    "pairing": "Makanan Tiongkok, hidangan asap, cokelat hitam.",
+    "pairing": "Makanan Tiongkok, hidangan asap, cokelat hitam, dan bebek panggang berpadu baik. Bunga mirip mawar, bodi penuh, dan rasa manis yang datang menyusul (huigan) membawa rasa asap jauh sekali. Makanan yang sangat asam akan memotong rasa manis yang kembali itu.",
     "brewTip": "Sekitar 85 °C adalah kuncinya; air yang benar-benar mendidih membuatnya kasar.",
     "keep": "Tertutup rapat, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Chuanhong Sichuan Yibin gongfu teh hitam Sichuan Jinya mawar"
@@ -2424,7 +2424,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan — daun keluarga Longjing yang dibuat menjadi teh hitam.",
     "story": "Wajah lain Hangzhou: teh hitam bernama hongmei, prem merah, karena daunnya yang mirip bunga.",
     "flavor": "Aroma kakao, manis buah kering, dan bunga lembut.",
-    "pairing": "Cokelat, kacang, kue panggang manis.",
+    "pairing": "Cokelat, kacang-kacangan, manisan panggang, dan buah ara kering berpadu baik. Nuansa kakao dan rasa manis buah kering berlapis alami di atas kue panggang gurih, dengan bunga lembut mengangkat akhirnya. Makanan pedas akan menutupi aroma bunga yang halus.",
     "brewTip": "85–90 °C selama 2 menit; lebih lama dan rasa sepat melangkah mendahului kakao.",
     "keep": "Tertutup rapat, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Jiuqu Hongmei Hangzhou Danau Barat Longjing teh hitam kakao"
@@ -2440,7 +2440,7 @@ window.TEAFaiDataId = (function () {
     "process": "Debu teh hitam dikukus dan dipres dalam cetakan → dikeringkan: teh hitam bata yang dimampatkan.",
     "story": "Dibuat di Hunan untuk Xinjiang dan wilayah barat laut; bata Zhaoliqiao bercap lokomotif adalah lambangnya.",
     "flavor": "Malt kuat dan gurih beraroma tanah; juga diminum dengan susu atau garam.",
-    "pairing": "Makanan berminyak, daging kambing, produk susu.",
+    "pairing": "Makanan berminyak, domba, produk susu, dan kentang panggang berpadu baik. Malt kuat dan kegurihan tanah menghadapi lemak domba secara langsung dan mempertahankan rasanya meski dicampur susu atau garam. Hidangan penutup bening dan ringan berlawanan dengan kedalaman tanahnya.",
     "brewTip": "Pecahkan sekitar 5 g dan beri 5 menit dalam air mendidih; bisa juga direbus perlahan.",
     "keep": "Kering dan berventilasi — teh bata memang dibuat untuk disimpan.",
     "keywords": "Mizhuan Hunan teh bata teh hitam mampat Zhaoliqiao"
@@ -2456,7 +2456,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan — teh hitam Danau Sun Moon dari Hong Yun (TTES No.21), assamica × Keemun.",
     "story": "Ia berbagi Danau Sun Moon dengan Hong Yu (No.18), tetapi garis manis-asam pomelo dan bunga adalah milik Hong Yun sendiri.",
     "flavor": "Aroma pomelo dan bunga dengan cita rasa buah manis-asam — garis yang berbeda dari kayu manis dan mentol Hong Yu.",
-    "pairing": "Hidangan penutup buah, makanan Tiongkok, kue ringan.",
+    "pairing": "Hidangan penutup buah, hidangan Tiongkok ringan, kue yuzu, dan kue sifon berpadu baik. Nuansa buah jeruk bali dan bunga yang manis-asam berbaur menyegarkan dengan kue ringan. Hidangan asap atau pedas yang kuat akan mengubur aroma buah.",
     "brewTip": "95 °C selama 3 menit; aromanya lebih halus dari Hong Yu, jadi lewati susu.",
     "keep": "Tertutup rapat, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Hong Yun Danau Sun Moon TTES No.21 pomelo teh hitam Taiwan"
@@ -2472,7 +2472,7 @@ window.TEAFaiDataId = (function () {
     "process": "Pelayuan → penggulungan → oksidasi → pengeringan — teh hitam dari assamica tua yang ternaturalisasi dan stok gunung asli.",
     "story": "Dekat dengan sumber teh Danau Sun Moon: banyak pohon berusia tinggi, daun sedikit, dan status yang dihargai.",
     "flavor": "Madu liar, herba, dan buah kering dalam rasa manis yang dalam — lebih kasar dan lebih panjang dari kultivar tanam.",
-    "pairing": "Kacang, buah kering, keju tua.",
+    "pairing": "Kacang-kacangan, buah kering, keju tua, dan roti panggang madu berpadu baik. Madu liar, herba, dan buah kering dalam rasa manis yang dalam dengan akhir kasar dan panjang dengan berbobot menghadapi rasa asin dan kekayaan keju tua. Hidangan ikan bening akan kewalahan.",
     "brewTip": "90 °C selama 2 menit; daun pohon tua semakin manis seiring berlanjutnya seduhan.",
     "keep": "Tertutup rapat, sejuk dan kering; dalam dua bulan setelah dibuka.",
     "keywords": "Ziya Shancha teh gunung liar Taiwan Danau Sun Moon teh hitam pohon tua"
@@ -2486,7 +2486,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit; dengan cheong, cukup larutkan dalam air panas.",
     "origin": "Di seluruh Korea, dengan kurma merah Gyeongsan dan Boeun yang paling terkenal.",
     "flavor": "Manis kurma merah dengan sedikit aroma sangrai dan rasa yang lembut.",
-    "pairing": "Manisan Korea, kastanye, camilan musim dingin.",
+    "pairing": "Manisnya yang dalam cocok dengan yakgwa, injeolmi, dan kue kenari, serta sejalan karakternya dengan yanggaeng kastanye. Setelah makanan hari raya yang berat, rasa manisnya menenangkan mulut dengan lembut. Hindari hidangan penutup manis seperti kue cokelat, karena rasa manisnya akan bertumpuk dan terasa enek.",
     "brewTip": "Belah buahnya agar rasa manisnya lebih cepat keluar.",
     "keywords": "teh kurma merah daechu jujube Korea musim dingin bebas kafein"
   },
@@ -2499,7 +2499,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "Aduk ke dalam air 95 °C; irisan jahe segar butuh 5 menit.",
     "origin": "Korea dan Tiongkok; irisan tipis akar yang diawetkan dalam madu.",
     "flavor": "Pedas bersih khas jahe dengan manis madu.",
-    "pairing": "Saat mulai merasa akan flu, atau setelah makan.",
+    "pairing": "Pedas hangat dan rasa manisnya menyeimbangkan camilan manis yang kenyal seperti injeolmi, kesemek kering, dan yaksik. Bersama ubi panggang di hari yang dingin, kehangatannya terasa berlipat dengan menyenangkan. Hindari makanan pedas seperti tteokbokki, karena sensasi pedasnya akan bertumpuk.",
     "brewTip": "Direbus terlalu lama, yang tersisa hanya rasa pedasnya.",
     "keywords": "teh jahe jahe madu Korea menghangatkan bebas kafein"
   },
@@ -2512,7 +2512,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "80 °C menjaga aromanya; air mendidih membuatnya hilang.",
     "origin": "Goheung dan Wando di Jeollanam-do; yuja bulan November–Desember diawetkan utuh dengan kulitnya.",
     "flavor": "Aroma kulit jeruk dengan rasa asam yang bersih.",
-    "pairing": "Buah, hidangan penutup, tenggorokan yang tidak nyaman.",
+    "pairing": "Aroma yuja yang cerah dan rasa manis-asamnya menyegarkan dan melunturkan rasa kaya mentega dari castella, madeleine, dan kue keju. Ia juga cocok dengan roti lapis yang ringan. Hindari hidangan penutup cokelat hitam, yang aromanya bisa bertabrakan dengan yuja.",
     "brewTip": "80 °C, bukan air mendidih, agar wangi tetap terjaga.",
     "keywords": "teh yuja yuzu madu Korea musim dingin"
   },
@@ -2525,7 +2525,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "Air dingin membuatnya tetap cerah; air panas mengusir aromanya.",
     "origin": "Mungyeong di Gyeongsang Utara dan Jeongseon di Gangwon; buah beri diawetkan setelah matang pada bulan September.",
     "flavor": "Asam, manis, pahit, asin, dan pedas sekaligus.",
-    "pairing": "Punch buah musim panas, manisan Korea.",
+    "pairing": "Rasa asamnya yang jernih, yang paling menonjol di antara lima rasa, melunturkan rasa berminyak dari makanan berat seperti perut babi dan jeon. Ia juga berpadu manis-asam dengan kue beras seperti hwajeon dan injeolmi. Hindari hidangan penutup yang sangat asam seperti tart lemon, karena rasa asamnya akan berlipat ganda.",
     "brewTip": "Campur dengan air dingin atau es agar rasa asamnya bertahan.",
     "keywords": "teh omija schisandra lima rasa Korea musim panas"
   },
@@ -2538,7 +2538,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "Hangatkan rebusannya; sebagian orang mengaduk kuning telur ke dalamnya.",
     "origin": "Teh herbal tradisional Korea dari peony, rehmannia, astragalus, angelica, cnidium, kayu manis, dan akar manis, dengan jahe dan kurma merah.",
     "flavor": "Herbal pahit dan manis, dalam dan berat.",
-    "pairing": "Saat lelah, di musim dingin, setelah makan.",
+    "pairing": "Rasa herbalnya yang dalam dan manis cocok dengan camilan musim dingin seperti yaksik, injeolmi, dan kesemek kering, serta serasi dengan kastanye panggang. Bodinya yang penuh mampu mengimbangi camilan yang mengenyangkan. Hindari makanan ringan seperti salad, karena rasa tehnya akan terlalu mendominasi.",
     "brewTip": "Hangatkan dan tambahkan madu atau sirup kurma merah agar lebih lembut.",
     "keywords": "teh ssanghwa herbal tradisional Korea sembilan ramuan obat"
   },
@@ -2551,7 +2551,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit; direbus membuatnya lebih gurih.",
     "origin": "Lereng bukit Korea; akarnya digali pada musim gugur, dikeringkan, dan disangrai.",
     "flavor": "Manis biji-bijian sangrai dengan akhir yang ringan.",
-    "pairing": "Setelah makan, malam hari, dengan hidangan penutup.",
+    "pairing": "Aroma sangrai akar panggang dan rasa manisnya yang lembut menyatu secara alami dengan hidangan nasi seperti gimbap dan bola nasi, serta dengan ubi panggang. Ringan dan mudah diminum, ia cocok untuk makanan sehari-hari. Hindari makanan berbumbu kuat, yang akan menenggelamkan rasa sangrainya.",
     "brewTip": "Akar sangrai butuh lima menit atau lebih.",
     "keywords": "teh dunggulle akar Solomon sangrai Korea"
   },
@@ -2564,7 +2564,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit.",
     "origin": "Korea dan Jepang; bijinya disangrai sebelum diseduh.",
     "flavor": "Biji-bijian sangrai dengan pahit samar khas soba.",
-    "pairing": "Setelah makan, malam hari, dengan pancake soba.",
+    "pairing": "Rasa soba panggang yang gurih dan sederhana cocok dengan makanan utama seperti crepe soba, pangsit, dan gimbap. Cukup lembut untuk hampir semua hidangan, ia membuat mulut terasa bersih setelah makan. Hidangan penutup krim yang kaya akan mengalahkan kesederhanaannya.",
     "brewTip": "Soba sangrai selesai dalam lima menit.",
     "keywords": "teh soba buckwheat sangrai biji-bijian Korea bebas kafein"
   },
@@ -2577,7 +2577,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "Rebus perlahan 10 menit dalam air mendidih.",
     "origin": "Di seluruh Korea, menggunakan jelai sangrai yang belum dikupas.",
     "flavor": "Biji-bijian sangrai dengan akhir yang bersih.",
-    "pairing": "Setiap hidangan, makanan pedas.",
+    "pairing": "Rasa sangrainya yang bersih cocok dengan makanan Korea secara umum — bibimbap, sup kimchi, perut babi. Diminum bersama makanan berat, ia menyegarkan mulut. Dengan hidangan penutup bunga yang beraroma halus, rasa sangrainya bisa mengambil alih, jadi nikmatilah secara terpisah.",
     "brewTip": "Rebus, dinginkan, dan minum sepanjang hari.",
     "keywords": "teh jelai barley sangrai Korea diminum seperti air"
   },
@@ -2590,7 +2590,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "Rebus perlahan 10 menit.",
     "origin": "Korea dan Jepang; beras cokelat dengan kulit ari yang masih menempel disangrai.",
     "flavor": "Aroma nasi sangrai gosong dengan manis ringan.",
-    "pairing": "Bersama hidangan, setelah makan.",
+    "pairing": "Rasa sangrainya, yang semakin dalam semakin lama direbus, cocok dengan makanan Korea sederhana seperti sup doenjang, sayuran berbumbu, dan gimbap. Akhir rasa gurihnya mengangkat kekenyangan hidangan. Dengan makanan ringan seperti salad atau ikan mentah, teh ini bisa terasa berat.",
     "brewTip": "Semakin lama direbus, semakin dalam rasanya.",
     "keywords": "teh beras cokelat sangrai kerak nasi Korea"
   },
@@ -2603,7 +2603,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "90 °C selama 3 menit.",
     "origin": "Di seluruh Korea; daun dipetik pada bulan Juni dan Juli, dikukus atau dikeringkan.",
     "flavor": "Rasa hijau ringan dan manis, sedikit sepat.",
-    "pairing": "Setelah makan, dengan camilan.",
+    "pairing": "Aroma hijaunya yang lembut dan sepat ringannya menahan rasa manis kue beras kenyal seperti injeolmi dan jeolpyeon. Ia juga cocok dengan roti lapis yang ringan. Hindari makanan yang sangat asam, yang bisa membuat rasa sepatnya menonjol.",
     "brewTip": "Mengukus daun mengurangi rasa sepat dan membuatnya lebih awet.",
     "keywords": "teh daun kesemek vitamin C Korea"
   },
@@ -2616,7 +2616,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit.",
     "origin": "Korea dan Tiongkok; daun akhir musim semi dan musim panas dikeringkan dan disangrai.",
     "flavor": "Daun sangrai dengan manis ringan.",
-    "pairing": "Ringan, setelah makan.",
+    "pairing": "Aroma hijaunya yang sederhana dan rasa manis ringannya cocok dengan makanan yang berpusat pada sayuran seperti bibimbap, sayuran berbumbu, dan hidangan tahu. Rasanya yang lembut tidak pernah mengganggu hidangan. Dengan hidangan daging berbumbu kuat, kelembutannya akan tertimbun.",
     "brewTip": "Daun sangrai butuh lima menit.",
     "keywords": "teh daun murbei sangrai Korea"
   },
@@ -2629,7 +2629,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "90 °C selama 3 menit; lebih lama membuatnya pahit.",
     "origin": "Kolam di Korea dan Tiongkok; daun musim panas dikeringkan.",
     "flavor": "Hijau dan agak pahit, menyejukkan.",
-    "pairing": "Setelah hidangan berlemak, di musim panas.",
+    "pairing": "Rasanya yang bersih dan sedikit pahit cocok dengan makanan sederhana seperti nasi daun teratai dan kue beras ketan. Ia juga serasi dengan hidangan kukus rendah lemak, meninggalkan akhir yang segar. Hindari makanan berbumbu kuat, yang akan menenggelamkan aromanya yang halus.",
     "brewTip": "Dua gram sudah cukup; lebih dari itu pahit.",
     "keywords": "teh daun teratai musim panas Korea menyegarkan"
   },
@@ -2642,7 +2642,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 10 menit; direbus membuatnya lebih dalam.",
     "origin": "Bukit-bukit Korea; akar musim gugur dikeringkan.",
     "flavor": "Pahit ringan dan manis, dengan aroma akar.",
-    "pairing": "Tenggorokan tidak nyaman, musim dingin.",
+    "pairing": "Rasa akar yang pahit-manis menyeimbangkan camilan manis seperti yaksik dan kesemek kering, serta cocok dengan ubi panggang. Direbus bersama jujube, rasa pahitnya melembut. Dengan makanan pedas, rasa pahitnya bisa bertumpuk dan terasa keras.",
     "brewTip": "Akar kering perlu direbus.",
     "keywords": "teh akar bunga balon doraji tenggorokan Korea"
   },
@@ -2655,7 +2655,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "90 °C selama 3 menit.",
     "origin": "Di seluruh Korea; daun muda bulan Maret dan April dikeringkan.",
     "flavor": "Hijau dan agak pahit; teh musim semi yang diminum hangat.",
-    "pairing": "Musim semi, setelah makan.",
+    "pairing": "Aroma mugwort-nya yang dalam dan rasa pahitnya menyatu secara alami dengan kue beras seperti tteok mugwort, ssuk-beomuri, dan injeolmi. Akhir yang pahit menahan rasa manis kue sehingga tidak terasa enek. Kopi pekat atau makanan berbumbu bisa bertabrakan dengan aroma mugwort.",
     "brewTip": "Dua gram mugwort kering sudah lebih dari cukup.",
     "keywords": "teh mugwort artemisia musim semi Korea"
   },
@@ -2668,7 +2668,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "100 °C selama 3 menit, atau direbus 10 menit.",
     "origin": "Jeolla dan Gyeongsang di Korea; daun kukus ditumbuk dan ditekan dalam cetakan lalu dikeringkan.",
     "flavor": "Herbal, kurma merah, dan tanah, lembut dan menghangatkan.",
-    "pairing": "Setelah makan, musim dingin, makanan berlemak.",
+    "pairing": "Rasanya yang dalam dan berbobot cocok dengan manisan teh tradisional seperti yakgwa dan kesemek kering, serta serasi dengan kue beras ketan. Bodi penuh dari perebusan lama menyeimbangkan camilan manis. Dengan makanan ringan seperti salad, teh ini bisa terasa terlalu berat.",
     "brewTip": "Patahkan satu keping dan rebus untuk rasa yang lebih dalam.",
     "keywords": "tteokcha teh kueh teh koin Korea fermentasi"
   },
@@ -2681,7 +2681,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit dengan tutup terpasang.",
     "origin": "Mesir, Jerman, dan tempat lain; bunganya dikeringkan.",
     "flavor": "Apel, madu, dan jerami, lembut dan agak manis.",
-    "pairing": "Malam hari, hidangan penutup, sesendok madu.",
+    "pairing": "Aroma bunganya yang lembut seperti apel cocok dengan kue panggang seperti madeleine, scone, dan biskuit. Karakternya juga sejalan dengan roti panggang madu. Hindari makanan berbawang putih kuat, yang akan menenggelamkan aroma bunganya yang halus.",
     "brewTip": "Lima menit dalam air mendidih, tutup terpasang agar aroma terjaga.",
     "keywords": "teh kamomil sebelum tidur madu bebas kafein"
   },
@@ -2694,7 +2694,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit.",
     "origin": "Eropa dan Amerika; daun mint kering.",
     "flavor": "Mentol yang sejuk, tidak sepat.",
-    "pairing": "Setelah makan, setelah makanan berlemak.",
+    "pairing": "Sensasi dinginnya yang kuat cocok dengan cokelat dan kue cokelat, dan setelah makanan berat ia menyegarkan mulut. Ia juga berpadu segar dengan es krim vanila. Dengan kue beras atau manisan teh yang beraroma halus, mint-nya bisa mengambil alih.",
     "brewTip": "Lima menit sudah cukup; lebih lama membuatnya pahit.",
     "keywords": "teh pepermin sejuk setelah makan bebas kafein"
   },
@@ -2707,7 +2707,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit; lebih lama membuatnya sangat asam.",
     "origin": "Afrika, Amerika Latin, dan Asia Tenggara; kelopak rosella kering.",
     "flavor": "Asam beri yang tajam dan warna merah tua.",
-    "pairing": "Teh es, hidangan penutup, setelah makan.",
+    "pairing": "Rasa asamnya yang jernih seperti cranberry melunturkan hidangan penutup kaya seperti kue keju dan berpadu asam dengan yoghurt. Disajikan dingin, ia juga cocok dengan makanan pedas. Hindari tart lemon, karena rasa asamnya akan bertumpuk.",
     "brewTip": "Lima menit dalam air mendidih; lebih nikmat lagi disajikan dingin.",
     "keywords": "teh rosella hibiscus asam teh es bebas kafein"
   },
@@ -2720,7 +2720,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit; teh ini tidak pernah menjadi pahit.",
     "origin": "Cederberg di Afrika Selatan; daun seperti jarum difermentasi dan dikeringkan.",
     "flavor": "Vanila, ara, dan madu dengan manis yang lembut.",
-    "pairing": "Teh susu, teh es, hidangan penutup.",
+    "pairing": "Rasa manisnya yang lembut dan aroma kayu yang halus cocok dengan kue panggang seperti kukis dan pound cake, dan sebagai teh susu ia juga serasi dengan hidangan penutup cokelat. Makanan yang sangat asam bisa terasa bertentangan dengan rasa manisnya.",
     "brewTip": "Seduh lima menit atau lebih; dengan susu menjadi teh susu.",
     "keywords": "teh rooibos Afrika Selatan teh merah bebas kafein teh susu"
   },
@@ -2733,7 +2733,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "80 °C selama 3 menit; air mendidih membuatnya pahit.",
     "origin": "Argentina, Brasil, dan Paraguay; daun kering pohon mate.",
     "flavor": "Rumput, jerami, dan asap ringan, dengan akhir yang pahit.",
-    "pairing": "Pagi hari, saat bekerja, hidangan daging.",
+    "pairing": "Rasa rerumputannya yang pahit-manis cocok dengan daging panggang seperti asado dan empanada, serta mudah menyertai roti lapis. Rasa pahit khasnya memotong rasa berminyak. Hidangan penutup yang manisnya halus sulit dipadukan, karena rasa pahitnya akan menonjol.",
     "brewTip": "80 °C yang tepat; di atas 90 °C menjadi pahit.",
     "keywords": "teh yerba mate Amerika Selatan kafein labu bombilla"
   },
@@ -2746,7 +2746,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "90 °C selama 3 menit; lebih lama terasa seperti sabun.",
     "origin": "Provence di Prancis; bunga lavender kering.",
     "flavor": "Lavender, madu, dan jeruk ringan, sangat harum.",
-    "pairing": "Hidangan penutup, malam hari, untuk campuran.",
+    "pairing": "Aroma bunganya yang dalam cocok dengan kue panggang bermentega seperti shortbread dan scone, serta berlapis indah dengan es krim vanila. Seduhlah sebentar saja agar aromanya tidak menutupi makanan. Makanan berbumbu kuat bisa bertabrakan dengan aroma bunganya.",
     "brewTip": "Satu gram sudah cukup; sejumput dalam teh hitam juga cocok.",
     "keywords": "teh lavender Provence bunga harum bebas kafein"
   },
@@ -2759,7 +2759,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 5 menit.",
     "origin": "Thailand dan Vietnam; batang dan daun kering.",
     "flavor": "Lemon, jeruk, dan sedikit jahe, menyegarkan.",
-    "pairing": "Makanan Asia Tenggara, setelah makan, teh es.",
+    "pairing": "Aromanya yang segar seperti lemon menyatu secara alami dengan hidangan Asia Tenggara seperti tom yum, pad thai, dan kari hijau. Ia merapikan rasa pedas dan berminyak dengan rapi. Hidangan penutup krim yang kaya berada di jalur yang berbeda, jadi nikmatilah secara terpisah.",
     "brewTip": "Iris batangnya tipis-tipis dan seduh lima menit.",
     "keywords": "teh serai lemongrass Asia Tenggara segar bebas kafein"
   },
@@ -2772,7 +2772,7 @@ window.TEAFaiDataId = (function () {
     "steepBasis": "95 °C selama 3 menit.",
     "origin": "Hangzhou dan Huangshan di Tiongkok, dan Korea; krisan kuning dikeringkan.",
     "flavor": "Sentuhan obat yang sejuk dengan manis ringan.",
-    "pairing": "Kenari, kurma merah, setelah hidangan berlemak.",
+    "pairing": "Aroma bunganya yang lembut dan rasa manis ringannya cocok dengan manisan teh tradisional seperti yakgwa dan hangwa, serta serasi dengan kue beras ketan. Ia juga indah bersama kastanye panggang di musim gugur. Hindari makanan berbumbu kuat, yang akan menenggelamkan aroma bunganya yang halus.",
     "brewTip": "Saat bunganya mengapung, tutup cangkirnya agar aroma terjaga.",
     "keywords": "teh krisan bunga musim gugur bebas kafein"
   },
@@ -2787,7 +2787,7 @@ window.TEAFaiDataId = (function () {
     "process": "Quince diiris tipis, utuh dengan bijinya, diawetkan dalam gula, madu, atau jocheong → diaduk ke dalam air panas. Membiarkan kulitnya menjaga aromanya.",
     "story": "Buah ini disebut 'keharuman yang tumbuh di pohon' dan dipakai untuk mengharumkan ruangan jauh sebelum ada yang meminumnya.",
     "flavor": "Aroma bunga yang lembut dan manis, dengan sedikit sepat di akhir.",
-    "pairing": "Yakgwa, kue kenari, hidangan penutup musim dingin.",
+    "pairing": "Aroma bunganya yang lembut, rasa manis, dan akhir sepat samar cocok dengan yakgwa dan kue kenari, serta serasi dengan hidangan penutup musim dingin seperti kastanye panggang. Akhir yang sepat menahan gula pada manisan sehingga tidak terasa enek. Buah yang sangat asam bisa menutupi aromanya.",
     "brewTip": "Dua sendok cheong dalam 200 ml air 80–90 °C, buahnya ikut disertakan.",
     "keywords": "teh mogwa quince madu Korea musim dingin"
   },
@@ -2802,7 +2802,7 @@ window.TEAFaiDataId = (function () {
     "process": "Biji cassia sangrai, diseduh tanpa kafein, sehingga cocok untuk malam hari.",
     "story": "Bijinya disangrai untuk aroma, lalu diseduh lima menit atau lebih; tingkat sangrai menentukan keseimbangan rasa gurih kacang dan pahit.",
     "flavor": "Biji-bijian sangrai, pahit samar, sedikit manis di akhir.",
-    "pairing": "Hidangan, makanan berlemak, malam hari.",
+    "pairing": "Aroma sangrai biji-bijian dan pahit samarnya cocok dengan makanan berat seperti perut babi dan gorengan, dan ia berfungsi sebagai teh meja sehari-hari untuk makanan biasa. Akhir rasa gurihnya merapikan rasa berminyak. Dengan hidangan penutup bunga yang halus, rasa sangrainya bisa mengambil alih.",
     "brewTip": "Lima menit atau lebih; biji yang keras diuntungkan dengan perebusan.",
     "keep": "Tertutup rapat, sejuk, dan kering — biji sangrai mudah menyerap bau.",
     "keywords": "teh biji cassia gyeolmyeongja Korea bebas kafein"
@@ -2818,7 +2818,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar burdock diiris, dikeringkan, dan disangrai; bebas kafein.",
     "story": "Akar kering disangrai hingga cokelat, lalu diseduh lima menit atau lebih.",
     "flavor": "Rasa tanah sangrai dengan manis yang tenang dan akhir pahit ringan.",
-    "pairing": "Hidangan, makanan berlemak, malam hari.",
+    "pairing": "Nuansa tanah dari akar panggang dan rasa manisnya yang tenang cocok dengan makanan berat seperti babi tumis dan gorengan, serta mudah menyertai makanan Korea. Akhir yang sedikit pahit melunturkan rasa berminyak. Hidangan penutup yang sangat manis bisa terasa bertentangan dengan nuansa tanahnya.",
     "brewTip": "Lima menit atau lebih; perebusan mengangkat rasa manisnya.",
     "keep": "Tertutup rapat dan kering — akar yang lembap mudah berjamur.",
     "keywords": "teh burdock ueong Korea bebas kafein akar sangrai"
@@ -2834,7 +2834,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah goji kering diseduh dalam air panas; Cheongyang di Korea dan Ningxia di Tiongkok adalah sumber yang terkenal.",
     "story": "Buah beri kering diseduh lima menit atau lebih, atau direbus bersama kurma merah dan akar manis.",
     "flavor": "Manis ringan, sedikit pahit, aroma buah kering; cairan kuning pucat.",
-    "pairing": "Kurma merah, akar manis, kacang-kacangan.",
+    "pairing": "Rasa manis ringannya dan aroma buah keringnya cocok dengan kacang-kacangan seperti kenari dan kacang pinus, dan merebusnya bersama jujube atau akar manis memperdalam rasa manisnya. Ia juga mudah berpadu dengan camilan kue beras seperti yaksik. Makanan yang sangat asam bisa menenggelamkan rasa manisnya yang lembut.",
     "brewTip": "Lima menit atau lebih pada 90 °C; buah berinya bisa dimakan setelahnya.",
     "keep": "Tertutup rapat dan simpan di kulkas — gulanya membuatnya peka terhadap kelembapan.",
     "keywords": "teh goji gugija Korea Ningxia"
@@ -2850,7 +2850,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah cornus merah kering diseduh sebagai teh; sangat asam, sering dilembutkan dengan madu atau kurma merah.",
     "story": "Buah kering diseduh lima menit atau lebih, atau direbus bersama kurma merah.",
     "flavor": "Asam kuat, sedikit pahit, cairan merah; madu melembutkannya.",
-    "pairing": "Kurma merah, madu, kacang-kacangan.",
+    "pairing": "Rasa asamnya yang kuat menyegarkan mulut setelah makanan berat, dan dengan tambahan madu atau jujube ia cukup melembut untuk camilan manis seperti yakgwa. Ia juga serasi dengan kacang-kacangan seperti kenari. Hindari buah asam, karena rasa asamnya akan bertumpuk.",
     "brewTip": "Lima menit atau lebih pada 90 °C; tambahkan kurma merah jika asamnya berlebihan.",
     "keep": "Tertutup rapat dan simpan di kulkas.",
     "keywords": "teh buah cornus sansuyu Korea asam"
@@ -2866,7 +2866,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun atau akar dandelion kering: daunnya pahit, akar sangrainya gurih kacang.",
     "story": "Daun diseduh tiga menit; akar sangrai lima menit atau lebih.",
     "flavor": "Daunnya pahit dan beraroma rumput; akar sangrainya gurih panggang dengan manis ringan.",
-    "pairing": "Setelah makan, setelah makanan berlemak.",
+    "pairing": "Pahit daunnya dan aroma sangrai akar panggang merapikan mulut setelah makanan berat seperti perut babi dan jeon. Ia juga cocok dengan makanan sederhana yang berpusat pada sayuran berbumbu. Dengan hidangan penutup manis, rasa pahitnya bisa menonjol.",
     "brewTip": "3 g sudah cukup; lebih dari itu menjadi sangat pahit.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh dandelion mindulle Korea akar sangrai"
@@ -2882,7 +2882,7 @@ window.TEAFaiDataId = (function () {
     "process": "Rambut jagung kering, disangrai dan diseduh — mirip air bekas merebus jagung.",
     "story": "Rambut jagung dikeringkan dan disangrai, lalu diseduh lima menit atau lebih; perebusan membuatnya lebih lembut membulat.",
     "flavor": "Biji-bijian gurih panggang, manis ringan, akhir yang bersih.",
-    "pairing": "Hidangan, musim panas, teh es.",
+    "pairing": "Aroma sangrai biji-bijiannya dan akhir yang bersih cocok secara luas dengan makanan sehari-hari seperti gimbap dan bibimbap. Disajikan dingin di musim panas, ia mudah menyertai makanan pedas. Dengan hidangan penutup beraroma halus, rasa sangrainya bisa mengambil alih, jadi nikmatilah secara terpisah.",
     "brewTip": "Lima menit atau lebih; enak juga diseduh dingin.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh rambut jagung oksusu Korea musim panas"
@@ -2898,7 +2898,7 @@ window.TEAFaiDataId = (function () {
     "process": "Terung diiris tipis, dikeringkan, disangrai, dan diseduh.",
     "story": "Cara tradisional menyimpan panen terung musim panas di dalam cangkir.",
     "flavor": "Aroma panggang gurih, rasa ringan, akhir yang bersih.",
-    "pairing": "Hidangan, setelah makanan berminyak.",
+    "pairing": "Aroma sangrainya yang gurih dan rasanya yang ringan cocok dengan makanan lauk seperti terong tumis dan babi. Setelah makanan berminyak, ia meninggalkan akhir yang bersih. Hidangan berbumbu sangat kuat bisa menenggelamkan kelembutannya.",
     "brewTip": "Lima menit atau lebih memunculkan rasa panggangnya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh terung gaji sayuran kering Korea"
@@ -2914,7 +2914,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar manis kering direbus — manis yang khas tanpa tambahan gula.",
     "story": "Bahan pokok resep herbal, juga direbus di rumah sebagai teh.",
     "flavor": "Manis alami yang jernih, sentuhan tanah yang samar, akhir yang lembut.",
-    "pairing": "Bergantian dengan teh pahit, setelah makan.",
+    "pairing": "Rasa manis alaminya yang jernih menenangkan mulut bila diselingi dengan teh pahit seperti teh akar sophora. Secangkir setelah makan memuaskan keinginan manis tanpa hidangan penutup. Dipadukan dengan camilan manis, rasa manisnya akan bertumpuk dan bisa terasa enek.",
     "brewTip": "Mulailah dengan lebih sedikit dari perkiraan — rasa manisnya terbangun perlahan.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh akar manis gamcho herbal manis"
@@ -2930,7 +2930,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kacang hazel dari pohon hazel Korea, disangrai dan diseduh — gurih kacang yang sesungguhnya.",
     "story": "Teh tradisional dari kacang hasil memungut, disimpan dan disangrai untuk cangkir.",
     "flavor": "Aroma kacang panggang, manis lembut, rasa yang halus.",
-    "pairing": "Camilan, kue beras.",
+    "pairing": "Aroma kacangnya yang sangrai dan bodinya yang lembut cocok dengan kue beras seperti injeolmi dan jeolpyeon, serta serasi dengan camilan panggang. Aroma kacangnya mengangkat kesederhanaan kue. Makanan pedas menenggelamkan nuansa kacangnya, sehingga sulit dipadukan.",
     "brewTip": "Hancurkan ringan kacang sangrainya sebelum diseduh.",
     "keep": "Tertutup rapat, kering, dan sejuk — minyak kacangnya lebih suka begitu.",
     "keywords": "teh hazel gaeam gurih kacang Korea"
@@ -2946,7 +2946,7 @@ window.TEAFaiDataId = (function () {
     "process": "Ranting muda kayu manis (gyeji), dikeringkan dan direbus — aromanya lebih ringan daripada kulit kayunya.",
     "story": "Lama digunakan dalam pengobatan herbal, dan direbus di rumah sebagai teh.",
     "flavor": "Aroma kayu manis yang lembut, manis halus, rasa menghangatkan.",
-    "pairing": "Hari dingin, setelah makan.",
+    "pairing": "Aroma kayu manisnya yang lembut dan rasa manis halusnya cocok dengan camilan musim dingin seperti kesemek kering dan yakgwa, dan secangkir setelah makan meneruskan kehangatannya. Kayu manisnya berlapis nyaman di atas rasa manis camilan. Salad dingin berada di jalur suhu yang berbeda, jadi nikmatilah secara terpisah.",
     "brewTip": "Satu-dua buah kurma merah melengkapi rasanya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh ranting kayu manis gyeji herbal Korea"
@@ -2962,7 +2962,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kulit kayu manis cassia, direbus atau diseduh — aroma pedas-manis.",
     "story": "Kayu manis yang akrab dari sujeonggwa, diseduh tersendiri.",
     "flavor": "Aroma pedas-manis, rasa hangat dan cukup penuh.",
-    "pairing": "Hidangan penutup, kesemek kering, dan manisan tradisional.",
+    "pairing": "Aroma kayu manisnya yang pedas-manis dan rasa manisnya yang dalam cocok dengan camilan tradisional seperti kesemek kering dan yakgwa, serta berlapis indah dengan hidangan penutup panggang seperti pai apel. Bodi penuhnya mampu mengimbangi camilan manis. Dengan kue beras tawar, aromanya bisa terlalu maju ke depan.",
     "brewTip": "Seiris jahe memperdalam aromanya.",
     "keep": "Tertutup rapat dan kering, agar aromanya awet.",
     "keywords": "teh kayu manis gyepi rempah Korea"
@@ -2978,7 +2978,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar sophora kering direbus — teh herbal yang sangat pahit, seperti yang dijanjikan namanya.",
     "story": "Lama digunakan dalam pengobatan herbal; di rumah direbus dalam jumlah kecil.",
     "flavor": "Pahit yang tegas, sentuhan tanah, akhir yang kering.",
-    "pairing": "Dalam cangkir kecil, bergantian dengan teh yang lebih manis.",
+    "pairing": "Dengan rasa pahitnya yang tegas, menyelinginya dengan teh manis seperti teh akar manis atau teh jujube membuat pahitnya terasa lebih lembut. Ini adalah teh untuk dinikmati dalam cangkir kecil, sedikit demi sedikit. Dipadukan hanya dengan makanan tawar tanpa gula, rasa pahitnya justru semakin menonjol.",
     "brewTip": "Mulai dengan sedikit dan rasakan dulu tingkat pahitnya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh akar sophora gosam pahit herbal"
@@ -2994,7 +2994,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun baechohyang (mint Korea) dikeringkan dan diseduh; gwakhwang adalah nama obat herbalnya.",
     "story": "Herba asli Korea dengan aroma di antara perilla dan mint.",
     "flavor": "Di antara perilla dan mint, manis ringan, akhir yang menyejukkan.",
-    "pairing": "Setelah makan, dengan makanan berlemak.",
+    "pairing": "Aromanya yang berada di antara perilla dan mint serta akhirnya yang menyejukkan cocok dengan makanan berat seperti perut babi dan babi rebus. Setelah makan ia menyegarkan mulut. Hidangan penutup bunga beraroma halus bisa bertabrakan dengan aromanya.",
     "brewTip": "Aromanya bertahan baik meski diseduh dingin.",
     "keep": "Tertutup rapat dan kering, agar aromanya awet.",
     "keywords": "teh mint Korea agastache gwakhwang herba"
@@ -3010,7 +3010,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kulit jeruk keprok, dicuci, dikeringkan, dan disangrai — aroma jeruk yang cerah.",
     "story": "Teh tradisional dari kulit jeruk musim dingin, disimpan dan dikeringkan setelah buahnya dimakan.",
     "flavor": "Aroma jeruk segar, manis ringan, akhir yang bersih.",
-    "pairing": "Hidangan penutup, setelah makan.",
+    "pairing": "Aroma jeruk keproknya yang segar cocok dengan hidangan penutup panggang seperti castella dan madeleine, dan secangkir setelah makanan berat meninggalkan akhir yang ringan. Sitrusnya melunturkan rasa kaya mentega dengan cerah. Cokelat hitam bisa menutupi aromanya.",
     "brewTip": "Semakin sedikit empulur putihnya, semakin sedikit pahitnya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh kulit jeruk keprok gyulpi jeruk Korea"
@@ -3026,7 +3026,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bunga jeruk keprok kering yang diseduh — gema bunga dari aroma buahnya.",
     "story": "Bunganya sedikit, jadi dikeringkan dalam batch kecil untuk teh.",
     "flavor": "Aroma bunga mirip jeruk, manis ringan, cairan jernih.",
-    "pairing": "Hidangan penutup ringan, secangkir sore yang tenang.",
+    "pairing": "Aroma bunganya yang seperti sitrus dan rasa manisnya yang jernih cocok dengan hidangan penutup ringan seperti hwajeon atau castella tawar. Bersama sepotong kue beras di sore hari, aromanya berlanjut dengan lembut. Hindari makanan berbumbu kuat, yang akan menenggelamkan aroma bunganya yang halus.",
     "brewTip": "Gelas kaca memperlihatkan bunganya yang mekar.",
     "keep": "Tertutup rapat dan sejuk — wanginya cepat memudar.",
     "keywords": "teh bunga jeruk keprok gyulhwa bunga Jeju"
@@ -3042,7 +3042,7 @@ window.TEAFaiDataId = (function () {
     "process": "Gilgyeong adalah nama herbal untuk akar bunga balon kering, direbus sebagai teh.",
     "story": "Akar yang sama dengan teh doraji, dengan nama obatnya.",
     "flavor": "Aroma akar pahit-manis, manis ringan, akhir yang kering.",
-    "pairing": "Setelah makan, atau direbus bersama kurma merah.",
+    "pairing": "Aroma akarnya yang pahit-manis merapikan mulut dengan rasa kering setelah makanan berat. Direbus bersama jujube, pahitnya melembut dan ia cocok dengan camilan manis seperti kesemek kering. Dengan makanan pedas, rasa pahitnya bisa bertumpuk.",
     "brewTip": "Sedikit kurma merah atau akar manis melembutkan pahitnya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh akar platycodon gilgyeong doraji herbal"
@@ -3058,7 +3058,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bulir bunga self-heal (kkulpool), dikeringkan dan diseduh; dalam penggunaan herbal disebut hagocho.",
     "story": "Tanaman padang musim panas yang umum, dikeringkan dan disimpan sebagai teh tradisional.",
     "flavor": "Aroma hijau-bunga yang sederhana, manis ringan, akhir yang bersih.",
-    "pairing": "Secangkir sore, camilan ringan.",
+    "pairing": "Aroma hijau-bunganya yang sederhana dan akhirnya yang bersih terasa indah di sore hari bersama camilan ringan seperti biskuit atau castella. Rasanya yang lembut tidak pernah mengganggu camilan. Makanan berbumbu berat bisa menenggelamkan kelembutannya.",
     "brewTip": "Enak juga diseduh dingin dengan bersih.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh self-heal prunella kkulpool padang"
@@ -3074,7 +3074,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun dan akar shepherd's purse, sayuran hijau musim semi, dikeringkan dan diseduh.",
     "story": "Teh tradisional dari sayuran musim semi yang sama yang dimakan sebagai namul, dikeringkan dan disimpan.",
     "flavor": "Aroma hijau khas tanamannya, manis ringan, akhir yang sederhana.",
-    "pairing": "Hidangan, makanan musim semi yang ringan.",
+    "pairing": "Aroma hijau khas tanamannya menyatu secara alami dengan makanan musim semi yang ringan seperti shepherd's purse berbumbu dan bibimbap sayuran musim semi. Akhirnya yang sederhana tidak pernah mengganggu hidangan. Hidangan berbumbu berat bisa menenggelamkan aroma hijaunya.",
     "brewTip": "Tanaman kering yang masih berakar memberi aroma lebih dalam.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh shepherd's purse naengi hijau musim semi"
@@ -3090,7 +3090,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh biji-bijian dan herbal seperti teh jelai atau jagung, direbus, didinginkan, dan diminum dingin — cara minum musim panas.",
     "story": "Direbus, didinginkan sepenuhnya, lalu disimpan di kulkas dan diminum seperti air.",
     "flavor": "Rasa panggang khas bahannya terasa lebih bersih saat dingin.",
-    "pairing": "Hidangan musim panas, makanan pedas.",
+    "pairing": "Rasa sangrainya, yang lebih bersih saat dingin, mendinginkan panas makanan pedas seperti tteokbokki dan ceker ayam pedas. Ia juga cocok dengan makanan musim panas seperti mi campur (bibim guksu). Dengan makanan panas suhunya bertentangan, jadi nikmatilah secara terpisah.",
     "brewTip": "Dinginkan sepenuhnya sebelum dimasukkan ke kulkas agar rasanya tetap asli.",
     "keep": "Simpan di kulkas; habiskan dalam dua hari.",
     "keywords": "teh dingin naengcha es musim panas Korea"
@@ -3106,7 +3106,7 @@ window.TEAFaiDataId = (function () {
     "process": "Nogak — mentimun yang dibiarkan matang menguning — diiris, dikeringkan, disangrai, dan diseduh.",
     "story": "Teh tradisional untuk menyimpan sisa mentimun musim panas.",
     "flavor": "Rasa panggang sederhana, manis ringan, akhir yang bersih.",
-    "pairing": "Hidangan musim panas, atau disajikan dingin.",
+    "pairing": "Rasa sangrainya yang sederhana dan akhirnya yang bersih cocok dengan makanan musim panas seperti sup dingin dan bibimbap. Disajikan dingin ia terasa lebih segar lagi dan cocok dengan makanan pedas. Hidangan penutup yang sangat manis bisa menyisihkan kelembutannya.",
     "brewTip": "Rasanya tetap bersih saat disajikan dengan es.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh mentimun tua nogak musim panas Korea"
@@ -3122,7 +3122,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kacang hijau disangrai dan direbus — teh biji-bijian gurih yang sederhana.",
     "story": "Dari kebiasaan meminum air bekas merebus kacang hijau.",
     "flavor": "Sentuhan kacang dan biji-bijian panggang, manis ringan, akhir yang sederhana.",
-    "pairing": "Hidangan, atau dingin di musim panas.",
+    "pairing": "Nuansa kacang dan biji-bijian sangrainya serasi dengan makanan seperti pancake kacang hijau dan bindaetteok, serta menyertai makanan biasa dengan sederhana. Disajikan dingin di musim panas ia terasa lebih segar. Makanan berbumbu kuat bisa menenggelamkan rasa sangrainya.",
     "brewTip": "Saring setelah direbus untuk cangkir yang lebih bersih.",
     "keep": "Biji disimpan tertutup rapat dan kering; teh rebusannya disimpan di kulkas.",
     "keywords": "teh kacang hijau nokdu biji-bijian Korea"
@@ -3138,7 +3138,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kelp kering diseduh — umami laut yang lembut di dalam cangkir.",
     "story": "Kelp untuk kaldu sup, cukup diseduh dan diminum apa adanya.",
     "flavor": "Umami lembut, aroma angin laut, sedikit asin.",
-    "pairing": "Hidangan sederhana, hidangan laut.",
+    "pairing": "Umaminya yang lembut dan aroma lautnya menyatu secara alami dengan hidangan laut seperti ikan panggang dan sup kerang, serta serasi dengan hidangan berkuah yang sederhana. Sentuhan asinnya mengangkat bumbu makanan. Hidangan penutup manis bertentangan dengan aroma lautnya, jadi nikmatilah secara terpisah.",
     "brewTip": "Biarkan bubuk putih di permukaannya — di situlah umaminya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh kelp dasima umami laut"
@@ -3154,7 +3154,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar angelica kering direbus — aroma herbal yang dalam dan khas.",
     "story": "Lama digunakan dalam pengobatan herbal; di rumah sering direbus bersama kurma merah.",
     "flavor": "Aroma herbal yang dalam, manis lembut, rasa hangat.",
-    "pairing": "Malam hari, dengan kurma merah.",
+    "pairing": "Aroma herbalnya yang dalam dan bodinya yang hangat melembut bila direbus bersama jujube, cocok untuk camilan malam. Ia juga serasi dengan camilan manis seperti yaksik dan kesemek kering. Dengan salad ringan, rasa tehnya bisa terlalu maju ke depan.",
     "brewTip": "Mulailah dengan rebusan yang lebih ringan untuk membiasakan diri dengan aromanya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh akar angelica danggwi herbal Korea"
@@ -3170,7 +3170,7 @@ window.TEAFaiDataId = (function () {
     "process": "Wortel diiris, dikeringkan, dan disangrai — teh sayuran yang manis lembut.",
     "story": "Salah satu cara tradisional mengubah sayuran kering menjadi teh.",
     "flavor": "Manis wortel sangrai, sentuhan tanah yang samar, akhir yang bersih.",
-    "pairing": "Hidangan, dan untuk anak-anak.",
+    "pairing": "Rasa manis alami wortel panggang cocok dengan makanan seperti bola nasi dan gimbap, dan karena ringan, ia nyaman di meja yang dibagi bersama anak-anak. Akhirnya yang bersih tidak pernah mengganggu hidangan. Makanan pedas bisa menenggelamkan rasa manisnya.",
     "brewTip": "Irisan yang lebih tipis terekstrak lebih baik.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh wortel danggeun sayuran sangrai"
@@ -3186,7 +3186,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun bambu kering diseduh — juga disebut teh jukyeop.",
     "story": "Diminum di daerah bambu seperti Damyang, tempat daunnya dikeringkan untuk teh.",
     "flavor": "Aroma hijau sederhana, manis ringan, akhir yang menyejukkan.",
-    "pairing": "Hidangan, atau dengan es di hari panas.",
+    "pairing": "Aroma hijaunya yang sederhana dan akhirnya yang menyejukkan cocok dengan bubur dan sayuran berbumbu sederhana. Disajikan dingin di hari yang panas, ia terasa lebih segar di samping makanan. Hidangan daging berbumbu berat bisa menyisihkan kelembutannya.",
     "brewTip": "Enak juga diseduh dingin dengan bersih.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh daun bambu jukyeop Damyang Korea"
@@ -3202,7 +3202,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bagian putih dan akar daun bawang Korea, direbus — aroma bawang yang lembut.",
     "story": "Rebusan rumahan yang sejak lama dibuat ketika mulai merasa kedinginan.",
     "flavor": "Aroma bawang lembut, manis ringan, akhir yang menghangatkan.",
-    "pairing": "Hari dingin, malam hari.",
+    "pairing": "Aroma bawangnya yang lembut dan akhirnya yang menghangatkan cocok dengan makanan hangat seperti sujebi dan mi potong (kalguksu) di hari yang dingin. Di malam hari ia juga cocok dengan camilan seperti kesemek kering. Hidangan dingin berada di jalur suhu yang berbeda, jadi nikmatilah secara terpisah.",
     "brewTip": "Cuci tanah dari akarnya dengan bersih sebelum digunakan.",
     "keep": "Simpan rebusan di kulkas dan habiskan di hari yang sama.",
     "keywords": "teh daun bawang daepa bawang tradisional Korea"
@@ -3218,7 +3218,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar deodeok kering direbus — aroma pahit-manis mirip akar bunga balon.",
     "story": "Sayuran akar pegunungan, dikeringkan dan disimpan untuk direbus.",
     "flavor": "Aroma akar pahit-manis, manis gurih panggang, rasa hangat.",
-    "pairing": "Setelah makan, atau direbus bersama kurma merah.",
+    "pairing": "Aroma akarnya yang pahit-manis dan rasa manis sangrainya serasi dengan makanan seperti deodeok panggang, dan ia juga berfungsi sebagai minuman setelah makan. Direbus bersama jujube, pahitnya melembut. Dengan hidangan penutup yang sangat manis, rasa pahitnya bisa bertabrakan.",
     "brewTip": "Kurma merah melembutkan sisi pahit-manisnya.",
     "keep": "Tertutup rapat dan kering.",
     "keywords": "teh akar deodeok codonopsis Korea akar"
@@ -3234,7 +3234,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bunga persik yang dikeringkan di tempat teduh, diseduh.",
     "story": "Bunga musim semi dikeringkan dan disimpan untuk sepanjang tahun.",
     "flavor": "Aroma bunga yang lembut, manis ringan, cairan merah muda pucat.",
-    "pairing": "Kue beras, hidangan penutup ringan, sayuran musim semi.",
+    "pairing": "Aroma bunganya yang lembut dan seduhannya yang merah muda pucat cocok dengan kue beras seperti hwajeon dan kue beras ketan, serta serasi dengan makanan ringan seperti sayuran musim semi. Aromanya yang halus tidak pernah mengganggu rasa manis hidangan penutup. Hindari makanan berbumbu kuat, yang akan menenggelamkan aroma bunganya.",
     "brewTip": "80–85 °C; perhatikan kelopaknya yang perlahan mekar.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bunga persik teh bunga musim semi Korea"
@@ -3250,7 +3250,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bunga kamelia yang dikeringkan di tempat teduh, diseduh.",
     "story": "Kamelia musim dingin dari Jeju dan pesisir selatan, dikeringkan untuk teh.",
     "flavor": "Aroma bunga yang lembut, manis ringan, cairan kuning pucat.",
-    "pairing": "Kue beras, hidangan penutup, buah.",
+    "pairing": "Aroma bunganya yang lembut dan rasa manis ringannya cocok dengan kue beras seperti injeolmi dan kue ringan, serta berpadu cerah dengan buah seperti stroberi. Aromanya yang jernih tidak pernah menjadi beban di samping hidangan penutup. Cokelat hitam bisa menutupi aromanya.",
     "brewTip": "80–85 °C; perhatikan bunganya mekar di dalam air.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bunga kamelia Jeju Korea musim dingin"
@@ -3266,7 +3266,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kundur direndam dalam gula atau madu, lalu direbus perlahan.",
     "story": "Teh musim panas; disajikan dingin, manisnya menjadi lebih lembut.",
     "flavor": "Manis yang dalam dengan aroma lembut kundur; cairan cokelat muda.",
-    "pairing": "Kue beras, hangwa, setelah makanan pedas.",
+    "pairing": "Rasa manisnya yang dalam menenangkan panas di mulut dengan lembut setelah makanan pedas. Ia juga cocok dengan kue beras ketan dan hangwa, berbagi karakter manis yang sama. Dengan kue yang sangat manis, rasa manisnya akan bertumpuk dan bisa terasa enek.",
     "brewTip": "Rebus perlahan sepuluh menit; minum hangat, atau dingin di musim panas.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh kundur donga tradisional Korea"
@@ -3282,7 +3282,7 @@ window.TEAFaiDataId = (function () {
     "process": "Artichoke Yerusalem diiris, dikeringkan, disangrai, dan diseduh.",
     "story": "Semakin dalam sangrainya, semakin gurih — mudah diminum seperti air.",
     "flavor": "Aroma sangrai gurih, manis ringan, akhir yang bersih.",
-    "pairing": "Hidangan, setelah makan, camilan.",
+    "pairing": "Aroma sangrainya yang gurih dan akhirnya yang bersih cocok dengan makanan berbahan nasi, dan secangkir setelah makan tidak pernah terasa memberatkan. Ia juga serasi dengan camilan panggang seperti ubi. Dengan hidangan penutup beraroma halus, rasa sangrainya bisa mengambil alih.",
     "brewTip": "Lima menit atau lebih; perebusan memperdalam rasa panggangnya.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh artichoke Yerusalem dwaeji-gamja Korea"
@@ -3298,7 +3298,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kulit eucommia dipotong kecil dan direbus perlahan.",
     "story": "Kulit yang dikupas meregang menjadi benang-benang seperti karet — ciri khas pohonnya.",
     "flavor": "Bertepi pahit, berat, dengan aroma kayu yang tenang.",
-    "pairing": "Setelah makan, setelah makanan berlemak.",
+    "pairing": "Rasanya yang berbobot dengan tepian pahit merapikan mulut setelah makanan berat seperti babi rebus dan kaki babi yang dimasak dengan saus. Aroma kayunya yang tenang mampu bertahan menghadapi hidangan yang kuat. Dipadukan hanya dengan camilan ringan tanpa gula, rasa pahitnya bisa menonjol.",
     "brewTip": "Rebus cukup lama dengan api kecil agar rasanya keluar.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh kulit eucommia duzhong herbal"
@@ -3314,7 +3314,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun duhyang dikeringkan di tempat teduh dan diseduh.",
     "story": "Begitu harum sehingga sedikit saja sudah jauh hasilnya.",
     "flavor": "Aroma hijau yang pekat dengan tepi pahit di akhir.",
-    "pairing": "Setelah makan, setelah makanan berlemak.",
+    "pairing": "Aroma hijaunya yang pekat dan akhirnya yang pahit melunturkan rasa berminyak setelah makanan berat seperti perut babi. Aromanya yang kuat juga menyeimbangkan hidangan berbumbu berat. Hidangan penutup bunga yang halus bisa bertabrakan dengan aromanya.",
     "brewTip": "Seduh sebentar pertama kali — aromanya kuat.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh duhyang herbal Korea pegunungan"
@@ -3330,7 +3330,7 @@ window.TEAFaiDataId = (function () {
     "process": "Biji perilla disangrai, digiling, dan direbus.",
     "story": "Biji sangrainya memberi rasa gurih kacang yang dalam dan penuh.",
     "flavor": "Aroma gurih mirip wijen, lembut dan penuh di mulut.",
-    "pairing": "Kue beras, camilan, hari dingin.",
+    "pairing": "Aroma kacangnya yang seperti wijen dan rasanya yang lembut dan penuh cocok dengan kue beras seperti injeolmi dan gyeongdan, dan sebagai minuman camilan di hari dingin ia terasa mengenyangkan. Bodi penuhnya serasi dengan kekenyalan kue. Dengan salad ringan, teh ini bisa terasa berat.",
     "brewTip": "Diamkan sebentar setelah direbus; rasa gurihnya membulat.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh biji perilla deulkkae gurih kacang Korea"
@@ -3346,7 +3346,7 @@ window.TEAFaiDataId = (function () {
     "process": "Stroberi diiris tipis, dikeringkan, dan diseduh.",
     "story": "Buah beri musimnya yang dikeringkan menjaga rasanya sepanjang tahun.",
     "flavor": "Aroma stroberi manis-asam dan cairan merah muda pucat.",
-    "pairing": "Kue, hidangan penutup, salad.",
+    "pairing": "Aroma stroberinya yang manis-asam cocok dengan hidangan penutup seperti kue krim segar dan yoghurt, serta berpadu cerah dengan salad buah. Seduhannya yang merah muda pucat mengangkat suasana meja hidangan penutup. Cokelat hitam bisa menutupi aromanya.",
     "brewTip": "Sedikit madu mengangkat aromanya.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh stroberi teh buah Korea musim semi"
@@ -3362,7 +3362,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kacang tanah disangrai, digiling, dan direbus.",
     "story": "Cukup kaya dan gurih untuk menggantikan sarapan.",
     "flavor": "Aroma kacang tanah gurih, lembut dan penuh di mulut.",
-    "pairing": "Kue beras, camilan, sebagai pengganti sarapan.",
+    "pairing": "Aroma kacang tanahnya yang gurih dan rasanya yang penuh cocok dengan kue beras seperti kue beras ketan dan injeolmi, dan bersama camilan sederhana di pagi hari ia terasa mengenyangkan. Bodi lembutnya serasi dengan tekstur kue. Dengan makanan ringan, teh ini bisa terasa berat.",
     "brewTip": "Sedikit susu sangat cocok dengannya.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh kacang tanah gurih Korea sangrai"
@@ -3378,7 +3378,7 @@ window.TEAFaiDataId = (function () {
     "process": "Cheong lemon — lemon yang direndam dalam gula — diaduk ke dalam air.",
     "story": "Dalam air dingin, ia berubah menjadi minuman musim panas.",
     "flavor": "Aroma lemon yang cerah dan manis; cairan kuning pucat.",
-    "pairing": "Kue, sandwich, hari dingin.",
+    "pairing": "Aroma lemonnya yang cerah dan rasa manisnya cocok dengan hidangan penutup seperti pound cake dan scone, serta terasa segar di samping roti lapis. Rasa asamnya melunturkan rasa kaya mentega. Hindari buah yang sangat asam, karena rasa asamnya akan bertumpuk.",
     "brewTip": "Air yang jauh lebih panas dari 80 °C menumpulkan aromanya.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh lemon cheong Korea musim dingin"
@@ -3394,7 +3394,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bawang putih disangrai dan direbus perlahan.",
     "story": "Penyangraian mengurangi rasa tajamnya dan memunculkan manisnya.",
     "flavor": "Manis sangrai yang menonjol; rasa tajam mentahnya menjadi lembut.",
-    "pairing": "Hidangan daging, setelah makan.",
+    "pairing": "Dengan rasa manis bawang putih panggang yang menonjol, ia menyatu secara alami dengan hidangan daging seperti perut babi dan iga. Setelah makan, gigitan yang melembut membuat mulut terasa segar. Hidangan penutup bertentangan dengan aroma bawang putih, jadi nikmatilah secara terpisah.",
     "brewTip": "Rebus bersama madu atau kurma merah agar lebih lembut.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bawang putih sangrai Korea tradisional"
@@ -3410,7 +3410,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah caltrop air kering, direbus perlahan.",
     "story": "Buah musim gugur dari caltrop yang tumbuh di kolam, dikeringkan untuk teh.",
     "flavor": "Sederhana dan ringan dengan manis ringan dan akhir yang lembut.",
-    "pairing": "Setelah makan, kue beras.",
+    "pairing": "Rasanya yang sederhana dan lembut adalah minuman setelah makan yang mudah dan berpadu mulus dengan kue beras seperti jeolpyeon dan injeolmi. Karena ringan, ia tidak pernah menonjol di samping makanan apa pun. Hidangan berbumbu kuat bisa menenggelamkan kelembutannya.",
     "brewTip": "Direbus bersama kulitnya, rasanya lebih dalam.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh caltrop air mareum Korea tradisional"
@@ -3426,7 +3426,7 @@ window.TEAFaiDataId = (function () {
     "process": "Cheong plum hijau diaduk ke dalam air.",
     "story": "Di musim panas, diaduk ke dalam air dingin dan diminum dingin.",
     "flavor": "Sentuhan asam di awal dan akhir yang manis; cairan emas pucat.",
-    "pairing": "Makanan berlemak, musim panas, hidangan penutup.",
+    "pairing": "Nuansa asam pertamanya melunturkan rasa berminyak dari makanan berat seperti perut babi dan gorengan, dan disajikan dingin di musim panas ia terasa lebih segar. Akhir manisnya juga cocok dengan hidangan penutup seperti yakgwa. Hindari buah asam, karena rasa asamnya akan bertumpuk.",
     "brewTip": "Dalam air dingin, ia menjadi minuman musim panas yang enak.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh maesil plum hijau cheong Korea"
@@ -3442,7 +3442,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kuncup dan bunga plum dikeringkan di tempat teduh dan diseduh.",
     "story": "Mekarnya singkat di awal musim semi; aromanya jernih dan dihargai.",
     "flavor": "Aroma bunga yang jernih dan tenang serta manis ringan.",
-    "pairing": "Kue beras, hidangan penutup ringan, manisan teh.",
+    "pairing": "Aroma bunganya yang jernih dan tenang cocok dengan kue beras seperti hwajeon dan kue beras ketan, serta cocok untuk sajian manisan teh yang ringan. Rasa manis ringannya tidak bertumpuk dengan gula pada kue, sehingga tetap terasa segar. Hindari makanan bercita rasa kuat, yang akan menenggelamkan aroma bunganya.",
     "brewTip": "80–85 °C; seduh singkat demi aroma halusnya.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bunga plum maehwa bunga Korea"
@@ -3458,7 +3458,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun butterbur dikeringkan, disangrai di wajan, dan diseduh.",
     "story": "Sayuran hijau musim semi yang dikeringkan untuk sepanjang tahun.",
     "flavor": "Aroma hijau pahit dengan akhir gurih panggang.",
-    "pairing": "Hidangan, makanan berlemak.",
+    "pairing": "Aroma hijaunya yang pahit dan akhir sangrainya serasi dengan lauk musim semi seperti butterbur berbumbu, dan di samping makanan berat ia menahan rasa berminyak. Aromanya yang jernih mampu bertahan di meja yang mengenyangkan. Dengan hidangan penutup manis, rasa pahitnya bisa menonjol.",
     "brewTip": "Lima menit; persingkat jika pahitnya bertambah.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh butterbur meowi musim semi Korea"
@@ -3474,7 +3474,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kuncup magnolia dikeringkan di tempat teduh dan diseduh.",
     "story": "Kuncupnya, yang disebut sini, telah digunakan selama berabad-abad.",
     "flavor": "Aroma bunga yang jernih dan sejuk serta manis ringan.",
-    "pairing": "Kue beras, hidangan penutup, manisan teh musim semi.",
+    "pairing": "Aroma bunganya yang jernih dan sejuk cocok dengan kue beras seperti hwajeon dan kue beras ketan, serta serasi dengan hidangan penutup ringan di meja manisan teh musim semi. Rasa manis lembutnya mendukung aroma dengan halus. Hindari makanan berbumbu kuat, yang akan menenggelamkan aroma bunganya.",
     "brewTip": "80–85 °C; kuncupnya mekar perlahan.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh magnolia sini bunga Korea"
@@ -3490,7 +3490,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar costus dipotong kecil dan direbus perlahan.",
     "story": "Herba yang kuat — sedikit saja memberi aroma yang dalam.",
     "flavor": "Aroma kayu yang dalam dan tepi pahit.",
-    "pairing": "Setelah makan.",
+    "pairing": "Aroma kayunya yang dalam dan tepian pahitnya merapikan mulut dalam secangkir setelah makanan yang mengenyangkan. Diselingi dengan teh manis seperti teh jujube, ia menyeimbangkan dengan baik. Dengan hidangan penutup ringan, aroma dan rasa pahitnya bisa terlalu maju ke depan.",
     "brewTip": "Aromanya kuat; sesuaikan jumlahnya sedikit demi sedikit.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh akar costus herbal mokhyang"
@@ -3506,7 +3506,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun lobak kering, diseduh.",
     "story": "Daun siraegi, dikeringkan juga untuk teh.",
     "flavor": "Aroma hijau gurih panggang dan rasa sederhana yang ringan.",
-    "pairing": "Hidangan, hidangan nasi.",
+    "pairing": "Aroma hijaunya yang sangrai dan rasanya yang sederhana cocok dengan hidangan nasi seperti bibimbap dan gimbap, serta mudah menyertai makanan sayuran berbumbu. Rasanya yang ringan tidak pernah mengganggu hidangan. Hidangan penutup yang sangat manis bisa terasa bertentangan dengan rasa sangrainya.",
     "brewTip": "Lima menit; rebus untuk rasa panggang lebih.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh daun lobak siraegi Korea"
@@ -3522,7 +3522,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar bangpung dipotong kecil dan direbus perlahan.",
     "story": "Akar dari tanaman yang daunnya dimakan sebagai sayuran hijau.",
     "flavor": "Aroma tanah yang tenang, manis ringan, akhir yang lembut.",
-    "pairing": "Setelah makan, hidangan laut.",
+    "pairing": "Aroma tanahnya yang tenang dan akhirnya yang lembut cocok dengan hidangan laut seperti ikan panggang dan sup hidangan laut, dan secangkir setelah makan tidak pernah terasa memberatkan. Rasanya yang sederhana tidak pernah mengganggu hidangan laut. Hidangan penutup yang sangat manis bisa terasa bertentangan dengan nuansa tanahnya.",
     "brewTip": "Rebus sampai tuntas agar rasanya keluar.",
     "keep": "Tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bangpung akar saposhnikovia herbal"
@@ -3538,7 +3538,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jamur kering, direbus perlahan.",
     "story": "Pengeringan memperdalam rasa umami — hampir seperti kaldu ringan.",
     "flavor": "Umami yang dalam dengan aroma jamur yang lembut.",
-    "pairing": "Sebelum makan, hidangan ringan.",
+    "pairing": "Secangkir sebelum makan membangkitkan selera, dan ia cocok dengan hidangan sederhana seperti sup bening, tahu kukus, salad sayuran, dan jamur tumis. Umaminya yang dalam mendukung makanan ringan, tetapi hidangan berbumbu kuat dengan bawang putih atau gochujang bertabrakan dengan aromanya, jadi hindarilah hidangan seperti itu.",
     "brewTip": "Jamur yang sudah direbus bisa dipakai untuk memasak setelahnya.",
     "keep": "Simpan tertutup rapat, sejuk, dan kering.",
     "keywords": "teh jamur shiitake umami mushroom tea Korea"
@@ -3554,7 +3554,7 @@ window.TEAFaiDataId = (function () {
     "process": "Bunga sakura dikeringkan atau diasinkan dengan garam, lalu diseduh.",
     "story": "Bunga yang mekar di permukaan air adalah separuh kenikmatannya.",
     "flavor": "Aroma bunga yang lembut, manis ringan; bunga asin membawa sedikit rasa garam.",
-    "pairing": "Kue beras, hidangan penutup, kudapan teh musim semi.",
+    "pairing": "Ia cocok dengan kue beras musim semi seperti baekseolgi, hwajeon, dan mochi, serta hidangan penutup ringan. Aroma bunganya yang lembut dan rasa manis ringannya tidak pernah mengalahkan kue beras tawar, sementara sentuhan asin dari bunganya menjaga rasa manis tetap rapi. Hidangan penutup cokelat yang kaya menenggelamkan aromanya yang halus, jadi lewatkanlah hidangan seperti itu.",
     "brewTip": "80–85 °C; bunga yang mekar di permukaan air adalah pemandangan yang dinanti.",
     "keep": "Simpan tertutup rapat, sejuk, dan kering.",
     "keywords": "teh bunga sakura cherry blossom tea bunga musim semi"
@@ -3570,7 +3570,7 @@ window.TEAFaiDataId = (function () {
     "process": "Poria dipotong kecil-kecil dan direbus perlahan.",
     "story": "Saking polosnya, poria mudah berpadu dengan herba lain.",
     "flavor": "Polos dan lembut, hampir tidak memiliki aroma khas.",
-    "pairing": "Setelah makan, dicampur dengan teh herba lain.",
+    "pairing": "Dengan hampir tidak ada aroma khasnya sendiri, ia cocok dengan hampir semua makanan dan enak diminum setelah makan, bersama bubur, sup nurungji, atau sayuran berbumbu sederhana. Ia juga berfungsi sebagai bahan dasar yang tenang bila dicampur dengan teh herbal lain, tetapi setelah makanan pedas kesederhanaannya hilang sama sekali.",
     "brewTip": "Rebus bersama bahan lain agar lebih mudah diminum.",
     "keep": "Simpan tertutup rapat, sejuk, dan kering.",
     "keywords": "teh poria bokryeong poria tea herba"
@@ -3586,7 +3586,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh buah dari irisan persik kering yang tipis — aromanya lebih lembut daripada buah segar, dan tahan lama disimpan.",
     "story": "Berawal dari kebiasaan mengeringkan panen persik musim panas untuk diminum sepanjang tahun.",
     "flavor": "Aroma persik manis dengan sentuhan asam ringan; warna keemasan pucat.",
-    "pairing": "Hidangan penutup, disajikan dingin dengan es di musim panas, camilan ringan.",
+    "pairing": "Ia cocok dengan hidangan penutup ringan seperti yoghurt, salad buah, muffin, dan jeli, dan disajikan dengan es ia menjadi pasangan yang menyegarkan untuk camilan musim panas. Aroma persik manis dengan tepian asam memotong kekayaan hidangan penutup manis, meskipun dengan kue krim yang berat rasanya akan saling berhimpitan.",
     "brewTip": "Seduh lima menit atau lebih; enak didinginkan di atas es.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh persik peach tea persik kering teh buah musim panas"
@@ -3602,7 +3602,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh sayuran dari irisan bit kering yang tipis; seduhannya berwarna merah rubi.",
     "story": "Menyebar sebagai teh rumahan setelah bit banyak ditanam di Korea.",
     "flavor": "Manis beraroma tanah dan seduhan berwarna merah rubi pekat.",
-    "pairing": "Saat makan, salad, secangkir hangat di musim dingin.",
+    "pairing": "Ia cocok dengan salad, sayuran panggang, roti lapis gandum hitam, dan sup, dan disajikan hangat di musim dingin ia menjadi minuman makan yang memuaskan. Rasa manis tanahnya mengalir secara alami ke nuansa hijau sayuran dan seduhan merahnya mencerahkan meja, tetapi dengan ikan mentah yang halus aroma tanahnya akan mengambil alih.",
     "brewTip": "Lima menit atau lebih, sampai warnanya pekat.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh bit merah beetroot tea bit merah rubi"
@@ -3618,7 +3618,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun biwa kering diseduh; menghilangkan bulu halus di balik daun adalah langkah kunci dalam menyiapkannya.",
     "story": "Biwa adalah pohon buah yang akrab di pesisir selatan dan di Jeju, tempat teh daunnya menjadi andalan rakyat.",
     "flavor": "Nuansa herba yang tenang, manis ringan, seduhan jernih.",
-    "pairing": "Setelah makan, camilan ringan, sore yang tenang.",
+    "pairing": "Setelah makan ia nyaman menyertai makanan ringan seperti sup bening, sayuran kukus, atau bola nasi, dan di sore yang tenang ia mudah menemani sepotong kue beras atau buah. Nuansa herbalnya yang ringan dan rasa manis halusnya menyegarkan mulut, tetapi tumisan berbumbu kuat akan melunturkannya.",
     "brewTip": "Pilih daun yang bulu baliknya sudah dibersihkan; seduh lima menit atau lebih.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh daun biwa loquat leaf tea bipa Korea selatan"
@@ -3634,7 +3634,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh buah dari irisan apel kering yang tipis, beserta kulitnya.",
     "story": "Berawal dari kebiasaan mengeringkan apel musim gugur untuk disimpan dan diminum di musim dingin.",
     "flavor": "Apel manis-asam dengan aroma lembut; warna keemasan pucat.",
-    "pairing": "Hidangan penutup, es teh, camilan anak.",
+    "pairing": "Ia berpadu indah dengan pancake, wafel, pai apel, dan yoghurt, dan menjadi minuman yang baik untuk waktu camilan anak-anak. Apel manis-asamnya mengangkat keberatan hidangan penutup berbahan tepung, dan diseduh dingin sebagai es teh ia menjadi lebih cerah lagi. Makanan berbumbu kuat seperti kari bertabrakan dengan aromanya.",
     "brewTip": "Lima menit atau lebih; sedikit madu cocok untuknya.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh apel apple tea apel kering teh buah"
@@ -3650,7 +3650,7 @@ window.TEAFaiDataId = (function () {
     "process": "Irisan uwi Cina kering, direbus. Jangan keliru dengan matcha.",
     "story": "Uwi telah lama berfungsi sebagai bahan makanan sekaligus herba; rebusannya bertahan sebagai teh rakyat.",
     "flavor": "Aroma akar yang tenang dengan manis pati yang samar.",
-    "pairing": "Saat makan, dengan bubur nasi, secangkir pagi.",
+    "pairing": "Di pagi hari ia cocok dengan bubur, sup nurungji, telur kukus, dan sayuran ringan, serta menyatu dengan makanan Korea biasa tanpa repot. Aroma akarnya yang tenang dan rasa manis berpatinya yang samar sejalan dengan makanan lembut, tetapi di samping sup pedas kelembutannya hilang sama sekali.",
     "brewTip": "Perebusan lebih lama membuatnya lebih lembut; sekitar sepuluh menit sudah baik.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh uwi cina Chinese yam tea sanyak teh akar"
@@ -3666,7 +3666,7 @@ window.TEAFaiDataId = (function () {
     "process": "Ranting murbei muda, dipotong, dikeringkan, dan direbus — bagian pohon yang berbeda dari teh daun murbei.",
     "story": "Setiap bagian murbei punya nama dan kegunaannya sendiri; rantingnya, sangji, adalah salah satunya.",
     "flavor": "Aroma kayu yang ringan dan manis lembut.",
-    "pairing": "Saat makan, secangkir pagi, bubur nasi.",
+    "pairing": "Ia menjadi minuman pagi yang baik bersama bubur, sup nurungji, atau kaldu bening, dan cocok dengan makanan sederhana berupa sayuran berbumbu. Aroma kayunya yang ringan dan rasa manis halusnya tidak pernah mengganggu makanan, tetapi ia berjarak dari hidangan penutup yang sangat manis, jadi nikmatilah secara terpisah.",
     "brewTip": "Rebus sekitar sepuluh menit untuk secangkir yang lebih pekat.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh ranting murbei mulberry twig tea sangji"
@@ -3682,7 +3682,7 @@ window.TEAFaiDataId = (function () {
     "process": "Biji tali putri kering, direbus — biji kecil yang keras lebih cocok direbus daripada diseduh.",
     "story": "Tali putri adalah tanaman merambat parasit; bijinya telah lama tercatat dengan nama tosaja.",
     "flavor": "Aroma biji gurih kacang, ringan dan polos.",
-    "pairing": "Secangkir pagi, setelah makan, dengan bubur.",
+    "pairing": "Ia cocok dengan bubur, bola nasi, dan camilan kacang, dan merupakan minuman yang mudah di pagi hari atau setelah makan. Aroma bijinya yang gurih meneruskan rasa sangrai hidangan biji-bijian untuk secangkir yang menenangkan, tetapi dengan hidangan penutup buah asam, nuansa kacang dan rasa asamnya saling menjauh, jadi pisahkanlah keduanya.",
     "brewTip": "Bijinya keras; perebusan sekitar sepuluh menit paling baik.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh biji tali putri dodder seed tea cuscuta tosaja"
@@ -3698,7 +3698,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh buah dari delima kering, buah dan kulitnya; seduhannya berwarna merah jernih.",
     "story": "Delima adalah pohon pekarangan yang akrab di selatan, dan mengeringkan buahnya untuk teh adalah kebiasaan rumahan.",
     "flavor": "Manis-asam dengan seduhan merah rubi.",
-    "pairing": "Hidangan penutup, es teh, camilan ringan.",
+    "pairing": "Ia cocok dengan kue keju, tart buah, yoghurt, dan jeli, dan diseduh dingin sebagai es teh ia mencerahkan camilan ringan. Rasa manis-asamnya memotong kekayaan hidangan penutup krim dan seduhan merah delima-nya adalah suguhan bagi mata, tetapi rasa asamnya menonjol berhadapan dengan bubur tawar.",
     "brewTip": "Lima menit atau lebih; saat dingin, rasa asamnya lebih tajam.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh delima pomegranate tea delima kering teh buah"
@@ -3714,7 +3714,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh dari lumut kerak kering (usnea) yang tumbuh di bebatuan dan pohon di pegunungan tinggi.",
     "story": "Tampilannya yang seputih salju memberinya nama seolcha; ia hanya tumbuh di tempat berudara bersih, jadi yang dikumpulkan sedikit.",
     "flavor": "Nuansa herba yang sangat ringan; seduhannya hampir jernih.",
-    "pairing": "Sore yang tenang, diminum begitu saja, kudapan manis ringan.",
+    "pairing": "Paling baik ia diteguk perlahan sendirian; bila dipadukan, manisan tawar seperti baekseolgi atau castella, atau segenggam kacang, adalah pilihan yang tepat. Seduhannya yang hampir bening dan nuansa hijaunya yang samar tidak pernah bertengkar dengan camilan apa pun, tetapi di samping makanan berbumbu kuat ia memudar menjadi tidak terasa.",
     "brewTip": "Air terlalu panas meratakannya; sekitar 90 °C selama 3 menit.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "seolcha teh salju snow tea lumut kerak usnea"
@@ -3730,7 +3730,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah dan daun sotae kering; ditandai oleh rasa pahitnya yang kuat.",
     "story": "Pepatah Korea 'pahit seperti sotae' berasal dari buah ini — tehnya mempertahankan reputasi itu.",
     "flavor": "Pahit kuat dengan ekor manis samar; seduhan cokelat pekat.",
-    "pairing": "Tegukan kecil setelah makan; untuk pecinta rasa pahit.",
+    "pairing": "Teguklah sedikit demi sedikit setelah makan, idealnya bersama camilan yang jelas manis seperti kue beras madu, yakgwa, atau kesemek kering. Rasa manisnya menekan pahitnya yang kuat dan bertemu dengan ekor manis samarnya untuk keseimbangan, tetapi dengan makanan tawar pahitnya berdiri sendiri dan mendominasi.",
     "brewTip": "Mulai ringan — dua sampai tiga menit — lalu sesuaikan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh sotae sotae tea pahit teh rakyat privet"
@@ -3746,7 +3746,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar sokdan, diiris, dikeringkan, dan direbus.",
     "story": "Bahan yang telah lama tercatat dalam teks herba; rebusan akarnya bertahan sebagai teh rakyat.",
     "flavor": "Aroma akar beraroma tanah, manis ringan, ekor agak pahit.",
-    "pairing": "Saat makan, secangkir pagi, dengan bubur.",
+    "pairing": "Ia cocok dengan makanan Korea yang mengenyangkan seperti bubur, nasi jelai, dan sup doenjang, dan juga berfungsi sebagai minuman pagi. Aroma akar tanahnya dan rasa manis ringannya berbagi kedalaman biji-bijian dan fermentasi dari hidangan seperti itu, dan ekornya yang sedikit pahit merapikan akhir rasa. Hidangan penutup yang halus kalah oleh nuansa tanahnya.",
     "brewTip": "Rebus sekitar sepuluh menit untuk rasa akar yang lebih dalam.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh sokdan sokdan tea dipsacus teh akar"
@@ -3762,7 +3762,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun pinus muda, disiapkan dan dikeringkan; mengeluarkan getahnya adalah penentu enak tidaknya rasa.",
     "story": "Di tempat pinus tumbuh di mana-mana, mengeringkan daunnya untuk teh adalah kebiasaan lama.",
     "flavor": "Aroma pinus segar, rasa bersih, warna keemasan pucat.",
-    "pairing": "Setelah makan, disajikan dingin, sore yang tenang.",
+    "pairing": "Setelah makanan berat ia membuat mulut terasa segar, dan ia juga cocok dengan songpyeon, kue beras, dan kacang-kacangan. Aroma pinusnya yang jernih membilas keberatan untuk akhir yang bersih, dan aromanya tetap bertahan bahkan saat diseduh dingin. Hidangan berat dan kaya seperti panggang keju bertengkar dengan pinus, jadi hindarilah.",
     "brewTip": "Rendam getahnya sampai bersih atau rasanya jadi kasar; seduh dingin sangat menyenangkan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh daun pinus pine needle tea songyeop pinus Korea"
@@ -3778,7 +3778,7 @@ window.TEAFaiDataId = (function () {
     "process": "Serbuk sari pinus diaduk ke dalam air — lebih merupakan minuman campuran daripada teh seduh.",
     "story": "Hanya dikumpulkan di musim semi, songhwa dipakai untuk kudapan manis maupun minuman madu.",
     "flavor": "Aroma pinus lembut, manis halus, warna kuning.",
-    "pairing": "Dengan kudapan dasik, sajian segar musim semi, pagi hari.",
+    "pairing": "Ia cocok dengan manisan tradisional seperti dasik, yakgwa, dan songpyeon, dan menjadi teman yang indah di pagi musim semi. Aroma pinusnya yang lembut dan rasa manis halusnya mengalir ke kekayaan madu dan wijen pada manisan, sementara camilan pedas menenggelamkan aromanya yang halus.",
     "brewTip": "Air mendidih mematikan aromanya; aduk ke dalam air sekitar 80 °C dan langsung minum.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh serbuk sari pinus pine pollen tea songhwa musim semi"
@@ -3794,7 +3794,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh musim panas dari kulit semangka putih yang dikeringkan.",
     "story": "Berawal sebagai cara memanfaatkan seluruh buah semangka; paling sering diminum dingin.",
     "flavor": "Bersih, manis sangat ringan; seduhan hampir jernih.",
-    "pairing": "Dingin dengan es di musim panas, setelah makan, hari yang panas.",
+    "pairing": "Di hari yang panas, disajikan dengan es, ia cocok dengan buah musim panas, sup dingin, dan salad ringan, serta berfungsi sebagai penyegar setelah makan. Rasa manisnya yang bersih dan samar tidak menambah keberatan pada makanan apa pun dan meluncur turun dengan sejuk, tetapi di samping hidangan kaldu yang kaya ia terasa hampir seperti air.",
     "brewTip": "Saat dingin, teh ini paling menyegarkan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh kulit semangka watermelon rind tea musim panas Korea"
@@ -3810,7 +3810,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh biji-bijian dari sorgum sangrai, dengan rasa panggang yang dekat dengan teh jelai.",
     "story": "Sorgum berfungsi sebagai makanan sekaligus minuman; biji sangrainya juga diseduh.",
     "flavor": "Aroma biji panggang, manis ringan, warna cokelat kemerahan.",
-    "pairing": "Saat makan, musim panas, sebagai pengganti air.",
+    "pairing": "Ia dapat menggantikan air di samping makanan biasa berupa nasi, sup, dan sayuran, dan bahkan disajikan dingin di musim panas rasa sangrainya tetap bertahan. Kedalaman biji-bijian panggangnya serasi dengan kesederhanaan masakan rumahan Korea dan tidak bertabrakan dengan apa pun, tetapi dengan hidangan penutup asam, rasa sangrai dan rasa asamnya berjalan sendiri-sendiri.",
     "brewTip": "Perebusan membuatnya lebih lembut dan lebih panggang.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh sorgum sorghum tea biji sangrai Korea"
@@ -3826,7 +3826,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar bupleurum, diiris, dikeringkan, dan direbus.",
     "story": "Telah lama tercatat dalam teks herba; rebusannya bertahan sebagai teh rakyat.",
     "flavor": "Aroma akar beraroma tanah dengan pahit yang jelas.",
-    "pairing": "Cangkir kecil setelah makan, pagi hari.",
+    "pairing": "Paling baik dalam cangkir kecil setelah makan, idealnya bersama sesuatu yang manis seperti jujube, kesemek kering, atau kue beras madu. Rasa manisnya mengurangi tepian pahitnya yang jernih sementara aroma akar tanahnya mengendap dengan tenang, tetapi di samping salad ringan pahitnya maju ke depan.",
     "brewTip": "Teh ini memang pahit; mulailah dengan rebusan yang lebih ringan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh akar bupleurum bupleurum root tea siho herba"
@@ -3842,7 +3842,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun mallow muda, dikeringkan dan diseduh — sayuran sup yang dijadikan teh.",
     "story": "Mallow tumbuh di setiap kebun dapur; mengeringkan daunnya untuk teh adalah kebiasaan rumahan.",
     "flavor": "Nuansa herba lembut, manis ringan, tekstur agak licin halus.",
-    "pairing": "Saat makan, pagi hari, dengan sup ringan.",
+    "pairing": "Ia cocok dengan hidangan lembut berkuah seperti sup mallow, sup doenjang, dan bubur, serta cocok untuk meja sarapan. Teksturnya yang halus seperti sutra dan rasa manis ringannya meneruskan kelembutan kuah agar mudah ditelan, tetapi ia terasa janggal berhadapan dengan gorengan renyah.",
     "brewTip": "Sekitar lima menit untuk secangkir yang halus.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh mallow mallow tea auk teh daun"
@@ -3858,7 +3858,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh buah dari aengdu kering (ceri Nanking).",
     "story": "Pohon pekarangan yang akrab; mengeringkan buahnya untuk teh adalah kebiasaan rumahan.",
     "flavor": "Manis-asam dengan seduhan merah pucat.",
-    "pairing": "Hidangan penutup, es teh, camilan ringan.",
+    "pairing": "Ia cocok dengan muffin, scone, yoghurt, dan jeli buah, dan diseduh dingin sebagai es teh ia mencerahkan camilan ringan. Rasa manis-asam cerinya mendukung hidangan penutup bermentega dengan ringan, tetapi berhadapan dengan makanan berbumbu kuat seperti kari atau malatang rasa asamnya bertabrakan.",
     "brewTip": "Lima menit atau lebih; saat dingin, rasa asamnya lebih tajam.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh ceri nanking Nanking cherry tea aengdu teh buah"
@@ -3874,7 +3874,7 @@ window.TEAFaiDataId = (function () {
     "process": "Teh dari kulit bawang kering — kulitnya, bukan dagingnya, yang menjadi intinya.",
     "story": "Teh rumahan yang dibuat dengan menyimpan dan mengeringkan kulit dari persiapan memasak.",
     "flavor": "Aroma bawang lembut, manis ringan, warna kuning keemasan (amber).",
-    "pairing": "Saat makan, makanan kaya rasa, musim dingin.",
+    "pairing": "Ia cocok menyertai makanan berat seperti perut babi panggang, pancake gurih, dan gorengan, dan menjadi teman hangat yang baik untuk makanan musim dingin. Aroma bawangnya yang lembut dan rasa manis ringannya menekan lemak dengan halus dan merapikan mulut, tetapi nuansa bawangnya terlalu menonjol untuk hidangan penutup yang halus.",
     "brewTip": "Lima menit atau lebih memperdalam warna dan aroma.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh kulit bawang onion peel tea kulit bawang teh rumahan"
@@ -3890,7 +3890,7 @@ window.TEAFaiDataId = (function () {
     "process": "Irisan pare, dikeringkan dan diseduh; penyangraian mengurangi ketajaman pahitnya.",
     "story": "Ketika labu ini menjadi sayuran musim panas yang umum, teh keringnya pun mengikuti.",
     "flavor": "Pahit yang jelas dengan ekor panggang; penyangraian melembutkannya.",
-    "pairing": "Bersama makanan, setelah makanan kaya rasa.",
+    "pairing": "Minumlah bersama daging berat atau hidangan tumis, atau tepat setelahnya. Pahitnya yang jernih memotong lemak sementara ekor sangrai pare panggangnya terhubung dengan rasa makanan, tetapi dengan hidangan penutup manis pahit dan manisnya berjalan sendiri-sendiri.",
     "brewTip": "Jika terlalu pahit, seduh lebih singkat dan pilih irisan yang disangrai.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh pare bitter melon tea yeoju sangrai"
@@ -3906,7 +3906,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar teratai diiris, dikeringkan, disangrai, dan direbus — bagian tanaman yang berbeda dari teh daun teratai.",
     "story": "Bahan lauk yang umum, yang irisan sangrainya menjadi teh rumahan.",
     "flavor": "Aroma panggang dengan manis pati yang samar.",
-    "pairing": "Saat makan, musim dingin, dengan bubur.",
+    "pairing": "Ia cocok dengan bubur, akar teratai yang dimasak dengan saus, dan kue beras panggang, serta menambah kehangatan di samping makanan musim dingin. Aroma sangrainya dan rasa manis berpatinya yang samar berbagi karakter sederhana hidangan sayuran akar, tetapi di samping buah asam rasa sangrainya tertenggelam.",
     "brewTip": "Perebusan lebih lama membuatnya lebih panggang; sepuluh menit sudah baik.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh akar teratai lotus root tea yeongeun sangrai"
@@ -3922,7 +3922,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jamur reishi yang diiris tipis dan dikeringkan, direbus perlahan dalam air.",
     "story": "Telah lama dihargai sebagai herba panjang umur, reishi direbus dan diminum seperti teh dalam praktik herba.",
     "flavor": "Pahit kuat dengan nuansa kayu dan tanah; warna cokelat pekat.",
-    "pairing": "Diminum begitu saja; sedikit madu melembutkan pahitnya.",
+    "pairing": "Teh untuk diminum perlahan sendirian; bila dipadukan, pilihlah camilan manis seperti kesemek kering, jujube, atau kue beras madu, atau sesendok madu. Rasa manisnya menekan pahit kuat dan aroma kayunya, tetapi dengan makanan biasa pahitnya menutupi semua rasa lain.",
     "brewTip": "Irisan yang lebih tipis terekstrak lebih baik. Jaga rebusan tetap perlahan.",
     "keep": "Simpan tertutup rapat dan kering — mudah berjamur begitu lembap.",
     "keywords": "teh jamur reishi reishi mushroom tea lingzhi rebusan pahit"
@@ -3938,7 +3938,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah murbei kering diseduh dalam air panas — berbeda dari teh daun murbei.",
     "story": "Buah yang matang hitam dikeringkan atau dibuat sirup; buah yang sudah diseduh bisa dimakan.",
     "flavor": "Manis dengan asam ringan dan nuansa beri; warna ungu pucat.",
-    "pairing": "Hidangan penutup dan yoghurt; enak dingin dengan es di musim panas.",
+    "pairing": "Ia cocok dengan yoghurt, es krim, pancake, dan kue keju, dan diseduh dingin di samping hidangan penutup musim panas rasanya cerah. Rasa manis murbei dan asam ringannya menyatu dengan produk susu seperti saus beri, tetapi setelah makanan pedas rasa manisnya mencuat dengan janggal.",
     "brewTip": "Makan buahnya setelah diseduh — rasanya tetap manis.",
     "keep": "Simpan tertutup rapat dan sejuk; buah kering tidak suka kelembapan.",
     "keywords": "teh buah murbei mulberry fruit tea odi sangshen beri"
@@ -3954,7 +3954,7 @@ window.TEAFaiDataId = (function () {
     "process": "Mentimun iris tipis, dikeringkan dan diseduh.",
     "story": "Berbeda dari air mentimun segar, mentimun kering mempertahankan aromanya juga dalam air panas.",
     "flavor": "Aroma hijau yang sejuk, manis ringan, warna hijau pucat jernih.",
-    "pairing": "Hidangan musim panas dan makanan pedas; enak juga dingin dengan es.",
+    "pairing": "Ia cocok dengan makanan membara yang membuat mulut kesemutan, seperti ceker ayam pedas, tteokbokki, atau malatang, dan disajikan dingin bersama makanan musim panas ia menyejukkan. Aroma hijaunya yang segar dan rasa manis ringannya membungkus rasa pedas dengan lembut, tetapi di samping hidangan kaldu yang kaya kejernihannya hilang.",
     "brewTip": "Seduh dingin menjaga aromanya paling bersih; sajikan di atas es.",
     "keep": "Simpan tertutup rapat dan kering — mentimun kering cepat kehilangan aroma.",
     "keywords": "teh mentimun cucumber tea mentimun kering musim panas menyejukkan"
@@ -3970,7 +3970,7 @@ window.TEAFaiDataId = (function () {
     "process": "Biji jagung sangrai direbus perlahan dalam air — lebih pekat daripada teh rambut jagung, yang hanya memakai rambutnya.",
     "story": "Biji yang disangrai sampai keemasan memberi rasa panggang seperti popcorn saat direbus.",
     "flavor": "Biji sangrai seperti popcorn dan manis ringan; warna keemasan.",
-    "pairing": "Saat makan dan camilan; tetap panggang walau disajikan dingin.",
+    "pairing": "Ia cocok dengan makanan kedai camilan seperti tteokbokki, gimbap, dan gorengan, dan dapat menyertai makanan biasa seperti air. Rasa biji-bijian panggangnya yang seperti popcorn menenangkan mulut di antara suapan makanan manis-pedas, dan ia tetap sangrai bahkan saat disajikan dingin. Ia berada di dunia yang berbeda dari manisan teh bunga yang halus.",
     "brewTip": "Biji yang disangrai sampai merekah terekstrak paling baik.",
     "keep": "Simpan tertutup rapat dan kering — biji sangrai cepat basi.",
     "keywords": "teh jagung sangrai roasted corn tea oksusu teh biji popcorn"
@@ -3986,7 +3986,7 @@ window.TEAFaiDataId = (function () {
     "process": "Wasong, sukulen yang tumbuh di genteng atap dan bebatuan, dikeringkan dan diseduh.",
     "story": "Dinamai karena tampilannya seperti pinus, ia menyimpan air dalam daunnya yang tebal.",
     "flavor": "Asam ringan, aroma hijau, seduhan jernih.",
-    "pairing": "Diminum begitu saja, atau setelah makanan kaya rasa.",
+    "pairing": "Diminum sendirian setelah makanan berat ia membuat mulut bersih; bila dipadukan, hidangan tahu tawar atau sayuran berbumbu adalah pilihan yang cocok. Rasa asam ringannya dan aroma hijaunya membilas keberatan, tetapi dengan hidangan penutup manis rasa asamnya menonjol dan keduanya saling menjauh.",
     "brewTip": "Persingkat waktu seduh jika tidak suka rasa asam.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "wasong teh pinus batu rock pine orostachys teh sukulen"
@@ -4002,7 +4002,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar achyranthes, dikeringkan dan direbus.",
     "story": "Sambungan akarnya yang beruas, konon menyerupai lutut sapi, memberinya nama useul.",
     "flavor": "Rasa panggang beraroma tanah, manis ringan, warna cokelat pekat.",
-    "pairing": "Diminum begitu saja, hangat di malam hari.",
+    "pairing": "Hangatkan di malam hari dan minumlah sendirian, atau bersama camilan sederhana seperti ubi panggang, kastanye, atau kue beras. Rasa sangrai tanahnya dan rasa manis ringannya meneruskan kesederhanaan camilan panggang untuk akhir yang tenang, tetapi dengan makanan asam aroma tanahnya melayang menjauh.",
     "brewTip": "Perebusan lebih lama, secangkir lebih pekat; tambahkan air dan rebus dua kali.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "achyranthes teh akar useul root tea lutut sapi"
@@ -4018,7 +4018,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kunyit dari keluarga jahe, diiris dan dikeringkan atau dijadikan bubuk ke dalam air panas.",
     "story": "Jindo di Jeollanam-do dikenal dengan kunyitnya; tanaman yang sama yang mewarnai kari menjadi kuning.",
     "flavor": "Aroma tanah, akhir rasa pedas lada, warna kuning pekat.",
-    "pairing": "Dilembutkan dengan susu; enak juga dengan madu.",
+    "pairing": "Diaduk ke dalam susu hangat ia menjadi lembut, dan ia juga serasi dengan roti madu, pisang panggang, atau makanan berbumbu seperti kari. Aroma tanahnya dan akhir pedas lada-nya dibulatkan oleh kekayaan susu, dan seduhan kuning tuanya mewarnai meja. Di samping sup bening rempahnya terlalu menonjol, jadi minumlah secara terpisah.",
     "brewTip": "Teh ini menodai pakaian dan talenan menjadi kuning — tangani dengan hati-hati.",
     "keep": "Simpan tertutup rapat dan kering; bubuk cepat kehilangan aroma.",
     "keywords": "teh kunyit turmeric tea ulgeum jindo keemasan"
@@ -4034,7 +4034,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar polygala, dikeringkan dan direbus.",
     "story": "Bahan herba berakar ramping, yang intinya dibuang sebelum dikeringkan dan direbus.",
     "flavor": "Rasa awal pahit, akhir panggang, warna cokelat pucat.",
-    "pairing": "Diminum begitu saja; jujube membulatkan rasa pahitnya.",
+    "pairing": "Minumlah sendirian atau bersama camilan manis seperti jujube atau kesemek kering. Rasa manisnya menekan rasa pahit pertama sementara akhir sangrainya terbuka perlahan untuk keseimbangan, tetapi dengan salad ringan atau buah pahitnya menonjol dan paduannya berantakan.",
     "brewTip": "Rebusan terlalu singkat hanya menyisakan pahit — beri waktu.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "polygala teh akar wonji root tea herba"
@@ -4050,7 +4050,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jali sangrai direbus perlahan, atau bubuk sangrainya diaduk ke dalam air panas.",
     "story": "Biji mirip biji-bijian yang menghasilkan secangkir mengenyangkan; terkenal di Korea sebagai teh yulmu mesin penjual otomatis.",
     "flavor": "Aroma biji gurih kacang, manis ringan, tekstur kental.",
-    "pairing": "Sarapan ringan atau camilan; enak dengan susu.",
+    "pairing": "Sebagai sarapan ringan bersama roti panggang, telur rebus, dan pisang ia mengenyangkan, dan sebagai camilan ia cocok dengan kue beras atau kacang-kacangan. Aroma biji-bijiannya yang gurih dan bodinya yang kental memuaskan, dan susu membuatnya lebih lembut lagi, tetapi di samping hidangan kaldu bening teksturnya bertumpuk dan terasa berat.",
     "brewTip": "Tambahkan bubuk sedikit demi sedikit sambil diaduk, agar tidak menggumpal.",
     "keep": "Simpan tertutup rapat dan kering; bubuknya cepat tengik.",
     "keywords": "teh jali job's tears yulmu coix teh biji"
@@ -4066,7 +4066,7 @@ window.TEAFaiDataId = (function () {
     "process": "Batang dan buah tanaman merambat akebia, dikeringkan dan diseduh.",
     "story": "Tanaman merambat yang dikenal dengan buah musim gugurnya yang merekah terbuka; batangnya, disebut moktong, juga bahan herba.",
     "flavor": "Manis ringan, aroma hijau, seduhan jernih.",
-    "pairing": "Diminum begitu saja atau dengan makanan polos.",
+    "pairing": "Ia cocok dengan makanan sederhana berupa sayuran berbumbu, sup bening, dan nasi putih, dan mudah diminum sendirian. Rasa manis ringannya dan aroma hijaunya tidak pernah mengganggu makanan, menjadikannya teman sehari-hari, tetapi di samping hidangan berbumbu berat kejernihannya tertimbun sepenuhnya.",
     "brewTip": "Buah kering lebih manis — gunakan lebih sedikit.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh akebia akebia eureum moktong teh tanaman merambat"
@@ -4082,7 +4082,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun ginkgo dikeringkan, disangrai di wajan, dan diseduh — daunnya, bukan kacangnya.",
     "story": "Daun kuning musim gugur dikumpulkan dan dikeringkan; pengeringan dan penyangraian menyeluruh melembutkan sisi kasarnya.",
     "flavor": "Aroma hijau ringan, akhir pahit-manis, warna kuning pucat.",
-    "pairing": "Diminum begitu saja, atau setelah makanan kaya rasa.",
+    "pairing": "Diminum sendirian setelah makanan berat ia merapikan mulut, dan camilan sederhana seperti biji ginkgo panggang atau kastanye cocok dengannya. Aroma hijaunya yang ringan dan akhir pahit-manisnya memotong keberatan dengan bersih, tetapi dengan hidangan penutup manis pahitnya menonjol dan bertabrakan.",
     "brewTip": "Gunakan hanya daun yang dikeringkan dan disangrai dengan baik — jangan pernah yang segar.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh daun ginkgo ginkgo leaf tea eunhaeng daun"
@@ -4098,7 +4098,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kuncup bunga dan daun tanaman merambat honeysuckle, dikeringkan dan diseduh.",
     "story": "Dinamai 'tahan musim dingin' karena tanaman rambatnya yang kuat; kuncupnya, disebut geumeunhwa, adalah bahan herba.",
     "flavor": "Aroma bunga lembut, manis ringan, seduhan jernih.",
-    "pairing": "Diminum begitu saja; enak juga dingin dengan es di musim panas.",
+    "pairing": "Minumlah sendirian atau bersama manisan tawar seperti baekseolgi atau castella, dan di musim panas ia indah disajikan dingin. Aroma bunganya yang lembut dan rasa manis ringannya cukup halus untuk tidak mengganggu camilan ringan, tetapi di samping makanan berbumbu kuat nuansa bunganya hilang.",
     "brewTip": "Kuncup tepat sebelum mekar membawa aroma terbaik.",
     "keep": "Simpan tertutup rapat dan kering — bunga cepat kehilangan aroma.",
     "keywords": "honeysuckle teh bunga indong geumeunhwa flower tea"
@@ -4114,7 +4114,7 @@ window.TEAFaiDataId = (function () {
     "process": "Ginseng diiris tipis, dikeringkan, dan direbus.",
     "story": "Geumsan dan Punggi adalah daerah ginseng terkenal; madu atau jujube melembutkan pahitnya.",
     "flavor": "Rasa pahit-manis, aroma tanah, warna kuning keemasan (amber) pucat.",
-    "pairing": "Diminum begitu saja; madu atau jujube sebagai pendamping.",
+    "pairing": "Teguklah perlahan sendirian, atau bersama sesuatu yang manis — madu, jujube, atau kesemek kering. Rasa manisnya membulatkan rasa pahit-manis dan aroma tanahnya, tetapi dengan makanan biasa aroma ginsengnya menutupi makanan, jadi lebih baik dipisahkan.",
     "brewTip": "Irisan yang lebih tipis terekstrak lebih baik.",
     "keep": "Simpan tertutup rapat, kering, dan sejuk.",
     "keywords": "teh ginseng ginseng tea insam ginseng Korea akar"
@@ -4130,7 +4130,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kelopak kesumba, dikeringkan dan diseduh.",
     "story": "Telah lama digunakan sebagai pewarna merah dan bahan herba; seduhannya berubah kuning menjadi oranye.",
     "flavor": "Nuansa bunga dan hijau yang ringan; warna kuning berubah menjadi oranye.",
-    "pairing": "Hidangan penutup dan kudapan manis ringan.",
+    "pairing": "Ia cocok dengan manisan ringan seperti hwajeon, baekseolgi, dan jeli buah, dan menjadi teh hidangan penutup yang baik. Nuansa bunga dan hijaunya yang ringan tidak pernah mengganggu kue beras tawar, dan seduhan kuningnya tampak cantik di meja teh, tetapi cokelat yang kaya menenggelamkan aromanya.",
     "brewTip": "Sedikit saja sudah cukup memberi warna yang kuat.",
     "keep": "Simpan tertutup rapat dan kering; kelopak yang pudar berarti aroma yang pudar.",
     "keywords": "teh kesumba safflower tea honghwa bunga merah"
@@ -4146,7 +4146,7 @@ window.TEAFaiDataId = (function () {
     "process": "Plum diawetkan dalam gula atau madu, sirupnya diaduk ke dalam air.",
     "story": "Cheong dibuat pada puncak musim plum musim panas dan dinikmati sebagai teh buah sepanjang tahun.",
     "flavor": "Aroma plum manis-asam, warna kemerahan.",
-    "pairing": "Hidangan penutup dan minuman musim panas; di atas es seperti ade.",
+    "pairing": "Ia cocok dengan yoghurt, kue keju, dan salad buah, dan disajikan dengan es seperti ade ia mencerahkan hidangan penutup musim panas. Rasa manis-asam plumnya memotong kekayaan hidangan penutup krim, tetapi berhadapan dengan bubur tawar atau sup bening rasa asamnya menonjol, jadi pisahkanlah.",
     "brewTip": "Tambahkan sebagian buah awetannya untuk aroma yang lebih kuat.",
     "keep": "Simpan sirup di lemari es; ambil dengan sendok bersih.",
     "keywords": "teh plum plum tea jadu cheong buah ade"
@@ -4162,7 +4162,7 @@ window.TEAFaiDataId = (function () {
     "process": "Grapefruit diawetkan dalam gula, sirupnya diaduk ke dalam air.",
     "story": "Teh buah cheong gaya Korea seperti teh yuja, mempertahankan sisi pahit grapefruit.",
     "flavor": "Asam cerah, akhir pahit, warna merah muda pucat.",
-    "pairing": "Hidangan penutup dan brunch; air soda membuatnya menjadi ade.",
+    "pairing": "Ia cocok dengan brunch berupa pancake, french toast, dan salad buah, dan dicampur dengan air soda ia menjadi ade. Rasa asam cerahnya dan akhir pahitnya merapikan hidangan brunch bermentega, tetapi dengan hidangan penutup susu yang kaya rasa asamnya melayang menjauh.",
     "brewTip": "Terlalu banyak empulur putih membuatnya pahit kasar.",
     "keep": "Simpan sirup di lemari es.",
     "keywords": "teh grapefruit grapefruit tea jamong cheong sitrus"
@@ -4178,7 +4178,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jagung ungu dari Andes Peru, dikeringkan dan direbus perlahan.",
     "story": "Di daerah asalnya, jagung ini menjadi minuman berempah chicha morada; di Korea biji dan bubuknya tiba sebagai teh.",
     "flavor": "Manis ringan, nuansa mirip beri, biji panggang; warna ungu pekat.",
-    "pairing": "Hidangan penutup dan minuman musim panas; lemon mengubahnya menjadi merah.",
+    "pairing": "Ia cocok dengan tart beri, yoghurt, dan hidangan penutup buah, dan menjadi minuman musim panas yang bisa Anda saksikan berubah merah dengan perasan lemon. Rasa manis ringan dan nuansa beri bertumpu pada biji-bijian sangrai untuk paduan yang seimbang dengan hidangan penutup, tetapi dengan makanan pedas rasa manisnya mencuat.",
     "brewTip": "Rebus tongkolnya juga untuk warna yang jauh lebih pekat.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh jagung ungu purple corn tea maiz morado chicha morada andes"
@@ -4194,7 +4194,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun perilla ungu dikeringkan dan diseduh.",
     "story": "Tanaman keluarga mint seperti perilla Korea; varietas berbalik ungu berfungsi sebagai teh dan bahan herba.",
     "flavor": "Aroma khas perilla, manis ringan, warna bernuansa ungu.",
-    "pairing": "Saat makan dan makanan kaya rasa; enak juga dengan sirup plum.",
+    "pairing": "Ia cocok dengan makanan berat seperti perut babi panggang dan gorengan, dan sedikit sirup plum menyatu ke dalam aromanya. Aroma khas perilla menekan lemak dan menyegarkan mulut, tetapi ia bertabrakan dengan manisan bunga yang halus, jadi nikmatilah manisan itu secara terpisah.",
     "brewTip": "Beberapa tetes sirup plum mengubah warnanya menjadi merah terang.",
     "keep": "Simpan tertutup rapat dan kering — teh daun cepat kehilangan aroma.",
     "keywords": "perilla teh daun jaso shiso ungu"
@@ -4210,7 +4210,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kacang pedang diiris, disangrai, dan diseduh.",
     "story": "Kacang dengan polong panjang seperti pisau; polong muda dan bijinya dikeringkan dan disangrai.",
     "flavor": "Aroma kacang gurih, manis ringan, seduhan jernih.",
-    "pairing": "Saat makan, atau sebagai pengganti air; enak dingin dengan es.",
+    "pairing": "Ia dapat menggantikan air di samping makanan biasa berupa nasi dan sup, dan tetap gurih kacang bahkan saat disajikan dingin. Aroma kacang panggangnya dan rasa manis ringannya nyaman bersama lauk Korea apa pun, tetapi di samping hidangan penutup buah asam nuansa kacangnya tertimbun, jadi minumlah secara terpisah.",
     "brewTip": "Kacang yang kurang sangrai bisa berasa langu — pilih yang tersangrai baik.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh kacang pedang sword bean tea jakdu kong kacang sangrai"
@@ -4226,7 +4226,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kelopak peony dikeringkan dan diseduh.",
     "story": "Akarnya adalah bahan herba lama; bunganya yang rimbun dinikmati sebagai teh bunga.",
     "flavor": "Aroma bunga lembut, manis ringan, kelopak mekar dalam seduhan jernih.",
-    "pairing": "Hidangan penutup dan kudapan manis; cantik dalam teko kaca.",
+    "pairing": "Seduhlah dalam teko kaca dan saksikan kelopaknya membuka; ia cocok dengan manisan ringan seperti baekseolgi, hwajeon, dan jeli buah. Aroma bunganya yang lembut dan rasa manis ringannya tidak pernah mengganggu manisan tawar, tetapi di samping makanan berbumbu kuat aromanya yang halus lenyap.",
     "brewTip": "Seduh dalam kaca untuk menyaksikan kelopaknya terbuka.",
     "keep": "Simpan tertutup rapat dan kering — kelopak cepat kehilangan aroma.",
     "keywords": "teh peony peony tea jagyak teh bunga mekar"
@@ -4242,7 +4242,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar adenophora, dikeringkan dan direbus.",
     "story": "Disebut sasam, 'ginseng pasir', karena tumbuh di tanah berpasir; kerabat bunga lonceng seperti bunga balon.",
     "flavor": "Manis panggang, aroma tanah, warna cokelat pucat.",
-    "pairing": "Diminum begitu saja atau dengan makanan polos.",
+    "pairing": "Ia cocok dengan makanan sederhana berupa sayuran, sup bening, dan bubur, dan nyaman diminum sendirian. Rasa manis sangrainya dan aroma tanahnya berbagi karakter lembut makanan ringan, tetapi di samping hidangan penutup yang sangat manis rasa sangrainya tertutupi.",
     "brewTip": "Menyangrai sebelum merebus menambah rasa panggang.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "adenophora teh akar jandae sasam root tea"
@@ -4258,7 +4258,7 @@ window.TEAFaiDataId = (function () {
     "process": "Rebung muda diiris, dikeringkan, disangrai, dan diseduh.",
     "story": "Damyang terkenal dengan bambu dan rebungnya; rebung musiman dikeringkan untuk secangkir di kemudian hari.",
     "flavor": "Aroma hijau polos, kedalaman sangrai, seduhan jernih.",
-    "pairing": "Saat makan dan makanan ringan.",
+    "pairing": "Ia cocok dengan hidangan sederhana seperti rebung tumis, sayuran berbumbu, dan kaldu bening, serta mudah menyertai makanan biasa. Aroma hijaunya yang ringan dengan kedalaman sangrai serasi dengan lauk yang lembut, tetapi di samping makanan berbumbu berat kejernihannya tertimbun.",
     "brewTip": "Bilas rebung kering sebentar terlebih dahulu untuk rasa yang lebih bersih.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh rebung bamboo shoot tea juksun damyang"
@@ -4274,7 +4274,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar rehmannia, direbus.",
     "story": "Ia hadir sebagai akar mentah kering atau sebagai sukjihwang — dikukus dan dikeringkan sembilan kali sampai hitam dan manis pekat.",
     "flavor": "Akar kukus: manis pekat dan berbobot; akar mentah: pahit dan menyejukkan.",
-    "pairing": "Diminum begitu saja, hangat di malam hari.",
+    "pairing": "Hangatkan di malam hari dan minumlah sendirian, atau bersama camilan manis sederhana seperti kesemek kering, jujube, atau kastanye. Rasa manis dalam dan keberatan akar kukusnya mengalir ke camilan, dan pahit akar mentahnya dibulatkan olehnya, tetapi keberatan teh ini terasa janggal dengan salad ringan.",
     "brewTip": "Akar kukus menyeduh kuat — gunakan sedikit lebih sedikit.",
     "keep": "Simpan tertutup rapat, kering, dan sejuk.",
     "keywords": "rehmannia teh akar jihwang sukjihwang root tea"
@@ -4290,7 +4290,7 @@ window.TEAFaiDataId = (function () {
     "process": "Wijen sangrai digiling dan diaduk ke dalam air panas; bubuknya memberi tekstur pada secangkir ini.",
     "story": "Giling biji sangrai sampai halus dan aduk ke air panas; ia mengendap jika dibiarkan.",
     "flavor": "Gurih sangrai yang dalam, tekstur berminyak lembut, manis ringan.",
-    "pairing": "Saat makan, kue beras, musim dingin.",
+    "pairing": "Ia cocok dengan kue beras seperti injeolmi dan gyeongdan, dan di samping makanan musim dingin nuansa kacangnya berlipat. Kekayaan wijen panggang dan bodi lembut berminyaknya menyatu dengan kekenyalan kue beras untuk camilan yang memuaskan, tetapi dengan buah asam rasa minyaknya melayang menjauh.",
     "brewTip": "Aduk sambil minum — bubuknya mengendap.",
     "keep": "Simpan tertutup rapat dan sejuk; minyaknya menjadi tengik jika disimpan hangat.",
     "keywords": "teh wijen sesame tea chamkkae Korea gurih kacang"
@@ -4306,7 +4306,7 @@ window.TEAFaiDataId = (function () {
     "process": "Melon oriental iris tipis, dikeringkan dan diseduh; teh buah yang agak manis.",
     "story": "Keringkan irisannya dengan baik agar awet; seduh empat menit atau lebih.",
     "flavor": "Manis melon yang lembut dan akhir yang bersih.",
-    "pairing": "Musim panas, camilan ringan, setelah makan.",
+    "pairing": "Setelah makanan musim panas ia menyegarkan bersama punch buah, jeli, atau salad ringan, dan mudah diminum sendirian juga. Rasa manis lembut melon dan akhirnya yang bersih menyegarkan mulut di hari yang panas, tetapi di samping hidangan kaldu yang kaya kejernihannya hilang.",
     "brewTip": "Saat dingin, manisnya terasa lebih bersih.",
     "keep": "Simpan melon kering tertutup rapat dan kering.",
     "keywords": "teh melon oriental oriental melon tea chamoe Korea musim panas"
@@ -4322,7 +4322,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar dan daun jeringau dikeringkan dan direbus; sangat aromatik.",
     "story": "Kebiasaan hari Dano di Korea, di mana air jeringau menandai festival awal musim panas.",
     "flavor": "Aroma hijau sejuk dengan sedikit rempah, akhir yang bersih.",
-    "pairing": "Festival Dano, setelah makan, musim panas.",
+    "pairing": "Secara tradisional ia disajikan pada Dano bersama kue beras musiman seperti tteok surichwi, dan ia juga menyejukkan setelah makanan musim panas. Aroma hijaunya yang sejuk dengan sentuhan rempah mendukung kesederhanaan kue beras dan menyegarkan mulut, tetapi ia berjarak dari hidangan penutup yang sangat manis.",
     "brewTip": "Aromanya kuat; rebusan yang lebih ringan lebih mudah diminum.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh jeringau sweet flag tea changpo Dano Korea"
@@ -4338,7 +4338,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jeruk Jeju yang belum matang diiris dan digula menjadi awetan untuk teh.",
     "story": "Lebih hijau daripada teh jeruk matang, dengan gigitan sitrus yang lebih tajam.",
     "flavor": "Keasaman cerah, aroma kulit, lalu manis.",
-    "pairing": "Hidangan penutup, musim dingin, setelah makan.",
+    "pairing": "Setelah makanan musim dingin ia cerah di samping kue keju, yoghurt, atau hidangan penutup jeruk keprok, dan disajikan hangat ia terasa nyaman. Rasa asamnya yang jernih dan aroma kulitnya memotong kekayaan hidangan penutup krim sementara rasa manis yang menyusul memulihkan keseimbangan, tetapi berhadapan dengan bubur tawar rasa asamnya menonjol.",
     "brewTip": "Dalam air soda ia menjadi ade jeruk hijau.",
     "keep": "Simpan awetan di lemari es; gunakan sendok bersih.",
     "keywords": "teh jeruk hijau green tangerine tea cheonggyul Jeju sitrus"
@@ -4354,7 +4354,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah kacapiring kering direbus; seduhannya kuning jernih.",
     "story": "Buah yang sama yang digunakan untuk mewarnai lobak acar dan makanan perayaan.",
     "flavor": "Pahit ringan, nuansa tanah, warna kuning jernih.",
-    "pairing": "Saat makan, makanan kaya rasa.",
+    "pairing": "Ia cocok dengan tumisan berat atau pancake gurih dan menyatu dengan makanan biasa tanpa repot. Pahit ringannya memotong lemak dengan halus dan nuansa tanahnya menyatu ke dalam rasa makanan, tetapi dengan hidangan penutup manis pahitnya menonjol dan bertabrakan.",
     "brewTip": "Perebusan lama membuatnya pahit; perhatikan waktunya.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh buah kacapiring gardenia fruit tea chija Korea kuning"
@@ -4370,7 +4370,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar cikori sangrai diseduh dalam air panas; pahit dan beraroma tanah seperti kopi.",
     "story": "Pengganti kopi Eropa dengan sejarah panjang di Prancis.",
     "flavor": "Pahit sangrai, rasa tanah, akhir mirip kopi.",
-    "pairing": "Pagi hari, saat makan, susu.",
+    "pairing": "Di pagi hari bersama roti panggang, telur, dan bacon ia menggantikan kopi dengan baik, dan susu melembutkannya. Pahit akar panggangnya dan akhir seperti kopi serasi dengan gurihnya sarapan, tetapi di samping manisan bunga yang halus pahitnya menonjol, jadi nikmatilah secara terpisah.",
     "brewTip": "Dengan susu rasanya seperti latte kafe.",
     "keep": "Simpan tertutup rapat dan kering; akar sangrai menyerap bau.",
     "keywords": "teh akar cikori chicory root tea pengganti kopi bebas kafein"
@@ -4386,7 +4386,7 @@ window.TEAFaiDataId = (function () {
     "process": "Jeruk trifoliate diiris dan digula menjadi awetan untuk air panas.",
     "story": "Terlalu asam dan pahit untuk dimakan segar, buah ini cocok dijadikan teh awetan.",
     "flavor": "Keasaman kuat, sisi pahit, aroma kulit sitrus.",
-    "pairing": "Musim dingin, hidangan penutup, setelah makan.",
+    "pairing": "Setelah makanan musim dingin, minumlah dengan sedikit madu atau di samping camilan manis seperti kesemek kering atau yakgwa. Rasa manisnya menekan asam dan pahit yang kuat sementara aroma kulit sitrusnya bertahan dengan cerah, tetapi dengan makanan tawar rasa asamnya menutupi segalanya.",
     "brewTip": "Teh ini sangat asam; seimbangkan dengan lebih banyak awetan atau madu.",
     "keep": "Simpan awetan di lemari es.",
     "keywords": "teh jeruk trifoliate trifoliate orange tea taengja Korea musim dingin"
@@ -4402,7 +4402,7 @@ window.TEAFaiDataId = (function () {
     "process": "Talas iris dikeringkan dan direbus; lembut dan agak manis.",
     "story": "Teh akar dari bahan pokok musim gugur, sedikit mengental saat direbus.",
     "flavor": "Tekstur pati lembut, gurih kacang, manis ringan.",
-    "pairing": "Saat makan, musim gugur, camilan.",
+    "pairing": "Di samping makanan musim gugur ia cocok dengan sup talas, kue beras panggang, atau kastanye. Bodi berpatinya yang lembut dan nuansa kacangnya meneruskan kesederhanaan hidangan sayuran akar untuk secangkir yang nyaman, tetapi dengan buah asam rasa patinya melayang menjauh, jadi minumlah secara terpisah.",
     "brewTip": "Perebusan melepaskan pati dan mengentalkannya; sesuaikan waktunya.",
     "keep": "Simpan talas kering tertutup rapat dan kering.",
     "keywords": "teh talas taro tea toran Korea akar"
@@ -4418,7 +4418,7 @@ window.TEAFaiDataId = (function () {
     "process": "Nanas digula menjadi awetan dan diaduk ke dalam air panas.",
     "story": "Manis dan harum; enak juga dingin dengan air soda.",
     "flavor": "Manis pekat, aroma nanas, sisi asam.",
-    "pairing": "Hidangan penutup, musim panas, es teh.",
+    "pairing": "Disajikan dengan es sebagai es teh ia cocok dengan hidangan penutup musim panas, dan ia juga mencerahkan yoghurt, salad buah, dan jeli. Rasa asam yang mengikuti manis dalamnya memotong tepian enek hidangan penutup manis, tetapi di samping makanan sederhana rasa manisnya mencuat dan menutupi makanan.",
     "brewTip": "Disajikan dingin, rasanya seperti ade buah.",
     "keep": "Simpan awetan di lemari es.",
     "keywords": "teh nanas pineapple tea awetan buah ade"
@@ -4434,7 +4434,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kacang azuki sangrai diseduh seperti teh biji; gurih kacang dan polos.",
     "story": "Rebus, jangan hanya diseduh, untuk secangkir yang lebih pekat dan gelap.",
     "flavor": "Gurih biji sangrai, tekstur polos, manis ringan.",
-    "pairing": "Saat makan, musim dingin, bubur kacang merah.",
+    "pairing": "Ia cocok dengan bubur kacang merah, kue beras kacang merah, dan hidangan penutup kacang merah manis, dan di samping makanan musim dingin rasa sangrainya berlanjut. Nuansa kacang sederhana dari biji-bijian panggang berbagi karakter hidangan kacang merah, tetapi di samping buah asam ia tertimbun, jadi minumlah secara terpisah.",
     "brewTip": "Perebusan memperdalam warna dan rasa.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh kacang merah red bean tea azuki pat Korea biji"
@@ -4450,7 +4450,7 @@ window.TEAFaiDataId = (function () {
     "process": "Anggur digula menjadi awetan dan diaduk ke dalam air panas.",
     "story": "Harum dan manis; kulitnya memperdalam warna.",
     "flavor": "Manis dan aroma anggur dengan asam ringan.",
-    "pairing": "Hidangan penutup, musim panas, setelah makan.",
+    "pairing": "Setelah makanan musim panas ia cerah bersama tart buah, yoghurt, dan jeli, dan disajikan dingin ia menjadi lebih sejuk lagi. Rasa manis anggur dan asam ringannya menyeimbangkan hidangan penutup ringan, tetapi dengan hidangan penutup krim yang kaya rasa manisnya berlipat dan bisa terasa enek, jadi jagalah porsinya tetap sedang.",
     "brewTip": "Dalam air soda ia menjadi ade anggur.",
     "keep": "Simpan awetan di lemari es.",
     "keywords": "teh anggur grape tea podo Korea buah"
@@ -4466,7 +4466,7 @@ window.TEAFaiDataId = (function () {
     "process": "Hallabong Jeju diiris dan digula menjadi awetan untuk air panas.",
     "story": "Lebih kaya dan lebih bulat daripada teh jeruk biasa, dengan aroma kulit yang pekat.",
     "flavor": "Aroma sitrus pekat dan manis, keasaman lembut.",
-    "pairing": "Musim dingin, hidangan penutup, setelah makan.",
+    "pairing": "Setelah makanan musim dingin ia indah dan hangat di samping kue keju, yoghurt, atau hidangan penutup sitrus. Aroma sitrusnya yang dalam dan rasa asamnya yang lembut memotong kekayaan hidangan penutup krim dengan ringan, tetapi berhadapan dengan sup bening tawar rasa asamnya menonjol, jadi pisahkanlah.",
     "brewTip": "Awetan dengan kulit rasanya kuat; sesuaikan jumlahnya.",
     "keep": "Simpan awetan di lemari es.",
     "keywords": "teh hallabong hallabong tea Jeju sitrus awetan"
@@ -4482,7 +4482,7 @@ window.TEAFaiDataId = (function () {
     "process": "Biji bunga matahari sangrai diseduh dalam air panas; gurih kacang dan ringan.",
     "story": "Perebusan menarik lebih banyak dari biji keras daripada penyeduhan.",
     "flavor": "Gurih biji sangrai dengan manis berminyak ringan.",
-    "pairing": "Camilan, setelah makan, musim dingin.",
+    "pairing": "Sebagai teman camilan ia cocok dengan kacang-kacangan, kue beras, dan roti panggang, dan setelah makanan musim dingin ia terasa mengenyangkan. Nuansa kacang biji panggang dan rasa manis berminyak ringannya meneruskan rasa camilan panggang dengan memuaskan, tetapi dengan buah asam rasa minyaknya melayang menjauh.",
     "brewTip": "Biji yang disangrai dalam cangkang memberi lebih banyak saat direbus.",
     "keep": "Simpan tertutup rapat dan sejuk; perhatikan minyaknya.",
     "keywords": "teh biji bunga matahari sunflower seed tea haebaragi Korea gurih kacang"
@@ -4498,7 +4498,7 @@ window.TEAFaiDataId = (function () {
     "process": "Istilah umum untuk seduhan herba kering — mint, kamomil, lemon balm, dan lainnya.",
     "story": "Berbeda dari teh sejati, teh herba bebas kafein dan setiap herba menyeduh dengan cara berbeda.",
     "flavor": "Berbeda menurut herba; nuansa hijau dan bunga yang memimpin.",
-    "pairing": "Setelah makan, malam hari, hidangan penutup.",
+    "pairing": "Setelah makan atau di malam hari ia cocok dengan kukis ringan, biskuit, dan buah, dan juga berfungsi sebagai teh hidangan penutup. Dipimpin oleh nuansa hijau dan bunga, ia cukup lembut untuk hampir tidak bertabrakan dengan camilan apa pun, tetapi di samping makanan berbumbu kuat aroma herbalnya hilang.",
     "brewTip": "Setiap herba berbeda; sekitar lima menit menjaga aromanya tetap di dalam.",
     "keep": "Simpan tertutup rapat dan kering — aromanya cepat memudar.",
     "keywords": "teh herba herb tea tisane herba mint kamomil"
@@ -4514,7 +4514,7 @@ window.TEAFaiDataId = (function () {
     "process": "Buah pohon kismis dikeringkan dan direbus dalam air; secangkirnya agak manis dan beraroma kayu.",
     "story": "Di Korea, buah ini telah lama direbus di rumah, sering untuk pagi hari setelah minum-minum.",
     "flavor": "Manis lembut, nuansa kayu, akhir yang halus.",
-    "pairing": "Saat makan, pagi setelah minum-minum.",
+    "pairing": "Secara tradisional ia diminum pada pagi setelah minum alkohol, bersama bubur atau sup penghilang mabuk, dan ia juga cocok dengan makanan biasa. Rasa manis lembutnya dan nuansa kayunya berbagi karakter ringan makanan pagi dan turun dengan halus, tetapi dengan hidangan penutup manis rasa manisnya berlipat, jadi pisahkanlah.",
     "brewTip": "Enak juga didinginkan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh pohon kismis raisin tree tea heotgae Korea rebusan"
@@ -4530,7 +4530,7 @@ window.TEAFaiDataId = (function () {
     "process": "Daun dan bulir schizonepeta kering diseduh; sejuk dan seperti mint.",
     "story": "Herba obat Korea yang telah lama digunakan dalam rebusan, di sini sebagai teh ringan.",
     "flavor": "Kesejukan seperti mint, aroma hijau, sedikit rempah.",
-    "pairing": "Setelah makan, musim panas.",
+    "pairing": "Setelah makanan musim panas ia cocok dengan hidangan sejuk seperti mi dingin atau jeli kacang hijau, dan diminum sendirian ia menyegarkan. Sensasi sejuknya yang seperti mint dan sedikit rempahnya menyegarkan mulut, tetapi dengan minuman susu hangat aroma sejuknya terasa janggal, jadi pisahkanlah keduanya.",
     "brewTip": "Tutup saat menyeduh; aromanya mudah menguap.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh schizonepeta schizonepeta tea hyeonggae Korea herba"
@@ -4546,7 +4546,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kenari giling diaduk ke dalam air panas; kaya dan gurih kacang.",
     "story": "Kadang direbus bersama jujube dan jahe di rumah-rumah Korea.",
     "flavor": "Gurih kacang yang dalam, kelembutan berminyak, manis ringan.",
-    "pairing": "Musim dingin, camilan, saat makan.",
+    "pairing": "Sebagai camilan musim dingin bersama kue beras, roti panggang, atau keju ia mengenyangkan, dan ia juga cocok untuk makanan. Nuansa kacangnya yang dalam dan kelembutan berminyaknya menyatu dengan camilan panggang untuk suapan yang memuaskan, tetapi dengan buah asam kekayaannya melayang menjauh, jadi nikmatilah secara terpisah.",
     "brewTip": "Aduk sambil minum; ampasnya mengendap.",
     "keep": "Simpan kenari giling di lemari es dan gunakan segera.",
     "keywords": "teh kenari walnut tea hodu Korea gurih kacang"
@@ -4562,7 +4562,7 @@ window.TEAFaiDataId = (function () {
     "process": "Labu matang diiris, dikeringkan, dan direbus; manis alami.",
     "story": "Teh simpanan musim dingin dari sayuran pokok Korea.",
     "flavor": "Manis labu dengan tekstur pati yang lembut.",
-    "pairing": "Saat makan, musim dingin, camilan.",
+    "pairing": "Ia cocok dengan bubur labu, kue beras labu, dan ubi panggang, serta menambah kenyamanan pada makanan atau camilan musim dingin. Rasa manis labu dan bodi berpatinya yang lembut mengalir secara alami ke hidangan dari bahan yang sama, tetapi dengan buah asam rasa manis dan asamnya berjalan sendiri-sendiri.",
     "brewTip": "Perebusan lebih lama membuatnya lebih manis.",
     "keep": "Simpan labu kering tertutup rapat dan kering.",
     "keywords": "teh labu pumpkin tea hobak Korea manis"
@@ -4578,7 +4578,7 @@ window.TEAFaiDataId = (function () {
     "process": "Ginseng merah — ginseng yang dikukus dan dikeringkan — direbus atau diambil ekstraknya dalam air panas.",
     "story": "Pengukusan mengubah akarnya menjadi cokelat kemerahan dan memperdalam rasa pahit-manisnya.",
     "flavor": "Pahit dulu, lalu manis dan rasa tanah, akhir yang panjang.",
-    "pairing": "Pagi hari, musim dingin, madu.",
+    "pairing": "Di pagi hari atau di musim dingin, minumlah dengan sedikit madu; camilan manis seperti kesemek kering atau jujube juga cocok dengannya. Madu menekan rasa pahitnya sementara aroma tanah dan akhir panjangnya terbuka perlahan, tetapi dengan makanan biasa aroma ginseng merahnya menutupi makanan.",
     "brewTip": "Sedikit madu melembutkan pahitnya.",
     "keep": "Simpan tertutup rapat, sejuk, dan kering.",
     "keywords": "teh ginseng merah red ginseng tea hongsam Korea"
@@ -4594,7 +4594,7 @@ window.TEAFaiDataId = (function () {
     "process": "Akar astragalus kering direbus dalam air; agak manis dan beraroma tanah.",
     "story": "Akrab dari samgyetang, akarnya juga berdiri sendiri sebagai teh.",
     "flavor": "Manis ringan, gurih seperti kacang, rasa tanah yang lembut.",
-    "pairing": "Saat makan, samgyetang, musim panas.",
+    "pairing": "Secara tradisional ia disajikan bersama samgyetang dan cocok dengan makanan musim panas atau makanan biasa. Rasa manis ringannya dan nuansa kacang seperti buncis berbagi karakter sederhana hidangan ayam, tetapi di samping hidangan penutup manis nuansa kacangnya tertutupi, jadi minumlah secara terpisah.",
     "brewTip": "Rebus bersama jujube untuk manis tambahan.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh astragalus astragalus tea hwanggi Korea akar"
@@ -4610,7 +4610,7 @@ window.TEAFaiDataId = (function () {
     "process": "Kulit magnolia kering direbus dalam air; pahit dan aromatik.",
     "story": "Kulit obat Korea, diseduh di sini sebagai teh herba yang kuat.",
     "flavor": "Pahit, aroma kayu, akhir agak pedas rempah.",
-    "pairing": "Saat makan, makanan kaya rasa.",
+    "pairing": "Ia cocok dengan hidangan daging berat dan tumisan. Pahitnya dan aroma kayunya menekan lemak sementara akhir yang sedikit pedas menyegarkan mulut, tetapi dengan hidangan penutup manis pahitnya menonjol dan bertabrakan.",
     "brewTip": "Teh ini pahit; rebusan yang lebih ringan lebih enak diminum.",
     "keep": "Simpan tertutup rapat dan kering.",
     "keywords": "teh kulit magnolia magnolia bark tea hubak Korea"
@@ -4626,7 +4626,7 @@ window.TEAFaiDataId = (function () {
     "process": "Lada hitam giling direbus dalam air; panas dan tajam.",
     "story": "Teh rempah yang diminum dalam cangkir kecil dan kuat, kadang dengan madu.",
     "flavor": "Panas tajam, aroma rempah, akhir yang singkat dan tajam.",
-    "pairing": "Musim dingin, saat makan, madu.",
+    "pairing": "Sajikan bersama makanan musim dingin atau dengan sedikit madu, di samping makanan mengenyangkan seperti daging panggang atau rebusan. Panas pedasnya dan aroma rempahnya membangunkan mulut di antara suapan makanan berat, tetapi dengan hidangan penutup yang halus panasnya menutupi semua aroma lain.",
     "brewTip": "Sedikit saja sudah jauh efeknya; sesuaikan jumlahnya dengan hati-hati.",
     "keep": "Simpan tertutup rapat dan kering — aromanya memudar.",
     "keywords": "teh lada hitam black pepper tea huchu rempah"
@@ -4642,7 +4642,7 @@ window.TEAFaiDataId = (function () {
     "process": "Sepuluh herba menggabungkan empat herba Sagunja-tang dan empat herba Samul-tang dengan astragalus dan kayu manis — susunan standar resep klinik dan set herba toko.",
     "story": "Kantong siap pakai hanya perlu dihangatkan; untuk set herba, menambahkan jujube dan jahe melembutkan rasanya.",
     "flavor": "Herba pahit-manis yang dilembutkan oleh manis lembut akar manis (licorice) dan rempah hangat kayu manis.",
-    "pairing": "Hari-hari dingin saat Anda ingin menghangatkan badan, dan kudapan tradisional seperti tteok dan yakgwa.",
+    "pairing": "Secara tradisional ia dihangatkan pada hari dingin dan disajikan bersama manisan tradisional seperti kue beras, yakgwa, dan kesemek kering. Pahit herbalnya dilembutkan oleh akar manis dan manisan itu, sementara rempah hangat kayu manis menyatu di dalamnya, tetapi aromanya yang berat terasa janggal dengan makanan ringan seperti salad.",
     "brewTip": "Didihkan, lalu rebus perlahan dengan api kecil dalam waktu lama untuk kedalaman rasa; sedikit madu membulatkan sisi herbanya.",
     "keep": "Simpan herba tertutup rapat, sejuk, dan kering; simpan rebusan di lemari es dan minum dalam beberapa hari.",
     "keywords": "sipjeon daebotang shiquan dabu tang tonik herba Korea rebusan ginseng astragalus"
