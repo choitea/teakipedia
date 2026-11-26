@@ -10,7 +10,7 @@
       content="녹차·우롱차·홍차·흑차·백차·황차·블렌딩차·전통차·대용차·허브차 299종의 실제 찻잎 사진과 원산지, 우림 온도와 시간, 스토어, 파트너 찻집, 시음 노트를 한 곳에 담은 티키피디아 앱."
     />
     <meta name="theme-color" content="#F7F3EB" />
-    <meta name="color-scheme" content="light" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
@@ -6022,6 +6022,52 @@ h3 {
   color: var(--ink-soft);
 }
 
+/* 화면 모드 버튼 (언어 버튼 왼쪽의 해·달 아이콘) */
+.theme-open {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin-left: auto;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--ink-soft);
+  cursor: pointer;
+  flex: none;
+}
+
+.theme-open svg {
+  display: block;
+}
+
+.theme-open .theme-ic-moon {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-open .theme-ic-sun {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-open .theme-ic-moon {
+  display: block;
+}
+
+.app-header .lang-open {
+  margin-left: 8px;
+}
+
+.theme-row-ic {
+  width: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-soft);
+  flex: none;
+}
+
 .lang-picker {
   position: fixed;
   inset: 0;
@@ -6358,7 +6404,157 @@ h3 {
   margin-top: 8px;
 }
 
+/* ============================================================
+   다크 모드 — html[data-theme="dark"] 일 때만 적용됩니다.
+   기본 팔레트는 CSS 변수로 갈아끼우고, 밝은 색을 직접 쓴
+   몇몇 카드·배지·반투명 바만 따로 덮습니다.
+   ============================================================ */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #161c17;
+  --paper-2: #1f2821;
+  --paper-3: #29332b;
+  --ink: #ede6d4;
+  --ink-soft: #c9c1ab;
+  --muted: #9c9480;
+  --line: #39443b;
+  --amber: #d69f57;
+  --amber-light: #e7c084;
+  --amber-soft: #3a2f1e;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 10px 28px -18px rgba(0, 0, 0, 0.85);
+}
+
+:root[data-theme="dark"] .app-header {
+  background: rgba(22, 28, 23, 0.9);
+}
+
+:root[data-theme="dark"] .tabbar {
+  background: rgba(31, 40, 33, 0.94);
+}
+
+:root[data-theme="dark"] .topnav {
+  background: rgba(22, 28, 23, 0.92);
+}
+
+:root[data-theme="dark"] .qrs-item {
+  background: rgba(31, 40, 33, 0.9);
+}
+
+:root[data-theme="dark"] .lang-open,
+:root[data-theme="dark"] .theme-open {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+:root[data-theme="dark"] .lang-row {
+  border-bottom-color: rgba(57, 68, 59, 0.7);
+}
+
+:root[data-theme="dark"] .bb-item {
+  background: var(--paper-2);
+}
+
+:root[data-theme="dark"] .buy-block {
+  background: var(--paper-3);
+}
+
+:root[data-theme="dark"] .field input:focus,
+:root[data-theme="dark"] .field textarea:focus,
+:root[data-theme="dark"] .field select:focus {
+  background: var(--paper-2);
+}
+
+:root[data-theme="dark"] .tea-card.is-group {
+  background: linear-gradient(180deg, #232d25 0%, var(--paper-2) 100%);
+}
+
+:root[data-theme="dark"] .qr-card.best {
+  background: linear-gradient(180deg, #2b3021 0%, #222a1e 100%);
+}
+
+:root[data-theme="dark"] .lens-card {
+  background: linear-gradient(140deg, #232b24, #1f2821 70%);
+}
+
+:root[data-theme="dark"] .lock-card {
+  background: linear-gradient(150deg, #262e27, #1f2821 65%);
+}
+
+:root[data-theme="dark"] .lock-card.free {
+  background: linear-gradient(150deg, #243026, #1f2821 70%);
+}
+
+:root[data-theme="dark"] .ox-track {
+  background: #39443b;
+}
+
+:root[data-theme="dark"] .post-type {
+  color: #e3ac6d;
+}
+
+:root[data-theme="dark"] .post-type.bag {
+  background: #26362a;
+  color: #a9c79b;
+}
+
+:root[data-theme="dark"] .post-type.question {
+  background: #27333d;
+  color: #a7c3d4;
+}
+
+:root[data-theme="dark"] .re-btn.on {
+  background: #3d2d24;
+}
+
+:root[data-theme="dark"] .post-report:focus-visible {
+  background: #3d2d24;
+}
+
+:root[data-theme="dark"] .ar-check {
+  background: #26362a;
+}
+
+:root[data-theme="dark"] .plan-box.biz {
+  background: var(--paper-3);
+}
+
+:root[data-theme="dark"] .partner-free {
+  background: #38301f;
+}
+
+:root[data-theme="dark"] .chip[aria-pressed="true"] .dot {
+  box-shadow: 0 0 0 2px rgba(22, 28, 23, 0.55);
+}
+
+:root[data-theme="dark"] .demo-note {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+:root[data-theme="dark"] .my-apps {
+  background: rgba(255, 255, 255, 0.04);
+}
+
 </style>
+    <script>
+      /* 화면 모드(라이트·다크·기기 설정)를 첫 화면이 그려지기 전에 적용해 깜빡임을 막습니다 */
+      (function () {
+        var pref = "light";
+        try {
+          var raw = window.localStorage.getItem("teafai.theme.v1");
+          if (raw) pref = JSON.parse(raw) || "light";
+        } catch (e) {}
+        if (pref !== "dark" && pref !== "system") pref = "light";
+        var dark =
+          pref === "dark" ||
+          (pref === "system" &&
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches);
+        var root = document.documentElement;
+        root.setAttribute("data-theme", dark ? "dark" : "light");
+        root.setAttribute("data-theme-pref", pref);
+        var meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute("content", dark ? "#161C17" : "#F7F3EB");
+      })();
+    </script>
   </head>
   <body>
     <!-- 아이콘 스프라이트 -->
@@ -6420,6 +6616,10 @@ h3 {
         </symbol>
         <symbol id="ic-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
           <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" />
+        </symbol>
+        <symbol id="ic-auto" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="8.5" />
+          <path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor" stroke="none" />
         </symbol>
         <symbol id="ic-youtube" viewBox="0 0 24 24" fill="currentColor">
           <path d="M21.3 7.2a2.6 2.6 0 0 0-1.8-1.8C17.8 5 12 5 12 5s-5.8 0-7.5.4A2.6 2.6 0 0 0 2.7 7.2C2.3 8.9 2.3 12 2.3 12s0 3.1.4 4.8a2.6 2.6 0 0 0 1.8 1.8C6.2 19 12 19 12 19s5.8 0 7.5-.4a2.6 2.6 0 0 0 1.8-1.8c.4-1.7.4-4.8.4-4.8s0-3.1-.4-4.8zM10 15.2V8.8L15.2 12z" />
@@ -6545,6 +6745,11 @@ h3 {
         <button class="tab" type="button" data-view="notes"><span data-i18n="tab.notes">노트</span></button>
       </nav>
       <div class="lang-switch" id="langSwitch" role="group" aria-label="언어" data-i18n-aria="a11y.lang"></div>
+      <!-- 화면 모드 버튼 — 누르면 라이트·다크·기기 설정 선택 화면이 열립니다 -->
+      <button class="theme-open" id="themeOpen" type="button" aria-haspopup="true" data-i18n-aria="theme.title">
+        <svg class="theme-ic-sun" width="17" height="17" aria-hidden="true"><use href="#ic-sun" /></svg>
+        <svg class="theme-ic-moon" width="17" height="17" aria-hidden="true"><use href="#ic-moon" /></svg>
+      </button>
       <!-- 폰(899px 이하)에서만 보이는 언어 버튼 — 누르면 언어 선택 화면이 열립니다 -->
       <button class="lang-open" id="langOpen" type="button" aria-haspopup="true" data-i18n-aria="a11y.lang">
         <svg width="16" height="16" aria-hidden="true"><use href="#ic-globe" /></svg><span id="langOpenLabel">한국어</span>
@@ -6560,6 +6765,17 @@ h3 {
         <span class="lang-picker-title" data-i18n="lang.select">언어 선택</span>
       </div>
       <div class="lang-picker-list" id="langPickerList"></div>
+    </div>
+
+    <!-- 화면 모드 선택 화면 (언어 선택과 같은 전체화면 목록) -->
+    <div class="lang-picker" id="themePicker" hidden role="dialog" aria-modal="true" data-i18n-aria="theme.title">
+      <div class="lang-picker-head">
+        <button class="lang-picker-back" id="themePickerBack" type="button" aria-label="Back">
+          <svg width="22" height="22" aria-hidden="true"><use href="#ic-arrow" /></svg>
+        </button>
+        <span class="lang-picker-title" data-i18n="theme.title">화면 모드</span>
+      </div>
+      <div class="lang-picker-list" id="themePickerList"></div>
     </div>
 
     <main class="viewport">
@@ -13529,7 +13745,63 @@ window.TEAFaiI18N = (function () {
     "sort.name": "按名稱",
     "sort.popular": "按人氣"
   };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18];
+  var V19 = {
+    "ko": {
+      "theme.title": "화면 모드",
+      "theme.light": "라이트 모드",
+      "theme.dark": "다크 모드",
+      "theme.system": "기기 설정 따라가기"
+    },
+    "en": {
+      "theme.title": "Appearance",
+      "theme.light": "Light",
+      "theme.dark": "Dark",
+      "theme.system": "Follow device setting"
+    },
+    "zh-CN": {
+      "theme.title": "显示模式",
+      "theme.light": "浅色模式",
+      "theme.dark": "深色模式",
+      "theme.system": "跟随设备设置"
+    },
+    "zh-TW": {
+      "theme.title": "顯示模式",
+      "theme.light": "淺色模式",
+      "theme.dark": "深色模式",
+      "theme.system": "跟隨裝置設定"
+    },
+    "ja": {
+      "theme.title": "表示モード",
+      "theme.light": "ライトモード",
+      "theme.dark": "ダークモード",
+      "theme.system": "端末の設定に従う"
+    },
+    "hi": {
+      "theme.title": "रूप-रंग",
+      "theme.light": "लाइट मोड",
+      "theme.dark": "डार्क मोड",
+      "theme.system": "डिवाइस सेटिंग के अनुसार"
+    },
+    "th": {
+      "theme.title": "โหมดการแสดงผล",
+      "theme.light": "โหมดสว่าง",
+      "theme.dark": "โหมดมืด",
+      "theme.system": "ตามการตั้งค่าอุปกรณ์"
+    },
+    "vi": {
+      "theme.title": "Chế độ hiển thị",
+      "theme.light": "Chế độ sáng",
+      "theme.dark": "Chế độ tối",
+      "theme.system": "Theo cài đặt thiết bị"
+    }
+  };
+  var YUE9 = {
+    "theme.title": "畫面模式",
+    "theme.light": "淺色模式",
+    "theme.dark": "深色模式",
+    "theme.system": "跟隨裝置設定"
+  };
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, V17, V18, V19];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -13551,6 +13823,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE6) merged[k] = YUE6[k];
       for (k in YUE7) merged[k] = YUE7[k];
       for (k in YUE8) merged[k] = YUE8[k];
+      for (k in YUE9) merged[k] = YUE9[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
@@ -80430,9 +80703,79 @@ window.TEAFaiCulture = [
     closeLangPicker();
   }
 
+  /* ---------- 화면 모드 (라이트 · 다크 · 기기 설정) ---------- */
+  var THEME_KEY = "teafai.theme.v1";
+  var THEME_MODES = [
+    { id: "light", icon: "ic-sun", key: "theme.light" },
+    { id: "dark", icon: "ic-moon", key: "theme.dark" },
+    { id: "system", icon: "ic-auto", key: "theme.system" }
+  ];
+  var themePref = storeGet(THEME_KEY, "light");
+  if (themePref !== "dark" && themePref !== "system") themePref = "light";
+  var themeMq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+
+  function themeResolved() {
+    if (themePref === "dark") return "dark";
+    if (themePref === "system" && themeMq && themeMq.matches) return "dark";
+    return "light";
+  }
+
+  function applyTheme() {
+    var resolved = themeResolved();
+    document.documentElement.setAttribute("data-theme", resolved);
+    document.documentElement.setAttribute("data-theme-pref", themePref);
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute("content", resolved === "dark" ? "#161C17" : "#F7F3EB");
+    renderThemeRows();
+  }
+
+  function renderThemeRows() {
+    var list = $("#themePickerList");
+    if (!list) return;
+    list.innerHTML = "";
+    THEME_MODES.forEach(function (mode) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "lang-row";
+      b.setAttribute("data-theme-mode", mode.id);
+      b.setAttribute("aria-pressed", String(mode.id === themePref));
+      var ic = document.createElement("span");
+      ic.className = "theme-row-ic";
+      ic.innerHTML = '<svg width="20" height="20" aria-hidden="true"><use href="#' + mode.icon + '" /></svg>';
+      var span = document.createElement("span");
+      span.textContent = t(mode.key);
+      b.appendChild(ic);
+      b.appendChild(span);
+      if (mode.id === themePref) {
+        var check = document.createElement("span");
+        check.className = "lang-row-check";
+        check.textContent = "✓";
+        check.setAttribute("aria-hidden", "true");
+        b.appendChild(check);
+      }
+      b.addEventListener("click", function () {
+        pickTheme(mode.id);
+      });
+      list.appendChild(b);
+    });
+  }
+
+  function closeThemePicker() {
+    var p = $("#themePicker");
+    if (p) p.hidden = true;
+  }
+
+  function pickTheme(next) {
+    themePref = next;
+    storeSet(THEME_KEY, next);
+    applyTheme();
+    closeThemePicker();
+  }
+
   /* 폰용 언어 선택 화면과 헤더 언어 버튼의 현재 언어 표시를 맞춥니다 */
   function syncLangUI() {
     L.mountPicker($("#langPickerList"), lang, pickLang);
+    renderThemeRows();
     var lbl = $("#langOpenLabel");
     if (lbl) lbl.textContent = L.LABEL[lang] || lang;
   }
@@ -80466,6 +80809,20 @@ window.TEAFaiCulture = [
       });
     var langBackBtn = $("#langPickerBack");
     if (langBackBtn) langBackBtn.addEventListener("click", closeLangPicker);
+
+    applyTheme();
+    var themeOpenBtn = $("#themeOpen");
+    if (themeOpenBtn)
+      themeOpenBtn.addEventListener("click", function () {
+        var p = $("#themePicker");
+        if (p) p.hidden = false;
+      });
+    var themeBackBtn = $("#themePickerBack");
+    if (themeBackBtn) themeBackBtn.addEventListener("click", closeThemePicker);
+    if (themeMq && themeMq.addEventListener)
+      themeMq.addEventListener("change", function () {
+        if (themePref === "system") applyTheme();
+      });
 
     var lastTea = storeGet(LAST_TEA_KEY, null);
     var startId = lastTea && D.byId(lastTea).id === lastTea ? lastTea : D.teas[0].id;
