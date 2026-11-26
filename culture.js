@@ -249,10 +249,6 @@ window.TEAFaiCulture = [
     {
      "h": "Small vessels, strong tea, many rounds",
      "p": "Gongfu brewing uses a palm-sized teapot or gaiwan filled generously with leaves, steeped briefly and repeated five or more times. Each infusion shifts slightly in aroma and flavor, and tasting that change round by round is the pleasure of the style."
-    },
-    {
-     "h": "Fairness pitcher, aroma cup, tasting cup",
-     "p": "Brewed tea is first poured into a fairness pitcher (gongdaobei) to even out its strength before serving. In another common sequence, tea is poured into a tall aroma cup (wenxiangbei) just to savor the scent, then transferred to a tasting cup (pinmingbei) for drinking — enjoying aroma and taste as two separate steps."
     }
    ],
    "ja": [
@@ -267,10 +263,6 @@ window.TEAFaiCulture = [
     {
      "h": "小さな茶器で濃く、何度も",
      "p": "工夫茶では手のひらほどの小さな茶罐や蓋碗に茶葉をたっぷり入れ、短時間で淹れる工程を五回以上繰り返します。淹れるたびに香りと味が少しずつ変わり、その変化を順に味わうのが工夫茶の楽しみです。"
-    },
-    {
-     "h": "公道杯・聞香杯・品茗杯",
-     "p": "淹れた茶はまず公道杯に移して濃さを均一にし、それから各碗に注ぎます。また、細長い聞香杯に一度注いで香りだけを楽しみ、実際に飲む茶は品茗杯に移す方式も広く行われます。香りと味を分けて楽しむ工夫茶ならではの順序です。"
     }
    ],
    "ko": [
@@ -285,10 +277,6 @@ window.TEAFaiCulture = [
     {
      "h": "작은 다구로 진하게, 여러 번",
      "p": "공부차에서는 손바닥만 한 작은 다관이나 개완에 찻잎을 넉넉히 넣고, 짧은 시간에 우려내는 과정을 대여섯 번 이상 반복합니다. 한 번 우려낼 때마다 향과 맛이 조금씩 달라지며, 그 변화를 차례로 음미하는 것이 공부차의 즐거움입니다."
-    },
-    {
-     "h": "공도배·문향배·품명배",
-     "p": "우린 차는 먼저 공도배(公道杯)에 옮겨 담아 농도를 고르게 한 뒤 잔에 따릅니다. 길쭉한 문향배(聞香杯)에는 차를 먼저 따라 향만 맡고, 실제 마시는 차는 품명배(品茗杯)로 옮겨 담는 방식도 널리 쓰입니다. 향과 맛을 따로 즐기는 공부차 특유의 순서입니다."
     }
    ],
    "yue": [
@@ -303,10 +291,6 @@ window.TEAFaiCulture = [
     {
      "h": "細茶具沖濃茶，分多次品嚐",
      "p": "工夫茶用手掌咁大嘅細壺或者蓋碗，落多啲茶葉，短時間出湯，反覆沖泡五六次以上。每一泡嘅香氣同味道都有少少變化，逐泡品嚐呢種變化，正係工夫茶嘅樂趣。"
-    },
-    {
-     "h": "公道杯·聞香杯·品茗杯",
-     "p": "沖好嘅茶先倒入公道杯，等濃度均勻之後再分畀各杯。另一種常見次序係先將茶倒入細長嘅聞香杯淨係聞香，再轉入品茗杯飲用，將聞香同品味分開兩步嚟享受。"
     }
    ],
    "zh-CN": [
@@ -321,10 +305,6 @@ window.TEAFaiCulture = [
     {
      "h": "小茶具泡浓茶，分多次品饮",
      "p": "工夫茶用巴掌大的小壶或盖碗，多放茶叶，短时出汤，反复冲泡五六次以上。每一泡的香气与滋味都有细微变化，逐泡品味这种变化正是工夫茶的乐趣。"
-    },
-    {
-     "h": "公道杯·闻香杯·品茗杯",
-     "p": "泡好的茶先倒入公道杯，使浓度均匀后再分给各杯。另一种常见顺序是先把茶倒入细长的闻香杯只闻其香，再转入品茗杯饮用，把闻香与品味分成两步来享受。"
     }
    ],
    "zh-TW": [
@@ -339,10 +319,6 @@ window.TEAFaiCulture = [
     {
      "h": "小茶具泡濃茶，分多次品飲",
      "p": "工夫茶用巴掌大的小壺或蓋碗，多放茶葉，短時出湯，反覆沖泡五六次以上。每一泡的香氣與滋味都有細微變化，逐泡品味這種變化正是工夫茶的樂趣。"
-    },
-    {
-     "h": "公道杯·聞香杯·品茗杯",
-     "p": "泡好的茶先倒入公道杯，使濃度均勻後再分給各杯。另一種常見順序是先把茶倒入細長的聞香杯只聞其香，再轉入品茗杯飲用，把聞香與品味分成兩步來享受。"
     }
    ],
    "hi": [
@@ -357,10 +333,6 @@ window.TEAFaiCulture = [
     {
      "h": "छोटे बर्तन, तेज़ चाय, कई दौर",
      "p": "गोंगफ़ू विधि में हथेली के आकार की केतली या गायवान का उपयोग होता है, जिसमें पत्तियाँ भरपूर मात्रा में डाली जाती हैं, चाय थोड़ी देर भिगोई जाती है और यह प्रक्रिया पाँच या उससे अधिक बार दोहराई जाती है। हर बार खुशबू और स्वाद में हल्का बदलाव आता है, और दौर-दर-दौर उस बदलाव को चखना ही इस शैली का आनंद है।"
-    },
-    {
-     "h": "न्याय पात्र, खुशबू कप, चखने का कप",
-     "p": "बनी हुई चाय को पहले एक न्याय पात्र (गोंगदाओबेई) में डाला जाता है ताकि परोसने से पहले उसकी तेज़ी एक समान हो जाए। एक अन्य आम क्रम में, चाय को पहले एक लंबे खुशबू कप (वेनशियांगबेई) में सिर्फ़ खुशबू लेने के लिए डाला जाता है, फिर पीने के लिए चखने के कप (पिनमिंगबेई) में स्थानांतरित किया जाता है — इस तरह खुशबू और स्वाद का आनंद दो अलग-अलग चरणों में लिया जाता है।"
     }
    ],
    "th": [
@@ -375,10 +347,6 @@ window.TEAFaiCulture = [
     {
      "h": "อุปกรณ์ใบเล็ก ชาเข้ม หลายรอบ",
      "p": "การชงแบบกงฟูใช้กาน้ำชาขนาดเท่าฝ่ามือหรือไก้หว่าน ใส่ใบชาในปริมาณมาก แช่เพียงครู่สั้น ๆ และชงซ้ำตั้งแต่ห้ารอบขึ้นไป น้ำชาแต่ละรอบจะมีกลิ่นและรสเปลี่ยนไปเล็กน้อย และการได้ชิมความเปลี่ยนแปลงนั้นรอบต่อรอบคือความเพลิดเพลินของวิธีชงแบบนี้"
-    },
-    {
-     "h": "เหยือกแบ่งชา ถ้วยดมกลิ่น และถ้วยชิม",
-     "p": "ชาที่ชงแล้วจะถูกรินลงในเหยือกแบ่งชา (กงเต้าเป้ย) ก่อน เพื่อให้ความเข้มของชาสม่ำเสมอกันก่อนเสิร์ฟ อีกขั้นตอนหนึ่งที่นิยมกันคือ รินชาลงในถ้วยดมกลิ่นทรงสูง (เหวินเซียงเป้ย) เพื่อดมกลิ่นหอมเพียงอย่างเดียวก่อน จากนั้นจึงถ่ายลงถ้วยชิม (ผิ่นหมิงเป้ย) สำหรับดื่ม เป็นการแยกการดื่มด่ำกลิ่นและรสออกเป็นสองขั้นตอน"
     }
    ],
    "vi": [
@@ -393,10 +361,6 @@ window.TEAFaiCulture = [
     {
      "h": "Dụng cụ nhỏ, trà đậm, nhiều vòng pha",
      "p": "Pha trà công phu dùng ấm trà cỡ lòng bàn tay hoặc gaiwan chứa đầy lá trà, ủ nhanh và lặp lại năm lần trở lên. Mỗi lần pha, hương thơm và vị trà thay đổi đôi chút, và việc nếm sự thay đổi đó qua từng vòng chính là niềm vui của phong cách này."
-    },
-    {
-     "h": "Chén công đạo, chén ngửi hương, chén thưởng trà",
-     "p": "Trà đã pha trước tiên được rót vào chén công đạo (gongdaobei) để độ đậm đều nhau trước khi phục vụ. Theo một trình tự phổ biến khác, trà được rót vào chén ngửi hương cao (wenxiangbei) chỉ để thưởng thức mùi hương, rồi chuyển sang chén thưởng trà (pinmingbei) để uống — thưởng thức hương và vị thành hai bước riêng biệt."
     }
    ],
    "ar": [
@@ -411,10 +375,6 @@ window.TEAFaiCulture = [
     {
      "h": "أوانٍ صغيرة وشاي قوي وجولات كثيرة",
      "p": "يستخدم تحضير غونغ فو إبريقًا بحجم راحة اليد أو غايوان يُملأ بسخاء بالأوراق، ويُنقع لفترة وجيزة ويتكرر ذلك خمس مرات أو أكثر. وتتغير الرائحة والنكهة قليلًا مع كل نقعة، وتذوّق هذا التغير جولة بعد جولة هو متعة هذا الأسلوب."
-    },
-    {
-     "h": "إبريق العدالة وكوب الرائحة وكوب التذوق",
-     "p": "يُسكب الشاي المحضّر أولًا في إبريق العدالة (غونغداوبي) لمعادلة قوته قبل التقديم. وفي تسلسل شائع آخر، يُسكب الشاي في كوب رائحة طويل (ونشيانغبي) للاستمتاع بالعبير فقط، ثم يُنقل إلى كوب تذوق (بينمينغبي) للشرب — فيُستمتع بالرائحة والمذاق كخطوتين منفصلتين."
     }
    ],
    "ind": [
@@ -429,10 +389,6 @@ window.TEAFaiCulture = [
     {
      "h": "Wadah kecil, teh pekat, banyak putaran",
      "p": "Penyeduhan gongfu menggunakan teko seukuran telapak tangan atau gaiwan yang diisi daun dengan murah hati, diseduh sebentar dan diulang lima kali atau lebih. Setiap seduhan sedikit bergeser dalam aroma dan rasa, dan mencicipi perubahan itu putaran demi putaran adalah kenikmatan gaya ini."
-    },
-    {
-     "h": "Teko keadilan, cangkir aroma, cangkir cicip",
-     "p": "Teh yang diseduh pertama-tama dituangkan ke teko keadilan (gongdaobei) untuk meratakan kekuatannya sebelum disajikan. Dalam urutan umum lainnya, teh dituangkan ke cangkir aroma tinggi (wenxiangbei) hanya untuk menikmati aromanya, lalu dipindahkan ke cangkir cicip (pinmingbei) untuk diminum — menikmati aroma dan rasa sebagai dua langkah terpisah."
     }
    ]
   },
@@ -2977,10 +2933,6 @@ window.TEAFaiCulture = [
   "body": {
    "ko": [
     {
-     "h": "공부차란",
-     "p": "공부차는 중국 푸젠과 광둥 일대에서 발달한 차 우리는 방식으로, 작은 다구에 찻잎을 넉넉히 넣고 짧게 여러 번 우려 향의 변화를 즐기는 것이 특징입니다. '공부'는 시간과 정성을 들인다는 뜻으로, 이름 그대로 차 한 잔에 공을 들이는 문화입니다."
-    },
-    {
      "h": "다반과 공도배",
      "p": "다반(차판)은 다구를 올려놓는 쟁반으로, 위에 물을 흘려보내도 아래로 빠지거나 고이도록 만든 배수 구조가 있습니다. 덕분에 다구를 데우거나 헹군 물을 그 자리에서 버릴 수 있습니다. 공도배(공평배)는 우린 차를 한 번 모아 농도를 고르게 한 뒤 잔에 나눠 따르는 작은 주전자 모양의 그릇으로, 먼저 따른 잔과 나중 잔의 맛이 달라지지 않게 해 줍니다."
     },
@@ -2991,17 +2943,9 @@ window.TEAFaiCulture = [
     {
      "h": "잎을 다루는 도구들",
      "p": "차하(茶荷)는 찻잎을 덜어 손님에게 보여 주거나 다구에 넣을 때 쓰는 작은 접시 모양의 도구이고, 차칙(茶則)은 잎을 떠서 옮기는 숟가락 같은 도구입니다. 차침(茶針)은 다관 주둥이가 잎으로 막혔을 때 뚫는 바늘이고, 찻잎을 집는 차협(茶夾)과 잔을 집는 집게도 자주 함께 씁니다."
-    },
-    {
-     "h": "집에서 간이로 갖추기",
-     "p": "모든 도구를 한 번에 갖출 필요는 없습니다. 쟁반 하나에 개완이나 작은 다관, 우유 피처처럼 생긴 작은 용기를 공도배 대신 쓰고, 잔 두 개만 있어도 공부차의 기본 흐름은 충분히 즐길 수 있습니다. 도구는 필요를 느낄 때마다 하나씩 늘려 가는 편이 좋습니다."
     }
    ],
    "en": [
-    {
-     "h": "What gongfu tea is",
-     "p": "Gongfu tea is a brewing style that developed in Fujian and Guangdong, China. It uses small vessels, a generous amount of leaf, and many short infusions so you can follow how the aroma changes from steep to steep. 'Gongfu' means skill earned through time and effort — fitting for a way of tea that lavishes care on a single cup."
-    },
     {
      "h": "Tea tray and fairness pitcher",
      "p": "The tea tray (chapan) is the board everything sits on, built with drainage so water poured over the teaware runs down into a reservoir below. That lets you warm and rinse vessels right where you sit. The fairness pitcher (gongdaobei) is a small pitcher that receives the brewed tea first, evening out its strength before it is divided among cups, so the first cup poured tastes the same as the last."
@@ -3013,17 +2957,9 @@ window.TEAFaiCulture = [
     {
      "h": "Tools for handling the leaves",
      "p": "A tea holder (chahe) is a small scoop-shaped dish for presenting the dry leaves to guests and guiding them into the pot, while a tea spoon (chaze) measures and moves the leaves. A tea needle clears leaves stuck in a spout, and tongs are used for handling leaves and hot cups. Each tool is small, but together they keep the table tidy and unhurried."
-    },
-    {
-     "h": "A simple home setup",
-     "p": "There is no need to buy everything at once. A tray, a gaiwan or small pot, a small creamer-style pitcher standing in for the fairness pitcher, and two cups are enough to enjoy the basic flow of gongfu tea. Add tools one at a time, as you feel the need for them."
     }
    ],
    "zh-CN": [
-    {
-     "h": "什么是工夫茶",
-     "p": "工夫茶是中国福建、广东一带发展起来的泡茶方式，特点是用小茶具、多投茶、短时间多次冲泡，细细品味香气的变化。“工夫”二字有花时间、下功夫的意思，正如其名，是一种为一杯茶用心投入的文化。"
-    },
     {
      "h": "茶盘与公道杯",
      "p": "茶盘是摆放茶具的盘子，带有排水结构，淋在茶具上的水会流到下方或汇集起来，因此温具、洗茶的水可以当场处理。公道杯是小壶形状的容器，先把泡好的茶汤汇集于此，让浓度均匀，再分到各杯中，这样先倒和后倒的茶味道就不会有差别。"
@@ -3035,17 +2971,9 @@ window.TEAFaiCulture = [
     {
      "h": "处理茶叶的器具",
      "p": "茶荷是小碟形状的器具，用来盛取茶叶展示给客人，或把茶叶送入茶具；茶则是像勺子一样舀取茶叶的工具。茶针用来疏通被茶叶堵住的壶嘴，茶夹则用来夹取茶叶和杯子。这些小工具各司其职，让茶席保持整洁从容。"
-    },
-    {
-     "h": "在家简易置备",
-     "p": "不必一次把所有器具买齐。只要有一只茶盘、一只盖碗或小壶、一个像小奶盅的容器代替公道杯，再加两只杯子，就能享受工夫茶的基本流程。器具可以在有需要时一件件慢慢添置。"
     }
    ],
    "zh-TW": [
-    {
-     "h": "什麼是工夫茶",
-     "p": "工夫茶是中國福建、廣東一帶發展起來的泡茶方式，特點是用小茶具、多投茶、短時間多次沖泡，細細品味香氣的變化。「工夫」二字有花時間、下功夫的意思，正如其名，是一種為一杯茶用心投入的文化。"
-    },
     {
      "h": "茶盤與公道杯",
      "p": "茶盤是擺放茶具的盤子，帶有排水結構，淋在茶具上的水會流到下方或匯集起來，因此溫具、洗茶的水可以當場處理。公道杯是小壺形狀的容器，先把泡好的茶湯匯集於此，讓濃度均勻，再分到各杯中，這樣先倒和後倒的茶味道就不會有差別。"
@@ -3057,17 +2985,9 @@ window.TEAFaiCulture = [
     {
      "h": "處理茶葉的器具",
      "p": "茶荷是小碟形狀的器具，用來盛取茶葉展示給客人，或把茶葉送入茶具；茶則是像勺子一樣舀取茶葉的工具。茶針用來疏通被茶葉堵住的壺嘴，茶夾則用來夾取茶葉和杯子。這些小工具各司其職，讓茶席保持整潔從容。"
-    },
-    {
-     "h": "在家簡易置備",
-     "p": "不必一次把所有器具買齊。只要有一隻茶盤、一隻蓋碗或小壺、一個像小奶盅的容器代替公道杯，再加兩隻杯子，就能享受工夫茶的基本流程。器具可以在有需要時一件件慢慢添置。"
     }
    ],
    "ja": [
-    {
-     "h": "工夫茶とは",
-     "p": "工夫茶は中国の福建省や広東省一帯で発達した淹れ方で、小さな茶器に茶葉をたっぷり入れ、短い抽出を何度も繰り返して香りの変化を楽しむのが特徴です。「工夫」には時間と手間をかけるという意味があり、その名の通り、一杯のお茶に心を込める文化です。"
-    },
     {
      "h": "茶盤と公道杯",
      "p": "茶盤は茶器を載せるお盆で、茶器にかけたお湯が下へ流れたり溜まったりする排水構造になっています。そのため茶器を温めたりすすいだりしたお湯をその場で処理できます。公道杯は小さなピッチャー型の容器で、淹れた茶湯を一度ここに集めて濃さを均一にしてから杯に分け注ぐため、最初の一杯と最後の一杯で味が変わりません。"
@@ -3079,17 +2999,9 @@ window.TEAFaiCulture = [
     {
      "h": "茶葉を扱う道具たち",
      "p": "茶荷は茶葉を取り分けて客人に見せたり、茶器へ入れたりするための小さな皿状の道具で、茶則は茶葉をすくって移すスプーンのような道具です。茶針は注ぎ口に詰まった茶葉を突いて通す針で、茶葉や杯をつかむ茶夾（ピンセット）もよく一緒に使われます。"
-    },
-    {
-     "h": "自宅で手軽にそろえるには",
-     "p": "すべての道具を一度にそろえる必要はありません。お盆ひとつに蓋碗か小さな壺、小さなピッチャーを公道杯の代わりにし、杯を2つ用意すれば、工夫茶の基本的な流れは十分楽しめます。道具は必要を感じたときにひとつずつ増やしていくのがおすすめです。"
     }
    ],
    "yue": [
-    {
-     "h": "咩係工夫茶",
-     "p": "工夫茶係中國福建、廣東一帶發展出嚟嘅沖茶方式，特點係用細茶具、落多啲茶葉、短時間沖好多次，慢慢品味香氣嘅變化。「工夫」兩個字有花時間、落心機嘅意思，正如其名，係一種為一杯茶用心投入嘅文化。"
-    },
     {
      "h": "茶盤同公道杯",
      "p": "茶盤係擺放茶具嘅盤，帶有排水結構，淋喺茶具上面嘅水會流落下面或者匯集起嚟，所以溫具、洗茶嘅水可以即場處理。公道杯係細壺形狀嘅容器，先將沖好嘅茶湯匯集喺度，等濃度均勻，再分去各隻杯，咁先倒同後倒嘅茶味道就唔會有分別。"
@@ -3101,17 +3013,9 @@ window.TEAFaiCulture = [
     {
      "h": "處理茶葉嘅器具",
      "p": "茶荷係細碟形狀嘅器具，用嚟盛茶葉展示畀客人睇，或者將茶葉送入茶具；茶則就係好似匙羹咁舀茶葉嘅工具。茶針用嚟疏通俾茶葉塞住嘅壺嘴，茶夾就用嚟夾茶葉同杯。呢啲細工具各司其職，令茶席保持整潔從容。"
-    },
-    {
-     "h": "喺屋企簡單置備",
-     "p": "唔使一次過買齊所有器具。只要有一隻茶盤、一隻蓋碗或者細壺、一個好似細奶盅嘅容器代替公道杯，再加兩隻杯，就可以享受工夫茶嘅基本流程。器具可以喺有需要嗰陣一件件慢慢添置。"
     }
    ],
    "hi": [
-    {
-     "h": "गोंगफ़ू चाय क्या है",
-     "p": "गोंगफ़ू चाय एक चाय बनाने की शैली है जो चीन के फ़ूजियान और ग्वांगदोंग में विकसित हुई। इसमें छोटे बर्तन, उदार मात्रा में पत्तियाँ और कई छोटे-छोटे काढ़े उपयोग होते हैं, ताकि आप हर काढ़े के साथ बदलती सुगंध का अनुसरण कर सकें। 'गोंगफ़ू' का अर्थ है समय और प्रयास से अर्जित कौशल — यह उस चाय शैली के लिए उपयुक्त नाम है जो एक ही कप पर इतनी देखभाल करती है।"
-    },
     {
      "h": "चाय ट्रे और समता घड़ा",
      "p": "चाय ट्रे (चापान) वह तख्ता है जिस पर सब कुछ रखा जाता है, जो निकासी के साथ बनाया जाता है ताकि बर्तनों पर डाला गया पानी नीचे के जलाशय में बह जाए। इससे आप बैठे-बैठे ही बर्तनों को गरम और धो सकते हैं। समता घड़ा (गोंगदाओबेई) एक छोटा घड़ा है जो बनी हुई चाय को पहले अपने अंदर लेता है और कपों में बाँटने से पहले उसकी ताक़त को बराबर कर देता है, ताकि पहले उँड़ेला गया कप आखिरी कप जैसा ही स्वाद दे।"
@@ -3123,17 +3027,9 @@ window.TEAFaiCulture = [
     {
      "h": "पत्तियाँ संभालने के उपकरण",
      "p": "चाय धारक (चाहे) एक छोटी करछी-आकार की तश्तरी है जो सूखी पत्तियों को मेहमानों के सामने पेश करने और उन्हें बर्तन में डालने के लिए होती है, जबकि चाय चम्मच (चाज़े) पत्तियों को मापता और हटाता है। चाय सुई टोंटी में फँसी पत्तियों को साफ़ करती है, और चिमटे पत्तियों और गरम कपों को संभालने के लिए उपयोग होते हैं। हर उपकरण छोटा है, लेकिन साथ मिलकर वे मेज़ को साफ़-सुथरा और बिना जल्दबाज़ी वाला रखते हैं।"
-    },
-    {
-     "h": "घर के लिए एक सरल व्यवस्था",
-     "p": "सब कुछ एक साथ खरीदने की ज़रूरत नहीं है। एक ट्रे, एक गाइवान या छोटी चायदानी, समता घड़े के स्थान पर एक छोटा क्रीमर-शैली का घड़ा, और दो कप गोंगफ़ू चाय की बुनियादी प्रक्रिया का आनंद लेने के लिए पर्याप्त हैं। उपकरण एक-एक करके जोड़ें, जैसे-जैसे आपको उनकी ज़रूरत महसूस हो।"
     }
    ],
    "th": [
-    {
-     "h": "ชากังฟูคืออะไร",
-     "p": "ชากังฟูเป็นวิธีการชงที่พัฒนาขึ้นในมณฑลฝูเจี้ยนและกวางตุ้งของจีน ใช้ภาชนะขนาดเล็ก ใบชาปริมาณมาก และการแช่สั้น ๆ หลายครั้ง เพื่อให้ติดตามได้ว่ากลิ่นหอมเปลี่ยนไปอย่างไรในแต่ละน้ำ คำว่า 'กังฟู' หมายถึงทักษะที่สั่งสมผ่านเวลาและความพากเพียร ช่างเหมาะกับวิถีชาที่ใส่ใจในชาเพียงถ้วยเดียวอย่างเต็มที่"
-    },
     {
      "h": "ถาดชาและเหยือกแบ่งชา",
      "p": "ถาดชา (ฉาผาน) คือแผ่นรองที่วางอุปกรณ์ทุกอย่างไว้ด้านบน สร้างมาให้มีทางระบายน้ำ น้ำที่ราดลงบนอุปกรณ์ชาจะไหลลงสู่อ่างเก็บด้านล่าง ทำให้อุ่นและล้างภาชนะได้ตรงที่นั่งเลย ส่วนเหยือกแบ่งชา (กงเต้าเป้ย) คือเหยือกใบเล็กที่รับน้ำชาที่ชงเสร็จไว้ก่อน เพื่อเกลี่ยความเข้มของชาให้เท่ากันก่อนแบ่งลงถ้วย ถ้วยแรกที่รินจึงมีรสชาติเหมือนกับถ้วยสุดท้าย"
@@ -3145,17 +3041,9 @@ window.TEAFaiCulture = [
     {
      "h": "อุปกรณ์สำหรับจัดการใบชา",
      "p": "ที่นำเสนอใบชา (ฉาเหอ) คือจานเล็ก ๆ ทรงคล้ายทัพพี ใช้สำหรับนำเสนอใบชาแห้งให้แขกชมและนำใบชาลงกา ส่วนช้อนชา (ฉาเจ๋อ) ใช้ตวงและเคลื่อนย้ายใบชา เข็มแคะชาใช้เคลียร์ใบชาที่ติดอยู่ในพวยกา และที่คีบใช้สำหรับจับใบชาและถ้วยที่ร้อน อุปกรณ์แต่ละชิ้นมีขนาดเล็ก แต่เมื่อรวมกันก็ช่วยให้โต๊ะชาเรียบร้อยและไม่เร่งรีบ"
-    },
-    {
-     "h": "ชุดง่าย ๆ สำหรับใช้ที่บ้าน",
-     "p": "ไม่จำเป็นต้องซื้อทุกอย่างในคราวเดียว ถาดชา ไก้หว่านหรือกาใบเล็ก เหยือกเล็ก ๆ ทรงครีมเมอร์ใช้แทนเหยือกแบ่งชา และถ้วยสองใบ ก็เพียงพอสำหรับเพลิดเพลินกับขั้นตอนพื้นฐานของชากังฟูแล้ว ค่อย ๆ เพิ่มอุปกรณ์ทีละชิ้นเมื่อรู้สึกว่าต้องการ"
     }
    ],
    "vi": [
-    {
-     "h": "Trà công phu là gì",
-     "p": "Trà công phu là một phong cách pha trà phát triển ở Phúc Kiến và Quảng Đông, Trung Quốc. Nó dùng dụng cụ nhỏ, lượng lá nhiều, và nhiều lần ngâm ngắn để bạn có thể theo dõi hương thơm thay đổi từ lần ngâm này sang lần ngâm khác. 'Công phu' nghĩa là kỹ năng được rèn qua thời gian và công sức — rất xứng với một cách uống trà dành nhiều chăm chút cho một chén trà."
-    },
     {
      "h": "Khay trà và chén tống",
      "p": "Khay trà (chapan) là mặt bàn đặt mọi thứ lên, được thiết kế có thoát nước để nước rót qua trà cụ chảy xuống khoang chứa bên dưới. Nhờ đó bạn có thể làm ấm và tráng dụng cụ ngay tại chỗ ngồi. Chén tống (gongdaobei) là một bình nhỏ hứng trà đã pha trước, làm đều độ đậm của trà trước khi chia ra các chén, để chén rót đầu tiên có vị giống hệt chén cuối cùng."
@@ -3167,17 +3055,9 @@ window.TEAFaiCulture = [
     {
      "h": "Dụng cụ xử lý lá trà",
      "p": "Trà hà (chahe) là một đĩa nhỏ hình muỗng để trình lá trà khô cho khách xem và dẫn lá vào ấm, còn thìa trà (chaze) dùng để đong và di chuyển lá. Kim trà thông những lá kẹt trong vòi ấm, và gắp được dùng để gắp lá và cầm chén nóng. Mỗi dụng cụ đều nhỏ, nhưng cùng nhau chúng giữ cho bàn trà gọn gàng và thong thả."
-    },
-    {
-     "h": "Bày bộ đơn giản tại nhà",
-     "p": "Không cần mua mọi thứ cùng một lúc. Một khay, một gaiwan hoặc ấm nhỏ, một bình rót nhỏ kiểu bình sữa thay cho chén tống, và hai chiếc chén là đủ để tận hưởng quy trình cơ bản của trà công phu. Hãy thêm dụng cụ dần dần, khi bạn cảm thấy cần đến chúng."
     }
    ],
    "ar": [
-    {
-     "h": "ما هو شاي غونغ فو",
-     "p": "شاي غونغ فو أسلوب تحضير تطوّر في فوجيان وغوانغدونغ بالصين. يستخدم أواني صغيرة وكمية سخية من الأوراق ونقعات قصيرة كثيرة حتى تتمكن من متابعة كيفية تغير الرائحة من نقعة إلى أخرى. وتعني «غونغ فو» المهارة المكتسبة عبر الوقت والجهد — اسم مناسب لطريقة شاي تبذل العناية على كوب واحد."
-    },
     {
      "h": "صينية الشاي وإبريق العدالة",
      "p": "صينية الشاي (تشابان) هي اللوح الذي يجلس عليه كل شيء، مبنية بتصريف حتى يجري الماء المسكوب فوق الأدوات إلى خزان أسفلها. وهذا يتيح لك تسخين الأواني وشطفها حيث تجلس. وإبريق العدالة (غونغداوبي) إبريق صغير يستقبل الشاي المحضّر أولًا، فيعادل قوته قبل تقسيمه على الأكواب، حتى يكون مذاق أول كوب يُسكب مثل آخر كوب."
@@ -3189,17 +3069,9 @@ window.TEAFaiCulture = [
     {
      "h": "أدوات للتعامل مع الأوراق",
      "p": "حامل الشاي (تشاخه) طبق صغير على شكل مغرفة لتقديم الأوراق الجافة للضيوف وإرشادها إلى الإبريق، بينما تقيس ملعقة الشاي (تشاتسه) الأوراق وتنقلها. وتنظف إبرة الشاي الأوراق العالقة في فوهة، وتُستخدم الملاقط للتعامل مع الأوراق والأكواب الساخنة. كل أداة صغيرة، لكنها معًا تبقي الطاولة مرتبة وغير مستعجلة."
-    },
-    {
-     "h": "إعداد منزلي بسيط",
-     "p": "لا حاجة لشراء كل شيء دفعة واحدة. صينية وغايوان أو إبريق صغير وإبريق صغير على طراز القشدة يقوم مقام إبريق العدالة وكوبان تكفي للاستمتاع بالتدفق الأساسي لشاي غونغ فو. أضف الأدوات واحدة تلو الأخرى، كلما شعرت بالحاجة إليها."
     }
    ],
    "ind": [
-    {
-     "h": "Apa itu teh gongfu",
-     "p": "Teh gongfu adalah gaya penyeduhan yang berkembang di Fujian dan Guangdong, Tiongkok. Ia menggunakan wadah kecil, daun dalam jumlah banyak, dan banyak seduhan singkat sehingga Anda dapat mengikuti bagaimana aroma berubah dari seduhan ke seduhan. 'Gongfu' berarti keterampilan yang diperoleh melalui waktu dan usaha — cocok untuk cara minum teh yang mencurahkan kepedulian pada satu cangkir."
-    },
     {
      "h": "Nampan teh dan teko keadilan",
      "p": "Nampan teh (chapan) adalah papan tempat segala sesuatu diletakkan, dibuat dengan drainase sehingga air yang dituangkan ke peralatan teh mengalir turun ke penampungan di bawahnya. Itu memungkinkan Anda menghangatkan dan membilas wadah tepat di tempat Anda duduk. Teko keadilan (gongdaobei) adalah teko kecil yang menerima teh seduhan terlebih dahulu, meratakan kekuatannya sebelum dibagi ke cangkir-cangkir, sehingga cangkir pertama yang dituang terasa sama dengan yang terakhir."
@@ -3211,10 +3083,6 @@ window.TEAFaiCulture = [
     {
      "h": "Alat untuk menangani daun",
      "p": "Tempat teh (chahe) adalah wadah kecil berbentuk sendok untuk menyajikan daun kering kepada tamu dan mengarahkannya ke dalam teko, sementara sendok teh (chaze) menakar dan memindahkan daun. Jarum teh membersihkan daun yang tersangkut di cerat, dan penjepit digunakan untuk menangani daun dan cangkir panas. Setiap alat kecil, tetapi bersama-sama mereka menjaga meja tetap rapi dan tidak tergesa-gesa."
-    },
-    {
-     "h": "Susunan sederhana di rumah",
-     "p": "Tidak perlu membeli semuanya sekaligus. Sebuah nampan, gaiwan atau teko kecil, teko kecil bergaya krimer sebagai pengganti teko keadilan, dan dua cangkir sudah cukup untuk menikmati alur dasar teh gongfu. Tambahkan alat satu per satu, saat Anda merasa membutuhkannya."
     }
    ]
   },
