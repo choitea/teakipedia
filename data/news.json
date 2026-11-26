@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "date": "2026-11-24",
+      "id": "iced-tea-market-2032",
+      "source": "Mordor Intelligence",
+      "summary": {
+        "en": "The iced tea market is forecast to grow from $61.47 billion in 2026 to $80.06 billion by 2032, at a 4.52% annual rate. Lower-sugar, health-oriented drinks are driving demand, with Asia-Pacific growing fastest at 7.3%.",
+        "hi": "आइस्ड टी बाज़ार 2026 में 61.47 अरब डॉलर से बढ़कर 2032 तक 80.06 अरब डॉलर तक पहुँचने का अनुमान है, सालाना वृद्धि दर 4.52% है। कम चीनी वाले और स्वास्थ्य-केंद्रित पेय माँग बढ़ा रहे हैं, और एशिया-प्रशांत 7.3% की दर से सबसे तेज़ी से बढ़ रहा है।",
+        "ja": "アイスティー市場は2026年の614億7,000万ドルから2032年には800億6,000万ドルへ成長する見通しで、年平均成長率は4.52%です。低糖・健康志向の需要がけん引し、アジア太平洋地域は7.3%で最も速く伸びています。",
+        "ko": "아이스티 시장이 2026년 614억 7,000만 달러에서 2032년 800억 6,000만 달러로 커질 전망입니다. 연평균 4.52% 성장하며, 저당·건강 지향 제품 수요가 성장을 이끌고 아시아·태평양은 7.3%로 가장 빠르게 성장합니다.",
+        "th": "ตลาดชาเย็นคาดว่าจะเติบโตจาก 61,470 ล้านดอลลาร์ในปี 2026 เป็น 80,060 ล้านดอลลาร์ในปี 2032 อัตราเติบโตเฉลี่ยปีละ 4.52% เครื่องดื่มน้ำตาลต่ำและเน้นสุขภาพกำลังหนุนความต้องการ โดยเอเชียแปซิฟิกเติบโตเร็วที่สุดที่ 7.3%",
+        "vi": "Thị trường trà đá dự kiến tăng từ 61,47 tỉ USD năm 2026 lên 80,06 tỉ USD vào năm 2032, tăng trưởng bình quân 4,52% mỗi năm. Nhu cầu đồ uống ít đường, tốt cho sức khỏe đang thúc đẩy tăng trưởng, khu vực châu Á – Thái Bình Dương tăng nhanh nhất với 7,3%.",
+        "yue": "冰茶市場規模預計會由2026年嘅614.7億美元，增長到2032年嘅800.6億美元，年均增長4.52%。低糖、健康取向產品需求帶動增長，亞太地區以7.3%增長最快。",
+        "zh-CN": "冰茶市场规模预计将从2026年的614.7亿美元增至2032年的800.6亿美元，年均增长4.52%。低糖、健康导向产品需求推动增长，亚太地区以7.3%的增速领跑。",
+        "zh-TW": "冰茶市場規模預計將從2026年的614.7億美元增至2032年的800.6億美元，年均成長4.52%。低糖、健康導向產品需求推動成長，亞太地區以7.3%的增速領先。",
+        "ar": "من المتوقع أن ينمو سوق الشاي المثلج من 61.47 مليار دولار في عام 2026 إلى 80.06 مليار دولار بحلول عام 2032، بمعدل نمو سنوي قدره 4.52%. ويقود الطلبَ المشروباتُ منخفضة السكر والموجهة نحو الصحة، بينما تنمو منطقة آسيا والمحيط الهادئ بأسرع وتيرة عند 7.3%.",
+        "ind": "Pasar es teh diprediksi tumbuh dari $61,47 miliar pada 2026 menjadi $80,06 miliar pada 2032, dengan laju tahunan 4,52%. Minuman rendah gula dan berorientasi kesehatan mendorong permintaan, dengan Asia-Pasifik tumbuh paling cepat sebesar 7,3%."
+      },
+      "title": {
+        "en": "Iced tea market to reach $80.06 billion by 2032",
+        "hi": "आइस्ड टी बाज़ार 2032 तक 80.06 अरब डॉलर तक पहुँचेगा",
+        "ja": "アイスティー市場、2032年に800億ドルへ",
+        "ko": "아이스티 시장, 2032년 806억 달러 전망",
+        "th": "ตลาดชาเย็นคาดแตะ 8.006 หมื่นล้านดอลลาร์ในปี 2032",
+        "vi": "Thị trường trà đá dự kiến đạt 80,06 tỉ USD vào năm 2032",
+        "yue": "冰茶市場預計2032年達800億美元",
+        "zh-CN": "冰茶市场预计2032年达800.6亿美元",
+        "zh-TW": "冰茶市場預計2032年達800.6億美元",
+        "ar": "سوق الشاي المثلج سيصل إلى 80.06 مليار دولار بحلول 2032",
+        "ind": "Pasar es teh diprediksi mencapai $80,06 miliar pada 2032"
+      },
+      "url": "https://www.mordorintelligence.com/industry-reports/iced-tea-market"
+    },
+    {
+      "date": "2026-11-22",
+      "id": "darjeeling-revival-2026",
+      "source": "Press Information Bureau",
+      "summary": {
+        "en": "India's commerce minister met tea industry stakeholders in Kurseong on November 22 to discuss reviving Darjeeling tea, reforming auctions, promoting exports and supporting tea workers under the PMCSPY welfare scheme. India exported 282.11 million kg of tea worth $988.13 million in FY 2025–26, remaining the world's largest black-tea producer and third-largest exporter.",
+        "hi": "भारत के वाणिज्य मंत्री ने 22 नवंबर को कुर्सियांग में चाय उद्योग से मिलकर दार्जिलिंग चाय के पुनरुद्धार, नीलामी सुधार, निर्यात प्रोत्साहन और चाय श्रमिक कल्याण योजना (PMCSPY) पर चर्चा की। वित्त वर्ष 2025–26 में भारत ने 282.11 मिलियन किग्रा चाय का निर्यात किया, जिसका मूल्य 988.13 मिलियन डॉलर रहा; भारत दुनिया का सबसे बड़ा काली चाय उत्पादक और तीसरा सबसे बड़ा निर्यातक बना हुआ है।",
+        "ja": "インド商工大臣は11月22日、クルソンで茶業界と会い、ダージリン茶の振興、オークション改革、輸出促進、茶労働者福祉策（PMCSPY）を協議しました。2025-26年度のインド茶輸出は2億8,211万kg、9億8,813万ドルで、世界最大の紅茶生産国・第3位の輸出国の地位を維持しています。",
+        "ko": "인도 상공부 장관이 11월 22일 쿠르셩에서 차 업계와 만나 다즐링 부흥책을 논의했습니다. 경매제 개편, 수출 촉진, 차 노동자 복지책(PMCSPY)이 핵심입니다. 인도 차 수출은 2025-26 회계연도에 2억 8,211만kg, 9억 8,813만 달러로 세계 최대 홍차 생산국·3위 수출국 지위를 유지했습니다.",
+        "th": "รัฐมนตรีพาณิชย์อินเดียพบผู้ประกอบการชาที่เมืองกุรเซองเมื่อ 22 พฤศจิกายน เพื่อหารือแผนฟื้นฟูชาดาร์จีลิง ปฏิรูปการประมูล ส่งเสริมการส่งออก และสวัสดิการแรงงานไร่ชา (PMCSPY) ในปีงบประมาณ 2025–26 อินเดียส่งออกชา 282.11 ล้านกิโลกรัม มูลค่า 988.13 ล้านดอลลาร์ ยังคงเป็นผู้ผลิตชาดำรายใหญ่ที่สุดของโลกและผู้ส่งออกอันดับสาม",
+        "vi": "Bộ trưởng Thương mại Ấn Độ gặp gỡ ngành trà tại Kurseong ngày 22 tháng 11 để bàn về hồi sinh trà Darjeeling, cải cách đấu giá, thúc đẩy xuất khẩu và phúc lợi cho công nhân trà (PMCSPY). Năm tài chính 2025–26, Ấn Độ xuất khẩu 282,11 triệu kg trà trị giá 988,13 triệu USD, tiếp tục là nước sản xuất hồng trà lớn nhất và xuất khẩu trà lớn thứ ba thế giới.",
+        "yue": "印度商務部長11月22號喺庫爾松同茶葉界會面，商討大吉嶺茶振興、拍賣制度改革、出口促進同茶工福利計劃（PMCSPY）。2025-26財年印度茶葉出口2.8211億公斤、價值9.8813億美元，繼續係全球最大紅茶生產國同第三大茶葉出口國。",
+        "zh-CN": "印度商务部长11月22日在库尔松与茶叶界会面，商讨大吉岭茶振兴、拍卖制度改革、出口促进及茶工福利计划（PMCSPY）。2025-26财年印度茶叶出口2.8211亿公斤、价值9.8813亿美元，继续保持世界最大红茶生产国和第三大茶叶出口国地位。",
+        "zh-TW": "印度商務部長11月22日在庫爾松與茶葉界會面，商討大吉嶺茶振興、拍賣制度改革、出口促進及茶工福利計畫（PMCSPY）。2025-26財年印度茶葉出口2.8211億公斤、價值9.8813億美元，繼續保持世界最大紅茶生產國和第三大茶葉出口國地位。",
+        "ar": "التقى وزير التجارة الهندي أصحاب المصلحة في صناعة الشاي في كورسيونغ في 22 نوفمبر لمناقشة إحياء شاي دارجيلنغ وإصلاح المزادات وتعزيز الصادرات ودعم عمال الشاي بموجب خطة الرعاية PMCSPY. وصدّرت الهند 282.11 مليون كيلوغرام من الشاي بقيمة 988.13 مليون دولار في السنة المالية 2025–26، وظلت أكبر منتج للشاي الأسود في العالم وثالث أكبر مصدّر له.",
+        "ind": "Menteri Perdagangan India bertemu para pemangku kepentingan industri teh di Kurseong pada 22 November untuk membahas kebangkitan teh Darjeeling, reformasi lelang, promosi ekspor, dan dukungan bagi pekerja teh melalui skema kesejahteraan PMCSPY. India mengekspor 282,11 juta kg teh senilai $988,13 juta pada tahun fiskal 2025–26, tetap menjadi produsen teh hitam terbesar di dunia dan eksportir terbesar ketiga."
+      },
+      "title": {
+        "en": "Darjeeling revival plan as India tea exports hit $988 million",
+        "hi": "दार्जिलिंग पुनरुद्धार योजना; भारत का चाय निर्यात 988 मिलियन डॉलर",
+        "ja": "ダージリン振興策、インド茶輸出は9億8,800万ドル",
+        "ko": "다즐링 부흥책 나왔다… 인도 차 수출 9억 8,800만 달러",
+        "th": "อินเดียออกแผนฟื้นฟูดาร์จีลิง ส่งออกชา 988 ล้านดอลลาร์",
+        "vi": "Ấn Độ ra kế hoạch hồi sinh trà Darjeeling, xuất khẩu đạt 988 triệu USD",
+        "yue": "大吉嶺振興計劃出台，印度茶葉出口達9.88億美元",
+        "zh-CN": "大吉岭振兴计划出台，印度茶叶出口达9.88亿美元",
+        "zh-TW": "大吉嶺振興計畫出台，印度茶葉出口達9.88億美元",
+        "ar": "خطة لإحياء شاي دارجيلنغ مع بلوغ صادرات الشاي الهندي 988 مليون دولار",
+        "ind": "Rencana kebangkitan Darjeeling saat ekspor teh India mencapai $988 juta"
+      },
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340116&reg=48&lang=1"
+    },
+    {
       "date": "2026-11-18",
       "id": "sylhet-tea-launch",
       "source": "Prothom Alo",
@@ -65,6 +129,38 @@
       "url": "https://www.indiatea.org/uploads/scenerio_image/cts_ITA.pdf"
     },
     {
+      "date": "2026-11-12",
+      "id": "matcha-congress-2026",
+      "source": "Japanomars",
+      "summary": {
+        "en": "The first International Matcha Congress (IMC2026), held in Tokyo on November 12, concluded that matcha has moved past a boom to become a staple after coffee and black tea. The bottleneck is supply, not demand, and there is still no shared definition or grading standard for matcha. Blank Street said it serves about one million matcha drinks a month across roughly 110 stores in the US and UK, and Korea's Super Matcha joined the cafe panel.",
+        "hi": "12 नवंबर को टोक्यो में हुए पहले अंतरराष्ट्रीय माचा सम्मेलन (IMC2026) का निष्कर्ष था कि माचा अब उछाल से आगे बढ़कर कॉफ़ी और काली चाय के बाद एक स्थायी पेय बन गई है। रुकावट माँग नहीं, आपूर्ति है, और माचा की कोई साझा परिभाषा या ग्रेडिंग मानक अभी नहीं है। Blank Street ने कहा कि वह अमेरिका और ब्रिटेन के लगभग 110 स्टोरों में महीने में लगभग दस लाख माचा पेय परोसता है, और कोरिया का Super Matcha भी कैफ़े पैनल में शामिल हुआ।",
+        "ja": "11月12日に東京で開かれた初の国際抹茶会議（IMC2026）は、抹茶がブームを過ぎ、コーヒー・紅茶に次ぐ定番になったとの結論を出しました。ボトルネックは需要ではなく供給で、抹茶の共通の定義や等級基準はまだありません。Blank Streetは米英約110店舗で月に約100万杯の抹茶ドリンクを提供するとし、韓国のSuper Matchaもカフェパネルに参加しました。",
+        "ko": "11월 12일 도쿄에서 열린 첫 국제 말차 회의(IMC2026)는 '말차는 붐을 지나 커피·홍차 다음 주식이 됐다'는 결론을 냈습니다. 병목은 수요가 아니라 공급이고, 말차의 공통 정의·등급 기준은 아직 없습니다. Blank Street는 미·영 약 110개 매장에서 한 달에 말차 음료 약 100만 잔을 판다고 밝혔고, 한국 Super Matcha도 카페 패널에 참여했습니다.",
+        "th": "การประชุมมัทฉะนานาชาติครั้งแรก (IMC2026) ที่โตเกียวเมื่อ 12 พฤศจิกายน สรุปว่ามัทฉะผ่านช่วงกระแสฮิตไปแล้ว กลายเป็นเครื่องดื่มหลักรองจากกาแฟและชาดำ คอขวดอยู่ที่อุปทาน ไม่ใช่ความต้องการ และยังไม่มีนิยามหรือมาตรฐานการจัดเกรดร่วมกัน Blank Street เผยว่าเสิร์ฟเครื่องดื่มมัทฉะราว 1 ล้านแก้วต่อเดือนในราว 110 สาขาในสหรัฐฯ และอังกฤษ ส่วน Super Matcha ของเกาหลีก็ร่วมเสวนากาแฟด้วย",
+        "vi": "Hội nghị Matcha quốc tế đầu tiên (IMC2026) diễn ra tại Tokyo ngày 12 tháng 11 đã kết luận matcha đã qua cơn sốt để trở thành thức uống quen thuộc sau cà phê và hồng trà. Nút thắt là nguồn cung chứ không phải nhu cầu, và matcha vẫn chưa có định nghĩa hay tiêu chuẩn phân hạng chung. Blank Street cho biết hãng phục vụ khoảng 1 triệu ly đồ uống matcha mỗi tháng tại khoảng 110 cửa hàng ở Mỹ và Anh, và Super Matcha của Hàn Quốc cũng tham gia tọa đàm quán cà phê.",
+        "yue": "11月12號喺東京舉行嘅首屆國際抹茶大會（IMC2026）得出結論：抹茶已經過咗熱潮，成為咖啡、紅茶之後嘅主食飲品。樽頸唔係需求而係供應，抹茶而家仲未有統一嘅定義同分級標準。Blank Street話佢喺美英約110間分店，每個月賣出約100萬杯抹茶飲品，韓國Super Matcha都有參加咖啡館座談。",
+        "zh-CN": "11月12日在东京举行的首届国际抹茶大会（IMC2026）得出结论：抹茶已走过热潮，成为继咖啡、红茶之后的主食饮品。瓶颈不是需求而是供应，抹茶目前还没有统一的定义和分级标准。Blank Street表示其在美英约110家门店每月售出约100万杯抹茶饮品，韩国Super Matcha也参加了咖啡馆圆桌讨论。",
+        "zh-TW": "11月12日在東京舉行的首屆國際抹茶大會（IMC2026）得出結論：抹茶已走過熱潮，成為繼咖啡、紅茶之後的主食飲品。瓶頸不是需求而是供應，抹茶目前還沒有統一的定義和分級標準。Blank Street表示其在美英約110家門店每月售出約100萬杯抹茶飲品，韓國Super Matcha也參加了咖啡館圓桌討論。",
+        "ar": "خلص المؤتمر الدولي الأول للماتشا (IMC2026)، الذي عُقد في طوكيو في 12 نوفمبر، إلى أن الماتشا تجاوزت مرحلة الرواج لتصبح مشروبًا أساسيًا بعد القهوة والشاي الأسود. والعقبة هي العرض لا الطلب، ولا يوجد بعد تعريف مشترك أو معيار تصنيف للماتشا. وقالت شركة Blank Street إنها تقدم نحو مليون مشروب ماتشا شهريًا في نحو 110 متاجر في الولايات المتحدة وبريطانيا، وشاركت شركة Super Matcha الكورية في جلسة المقاهي.",
+        "ind": "Kongres Matcha Internasional pertama (IMC2026) yang diadakan di Tokyo pada 12 November menyimpulkan bahwa matcha telah melewati masa booming dan menjadi minuman pokok setelah kopi dan teh hitam. Hambatannya adalah pasokan, bukan permintaan, dan belum ada definisi atau standar penilaian bersama untuk matcha. Blank Street menyebut menyajikan sekitar satu juta minuman matcha per bulan di sekitar 110 gerai di AS dan Inggris, dan Super Matcha dari Korea ikut dalam panel kafe."
+      },
+      "title": {
+        "en": "Matcha is now a staple, not a fad — first International Matcha Congress",
+        "hi": "माचा अब चलन नहीं, रोज़मर्रा की चीज़ — पहला अंतरराष्ट्रीय माचा सम्मेलन",
+        "ja": "抹茶はブームから定番へ——第1回国際抹茶会議",
+        "ko": "말차, 유행 지나 주식으로 — 제1회 국제 말차 회의",
+        "th": "มัทฉะไม่ใช่กระแสอีกต่อไป แต่เป็นเครื่องดื่มหลัก — การประชุมมัทฉะนานาชาติครั้งแรก",
+        "vi": "Matcha không còn là trào lưu mà đã thành thức uống quen thuộc — Hội nghị Matcha quốc tế đầu tiên",
+        "yue": "抹茶唔再係潮流，而係主食——首屆國際抹茶大會",
+        "zh-CN": "抹茶不再是风潮，而是主食——首届国际抹茶大会",
+        "zh-TW": "抹茶不再是風潮，而是主食——首屆國際抹茶大會",
+        "ar": "الماتشا أصبحت مشروبًا أساسيًا لا موضة عابرة — أول مؤتمر دولي للماتشا",
+        "ind": "Matcha kini jadi minuman pokok, bukan tren — Kongres Matcha Internasional pertama"
+      },
+      "url": "https://www.japanomars.com/insights/international-matcha-congress-2026"
+    },
+    {
       "date": "2026-11-01",
       "id": "muku-kyoto-launch",
       "source": "Kyoto Chanokura",
@@ -97,7 +193,7 @@
       "url": "https://www.kyoto-chanokura.co.jp/en/news/muku-kyoto-launch"
     }
   ],
-  "note": "티키피디아 차 뉴스 — 아침 브리핑에서 출처·날짜를 확인한 소식만 올립니다. 제목·요약은 9개 언어, 원문은 출처 링크로 연결합니다.",
+  "note": "티키피디아 차 뉴스 — 아침 브리핑에서 출처·날짜를 확인한 소식만 올립니다. 제목·요약은 11개 언어, 원문은 출처 링크로 연결합니다.",
   "updated": "2026-11-26",
   "version": 1
 }
