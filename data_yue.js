@@ -783,7 +783,7 @@ window.TEAFaiDataYue = (function () {
  "black-keemun": {
   "t": {
    "name": "祁門紅茶",
-   "oneLine": "玫瑰、蘭花同黑朱古力——中國紅茶嘅標準。",
+   "oneLine": "玫瑰、蘭花同黑朱古力——中國紅茶嘅標準，世界三大紅茶之一。",
    "oxidation": "90%",
    "ratioNote": "150毫升配3克",
    "rounds": "1~2泡",
