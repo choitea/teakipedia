@@ -832,7 +832,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "용정",
-        oneLine: "볶은 콩 같은 고소함과 납작하게 누른 잎 — 덖음 녹차의 기준.",
+        oneLine: "건륭제가 아낀 중국 명차의 으뜸 — 솥에 덖은 납작한 잎에서 볶은 콩·밤의 고소함과 맑은 단맛이 피어납니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g, 유리잔이면 물을 먼저",
         rounds: "3~4회",
@@ -845,7 +845,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "West Lake Longjing",
-        oneLine: "Roasted-soy sweetness in a flat-pressed leaf — the yardstick for pan-fired green tea.",
+        oneLine: "China's most celebrated green tea, once an emperor's favourite — flat leaves fired in a wok, blooming with roasted bean and chestnut over a clear sweetness.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml; in a glass, water first",
         rounds: "3–4 infusions",
@@ -858,7 +858,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "西湖龙井",
-        oneLine: "炒豆般的香气与压扁的叶片——炒青绿茶的标准。",
+        oneLine: "乾隆钟爱的中国名茶之首——锅炒压扁的叶片,炒豆与栗香交织,清甜爽口。",
         oxidation: "0%",
         ratioNote: "150毫升配3克，玻璃杯则先注水",
         rounds: "3~4泡",
@@ -871,7 +871,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "西湖龍井",
-        oneLine: "炒豆般的香氣與壓扁的葉片——炒菁綠茶的標準。",
+        oneLine: "乾隆鍾愛的中國名茶之首——鍋炒壓扁的葉片,炒豆與栗香交織,清甜爽口。",
         oxidation: "0%",
         ratioNote: "150毫升配3公克，玻璃杯則先注水",
         rounds: "3~4泡",
