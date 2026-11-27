@@ -212,7 +212,7 @@
     if (!items.length) return "";
     var out =
       '<h2 class="culture-cat">' + esc(t("news.title")) + '</h2><div class="news-list">';
-    items.slice(0, 8).forEach(function (n) {
+    items.slice(0, 10).forEach(function (n) {
       out +=
         '<a class="news-card" href="' +
         esc(n.url || "#") +
@@ -2846,14 +2846,27 @@
   var NEWS_KEY = "teafai.news.v1";
   var NEWS = null;
 
+  /* 뉴스는 최신 10건만 유지합니다 — 새 뉴스가 들어온 만큼 오래된 뉴스부터 버립니다 */
+  function capNews(data) {
+    if (data && data.items) {
+      data.items = data.items
+        .slice()
+        .sort(function (a, b) {
+          return (b.date || "") < (a.date || "") ? -1 : (b.date || "") > (a.date || "") ? 1 : 0;
+        })
+        .slice(0, 10);
+    }
+    return data;
+  }
+
   function loadNewsData() {
     var seed = seedJson() || {};
-    NEWS = cacheOrSeed(NEWS_KEY, seed.news);
+    NEWS = capNews(cacheOrSeed(NEWS_KEY, seed.news));
     if (!("fetch" in window) || location.protocol === "file:") return;
     readJson("data/news.json", NEWS_KEY)
       .then(function (data) {
         if (data && data.items) {
-          NEWS = data;
+          NEWS = capNews(data);
           if (currentView === "culture") renderCulture();
         }
       })
