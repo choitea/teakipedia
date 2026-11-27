@@ -1846,7 +1846,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Hoa hồng, lan và sô cô la đen — thước đo của hồng trà Trung Quốc.",
+    "oneLine": "Hoa hồng, lan và sô cô la đen — thước đo của hồng trà Trung Quốc, một trong ba loại hồng trà vĩ đại nhất thế giới.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "1–2 lần pha",

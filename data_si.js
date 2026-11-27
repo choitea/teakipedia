@@ -1850,7 +1850,7 @@ window.TEAFaiDataSi = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "රෝස, orchid සහ dark chocolate — චීන කළු තේ සඳහා මිනුම් දණ්ඩ.",
+    "oneLine": "රෝස, orchid සහ dark chocolate — චීන කළු තේ සඳහා මිනුම් දණ්ඩ, ලෝකයේ ශ්‍රේෂ්ඨතම කළු තේ තුනෙන් එකක්.",
     "oxidation": "90%",
     "ratioNote": "3 g ට 150 ml",
     "rounds": "වතුර බැසීම් 1–2",
