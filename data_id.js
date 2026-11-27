@@ -24,7 +24,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-biluochun": {
     "name": "Biluochun",
-    "oneLine": "Aroma buah dalam daun yang dipilin seperti siput — teh hijau paling harum.",
+    "oneLine": "Teh pucuk musim semi terkenal dari Dongting, dinamai ulang oleh Kaisar Kangxi — daun yang dipilin seperti siput mekar dengan aroma persik dan aprikot di atas manis yang sejuk.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; suhu rendah adalah kuncinya",
     "rounds": "3–4 seduhan",
@@ -39,7 +39,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-maofeng": {
     "name": "Huangshan Maofeng",
-    "oneLine": "Rasa kacang lembut dari pegunungan berkabut — standar teh hijau Tiongkok lainnya.",
+    "oneLine": "Teh terkenal yang relatif muda dari Huangshan yang berkabut — daun kuning-hijau memberi nuansa sangrai yang lembut, kesegaran anggrek, dan umami yang panjang.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -54,7 +54,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Teh hijau kukus harian Jepang — aroma rumput laut dan umami.",
+    "oneLine": "Teh sehari-hari Jepang, enam per sepuluh konsumsi teh hijaunya — daun kukus memadukan aroma rumput laut dan umami dengan sepat ringan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; tuangan pertama pada 70 °C",
     "rounds": "3 seduhan",
@@ -69,7 +69,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-gyokuro": {
     "name": "Gyokuro",
-    "oneLine": "Dinaungi untuk mendorong umami hingga batasnya — teh hijau terdalam.",
+    "oneLine": "Dinaungi lebih dari 20 hari dan dinamai 'embun giok' — jarum hijau tua menuangkan umami miso dan dashi dengan tekstur lembut seperti krim.",
     "oxidation": "0%",
     "ratioNote": "5 g untuk 40 ml — banyak daun, sangat sedikit air",
     "rounds": "3 seduhan",
@@ -84,7 +84,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-matcha": {
     "name": "Matcha",
-    "oneLine": "Seluruh daun, digiling dan diminum — teh hijau yang Anda konsumsi, bukan sekadar cium.",
+    "oneLine": "Seluruh daun, digiling dengan batu hanya 40 g per jam — busa hijau cerah di atas umami yang dalam dengan ujung pahit di akhir.",
     "oxidation": "0%",
     "ratioNote": "2 g untuk 60 ml untuk usucha; 4 g untuk 60 ml untuk koicha",
     "rounds": "Satu mangkuk",
@@ -99,7 +99,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-jeju": {
     "name": "Ujeon (Jeju)",
-    "oneLine": "Daun pertama Korea, dipetik sebelum Grain Rain — sepat lembut penuh hujan musim semi.",
+    "oneLine": "Daun pertama Jeju sebelum Grain Rain, dari kebun yang dimulai pada 1979 — tanah vulkanik dan angin laut memberi nuansa hijau segar dan panggangan yang melembut perlahan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -114,7 +114,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-silverneedle": {
     "name": "Silver Needle",
-    "oneLine": "Bentuk teh putih paling pucat: pucuk yang masih berbulu keperakan.",
+    "oneLine": "Teh putih dalam wujudnya yang paling murni, hanya pucuk, tak pernah disangrai atau digulung — aroma lily-of-the-valley dan manis panjang tanpa sepat di bawah bulu keperakan.",
     "oxidation": "5%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "4–5 seduhan",
@@ -129,7 +129,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-peony": {
     "name": "White Peony",
-    "oneLine": "Satu pucuk dan dua daun — aroma lebih dari Silver Needle, dengan harga lebih bersahabat.",
+    "oneLine": "Satu pucuk dan dua daun seperti peony yang mekar — bunga putih dan jerami bertemu manis kurma ringan, dengan tubuh lebih berisi daripada Silver Needle.",
     "oxidation": "8%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "4–5 seduhan",
@@ -144,7 +144,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-shoumei": {
     "name": "Shou Mei",
-    "oneLine": "Teh putih yang menonjolkan daun — yang terbaik untuk direbus lama dan perlahan.",
+    "oneLine": "Teh putih yang menonjolkan daun, dinamai dari alis orang tua, lama disimpan dan direbus — jerami, kurma, dan buah matang dalam cairan teh aprikot yang dalam.",
     "oxidation": "10%",
     "ratioNote": "4 g untuk 200 ml; 5 g untuk 500 ml saat merebus",
     "rounds": "4–5 seduhan",
@@ -159,7 +159,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-aged": {
     "name": "Aged White",
-    "oneLine": "Tiga tahun obat, tujuh tahun harta — teh putih yang dibuat oleh waktu.",
+    "oneLine": "Teh putih Fujian yang dituakan — satu tahun teh, tiga tahun obat, tujuh tahun harta — waktu menuliskan kurma, herbal, dan buah kering ke dalam cairan teh ambar yang dalam.",
     "oxidation": "15%",
     "ratioNote": "5 g untuk 200 ml; 5 g untuk 500 ml saat merebus",
     "rounds": "5 seduhan atau lebih",
@@ -174,7 +174,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-gongmei": {
     "name": "Gong Mei",
-    "oneLine": "Teh putih antara Bai Mudan dan Shou Mei, dibuat dari kelompok kultivar cai cha.",
+    "oneLine": "Teh putih cai cha yang berdiri di antara White Peony dan Shou Mei — jerami dan bunga yang tenang membingkai manis seperti kurma yang lebih jernih daripada Shou Mei.",
     "oxidation": "10%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "4–5 seduhan",
@@ -189,7 +189,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-luanguapian": {
     "name": "Lu'an Guapian",
-    "oneLine": "Hanya daun tanpa pucuk, dipres pipih seperti biji melon — satu-satunya teh hijau yang dibuat dari daun saja.",
+    "oneLine": "Satu-satunya teh hijau yang dibuat dari daun saja, pucuk dan tangkai dibuang — daun pipih seperti biji melon memberi kastanye sangrai, tubuh yang tebal, dan rasa manis.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -203,7 +203,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-houkui": {
     "name": "Taiping Houkui",
-    "oneLine": "Daun sebesar telapak tangan dengan pola kisi kain yang terpres di dalamnya — teh hijau terbesar di Tiongkok.",
+    "oneLine": "Teh hijau terbesar di Tiongkok, dipres dalam kain dan jaring hingga berpola kisi — bahkan daun sebesar telapak tangan memberi anggrek dan umami ringan tanpa pahit.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -217,7 +217,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-maojian": {
     "name": "Xinyang Maojian",
-    "oneLine": "Daun sehalus jarum membawa rumput dan kastanye — teh hijau terkenal Henan.",
+    "oneLine": "Teh terkenal Henan, peraih medali emas di pameran Panama–Pasifik 1915 — daun lurus seperti jarum bangkit dengan rumput, kastanye, dan sepat yang hidup.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -231,7 +231,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-lushan": {
     "name": "Lushan Yunwu",
-    "oneLine": "Ditanam di dalam awan, dengan daun lembut yang mudah memar.",
+    "oneLine": "Teh dari Gunung Lu, berkabut lebih dari 190 hari setahun — daun tipis dan lembut yang disangrai perlahan memberi rumput lembut dan umami dengan sedikit sepat.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -245,7 +245,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-hojicha": {
     "name": "Hojicha",
-    "oneLine": "Sencha yang dipanggang di atas arang: kafein lebih sedikit, manis panggangan lebih banyak.",
+    "oneLine": "Lahir di Kyoto tahun 1920-an, sencha yang dipanggang keras — panas mendekati 200 °C menghadirkan biji-bijian panggang, karamel, dan kayu, dengan hampir tanpa pahit.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 130 ml",
     "rounds": "2–3 seduhan",
@@ -259,7 +259,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-genmaicha": {
     "name": "Genmaicha",
-    "oneLine": "Sencha dengan beras merah panggang — setengah teh, setengah nasi.",
+    "oneLine": "Rumah tangga Edo menghemat teh mereka dengan beras cokelat panggang — gurih nasi gosong dan popcorn di atas tepian hijau sencha.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 130 ml (termasuk beras)",
     "rounds": "2–3 seduhan",
@@ -273,7 +273,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-hadong": {
     "name": "Ujeon (Hadong)",
-    "oneLine": "Daun pertama tahun ini dari kaki Jirisan, dipetik sebelum Grain Rain.",
+    "oneLine": "Hadong, distrik teh sejak zaman Silla, dan daunnya yang paling awal sebelum Grain Rain — kebun liar Jirisan memberi daun segar, panggangan, dan umami yang panjang.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -287,7 +287,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-sejak": {
     "name": "Sejak",
-    "oneLine": "Setelah Grain Rain dan sebelum awal musim panas: petikan kedua, lembut seperti lidah burung pipit.",
+    "oneLine": "Petikan kedua setelah Grain Rain, lembut seperti lidah burung pipit — rumput dan panggangan yang lebih kuat daripada ujeon, ditutup dengan sepat ringan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -301,7 +301,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-jungjak": {
     "name": "Jungjak",
-    "oneLine": "Antara awal musim panas dan Grain in Ear: petikan ketiga, saat daun menebal.",
+    "oneLine": "Tingkat ketiga, 'burung pipit tengah', dipetik saat daun menebal setelah awal musim panas — sangrai panas dan singkat memadukan panggangan dengan sepat dalam cairan teh hijau yang dalam.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -315,7 +315,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-daejak": {
     "name": "Daejak",
-    "oneLine": "Daun musim panas yang kasar — cangkir harian Korea.",
+    "oneLine": "Tingkat petikan terakhir, 'burung pipit besar' musim panas setelah Grain in Ear — daun kasar, panggangan, dan sepat jernih yang melembut saat cangkir mendingin.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; enak direbus",
     "rounds": "2–3 seduhan",
@@ -329,7 +329,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-jukro": {
     "name": "Jukro",
-    "oneLine": "Semak liar Hadong yang disangrai seluruhnya dengan tangan — cara tertua membuat teh hijau Korea.",
+    "oneLine": "Daun liar Hadong yang dibalik 300 kali dengan tangan dalam wajan besi — umami yang dalam dan nuansa bunga tetap jernih, dengan sedikit sepat.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -343,7 +343,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-junshan": {
     "name": "Junshan Yinzhen",
-    "oneLine": "Silver needle teh kuning yang paling dikenal, dari sebuah pulau di Danau Dongting.",
+    "oneLine": "Silver needle teh kuning dari sebuah pulau di Dongting, yang dulu lebih berharga daripada emas — pucuk yang dikuningkan dengan kertas berdiri di dalam gelas dengan manis jagung dan mentega.",
     "oxidation": "10%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -357,7 +357,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-mengding": {
     "name": "Mengding Huangya",
-    "oneLine": "Teh terkenal tertua Gunung Mengding di Sichuan — teh kuning yang asli.",
+    "oneLine": "Di antara teh terkenal tertua di Tiongkok, dari gunung yang ditanami pada masa Han Barat — pucuk yang ditumpuk dan dikuningkan memberi jagung, mentega, dan manis yang lembut.",
     "oxidation": "15%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -371,7 +371,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-huoshan": {
     "name": "Huoshan Huangya",
-    "oneLine": "Teh kuning kecil dari Huoshan, ditanam di antara bambu.",
+    "oneLine": "Teh upeti Ming dari rumpun bambu Huoshan — daun yang disangrai ringan dan dikuningkan memberi biji-bijian lembut dan rasa manis dengan sepat samar.",
     "oxidation": "15%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -385,7 +385,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-jasmine": {
     "name": "Jasmine Tea",
-    "oneLine": "Teh hijau dilapisi berulang kali dengan melati yang dipetik di malam hari.",
+    "oneLine": "Teh melati, dimulai pada masa Song dan disempurnakan di Fujian pada masa Qing — bunga malam musim panas dilapiskan berulang kali di atas umami lembut teh hijau.",
     "oxidation": "90% (basis teh hijau)",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -399,7 +399,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-zhuyeqing": {
     "name": "Zhu Ye Qing (Emei)",
-    "oneLine": "Bilah pipih seperti daun bambu — awal musim semi Sichuan dalam secangkir.",
+    "oneLine": "Zhu Ye Qing, dimulai di Gunung Emei pada 1964 — pucuk sebelum Qingming disangrai pipih seperti daun bambu, dengan aroma rumput ringan dan manis yang bersih.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -415,7 +415,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-enshi-yulu": {
     "name": "Enshi Yulu",
-    "oneLine": "Dikukus dan dipilin menjadi jarum — teh hijau kukus langka di Tiongkok.",
+    "oneLine": "Enshi Yulu, teh hijau kukus Hubei sejak masa Qing — dikukus dan dipilin menjadi jarum untuk umami yang gurih dan tepian rumput laut.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -431,7 +431,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-anji-baipian": {
     "name": "Anji Bai Cha",
-    "oneLine": "Teh hijau dari kultivar pucat musim semi, dinamai teh putih.",
+    "oneLine": "Anji Bai Cha, teh hijau meski bernama 'putih' — dari kultivar Baiye 1 yang pucat di musim semi, kaya umami dengan hampir tanpa sepat.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -447,7 +447,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-gougunao": {
     "name": "Gougunao",
-    "oneLine": "Teh hijau daun halus beraroma anggrek dari lembah berkabut Jiangxi.",
+    "oneLine": "Gougunao, yang konon memenangkan emas di pameran Panama 1915 — daun halus dari lembah berkabut Jiangxi, beraroma anggrek dan manis lembut.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -463,7 +463,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-wuyuan-mingmei": {
     "name": "Wuyuan Mingmei",
-    "oneLine": "Daun melengkung seperti alis — teh hijau lembut dari Wuyuan, Jiangxi.",
+    "oneLine": "Wuyuan Mingmei, diciptakan pada 1958 dan berperingkat di antara teh terkenal Tiongkok — daun melengkung seperti alis dengan rumput lembut dan manis kastanye.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -479,7 +479,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-mengding-ganlu": {
     "name": "Mengding Ganlu",
-    "oneLine": "Klasik Sichuan yang digulung halus dari Gunung Mengding.",
+    "oneLine": "Mengding Ganlu, teh upeti sejak masa Tang — disangrai dan digulung tiga kali menjadi gulungan halus kastanye dan panggangan kedelai.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -495,7 +495,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-hanzhong-xianhao": {
     "name": "Hanzhong Xianhao",
-    "oneLine": "Dari tepi utara negeri teh Tiongkok: daun musim semi tebal setelah musim dingin panjang.",
+    "oneLine": "Hanzhong Xianhao dari tepi utara negeri teh Tiongkok — daun musim semi yang tebal setelah musim dingin panjang, dengan rumput, bunga, dan manis yang bertahan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -511,7 +511,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-huiming": {
     "name": "Huiming Tea",
-    "oneLine": "Daun musim semi dari kuil gunung Zhejiang yang memberi nama pada teh ini.",
+    "oneLine": "Huiming, dinamai langsung dari kuil gunung Zhejiang tempat ia bermula — pucuk lembut disangrai rendah untuk bunga samar, rumput, dan manis yang bersih.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -527,7 +527,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-boseong": {
     "name": "Green Tea (Boseong)",
-    "oneLine": "Ladang teh terluas Korea — daun musim semi dari Boseong.",
+    "oneLine": "Teh hijau dari Boseong, ladang teh terluas Korea — dipetik dari musim semi hingga daejak, sangrai dan berumput dengan manis di belakangnya.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -543,7 +543,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-sanxia-biluochun": {
     "name": "Biluochun (Sanxia)",
-    "oneLine": "Teh hijau gaya Tiongkok dari Taiwan — daun spiral manis.",
+    "oneLine": "Teh hijau Sanxia, membawa nama Biluochun Dongting Jiangsu di Taiwan sejak tahun 1940-an — daun spiral dengan rumput hijau dan manis buah yang samar.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -559,7 +559,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-kabusecha": {
     "name": "Kabusecha",
-    "oneLine": "Daun yang dinaungi sebentar — umami di antara sencha dan gyokuro.",
+    "oneLine": "Kabusecha, di antara sencha dan gyokuro, dinaungi hanya satu hingga dua minggu — naungan mengangkat umami, melapisi nuansa rumput laut di atas manis yang dalam.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -575,7 +575,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-kamairicha": {
     "name": "Kamairicha",
-    "oneLine": "Teh hijau sangrai wajan langka dari Jepang — panggangan, bukan rumput laut.",
+    "oneLine": "Kelangkaan di Jepang yang serba teh kukus — teh hijau Kyushu yang disangrai dalam wajan, meninggalkan panggangan biji-bijian panggang dan manis ringan tanpa nuansa rumput laut.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -591,7 +591,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-dafo-longjing": {
     "name": "Dafo Longjing",
-    "oneLine": "Daun gaya Longjing yang lebih awal dan sehari-hari dari Zhejiang.",
+    "oneLine": "Longjing dari Xinchang, Zhejiang, dipetik lebih awal daripada Danau Barat — daun yang dipres pipih dengan tangan memberi panggangan kacang sangrai dan manis ringan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -607,7 +607,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-laoshan": {
     "name": "Green Tea (Laoshan)",
-    "oneLine": "Tepi utara teh Tiongkok: daun tebal ditanam dalam angin laut.",
+    "oneLine": "Dari tepi utara negeri teh Tiongkok, daun tebal yang tumbuh dalam angin laut dan tanah granit — panggangan sangrai dan manis yang kokoh dalam banyak seduhan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -623,7 +623,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-xingongyi": {
     "name": "New Craft White Tea",
-    "oneLine": "Teh putih tradisional dengan gulungan ringan — aroma lebih, sedikit oksidasi.",
+    "oneLine": "Kerajinan baru yang lahir di Fuding pada 1968, gulungan ringannya membangunkan aroma — manis lembut teh putih berlapis bunga dan panggangan samar.",
     "oxidation": "sekitar 20%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -639,7 +639,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-yueguangbai": {
     "name": "Moonlight White",
-    "oneLine": "Satu sisi pucat, satu sisi gelap — teh putih cahaya bulan dari Yunnan.",
+    "oneLine": "Teh putih daun besar Yunnan yang kering pucat di satu sisi, gelap di sisi lain — manis buah kering dan madu dalam cairan teh aprikot pucat yang lembut.",
     "oxidation": "sekitar 15%",
     "ratioNote": "4 g untuk 150 ml",
     "rounds": "4 seduhan",
@@ -655,7 +655,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-lingyun-baihao": {
     "name": "Lingyun Baihao",
-    "oneLine": "Teh putih daun berbulu dari Guangxi.",
+    "oneLine": "Teh putih dari Lingyun di Guangxi, dibuat dari pucuk yang tebal dengan bulu putih — bunga lembut, sentuhan rumput, dan manis ringan, bersih hingga akhir.",
     "oxidation": "sekitar 10%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -671,7 +671,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-beigang-maojian": {
     "name": "Beigang Maojian",
-    "oneLine": "Teh kuning kecil dari tepi barat Danau Dongting.",
+    "oneLine": "Teh kuning kecil dari tepi barat Danau Dongting, ditumpuk setelah disangrai hingga menguning sendiri — manis biji-bijian yang lembut, lebih sedikit sepat daripada teh hijau.",
     "oxidation": "sekitar 12%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -687,7 +687,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-weishan-maojian": {
     "name": "Weishan Maojian",
-    "oneLine": "Teh kuning yang diselesaikan di atas asap — nuansa pinus samar dalam daun.",
+    "oneLine": "Teh kuning Hunan dari Weishan, disentuh ringan asap pinus pada pengeringan terakhir — manis biji-bijian dengan seulas asap dan sedikit sepat.",
     "oxidation": "sekitar 15%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -703,7 +703,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-wenzhou-huangtang": {
     "name": "Pingyang Huangtang",
-    "oneLine": "Teh kuning pucat Zhejiang selatan dengan penguningan singkat.",
+    "oneLine": "Teh kuning Pingyang yang tercatat sebagai upeti Qing, penguningannya dijaga singkat — biji-bijian lembut, bunga samar, dan manis ringan, dekat dengan teh hijau.",
     "oxidation": "sekitar 12%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -719,7 +719,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-wanxi-huangdacha": {
     "name": "Wanxi Huangda Tea",
-    "oneLine": "Teh kuning daun kasar Anhui barat — dibuat untuk direbus.",
+    "oneLine": "Teh kuning daun besar dan kasar dari Anhui barat, dibuat untuk direbus dalam panci — panggangan sangrai dan manis kuat yang bertahan bahkan dengan susu.",
     "oxidation": "sekitar 20%",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -735,7 +735,7 @@ window.TEAFaiDataId = (function () {
   },
   "yellow-yuanan-luyuan": {
     "name": "Yu'an Luyuan Tea",
-    "oneLine": "Teh kuning Hubei dengan catatan Qing dan daun gulungan halus.",
+    "oneLine": "Teh kuning Hubei dari Kuil Luyuan, tercatat pada era Qianlong — untaian gulungan halus memberi biji-bijian lembut, bunga, dan manis yang bersih.",
     "oxidation": "sekitar 15%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -751,7 +751,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-moroccan-mint": {
     "name": "Maghrebi Mint Tea",
-    "oneLine": "Teh hijau gunpowder dengan mint segar dan gula, dituang dari ketinggian.",
+    "oneLine": "Teh mint Maghreb, gunpowder Tiongkok dituang dari ketinggian dengan mint segar dan gula — mint sejuk di atas manis yang dalam, menyegarkan bahkan saat panas.",
     "oxidation": "sekitar 5% (basis teh hijau)",
     "ratioNote": "4 g untuk 200 ml; segenggam mint dan gula sesuai selera",
     "rounds": "3 seduhan",
@@ -767,7 +767,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-chunseol": {
     "name": "Chunseol",
-    "oneLine": "Teh hijau sangrai wajan yang dipetik di awal musim semi dari semak liar di lembah Jeungsimsa di Gunung Mudeung.",
+    "oneLine": "Teh sangrai wajan dari semak liar Gunung Mudeung, dinamai oleh pelukis Heo Baek-ryeon — daun lembut awal musim semi mekar dengan aroma hijau segar dan manis yang lembut.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -783,7 +783,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-tencha": {
     "name": "Tencha",
-    "oneLine": "Daun dinaungi dan dikukus — bahan baku yang digiling menjadi matcha.",
+    "oneLine": "Daun dinaungi dan dikukus sebelum digiling batu menjadi matcha — umami pekat yang terkondensasi dalam daun hijau cerah dengan sisi rumput laut.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 100 ml",
     "rounds": "3 seduhan",
@@ -799,7 +799,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-funmatsu": {
     "name": "Funmatsu (Powdered Sencha)",
-    "oneLine": "Sencha yang digiling menjadi bubuk dan diaduk langsung ke dalam air.",
+    "oneLine": "Sencha tanpa naungan yang digiling halus dan diaduk langsung ke dalam air, daun dan semuanya — aroma hijau dan pahit lembut sencha tersampaikan sepenuhnya.",
     "oxidation": "0%",
     "ratioNote": "1.5 g untuk 150 ml",
     "rounds": "1 sajian",
@@ -815,7 +815,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-konacha": {
     "name": "Konacha",
-    "oneLine": "Teh dari pucuk dan fragmen sisa pembuatan gyokuro dan sencha.",
+    "oneLine": "Pucuk dan fragmen yang diayak keluar dari pembuatan gyokuro dan sencha — menyeduh cepat dan tegas, dengan cairan gelap dan tepi pahit.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -847,7 +847,7 @@ window.TEAFaiDataId = (function () {
   },
   "white-darjeeling": {
     "name": "Darjeeling White Tea",
-    "oneLine": "Teh putih pucuk lembut dari kebun tinggi Darjeeling, dengan sentuhan muscatel.",
+    "oneLine": "Pucuk lembut dari kebun Darjeeling di ketinggian 1.000–2.000 m, dikeringkan apa adanya tanpa penggulungan — bunga lembut, sentuhan muscatel, dan manis yang bersih.",
     "oxidation": "Sekitar 8%",
     "ratioNote": "2.5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -863,7 +863,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-tieguanyin": {
     "name": "Anxi Tieguanyin",
-    "oneLine": "Aroma anggrek dan guanyin yun — oolong patokan, digulung menjadi setengah bola yang padat.",
+    "oneLine": "Oolong patokan Anxi, ditelusuri ke semak yang ditemukan di dekat kuil Guanyin — gulungan setengah bola yang padat memberi anggrek dan lili, kelembutan krim, dan manis yang kembali.",
     "oxidation": "30%",
     "ratioNote": "7 g untuk 110 ml dalam gaiwan",
     "rounds": "7–8 seduhan",
@@ -878,7 +878,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dahongpao": {
     "name": "Da Hong Pao (Wuyi)",
-    "oneLine": "Daun yang tumbuh di batu dan dipanggang keras — teh yan yun, rima batu.",
+    "oneLine": "Teh batu Wuyi dari legenda jubah merah dan semak induk di tebing — daun yang dipanggang tiga hingga enam kali di atas arang meninggalkan kakao, batu basah, dan akhir yang panjang.",
     "oxidation": "55%",
     "ratioNote": "7 g untuk 110 ml dalam gaiwan",
     "rounds": "8–10 seduhan",
@@ -893,7 +893,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong": {
     "name": "Phoenix Dancong",
-    "oneLine": "Satu semak, satu aroma — oolong pohon tunggal dari Guangdong, masing-masing dengan namanya sendiri.",
+    "oneLine": "Semak tua Gunung Phoenix, masing-masing dibuat terpisah — satu semak, satu aroma bunga putih, gardenia, dan madu, ditutup dengan manis yang kembali.",
     "oxidation": "40%",
     "ratioNote": "7 g untuk 110 ml dalam gaiwan",
     "rounds": "10 seduhan atau lebih",
@@ -908,7 +908,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dongding": {
     "name": "Dong Ding",
-    "oneLine": "Oolong panggang sedang dari kaki bukit tengah Taiwan — kastanye dan bunga yang seimbang.",
+    "oneLine": "Oolong panggang sedang Taiwan, ditelusuri ke 36 bibit Wuyi yang dibawa pada 1855 — biji-bijian panggang, kastanye, dan anggrek seimbang di atas manis yang lembut.",
     "oxidation": "25%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6–8 seduhan",
@@ -923,7 +923,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-alishan": {
     "name": "High Mountain Oolong (Alishan)",
-    "oneLine": "Di atas 1,200 m: teh pegunungan tinggi Taiwan yang sejuk beraroma anggrek.",
+    "oneLine": "Oolong pegunungan tinggi Alishan, menyebar pada ledakan teh tahun 1980-an — daun tebal memberi anggrek, krim, dan apel hijau di atas manis jernih yang panjang.",
     "oxidation": "20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6–8 seduhan",
@@ -938,7 +938,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-beauty": {
     "name": "Oriental Beauty",
-    "oneLine": "Madu yang hanya bisa dibuat oleh wereng daun — oolong khas Taiwan yang teroksidasi berat.",
+    "oneLine": "Oolong ujung putih yang konon dinamai Oriental Beauty oleh Ratu Victoria — daun yang digigit wereng daun memberi madu, persik matang, dan mawar dengan manis yang bulat.",
     "oxidation": "60%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "5–6 seduhan",
@@ -953,7 +953,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-si-ji-chun": {
     "name": "Si Ji Chun",
-    "oneLine": "Empat panen setahun, masing-masing seperti musim semi: oolong ringan yang paling sering Anda temui di Taiwan.",
+    "oneLine": "Dinamai dari pohon Muzha temuan kebetulan yang berdaun sepanjang tahun — daun teroksidasi ringan memberi bunga gardenia dan melati dengan manis ringan.",
     "oxidation": "15–20%",
     "ratioNote": "4 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -969,7 +969,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-jin-xuan": {
     "name": "Jin Xuan",
-    "oneLine": "Kultivar No. 12 Taiwan, yang aroma lembut susunya berasal dari daun itu sendiri — juga dijual sebagai Milky Oolong; secangkir yang lembut dan bulat.",
+    "oneLine": "TTES No. 12 Taiwan, didaftarkan pada 1981 — daunnya sendiri memberi susu dan krim dengan melati, ditutup dengan manis yang bulat.",
     "oxidation": "15–20%",
     "ratioNote": "4 g untuk 150 ml",
     "rounds": "3–4 seduhan",
@@ -985,7 +985,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-pouchong": {
     "name": "Wen Shan Pouchong",
-    "oneLine": "Oolong ringan dari Taiwan utara yang dinamai dari kertas yang dulu membungkus aromanya.",
+    "oneLine": "Oolong ringan Wen Shan, dinamai dari kertas yang dulu membungkus aromanya — oksidasi yang dekat dengan teh hijau menjaga anggrek dan gardenia tetap jernih dan ringan.",
     "oxidation": "8–12%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -1001,7 +1001,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-rougui": {
     "name": "Wuyi Rougui",
-    "oneLine": "Aroma kulit kayu manis — pilar lain dari oolong batu Wuyi.",
+    "oneLine": "Teh batu Wuyi yang dinamai dari kulit kayu manis, dipanggang arang berputar-putar — rempah kayu manis dan cengkeh di atas manis yang dalam dengan akhir yang panjang.",
     "oxidation": "sekitar 50%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "8+ seduhan",
@@ -1017,7 +1017,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-shuixian": {
     "name": "Wuyi Shuixian",
-    "oneLine": "Daun besar, panggangan dalam — dan semakin tua semaknya, semakin berlumut cangkirnya.",
+    "oneLine": "Oolong daun besar Wuyi, semakin berlumut semakin tua semaknya — anggrek di atas kayu dan lumut, dengan manis panggangan yang bertahan.",
     "oxidation": "sekitar 50%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "9+ seduhan",
@@ -1033,7 +1033,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dayuling": {
     "name": "High Mountain Oolong (Dayuling)",
-    "oneLine": "Di atas 2,300 m — teh tertinggi Taiwan, daun tebal yang tumbuh lambat.",
+    "oneLine": "Daun tebal yang tumbuh lambat dari tanah teh tertinggi Taiwan pada 2.300 m — bunga jernih dan manis sejuk dalam cairan teh emas pucat, hampir tanpa sepat.",
     "oxidation": "sekitar 20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "8 seduhan",
@@ -1049,7 +1049,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-shanlinxi": {
     "name": "High Mountain Oolong (Shanlinxi)",
-    "oneLine": "Teh pegunungan tinggi dari petak hutan aras — bersih dan sejuk.",
+    "oneLine": "Teh pegunungan tinggi dari petak di antara hutan aras dan kabut pada 1.600 m — bunga jernih, sedikit rumput, dan manis yang bersih, sejuk dalam cangkir.",
     "oxidation": "sekitar 20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "7 seduhan",
@@ -1065,7 +1065,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-lishan": {
     "name": "High Mountain Oolong (Lishan)",
-    "oneLine": "Teh pegunungan tinggi beraroma buah matang dari antara kebun buah pada 2,000 m.",
+    "oneLine": "Teh pegunungan tinggi yang tumbuh di antara kebun buah pada 2.000 m, tempat ayunan siang-malam yang lebar menebalkan daun — buah matang, bunga, dan manis yang lembut.",
     "oxidation": "sekitar 20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "8 seduhan",
@@ -1081,7 +1081,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-huangjingui": {
     "name": "Huang Jin Gui",
-    "oneLine": "Oolong Anxi yang lebih ringan, dijuluki 'wangi penembus langit'.",
+    "oneLine": "Oolong Huangdan Anxi, dijuluki 'wangi penembus langit' — daun teroksidasi ringan menyebarkan aroma lembut seperti krim, bunga, dan manis ringan.",
     "oxidation": "sekitar 35%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "6 seduhan",
@@ -1097,7 +1097,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-benshan": {
     "name": "Benshan Oolong",
-    "oneLine": "Oolong Anxi yang lebih ringan dan lebih murah — adik Tieguanyin.",
+    "oneLine": "Oolong Anxi yang lebih ringan, disebut adik Tieguanyin — anggrek dan rumput samar dengan manis ringan, mudah dari tegukan pertama hingga terakhir.",
     "oxidation": "sekitar 35%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "7 seduhan",
@@ -1113,7 +1113,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-foshou": {
     "name": "Yongchun Foshou",
-    "oneLine": "Manis seperti pir dari daun selebar tangan.",
+    "oneLine": "Oolong Yongchun, dibuat dari daun selebar jeruk tangan Buddha — buah pir dan kesemek yang manis, bertubuh lembut dengan sedikit sepat.",
     "oxidation": "sekitar 40%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "7 seduhan",
@@ -1129,7 +1129,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-muzha-tieguanyin": {
     "name": "Tieguanyin (Muzha)",
-    "oneLine": "Tieguanyin panggang arang lama dari Taipei — buah panggang dan karamel.",
+    "oneLine": "Tieguanyin Muzha, dipanggang arang lama dan sering sejak akhir abad ke-19 — manis buah panggang dan karamel dengan sedikit arang di akhir.",
     "oxidation": "sekitar 45%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "8 seduhan",
@@ -1145,7 +1145,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-milan": {
     "name": "Mi Lan Xiang Dancong",
-    "oneLine": "Madu di atas anggrek — jenis aroma dancong Phoenix yang paling banyak ditanam.",
+    "oneLine": "Aroma dancong Phoenix yang paling banyak ditanam, madu diletakkan di atas anggrek — tubuh yang penuh membawa wangi manisnya ke akhir yang panjang.",
     "oxidation": "sekitar 45%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "10+ seduhan",
@@ -1161,7 +1161,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-yashixiang": {
     "name": "Ya Shi Xiang",
-    "oneLine": "Nama yang kasar untuk dancong bunga yang keperakan dan sejuk.",
+    "oneLine": "Dancong Phoenix yang nama kasarnya menyembunyikan aroma 'bunga perak' — bunga lily-of-the-valley yang sejuk dan manis cerah, panjang di akhir.",
     "oxidation": "sekitar 45%",
     "ratioNote": "7 g dalam gaiwan 110 ml",
     "rounds": "10+ seduhan",
@@ -1177,7 +1177,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-hongshui": {
     "name": "Hong Shui Oolong",
-    "oneLine": "Gaya lama Taiwan yang teroksidasi dalam — oolong dengan cairan teh merah.",
+    "oneLine": "Gaya oolong Taiwan yang lebih tua, teroksidasi hingga sekitar 60% dan dipanggang — buah matang, madu, dan nuansa panggangan di atas cairan teh merah, hampir segelap teh hitam.",
     "oxidation": "sekitar 60%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "7 seduhan",
@@ -1193,7 +1193,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-thai-doi": {
     "name": "Oolong (Doi Mae Salong)",
-    "oneLine": "Oolong dataran tinggi Thailand yang ditanam dengan metode dan bibit Taiwan.",
+    "oneLine": "Oolong Thailand utara, berakar pada metode dan bibit Taiwan — bunga ringan dan rasa manis, lebih lembut daripada cangkir pegunungan tinggi Taiwan.",
     "oxidation": "sekitar 25%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6 seduhan",
@@ -1209,7 +1209,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-vietnam-mocchau": {
     "name": "Oolong (Moc Chau)",
-    "oneLine": "Oolong dataran tinggi Vietnam dari plato yang pertama ditanami Prancis.",
+    "oneLine": "Oolong dari plato Moc Chau Vietnam, tempat Prancis pertama menanam teh — rumput, bunga ringan, dan manis yang bersih, lebih segar daripada Taiwan.",
     "oxidation": "sekitar 30%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "5 seduhan",
@@ -1225,7 +1225,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-guihua": {
     "name": "Osmanthus Tea",
-    "oneLine": "Bunga osmanthus musim gugur dilapiskan ke dalam daun — manis seperti aprikot.",
+    "oneLine": "Teh yang diharumkan dengan melapiskan bunga osmanthus musim gugur ke dalam daun berulang kali — bunga seperti aprikot dan persik di atas manis yang lembut.",
     "oxidation": "sekitar 60% (tergantung bahan dasarnya)",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -1241,7 +1241,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-qilai": {
     "name": "Qilai High Mountain Oolong",
-    "oneLine": "Oolong pegunungan tinggi Taiwan dari Gunung Qilai, pada 1,400–2,000 m.",
+    "oneLine": "Oolong pegunungan tinggi Taiwan yang ditemukan belakangan dari awan Gunung Qilai di atas 2.000 m — bunga jernih, kelembutan creamy, dan manis yang sejuk.",
     "oxidation": "20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6–7 seduhan",
@@ -1257,7 +1257,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-honey": {
     "name": "Honey-Scented Oolong",
-    "oneLine": "Oolong gulung bola Taiwan dari daun yang digigit wereng, beraroma madu.",
+    "oneLine": "Oolong gulung bola Taiwan dari daun yang digigit wereng di kebun tanpa semprotan — madu, persik matang, dan bunga dalam manis yang panjang.",
     "oxidation": "50%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "5–6 seduhan",
@@ -1273,7 +1273,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-red": {
     "name": "Red Oolong",
-    "oneLine": "Oolong baru dari Taitung yang dioksidasi hampir setingkat teh hitam dan digulung menjadi bola.",
+    "oneLine": "Oolong baru yang lahir di Luye, Taitung pada 2000-an, dioksidasi hampir menjadi teh hitam dan digulung bola — buah matang, madu, dan biji panggang dalam cairan merah ambar.",
     "oxidation": "sekitar 75%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6–7 seduhan",
@@ -1289,7 +1289,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-qilan": {
     "name": "Qilan",
-    "oneLine": "Oolong kultivar beraroma anggrek yang dibuat di Wuyi maupun Fujian selatan.",
+    "oneLine": "Kultivar bernama anggrek yang dibuat dalam gaya Wuyi maupun Fujian selatan — anggrek dan herba yang bersih di atas sangrai ringan dan manis.",
     "oxidation": "45%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "7–8 seduhan",
@@ -1305,7 +1305,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-meizhan": {
     "name": "Meizhan",
-    "oneLine": "Oolong kultivar klasik Fujian yang dikisahkan beraroma bunga plum.",
+    "oneLine": "Kultivar klasik Fujian yang dikatakan beraroma bunga plum, juga dibuat menjadi teh hitam dan hijau — bunga plum, buah ringan, dan manis lembut.",
     "oxidation": "40%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "6–7 seduhan",
@@ -1321,7 +1321,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-tieluohan": {
     "name": "Tie Luo Han",
-    "oneLine": "Salah satu dari empat mingcong besar Wuyi — teh batu yang dalam dengan sisi herbal.",
+    "oneLine": "Termasuk mingcong tertua di antara empat mingcong besar Wuyi — herba obat, mineral, dan biji panggang dengan manis yang tebal dan berbobot.",
     "oxidation": "55%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "7–8 seduhan",
@@ -1337,7 +1337,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-baijiguan": {
     "name": "Bai Ji Guan",
-    "oneLine": "Mingcong Wuyi yang ringan dan jernih, dikenal dari kuncupnya yang kuning-putih pucat.",
+    "oneLine": "Mingcong Wuyi yang kuncup kuning-putih pucatnya menonjol sekilas pandang, disangrai ringan untuk menjaganya — bunga jernih, nada herbal samar, dan manis sejuk.",
     "oxidation": "40%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "6–7 seduhan",
@@ -1353,7 +1353,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-shuijingui": {
     "name": "Shui Jin Gui",
-    "oneLine": "Mingcong Wuyi yang lembut dan manis, dinamai dari legenda cangkang kura-kura.",
+    "oneLine": "Mingcong Wuyi yang dinamai dari semak tersapu banjir berpola seperti cangkang kura-kura — bunga lembut dan sangrai di atas manis yang bulat dan lembut.",
     "oxidation": "50%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "7–8 seduhan",
@@ -1369,7 +1369,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-bantianyao": {
     "name": "Ban Tian Yao",
-    "oneLine": "Mingcong Wuyi dari semak di tengah tebing, dengan karakter batu yang menonjol.",
+    "oneLine": "Mingcong Wuyi dari semak di pinggang tebing, antara langit dan bumi — karakter batu yang menonjol, sangrai, dan manis pekat dalam akhir yang panjang.",
     "oxidation": "50%",
     "ratioNote": "7 g untuk 110 ml",
     "rounds": "7–8 seduhan",
@@ -1385,7 +1385,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-zhangping": {
     "name": "Zhangping Shuixian",
-    "oneLine": "Oolong pres yang langka — daun Shuixian yang dipadatkan menjadi kotak berbalut kertas.",
+    "oneLine": "Oolong pres yang langka — daun Shuixian dicetak dalam cetakan persegi dan dibungkus kertas — anggrek dan nada hijau sejuk dengan manis jernih dalam warna emas cerah.",
     "oxidation": "30%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6–7 seduhan",
@@ -1401,7 +1401,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-yunnan": {
     "name": "Yunnan Oolong",
-    "oneLine": "Teh daun besar Yunnan yang dibuat dengan gaya oolong gulung bola Taiwan.",
+    "oneLine": "Teh daun besar Yunnan dari tanah asal pu'er, digulung dengan kain menjadi bola dengan cara Taiwan — malt pekat dan manis madu di bawah bunga, dengan tubuh tebal.",
     "oxidation": "30%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "5–6 seduhan",
@@ -1417,7 +1417,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-darjeeling": {
     "name": "Darjeeling Oolong",
-    "oneLine": "Teh bergaya oolong yang dibuat dengan oksidasi sebagian di kebun-kebun Darjeeling.",
+    "oneLine": "Gaya Darjeeling lot kecil, daun teh hitam yang dihentikan pada oksidasi sebagian — anggur muscatel, aprikot, dan bunga, ringan dan jernih dalam cairan kuningan cerah.",
     "oxidation": "40%",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "4–5 seduhan",
@@ -1433,7 +1433,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-huangzhi": {
     "name": "Huangzhi Xiang Dancong",
-    "oneLine": "Dancong Phoenix dengan aroma jernih dan manis seperti gardenia.",
+    "oneLine": "Dancong Phoenix semak tunggal yang aroma gardenia-nya berasal dari daun itu sendiri, bukan bunga tambahan — gardenia manis dan buah matang dengan akhir yang bersih.",
     "oxidation": "sekitar 40%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 9 seduhan",
@@ -1449,7 +1449,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-xingren": {
     "name": "Xingren Xiang Dancong",
-    "oneLine": "Dancong Phoenix dengan aroma almond panggang yang gurih.",
+    "oneLine": "Dancong Phoenix semak tunggal yang dinamai dari almond panggang — kacang panggang berubah dari tepi pahit singkat menjadi manis dalam tegukan yang halus.",
     "oxidation": "sekitar 45%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 8 seduhan",
@@ -1465,7 +1465,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-rougui": {
     "name": "Rougui Xiang Dancong",
-    "oneLine": "Dancong Phoenix dengan nada rempah hangat seperti kayu manis.",
+    "oneLine": "Dancong Phoenix dengan nada kayu manis alami, tidak terkait dengan kultivar Rougui dari Wuyi — rempah hangat dan sangrai ringan dalam tubuh penuh dengan akhir panjang.",
     "oxidation": "sekitar 50%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 9 seduhan",
@@ -1481,7 +1481,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-guihua": {
     "name": "Guihua Xiang Dancong",
-    "oneLine": "Dancong Phoenix yang aroma osmanthusnya berasal dari daun itu sendiri.",
+    "oneLine": "Jenis aroma alami yang aroma osmanthusnya ada di daun itu sendiri, berbeda dari oolong campuran bunga — bunga manis di atas aprikot, dengan akhir bersih.",
     "oxidation": "sekitar 35%",
     "ratioNote": "5 g dalam gaiwan 120 ml",
     "rounds": "sekitar 8 seduhan",
@@ -1497,7 +1497,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-zhilan": {
     "name": "Zhilan Xiang Dancong",
-    "oneLine": "Dancong beraroma anggrek yang elegan, termasuk jenis aroma yang lebih halus.",
+    "oneLine": "Dancong semak tunggal yang termasuk jenis aroma lebih halus karena aroma anggrek zhilan-nya — aroma anggrek yang halus, manis lembut, akhir bersih yang panjang.",
     "oxidation": "sekitar 40%",
     "ratioNote": "5 g dalam gaiwan 120 ml",
     "rounds": "sekitar 10 seduhan",
@@ -1513,7 +1513,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-yelai": {
     "name": "Yelai Xiang Dancong",
-    "oneLine": "Dancong Phoenix dengan aroma bunga malam yang pekat dan manis.",
+    "oneLine": "Dancong Phoenix dengan manis sepekat bunga yelai yang mekar malam — aroma bunga malam dan akhir bermadu, namun sisa rasa yang bersih.",
     "oxidation": "sekitar 40%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 9 seduhan",
@@ -1529,7 +1529,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-tongtian": {
     "name": "Tongtian Xiang Dancong",
-    "oneLine": "Dancong Phoenix yang aromanya naik tinggi dan kuat — 'menjangkau langit'.",
+    "oneLine": "Dancong Phoenix bernama 'menjangkau langit' karena aromanya yang naik tinggi dan kuat — bunga melonjak sejak seduhan pertama, cerah dan segar, dengan akhir bersih.",
     "oxidation": "sekitar 35%",
     "ratioNote": "5 g dalam gaiwan 120 ml",
     "rounds": "sekitar 10 seduhan",
@@ -1545,7 +1545,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-youhua": {
     "name": "Youhua Xiang Dancong",
-    "oneLine": "Dancong Phoenix dengan aroma bunga jeruk bali yang segar.",
+    "oneLine": "Dancong Phoenix yang dinamai dari aroma segar bunga jeruk bali musim semi — bunga jeruk bali dan sitrus di atas tubuh ringan dan manis bersih yang khas.",
     "oxidation": "sekitar 35%",
     "ratioNote": "5 g dalam gaiwan 120 ml",
     "rounds": "sekitar 8 seduhan",
@@ -1561,7 +1561,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-songzhong": {
     "name": "Song Zhong Dancong",
-    "oneLine": "Garis keturunan dancong semak tua yang dikisahkan mencapai dinasti Song.",
+    "oneLine": "Dancong Phoenix semak tua dari ketinggian Wudong, dikatakan keturunan tanaman era dinasti Song — bunga pekat di atas manis berbobot dan akhir panjang.",
     "oxidation": "sekitar 45%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 10 seduhan",
@@ -1577,7 +1577,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-baxian": {
     "name": "Baxian Dancong",
-    "oneLine": "Dancong berdaun besar dan lembut yang dinamai dari Delapan Dewa.",
+    "oneLine": "Dancong Phoenix berdaun besar dan lembut yang dinamai dari Delapan Dewa — bunga lembut dan jernih serta manis yang melimpah dan merata dari daun besarnya.",
     "oxidation": "sekitar 40%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 9 seduhan",
@@ -1593,7 +1593,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-dancong-dawuye": {
     "name": "Da Wu Ye Dancong",
-    "oneLine": "Garis dancong berdaun besar dan gelap dengan aroma dan tubuh yang kuat.",
+    "oneLine": "Garis dancong berdaun besar dan gelap yang aromanya tetap bertahan bahkan di atas es saat diseduh pekat — bunga pekat, tubuh berat, manis kembali yang kuat setelah pahit.",
     "oxidation": "sekitar 50%",
     "ratioNote": "6 g dalam gaiwan 120 ml",
     "rounds": "sekitar 10 seduhan",
@@ -1609,7 +1609,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-assam": {
     "name": "Assam Oolong",
-    "oneLine": "Daun assamica yang dibuat sebagai oolong — malt di bawah aroma oolong.",
+    "oneLine": "Gaya baru dari kebun Brahmaputra di Assam, daun teh hitam dihentikan pada setengah oksidasi — malt, madu, dan biji panggang berlapis bunga oolong.",
     "oxidation": "Sekitar 40%",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "5 seduhan",
@@ -1625,7 +1625,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-ceylon": {
     "name": "Ceylon Oolong",
-    "oneLine": "Daun dataran tinggi Sri Lanka, setengah teroksidasi — kecerahan Ceylon dengan bunga oolong.",
+    "oneLine": "Oolong lot kecil yang dibuat bersama teh hitam di Uva dan kebun lain dekat 1.200 m — sitrus dan bunga jernih dengan madu ringan di atas kerangka cerah.",
     "oxidation": "Sekitar 30%",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "5 seduhan",
@@ -1641,7 +1641,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-ruby": {
     "name": "Ruby Oolong",
-    "oneLine": "Oolong bola panggang gelap dari dataran tinggi Thailand — cairan teh rubi, manis buah kering.",
+    "oneLine": "Oolong bola sangrai berat yang dibuat dengan keahlian Taiwan di sekitar Doi Mae Salong, dinamai dari cairan merahnya — manis plum kering dan kismis dengan kacang panggang.",
     "oxidation": "Sekitar 50%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6 seduhan",
@@ -1657,7 +1657,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-jeju": {
     "name": "Jeju Volcanic Rock Tea",
-    "oneLine": "Oolong Korea dari ladang vulkanik Jeju — cangkir bersih dengan sisi mineral.",
+    "oneLine": "Oolong setengah teroksidasi dari daun Jeju yang tumbuh di tanah basalt, angin laut, dan perbedaan suhu siang–malam yang lebar — bunga dan rumput bersih dengan sisi mineral dan manis rapi.",
     "oxidation": "Sekitar 30%",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "5 seduhan",
@@ -1673,7 +1673,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-cheong": {
     "name": "Cheong Oolong",
-    "oneLine": "Oolong ringan gaya Taiwan yang dibuat di Korea — qingcha yang jernih dan berbunga.",
+    "oneLine": "Qingcha oksidasi ringan gaya Taiwan yang dibuat dari daun Korea di Jeju, Boseong, dan Hadong — anggrek dan bunga padang jernih, segar di antara teh hijau dan oolong.",
     "oxidation": "Sekitar 20%",
     "ratioNote": "6 g untuk 150 ml",
     "rounds": "6 seduhan",
@@ -1689,7 +1689,7 @@ window.TEAFaiDataId = (function () {
   },
   "oolong-jasmine": {
     "name": "Jasmine Dragon Pearls Oolong",
-    "oneLine": "Oolong beroksidasi ringan yang digulung menjadi mutiara dan diharumkan dengan melati.",
+    "oneLine": "Mutiara naga melati biasanya berbasis teh hijau; versi langka Taiwan ini menggulung basis oolong — melati jernih dan manis lembut dalam cairan krem pucat.",
     "oxidation": "Sekitar 20%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan atau lebih",
@@ -1705,7 +1705,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-darjeeling-first": {
     "name": "Darjeeling First Flush",
-    "oneLine": "Tunas musim semi: anggur dan bunga — sampanye-nya dunia teh.",
+    "oneLine": "Petikan pertama 'sampanye-nya teh' dari kebun berkabut pada 2.000 m di Himalaya — oksidasi rendah membiarkan anggur hijau, muscatel, dan bunga putih mekar dengan ringan.",
     "oxidation": "85%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1719,7 +1719,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-assam": {
     "name": "Assam",
-    "oneLine": "Malt dan rasa yang tebal — tulang punggung teh susu.",
+    "oneLine": "Teh daun besar dari dataran Brahmaputra, kawasan teh hitam terbesar di dunia — malt, madu, dan kismis dalam tubuh yang tebal, tulang punggung teh susu.",
     "oxidation": "95%",
     "ratioNote": "5 g untuk 200 ml; 5 g untuk 150 ml untuk teh susu",
     "rounds": "1–2 seduhan",
@@ -1731,10 +1731,10 @@ window.TEAFaiDataId = (function () {
     "pairing": "Bagel krim keju, roti panggang bermentega, kue cokelat, dan sosis panggang semuanya cocok. Kekayaan malt dan madu yang dalam serta bodi tebalnya bertahan menghadapi mentega dan krim, dan dengan susu ia menjadi dasar masala chai yang baik. Hidangan yang sangat halus seperti sashimi polos cenderung kewalahan.",
     "brewTip": "98 °C selama 3 menit. Untuk susu, gunakan 5 g untuk 150 ml."
   },
-    "black-assam-ctc": {"name": "Assam CTC", "oneLine": "Daun remuk yang menyeduh cepat dan kuat — bintang chai dan teh celup.", "oxidation": "95%", "ratioNote": "3 g untuk 150 ml; diminum murni 3 g untuk 200 ml", "rounds": "1–2 seduhan", "steepBasis": "100 °C selama 2 menit — lebih lama menjadi pahit.", "origin": "Perkebunan dataran Assam, India, di sepanjang Brahmaputra. Sebagian besar hasil Assam dibuat dengan metode CTC.", "process": "Pelayuan → CTC (remuk, sobek, gulung) → oksidasi → pengeringan. Rol menghancurkan daun menjadi butiran yang memberi warna pekat dalam sekejap.", "story": "Pada 1930, mesin CTC pertama mulai beroperasi di perkebunan Amgoorie di Assam di bawah pengawasan William McKercher. Kini metode ini menjadi standar teh hitam India dan Afrika.", "flavor": "Malt kuat dan sepat segar dengan warna merah tua; lebih kasar dari Assam ortodoks, tetapi tahan terhadap susu, gula, dan rempah.", "pairing": "Masala chai, teh susu, scone dengan clotted cream, dan hidangan penutup cokelat pekat cocok dengannya. Seduhannya yang cepat dan kuat tetap terasa di tengah susu dan rempah. Rasa yang sangat lembut mudah tertutupi sepatnya.", "brewTip": "Pada 100 °C jangan lebih dari 2 menit. Untuk susu, seduh pekat — 3 g untuk 150 ml — agar tidak pudar."},
+    "black-assam-ctc": {"name": "Assam CTC", "oneLine": "Teh hitam CTC, dimulai dengan mesin pertama di Amgoorie pada 1930 — daun granul menyeduh merah pekat dan malt yang berani, tahan terhadap susu dan rempah.", "oxidation": "95%", "ratioNote": "3 g untuk 150 ml; diminum murni 3 g untuk 200 ml", "rounds": "1–2 seduhan", "steepBasis": "100 °C selama 2 menit — lebih lama menjadi pahit.", "origin": "Perkebunan dataran Assam, India, di sepanjang Brahmaputra. Sebagian besar hasil Assam dibuat dengan metode CTC.", "process": "Pelayuan → CTC (remuk, sobek, gulung) → oksidasi → pengeringan. Rol menghancurkan daun menjadi butiran yang memberi warna pekat dalam sekejap.", "story": "Pada 1930, mesin CTC pertama mulai beroperasi di perkebunan Amgoorie di Assam di bawah pengawasan William McKercher. Kini metode ini menjadi standar teh hitam India dan Afrika.", "flavor": "Malt kuat dan sepat segar dengan warna merah tua; lebih kasar dari Assam ortodoks, tetapi tahan terhadap susu, gula, dan rempah.", "pairing": "Masala chai, teh susu, scone dengan clotted cream, dan hidangan penutup cokelat pekat cocok dengannya. Seduhannya yang cepat dan kuat tetap terasa di tengah susu dan rempah. Rasa yang sangat lembut mudah tertutupi sepatnya.", "brewTip": "Pada 100 °C jangan lebih dari 2 menit. Untuk susu, seduh pekat — 3 g untuk 150 ml — agar tidak pudar."},
   "black-nilgiri": {
     "name": "Nilgiri",
-    "oneLine": "Teh dataran tinggi India selatan: aroma sejuk, rasa sepat lembut.",
+    "oneLine": "Teh hitam dari Pegunungan Biru, tempat kebun komersial pertama dibuka pada 1859 — kesejukan jeruk dan mint duduk jernih di atas malt yang lembut.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1748,7 +1748,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-nuwaraeliya": {
     "name": "Nuwara Eliya",
-    "oneLine": "Kebun tertinggi Ceylon di 1.800 m di tengah kabut — yang paling cerah dan paling halus.",
+    "oneLine": "‘Sampanye-nya Ceylon’ dari kebun tertingginya pada 1.800 m — udara sejuk menjaga jeruk, bunga putih, dan sentuhan mint tetap cerah dan halus.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1762,7 +1762,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-udapussellawa": {
     "name": "Uda Pussellawa",
-    "oneLine": "Bertetangga dengan Nuwara Eliya, distrik kecil dengan aroma mawar.",
+    "oneLine": "Teh dari distrik terkecil di antara tujuh distrik Ceylon — mawar musim sejuk dan jeruk ringan di atas tubuh sedang dengan akhir yang cerah.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1776,7 +1776,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-uva": {
     "name": "Uva",
-    "oneLine": "Teh dari muson kering: kesejukan mirip mentol.",
+    "oneLine": "Uva, tempat kedua muson bertemu, terbaik pada musim kering Juli–September — kesejukan mentol dan eukaliptus tiba dengan sepat di akhir.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1790,7 +1790,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-dimbula": {
     "name": "Dimbula",
-    "oneLine": "Dataran tinggi tengah Ceylon: teh hitam standar yang seimbang.",
+    "oneLine": "Pilar campuran English breakfast dari dataran tinggi tengah Ceylon — bunga, jeruk, dan malt yang seimbang, dengan sepat sedang.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1804,7 +1804,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-sabaragamuwa": {
     "name": "Sabaragamuwa",
-    "oneLine": "Dataran rendah barat daya Ceylon, dengan aroma buah.",
+    "oneLine": "Teh Ceylon dari dataran rendah barat daya yang lembap, daunnya dijaga tetap lembut — buah matang dan madu duduk bulat dalam tubuh yang lembut.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1818,7 +1818,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-kandy": {
     "name": "Kandy",
-    "oneLine": "Tempat teh Ceylon bermula: teh hitam ketinggian menengah yang lembut.",
+    "oneLine": "Tempat teh Ceylon bermula, dengan penanaman komersial pertama Taylor pada 1867 — daun ketinggian menengah memberi malt lembut dan bunga dengan sedikit sepat.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1832,7 +1832,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-ruhuna": {
     "name": "Ruhuna",
-    "oneLine": "Dataran rendah selatan Ceylon: gelap dan pekat.",
+    "oneLine": "Teh Ceylon dataran rendah selatan, teroksidasi cepat dalam panas — cairan teh paling gelap, malt yang lebar, dan sepat kuat yang dibuat untuk teh susu.",
     "oxidation": "90%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1846,7 +1846,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Mawar, anggrek, dan cokelat hitam — tolok ukur teh hitam Tiongkok, salah satu dari tiga teh hitam terhebat di dunia.",
+    "oneLine": "Salah satu dari tiga teh hitam terhebat di dunia, dibuat sejak 1875 dengan metode Fujian — daun yang digulung halus mekar dengan mawar, anggrek, dan cokelat hitam dalam akhir yang panjang.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 seduhan",
@@ -1860,7 +1860,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-lapsang": {
     "name": "Lapsang Souchong",
-    "oneLine": "Dikeringkan dengan asap pinus: teh hitam beraroma paling kuat yang ada.",
+    "oneLine": "Teh hitam yang lahir ketika daun teroksidasi saat melarikan diri dari tentara dan dikeringkan terburu-buru di atas pinus — asap pinus, tar, dan buah kering, dalam dan berat.",
     "oxidation": "95%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1874,7 +1874,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-jinjunmei": {
     "name": "Jin Jun Mei",
-    "oneLine": "Dibuat hanya dari tunas dengan gaya Lapsang — salah satu teh hitam paling berharga.",
+    "oneLine": "Teh hitam berharga yang diciptakan pada 2005 hanya dari pucuk musim semi Lapsang — tanpa asap, sehingga madu, bunga putih, dan aprikot kering tetap tinggal, dengan manis lembut yang panjang.",
     "oxidation": "85%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "2 seduhan",
@@ -1888,7 +1888,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-dianhong": {
     "name": "Dianhong",
-    "oneLine": "Kekuatan daun besar Yunnan: emas cerah dan madu.",
+    "oneLine": "Teh hitam daun besar Yunnan yang muda, pertama dibuat di Fengqing pada 1939 — oksidasi panjang menghadirkan pucuk emas, madu, dan plum kering dalam tubuh yang tebal.",
     "oxidation": "95%",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1902,7 +1902,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-masala": {
     "name": "Masala Chai",
-    "oneLine": "Teh hitam yang direbus dengan rempah dan susu — cangkir sehari-hari India dari chai-wallah.",
+    "oneLine": "Cangkir sehari-hari chai-wallah, menetap di India kolonial — Assam CTC yang kuat direbus dengan jahe, kapulaga, kayu manis, dan susu, hangat dan bulat.",
     "oxidation": "95%",
     "ratioNote": "5 g untuk 150 ml, lalu setengah susu",
     "rounds": "Satu kali rebus",
@@ -1916,7 +1916,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-sikkim": {
     "name": "Temi (Sikkim)",
-    "oneLine": "Himalaya Timur: kebun kecil yang dikenal sepenuhnya organik.",
+    "oneLine": "Dari satu-satunya kebun di Sikkim, di negara bagian pertama India yang sepenuhnya organik — ketinggian Himalaya mekar dengan bunga dan muscatel ringan di atas tubuh yang lembut.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1930,7 +1930,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-nepal": {
     "name": "Ilam (Nepal)",
-    "oneLine": "Himalaya Timur: teh hitam dataran tinggi bertetangga dengan Darjeeling.",
+    "oneLine": "Teh hitam dataran tinggi dari Ilam di Nepal, tepat di samping Darjeeling — daun petani kecil mekar ringan dengan bunga, anggur hijau, dan muscatel.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1944,7 +1944,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-kenya": {
     "name": "CTC (Kenya)",
-    "oneLine": "CTC dataran tinggi khatulistiwa: warna pekat dan kuat.",
+    "oneLine": "CTC dari Kenya di khatulistiwa, salah satu dari tiga eksportir teh hitam teratas dunia — daun yang dicacah memberi cairan teh merah pekat, malt yang kuat, dan kekuatan yang tahan susu.",
     "oxidation": "95%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1958,7 +1958,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-jaksal": {
     "name": "Jaksal (Hadong)",
-    "oneLine": "Teh hitam yang dibuat di Hadong dari daun Korea; jaksal adalah kata setempat untuk lidah burung pipit.",
+    "oneLine": "Jaksal, daun hijau Hadong yang teroksidasi penuh di lereng Gunung Jiri — nama dialeknya untuk daun muda membawa madu, buah kering, dan malt yang lembut.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 seduhan",
@@ -1972,7 +1972,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-ruby18": {
     "name": "Sun Moon Lake",
-    "oneLine": "Persilangan teh liar Taiwan dan assamica Burma — mint dan kayu manis.",
+    "oneLine": "Ruby dari Danau Sun Moon, persilangan teh liar Taiwan dengan assamica Burma — daun besar yang teroksidasi lama mengembuskan mint, kayu manis, dan pala, panjang di akhir.",
     "oxidation": "95%",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -1986,7 +1986,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-sheng": {
     "name": "Sheng Pu-erh",
-    "oneLine": "Pu-erh yang belum dimatangkan — waktu dan mikroba yang melakukan penuaannya.",
+    "oneLine": "Pu-erh sheng Yunnan, yang dulu menjadi upeti Qing — dipres dan dituakan, ia matang dari buah kering dan madu menuju kurma, herbal, dan kayu tua.",
     "oxidation": "Fermentasi lanjutan · mentah",
     "ratioNote": "5 g untuk 100 ml dalam gaiwan; bilas sekali",
     "rounds": "8 seduhan atau lebih",
@@ -2000,7 +2000,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-shou": {
     "name": "Shou Pu-erh",
-    "oneLine": "Pu-erh yang dimatangkan lebih dulu — cangkir beraroma tanah yang bisa diminum sekarang.",
+    "oneLine": "Pu-erh shou yang dimatangkan lebih dulu dengan wo dui, dikembangkan di Kunming pada 1973 — tanah, kurma, dan jamur dengan manis yang lembut, tanpa menunggu lama.",
     "oxidation": "Fermentasi lanjutan · matang",
     "ratioNote": "5 g untuk 100 ml; bilas dua kali",
     "rounds": "8 seduhan atau lebih",
@@ -2014,7 +2014,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-anhua": {
     "name": "Anhua Dark Tea",
-    "oneLine": "Teh gelap pres dari Anhua di Hunan, terkenal sebagai balok seribu liang.",
+    "oneLine": "Teh gelap Anhua, rumah teh perbatasan Ming–Qing dan terkenal dengan balok seribu liang-nya — dikeringkan dengan asap pinus untuk asap, kurma, dan herbal yang dalam.",
     "oxidation": "Fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "6 seduhan atau lebih",
@@ -2028,7 +2028,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-liubao": {
     "name": "Liu Bao",
-    "oneLine": "Teh gelap Guangxi, dituakan dalam keranjang bambu.",
+    "oneLine": "Liu Bao dari Guangxi, terdaftar di antara 24 teh terkenal Tiongkok pada masa Qing — dituakan dalam keranjang bambu untuk jamur, pinang, dan manis yang lembut.",
     "oxidation": "Fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml",
     "rounds": "6 seduhan atau lebih",
@@ -2042,7 +2042,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-cheongtaejeon": {
     "name": "Cheongtaejeon",
-    "oneLine": "Teh fermentasi berbentuk koin dari Jangheung — teh gelap Korea.",
+    "oneLine": "Cheongtaejeon, teh gelap Korea yang dihidupkan kembali di Jangheung dalam bentuk koin Joseon — dikukus, dipres, dan difermentasi untuk tanah hangat, herbal, dan kurma.",
     "oxidation": "Fermentasi lanjutan",
     "ratioNote": "Satu koin (5 g) untuk 200 ml",
     "rounds": "3 seduhan atau lebih",
@@ -2056,7 +2056,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-earlgrey": {
     "name": "Earl Grey",
-    "oneLine": "Teh hitam beraroma bergamot — namanya bukan merek dagang, melainkan 200 tahun perdagangan.",
+    "oneLine": "Teh hitam beraroma yang asli, terendam dalam legenda Earl Grey tahun 1830-an — bergamot Calabria mekar menjadi jeruk dan bunga.",
     "oxidation": "95%",
     "ratioNote": "1 bagian daun berbanding 60 air — 3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2070,7 +2070,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-ladygrey": {
     "name": "Lady Grey",
-    "oneLine": "Earl Grey dengan kulit lemon dan jeruk serta bunga — variasi yang lebih lembut.",
+    "oneLine": "Variasi Twinings yang lebih lembut, dinamai dari Countess Grey — bergamot bergabung dengan kulit lemon dan jeruk serta bunga, dengan manis ringan.",
     "oxidation": "95%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2084,7 +2084,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-englishbreakfast": {
     "name": "English Breakfast",
-    "oneLine": "Campuran pagi yang kuat dari Assam, Ceylon, dan Keemun.",
+    "oneLine": "Campuran kuat yang menetap di meja sarapan Inggris abad ke-19 — Assam, Ceylon, dan Keemun dalam malt, madu, dan buah kering, tahan terhadap susu.",
     "oxidation": "95%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2098,7 +2098,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-hongkong": {
     "name": "Hong Kong Blending",
-    "oneLine": "Racikan milk tea khas cha chaan teng Hong Kong dengan basis utama Ceylon.",
+    "oneLine": "Teh susu Inggris yang lahir kembali di cha chaan teng Hong Kong — seduhan kuat berbasis Ceylon dengan malt yang berani dan manis bulat dari susu evaporasi.",
     "oxidation": "95%",
     "ratioNote": "8 g untuk 200 ml; susu sesuai selera",
     "rounds": "Satu kali seduh",
@@ -2112,7 +2112,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-lapsang-unsmoked": {
     "name": "Zhengshan Xiaozhong (unsmoked)",
-    "oneLine": "Cabang tanpa asap — bunga dan buah kering tampak apa adanya.",
+    "oneLine": "Zhengshan Xiaozhong yang dikeringkan hanya di atas arang, tanpa asap pinus — buah kering, madu, dan bunga tampak jernih sebagai gantinya.",
     "oxidation": "sekitar 90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -2128,7 +2128,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-yingde": {
     "name": "Black Tea (Yingde)",
-    "oneLine": "Kekuatan daun besar Guangdong — gelap dan cerah.",
+    "oneLine": "Teh hitam Yingde yang dibangun di atas kekuatan daun besar Guangdong — malt, madu, dan buah merah dalam cairan teh gelap yang tetap hidup dengan susu.",
     "oxidation": "sekitar 95%",
     "ratioNote": "3 g untuk 200 ml; 5 g untuk 150 ml untuk teh susu",
     "rounds": "3 seduhan",
@@ -2144,7 +2144,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-rize": {
     "name": "Rize Cay",
-    "oneLine": "Teh pekat dalam gelas tulip kecil — cangkir sehari-hari Laut Hitam.",
+    "oneLine": "Teh sehari-hari Türkiye dari Rize di Laut Hitam — malt dan roti panggang diseduh pekat ke dalam gelas tulip kecil berisi cairan teh merah pekat.",
     "oxidation": "sekitar 95%",
     "ratioNote": "4 g untuk 150 ml",
     "rounds": "2 seduhan",
@@ -2160,7 +2160,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-cameron": {
     "name": "Black Tea (Cameron Highlands)",
-    "oneLine": "Teh kuat dan bulat dari perkebunan dataran tinggi khatulistiwa.",
+    "oneLine": "Teh hitam dari Cameron Highlands Malaysia, tempat satu perkebunan telah menanam teh sejak 1929 — malt dan panggangan dalam cairan teh gelap yang dibuat untuk susu.",
     "oxidation": "sekitar 95%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2176,7 +2176,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-rwanda": {
     "name": "Black Tea (Rwanda)",
-    "oneLine": "Teh hitam cerah dan bersih dari dataran tinggi Afrika Timur.",
+    "oneLine": "Teh hitam Rwanda yang tumbuh lambat di perbukitan berkabut pada 1.600 m — malt dengan tepian cerah dalam cairan teh merah pekat, lebih lembut daripada teh Kenya.",
     "oxidation": "sekitar 95%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2192,7 +2192,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-dooars": {
     "name": "Black Tea (Dooars)",
-    "oneLine": "Teh dataran kuat yang tumbuh di antara Darjeeling dan Assam.",
+    "oneLine": "Teh dataran kuat yang tumbuh di antara Darjeeling dan Assam — malt dan panggangan dengan cengkeraman yang cukup, dibuat untuk cangkir sarapan bersusu.",
     "oxidation": "sekitar 92%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2208,7 +2208,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-yeongdeok": {
     "name": "Black Tea (Yeongdeok)",
-    "oneLine": "Teh hitam Korea kecil dari perbukitan pesisir timur.",
+    "oneLine": "Teh hitam Korea dari pertanian kecil di perbukitan pesisir timur Yeongdeok, daun musim panas yang teroksidasi penuh — malt, nuansa bunga samar, dan manis yang lembut.",
     "oxidation": "sekitar 90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "3 seduhan",
@@ -2224,7 +2224,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-fuzhuan": {
     "name": "Fu Brick Tea",
-    "oneLine": "'Bunga emas' kuning di dalam bata — ciri khas teh bata Fu.",
+    "oneLine": "Teh bata dengan 'bunga emas' kuning yang mekar di dalamnya — jamur, tanah, dan biji-bijian di atas manis lembut yang bulat, semakin halus semakin banyak bunganya.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml; bilas sekali",
     "rounds": "8 seduhan",
@@ -2240,7 +2240,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-qianliang": {
     "name": "Qianliang Tea",
-    "oneLine": "Balok teh yang dipres dalam bambu, dipotong sesuai kebutuhan.",
+    "oneLine": "Balok panjang teh yang dipres dalam bambu, dinamai dari berat seribu liang lamanya — dipotong dan diseduh, ia memberi bambu, tanah, dan manis yang dalam, lebih lembut seiring usia.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml; bilas sekali",
     "rounds": "8 seduhan",
@@ -2256,7 +2256,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-kangzhuan": {
     "name": "Kangzhuan Tea",
-    "oneLine": "Bata pres Sichuan untuk Tibet — direbus dengan mentega dan garam di sana.",
+    "oneLine": "Bata pres keras Ya'an, yang dulu menuju Tibet — tanah dan biji-bijian dengan manis kuat yang sedikit kasar, yang dilembutkan mentega atau susu.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml; bilas sekali",
     "rounds": "7 seduhan",
@@ -2272,7 +2272,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-tibetan": {
     "name": "Tibetan Butter Tea",
-    "oneLine": "Teh bata pekat yang dikocok dengan mentega dan garam — keseharian Tibet.",
+    "oneLine": "Minuman sehari-hari Tibet, teh bata direbus pekat dan dikocok dengan mentega dan garam — kekayaan mentega dan tepian asin di atas tanah gelap, menghangatkan hingga ke dalam.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "8 g untuk 500 ml air; mentega dan garam sesuai selera",
     "rounds": "1 kali seduh, diminum sebagai konsentrat",
@@ -2288,7 +2288,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-laoqingzhuan": {
     "name": "Lao Qingzhuan",
-    "oneLine": "Teh gelap pres Hubei yang dulu berkelana ke Mongolia dan Rusia.",
+    "oneLine": "Teh bata hijau Hubei dari Zhaoliqiao, yang dulu diperdagangkan ke Mongolia dan Rusia — bata yang dituakan memberi tanah, biji-bijian, dan manis lembut yang tenang.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml; bilas sekali",
     "rounds": "7 seduhan",
@@ -2304,7 +2304,7 @@ window.TEAFaiDataId = (function () {
   },
   "dark-tianjian": {
     "name": "Tianjian Tea",
-    "oneLine": "Teh gelap Anhua kelas atas, dibiarkan lepas — bentuk daunnya tetap utuh.",
+    "oneLine": "Teh gelap kelas atas Anhua, dibiarkan lepas agar bentuk daunnya bertahan — asap dan tanah dengan manis seperti kurma, lebih ringan dan lebih segar daripada teh pres.",
     "oxidation": "fermentasi lanjutan",
     "ratioNote": "5 g untuk 150 ml; bilas sekali",
     "rounds": "8 seduhan",
@@ -2320,7 +2320,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-rose": {
     "name": "Rose Tea",
-    "oneLine": "Tunas mawar kering di atas teh hitam — lebih dalam dari bunganya saja.",
+    "oneLine": "Tunas mawar kering dicampurkan ke dalam teh hitam — parfum mawar dan manis madu, dengan malt teh yang berdiri teguh di belakangnya.",
     "oxidation": "sekitar 85% (basis teh hitam)",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -2336,7 +2336,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-lychee": {
     "name": "Lychee Black Tea",
-    "oneLine": "Leci di atas teh hitam — cangkir buah Guangdong.",
+    "oneLine": "Teh hitam buah Guangdong, diharumkan dengan leci — parfum manis buahnya di atas malt, tetap jernih bahkan saat dituang di atas es.",
     "oxidation": "sekitar 90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -2352,7 +2352,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-thaitea": {
     "name": "Cha Yen",
-    "oneLine": "Teh pekat, susu kental manis, dan es — gelas oranye Thailand.",
+    "oneLine": "Cangkir jalanan oranye Thailand, teh hitam remuk halus diseduh pekat dengan susu kental manis di atas es — malt yang dalam dan manis lembut seperti krim.",
     "oxidation": "sekitar 95%",
     "ratioNote": "5 g untuk 150 ml; susu kental manis dan gula sesuai selera",
     "rounds": "1 kali seduh",
@@ -2368,7 +2368,7 @@ window.TEAFaiDataId = (function () {
   },
   "blend-irish-breakfast": {
     "name": "Irish Breakfast",
-    "oneLine": "Berbasis Assam — yang terkuat di antara campuran sarapan.",
+    "oneLine": "Yang terkuat di antara campuran sarapan, berbobot ke arah Assam — malt dan warna yang dalam, berubah lembut seperti krim begitu susu masuk.",
     "oxidation": "sekitar 95%",
     "ratioNote": "4 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -2384,7 +2384,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-chuanhong": {
     "name": "Chuanhong",
-    "oneLine": "Teh hitam gongfu Sichuan dari Yibin — aroma mawar, rasa penuh, manis yang menyusul.",
+    "oneLine": "Teh hitam gongfu Sichuan dari Yibin, sejajar dengan Keemun dan Dianhong, dengan Jinya serba pucuk sebagai unggulannya — aroma mawar dan tubuh penuh, lalu manis yang bergulir.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 seduhan",
@@ -2416,7 +2416,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-jiuqu": {
     "name": "Jiuqu Hongmei",
-    "oneLine": "Teh hitam Hangzhou — manis mirip kakao dari keluarga daun yang sama dengan Longjing.",
+    "oneLine": "Wajah lain Hangzhou — daun keluarga Longjing yang dibuat menjadi teh hitam, dinamai dari bentuk plum merahnya — nada kakao, manis buah kering, dan bunga lembut.",
     "oxidation": "Sekitar 85%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 seduhan",
@@ -2432,7 +2432,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-mizhuan": {
     "name": "Mizhuan",
-    "oneLine": "Debu teh hitam Hubei yang dipres menjadi bata — teh sehari-hari yang disimpan bertahun-tahun.",
+    "oneLine": "Debu teh hitam Hubei yang dikukus dan dipres menjadi bata untuk disimpan bertahun-tahun — malt kuat dan gurih membumi yang juga cocok dengan susu atau garam.",
     "oxidation": "95%",
     "ratioNote": "5 g (dipecah dari bata) untuk 300 ml",
     "rounds": "1–2 seduhan",
@@ -2448,7 +2448,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-hongyun": {
     "name": "Hong Yun",
-    "oneLine": "TTES No.21 dari Danau Sun Moon — pomelo dan bunga, teh hitam manis-asam.",
+    "oneLine": "Teh hitam Danau Sun Moon dari Hong Yun (TTES No.21), persilangan assamica × Keemun — jeruk bali dan bunga dalam garis buah manis-asam yang berbeda dari Hong Yu.",
     "oxidation": "95%",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2464,7 +2464,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-ziya": {
     "name": "Ziya Shancha",
-    "oneLine": "Teh hitam dari tunas ungu teh gunung asli Taiwan — wajah Danau Sun Moon yang lebih langka.",
+    "oneLine": "Teh hitam Danau Sun Moon yang berharga dan berproduksi kecil dari pucuk ungu teh gunung asli Taiwan — madu liar, herba, dan buah kering, kasar dan panjang.",
     "oxidation": "Sekitar 90%",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "3 seduhan",
@@ -2480,7 +2480,7 @@ window.TEAFaiDataId = (function () {
   },
   "fruit-daechu": {
     "name": "Teh Kurma Merah (Daechu)",
-    "oneLine": "Jujube kering direbus manis — secangkir hangat untuk musim dingin.",
+    "oneLine": "Teh musim dingin Korea dari kurma kering yang direbus, terkenal dari Gyeongsan dan Boeun — manis kurma, nuansa gosong ringan, dan tubuh yang lembut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5–6 buah kurma merah atau 2 sendok cheong untuk 200 ml",
     "rounds": "Satu seduhan (cheong bisa ditambah air lagi)",
@@ -2493,7 +2493,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-ginger": {
     "name": "Teh Jahe",
-    "oneLine": "Jahe yang diawetkan dalam madu — secangkir yang menghangatkan seluruh tubuh.",
+    "oneLine": "Awam tradisional jahe iris tipis dalam madu, dari Korea dan Tiongkok — panas pedas yang bersih dibalut manis madu.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sendok cheong untuk 200 ml",
     "rounds": "Satu seduhan",
@@ -2506,7 +2506,7 @@ window.TEAFaiDataId = (function () {
   },
   "fruit-yuja": {
     "name": "Teh Yuja",
-    "oneLine": "Yuja yang diawetkan dalam madu — secangkir harum untuk musim dingin.",
+    "oneLine": "Teh musim dingin dari yuja akhir musim gugur dari Goheung dan Wando, diawetkan bersama kulitnya dalam madu — aroma kulit jeruk dan keasaman yang bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sendok cheong untuk 200 ml",
     "rounds": "Satu seduhan",
@@ -2519,7 +2519,7 @@ window.TEAFaiDataId = (function () {
   },
   "fruit-omija": {
     "name": "Teh Omija",
-    "oneLine": "Buah beri merah yang katanya menyimpan lima rasa — secangkir untuk musim panas.",
+    "oneLine": "Teh omija dari buah beri merah September dari Mungyeong dan Jeongseon — asam, manis, pahit, asin, dan pedas berlapis dalam satu cangkir.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sendok cheong untuk 200 ml; air dingin juga bisa",
     "rounds": "Satu seduhan",
@@ -2532,7 +2532,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-ssanghwa": {
     "name": "Teh Ssanghwa",
-    "oneLine": "Sembilan tanaman obat direbus — secangkir untuk saat lelah.",
+    "oneLine": "Rebusan tradisional Korea dari sembilan herbal, dari peony dan rehmannia hingga astragalus dan angelica — dalam, berat, pahit, dan manis sekaligus.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "Satu kemasan 200 ml, apa adanya",
     "rounds": "Satu seduhan",
@@ -2545,7 +2545,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-dunggulle": {
     "name": "Teh Akar Solomon (Dunggulle)",
-    "oneLine": "Akar Solomon sangrai — secangkir gurih kacang pengganti kopi.",
+    "oneLine": "Akar Solomon sangrai, digali pada musim gugur dan dikeringkan — gurih kacang biji-bijian panggang dan manis ringan sebagai pengganti kopi.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2558,7 +2558,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-buckwheat": {
     "name": "Teh Soba",
-    "oneLine": "Soba sangrai dengan rasa manis yang panjang.",
+    "oneLine": "Teh biji-bijian dari soba sangrai dari Korea dan Jepang — gurih kacang panggangan, pahit samar soba, dan manis yang panjang.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2571,7 +2571,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-barley": {
     "name": "Teh Jelai",
-    "oneLine": "Jelai sangrai yang direbus — teh yang diminum orang Korea seperti air.",
+    "oneLine": "Teh sehari-hari Korea, jelai tanpa kupas yang disangrai, direbus dan diminum seperti air — aroma biji-bijian panggangan dengan akhir yang bersih, sepanjang hari.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "20 g jelai sangrai untuk 1 L",
     "rounds": "Satu rebusan, diminum sepanjang hari",
@@ -2584,7 +2584,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-brownrice": {
     "name": "Teh Beras Cokelat",
-    "oneLine": "Beras cokelat sangrai yang direbus — nasi yang berubah menjadi teh.",
+    "oneLine": "Beras cokelat dengan dedaknya, disangrai dan direbus — nasi yang berubah menjadi teh, dengan aroma nasi gosong dan manis yang semakin dalam saat direbus.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "20 g beras sangrai untuk 1 L",
     "rounds": "Satu seduhan",
@@ -2597,7 +2597,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-persimmon": {
     "name": "Teh Daun Kesemek",
-    "oneLine": "Daun kesemek kering, kaya vitamin C.",
+    "oneLine": "Teh daun Korea dari daun kesemek awal musim panas, dikukus atau dikeringkan — rumput ringan dan rasa manis dengan sedikit sepat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2610,7 +2610,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mulberry": {
     "name": "Teh Daun Murbei",
-    "oneLine": "Daun murbei yang dikeringkan dan disangrai dengan manis yang lembut.",
+    "oneLine": "Teh daun dari daun murbei akhir musim semi, dikeringkan dan disangrai di Korea dan Tiongkok — gurih kacang daun sangrai dan manis ringan yang lembut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2623,7 +2623,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-lotus": {
     "name": "Teh Daun Teratai",
-    "oneLine": "Daun teratai kering — secangkir hijau musim panas.",
+    "oneLine": "Teh daun harum dari daun teratai musim panas yang dikeringkan — aroma hijau dan pahit samar dengan akhir yang menyejukkan dan bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2636,7 +2636,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-balloonflower": {
     "name": "Teh Akar Bunga Balon",
-    "oneLine": "Akar bunga balon kering, direbus — teh akar yang secara tradisional dicari saat tenggorokan terasa tidak nyaman.",
+    "oneLine": "Teh akar tradisional dari akar bunga balon musim gugur yang dikeringkan, direbus — pahit ringan, rasa manis, dan aroma dalam khas akarnya sendiri.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2649,7 +2649,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mugwort": {
     "name": "Teh Artemisia (Mugwort)",
-    "oneLine": "Mugwort musim semi yang dikeringkan — secangkir awal musim semi.",
+    "oneLine": "Cangkir musim semi: mugwort muda Maret–April, dikeringkan dan diseduh — aroma hijau dan pahit samar, harum saat diminum hangat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2662,7 +2662,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-tteokcha": {
     "name": "Tteokcha",
-    "oneLine": "Daun kukus yang ditekan menjadi kueh — teh yang disimpan bertahun-tahun.",
+    "oneLine": "Teh kue tradisional Korea dari daun kukus yang ditumbuk dan dipres — disimpan bertahun-tahun, dipecah dan direbus untuk herbal, kurma, dan tanah yang dalam.",
     "oxidation": "Fermentasi lanjutan ringan",
     "ratioNote": "Satu keping (5 g) untuk 300 ml",
     "rounds": "3 seduhan atau lebih",
@@ -2675,7 +2675,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-chamomile": {
     "name": "Teh Kamomil",
-    "oneLine": "Apel dan madu dalam sekuntum bunga — secangkir sebelum tidur.",
+    "oneLine": "Teh bunga dari kamomil kering dari Mesir, Jerman, dan tempat lain — apel, madu, dan jerami, lembut dan sedikit manis.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g (satu sendok teh bunga) untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2688,7 +2688,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-peppermint": {
     "name": "Teh Pepermin",
-    "oneLine": "Mint sejuk dalam teh herbal — untuk setelah makan.",
+    "oneLine": "Teh herbal dari daun mint kering dari Eropa dan Amerika — kesegaran mentol yang sejuk tanpa sepat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2701,7 +2701,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-hibiscus": {
     "name": "Teh Rosella",
-    "oneLine": "Rasa asam kelopak merah — teh terbaik untuk diminum dingin.",
+    "oneLine": "Teh merah dari kelopak rosella kering — keasaman beri yang tajam dan cairan teh merah pekat yang bersinar paling terang saat disajikan dingin.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1–2 seduhan",
@@ -2714,7 +2714,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-rooibos": {
     "name": "Teh Rooibos",
-    "oneLine": "Teh semak merah Afrika Selatan — bebas kafein, dan cocok dengan susu.",
+    "oneLine": "Semak merah Afrika Selatan dari Cederberg, daun jarumnya difermentasi — manis vanila, ara, dan madu yang juga cocok dengan susu.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2727,7 +2727,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mate": {
     "name": "Yerba Mate",
-    "oneLine": "Daun berkafein Amerika Selatan — diminum dari labu dengan sedotan logam.",
+    "oneLine": "Mate Amerika Selatan, dibagi dari labu melalui sedotan logam — rumput, jerami, dan asap ringan dengan akhir yang pahit.",
     "oxidation": "Tanpa oksidasi · mengandung kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2–3 seduhan",
@@ -2740,7 +2740,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-lavender": {
     "name": "Teh Lavender",
-    "oneLine": "Bunga ungu Provence — begitu harum sehingga sedikit saja cukup.",
+    "oneLine": "Teh bunga dari lavender ungu Provence, dikeringkan — begitu harum dengan lavender, madu, dan jeruk ringan sehingga sedikit saja cukup.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "1 g untuk 200 ml",
     "rounds": "Satu seduhan",
@@ -2753,7 +2753,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-lemongrass": {
     "name": "Teh Serai",
-    "oneLine": "Rumput beraroma lemon — Asia Tenggara dalam secangkir.",
+    "oneLine": "Teh rumput dari batang dan daun serai kering dari Thailand dan Vietnam — lemon dan jeruk di atas sentuhan jahe, menyegarkan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2766,7 +2766,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-chrysanthemum": {
     "name": "Teh Krisan",
-    "oneLine": "Krisan musim gugur yang dikeringkan — teh bunga yang harum.",
+    "oneLine": "Teh bunga musim gugur dari krisan kuning dari Hangzhou, Huangshan, dan Korea — nuansa herbal yang sejuk dengan manis ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g (3–4 kuntum) untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2779,7 +2779,7 @@ window.TEAFaiDataId = (function () {
   },
   "fruit-mogwa": {
     "name": "Teh Quince (Mogwa)",
-    "oneLine": "Quince yang diawetkan dalam madu — secangkir musim dingin untuk tenggorokan yang tidak nyaman.",
+    "oneLine": "Quince, yang dulu disebut 'keharuman yang lahir di pohon', diawetkan bersama bijinya dalam madu — manis bunga yang lembut diakhiri sepat samar.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sendok cheong untuk 200 ml",
     "rounds": "Satu seduhan",
@@ -2794,7 +2794,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cassia-seed": {
     "name": "Teh Biji Cassia (Gyeolmyeongja)",
-    "oneLine": "Manis biji sangrai — secangkir malam bebas kafein.",
+    "oneLine": "Cangkir malam bebas kafein dari biji cassia sangrai — panggangan biji-bijian panggang dan pahit samar, ditutup dengan sedikit rasa manis.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2810,7 +2810,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-burdock": {
     "name": "Teh Akar Burdock (Ueong)",
-    "oneLine": "Akar burdock sangrai — manis, membumi, bebas kafein.",
+    "oneLine": "Teh bebas kafein dari akar burdock, diiris, dikeringkan, dan disangrai — rasa tanah sangrai dan manis yang tenang dengan akhir pahit yang ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2826,7 +2826,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-gugija": {
     "name": "Teh Goji (Gugija)",
-    "oneLine": "Buah goji kering — manis pucat, secangkir kuning.",
+    "oneLine": "Buah goji kering dari sumber terkenal seperti Cheongyang dan Ningxia, diseduh begitu saja — manis ringan dan aroma buah kering dalam cairan teh kuning pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2842,7 +2842,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cornus": {
     "name": "Teh Buah Cornus (Sansuyu)",
-    "oneLine": "Buah merah yang tajam — biasanya dilembutkan dengan madu.",
+    "oneLine": "Teh dari buah cornus merah kering dari Gurye dan Sancheong — keasaman kuat dan sedikit pahit dalam cairan teh merah, dilembutkan dengan madu.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2858,7 +2858,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-dandelion": {
     "name": "Teh Dandelion (Mindulle)",
-    "oneLine": "Pahit dandelion musim semi — dan akar sangrai yang gurih.",
+    "oneLine": "Dandelion yang dikumpulkan di musim semi, daun dan akar dikeringkan untuk cangkir — daunnya pahit dan berumput, akar sangrainya gurih panggangan dengan manis ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2874,7 +2874,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cornsilk": {
     "name": "Teh Rambut Jagung",
-    "oneLine": "Kehangatan air rebusan jagung — secangkir musim panas.",
+    "oneLine": "Cangkir musim panas dari rambut jagung, dikeringkan dan disangrai — biji-bijian panggangan seperti air rebusan jagung, manis ringan, dan akhir yang bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2890,7 +2890,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-eggplant": {
     "name": "Teh Terung",
-    "oneLine": "Terung kering sangrai yang diseduh — gurih panggang dan ringan.",
+    "oneLine": "Teh sayuran rakyat dari terung musim panas yang diiris tipis, dikeringkan, dan disangrai untuk disimpan — aroma sangrai gurih dan rasa ringan dengan akhir bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2906,7 +2906,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-licorice": {
     "name": "Teh Akar Manis (Gamcho)",
-    "oneLine": "Akar manis direbus — manis tanpa gula sama sekali.",
+    "oneLine": "Akar manis, bahan utama resep herbal, direbus di rumah — sangat manis tanpa gula, manis alaminya dan rasa tanah samar berakhir lembut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -2922,7 +2922,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-hazel": {
     "name": "Teh Hazel (Gaeam)",
-    "oneLine": "Kacang hazel Korea sangrai yang diseduh — gurih kacang yang hangat.",
+    "oneLine": "Teh rakyat dari kacang hazel Korea hasil pencarian di alam yang disimpan dan disangrai untuk cangkir — aroma kacang panggang dan manis lembut dalam tubuh halus.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2938,7 +2938,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cinnamon-twig": {
     "name": "Teh Ranting Kayu Manis (Gyeji)",
-    "oneLine": "Ranting muda kayu manis direbus — secangkir kayu manis yang lebih ringan.",
+    "oneLine": "Ranting muda kayu manis direbus — secangkir lebih ringan daripada kulitnya, dengan aroma kayu manis lembut, manis halus, dan rasa menghangatkan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -2954,7 +2954,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cinnamon": {
     "name": "Teh Kayu Manis (Gyepi)",
-    "oneLine": "Kulit kayu manis yang diseduh — pedas, manis, dan menghangatkan.",
+    "oneLine": "Kulit kayu manis yang akrab dari sujeonggwa, direbus sendiri — aroma pedas-manis dalam tubuh hangat yang cukup penuh.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -2970,7 +2970,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sophora": {
     "name": "Teh Akar Sophora (Gosam)",
-    "oneLine": "Akar sophora direbus — teh herbal pahit tanpa kompromi.",
+    "oneLine": "Akar sophora, lama digunakan dalam pengobatan herbal dan direbus dalam jumlah kecil — secangkir pahit tanpa kompromi dengan nada tanah dan akhir kering.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -2986,7 +2986,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-agastache": {
     "name": "Teh Mint Korea (Agastache)",
-    "oneLine": "Daun mint Korea kering — teh herbal yang sangat aromatik.",
+    "oneLine": "Herba asli Korea yang daunnya beraroma di antara perilla dan mint, dikeringkan dan diseduh — aroma hidup, manis ringan, dan akhir menyejukkan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3002,7 +3002,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-tangerine-peel": {
     "name": "Teh Kulit Jeruk Keprok (Gyulpi)",
-    "oneLine": "Kulit jeruk keprok kering sangrai — cerah dan beraroma jeruk.",
+    "oneLine": "Teh rakyat dari kulit jeruk keprok musim dingin yang disimpan, dikeringkan, dan disangrai — aroma sitrus cerah dan manis ringan dalam akhir ringan yang bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3018,7 +3018,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-tangerine-blossom": {
     "name": "Teh Bunga Jeruk Keprok (Gyulhwa)",
-    "oneLine": "Bunga jeruk keprok kering — secangkir bunga yang cerah.",
+    "oneLine": "Bunga jeruk keprok musim semi, sangat sedikit hingga hanya dikeringkan dalam batch kecil — gema bunga cerah dari buahnya dengan manis ringan dan cairan jernih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3034,7 +3034,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-platycodon": {
     "name": "Teh Akar Platycodon (Gilgyeong)",
-    "oneLine": "Akar bunga balon (gilgyeong) direbus — pahit-manis dan membumi.",
+    "oneLine": "Akar bunga balon dengan nama obat gilgyeong, direbus — akar yang sama dengan teh doraji, dengan aroma akar pahit-manis dan akhir kering.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -3050,7 +3050,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-selfheal": {
     "name": "Teh Self-heal (Kkulpool)",
-    "oneLine": "Bulir bunga self-heal kering — teh bunga padang yang sederhana.",
+    "oneLine": "Teh padang rakyat dari bulir bunga self-heal, tanaman ladang musim panas umum yang dikeringkan untuk disimpan — aroma hijau-bunga sederhana, manis ringan, akhir bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3066,7 +3066,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-shepherdspurse": {
     "name": "Teh Naengi (Shepherd's Purse)",
-    "oneLine": "Shepherd's purse kering — teh hijau musim semi yang membumi.",
+    "oneLine": "Teh musim semi rakyat dari shepherd's purse sisa panci namul, dikeringkan dan disimpan — daun dan akarnya memberi aroma hijau, manis ringan, dan akhir sederhana.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3082,7 +3082,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-naengcha": {
     "name": "Teh Herbal Dingin (Naengcha)",
-    "oneLine": "Teh herbal direbus, didinginkan, dan disajikan dingin — cara musim panas.",
+    "oneLine": "Cara minum musim panas Korea — teh biji-bijian dan herbal direbus, didinginkan, dan disimpan dingin seperti air, rasa panggangnya terasa lebih bersih saat dingin.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 500 ml",
     "rounds": "1 batch, disajikan dingin",
@@ -3098,7 +3098,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-aged-cucumber": {
     "name": "Teh Mentimun Tua (Nogak)",
-    "oneLine": "Mentimun tua kering sangrai — teh musim panas yang sederhana.",
+    "oneLine": "Teh rakyat yang menyimpan mentimun musim panas terakhir yang menguning matang — nogak yang diiris, dikeringkan, dan disangrai menyeduh rasa panggang sederhana dengan manis ringan dan bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3114,7 +3114,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mungbean": {
     "name": "Teh Kacang Hijau (Nokdu)",
-    "oneLine": "Kacang hijau sangrai yang direbus — teh biji-bijian gurih yang sederhana.",
+    "oneLine": "Lahir dari meminum air rebusan kacang hijau — disangrai dan direbus, kacangnya memberi aroma panggang, manis ringan, dan akhir sederhana.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 500 ml",
     "rounds": "1 rebusan",
@@ -3130,7 +3130,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-kelp": {
     "name": "Teh Kelp (Dasima)",
-    "oneLine": "Kelp yang diseduh — teh laut gurih yang lembut.",
+    "oneLine": "Kelp kaldu itu sendiri, cukup diseduh dan diminum — kelp kering membuka menjadi umami lembut, aroma angin laut, dan sentuhan garam.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3146,7 +3146,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-angelica": {
     "name": "Teh Akar Angelica (Danggwi)",
-    "oneLine": "Akar angelica direbus — secangkir herbal yang dalam.",
+    "oneLine": "Angelica yang lama digunakan dalam pengobatan herbal, direbus di rumah dengan jujube — akar keringnya memberi aroma herbal pekat, manis lembut, dan tubuh hangat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -3162,7 +3162,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-carrot": {
     "name": "Teh Wortel (Danggeun)",
-    "oneLine": "Wortel kering sangrai — teh sayuran yang manis lembut.",
+    "oneLine": "Salah satu cara rakyat mengubah sayuran kering menjadi teh — wortel yang diiris, dikeringkan, dan disangrai meninggalkan manis lembut dan rasa tanah samar, bersih di akhir.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3178,7 +3178,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-bamboo": {
     "name": "Teh Daun Bambu (Jukyeop)",
-    "oneLine": "Daun bambu kering — teh daun sederhana yang menyejukkan.",
+    "oneLine": "Teh jukyeop, diminum di daerah bambu seperti Damyang tempat daunnya dikeringkan — aroma hijau sederhana, manis ringan, dan akhir menyejukkan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3194,7 +3194,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-green-onion": {
     "name": "Teh Daun Bawang (Daepa)",
-    "oneLine": "Bagian putih dan akar daun bawang Korea direbus — teh tradisional yang menghangatkan.",
+    "oneLine": "Rebusan rumahan yang lama dibuat saat rasa dingin datang — bagian putih dan akar daun bawang memberi aroma bawang lembut, manis ringan, dan akhir menghangatkan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -3210,7 +3210,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-deodeok": {
     "name": "Teh Akar Deodeok",
-    "oneLine": "Akar deodeok direbus — pahit-manis dan gurih panggang.",
+    "oneLine": "Akar deodeok gunung, dikeringkan dan disimpan untuk direbus — aroma pahit-manis seperti akar bunga balon, berlapis manis panggang dan tubuh hangat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 rebusan",
@@ -3226,7 +3226,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-peachblossom": {
     "name": "Teh Bunga Persik",
-    "oneLine": "Bunga persik kering diseduh merah muda pucat — teh bunga musim semi.",
+    "oneLine": "Bunga persik musim semi dikeringkan untuk diminum sepanjang tahun — bunga yang dikeringkan di tempat teduh mekar menjadi aroma bunga lembut, manis ringan, dan cairan merah muda pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3242,7 +3242,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-camellia": {
     "name": "Teh Bunga Kamelia",
-    "oneLine": "Bunga kamelia musim dingin, dikeringkan dan diseduh.",
+    "oneLine": "Kamelia musim dingin dari Jeju dan pantai selatan, dikeringkan untuk teh — bunga yang dikeringkan di tempat teduh memberi aroma bunga lembut, manis ringan, dan cairan kuning pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3258,7 +3258,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-waxgourd": {
     "name": "Teh Kundur (Donga)",
-    "oneLine": "Kundur yang direndam dalam madu atau gula dan direbus perlahan — teh tradisional yang kaya dan manis.",
+    "oneLine": "Teh musim panas tradisional dari kundur yang direndam dalam madu atau gula dan direbus perlahan — manis pekat dan aroma lembut melon dalam cairan cokelat muda.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "20 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3274,7 +3274,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-jerusalemartichoke": {
     "name": "Teh Artichoke Yerusalem (Dwaeji-gamja)",
-    "oneLine": "Artichoke Yerusalem sangrai — gurih panggang, agak manis.",
+    "oneLine": "Teh umbi musim gugur yang semakin panggang semakin dalam sangrainya, mudah diminum seperti air — diiris, dikeringkan, dan disangrai, meninggalkan aroma panggang, manis ringan, dan akhir bersih.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3290,7 +3290,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-eucommia": {
     "name": "Teh Kulit Eucommia (Duzhong)",
-    "oneLine": "Kulit eucommia direbus perlahan — berat dan bertepi pahit.",
+    "oneLine": "Teh dari pohon eucommia, yang kulit kupasnya meregang menjadi benang karet — dipotong dan direbus perlahan, rasanya bertepi pahit dan berbobot, dengan aroma kayu yang tenang.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3306,7 +3306,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-duhyang": {
     "name": "Teh Duhyang",
-    "oneLine": "Daun duhyang yang sangat harum, dikeringkan dan diseduh.",
+    "oneLine": "Teh herba gunung yang sangat harum hingga sedikit saja cukup — daun duhyang yang dikeringkan di tempat teduh menyebarkan aroma hijau pekat dengan akhir bertepi pahit.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3322,7 +3322,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-perilla": {
     "name": "Teh Biji Perilla (Deulkkae)",
-    "oneLine": "Biji perilla sangrai, digiling dan direbus — gurih kacang yang dalam.",
+    "oneLine": "Biji perilla musim gugur disangrai, digiling, dan direbus — biji sangrainya menyeduh aroma kacang pekat seperti wijen, lembut dan penuh di mulut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "1 seduhan",
@@ -3338,7 +3338,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-strawberry": {
     "name": "Teh Stroberi",
-    "oneLine": "Stroberi kering diseduh manis-asam.",
+    "oneLine": "Stroberi musimnya dikeringkan untuk dinikmati sepanjang tahun — diiris tipis dan dikeringkan, membuka aroma manis-asam dan cairan merah muda pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3354,7 +3354,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-peanut": {
     "name": "Teh Kacang Tanah",
-    "oneLine": "Kacang tanah sangrai direbus — gurih dan mengenyangkan.",
+    "oneLine": "Cukup kaya dan gurih kacang untuk menggantikan sarapan — kacang tanah musim gugur yang disangrai, digiling, dan direbus memenuhi cangkir dengan aroma kacang, lembut dan penuh.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "1 seduhan",
@@ -3370,7 +3370,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-lemon": {
     "name": "Teh Lemon",
-    "oneLine": "Cheong lemon diaduk ke dalam air hangat — cerah dan manis.",
+    "oneLine": "Teh rumah dan kafe dari cheong lemon yang diaduk ke dalam air — lemon yang direndam gula memberi aroma lemon cerah dan manis dalam cairan kuning pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "20 g cheong untuk 200 ml",
     "rounds": "1 seduhan",
@@ -3386,7 +3386,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-garlic": {
     "name": "Teh Bawang Putih",
-    "oneLine": "Bawang putih sangrai direbus perlahan — rasa tajamnya melunak.",
+    "oneLine": "Bawang putih yang berubah oleh sangrai, gigitan tajamnya memudar saat manisnya naik — disangrai dan direbus perlahan, menghadirkan manis sangrai dan melunakkan tepi mentahnya.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3402,7 +3402,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-watercaltrop": {
     "name": "Teh Mareum (Water Caltrop)",
-    "oneLine": "Buah caltrop air kering direbus perlahan — ringan dan sederhana.",
+    "oneLine": "Teh tradisional dari caltrop air yang tumbuh di kolam, dikumpulkan musim gugur dan dikeringkan — direbus perlahan, buahnya memberi manis sederhana dan ringan serta akhir lembut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3418,7 +3418,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-maesil": {
     "name": "Teh Maesil (Plum Hijau)",
-    "oneLine": "Cheong maesil diaduk ke dalam air — manis-asam, klasik Korea.",
+    "oneLine": "Klasik Korea dari cheong plum hijau awal musim panas yang diaduk ke dalam air — nada asam di awal mengalir ke akhir manis, dalam cairan emas pucat.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "20 g cheong untuk 200 ml",
     "rounds": "1 seduhan",
@@ -3434,7 +3434,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-plumblossom": {
     "name": "Teh Bunga Plum (Maehwa)",
-    "oneLine": "Bunga plum awal musim semi yang dikeringkan — teh bunga beraroma jernih.",
+    "oneLine": "Bunga plum, singkat di awal musim semi dan dihargai karena aromanya yang jernih — kuncup yang dikeringkan di tempat teduh membuka aroma bunga yang tenang dan manis ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3450,7 +3450,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-butterbur": {
     "name": "Teh Butterbur (Meowi)",
-    "oneLine": "Daun butterbur dikeringkan dan disangrai di wajan — bertepi pahit dan gurih panggang.",
+    "oneLine": "Butterbur musim semi dikeringkan untuk sepanjang tahun — daun yang dikeringkan dan disangrai di wajan menyebarkan aroma hijau pahit dengan akhir panggang.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3466,7 +3466,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-magnolia": {
     "name": "Teh Magnolia (Sini)",
-    "oneLine": "Kuncup magnolia kering — teh bunga beraroma jernih dan sejuk.",
+    "oneLine": "Kuncup magnolia, disebut sini dan digunakan selama berabad-abad — dipetik sebelum membuka dan dikeringkan di tempat teduh, memberi aroma bunga jernih dan sejuk serta manis ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3482,7 +3482,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-costus": {
     "name": "Teh Akar Costus (Mokhyang)",
-    "oneLine": "Akar costus direbus perlahan — beraroma dalam dan bertepi pahit.",
+    "oneLine": "Costus, herba kuat yang aromanya pekat dalam jumlah kecil — akarnya, dipotong kecil dan direbus perlahan, memberi aroma kayu pekat dan tepi pahit.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3498,7 +3498,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-radishleaf": {
     "name": "Teh Daun Lobak (Siraegi)",
-    "oneLine": "Daun lobak kering — gurih panggang dan sederhana.",
+    "oneLine": "Daun lobak siraegi, dikeringkan untuk teh maupun panci — daun kering menyeduh aroma hijau panggang dan rasa sederhana dan ringan.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3514,7 +3514,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-bangpung": {
     "name": "Teh Bangpung",
-    "oneLine": "Akar bangpung direbus perlahan — teh herbal yang tenang dan membumi.",
+    "oneLine": "Teh dari akar bangpung, dari tanaman yang daunnya dimakan sebagai sayuran — dipotong dan direbus perlahan, memberi aroma tanah yang tenang, manis ringan, dan akhir lembut.",
     "oxidation": "Tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3530,7 +3530,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mushroom": {
     "name": "Teh Jamur",
-    "oneLine": "Jamur kering direbus perlahan — secangkir rasa gurih umami.",
+    "oneLine": "Jamur kering, umaminya diperdalam hingga cangkirnya terasa hampir seperti kaldu ringan — shiitake dan kerabatnya yang direbus perlahan memberi gurih pekat dan aroma jamur yang tenang.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3546,7 +3546,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cherryblossom": {
     "name": "Teh Bunga Sakura",
-    "oneLine": "Bunga sakura yang dikeringkan atau diasinkan — musim semi dalam secangkir teh.",
+    "oneLine": "Teh bunga musim semi di mana bunga yang membuka di atas air adalah separuh kenikmatannya — dikeringkan atau diasinkan, memberi aroma bunga lembut dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3562,7 +3562,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-poria": {
     "name": "Teh Poria",
-    "oneLine": "Poria direbus perlahan — polos, lembut, dan hampir tanpa aroma.",
+    "oneLine": "Poria dari samping akar pinus, sangat sederhana hingga mudah berpadu dengan herba lain — dipotong dan direbus perlahan, rasanya ringan dan lembut, hampir tanpa aroma sendiri.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 300 ml",
     "rounds": "1 seduhan",
@@ -3578,7 +3578,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-peach": {
     "name": "Teh Persik",
-    "oneLine": "Irisan persik kering diseduh manis dan beraroma buah.",
+    "oneLine": "Persik musim panas dikeringkan untuk diminum sepanjang tahun — lebih lembut aromanya daripada buah segar, manis dan tepi asam ringannya terjaga dalam cairan emas pucat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3594,7 +3594,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-beet": {
     "name": "Teh Bit Merah",
-    "oneLine": "Irisan bit kering — beraroma tanah, manis, merah pekat.",
+    "oneLine": "Teh sayuran merah yang menyebar sebagai seduhan rumahan setelah bit banyak ditanam di Korea — diiris tipis dan dikeringkan, memberi manis membumi dan cairan merah rubi.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3610,7 +3610,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-loquat": {
     "name": "Teh Daun Biwa",
-    "oneLine": "Daun biwa kering — ringan, halus, dan bersahaja.",
+    "oneLine": "Teh daun dari pantai selatan yang langkah kuncinya adalah menghilangkan bulu halus di belakang daun — daun biwa kering tebal memberi nada herbal tenang, manis ringan, dan cairan jernih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3626,7 +3626,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-apple": {
     "name": "Teh Apel",
-    "oneLine": "Irisan apel kering — manis, asam, dan harum.",
+    "oneLine": "Apel musim gugur dikeringkan dan disimpan untuk minuman musim dingin — diiris tipis dengan kulitnya, memberi buah manis-asam dan aroma lembut dalam cairan emas pucat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3642,7 +3642,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-yam": {
     "name": "Teh Uwi Cina",
-    "oneLine": "Irisan uwi kering direbus — ringan dan halus.",
+    "oneLine": "Uwi Cina, lama menjadi makanan sekaligus bahan herbal — dan bukan matcha — diiris, dikeringkan, dan direbus untuk aroma akar yang tenang dan manis berpati samar.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3658,7 +3658,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mulberry-twig": {
     "name": "Teh Ranting Murbei",
-    "oneLine": "Ranting murbei muda direbus — tenang dan beraroma kayu.",
+    "oneLine": "Setiap bagian murbei punya nama dan kegunaannya sendiri, dan ranting sangji adalah salah satunya — bagian berbeda dari daunnya, dipotong, dikeringkan, dan direbus untuk aroma kayu ringan dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3674,7 +3674,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cuscuta": {
     "name": "Teh Biji Tali Putri",
-    "oneLine": "Biji tali putri direbus — gurih kacang dan ringan.",
+    "oneLine": "Biji tali putri, tanaman merambat yang melilit tanaman lain, lama tercatat sebagai tosaja — kecil dan keras, cocok direbus, memberi aroma biji gurih kacang dan rasa ringan sederhana.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3690,7 +3690,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pomegranate": {
     "name": "Teh Delima",
-    "oneLine": "Delima kering — manis-asam dan merah rubi.",
+    "oneLine": "Buah dan kulit delima, pohon taman selatan yang akrab, dikeringkan untuk teh — diseduh, rasa manis-asamnya menyeduh menjadi cairan merah rubi.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3706,7 +3706,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-seolcha": {
     "name": "Seolcha (Teh Salju)",
-    "oneLine": "Lumut kerak gunung kering — pucat, halus, dan tenang.",
+    "oneLine": "Seolcha, dinamai dari pertumbuhannya yang pucat seperti salju dan dikumpulkan hanya dalam jumlah kecil di tempat berudara bersih — usnea gunung tinggi kering memberi nada herbal sangat ringan dan cairan hampir jernih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3722,7 +3722,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sotae": {
     "name": "Teh Sotae",
-    "oneLine": "Terkenal pahit — teh di balik pepatah 'pahit seperti sotae'.",
+    "oneLine": "Teh rakyat di balik pepatah 'pahit seperti sotae' — buah dan daun kering memberi pahit kuat dengan ekor manis samar, dalam cairan cokelat pekat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3738,7 +3738,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sokdan": {
     "name": "Teh Sokdan",
-    "oneLine": "Akar sokdan direbus — beraroma tanah dengan manis ringan.",
+    "oneLine": "Rebusan rakyat dari akar sokdan, lama tercatat dalam teks herbal — diiris, dikeringkan, dan direbus perlahan, memberi aroma akar membumi, manis ringan, dan ekor agak pahit.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3754,7 +3754,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pineneedle": {
     "name": "Teh Daun Pinus",
-    "oneLine": "Daun pinus muda — segar, beraroma getah, menyegarkan.",
+    "oneLine": "Teh daun pinus, di mana mengeluarkan getahnya menentukan rasa — jarum muda yang disiapkan dan dikeringkan memberi aroma pinus segar dan rasa bersih dalam cairan emas pucat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3770,7 +3770,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pinepollen": {
     "name": "Teh Serbuk Sari Pinus",
-    "oneLine": "Serbuk sari pinus diaduk ke air hangat — lembut dan keemasan.",
+    "oneLine": "Serbuk sari pinus yang dikumpulkan hanya di musim semi, dulu digunakan dalam manisan maupun minuman madu — diaduk ke dalam air bukan diseduh, memberi aroma pinus lembut, manis halus, dan cairan kuning.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "1 seduhan",
@@ -3786,7 +3786,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-watermelon": {
     "name": "Teh Kulit Semangka",
-    "oneLine": "Kulit semangka kering — bersih, manis samar, secangkir musim panas.",
+    "oneLine": "Teh musim panas yang lahir dari memanfaatkan seluruh melon, paling sering diminum dingin — kulit putih kering memberi manis bersih sangat ringan dan cairan hampir jernih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3802,7 +3802,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sorghum": {
     "name": "Teh Sorgum",
-    "oneLine": "Biji sorgum sangrai — gurih panggang seperti teh jelai.",
+    "oneLine": "Sorgum, biji-bijian yang dipakai untuk kue beras, makanan, dan minuman, disangrai dan diseduh — bijinya memberi rasa panggang seperti teh jelai dan manis ringan dalam cairan cokelat kemerahan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3818,7 +3818,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-bupleurum": {
     "name": "Teh Akar Bupleurum",
-    "oneLine": "Akar bupleurum direbus — beraroma tanah dan pahit.",
+    "oneLine": "Rebusan rakyat dari akar bupleurum, lama tercatat dalam teks herbal — diiris, dikeringkan, dan direbus perlahan, menyebarkan aroma akar membumi dengan pahit yang jernih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3834,7 +3834,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mallow": {
     "name": "Teh Mallow",
-    "oneLine": "Daun mallow kering — halus, lembut, ringan.",
+    "oneLine": "Mallow, sayuran sup yang akrab, dijadikan teh — daun muda dari setiap kebun dapur, dikeringkan dan diseduh, memberi nada herbal lembut, manis ringan, dan tekstur agak halus licin.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3850,7 +3850,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cherry": {
     "name": "Teh Ceri Nanking",
-    "oneLine": "Ceri Korea kering — manis-asam dan kemerahan.",
+    "oneLine": "Teh buah dari aengdu, dulu pohon pekarangan yang akrab, dikeringkan untuk diminum — diseduh, buahnya memberi rasa manis-asam dalam cairan merah pucat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3866,7 +3866,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-onion": {
     "name": "Teh Kulit Bawang",
-    "oneLine": "Kulit bawang kering — aroma bawang lembut, warna kuning keemasan.",
+    "oneLine": "Teh rumah hemat yang dibuat hanya dari kulit bawang kering, bukan dagingnya — cairan ambar dengan aroma bawang lembut dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3882,7 +3882,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-bittermelon": {
     "name": "Teh Pare",
-    "oneLine": "Pare kering — pahit yang bersih dan tegas.",
+    "oneLine": "Pare musim panas dari selatan dan Jeju, diiris tipis dan dikeringkan — pahit jernih dengan ekor panggang, melunak saat disangrai.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3898,7 +3898,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-lotusroot": {
     "name": "Teh Akar Teratai",
-    "oneLine": "Irisan akar teratai sangrai — panggang dan menenangkan.",
+    "oneLine": "Bukan daunnya melainkan akarnya — akar teratai diiris, dikeringkan, disangrai, dan direbus, dengan aroma panggang dan manis berpati samar.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3914,7 +3914,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-reishi": {
     "name": "Teh Jamur Reishi",
-    "oneLine": "Rebusan jamur reishi dengan rasa pahit yang khas.",
+    "oneLine": "Reishi, lama dihargai sebagai herba umur panjang, diiris tipis dan direbus perlahan — cairan cokelat pekat, pahit kuat, dan nada kayu membumi.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 500 ml",
     "rounds": "2 rebusan",
@@ -3930,7 +3930,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-mulberry-fruit": {
     "name": "Teh Buah Murbei",
-    "oneLine": "Buah murbei kering diseduh manis dan ungu.",
+    "oneLine": "Murbei yang matang menghitam di awal musim panas, dikeringkan dan diseduh — teh buah yang berbeda dari daun murbei, manis dan agak asam dalam ungu pucat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3946,7 +3946,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-cucumber": {
     "name": "Teh Mentimun",
-    "oneLine": "Mentimun kering diseduh ringan dan menyejukkan.",
+    "oneLine": "Mentimun musim panas diiris tipis dan dikeringkan, aromanya tetap terjaga bahkan dalam air panas — cairan hijau pucat jernih, aroma hijau sejuk, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3962,7 +3962,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-corn": {
     "name": "Teh Jagung Sangrai",
-    "oneLine": "Biji jagung sangrai diseduh panggang seperti popcorn.",
+    "oneLine": "Biji, bukan rambutnya — jagung sangrai direbus perlahan untuk cangkir lebih pekat, cairan keemasan dengan biji panggang seperti popcorn dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3978,7 +3978,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-wasong": {
     "name": "Wasong (Teh Pinus Batu)",
-    "oneLine": "Wasong kering diseduh ringan dan agak asam.",
+    "oneLine": "Wasong, sukulen mirip pinus di genteng dan batu, dikeringkan dan diseduh — cairan jernih dengan asam ringan dan aroma hijau.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -3994,7 +3994,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-achyranthes": {
     "name": "Teh Akar Achyranthes",
-    "oneLine": "Rebusan akar achyranthes — beraroma tanah dan pekat.",
+    "oneLine": "Akar achyranthes, dinamai useul karena ruasnya seperti lutut sapi, direbus — cairan cokelat pekat, rasa panggang membumi, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 rebusan",
@@ -4010,7 +4010,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-turmeric": {
     "name": "Teh Kunyit",
-    "oneLine": "Teh kunyit dengan warna keemasan dan gigitan rasa tanah.",
+    "oneLine": "Kunyit dari Jindo yang terkenal, tanaman yang mewarnai kari menjadi kuning — cairan kuning pekat dengan aroma tanah dan akhir pedas lada.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4026,7 +4026,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-polygala": {
     "name": "Teh Akar Polygala",
-    "oneLine": "Rebusan akar polygala — pahit-manis dan panggang.",
+    "oneLine": "Akar polygala, dibuang intinya dan dikeringkan dari akar herbal ramping, direbus — cairan cokelat pucat, rasa pahit di awal dan akhir panggang.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 rebusan",
@@ -4042,7 +4042,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-coix": {
     "name": "Teh Jali (Job's Tears)",
-    "oneLine": "Jali sangrai — gurih kacang, kental, dan mengenyangkan.",
+    "oneLine": "Jali sangrai, terkenal sebagai teh yulmu mesin penjual otomatis dan mengenyangkan sebagai biji-bijian — aroma gurih kacang dan manis ringan dalam cangkir kental.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4058,7 +4058,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-akebia": {
     "name": "Teh Akebia",
-    "oneLine": "Tanaman merambat akebia kering diseduh ringan dan agak manis.",
+    "oneLine": "Batang dan buah tanaman merambat akebia, terkenal karena buah musim gugurnya yang terbelah membuka, dikeringkan — cairan jernih dengan manis ringan dan aroma hijau.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4074,7 +4074,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-ginkgo": {
     "name": "Teh Daun Ginkgo",
-    "oneLine": "Daun ginkgo kering yang disangrai di wajan — teh daun pahit-manis.",
+    "oneLine": "Bukan bijinya melainkan daunnya — daun ginkgo yang menguning musim gugur dikeringkan dan disangrai di wajan, cairan kuning pucat dengan aroma hijau ringan dan akhir pahit-manis.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4090,7 +4090,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-honeysuckle": {
     "name": "Teh Honeysuckle",
-    "oneLine": "Kuncup honeysuckle diseduh lembut dan beraroma bunga.",
+    "oneLine": "Honeysuckle, tanaman merambat 'tahan musim dingin' yang kuncupnya menjadi herba geumeunhwa — cairan jernih dengan aroma bunga lembut dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4106,7 +4106,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-ginseng": {
     "name": "Teh Ginseng",
-    "oneLine": "Ginseng direbus — pahit-manis dan beraroma tanah.",
+    "oneLine": "Ginseng dari Geumsan dan Punggi, diiris tipis, dikeringkan, dan direbus — cairan ambar pucat dengan rasa pahit-manis dan kedalaman membumi.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4122,7 +4122,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-safflower": {
     "name": "Teh Kesumba (Safflower)",
-    "oneLine": "Kelopak kesumba diseduh hingga bercahaya oranye.",
+    "oneLine": "Kelopak kesumba, dari bunga yang lama digunakan sebagai pewarna merah dan bahan herbal, dikeringkan dan diseduh — kuning berubah menjadi oranye, berbunga ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4138,7 +4138,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-plum": {
     "name": "Teh Plum",
-    "oneLine": "Sirup plum dalam air — teh buah musim panas yang manis-asam.",
+    "oneLine": "Plum musim panas diawetkan dalam gula pada puncaknya dan dinikmati sepanjang tahun — cairan kemerahan dengan aroma plum segar manis-asam.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sdm sirup untuk 200 ml",
     "rounds": "1 sajian",
@@ -4154,7 +4154,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-grapefruit": {
     "name": "Teh Grapefruit",
-    "oneLine": "Sirup grapefruit dalam air — segar sitrus dengan sentuhan pahit.",
+    "oneLine": "Metode yuja-cheong diterapkan pada grapefruit di kafe-kafe Korea — cairan merah muda pucat, asam cerah, dan akhir yang khas pahit.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 sdm sirup untuk 200 ml",
     "rounds": "1 sajian",
@@ -4170,7 +4170,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-purple-corn": {
     "name": "Teh Jagung Ungu",
-    "oneLine": "Jagung ungu direbus perlahan hingga ungu pekat — secangkir dari Andes.",
+    "oneLine": "Jagung ungu dari Andes Peru, dikeringkan dan direbus perlahan — cairan ungu pekat dengan manis ringan, nada beri, dan biji panggang.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4186,7 +4186,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-purple-perilla": {
     "name": "Teh Daun Perilla",
-    "oneLine": "Daun perilla diseduh aromatik dan bernuansa ungu.",
+    "oneLine": "Perilla ungu, kerabat perilla Korea dari keluarga mint dengan daun berbalik ungu, dikeringkan dan diseduh — cairan bernuansa ungu, aroma khas, manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4202,7 +4202,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-swordbean": {
     "name": "Teh Kacang Pedang",
-    "oneLine": "Kacang pedang sangrai diseduh jernih dan gurih kacang.",
+    "oneLine": "Kacang pedang dari polong panjang mirip pisau, diiris, disangrai, dan diseduh — cairan jernih dengan aroma kacang gurih dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4218,7 +4218,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-peony": {
     "name": "Teh Peony",
-    "oneLine": "Kelopak peony diseduh lembut dan elegan.",
+    "oneLine": "Peony, akarnya bahan herbal lama dan bunganya yang mewah menjadi teh bunga — kelopak membuka dalam cairan jernih, aroma bunga lembut dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4234,7 +4234,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-adenophora": {
     "name": "Teh Akar Adenophora",
-    "oneLine": "Rebusan akar adenophora — manis panggang seperti bunga balon.",
+    "oneLine": "Akar adenophora, disebut 'ginseng pasir' dan kerabat bunga balon, direbus — cairan cokelat pucat dengan manis panggang dan aroma tanah.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 rebusan",
@@ -4250,7 +4250,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-bamboo-shoot": {
     "name": "Teh Rebung",
-    "oneLine": "Rebung kering disangrai — polos dan panggang.",
+    "oneLine": "Rebung musim semi dari Damyang, diiris, dikeringkan, dan disangrai — cairan jernih dengan aroma hijau sederhana dan kedalaman panggang yang tenang.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4266,7 +4266,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-rehmannia": {
     "name": "Teh Rehmannia",
-    "oneLine": "Rebusan rehmannia — akar yang dikukus berubah manis pekat.",
+    "oneLine": "Rehmannia direbus — sebagai sukjihwang, dikukus dan dikeringkan sembilan kali hingga hitam, berubah sangat manis dan berbobot; mentah, pahit dan menyejukkan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 rebusan",
@@ -4282,7 +4282,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sesame": {
     "name": "Teh Wijen",
-    "oneLine": "Wijen sangrai yang digiling — secangkir kaya dan gurih kacang.",
+    "oneLine": "Wijen disangrai dan digiling halus, diaduk ke dalam air panas — gurih kacang sangrai pekat, tubuh berminyak lembut, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4298,7 +4298,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-orientalmelon": {
     "name": "Teh Melon Oriental",
-    "oneLine": "Melon Korea kering diseduh ringan dan manis — secangkir musim panas.",
+    "oneLine": "Melon oriental musim panas diiris tipis dan dikeringkan, enak juga dingin — manis dan aroma melon lembut dengan akhir bersih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4314,7 +4314,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-calamus": {
     "name": "Teh Jeringau (Sweet Flag)",
-    "oneLine": "Jeringau direbus — aroma festival Dano.",
+    "oneLine": "Akar dan daun jeringau direbus, teh dari kebiasaan air jeringau festival Dano — aroma hijau sejuk, sedikit rempah, akhir bersih.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4330,7 +4330,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-greentangerine": {
     "name": "Teh Jeruk Hijau",
-    "oneLine": "Jeruk Jeju yang belum matang dalam sirup — secangkir sitrus yang tajam.",
+    "oneLine": "Jeruk hijau Jeju yang belum matang digula menjadi awetan, lebih tajam daripada teh jeruk matang — asam cerah dan aroma kulit, lalu manis.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2–3 sdm awetan untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4346,7 +4346,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-gardenia": {
     "name": "Teh Buah Kacapiring",
-    "oneLine": "Buah kacapiring direbus — secangkir kuning dengan pahit lembut.",
+    "oneLine": "Buah kacapiring, yang sama yang mewarnai acar lobak menjadi kuning, dikeringkan dan direbus — cairan kuning jernih, pahit ringan, dan nada tanah.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4362,7 +4362,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-chicory": {
     "name": "Teh Akar Cikori",
-    "oneLine": "Akar cikori sangrai — secangkir mirip kopi, bebas kafein.",
+    "oneLine": "Akar cikori sangrai, lama diminum di Prancis dan Eropa sebagai pengganti kopi — pahit sangrai, rasa tanah, dan akhir mirip kopi.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4378,7 +4378,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-trifoliateorange": {
     "name": "Teh Jeruk Trifoliate",
-    "oneLine": "Jeruk trifoliate awetan — asam dulu, pahit kemudian.",
+    "oneLine": "Jeruk trifoliate dari pohon pagar berduri, terlalu asam segar sehingga diawetkan — teh musim dingin, sangat asam lalu pahit dengan aroma kulit sitrus.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2–3 sdm awetan untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4394,7 +4394,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-taro": {
     "name": "Teh Talas",
-    "oneLine": "Talas kering direbus — teh akar yang lembut dan berpati.",
+    "oneLine": "Talas, bahan pokok musim gugur, diiris, dikeringkan, dan direbus — tubuh berpati lembut, gurih kacang halus, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4410,7 +4410,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pineapple": {
     "name": "Teh Nanas",
-    "oneLine": "Nanas awetan — secangkir tropis yang manis pekat.",
+    "oneLine": "Nanas digula menjadi awetan untuk air panas, enak juga dingin sebagai ade — manis pekat dan aroma nanas dengan tepi asam.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2–3 sdm awetan untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4426,7 +4426,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-redbean": {
     "name": "Teh Kacang Merah",
-    "oneLine": "Kacang azuki sangrai — teh biji yang polos dan gurih kacang.",
+    "oneLine": "Kacang azuki sangrai diseduh sebagai teh biji-bijian, lebih pekat dan gelap saat direbus — gurih kacang sangrai, tubuh sederhana, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4442,7 +4442,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-grape": {
     "name": "Teh Anggur",
-    "oneLine": "Anggur awetan — teh buah yang manis dan harum.",
+    "oneLine": "Anggur digula menjadi awetan, kulitnya memperdalam warna — manis dan aroma anggur dengan asam ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2–3 sdm awetan untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4458,7 +4458,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-hallabong": {
     "name": "Teh Hallabong",
-    "oneLine": "Hallabong Jeju awetan — teh musim dingin sitrus yang pekat.",
+    "oneLine": "Hallabong Jeju, dinamai dari Gunung Halla, digula menjadi awetan — teh musim dingin lebih pekat daripada teh jeruk keprok, dengan aroma sitrus kaya dan manis bulat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2–3 sdm awetan untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4474,7 +4474,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sunflower": {
     "name": "Teh Biji Bunga Matahari",
-    "oneLine": "Biji bunga matahari sangrai — teh biji gurih kacang.",
+    "oneLine": "Biji bunga matahari sangrai diseduh, cangkang kerasnya memberi lebih banyak saat direbus — gurih kacang biji sangrai dengan manis berminyak ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4490,7 +4490,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-herbtea": {
     "name": "Teh Herba",
-    "oneLine": "Nama umum untuk teh yang diseduh dari daun dan bunga herba kering.",
+    "oneLine": "Nama umum untuk seduhan daun dan bunga herba kering — mint, chamomile, lemon balm — bebas kafein, setiap herba dengan nada hijau dan bunganya sendiri.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4506,7 +4506,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-raisintree": {
     "name": "Teh Pohon Kismis Oriental",
-    "oneLine": "Buah pohon kismis direbus — teh kayu yang agak manis.",
+    "oneLine": "Buah pohon kismis yang lama direbus di rumah di Korea, sering dicari pagi setelah minum alkohol — manis lembut, nada kayu, dan akhir halus.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g buah untuk 300 ml",
     "rounds": "1 rebusan",
@@ -4522,7 +4522,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-schizonepeta": {
     "name": "Teh Schizonepeta",
-    "oneLine": "Bulir schizonepeta diseduh — secangkir herba sejuk seperti mint.",
+    "oneLine": "Daun dan bulir bunga schizonepeta, bahan herbal lama, dikeringkan untuk teh ringan — kesejukan mirip mint, aroma hijau, dan sedikit rempah.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "3 g untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4538,7 +4538,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-walnut": {
     "name": "Teh Kenari",
-    "oneLine": "Kenari giling diaduk masuk — secangkir kaya dan gurih kacang.",
+    "oneLine": "Kenari giling diaduk ke dalam air panas, kadang direbus dengan jujube dan jahe — gurih kacang pekat, kelembutan berminyak, dan manis ringan.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g kenari giling untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4554,7 +4554,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pumpkin": {
     "name": "Teh Labu",
-    "oneLine": "Labu matang kering direbus — secangkir manis dan lembut.",
+    "oneLine": "Labu matang, bahan pokok musim dingin, diiris dan dikeringkan untuk lemari penyimpanan, lalu direbus — manis alami labu dengan tubuh berpati lembut.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "10 g labu kering untuk 200 ml",
     "rounds": "2 seduhan",
@@ -4570,7 +4570,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-redginseng": {
     "name": "Teh Ginseng Merah",
-    "oneLine": "Ginseng yang dikukus dan dikeringkan direbus — secangkir pahit-manis dan pekat.",
+    "oneLine": "Ginseng merah — ginseng yang dikukus dan dikeringkan hingga kemerahan — direbus: pahit dulu, lalu manis dan tanah dalam akhir panjang dan pekat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g irisan untuk 200 ml",
     "rounds": "1 rebusan",
@@ -4586,7 +4586,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-astragalus": {
     "name": "Teh Astragalus",
-    "oneLine": "Akar astragalus direbus — secangkir herba yang agak manis.",
+    "oneLine": "Akar astragalus, akrab dari samgyetang, dikeringkan dan direbus sendiri — manis ringan, gurih kacang mirip kacang-kacangan, dan rasa tanah lembut.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g akar untuk 200 ml",
     "rounds": "1 rebusan",
@@ -4602,7 +4602,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-magnolia-bark": {
     "name": "Teh Kulit Magnolia",
-    "oneLine": "Kulit magnolia direbus — secangkir pahit dan sangat aromatik.",
+    "oneLine": "Kulit magnolia, bahan herbal lama, dikeringkan dan direbus — pahit, aroma kayu pekat, dan akhir agak pedas.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "5 g kulit untuk 200 ml",
     "rounds": "1 rebusan",
@@ -4618,7 +4618,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-pepper": {
     "name": "Teh Lada Hitam",
-    "oneLine": "Lada hitam direbus — teh rempah yang tajam.",
+    "oneLine": "Lada hitam giling direbus dalam air, diminum dalam cangkir kecil kuat kadang dengan madu — panas menyengat dan aroma rempah, singkat dan tajam.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "2 g lada (sekitar 1 sdt) untuk 200 ml",
     "rounds": "1 cangkir",
@@ -4634,7 +4634,7 @@ window.TEAFaiDataId = (function () {
   },
   "herb-sipjeondaebotang": {
     "name": "Sipjeon Daebotang",
-    "oneLine": "Rebusan tonik klasik sepuluh herba — ginseng, angelica, astragalus, dan lainnya — yang direbus bersama; minuman kesehatan musim dingin pendamping ssanghwa.",
+    "oneLine": "Formula klasik sepuluh herba asal dinasti Song — herba Sagunja dan Samul ditambah astragalus dan kayu manis — pahit-manis, dilunakkan akar manis dan kayu manis hangat.",
     "oxidation": "tanpa oksidasi · bebas kafein",
     "ratioNote": "60 g herba untuk 1000 ml air",
     "rounds": "1 rebusan",

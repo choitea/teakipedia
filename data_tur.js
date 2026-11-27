@@ -24,7 +24,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-biluochun": {
     "name": "Biluochun",
-    "oneLine": "Salyangoz gibi kıvrılmış yaprakta meyve aroması — yeşil çayların en kokulusu.",
+    "oneLine": "Dongting'in ünlü bahar tomurcuğu çayı, İmparator Kangxi tarafından yeniden adlandırıldı — salyangoz gibi kıvrılmış yapraklar, serin bir tatlılığın üzerinde şeftali ve kayısı açar.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g; işin sırrı düşük sıcaklık",
     "rounds": "3–4 demleme",
@@ -39,7 +39,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-maofeng": {
     "name": "Huangshan Maofeng",
-    "oneLine": "Sisli dağlardan yumuşak bir fındıksılık — Çin'in diğer yeşil çay standardı.",
+    "oneLine": "Sisli Huangshan'dan nispeten genç bir ünlü çay — sarı-yeşil yapraklar yumuşak kavurma notaları, orkide tazeliği ve uzun bir umami verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -54,7 +54,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Japonya'nın günlük buharlanmış yeşil çayı — yosun aroması ve umami.",
+    "oneLine": "Japonya'nın günlük çayı, yeşil çay tüketiminin onda altısı — buharlanmış yapraklar yosun aroması ve umamiyi hafif bir buruklukla harmanlar.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g; ilk dem 70 °C'de",
     "rounds": "3 demleme",
@@ -69,7 +69,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-gyokuro": {
     "name": "Gyokuro",
-    "oneLine": "Umamiyi sınıra taşımak için gölgede yetiştirilir — yeşil çayların en derini.",
+    "oneLine": "20 günden fazla gölgelenen ve 'yeşim çiyi' diye adlandırılan çay — koyu yeşil iğneler, kremsi bir dokuyla miso ve dashi umamisi döker.",
     "oxidation": "0%",
     "ratioNote": "40 ml'ye 5 g — bol yaprak, çok az su",
     "rounds": "3 demleme",
@@ -84,7 +84,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-matcha": {
     "name": "Matcha",
-    "oneLine": "Bütün yaprak, öğütülmüş ve içilmiş — koklamakla kalmayıp yediğiniz yeşil çay.",
+    "oneLine": "Bütün yaprak, saatte yalnızca 40 g taşta öğütülür — canlı yeşil köpük, sonda acı bir kenarla derin umaminin üzerindedir.",
     "oxidation": "0%",
     "ratioNote": "Usucha için 60 ml'ye 2 g; koicha için 60 ml'ye 4 g",
     "rounds": "Tek kâse",
@@ -99,7 +99,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-jeju": {
     "name": "Ujeon (Jeju)",
-    "oneLine": "Kore'nin Tahıl Yağmuru öncesi toplanan ilk yaprağı — bahar yağmuruyla dolu yumuşak bir burukluk.",
+    "oneLine": "Jeju'nun Tahıl Yağmuru öncesi ilk yaprağı, 1979'da başlayan bahçelerden — volkanik toprak ve deniz rüzgârı, nazikçe yumuşayan taze yeşil notalar ve kavurma tadı verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -114,7 +114,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-silverneedle": {
     "name": "Gümüş İğne",
-    "oneLine": "Beyaz çayın en soluk hâli: gümüşi tüylerini hâlâ taşıyan bir tomurcuk.",
+    "oneLine": "Beyaz çayın en saf hâli, yalnızca tomurcuk, hiç kavrulmaz ve kıvrılmaz — gümüşi tüylerin altında müge kokusu ve burukluksuz, uzun bir tatlılık.",
     "oxidation": "5%",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "4–5 demleme",
@@ -129,7 +129,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-peony": {
     "name": "Beyaz Şakayık",
-    "oneLine": "Bir tomurcuk ve iki yaprak — Gümüş İğne'den daha çok aroma, daha yumuşak bir fiyat.",
+    "oneLine": "Açmış bir şakayık gibi bir tomurcuk ve iki yaprak — beyaz çiçekler ve saman, hafif hünnap tatlılığıyla buluşur; Gümüş İğne'den daha gövdelidir.",
     "oxidation": "8%",
     "ratioNote": "200 ml'ye 4 g",
     "rounds": "4–5 demleme",
@@ -144,7 +144,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-shoumei": {
     "name": "Shou Mei",
-    "oneLine": "Yaprağı öne çıkan beyaz çay — uzun, yavaş kaynatmaya en uygun olanı.",
+    "oneLine": "Yaşlı bir adamın kaşlarından adını alan, yaprağı öne çıkan, uzun süre saklanıp kaynatılan beyaz çay — koyu kayısı rengi demde saman, hünnap ve olgun meyve.",
     "oxidation": "10%",
     "ratioNote": "200 ml'ye 4 g; kaynatırken 500 ml'ye 5 g",
     "rounds": "4–5 demleme",
@@ -159,7 +159,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-aged": {
     "name": "Yıllanmış Beyaz Çay",
-    "oneLine": "Üç yıl ilaç, yedi yıl hazine — zamanın yaptığı beyaz çay.",
+    "oneLine": "Fujian'ın yıllanmış beyaz çayı — bir yıl çay, üç yıl ilaç, yedi yıl hazine — zaman, koyu kehribar demine hünnap, otlar ve kuru meyve yazar.",
     "oxidation": "15%",
     "ratioNote": "200 ml'ye 5 g; kaynatırken 500 ml'ye 5 g",
     "rounds": "5 veya daha fazla demleme",
@@ -174,7 +174,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-gongmei": {
     "name": "Gong Mei",
-    "oneLine": "Cai cha çeşit grubundan yapılan, Bai Mudan ile Shou Mei arasında bir beyaz çay.",
+    "oneLine": "Beyaz Şakayık ile Shou Mei arasında duran bir cai cha beyaz çayı — saman ve sakin çiçekler, Shou Mei'ninkinden daha berrak bir hünnap benzeri tatlılığı çerçeveler.",
     "oxidation": "10%",
     "ratioNote": "200 ml'ye 4 g",
     "rounds": "4–5 demleme",
@@ -189,7 +189,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-luanguapian": {
     "name": "Lu'an Guapian",
-    "oneLine": "Yalnızca yaprak, tomurcuksuz; kavun çekirdeği gibi düz preslenmiş — yalnızca yapraktan yapılan tek yeşil çay.",
+    "oneLine": "Yalnızca yapraktan yapılan tek yeşil çay, tomurcuk ve saplar ayıklanır — düz kavun çekirdeği yapraklar kavrulmuş kestane, kalın bir gövde ve tatlılık verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -203,7 +203,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-houkui": {
     "name": "Taiping Houkui",
-    "oneLine": "Avuç içi büyüklüğünde, bez ızgarasının izini taşıyan yaprak — Çin'in en büyük yeşil çayı.",
+    "oneLine": "Çin'in en büyük yeşil çayı, bez ve ağda preslenerek ızgara izi alır — avuç içi büyüklüğünde bir yaprak bile acısız orkide ve hafif umami verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -217,7 +217,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-maojian": {
     "name": "Xinyang Maojian",
-    "oneLine": "Ot ve kestane taşıyan iğne inceliğinde yaprak — Henan'ın ünlü yeşil çayı.",
+    "oneLine": "Henan'ın ünlü çayı, 1915 Panama-Pasifik sergisinde altın madalyalı — iğne gibi düz yapraklar ot, kestane ve canlı bir buruklukla yükselir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -231,7 +231,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-lushan": {
     "name": "Lushan Yunwu",
-    "oneLine": "Bulutun içinde yetişir; yaprağı kolayca zedelenebilecek kadar yumuşaktır.",
+    "oneLine": "Yılda 190 günden fazla sis altında kalan Lu Dağı çayı — ince, narin yapraklar yavaşça kavrulur, az buruklukla yumuşak ot ve umami verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -245,7 +245,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-hojicha": {
     "name": "Hojicha",
-    "oneLine": "Odun kömüründe kavrulmuş sencha: daha az kafein, daha çok kavrulmuş tatlılık.",
+    "oneLine": "1920'ler Kyoto'sunda doğan, sert kavrulmuş sencha — 200 °C'ye yakın ısı, neredeyse hiç acısız kavrulmuş tahıl, karamel ve odun getirir.",
     "oxidation": "0%",
     "ratioNote": "130 ml'ye 3 g",
     "rounds": "2–3 demleme",
@@ -259,7 +259,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-genmaicha": {
     "name": "Genmaicha",
-    "oneLine": "Kavrulmuş esmer pirinçli sencha — çay ile pirincin tam ortası.",
+    "oneLine": "Edo hanelerinin çayını kavrulmuş esmer pirinçle çoğalttığı çay — sencha'nın yeşil kenarının üzerinde yanık pirinç ve patlamış mısır fındıksılığı.",
     "oxidation": "0%",
     "ratioNote": "130 ml'ye 3 g (pirinç dâhil)",
     "rounds": "2–3 demleme",
@@ -273,7 +273,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-hadong": {
     "name": "Ujeon (Hadong)",
-    "oneLine": "Jirisan'ın eteğinden, Tahıl Yağmuru öncesi toplanan yılın ilk yaprağı.",
+    "oneLine": "Silla'dan beri bir çay bölgesi olan Hadong ve Tahıl Yağmuru öncesi en erken yaprağı — yabani Jirisan bahçeleri taze yaprak, kavurma tadı ve uzun umami verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -287,7 +287,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-sejak": {
     "name": "Sejak",
-    "oneLine": "Tahıl Yağmuru'ndan sonra, yaz başından önce: serçe dili kadar narin ikinci hasat.",
+    "oneLine": "Tahıl Yağmuru'ndan sonraki ikinci hasat, serçe dili kadar narin — ujeon'dan daha güçlü ot ve kavurma tadı, hafif bir buruklukla kapanır.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -301,7 +301,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-jungjak": {
     "name": "Jungjak",
-    "oneLine": "Yaz başı ile Mangzhong arası: yaprağın kalınlaştığı üçüncü hasat.",
+    "oneLine": "Üçüncü kalite, 'orta serçe', yaz başından sonra yapraklar kalınlaşırken toplanır — sıcak, kısa bir kavurma, koyu yeşil demde kavurma tadını buruklukla eşleştirir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -315,7 +315,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-daejak": {
     "name": "Daejak",
-    "oneLine": "Kalın yaz yaprağı — Kore'nin günlük bardağı.",
+    "oneLine": "Son hasat kalitesi, Mangzhong sonrası yazın 'büyük serçesi' — kaba yaprak, kavurma tadı ve fincan soğudukça yumuşayan berrak bir burukluk.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g; kaynatmaya da uygun",
     "rounds": "2–3 demleme",
@@ -329,7 +329,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-jukro": {
     "name": "Jukro",
-    "oneLine": "Tamamen elle kavrulmuş yabani Hadong çalıları — Kore yeşil çayının en eski yapım yolu.",
+    "oneLine": "Yabani Hadong yaprağı, demir bir kazanda elle 300'den fazla kez çevrilir — derin umami ve çiçeksi bir nota berrak kalır, burukluk azdır.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -343,7 +343,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-junshan": {
     "name": "Junshan Yinzhen",
-    "oneLine": "Dongting Gölü'ndeki bir adadan, sarı çayların en bilinen gümüş iğnesi.",
+    "oneLine": "Bir Dongting adasından sarı çayın gümüş iğnesi, bir zamanlar altından değerli — kâğıtla sarartılmış tomurcuklar bardakta dik durur, mısır ve tereyağı tatlılığıyla.",
     "oxidation": "10%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -357,7 +357,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-mengding": {
     "name": "Mengding Huangya",
-    "oneLine": "Siçuan'da Mengding Dağı'nın en eski ünlü çayı — sarı çayın aslı.",
+    "oneLine": "Batı Han'da dikilen bir dağdan, Çin'in en eski ünlü çayları arasında — yığın hâlinde sarartılmış tomurcuklar mısır, tereyağı ve yumuşak bir tatlılık verir.",
     "oxidation": "15%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -371,7 +371,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-huoshan": {
     "name": "Huoshan Huangya",
-    "oneLine": "Bambular arasında yetişen, Huoshan'dan küçük bir sarı çay.",
+    "oneLine": "Huoshan'ın bambu korularından bir Ming haraç çayı — hafifçe kavrulmuş, sarartılmış yapraklar yumuşak tahıl ve tatlılık verir, belli belirsiz bir buruklukla.",
     "oxidation": "15%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -385,7 +385,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-jasmine": {
     "name": "Yasemin Çayı",
-    "oneLine": "Gece toplanan yaseminle kat kat harmanlanmış yeşil çay.",
+    "oneLine": "Song'da başlayan ve Qing Fujian'ında mükemmelleşen yasemin çayı — yaz gecesi çiçekleri, yeşil çayın yumuşak umamisinin üzerine tekrar tekrar katmanlanır.",
     "oxidation": "90% (yeşil baz)",
     "ratioNote": "200 ml'ye 4 g",
     "rounds": "1–2 demleme",
@@ -399,7 +399,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-zhuyeqing": {
     "name": "Zhu Ye Qing (Emei)",
-    "oneLine": "Bambu yaprağı gibi düz bıçaklar — Siçuan'ın erken baharı bir bardakta.",
+    "oneLine": "1964'te Emei Dağı'nda başlayan Zhu Ye Qing — Qingming öncesi tomurcuklar bambu yaprakları gibi düz kavrulur, hafif ot aroması ve temiz bir tatlılıkla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -415,7 +415,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-enshi-yulu": {
     "name": "Enshi Yulu",
-    "oneLine": "Buharlanıp iğnelere kıvrılmış — Çin'de ender bir buharlanmış yeşil çay.",
+    "oneLine": "Qing'den beri Hubei'nin buharlanmış yeşili Enshi Yulu — buharlanıp iğnelere kıvrılır; tuzlu umami ve bir yosun kenarı için.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -431,7 +431,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-anji-baipian": {
     "name": "Anji Bai Cha",
-    "oneLine": "Beyaz çay adını taşıyan, baharda soluklaşan bir çeşitten yeşil çay.",
+    "oneLine": "Adındaki 'beyaz'a rağmen bir yeşil çay olan Anji Bai Cha — baharda soluklaşan Baiye 1 kültivarından, umami bakımından zengin, neredeyse burukluksuz.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -447,7 +447,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-gougunao": {
     "name": "Gougunao",
-    "oneLine": "Sisli bir Jiangxi vadisinden orkide kokulu, ince yapraklı yeşil çay.",
+    "oneLine": "1915 Panama sergisinde altın kazandığı söylenen Gougunao — sisli bir Jiangxi vadisinden ince yapraklar, orkide kokulu ve nazikçe tatlı.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -463,7 +463,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-wuyuan-mingmei": {
     "name": "Wuyuan Mingmei",
-    "oneLine": "Kaş gibi kıvrılmış yaprak — Jiangxi, Wuyuan'dan nazik bir yeşil çay.",
+    "oneLine": "1958'de yaratılan ve Çin'in ünlü çayları arasında sayılan Wuyuan Mingmei — kaş gibi kıvrılmış yapraklar, yumuşak ot ve kestane tatlılığıyla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -479,7 +479,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-mengding-ganlu": {
     "name": "Mengding Ganlu",
-    "oneLine": "Mengding Dağı'ndan ince kıvrımlı bir Siçuan klasiği.",
+    "oneLine": "Tang'dan beri haraç çayı olan Mengding Ganlu — üç kez kavrulup kıvrılır, ince bir kıvrımda kestane ve soya kavurması.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -495,7 +495,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-hanzhong-xianhao": {
     "name": "Hanzhong Xianhao",
-    "oneLine": "Çin çay ülkesinin kuzey kenarından: uzun bir kışın ardından kalın bahar yaprağı.",
+    "oneLine": "Çin çay ülkesinin kuzey kenarından Hanzhong Xianhao — uzun bir kışın ardından kalın bahar yaprağı, ot, çiçekler ve kalıcı tatlılıkla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -511,7 +511,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-huiming": {
     "name": "Huiming Çayı",
-    "oneLine": "Çaya adını veren bir Zhejiang dağ tapınağından bahar yaprağı.",
+    "oneLine": "Adını doğrudan, başladığı Zhejiang dağ tapınağından alan Huiming — narin tomurcuklar düşük ısıda kavrulur; belli belirsiz çiçekler, ot ve temiz tatlılık için.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -527,7 +527,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-boseong": {
     "name": "Yeşil Çay (Boseong)",
-    "oneLine": "Kore'nin en geniş çay tarlaları — Boseong'dan bahar yaprağı.",
+    "oneLine": "Kore'nin en geniş çay tarlalarından Boseong yeşil çayı — bahardan daejak'a toplanır, kavrulmuş ve otsu, arkasında tatlılıkla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3–4 demleme",
@@ -543,7 +543,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-sanxia-biluochun": {
     "name": "Biluochun (Sanxia)",
-    "oneLine": "Tayvan'ın Çin tarzı yeşil çayı — tatlı sarmal yaprak.",
+    "oneLine": "1940'lardan beri Tayvan'da Jiangsu Dongting Biluochun'un adını taşıyan Sanxia yeşil çayı — sarmal yapraklar, yeşil ot ve belli belirsiz meyve tatlılığıyla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -559,7 +559,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-kabusecha": {
     "name": "Kabusecha",
-    "oneLine": "Kısaca gölgelenmiş yaprak — sencha ile gyokuro arasındaki umami.",
+    "oneLine": "Sencha ile gyokuro arasında, yalnızca bir ila iki hafta gölgelenen Kabusecha — gölgeleme umamiyi yükseltir, yosun notalarını derin tatlılığın üzerine katmanlar.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -575,7 +575,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-kamairicha": {
     "name": "Kamairicha",
-    "oneLine": "Japonya'nın ender wokta kavrulmuş yeşil çayı — yosundan çok kavurma tadı.",
+    "oneLine": "Buharlanmış çay Japonya'sında bir enderlik — wokta kavrulan Kyushu yeşil çayı, yosun notası olmadan kavrulmuş tahıl kızarmışlığı ve hafif tatlılık bırakır.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -591,7 +591,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-dafo-longjing": {
     "name": "Dafo Longjing",
-    "oneLine": "Zhejiang'dan daha erken, günlük bir Longjing tarzı yaprak.",
+    "oneLine": "Batı Gölü'nünkinden daha erken toplanan, Xinchang, Zhejiang'dan bir Longjing — elle düz preslenmiş yapraklar kavrulmuş fasulye kızarmışlığı ve hafif tatlılık verir.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -607,7 +607,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-laoshan": {
     "name": "Yeşil Çay (Laoshan)",
-    "oneLine": "Çin çayının kuzey kenarı: deniz rüzgârında yetişen kalın yaprak.",
+    "oneLine": "Çin çay ülkesinin kuzey kenarından, deniz rüzgârı ve granit toprakta yetişen kalın yapraklar — birçok demlemede kavrulmuş kavurma tadı ve sağlam tatlılık.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -623,7 +623,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-xingongyi": {
     "name": "Yeni Tarz Beyaz Çay",
-    "oneLine": "Hafif bir kıvırmayla geleneksel beyaz — daha çok aroma, biraz oksidasyon.",
+    "oneLine": "1968'de Fuding'de doğan yeni tarz, hafif kıvrımı aromayı uyandırır — nazik beyaz çay tatlılığı, çiçekler ve belli belirsiz bir kavurma tadıyla katmanlı.",
     "oxidation": "yaklaşık 20%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -639,7 +639,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-yueguangbai": {
     "name": "Ay Işığı Beyazı",
-    "oneLine": "Bir yüzü soluk, bir yüzü koyu — Yunnan'ın ay ışığı beyaz çayı.",
+    "oneLine": "Bir yüzü soluk, bir yüzü koyu kuruyan Yunnan büyük yapraklı beyaz çayı — yumuşak, soluk kayısı rengi demde kuru meyve ve bal tatlılığı.",
     "oxidation": "yaklaşık 15%",
     "ratioNote": "150 ml'ye 4 g",
     "rounds": "4 demleme",
@@ -655,7 +655,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-lingyun-baihao": {
     "name": "Lingyun Baihao",
-    "oneLine": "Guangxi'den tüylü yapraklı bir beyaz çay.",
+    "oneLine": "Beyaz tüylerle kalın tomurcuklardan yapılan, Guangxi Lingyun'dan bir beyaz çay — yumuşak çiçekler, bir ot ipucu ve hafif tatlılık, sonuna kadar temiz.",
     "oxidation": "yaklaşık 10%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -671,7 +671,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-beigang-maojian": {
     "name": "Beigang Maojian",
-    "oneLine": "Dongting Gölü'nün batı kıyısından küçük bir sarı çay.",
+    "oneLine": "Dongting Gölü'nün batı kıyısından küçük bir sarı çay, kavurma sonrası yığın hâlinde kendini sarartır — yumuşak tahıl tatlılığı, yeşil çaydan daha az buruk.",
     "oxidation": "yaklaşık 12%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -687,7 +687,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-weishan-maojian": {
     "name": "Weishan Maojian",
-    "oneLine": "Dumanla bitirilen bir sarı çay — yaprakta belli belirsiz bir çam notası.",
+    "oneLine": "Son kurutmada çam dumanıyla hafifçe öpülen bir Hunan sarı çayı, Weishan Maojian — tahıl tatlılığı, bir tutam duman ve az buruklukla.",
     "oxidation": "yaklaşık 15%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -703,7 +703,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-wenzhou-huangtang": {
     "name": "Pingyang Huangtang",
-    "oneLine": "Kısa sarartmalı, güney Zhejiang'dan soluk bir sarı çay.",
+    "oneLine": "Qing haraçı olarak kaydedilen, sarartması kısa tutulan bir Pingyang sarı çayı — yumuşak tahıl, belli belirsiz çiçekler ve hafif tatlılık, yeşile yakın.",
     "oxidation": "yaklaşık 12%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -719,7 +719,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-wanxi-huangdacha": {
     "name": "Wanxi Huangda Çayı",
-    "oneLine": "Batı Anhui'nin kalın yapraklı sarı çayı — kaynatılmak için yapılır.",
+    "oneLine": "Batı Anhui'nin, bir tencerede kaynatılmak için yapılan iri, kaba yapraklı sarı çayı — kavrulmuş kavurma tadı ve sütle bile dayanan güçlü tatlılık.",
     "oxidation": "yaklaşık 20%",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "3 demleme",
@@ -735,7 +735,7 @@ window.TEAFaiDataTur = (function () {
   },
   "yellow-yuanan-luyuan": {
     "name": "Yu'an Luyuan Çayı",
-    "oneLine": "Qing kayıtları olan, ince kıvrılmış yapraklı bir Hubei sarı çayı.",
+    "oneLine": "Qianlong döneminde kaydedilen, Luyuan Tapınağı'ndan bir Hubei sarı çayı — ince kıvrılmış teller yumuşak tahıl, çiçekler ve temiz bir tatlılık verir.",
     "oxidation": "yaklaşık 15%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -751,7 +751,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-moroccan-mint": {
     "name": "Mağrip Nane Çayı",
-    "oneLine": "Taze nane ve şekerle, yüksekten dökülen barut yeşil çayı.",
+    "oneLine": "Mağrip'in nane çayı, Çin barut çayı taze nane ve şekerle yüksekten dökülür — derin tatlılığın üzerinde serin nane, sıcakken bile ferahlatıcı.",
     "oxidation": "yaklaşık 5% (yeşil baz)",
     "ratioNote": "200 ml'ye 4 g; bir avuç nane ve damak tadına göre şeker",
     "rounds": "3 demleme",
@@ -767,7 +767,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-chunseol": {
     "name": "Chunseol",
-    "oneLine": "Mudeung Dağı'nda Jeungsimsa vadisindeki yabani çalılardan, erken baharda toplanan tavada kavrulmuş bir yeşil çay.",
+    "oneLine": "Ressam Heo Baek-ryeon'un adını verdiği, Mudeung Dağı'nın yabani çalılarından tavada kavrulmuş bir çay — erken baharın narin yaprakları taze yeşil bir koku ve nazik bir tatlılıkla açılır.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -783,7 +783,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-tencha": {
     "name": "Tencha",
-    "oneLine": "Gölgelenmiş, buharlanmış yaprak — matcha'ya öğütülen ham madde.",
+    "oneLine": "Matcha'ya taşta öğütülmeden önceki gölgelenmiş, buharlanmış yaprak — canlı yeşil bir yaprakta deniz yosunu kenarlı, yoğunlaşmış derin bir umami.",
     "oxidation": "0%",
     "ratioNote": "100 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -799,7 +799,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-funmatsu": {
     "name": "Funmatsu (Toz Sencha)",
-    "oneLine": "Toz hâline öğütülmüş ve doğrudan suya karıştırılan sencha.",
+    "oneLine": "Gölgelenmemiş sencha'nın ince öğütülüp yaprağıyla birlikte doğrudan suya karıştırılmış hâli — sencha'nın yeşil kokusu ve nazik acılığı eksiksiz sunulur.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 1.5 g",
     "rounds": "1 porsiyon",
@@ -815,7 +815,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-konacha": {
     "name": "Konacha",
-    "oneLine": "Gyokuro ve sencha yapımından arta kalan tomurcuk ve kırıntılardan bir çay.",
+    "oneLine": "Gyokuro ve sencha yapımından elenip ayrılan tomurcuk ve kırıntılar — hızlı ve güçlü demlenir, koyu bir dem ve acı bir kenarla.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -847,7 +847,7 @@ window.TEAFaiDataTur = (function () {
   },
   "white-darjeeling": {
     "name": "Darjeeling Beyaz Çayı",
-    "oneLine": "Darjeeling'in yüksek bahçelerinden narin tomurcukların, misket üzümü esintili beyaz çayı.",
+    "oneLine": "1.000–2.000 m'deki Darjeeling bahçelerinden narin tomurcuklar, kıvrılmadan olduğu gibi kurutulmuş — yumuşak çiçekler, bir misket üzümü esintisi ve berrak bir tatlılık.",
     "oxidation": "Yaklaşık 8%",
     "ratioNote": "200 ml'ye 2.5 g",
     "rounds": "2 demleme",
@@ -863,7 +863,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-tieguanyin": {
     "name": "Anxi Tieguanyin",
-    "oneLine": "Orkide aroması ve guanyin yun — sıkı yarım küreler hâlinde yuvarlanmış, ölçüt sayılan oolong.",
+    "oneLine": "Bir Guanyin tapınağı yakınında bulunan bir çalıya dayanan, Anxi'nin ölçüt oolong'u — sıkı yarım küreler orkide ve zambak, kremsilik ve dönen tatlılık verir.",
     "oxidation": "30%",
     "ratioNote": "Gaiwan'da 110 ml'ye 7 g",
     "rounds": "7–8 demleme",
@@ -877,7 +877,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dahongpao": {
     "name": "Da Hong Pao (Wuyi)",
-    "oneLine": "Sert kavrulmuş, kayada yetişmiş yaprak — yan yun'un, yani kaya ahenginin çayı.",
+    "oneLine": "Kırmızı kaftan efsanesinin ve uçurumdaki ana çalıların Wuyi kaya çayı — kömürde üç ila altı kez kavrulan yapraklar kakao, ıslak kaya ve uzun bir bitiş bırakır.",
     "oxidation": "55%",
     "ratioNote": "Gaiwan'da 110 ml'ye 7 g",
     "rounds": "8–10 demleme",
@@ -891,7 +891,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong": {
     "name": "Phoenix Dancong",
-    "oneLine": "Tek çalı, tek aroma — Guangdong'dan, her biri kendi adını taşıyan tek ağaç oolong'ları.",
+    "oneLine": "Phoenix Dağı'nın yaşlı çalıları, her biri ayrı yapılır — tek çalı, tek aroma: beyaz çiçekler, gardenya ve bal, dönen bir tatlılıkla kapanır.",
     "oxidation": "40%",
     "ratioNote": "Gaiwan'da 110 ml'ye 7 g",
     "rounds": "10 veya daha fazla demleme",
@@ -905,7 +905,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dongding": {
     "name": "Dong Ding",
-    "oneLine": "Tayvan'ın orta eteklerinden orta kavrulmuş bir oolong — kestane ve çiçek dengede.",
+    "oneLine": "1855'te getirilen 36 Wuyi fidesine dayanan, Tayvan'ın orta kavrulmuş oolong'u — kavrulmuş tahıl, kestane ve orkide, yumuşak bir tatlılığın üzerinde dengelenir.",
     "oxidation": "25%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6–8 demleme",
@@ -919,7 +919,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-alishan": {
     "name": "Yüksek Dağ Oolong'u (Alishan)",
-    "oneLine": "1.200 m'nin üzerinde: Tayvan'dan serin orkide kokulu bir yüksek dağ çayı.",
+    "oneLine": "1980'lerin çay patlamasında yayılan Alishan yüksek dağ oolong'u — kalın yapraklar orkide, krema ve yeşil elma verir, berrak ve uzun bir tatlılığın üzerinde.",
     "oxidation": "20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6–8 demleme",
@@ -933,7 +933,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-beauty": {
     "name": "Oriental Beauty",
-    "oneLine": "Yalnızca bir yaprak bitinin yapabildiği bal — Tayvan'ın imzası, yoğun okside oolong.",
+    "oneLine": "Kraliçe Victoria'nın Oriental Beauty adını verdiği söylenen beyaz uçlu oolong — yaprak bitlerinin ısırdığı yapraklar bal, olgun şeftali ve gül verir, yuvarlak bir tatlılıkla.",
     "oxidation": "60%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "5–6 demleme",
@@ -947,7 +947,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-si-ji-chun": {
     "name": "Si Ji Chun",
-    "oneLine": "Yılda dört hasat, her biri bahar gibi: Tayvan'da en sık karşılaşacağınız hafif oolong.",
+    "oneLine": "Yıl boyu sürgün veren tesadüfi bir Muzha ağacından adını alır — hafif okside yapraklar gardenya ve yasemin çiçekleri ile hafif bir tatlılık verir.",
     "oxidation": "15–20%",
     "ratioNote": "150 ml'ye 4 g",
     "rounds": "3–4 demleme",
@@ -962,7 +962,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-jin-xuan": {
     "name": "Jin Xuan",
-    "oneLine": "Tayvan'ın 12 numaralı kültivarı; kremsi, sütümsü kokusu yaprağın kendisinden gelir — Milky Oolong diye de satılır; yumuşak, yuvarlak bir fincan.",
+    "oneLine": "Tayvan'ın TTES No. 12'si, 1981'de tescilli — yaprağın kendisi süt ve krema verir, yaseminle, yuvarlak bir tatlılıkla kapanır.",
     "oxidation": "15–20%",
     "ratioNote": "150 ml'ye 4 g",
     "rounds": "3–4 demleme",
@@ -977,7 +977,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-pouchong": {
     "name": "Wen Shan Pouchong",
-    "oneLine": "Kuzey Tayvan'ın hafif oolong'u; adını, kokusunu korumak için bir zamanlar sarıldığı kâğıttan alır.",
+    "oneLine": "Adını, bir zamanlar kokusunu saran kâğıttan alan Wen Shan'ın hafif oolong'u — yeşil çaya yakın oksidasyon, orkide ve gardenyayı berrak ve hafif tutar.",
     "oxidation": "8–12%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -992,7 +992,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-rougui": {
     "name": "Wuyi Rougui",
-    "oneLine": "Tarçın kabuğu aroması — Wuyi kaya oolong'unun öbür direği.",
+    "oneLine": "Tarçın kabuğundan adını alan Wuyi kaya çayı, kömürde turlar hâlinde fırınlanır — derin tatlılığın üzerinde tarçın ve karanfil baharatı, uzun bir bitişle.",
     "oxidation": "yaklaşık 50%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "8+ demleme",
@@ -1008,7 +1008,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-shuixian": {
     "name": "Wuyi Shuixian",
-    "oneLine": "Büyük yaprak, derin fırın — çalı yaşlandıkça fincan o kadar yosunumsu.",
+    "oneLine": "Wuyi'nin büyük yapraklı oolong'u, çalı yaşlandıkça daha yosunumsu — odun ve yosunun üzerinde orkide, kalıcı kavrulmuş bir tatlılıkla.",
     "oxidation": "yaklaşık 50%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "9+ demleme",
@@ -1024,7 +1024,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dayuling": {
     "name": "Yüksek Dağ Oolong'u (Dayuling)",
-    "oneLine": "2.300 m'nin üzerinde — Tayvan'ın en yüksek çayı, kalın ve yavaş büyümüş yaprak.",
+    "oneLine": "Tayvan'ın en yüksek çay arazisinden, 2.300 m'de kalın, yavaş büyümüş yaprak — soluk altın demde berrak çiçekler ve serin tatlılık, neredeyse burukluksuz.",
     "oxidation": "yaklaşık 20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "8 demleme",
@@ -1040,7 +1040,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-shanlinxi": {
     "name": "Yüksek Dağ Oolong'u (Shanlinxi)",
-    "oneLine": "Sedir ormanı parsellerinden yüksek dağ çayı — temiz ve serin.",
+    "oneLine": "1.600 m'de sedir ormanı ve sis arasındaki parsellerden yüksek dağ çayı — berrak çiçekler, biraz ot ve temiz tatlılık, fincanda serin.",
     "oxidation": "yaklaşık 20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "7 demleme",
@@ -1056,7 +1056,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-lishan": {
     "name": "Yüksek Dağ Oolong'u (Lishan)",
-    "oneLine": "2.000 m'de meyve bahçeleri arasından, olgun meyveli yüksek dağ çayı.",
+    "oneLine": "Geniş gece-gündüz farklarının yaprağı kalınlaştırdığı 2.000 m'de meyve bahçeleri arasında yetişen yüksek dağ çayı — olgun meyve, çiçekler ve yumuşak tatlılık.",
     "oxidation": "yaklaşık 20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "8 demleme",
@@ -1072,7 +1072,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-huangjingui": {
     "name": "Huang Jin Gui",
-    "oneLine": "Anxi'nin daha hafif oolong'u; lakabı 'göğü delen koku'.",
+    "oneLine": "'Göğü delen koku' lakaplı Anxi'nin Huangdan oolong'u — hafif okside yaprak kremsi bir aroma, çiçekler ve hafif tatlılık yayar.",
     "oxidation": "yaklaşık 35%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "6 demleme",
@@ -1088,7 +1088,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-benshan": {
     "name": "Benshan Oolong",
-    "oneLine": "Daha hafif, daha ucuz Anxi oolong'u — Tieguanyin'in küçük kardeşi.",
+    "oneLine": "Tieguanyin'in küçük kardeşi denen daha hafif Anxi oolong'u — belli belirsiz orkide ve ot, hafif tatlılıkla, ilk yudumdan sonuncuya kolay.",
     "oxidation": "yaklaşık 35%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "7 demleme",
@@ -1104,7 +1104,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-foshou": {
     "name": "Yongchun Foshou",
-    "oneLine": "Bir el kadar geniş yapraklardan armut benzeri tatlılık.",
+    "oneLine": "Bir Buda eli ağaç kavunu kadar geniş yapraklardan yapılan Yongchun oolong'u — tatlı armut ve cennet hurması meyvesi, yumuşak gövdeli, az buruklukla.",
     "oxidation": "yaklaşık 40%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "7 demleme",
@@ -1120,7 +1120,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-muzha-tieguanyin": {
     "name": "Tieguanyin (Muzha)",
-    "oneLine": "Taipei'den uzun kömür fırınlı Tieguanyin — kavrulmuş meyve ve karamel.",
+    "oneLine": "19. yüzyıl sonundan beri uzun ve sık kömürde fırınlanan Muzha Tieguanyin'i — kavrulmuş meyve ve karamel tatlılığı, sonda hafif bir yanıkla.",
     "oxidation": "yaklaşık 45%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "8 demleme",
@@ -1136,7 +1136,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-milan": {
     "name": "Mi Lan Xiang Dancong",
-    "oneLine": "Orkide üzerinde bal — en çok dikilen Phoenix dancong aroması.",
+    "oneLine": "En yaygın dikilen Phoenix dancong aroması, orkidenin üzerine serilmiş bal — dolgun bir gövde, tatlı kokusunu uzun bir bitişe taşır.",
     "oxidation": "yaklaşık 45%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "10+ demleme",
@@ -1152,7 +1152,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-yashixiang": {
     "name": "Ya Shi Xiang",
-    "oneLine": "Gümüşi, serin çiçekli bir dancong için kaba bir ad.",
+    "oneLine": "Kaba adı bir 'gümüş çiçek' aromasını gizleyen bir Phoenix dancong'u — serin müge çiçekleri ve parlak tatlılık, bitişi uzun.",
     "oxidation": "yaklaşık 45%",
     "ratioNote": "110 ml'lik gaiwan'da 7 g",
     "rounds": "10+ demleme",
@@ -1168,7 +1168,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-hongshui": {
     "name": "Hong Shui Oolong",
-    "oneLine": "Tayvan'ın eski, derin okside tarzı — kırmızı demli bir oolong.",
+    "oneLine": "Tayvan'ın eski oolong tarzı, yaklaşık %60 okside edilip fırınlanır — kırmızı bir demin üzerinde olgun meyve, bal ve kavrulmuş bir nota, neredeyse siyah çay kadar koyu.",
     "oxidation": "yaklaşık 60%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "7 demleme",
@@ -1184,7 +1184,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-thai-doi": {
     "name": "Oolong (Doi Mae Salong)",
-    "oneLine": "Tayvan yöntemleri ve fideleriyle yetiştirilmiş Tayland yayla oolong'u.",
+    "oneLine": "Tayvan yöntemleri ve fidelerine dayanan kuzey Tayland oolong'u — hafif çiçekler ve tatlılık, Tayvan'ın yüksek dağ fincanlarından daha yumuşak.",
     "oxidation": "yaklaşık 25%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6 demleme",
@@ -1200,7 +1200,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-vietnam-mocchau": {
     "name": "Oolong (Moc Chau)",
-    "oneLine": "Fransızların ilk diktiği bir platodan Vietnam yayla oolong'u.",
+    "oneLine": "Fransızların ilk çay diktiği Vietnam'ın Moc Chau platosundan oolong — ot, hafif çiçekler ve temiz tatlılık, Tayvan'ınkinden daha taze.",
     "oxidation": "yaklaşık 30%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "5 demleme",
@@ -1216,7 +1216,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-guihua": {
     "name": "Osmanthus Çayı",
-    "oneLine": "Sonbahar osmanthusu yaprağa katmanlanmış — kayısı tatlısı.",
+    "oneLine": "Sonbahar osmanthus çiçeğinin yaprağa tekrar tekrar katmanlanmasıyla kokulandırılan çay — yumuşak tatlılığın üzerinde kayısı ve şeftali benzeri çiçekler.",
     "oxidation": "yaklaşık 60% (baza göre değişir)",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "3 demleme",
@@ -1232,7 +1232,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-qilai": {
     "name": "Qilai Yüksek Dağ Oolong'u",
-    "oneLine": "1.400–2.000 m'de, Qilai Dağı'ndan bir Tayvan yüksek dağ oolong'u.",
+    "oneLine": "2.000 m'nin üzerinde, Qilai Dağı'nın bulutları arasında geç keşfedilmiş bir Tayvan yüksek dağ oolong'u — berrak çiçekler, kremsi bir yumuşaklık ve serin bir tatlılık.",
     "oxidation": "20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6–7 demleme",
@@ -1248,7 +1248,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-honey": {
     "name": "Bal Kokulu Oolong",
-    "oneLine": "Yaprak biti ısırıklı yapraklardan, top yuvarlanmış ve balla kokan bir Tayvan oolong'u.",
+    "oneLine": "İlaçsız bahçelerde yaprak biti ısırıklı yapraklardan, top yuvarlanmış bir Tayvan oolong'u — uzun bir tatlılıkta bal, olgun şeftali ve çiçekler.",
     "oxidation": "50%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "5–6 demleme",
@@ -1264,7 +1264,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-red": {
     "name": "Kırmızı Oolong",
-    "oneLine": "Neredeyse siyah çay düzeyinde okside edilip top yuvarlanmış yeni bir Taitung oolong'u.",
+    "oneLine": "2000'lerde Taitung, Luye'de doğan, neredeyse siyah çaya kadar okside edilip top yuvarlanmış yeni bir oolong — kırmızı-kehribar bir demde olgun meyve, bal ve kavrulmuş tahıl.",
     "oxidation": "yaklaşık 75%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6–7 demleme",
@@ -1280,7 +1280,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-qilan": {
     "name": "Qilan",
-    "oneLine": "Hem Wuyi'de hem güney Fujian'da yapılan, orkide kokulu bir kültivar oolong'u.",
+    "oneLine": "Hem Wuyi hem güney Fujian tarzında yapılan, orkide adını taşıyan bir kültivar — hafif kavurma ve tatlılığın üzerinde berrak orkide ve bitki notaları.",
     "oxidation": "45%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "7–8 demleme",
@@ -1296,7 +1296,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-meizhan": {
     "name": "Meizhan",
-    "oneLine": "Erik çiçeği koktuğu söylenen klasik bir Fujian kültivar oolong'u.",
+    "oneLine": "Erik çiçeği koktuğu söylenen, siyah ve yeşil çaylara da işlenen klasik bir Fujian kültivarı — erik çiçeği çiçeksiliği, hafif meyve ve yumuşak bir tatlılık.",
     "oxidation": "40%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "6–7 demleme",
@@ -1312,7 +1312,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-tieluohan": {
     "name": "Tie Luo Han",
-    "oneLine": "Wuyi'nin dört büyük mingcong'undan biri — tıbbi bir yanı olan derin bir kaya çayı.",
+    "oneLine": "Wuyi'nin dört büyük mingcong'u arasında en eskilerinden sayılan biri — kalın, ağırlıklı bir tatlılıkla tıbbi bitkiler, mineraller ve kavrulmuş tahıl.",
     "oxidation": "55%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "7–8 demleme",
@@ -1328,7 +1328,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-baijiguan": {
     "name": "Bai Ji Guan",
-    "oneLine": "Soluk sarı-beyaz tomurcuklarıyla tanınan, hafif ve berrak bir Wuyi mingcong'u.",
+    "oneLine": "Soluk sarı-beyaz tomurcukları bir bakışta göze çarpan, onları korumak için hafif kavrulmuş bir Wuyi mingcong'u — berrak çiçekler, hafif bir bitkisel nota ve serin bir tatlılık.",
     "oxidation": "40%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "6–7 demleme",
@@ -1344,7 +1344,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-shuijingui": {
     "name": "Shui Jin Gui",
-    "oneLine": "Bir kaplumbağa kabuğu efsanesinden adını alan, nazik ve tatlı bir Wuyi mingcong'u.",
+    "oneLine": "Sel sularıyla sürüklenmiş, kaplumbağa kabuğu desenli bir çalıdan adını alan bir Wuyi mingcong'u — yuvarlak, nazik bir tatlılığın üzerinde yumuşak çiçekler ve kavurma.",
     "oxidation": "50%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "7–8 demleme",
@@ -1360,7 +1360,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-bantianyao": {
     "name": "Ban Tian Yao",
-    "oneLine": "Uçurum ortası çalılarından, belirgin kaya karakterli bir Wuyi mingcong'u.",
+    "oneLine": "Bir uçurumun belinde, gökle yer arasında yetişen çalılardan bir Wuyi mingcong'u — uzun bir finalde belirgin kaya karakteri, kavurma ve derin bir tatlılık.",
     "oxidation": "50%",
     "ratioNote": "110 ml'ye 7 g",
     "rounds": "7–8 demleme",
@@ -1376,7 +1376,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-zhangping": {
     "name": "Zhangping Shuixian",
-    "oneLine": "Nadir bir preslenmiş oolong — Shuixian yaprağı, kâğıda sarılı kareler hâlinde sıkıştırılmış.",
+    "oneLine": "Nadir bir preslenmiş oolong — Shuixian yaprağı kare kalıplara yerleştirilip kâğıda sarılmış — parlak altın renginde orkide, serin bir yeşil nota ve berrak bir tatlılık.",
     "oxidation": "30%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6–7 demleme",
@@ -1392,7 +1392,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-yunnan": {
     "name": "Yunnan Oolong",
-    "oneLine": "Tayvan'ın top yuvarlanmış oolong tarzında yapılmış Yunnan iri yapraklı çayı.",
+    "oneLine": "Pu'er'in anavatanından Yunnan iri yapraklı çayı, Tayvan usulü bezle toplara yuvarlanmış — çiçeklerin altında derin malt ve bal tatlılığı, kalın bir gövdeyle.",
     "oxidation": "30%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "5–6 demleme",
@@ -1408,7 +1408,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-darjeeling": {
     "name": "Darjeeling Oolong",
-    "oneLine": "Darjeeling bahçelerinde kısmi oksidasyonla yapılan, oolong tarzı bir çay.",
+    "oneLine": "Küçük partilik bir Darjeeling tarzı; siyah çay yaprağı kısmi oksidasyonda durdurulmuş — parlak bakır bir demde misket üzümü, kayısı ve çiçekler, hafif ve berrak.",
     "oxidation": "40%",
     "ratioNote": "150 ml'ye 5 g",
     "rounds": "4–5 demleme",
@@ -1424,7 +1424,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-huangzhi": {
     "name": "Huangzhi Xiang Dancong",
-    "oneLine": "Berrak, tatlı gardenya benzeri kokulu bir Phoenix dancong'u.",
+    "oneLine": "Tek çalılık bir Phoenix dancong'u; gardenya kokusu asla eklenmiş çiçeklerden değil, yaprağın kendisinden gelir — berrak bir finalle tatlı gardenya ve olgun meyve.",
     "oxidation": "yaklaşık 40%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 9 demleme",
@@ -1440,7 +1440,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-xingren": {
     "name": "Xingren Xiang Dancong",
-    "oneLine": "Kavrulmuş badem aromalı, kızarmış bir Phoenix dancong'u.",
+    "oneLine": "Kavrulmuş bademden adını alan tek çalılık bir Phoenix dancong'u — kızarmış kuruyemişler, kısa bir acı kenardan yumuşak bir yudumda tatlılığa döner.",
     "oxidation": "yaklaşık 45%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 8 demleme",
@@ -1456,7 +1456,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-rougui": {
     "name": "Rougui Xiang Dancong",
-    "oneLine": "Sıcak, tarçın benzeri baharat notalı bir Phoenix dancong'u.",
+    "oneLine": "Wuyi'nin Rougui kültivarıyla ilgisi olmayan, doğal bir tarçın notasına sahip bir Phoenix dancong'u — dolgun bir gövdede ve uzun bir finalde sıcak baharat ve hafif kavurma.",
     "oxidation": "yaklaşık 50%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 9 demleme",
@@ -1472,7 +1472,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-guihua": {
     "name": "Guihua Xiang Dancong",
-    "oneLine": "Osmanthus kokusu yaprağın kendisinden gelen bir Phoenix dancong'u.",
+    "oneLine": "Çiçekle harmanlanmış oolong'ların aksine, osmanthus kokusu yaprağın kendisinde olan doğal bir aroma tipi — kayısının üzerinde tatlı çiçekler, berrak bir finalle.",
     "oxidation": "yaklaşık 35%",
     "ratioNote": "120 ml'lik gaiwan'da 5 g",
     "rounds": "yaklaşık 8 demleme",
@@ -1488,7 +1488,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-zhilan": {
     "name": "Zhilan Xiang Dancong",
-    "oneLine": "Daha ince aroma tipleri arasında sayılan, zarif orkide kokulu bir dancong.",
+    "oneLine": "Zhilan orkide kokusuyla daha ince aroma tipleri arasında sayılan tek çalılık bir dancong — zarif orkide aroması, narin bir tatlılık, uzun ve berrak bir final.",
     "oxidation": "yaklaşık 40%",
     "ratioNote": "120 ml'lik gaiwan'da 5 g",
     "rounds": "yaklaşık 10 demleme",
@@ -1504,7 +1504,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-yelai": {
     "name": "Yelai Xiang Dancong",
-    "oneLine": "Yoğun, tatlı gece çiçeği kokulu bir Phoenix dancong'u.",
+    "oneLine": "Gece açan yelai çiçeği kadar yoğun bir tatlılığa sahip bir Phoenix dancong'u — gece çiçeği aroması ve ballı bir final, ama temiz bir ağızda kalan tat.",
     "oxidation": "yaklaşık 40%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 9 demleme",
@@ -1520,7 +1520,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-tongtian": {
     "name": "Tongtian Xiang Dancong",
-    "oneLine": "Aroması yüksek ve güçlü yükselen bir Phoenix dancong'u — 'göğe ulaşan'.",
+    "oneLine": "Yüksek ve güçlü yükselen aroması için 'göğe ulaşan' diye adlandırılan bir Phoenix dancong'u — çiçekler ilk demlemeden itibaren yükselir, parlak ve canlı, berrak bir finalle.",
     "oxidation": "yaklaşık 35%",
     "ratioNote": "120 ml'lik gaiwan'da 5 g",
     "rounds": "yaklaşık 10 demleme",
@@ -1536,7 +1536,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-youhua": {
     "name": "Youhua Xiang Dancong",
-    "oneLine": "Taze pomelo çiçeği kokulu bir Phoenix dancong'u.",
+    "oneLine": "İlkbahar pomelo çiçeğinin taze kokusundan adını alan bir Phoenix dancong'u — hafif bir gövdenin üzerinde pomelo ve narenciye çiçekleri, belirgin ve berrak bir tatlılık.",
     "oxidation": "yaklaşık 35%",
     "ratioNote": "120 ml'lik gaiwan'da 5 g",
     "rounds": "yaklaşık 8 demleme",
@@ -1552,7 +1552,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-songzhong": {
     "name": "Song Zhong Dancong",
-    "oneLine": "Song hanedanına kadar uzandığı söylenen yaşlı çalı dancong soyu.",
+    "oneLine": "Wudong'un yüksekliklerinden, Song hanedanı dikimlerinden indiği söylenen yaşlı çalılık bir Phoenix dancong'u — ağırlıklı bir tatlılığın ve uzun bir finalin üzerinde derin çiçekler.",
     "oxidation": "yaklaşık 45%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 10 demleme",
@@ -1568,7 +1568,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-baxian": {
     "name": "Baxian Dancong",
-    "oneLine": "Sekiz Ölümsüz'ün adını taşıyan, büyük ve yumuşak yapraklı bir dancong.",
+    "oneLine": "Sekiz Ölümsüz'ün adını taşıyan, büyük ve yumuşak yapraklı bir Phoenix dancong'u — büyük yapraklardan yumuşak, berrak çiçekler ve cömert, dengeli bir tatlılık.",
     "oxidation": "yaklaşık 40%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 9 demleme",
@@ -1584,7 +1584,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-dancong-dawuye": {
     "name": "Da Wu Ye Dancong",
-    "oneLine": "Güçlü aroma ve gövdeli, büyük ve koyu yapraklı bir dancong hattı.",
+    "oneLine": "Kalın demlendiğinde buz üzerinde bile aromasını koruyan, büyük ve koyu yapraklı bir dancong hattı — yoğun çiçekler, ağır bir gövde, acılığın ardından güçlü bir tatlı dönüş.",
     "oxidation": "yaklaşık 50%",
     "ratioNote": "120 ml'lik gaiwan'da 6 g",
     "rounds": "yaklaşık 10 demleme",
@@ -1600,7 +1600,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-assam": {
     "name": "Assam Oolong",
-    "oneLine": "Oolong olarak yapılmış assamica yaprağı — oolong aromasının altında malt.",
+    "oneLine": "Assam'ın Brahmaputra bahçelerinden daha yeni bir tarz; siyah çay yaprağı yarı oksidasyonda durdurulmuş — oolong çiçekleriyle katmanlanmış malt, bal ve kavrulmuş tahıl.",
     "oxidation": "Yaklaşık 40%",
     "ratioNote": "150 ml'ye 5 g",
     "rounds": "5 demleme",
@@ -1616,7 +1616,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-ceylon": {
     "name": "Seylan Oolong'u",
-    "oneLine": "Yüksekte yetişmiş Sri Lanka yaprağı, yarı okside — oolong çiçekleriyle Seylan parlaklığı.",
+    "oneLine": "1.200 m civarında, Uva ve diğer bahçelerde siyah çayla yan yana yapılan küçük partilik bir oolong — parlak bir çerçevenin üzerinde berrak narenciye ve çiçekler, hafif balla.",
     "oxidation": "Yaklaşık 30%",
     "ratioNote": "150 ml'ye 5 g",
     "rounds": "5 demleme",
@@ -1632,7 +1632,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-ruby": {
     "name": "Ruby Oolong",
-    "oneLine": "Tayland yaylalarından koyu kavrulmuş top oolong — yakut demi, kuru meyve tatlılığı.",
+    "oneLine": "Kırmızı demi için adlandırılmış, Doi Mae Salong çevresinde Tayvan ustalığıyla yapılan ağır kavrulmuş bir top oolong — kavrulmuş kuruyemişlerle kuru erik ve kuru üzüm tatlılığı.",
     "oxidation": "Yaklaşık 50%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6 demleme",
@@ -1648,7 +1648,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-jeju": {
     "name": "Jeju Volkanik Kaya Çayı",
-    "oneLine": "Jeju'nun volkanik tarlalarından Kore oolong'u — mineral kenarlı temiz bir fincan.",
+    "oneLine": "Bazalt toprakta, deniz rüzgârında ve geniş gece-gündüz farklarıyla yetişmiş Jeju yaprağından yarı okside bir oolong — mineral kenarlı ve düzgün tatlılıklı, temiz çiçekler ve çimen.",
     "oxidation": "Yaklaşık 30%",
     "ratioNote": "150 ml'ye 5 g",
     "rounds": "5 demleme",
@@ -1664,7 +1664,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-cheong": {
     "name": "Cheong Oolong",
-    "oneLine": "Kore'de yapılmış Tayvan tarzı hafif oolong — berrak, çiçekli bir qingcha.",
+    "oneLine": "Jeju, Boseong ve Hadong'da Kore yaprağından yapılan Tayvan tarzı hafif oksidasyonlu bir qingcha — yeşil çay ile oolong arasında taze, berrak orkide ve çayır çiçekleri.",
     "oxidation": "Yaklaşık 20%",
     "ratioNote": "150 ml'ye 6 g",
     "rounds": "6 demleme",
@@ -1680,7 +1680,7 @@ window.TEAFaiDataTur = (function () {
   },
   "oolong-jasmine": {
     "name": "Yasemin Ejderha İncileri Oolong",
-    "oneLine": "İnciler hâlinde yuvarlanıp yaseminle kokulandırılmış, hafif okside oolong.",
+    "oneLine": "Yasemin ejderha incileri genelde yeşil bazlıdır; Tayvan'ın nadir versiyonu bir oolong bazı yuvarlar — soluk krem bir demde berrak yasemin ve nazik bir tatlılık.",
     "oxidation": "Yaklaşık 20%",
     "ratioNote": "150 ml'ye 3 g",
     "rounds": "3 veya daha fazla demleme",
@@ -1696,7 +1696,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-darjeeling-first": {
     "name": "Darjeeling First Flush",
-    "oneLine": "İlkbahar tomurcuğu: üzüm ve çiçek — çayın şampanyası.",
+    "oneLine": "Himalaya'da 2.000 m'deki sisli bahçelerden 'çayın şampanyası'nın ilk hasadı — düşük oksidasyon, yeşil üzüm, muscatel ve beyaz çiçeklerin hafifçe açılmasını sağlar.",
     "oxidation": "85%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1710,7 +1710,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-assam": {
     "name": "Assam",
-    "oneLine": "Malt ve dolgun bir gövde — sütlü çayın bel kemiği.",
+    "oneLine": "Dünyanın en büyük siyah çay bölgesi olan Brahmaputra ovasından büyük yapraklı çay — kalın bir gövdede malt, bal ve kuru üzüm, sütlü çayın bel kemiği.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 5 g; sütlü çay için 150 ml'ye 5 g",
     "rounds": "1–2 demleme",
@@ -1724,7 +1724,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-assam-ctc": {
     "name": "Assam CTC",
-    "oneLine": "Hızlı ve güçlü demlenen ezilmiş yaprak — chai'nin ve poşet çayın yıldızı.",
+    "oneLine": "1930'da Amgoorie'deki ilk makineyle başlayan CTC siyah çayı — granül yaprak koyu kırmızı demlenir, süt ve baharata dayanan cesur bir malt verir.",
     "oxidation": "95%",
     "ratioNote": "150 ml için 3 g; sade içimde 200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1738,7 +1738,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-nilgiri": {
     "name": "Nilgiri",
-    "oneLine": "Güney Hindistan'ın yayla çayı: serin bir aroma, yumuşak bir burukluk.",
+    "oneLine": "İlk ticari bahçelerin 1859'da açıldığı Mavi Dağlar'dan siyah çay — narenciye ve nane serinliği, yumuşak bir maltın üzerinde berrak durur.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1752,7 +1752,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-nuwaraeliya": {
     "name": "Nuwara Eliya",
-    "oneLine": "Seylan'ın sis içindeki en yüksek bahçeleri, 1.800 m'de — en parlak ve en narin çayı.",
+    "oneLine": "1.800 m'deki en yüksek bahçelerinden 'Seylan'ın şampanyası' — serin hava narenciye, beyaz çiçekler ve bir nane dokunuşunu parlak ve narin tutar.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1766,7 +1766,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-udapussellawa": {
     "name": "Uda Pussellawa",
-    "oneLine": "Nuwara Eliya'nın yanı başında, gül notalı küçük bir bölge.",
+    "oneLine": "Seylan'ın yedi bölgesinin en küçüğünden çay — serin mevsim gülü ve hafif narenciye, parlak bitişli orta bir gövdenin üzerinde.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1780,7 +1780,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-uva": {
     "name": "Uva",
-    "oneLine": "Kuru muson rüzgârının çayı: mentol benzeri bir serinlik.",
+    "oneLine": "İki musonun buluştuğu Uva, en iyisi Temmuz-Eylül kuru mevsiminde — mentol ve okaliptüs serinliği, sonda buruklukla gelir.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1794,7 +1794,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-dimbula": {
     "name": "Dimbula",
-    "oneLine": "Seylan'ın orta yaylaları: dengeli, standart siyah çay.",
+    "oneLine": "Seylan'ın orta yaylalarından English breakfast harmanlarının bir direği — çiçek, narenciye ve malt dengede, orta buruklukla.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1808,7 +1808,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-sabaragamuwa": {
     "name": "Sabaragamuwa",
-    "oneLine": "Seylan'ın güneybatı alçak bölgesi; kokusunda meyve var.",
+    "oneLine": "Yaprağı yumuşak tutulan, nemli güneybatı alçak bölgesinden bir Seylan çayı — olgun meyve ve bal, yumuşak bir gövdede yuvarlakça oturur.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1822,7 +1822,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-kandy": {
     "name": "Kandy",
-    "oneLine": "Seylan çayının başladığı yer: yumuşak, orta yükseklik siyah çayı.",
+    "oneLine": "Seylan çayının başladığı yer, Taylor'ın 1867'deki ilk ticari dikimiyle — orta yükseklik yaprakları yumuşak malt ve çiçekler verir, az buruklukla.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1836,7 +1836,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-ruhuna": {
     "name": "Ruhuna",
-    "oneLine": "Seylan'ın güney alçak bölgesi: koyu ve geniş.",
+    "oneLine": "Güney alçak bölgesinden, sıcakta hızla okside olan bir Seylan çayı — en koyu dem, geniş malt ve sütlü çay için yapılmış güçlü burukluk.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 4 g",
     "rounds": "1–2 demleme",
@@ -1850,7 +1850,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Gül, orkide ve bitter çikolata — Çin siyah çayının ölçütü, dünyanın en büyük üç siyah çayından biri.",
+    "oneLine": "Dünyanın üç büyük siyah çayından biri, 1875'ten beri Fujian yöntemiyle yapılır — ince kıvrılmış yapraklar gül, orkide ve bitter çikolatayla açılır, uzun bir bitişle.",
     "oxidation": "90%",
     "ratioNote": "150 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1864,7 +1864,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-lapsang": {
     "name": "Lapsang Souchong",
-    "oneLine": "Çam dumanında kurutulmuş: var olan en güçlü kokulu siyah çay.",
+    "oneLine": "Askerlerden kaçarken okside olan ve çam üzerinde alelacele kurutulan yapraktan doğan siyah çay — çam dumanı, katran ve kuru meyve, derin ve ağır.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1878,7 +1878,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-jinjunmei": {
     "name": "Jin Jun Mei",
-    "oneLine": "Lapsang tarzında yalnızca tomurcuklardan yapılır — en değerli siyah çaylardan biri.",
+    "oneLine": "Yalnızca Lapsang bahar tomurcuklarından 2005'te yaratılan değerli siyah çay — duman yok, böylece bal, beyaz çiçekler ve kuru kayısı kalır, yumuşak ve uzun bir tatlılıkla.",
     "oxidation": "85%",
     "ratioNote": "150 ml için 3 g",
     "rounds": "2 demleme",
@@ -1892,7 +1892,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-dianhong": {
     "name": "Dianhong",
-    "oneLine": "Yunnan'ın büyük yaprak gücü: parlak altın rengi ve bal.",
+    "oneLine": "İlk kez 1939'da Fengqing'de yapılan genç bir Yunnan büyük yapraklı siyah çayı — uzun oksidasyon, kalın bir gövdede altın tomurcuklar, bal ve kuru erik getirir.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 5 g",
     "rounds": "1–2 demleme",
@@ -1906,7 +1906,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-masala": {
     "name": "Masala Chai",
-    "oneLine": "Baharat ve sütle kaynatılan siyah çay — Hindistan'ın çaycı tezgâhından (chai-wallah) gelen günlük fincanı.",
+    "oneLine": "Sömürge Hindistan'ında yerleşen, çaycının günlük fincanı — güçlü Assam CTC, zencefil, kakule, tarçın ve sütle kaynatılır, sıcak ve yuvarlak.",
     "oxidation": "95%",
     "ratioNote": "150 ml için 5 g, sonra yarı yarıya süt",
     "rounds": "Tek kaynatma",
@@ -1920,7 +1920,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-sikkim": {
     "name": "Temi (Sikkim)",
-    "oneLine": "Doğu Himalaya: tamamen organik olmasıyla bilinen küçük bir bahçe.",
+    "oneLine": "Hindistan'ın tamamen organik ilk eyaletindeki Sikkim'in tek bahçesinden — Himalaya yükseklikleri, yumuşak bir gövdenin üzerinde çiçekler ve hafif muscatel ile açılır.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1934,7 +1934,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-nepal": {
     "name": "Ilam (Nepal)",
-    "oneLine": "Doğu Himalaya: Darjeeling'in yanı başında, yüksekte yetişen bir siyah çay.",
+    "oneLine": "Darjeeling'in hemen yanındaki Nepal, Ilam'dan yüksekte yetişen siyah çay — küçük çiftlik yaprakları çiçekler, yeşil üzüm ve muscatel ile hafifçe açılır.",
     "oxidation": "90%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1948,7 +1948,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-kenya": {
     "name": "CTC (Kenya)",
-    "oneLine": "Ekvator yaylası CTC'si: koyu renk ve güç.",
+    "oneLine": "Dünyanın en büyük üç siyah çay ihracatçısından biri olan ekvator Kenya'sından CTC — parçalanmış yaprak koyu kırmızı dem, güçlü malt ve süte dayanıklı güç verir.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 4 g",
     "rounds": "1–2 demleme",
@@ -1962,7 +1962,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-jaksal": {
     "name": "Jaksal (Hadong)",
-    "oneLine": "Kore yaprağından Hadong'da yapılan bir siyah çay; jaksal, yöre dilinde serçe dili demektir.",
+    "oneLine": "Jaksal, Jiri Dağı eteklerinde tamamen okside olmuş Hadong yeşil yaprağı — genç yaprak için yöre dilindeki adı, bal, kuru meyve ve yumuşak malt taşır.",
     "oxidation": "90%",
     "ratioNote": "150 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -1976,7 +1976,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-ruby18": {
     "name": "Sun Moon Lake",
-    "oneLine": "Tayvan yabani çayı ile Burma assamica'sının melezi — nane ve tarçın.",
+    "oneLine": "Sun Moon Lake'in Ruby'si, Tayvan yabani çayı ile Burma assamica'sının melezi — uzun okside büyük yaprak nane, tarçın ve muskat soluğu verir, bitişi uzun.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 5 g",
     "rounds": "1–2 demleme",
@@ -1990,7 +1990,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-sheng": {
     "name": "Sheng Pu-erh",
-    "oneLine": "Olgunlaşmamış pu-erh — yıllandırmayı zaman ve mikroplar yapar.",
+    "oneLine": "Bir zamanlar Qing haraçı olan Yunnan sheng pu-erh'i — preslenip yıllandırılır, kuru meyve ve baldan hünnap, otlar ve yaşlı oduna olgunlaşır.",
     "oxidation": "Sonradan fermente · ham",
     "ratioNote": "Gaiwan'da 100 ml için 5 g; bir kez durulayın",
     "rounds": "8 veya daha fazla demleme",
@@ -2004,7 +2004,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-shou": {
     "name": "Shou Pu-erh",
-    "oneLine": "Önceden olgunlaştırılmış pu-erh — şimdi içebileceğiniz topraksı fincan.",
+    "oneLine": "1973'te Kunming'de geliştirilen wo dui ile önceden olgunlaştırılmış shou pu-erh — toprak, hünnap ve mantar, yumuşak bir tatlılıkla, uzun bekleyiş olmadan.",
     "oxidation": "Sonradan fermente · olgun",
     "ratioNote": "100 ml için 5 g; iki kez durulayın",
     "rounds": "8 veya daha fazla demleme",
@@ -2018,7 +2018,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-anhua": {
     "name": "Anhua Koyu Çayı",
-    "oneLine": "Hunan, Anhua'dan preslenmiş koyu çay; bin liang'lık kütüğüyle ünlü.",
+    "oneLine": "Ming-Qing sınır çayının yurdu ve bin liang'lık kütükleriyle ünlü Anhua koyu çayı — çam dumanında kurutulur; duman, hünnap ve derin otlar için.",
     "oxidation": "Sonradan fermente",
     "ratioNote": "150 ml için 5 g",
     "rounds": "6 veya daha fazla demleme",
@@ -2032,7 +2032,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-liubao": {
     "name": "Liu Bao",
-    "oneLine": "Guangxi'nin bambu sepetlerde yıllandırılan koyu çayı.",
+    "oneLine": "Qing'de Çin'in 24 ünlü çayı arasında sayılan Guangxi'nin Liu Bao'su — mantar, betel cevizi ve yumuşak tatlılık için bambu sepetlerde yıllandırılır.",
     "oxidation": "Sonradan fermente",
     "ratioNote": "150 ml için 5 g",
     "rounds": "6 veya daha fazla demleme",
@@ -2046,7 +2046,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-cheongtaejeon": {
     "name": "Cheongtaejeon",
-    "oneLine": "Jangheung'dan bozuk para biçimli fermente çay — Kore'nin koyu çayı.",
+    "oneLine": "Joseon bozuk parası biçiminde Jangheung'da canlandırılan Kore koyu çayı — buharlanır, preslenir ve fermente edilir; sıcak toprak, otlar ve hünnap için.",
     "oxidation": "Sonradan fermente",
     "ratioNote": "Bir adet (5 g) için 200 ml",
     "rounds": "3 veya daha fazla demleme",
@@ -2060,7 +2060,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-earlgrey": {
     "name": "Earl Grey",
-    "oneLine": "Bergamotla kokulandırılmış siyah çay — adı bir marka değil, 200 yıllık bir ticarettir.",
+    "oneLine": "Asıl kokulu siyah çay, 1830'ların Earl Grey efsanesine batmış — Calabria bergamotu narenciye ve çiçeklere açılır.",
     "oxidation": "95%",
     "ratioNote": "1 ölçü yaprak, 60 ölçü su — 200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -2074,7 +2074,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-ladygrey": {
     "name": "Lady Grey",
-    "oneLine": "Limon ve portakal kabuğu ve çiçeklerle Earl Grey — daha yumuşak bir çeşidi.",
+    "oneLine": "Kontes Grey'in adını taşıyan, Twinings'in daha yumuşak çeşidi — bergamota limon ve portakal kabuğu ile çiçekler katılır, hafif bir tatlılıkla.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -2088,7 +2088,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-englishbreakfast": {
     "name": "English Breakfast",
-    "oneLine": "Assam, Seylan ve Keemun'dan güçlü bir sabah harmanı.",
+    "oneLine": "19. yüzyıl İngiliz kahvaltı sofralarında yerleşen güçlü harman — Assam, Seylan ve Keemun; malt, bal ve kuru meyvede, süte dayanır.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 4 g",
     "rounds": "1–2 demleme",
@@ -2102,7 +2102,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-hongkong": {
     "name": "Hong Kong Harmanı",
-    "oneLine": "Ana bazı Seylan çayı olan, Hong Kong cha chaan teng'inin imza sütlü çay harmanı.",
+    "oneLine": "Hong Kong'un cha chaan teng'lerinde yeniden doğan İngiliz sütlü çayı — güçlü, Seylan bazlı bir dem, cesur malt ve buharlaştırılmış sütün yuvarlak tatlılığıyla.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 8 g; süt damak tadınıza göre",
     "rounds": "Tek demleme",
@@ -2116,7 +2116,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-lapsang-unsmoked": {
     "name": "Zhengshan Xiaozhong (fümesiz)",
-    "oneLine": "Dumansız dal — çiçekler ve kuru meyve apaçık ortada.",
+    "oneLine": "Yalnızca kömürde kurutulan, çam dumanı olmayan Zhengshan Xiaozhong — kuru meyve, bal ve çiçekler, onun yerinde temizce görünür.",
     "oxidation": "yaklaşık %90",
     "ratioNote": "150 ml için 3 g",
     "rounds": "3 demleme",
@@ -2132,7 +2132,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-yingde": {
     "name": "Siyah Çay (Yingde)",
-    "oneLine": "Guangdong'un büyük yaprak gücü — koyu ve parlak.",
+    "oneLine": "Guangdong büyük yaprak gücüne dayanan Yingde siyah çayı — malt, bal ve kırmızı meyve, sütle bile canlılığını koruyan koyu bir demde.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "200 ml için 3 g; sütlü çay için 150 ml'ye 5 g",
     "rounds": "3 demleme",
@@ -2148,7 +2148,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-rize": {
     "name": "Rize Çayı",
-    "oneLine": "Küçük lale bardakta güçlü çay — Karadeniz'in günlük fincanı.",
+    "oneLine": "Karadeniz'deki Rize'den Türkiye'nin günlük çayı — malt ve fırın ekmeği, küçük bir lale bardağa koyu kırmızı dem hâlinde güçlü demlenir.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "150 ml için 4 g",
     "rounds": "2 demleme",
@@ -2164,7 +2164,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-cameron": {
     "name": "Siyah Çay (Cameron Highlands)",
-    "oneLine": "Ekvator yaylasındaki bir bahçeden güçlü, yuvarlak bir çay.",
+    "oneLine": "Bir bahçenin 1929'dan beri çay yetiştirdiği Malezya'nın Cameron Highlands'inden siyah çay — süt için yapılmış koyu bir demde malt ve kızarmışlık.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2180,7 +2180,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-rwanda": {
     "name": "Siyah Çay (Ruanda)",
-    "oneLine": "Doğu Afrika yaylalarından parlak, temiz siyah çay.",
+    "oneLine": "1.600 m'de sisli tepelerde yavaşça yetişen Ruanda siyah çayı — koyu kırmızı bir demde parlak kenarlı malt, Kenya çayından daha yumuşak.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2196,7 +2196,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-dooars": {
     "name": "Siyah Çay (Dooars)",
-    "oneLine": "Darjeeling ile Assam arasındaki güçlü ova çayı.",
+    "oneLine": "Darjeeling ile Assam arasındaki güçlü ova çayı — malt ve kızarmışlık, adil bir tutuşla, sütlü bir kahvaltı fincanı için.",
     "oxidation": "yaklaşık %92",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2212,7 +2212,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-yeongdeok": {
     "name": "Siyah Çay (Yeongdeok)",
-    "oneLine": "Doğu kıyısı tepelerinden küçük bir Kore siyah çayı.",
+    "oneLine": "Yeongdeok'un doğu kıyısı tepelerinden küçük çiftlik Kore siyah çayı, tamamen okside yaz yaprağı — malt, belli belirsiz bir çiçek notası ve yumuşak tatlılık.",
     "oxidation": "yaklaşık %90",
     "ratioNote": "150 ml için 3 g",
     "rounds": "3 demleme",
@@ -2228,7 +2228,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-fuzhuan": {
     "name": "Fu Tuğla Çayı",
-    "oneLine": "Tuğlanın içindeki sarı 'altın çiçekler' — Fu tuğla çayının işareti.",
+    "oneLine": "İçinde sarı 'altın çiçekler' açan tuğla çayı — mantar, toprak ve tahıl, yumuşak, yuvarlak bir tatlılığın üzerinde; çiçekler çoğaldıkça daha pürüzsüz.",
     "oxidation": "sonradan fermente",
     "ratioNote": "150 ml için 5 g; bir kez durulayın",
     "rounds": "8 demleme",
@@ -2244,7 +2244,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-qianliang": {
     "name": "Qianliang Çayı",
-    "oneLine": "Bambu içinde preslenmiş bir çay kütüğü; gerektiğinde kesip kullanırsınız.",
+    "oneLine": "Eski bin liang ağırlığından adını alan, bambu içinde preslenmiş uzun bir çay kütüğü — kesilip demlendiğinde bambu, toprak ve derin tatlılık verir, yaşla yumuşar.",
     "oxidation": "sonradan fermente",
     "ratioNote": "150 ml için 5 g; bir kez durulayın",
     "rounds": "8 demleme",
@@ -2260,7 +2260,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-kangzhuan": {
     "name": "Kangzhuan Çayı",
-    "oneLine": "Sichuan'ın Tibet için preslenmiş tuğlası — orada tereyağı ve tuzla kaynatılır.",
+    "oneLine": "Bir zamanlar Tibet'e giden Ya'an'ın sert preslenmiş tuğlası — toprak ve tahıl, tereyağı veya sütün yumuşattığı güçlü, biraz kaba bir tatlılıkla.",
     "oxidation": "sonradan fermente",
     "ratioNote": "150 ml için 5 g; bir kez durulayın",
     "rounds": "7 demleme",
@@ -2276,7 +2276,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-tibetan": {
     "name": "Tibet Tereyağı Çayı",
-    "oneLine": "Tereyağı ve tuzla çırpılan güçlü tuğla çayı — bir Tibet günü.",
+    "oneLine": "Tibet'in günlük içeceği, tuğla çayı güçlü kaynatılıp tereyağı ve tuzla çırpılır — koyu toprağın üzerinde tereyağlı zenginlik ve tuzlu bir kenar, içten ısıtır.",
     "oxidation": "sonradan fermente",
     "ratioNote": "500 ml su için 8 g; tereyağı ve tuz damak tadınıza göre",
     "rounds": "1 demleme, konsantre olarak içilir",
@@ -2292,7 +2292,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-laoqingzhuan": {
     "name": "Lao Qingzhuan",
-    "oneLine": "Bir zamanlar Moğolistan ve Rusya'ya yolculuk eden Hubei'nin preslenmiş koyu çayı.",
+    "oneLine": "Zhaoliqiao'dan, bir zamanlar Moğolistan ve Rusya'ya ticareti yapılan Hubei'nin yeşil tuğla çayı — yıllanmış tuğlalar toprak, tahıl ve sakin, yumuşak bir tatlılık verir.",
     "oxidation": "sonradan fermente",
     "ratioNote": "150 ml için 5 g; bir kez durulayın",
     "rounds": "7 demleme",
@@ -2308,7 +2308,7 @@ window.TEAFaiDataTur = (function () {
   },
   "dark-tianjian": {
     "name": "Tianjian Çayı",
-    "oneLine": "En üst kalite Anhua koyu çayı, dökme bırakılmış — yaprak biçimi korunur.",
+    "oneLine": "Yaprak biçimi korunsun diye dökme bırakılan Anhua'nın en üst kalite koyu çayı — duman ve toprak, hünnap benzeri tatlılıkla, preslenmiş çaydan daha hafif ve taze.",
     "oxidation": "sonradan fermente",
     "ratioNote": "150 ml için 5 g; bir kez durulayın",
     "rounds": "8 demleme",
@@ -2324,7 +2324,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-rose": {
     "name": "Gül Çayı",
-    "oneLine": "Siyah çayın üzerinde kurutulmuş gül tomurcukları — çiçeğin tek başına olduğundan daha derin.",
+    "oneLine": "Siyah çaya harmanlanmış kurutulmuş gül tomurcukları — gül parfümü ve ballı tatlılık, çayın maltı arkasında sağlam durur.",
     "oxidation": "yaklaşık %85 (siyah çay bazı)",
     "ratioNote": "200 ml için 3 g",
     "rounds": "3 demleme",
@@ -2340,7 +2340,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-lychee": {
     "name": "Liçi Siyah Çayı",
-    "oneLine": "Siyah çayın üzerine liçi — Guangdong'un meyve fincanı.",
+    "oneLine": "Liçi ile kokulandırılan Guangdong'un meyve siyah çayı — meyvenin tatlı parfümü maltın üzerinde, buz üzerine dökülse bile hâlâ berrak.",
     "oxidation": "yaklaşık %90",
     "ratioNote": "200 ml için 3 g",
     "rounds": "3 demleme",
@@ -2356,7 +2356,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-thaitea": {
     "name": "Cha Yen",
-    "oneLine": "Güçlü çay, yoğunlaştırılmış süt ve buz — Tayland'ın turuncu bardağı.",
+    "oneLine": "Tayland'ın turuncu sokak fincanı, ince kırılmış siyah çay yoğunlaştırılmış sütle buz üzerinde güçlü demlenir — derin malt ve kremsi tatlılık.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "150 ml için 5 g; yoğunlaştırılmış süt ve şeker damak tadınıza göre",
     "rounds": "1 demleme",
@@ -2372,7 +2372,7 @@ window.TEAFaiDataTur = (function () {
   },
   "blend-irish-breakfast": {
     "name": "Irish Breakfast",
-    "oneLine": "Assam ağırlıklı — kahvaltı harmanlarının en güçlüsü.",
+    "oneLine": "Kahvaltı harmanlarının en güçlüsü, Assam'a ağırlık verir — süt girdiği anda kremsileşen derin malt ve renk.",
     "oxidation": "yaklaşık %95",
     "ratioNote": "200 ml için 4 g",
     "rounds": "3 demleme",
@@ -2388,7 +2388,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-chuanhong": {
     "name": "Chuanhong",
-    "oneLine": "Yibin'den Sichuan'ın gongfu siyah çayı — gül aroması, dolgun bir gövde, ardından gelen tatlılık.",
+    "oneLine": "Yibin'den, Keemun ve Dianhong ile yan yana duran Sichuan'ın gongfu siyah çayı; tamamı tomurcuk Jinya'sı amiral gemisi — gül aroması ve dolgun bir gövde, ardından yuvarlanan bir tatlılık.",
     "oxidation": "90%",
     "ratioNote": "150 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -2420,7 +2420,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-jiuqu": {
     "name": "Jiuqu Hongmei",
-    "oneLine": "Hangzhou'nun siyah çayı — Longjing ile aynı yaprak ailesinden kakao benzeri bir tatlılık.",
+    "oneLine": "Hangzhou'nun öteki yüzü — kırmızı erik biçiminden adını alan, Longjing ailesi yaprağından yapılmış siyah çay — bir kakao notası, kuru meyve tatlılığı ve yumuşak çiçekler.",
     "oxidation": "Yaklaşık %85",
     "ratioNote": "150 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -2436,7 +2436,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-mizhuan": {
     "name": "Mizhuan",
-    "oneLine": "Hubei siyah çay tozunun tuğlaya preslenmiş hâli — yıllarca saklanan bir günlük çay.",
+    "oneLine": "Yıllarca saklanabilmesi için buharlanıp tuğlaya preslenmiş Hubei siyah çay tozu — süt ya da tuzu da iyi karşılayan güçlü malt ve topraksı bir lezzet.",
     "oxidation": "95%",
     "ratioNote": "300 ml için 5 g (tuğladan kırılmış)",
     "rounds": "1–2 demleme",
@@ -2452,7 +2452,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-hongyun": {
     "name": "Hong Yun",
-    "oneLine": "Sun Moon Lake'in TTES No.21'i — pomelo ve çiçekler; tatlı-ekşi siyah çay.",
+    "oneLine": "Bir assamica × Keemun melezi olan Hong Yun'dan (TTES No.21) Sun Moon Lake siyah çayı — Hong Yu'dan farklı, tatlı-ekşi bir meyve hattında pomelo ve çiçekler.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 5 g",
     "rounds": "1–2 demleme",
@@ -2468,7 +2468,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-ziya": {
     "name": "Ziya Shancha",
-    "oneLine": "Tayvan'ın yerli dağ çayının mor tomurcuklarından siyah çay — Sun Moon Lake'in daha nadir yüzü.",
+    "oneLine": "Yerli Tayvan dağ çayının mor tomurcuklarından, az üretilen değerli bir Sun Moon Lake siyah çayı — yabani bal, bitkiler ve kuru meyve, kaba ve uzun.",
     "oxidation": "Yaklaşık %90",
     "ratioNote": "200 ml için 3 g",
     "rounds": "3 demleme",
@@ -2484,7 +2484,7 @@ window.TEAFaiDataTur = (function () {
   },
   "fruit-daechu": {
     "name": "Hünnap Çayı",
-    "oneLine": "Kurutulmuş hünnaplar tatlı bir şekilde kaynatılır — sıcak bir kış fincanı.",
+    "oneLine": "Gyeongsan ve Boeun'dan ünlü, kaynatılmış kuru hünnaplardan bir Kore kış çayı — hünnap tatlılığı, hafif bir yanık notası ve yumuşak bir gövde.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5–6 hünnap veya 2 kaşık cheong",
     "rounds": "Tek demleme (cheong üzerine su eklenebilir)",
@@ -2496,7 +2496,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-ginger": {
     "name": "Zencefil Çayı",
-    "oneLine": "Balla bekletilmiş zencefil — insanı içten ısıtan bir fincan.",
+    "oneLine": "Kore ve Çin'den, balla bekletilmiş ince dilimlenmiş zencefilin geleneksel konservesi — bal tatlılığına sarılmış temiz, biberimsi bir sıcaklık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 kaşık cheong",
     "rounds": "Tek demleme",
@@ -2508,7 +2508,7 @@ window.TEAFaiDataTur = (function () {
   },
   "fruit-yuja": {
     "name": "Yuja Çayı",
-    "oneLine": "Balla bekletilmiş yuja — kokulu bir kış fincanı.",
+    "oneLine": "Goheung ve Wando'dan sonbahar sonu yujasının, kabuğuyla birlikte balla bekletildiği bir kış çayı — narenciye kabuğu aroması ve temiz bir ekşilik.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 kaşık cheong",
     "rounds": "Tek demleme",
@@ -2520,7 +2520,7 @@ window.TEAFaiDataTur = (function () {
   },
   "fruit-omija": {
     "name": "Omija (Şizandra) Çayı",
-    "oneLine": "Beş tadı barındırdığı söylenen kırmızı bir meyve — bir yaz fincanı.",
+    "oneLine": "Mungyeong ve Jeongseon'un Eylül'de kızaran meyvelerinden şizandra çayı — ekşi, tatlı, acı, tuzlu ve keskin, tek fincanda katmanlı.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 kaşık cheong; soğuk su da olur",
     "rounds": "Tek demleme",
@@ -2532,7 +2532,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-ssanghwa": {
     "name": "Ssanghwa Çayı",
-    "oneLine": "Dokuz şifalı bitki kaynatılır — yorgunluk anları için bir fincan.",
+    "oneLine": "Şakayıktan rehmannia'ya, astragalus ve angelica'ya dokuz bitkiden geleneksel bir Kore kaynatması — derin, ağır, acı ve tatlı, aynı anda.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "Bir adet 200 ml'lik paket, olduğu gibi",
     "rounds": "Tek demleme",
@@ -2544,7 +2544,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-dunggulle": {
     "name": "Mührüsüleyman Çayı",
-    "oneLine": "Kavrulmuş mührüsüleyman kökü — kahvenin yerini alan fındıksı fincan.",
+    "oneLine": "Sonbaharda sökülüp kurutulan kavrulmuş mührüsüleyman kökü — kahvenin yerine kavrulmuş tahıl fındıksılığı ve hafif bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2556,7 +2556,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-buckwheat": {
     "name": "Karabuğday Çayı",
-    "oneLine": "Uzun bir tatlılığa sahip kavrulmuş karabuğday.",
+    "oneLine": "Kore ve Japonya'dan kavrulmuş karabuğday tanelerinin tahıl çayı — kavrulmuş fındıksılık, karabuğdayın belli belirsiz acılığı ve uzun bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2568,7 +2568,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-barley": {
     "name": "Arpa Çayı",
-    "oneLine": "Kaynatılmış kavrulmuş arpa — Korelilerin su gibi içtiği çay.",
+    "oneLine": "Kore'nin günlük çayı, kabuksuz kavrulmuş arpa kaynatılır ve su gibi içilir — kavrulmuş tahıl aroması ve temiz bir bitiş, gün boyu.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "1 L için 20 g kavrulmuş arpa",
     "rounds": "Bir kaynatma; gün boyunca içilir",
@@ -2580,7 +2580,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-brownrice": {
     "name": "Esmer Pirinç Çayı",
-    "oneLine": "Kaynatılmış kavrulmuş esmer pirinç — çaya dönüşmüş pirinç.",
+    "oneLine": "Kepeğiyle birlikte kavrulup kaynatılan esmer pirinç — çaya dönüşmüş pirinç, yanık pirinç aroması ve kaynadıkça derinleşen bir tatlılıkla.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "1 L için 20 g kavrulmuş pirinç",
     "rounds": "Tek demleme",
@@ -2592,7 +2592,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-persimmon": {
     "name": "Cennet Hurması Yaprağı Çayı",
-    "oneLine": "C vitamini bakımından zengin, kurutulmuş cennet hurması yaprağı.",
+    "oneLine": "Yaz başı cennet hurması yapraklarından, buharlanmış veya kurutulmuş bir Kore yaprak çayı — hafif ot ve tatlılık, az buruklukla.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2604,7 +2604,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mulberry": {
     "name": "Dut Yaprağı Çayı",
-    "oneLine": "Yumuşak tatlılığa sahip, kurutulmuş ve kavrulmuş dut yaprağı.",
+    "oneLine": "Kore ve Çin'de kurutulup kavrulan bahar sonu dut yapraklarından bir yaprak çayı — kavrulmuş yaprak fındıksılığı ve hafif, yumuşak bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2616,7 +2616,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-lotus": {
     "name": "Lotus Yaprağı Çayı",
-    "oneLine": "Kurutulmuş lotus yaprağı — yeşil bir yaz fincanı.",
+    "oneLine": "Kurutulmuş yaz lotus yapraklarından kokulu bir yaprak çayı — yeşil aroma ve belli belirsiz bir acılık, serinletici, temiz bir bitişle.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -2628,7 +2628,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-balloonflower": {
     "name": "Balon Çiçeği Kökü Çayı",
-    "oneLine": "Kurutulmuş balon çiçeği kökü kaynatılır — boğaz rahatsız hissettiğinde geleneksel olarak aranan bir kök çayı.",
+    "oneLine": "Kurutulmuş sonbahar balon çiçeği kökünün kaynatıldığı geleneksel bir kök çayı — hafif acılık, tatlılık ve kökün kendi derin aroması.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2640,7 +2640,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mugwort": {
     "name": "Pelin Otu (Ssuk) Çayı",
-    "oneLine": "İlkbahar pelin otu kurutulur — erken ilkbaharın fincanı.",
+    "oneLine": "Baharın fincanı: Mart-Nisan genç pelin otu, kurutulup demlenir — yeşil aroma ve belli belirsiz bir acılık, sıcak içildiğinde kokulu.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -2652,7 +2652,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-tteokcha": {
     "name": "Tteokcha",
-    "oneLine": "Buharda pişirilmiş yapraklar kalıplara preslenir — yıllarca saklanan bir çay.",
+    "oneLine": "Buharlanmış yaprağın dövülüp preslendiği geleneksel bir Kore kek çayı — yıllarca saklanır, kırılıp kaynatılır; derin otlar, hünnap ve toprak için.",
     "oxidation": "Hafif fermantasyon sonrası",
     "ratioNote": "300 ml için bir parça (5 g)",
     "rounds": "3 veya daha fazla demleme",
@@ -2664,7 +2664,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-chamomile": {
     "name": "Papatya Çayı",
-    "oneLine": "Bir çiçekte elma ve bal — uyku öncesi bir fincan.",
+    "oneLine": "Mısır, Almanya ve ötesinden kurutulmuş papatyanın çiçek çayı — elma, bal ve saman, yumuşak ve belli belirsiz tatlı.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g (bir çay kaşığı çiçek)",
     "rounds": "1–2 demleme",
@@ -2676,7 +2676,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-peppermint": {
     "name": "Peppermint (Bahçe Nanesi) Çayı",
-    "oneLine": "Serin nane içeren bir bitki çayı — yemekten sonrası için.",
+    "oneLine": "Avrupa ve Amerika'dan kurutulmuş nane yaprağının bitki çayı — burukluksuz, serin mentol tazeliği.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "1–2 demleme",
@@ -2688,7 +2688,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-hibiscus": {
     "name": "Hibiskus (Rosella) Çayı",
-    "oneLine": "Kırmızı çanak yaprakların ekşiliği — buzlu içmek için en iyi çay.",
+    "oneLine": "Kurutulmuş rosella çanaklarından kırmızı bir çay — ekşi böğürtlen asiditesi ve koyu kırmızı bir dem, en parlak hâliyle soğuk servis edilir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "1–2 demleme",
@@ -2700,7 +2700,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-rooibos": {
     "name": "Rooibos",
-    "oneLine": "Güney Afrika'nın kızıl çalı çayı — kafeinsizdir ve sütle uyumludur.",
+    "oneLine": "Cederberg'den Güney Afrika'nın kızıl çalısı, iğne yaprakları fermente edilir — vanilya, incir ve bal tatlılığı, süt de kabul eder.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2712,7 +2712,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mate": {
     "name": "Yerba Mate",
-    "oneLine": "Güney Amerika'nın kafeinli yaprağı — metal pipetle bir su kabağından içilir.",
+    "oneLine": "Güney Amerika'nın mate'si, metal bir pipetle bir su kabağından paylaşılır — ot, saman ve hafif duman, acı bir bitişle.",
     "oxidation": "Yok · kafein içerir",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2–3 demleme",
@@ -2724,7 +2724,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-lavender": {
     "name": "Lavanta",
-    "oneLine": "Provence'ın mor çiçeği — o kadar kokuludur ki azı yeter.",
+    "oneLine": "Provence'ın mor lavantasının kurutulmuş çiçek çayı — lavanta, bal ve hafif narenciye ile o kadar parfümlüdür ki azı yeter.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 1 g",
     "rounds": "Tek demleme",
@@ -2736,7 +2736,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-lemongrass": {
     "name": "Limon Otu Çayı",
-    "oneLine": "Limon kokulu bir ot — fincanda Güneydoğu Asya.",
+    "oneLine": "Tayland ve Vietnam'dan kurutulmuş limon otu sap ve yapraklarının ot çayı — bir zencefil ipucunun üzerinde limon ve narenciye, ferahlatıcı.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -2748,7 +2748,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-chrysanthemum": {
     "name": "Kasımpatı Çayı",
-    "oneLine": "Kurutulmuş sonbahar kasımpatısı — kokulu bir çiçek çayı.",
+    "oneLine": "Hangzhou, Huangshan ve Kore'den sarı kasımpatıların sonbahar çiçek çayı — serin bir bitkisel nota, hafif bir tatlılıkla.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g (3–4 çiçek)",
     "rounds": "2 demleme",
@@ -2760,7 +2760,7 @@ window.TEAFaiDataTur = (function () {
   },
   "fruit-mogwa": {
     "name": "Kore Ayvası (Mogwa) Çayı",
-    "oneLine": "Balla bekletilmiş ayva — boğazı gıcıklanan kış günleri için bir fincan.",
+    "oneLine": "Bir zamanlar 'ağaçta taşınan koku' denen ayva, çekirdekleriyle birlikte balla bekletilir — yumuşak çiçeksi tatlılık, belli belirsiz bir buruklukla biter.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 kaşık cheong",
     "rounds": "Tek demleme",
@@ -2774,7 +2774,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cassia-seed": {
     "name": "Kasya Tohumu Çayı",
-    "oneLine": "Kavrulmuş tohum tatlılığı — kafeinsiz bir akşam fincanı.",
+    "oneLine": "Kavrulmuş kasya tohumundan kafeinsiz bir akşam fincanı — kavrulmuş tahıl kızarmışlığı ve belli belirsiz bir acılık, biraz tatlılıkla kapanır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2790,7 +2790,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-burdock": {
     "name": "Dulavratotu Kökü Çayı",
-    "oneLine": "Kavrulmuş dulavratotu kökü — tatlı, topraksı, kafeinsiz.",
+    "oneLine": "Kafeinsiz dulavratotu kökü çayı, dilimlenmiş, kurutulmuş ve kavrulmuş — kavrulmuş topraksılık ve sakin bir tatlılık, hafif acı bir sonla.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2806,7 +2806,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-gugija": {
     "name": "Goji (Kurt Üzümü) Çayı",
-    "oneLine": "Kurutulmuş goji meyveleri — soluk bir tatlılık, sarı bir fincan.",
+    "oneLine": "Cheongyang ve Ningxia gibi ünlü kaynaklardan kurutulmuş goji meyveleri, sade demlenir — soluk sarı bir demde hafif tatlılık ve kuru meyve aroması.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2822,7 +2822,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cornus": {
     "name": "Kızılcık Meyvesi (Sansuyu) Çayı",
-    "oneLine": "Keskin kırmızı meyve — genellikle balla yumuşatılır.",
+    "oneLine": "Gurye ve Sancheong'dan kurutulmuş kırmızı kızılcık meyvesi çayı — kırmızı bir demde güçlü ekşilik ve biraz acılık, balla yumuşatılır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2838,7 +2838,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-dandelion": {
     "name": "Karahindiba Çayı",
-    "oneLine": "İlkbahar karahindibasının acılığı — ve fındıksı kavrulmuş bir kök.",
+    "oneLine": "İlkbaharda toplanan karahindiba, yaprak ve kök fincan için kurutulur — yaprak acı ve otsu, kavrulmuş kök kızarmış ve hafif tatlı.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2854,7 +2854,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cornsilk": {
     "name": "Mısır Püskülü Çayı",
-    "oneLine": "Mısır kaynatma suyunun tanıdık rahatlığı — bir yaz fincanı.",
+    "oneLine": "Kurutulup kavrulan mısır püskülünden bir yaz fincanı — mısır kaynatma suyu gibi kavrulmuş tahıl, hafif tatlılık ve temiz bir bitiş.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2870,7 +2870,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-eggplant": {
     "name": "Patlıcan Çayı",
-    "oneLine": "Kurutulmuş, kavrulmuş patlıcan demlenir — kavrulmuş ve hafif.",
+    "oneLine": "Yaz patlıcanının ince dilimlenip kurutulduğu ve saklamak için kavrulduğu bir halk sebze çayı — kavruk bir kavurma aroması, hafif bir tat ve temiz bir final.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2886,7 +2886,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-licorice": {
     "name": "Meyan Kökü Çayı",
-    "oneLine": "Meyan kökü kaynatılır — hiç şeker olmadan tatlı.",
+    "oneLine": "Bitkisel reçetelerin temel malzemelerinden meyan kökü, evde kaynatılır — şekersiz, belirgin biçimde tatlı; doğal tatlılığı ve hafif topraksılığı yumuşak biter.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 kaynatma",
@@ -2902,7 +2902,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-hazel": {
     "name": "Fındık Çayı",
-    "oneLine": "Kavrulmuş Kore fındıkları demlenir — sıcak bir fındıksılık.",
+    "oneLine": "Toplanmış Kore fındıklarının saklanıp fincan için kavrulduğu bir halk çayı — yumuşak bir gövdede kavruk fındık aroması ve nazik bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -2918,7 +2918,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cinnamon-twig": {
     "name": "Tarçın Dalı Çayı",
-    "oneLine": "Genç tarçın dalları kaynatılır — daha hafif bir tarçın fincanı.",
+    "oneLine": "Genç tarçın dalları kaynatılır — kabuktan daha hafif bir fincan; yumuşak tarçın aroması, nazik bir tatlılık ve ısıtan bir hisle.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 kaynatma",
@@ -2934,7 +2934,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cinnamon": {
     "name": "Tarçın Çayı",
-    "oneLine": "Tarçın kabuğu demlenir — baharatlı, tatlı ve ısıtıcı.",
+    "oneLine": "Sujeonggwa'dan tanıdık tarçın kabuğu, tek başına kaynatılır — sıcak, oldukça dolgun bir gövdede baharatlı-tatlı bir aroma.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2950,7 +2950,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sophora": {
     "name": "Sofora Kökü Çayı",
-    "oneLine": "Sofora kökü kaynatılır — açıkça acı bir bitki çayı.",
+    "oneLine": "Bitkisel tıpta uzun süredir kullanılan ve az miktarda kaynatılan sofora kökü — topraksı notalar ve kuru bir finalle, özürsüzce acı bir fincan.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 3 g",
     "rounds": "1 kaynatma",
@@ -2966,7 +2966,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-agastache": {
     "name": "Kore Nanesi Çayı",
-    "oneLine": "Kurutulmuş Kore nanesi yaprakları — canlı aromalı bir bitki çayı.",
+    "oneLine": "Yaprakları fesleğen ile nane arasında kokan, yerli bir Kore bitkisi, kurutulup demlenir — canlı bir aroma, hafif bir tatlılık ve serinletici bir final.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2982,7 +2982,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-tangerine-peel": {
     "name": "Mandalina Kabuğu Çayı",
-    "oneLine": "Kurutulmuş, kavrulmuş mandalina kabuğu — parlak ve turunçgilimsi.",
+    "oneLine": "Kış mandalina kabuklarının saklanıp kurutulduğu ve kavrulduğu bir halk çayı — temiz, hafif bir finalde parlak narenciye aroması ve hafif bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -2998,7 +2998,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-tangerine-blossom": {
     "name": "Mandalina Çiçeği Çayı",
-    "oneLine": "Kurutulmuş mandalina çiçekleri — parlak çiçeksi bir fincan.",
+    "oneLine": "İlkbahar mandalina çiçekleri, ancak küçük partiler hâlinde kurutulacak kadar az — berrak bir demde meyvenin parlak çiçeksi yankısı ve hafif bir tatlılık.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -3014,7 +3014,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-platycodon": {
     "name": "Platycodon Kökü (Gilgyeong) Çayı",
-    "oneLine": "Balon çiçeği kökü (gilgyeong) kaynatılır — acı-tatlı ve topraksı.",
+    "oneLine": "Balon çiçeği kökü, ilaç adı gilgyeong ile kaynatılır — doraji çayıyla aynı kök; acı-tatlı bir kök aroması ve kuru bir finalle.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 kaynatma",
@@ -3030,7 +3030,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-selfheal": {
     "name": "Yara Otu (Kkulpool) Çayı",
-    "oneLine": "Kurutulmuş yara otu çiçek başakları — sade bir çayır çiçeği çayı.",
+    "oneLine": "Yaygın bir yaz tarla bitkisi olan yara otunun, saklamak için kurutulmuş çiçek başaklarından bir halk çayır çayı — sade yeşil-çiçeksi bir aroma, hafif bir tatlılık, temiz bir final.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3046,7 +3046,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-shepherdspurse": {
     "name": "Çoban Çantası (Naengi) Çayı",
-    "oneLine": "Kurutulmuş çoban çantası — topraksı bir ilkbahar yeşilliği çayı.",
+    "oneLine": "Namul tenceresinden artan çoban çantasının kurutulup saklandığı bir ilkbahar halk çayı — yaprak ve kökleri yeşil bir aroma, hafif bir tatlılık ve sade bir final verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3062,7 +3062,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-naengcha": {
     "name": "Soğuk Bitki Çayı (Naengcha)",
-    "oneLine": "Bitki çayı kaynatılır, soğutulur ve soğuk servis edilir — yaz usulü.",
+    "oneLine": "Kore'nin yaz içme biçimi — tahıl ve bitki çayları kaynatılır, soğutulur ve su gibi soğuk saklanır; kendi kavruklukları soğukken daha temiz tat verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "500 ml için 10 g",
     "rounds": "1 parti; soğutulmuş servis edilir",
@@ -3078,7 +3078,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-aged-cucumber": {
     "name": "Olgun Salatalık (Nogak) Çayı",
-    "oneLine": "Kurutulmuş, kavrulmuş olgun salatalık — sade bir yaz çayı.",
+    "oneLine": "Son sararmış yaz salatalıklarını saklayan bir halk çayı — dilimlenip kurutulmuş ve kavrulmuş nogak, hafif ve temiz bir tatlılıkla sade bir kavrukluk demler.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -3094,7 +3094,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mungbean": {
     "name": "Maş Fasulyesi Çayı",
-    "oneLine": "Kavrulmuş maş fasulyesi kaynatılır — sade, kavrulmuş bir tahıl çayı.",
+    "oneLine": "Maş fasulyesinin pişirildiği suyu içmekten doğmuş bir çay — kavrulup kaynatılan fasulyeler kavruk bir aroma, hafif bir tatlılık ve sade bir final verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "500 ml için 10 g",
     "rounds": "1 kaynatma",
@@ -3110,7 +3110,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-kelp": {
     "name": "Kombu (Dasima) Çayı",
-    "oneLine": "Demlenmiş kelp — nazik, hafif umamili bir deniz çayı.",
+    "oneLine": "Çorba suyunun kelpinin kendisi, sade biçimde demlenip içilir — kurutulmuş kelp yumuşak bir umamiye, deniz meltemi aromasına ve bir tutam tuza açılır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 demleme",
@@ -3126,7 +3126,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-angelica": {
     "name": "Melek Otu Kökü (Danggwi) Çayı",
-    "oneLine": "Melek otu kökü kaynatılır — derin bitkisel bir fincan.",
+    "oneLine": "Bitkisel tıpta uzun süredir kullanılan melek otu, evde hünnapla kaynatılır — kurutulmuş kök derin bir bitkisel aroma, nazik bir tatlılık ve sıcak bir gövde verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 kaynatma",
@@ -3142,7 +3142,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-carrot": {
     "name": "Havuç Çayı",
-    "oneLine": "Kurutulmuş, kavrulmuş havuç — nazik tatlı bir sebze çayı.",
+    "oneLine": "Kurutulmuş sebzeleri çaya dönüştürmenin halk yollarından biri — dilimlenip kurutulmuş ve kavrulmuş havuç, finalde temiz, nazik bir tatlılık ve hafif bir topraksılık bırakır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -3158,7 +3158,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-bamboo": {
     "name": "Bambu Yaprağı Çayı",
-    "oneLine": "Kurutulmuş bambu yaprakları — serinletici, sade bir yaprak çayı.",
+    "oneLine": "Yaprakların kurutulduğu Damyang gibi bambu diyarlarında içilen jukyeop çayı — sade yeşil bir aroma, hafif bir tatlılık ve serinletici bir final.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3174,7 +3174,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-green-onion": {
     "name": "Daepa (Kore Pırasası) Çayı",
-    "oneLine": "Kore pırasasının beyazları ve kökleri kaynatılır — ısıtan bir halk çayı.",
+    "oneLine": "Bir üşütme geldiğinde uzun süredir yapılan bir ev kaynatması — pırasa beyazları ve kökleri nazik bir soğan aroması, hafif bir tatlılık ve ısıtan bir final verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 10 g",
     "rounds": "1 kaynatma",
@@ -3190,7 +3190,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-deodeok": {
     "name": "Deodeok Kökü Çayı",
-    "oneLine": "Deodeok kökü kaynatılır — acı-tatlı ve kavrulmuş.",
+    "oneLine": "Dağ deodeok kökü, kaynatmak için kurutulup saklanır — balon çiçeği kökü gibi acı-tatlı bir aroma, kavruk bir tatlılık ve sıcak bir gövdeyle katmanlanır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 kaynatma",
@@ -3206,7 +3206,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-peachblossom": {
     "name": "Şeftali Çiçeği Çayı",
-    "oneLine": "Kurutulmuş şeftali çiçekleri soluk pembe demlenir — bir ilkbahar çiçeği çayı.",
+    "oneLine": "Bütün yıl içmek için kurutulmuş ilkbahar şeftali çiçekleri — gölgede kurutulmuş çiçekler yumuşak bir çiçek kokusuna, hafif bir tatlılığa ve soluk pembe bir deme açılır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -3222,7 +3222,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-camellia": {
     "name": "Kamelya Çiçeği Çayı",
-    "oneLine": "Kış kamelyası çiçekleri kurutulur ve demlenir.",
+    "oneLine": "Jeju ve güney kıyısından kış kamelyaları, çay için kurutulmuş — gölgede kurutulmuş çiçekler yumuşak bir çiçek kokusu, hafif bir tatlılık ve soluk sarı bir dem verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -3238,7 +3238,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-waxgourd": {
     "name": "Kış Kavunu (Dongga) Çayı",
-    "oneLine": "Kış kavunu bal veya şekerde bekletilir ve kaynatılır — zengin, tatlı geleneksel bir çay.",
+    "oneLine": "Kış kavununun bal ya da şekerde bekletilip kaynatıldığı geleneksel bir yaz çayı — açık kahverengi bir demde derin bir tatlılık ve kavunun yumuşak kokusu.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 20 g",
     "rounds": "1 demleme",
@@ -3254,7 +3254,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-jerusalemartichoke": {
     "name": "Yer Elması Çayı",
-    "oneLine": "Kavrulmuş yer elması — kavrulmuş, hafif tatlı.",
+    "oneLine": "Derin kavruldukça daha kavruklaşan, su gibi kolay içilen bir sonbahar yumru çayı — dilimlenip kurutulmuş ve kavrulmuş, kavruk bir koku, hafif bir tatlılık ve temiz bir final bırakır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -3270,7 +3270,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-eucommia": {
     "name": "Eucommia Kabuğu Çayı",
-    "oneLine": "Eucommia kabuğu kaynatılır — ağır ve acı kenarlı.",
+    "oneLine": "Soyulmuş kabuğu lastiksi iplikler hâlinde uzayan eucommia ağacının çayı — kesilip kaynatıldığında acı kenarlı ve ağırlıklı tat verir, sakin bir odunsu kokuyla.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 demleme",
@@ -3286,7 +3286,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-duhyang": {
     "name": "Duhyang Çayı",
-    "oneLine": "Güçlü kokulu duhyang yaprakları kurutulur ve demlenir.",
+    "oneLine": "Azı bile yeten, öyle kokulu bir dağ bitkisi çayı — gölgede kurutulmuş duhyang yaprakları, acı kenarlı bir finalle yoğun yeşil bir koku yayar.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3302,7 +3302,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-perilla": {
     "name": "Perilla Tohumu Çayı",
-    "oneLine": "Kavrulmuş perilla tohumları öğütülür ve kaynatılır — derin fındıksı.",
+    "oneLine": "Sonbahar perilla tohumları kavrulur, öğütülür ve kaynatılır — kavrulmuş tohumlardan derin, fındıksı, susam benzeri bir koku çıkar; ağızda yumuşak ve dolgun.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 10 g",
     "rounds": "1 demleme",
@@ -3318,7 +3318,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-strawberry": {
     "name": "Çilek Çayı",
-    "oneLine": "Kurutulmuş çilekler tatlı-ekşi demlenir.",
+    "oneLine": "Mevsim çilekleri bütün yıl keyfini sürmek için kurutulur — ince dilimlenip kurutulmuş, tatlı-ekşi bir kokuya ve soluk pembe bir deme açılırlar.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 5 g",
     "rounds": "2 demleme",
@@ -3334,7 +3334,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-peanut": {
     "name": "Yer Fıstığı Çayı",
-    "oneLine": "Kavrulmuş yer fıstıkları kaynatılır — fındıksı ve doyurucu.",
+    "oneLine": "Kahvaltının yerini tutacak kadar zengin ve fındıksı — kavrulup öğütülmüş ve kaynatılmış sonbahar yer fıstıkları fincanı fındıksı bir kokuyla doldurur, yumuşak ve dolgun.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 10 g",
     "rounds": "1 demleme",
@@ -3350,7 +3350,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-lemon": {
     "name": "Limon Çayı",
-    "oneLine": "Limon cheong ılık suya karıştırılır — parlak ve tatlı.",
+    "oneLine": "Limon cheong'un suya karıştırıldığı bir ev ve kafe çayı — şekerde bekletilmiş limonlar, soluk sarı bir demde parlak bir limon kokusu ve tatlılık verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 20 g cheong",
     "rounds": "1 demleme",
@@ -3366,7 +3366,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-garlic": {
     "name": "Sarımsak Çayı",
-    "oneLine": "Kavrulmuş sarımsak kaynatılır — keskinliği yumuşamıştır.",
+    "oneLine": "Kavurmayla dönüşen sarımsak; keskinliği azalırken tatlılığı yükselir — kavrulup kaynatıldığında kavrulmuş tatlılığı öne çıkarır ve çiğ kenarı yumuşatır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 10 g",
     "rounds": "1 demleme",
@@ -3382,7 +3382,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-watercaltrop": {
     "name": "Su Kestanesi (Mareum) Çayı",
-    "oneLine": "Kurutulmuş su kestanesi meyvesi kaynatılır — hafif ve sade.",
+    "oneLine": "Gölette yetişen su kestanesinin sonbaharda toplanıp kurutulduğu geleneksel bir çay — kaynatılan meyve sade, hafif bir tatlılık ve yumuşak bir final verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 demleme",
@@ -3398,7 +3398,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-maesil": {
     "name": "Yeşil Erik (Maesil) Çayı",
-    "oneLine": "Maesil cheong suya karıştırılır — tatlı-ekşi, bir Kore klasiği.",
+    "oneLine": "Erken yaz yeşil erik cheong'unun suya karıştırıldığı bir Kore klasiği — ekşi bir ilk nota tatlı bir finale uzanır, soluk altın bir demde.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 20 g cheong",
     "rounds": "1 demleme",
@@ -3414,7 +3414,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-plumblossom": {
     "name": "Erik Çiçeği (Maehwa) Çayı",
-    "oneLine": "Erken ilkbahar erik çiçekleri kurutulur — berrak kokulu bir çiçek çayı.",
+    "oneLine": "Erken ilkbaharda kısa ömürlü ve berrak kokusuyla değerli erik çiçeği — gölgede kurutulmuş tomurcuklar sakin bir çiçek aromasına ve hafif bir tatlılığa açılır.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -3430,7 +3430,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-butterbur": {
     "name": "Öksürük Otu (Meowi) Çayı",
-    "oneLine": "Öksürük otu yaprakları kurutulur ve tavada kavrulur — acı kenarlı ve kavrulmuş.",
+    "oneLine": "Bütün yıl için kurutulmuş ilkbahar öksürük otu — kurutulup tavada kavrulmuş yapraklar, kavruk bir finalle acı yeşil bir koku yayar.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3446,7 +3446,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-magnolia": {
     "name": "Manolya (Sini) Çayı",
-    "oneLine": "Manolya tomurcukları kurutulur — berrak, serin kokulu bir çiçek çayı.",
+    "oneLine": "Sini diye adlandırılan ve yüzyıllardır kullanılan manolya tomurcukları — açılmadan toplanıp gölgede kurutulmuş, berrak ve serin bir çiçek kokusu ile hafif bir tatlılık verirler.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 2 g",
     "rounds": "2 demleme",
@@ -3462,7 +3462,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-costus": {
     "name": "Kostus Kökü (Mokhyang) Çayı",
-    "oneLine": "Kostus kökü kaynatılır — derin kokulu ve acı kenarlı.",
+    "oneLine": "Kokusu az miktarda bile derin uzanan güçlü bir bitki olan kostus — küçük kesilip kaynatılan kökü derin bir odunsu aroma ve acı bir kenar verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 demleme",
@@ -3478,7 +3478,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-radishleaf": {
     "name": "Turp Yaprağı (Siraegi) Çayı",
-    "oneLine": "Kurutulmuş turp yaprakları — kavrulmuş ve sade.",
+    "oneLine": "Siraegi turp yaprağı, tencerenin yanı sıra çay için de kurutulur — kurutulmuş yapraklar kavruk yeşil bir koku ile sade, hafif bir tat demler.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "200 ml için 3 g",
     "rounds": "2 demleme",
@@ -3494,7 +3494,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-bangpung": {
     "name": "Bangpung Çayı",
-    "oneLine": "Bangpung kökü kaynatılır — sakin, topraksı bir bitki çayı.",
+    "oneLine": "Yaprakları yeşillik olarak yenen bir bitkiden, bangpung kökünün çayı — kesilip kaynatıldığında sakin bir topraksı koku, hafif bir tatlılık ve yumuşak bir final verir.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "300 ml için 5 g",
     "rounds": "1 demleme",
@@ -3510,7 +3510,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mushroom": {
     "name": "Mantar Çayı",
-    "oneLine": "Kurutulmuş mantarlar kaynatılır — tuzlu, umami dolu bir fincan.",
+    "oneLine": "Umamisi, fincan neredeyse hafif bir et suyu gibi içilene kadar derinleşmiş kurutulmuş mantarlar — kaynatılmış shiitake ve benzerleri derin bir lezzet ve sakin bir mantar kokusu verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "300 ml'ye 5 g",
     "rounds": "1 demleme",
@@ -3526,7 +3526,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cherryblossom": {
     "name": "Kiraz Çiçeği Çayı",
-    "oneLine": "Kurutulmuş ya da salamura edilmiş kiraz çiçekleri — fincanda bahar.",
+    "oneLine": "Çiçeğin su üzerinde açılmasının keyfin yarısı olduğu bir ilkbahar çiçek çayı — kurutulmuş ya da salamura edilmiş, yumuşak bir çiçek kokusu ve hafif bir tatlılık verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 g",
     "rounds": "2 demleme",
@@ -3542,7 +3542,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-poria": {
     "name": "Poria Çayı",
-    "oneLine": "Kaynatılmış poria — sade, yumuşak ve neredeyse kokusuz.",
+    "oneLine": "Çam köklerinin yanından alınan, öyle sade ki başka bitkilerle kolayca karışan poria — kesilip kaynatıldığında hafif ve yumuşak tat verir, kendine ait neredeyse hiç kokusu yoktur.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "300 ml'ye 5 g",
     "rounds": "1 demleme",
@@ -3558,7 +3558,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-peach": {
     "name": "Şeftali Çayı",
-    "oneLine": "Kurutulmuş şeftali dilimleri, tatlı ve meyveli demlenir.",
+    "oneLine": "Bütün yıl içmek için kurutulmuş yaz şeftalileri — taze meyveden daha yumuşak aromalı; tatlılıkları ve hafif ekşi kenarları soluk altın bir demde tutulur.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3574,7 +3574,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-beet": {
     "name": "Pancar Çayı",
-    "oneLine": "Kurutulmuş pancar dilimleri — topraksı, tatlı, koyu kırmızı.",
+    "oneLine": "Pancar Kore'de yaygın yetiştirilmeye başlayınca ev demlemesi olarak yayılan kırmızı bir sebze çayı — ince dilimlenip kurutulmuş, topraksı bir tatlılık ve yakut kırmızısı bir dem verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3590,7 +3590,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-loquat": {
     "name": "Yenidünya Yaprağı Çayı",
-    "oneLine": "Kurutulmuş yenidünya yaprakları — hafif, pürüzsüz, gösterişsiz.",
+    "oneLine": "Temel adımı yaprak arkasındaki tüyleri gidermek olan bir güney kıyısı yaprak çayı — kalın kurutulmuş yenidünya yaprakları sakin bitkisel notalar, hafif bir tatlılık ve berrak bir dem verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3606,7 +3606,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-apple": {
     "name": "Elma Çayı",
-    "oneLine": "Kurutulmuş elma dilimleri — tatlı, ekşimsi, hoş kokulu.",
+    "oneLine": "Kışın içmek için kurutulup saklanmış sonbahar elmaları — kabuğuyla ince dilimlenmiş, soluk altın bir demde tatlı-ekşi meyve ve yumuşak bir aroma verirler.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3622,7 +3622,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-yam": {
     "name": "Çin Yamı Çayı",
-    "oneLine": "Kurutulmuş yam dilimleri kaynatılır — hafif ve pürüzsüz.",
+    "oneLine": "Uzun süredir hem yiyecek hem bitkisel malzeme olan Çin yamı — ve matcha değil — dilimlenip kurutulmuş ve kaynatılmış; sakin bir kök aroması ve hafif nişastalı bir tatlılık için.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3638,7 +3638,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mulberry-twig": {
     "name": "Dut Dalı Çayı",
-    "oneLine": "Genç dut dalları kaynatılır — sessiz ve odunsu.",
+    "oneLine": "Dutun her parçasının kendi adı ve kullanımı vardı, dalı sangji de bunlardan biriydi — yapraktan farklı bir parça; kesilip kurutulmuş ve kaynatılmış, hafif odunsu bir aroma ve hafif bir tatlılık için.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3654,7 +3654,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cuscuta": {
     "name": "Küsküt Tohumu Çayı",
-    "oneLine": "Küsküt tohumları kaynatılır — fındıksı ve hafif.",
+    "oneLine": "Başka bitkilerin üzerine sarılan asma küskütün, uzun süredir tosaja diye kaydedilen tohumları — küçük ve sert, kaynatmaya uygun; fındıksı bir tohum aroması ve hafif, sade bir tat verirler.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3670,7 +3670,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pomegranate": {
     "name": "Nar Çayı",
-    "oneLine": "Kurutulmuş nar — tatlı-ekşi ve yakut kırmızısı.",
+    "oneLine": "Tanıdık bir güney bahçe ağacı olan narın meyve ve kabuğu, çay için kurutulmuş — demlendiğinde tatlı-ekşi tadı yakut kırmızısı bir deme açılır.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3686,7 +3686,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-seolcha": {
     "name": "Seolcha (Kar Çayı)",
-    "oneLine": "Kurutulmuş dağ likeni — soluk, narin, sessiz.",
+    "oneLine": "Kar gibi soluk büyümesinden adını alan ve havanın temiz olduğu yerlerde ancak az miktarda toplanan seolcha — kurutulmuş yüksek dağ usneası çok hafif bitkisel notalar ve neredeyse berrak bir dem verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 g",
     "rounds": "2 demleme",
@@ -3702,7 +3702,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sotae": {
     "name": "Sotae Çayı",
-    "oneLine": "Ünlü biçimde acı — 'sotae kadar acı' sözünün arkasındaki çay.",
+    "oneLine": "'Sotae kadar acı' sözünün arkasındaki halk çayı — kurutulmuş meyve ve yapraklar, derin kahverengi bir demde güçlü bir acılık ve hafif tatlı bir kuyruk verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3718,7 +3718,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sokdan": {
     "name": "Sokdan Çayı",
-    "oneLine": "Kaynatılmış sokdan kökü — topraksı ve hafif tatlı.",
+    "oneLine": "Bitkisel metinlerde uzun süredir kaydedilen sokdan kökünün bir halk kaynatması — dilimlenip kurutulmuş ve kaynatılmış; topraksı bir kök aroması, hafif bir tatlılık ve hafif acı bir kuyruk verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3734,7 +3734,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pineneedle": {
     "name": "Çam İğnesi Çayı",
-    "oneLine": "Genç çam iğneleri — canlı, reçineli, ferahlatıcı.",
+    "oneLine": "Reçineyi çıkarmanın lezzeti belirlediği çam iğnesi çayı — hazırlanıp kurutulmuş genç iğneler, soluk altın bir demde taze bir çam aroması ve temiz bir tat verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3750,7 +3750,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pinepollen": {
     "name": "Çam Poleni Çayı",
-    "oneLine": "Çam poleni ılık suya çırpılır — yumuşak ve altın rengi.",
+    "oneLine": "Yalnızca ilkbaharda toplanan, bir zamanlar tatlılarda ve ballı içeceklerde de kullanılan çam poleni — demlenmek yerine suya karıştırılır; nazik bir çam aroması, yumuşak bir tatlılık ve sarı bir dem verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "1 demleme",
@@ -3766,7 +3766,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-watermelon": {
     "name": "Karpuz Kabuğu Çayı",
-    "oneLine": "Kurutulmuş karpuz kabuğu — temiz, hafif tatlı, bir yaz fincanı.",
+    "oneLine": "Karpuzun tamamını kullanmaktan doğan, çoğu zaman soğuk içilen bir yaz çayı — kurutulmuş beyaz kabuk temiz, çok hafif bir tatlılık ve neredeyse berrak bir dem verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3782,7 +3782,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sorghum": {
     "name": "Sorgum Çayı",
-    "oneLine": "Kavrulmuş sorgum taneleri — arpa çayı gibi kavruk.",
+    "oneLine": "Pirinç keklerine, yiyeceğe ve içeceğe de yarayan bir tahıl olan sorgum, kavrulup demlenir — taneler kızılımsı kahverengi bir demde arpa çayı kavrukluğu ve hafif bir tatlılık verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3798,7 +3798,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-bupleurum": {
     "name": "Bupleurum Kökü Çayı",
-    "oneLine": "Kaynatılmış bupleurum kökü — topraksı ve acı.",
+    "oneLine": "Bitkisel metinlerde uzun süredir kaydedilen bupleurum kökünün bir halk kaynatması — dilimlenip kurutulmuş ve kaynatılmış; berrak bir acılıkla topraksı bir kök aroması yayar.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3814,7 +3814,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mallow": {
     "name": "Ebegümeci Çayı",
-    "oneLine": "Kurutulmuş ebegümeci yaprakları — pürüzsüz, nazik, hafif.",
+    "oneLine": "Tanıdık bir çorba sebzesi olan ebegümeci, çaya dönüşmüş — her mutfak bahçesinden genç yapraklar, kurutulup demlenmiş; yumuşak bitkisel notalar, hafif bir tatlılık ve hafif ipeksi bir doku verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3830,7 +3830,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cherry": {
     "name": "Aengdu Çayı (Nanking Kirazı)",
-    "oneLine": "Kurutulmuş Kore kirazları — tatlı-ekşi ve pembe.",
+    "oneLine": "Bir zamanlar tanıdık bir avlu ağacı olan aengdu'nun, içmek için kurutulmuş bir meyve çayı — demlenen meyve soluk kırmızı bir demde tatlı-ekşi bir tat verir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3846,7 +3846,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-onion": {
     "name": "Soğan Kabuğu Çayı",
-    "oneLine": "Kurutulmuş soğan kabukları — nazik bir soğan aroması, kehribar rengi.",
+    "oneLine": "Etinden değil, yalnızca kurutulmuş soğan kabuklarından yapılan tutumlu bir ev çayı — yumuşak bir soğan aroması ve hafif bir tatlılıkla kehribar bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3862,7 +3862,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-bittermelon": {
     "name": "Acı Kavun Çayı",
-    "oneLine": "Kurutulmuş acı kavun — temiz ve iddialı biçimde acı.",
+    "oneLine": "Güneyden ve Jeju'dan yaz acı kavunu, ince dilimlenip kurutulmuş — kavrulduğunda yumuşayan, kavruk bir kuyrukla berrak bir acılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3878,7 +3878,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-lotusroot": {
     "name": "Lotus Kökü Çayı",
-    "oneLine": "Kavrulmuş lotus kökü dilimleri — kavruk ve rahatlatıcı.",
+    "oneLine": "Yaprak değil kök — lotus kökü dilimlenir, kurutulur, kavrulur ve kaynatılır; kavruk bir aroma ve hafif nişastalı bir tatlılıkla.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3894,7 +3894,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-reishi": {
     "name": "Reishi Mantarı Çayı",
-    "oneLine": "Belirgin acı bir tada sahip reishi mantarı kaynatması.",
+    "oneLine": "Uzun ömür bitkisi olarak uzun süredir değer verilen reishi, ince dilimlenip kaynatılır — koyu kahverengi bir dem, güçlü bir acılık ve odunsu, topraksı notalar.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "500 ml'ye 10 g",
     "rounds": "2 kaynatma",
@@ -3910,7 +3910,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-mulberry-fruit": {
     "name": "Dut Meyvesi Çayı",
-    "oneLine": "Kurutulmuş dut meyvesi, tatlı ve mor demlenir.",
+    "oneLine": "Erken yazda kararmış dutlar, kurutulup demlenir — dut yaprağından farklı bir meyve çayı; soluk mor renkte tatlı ve hafif ekşi.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g",
     "rounds": "2 demleme",
@@ -3926,7 +3926,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-cucumber": {
     "name": "Salatalık Çayı",
-    "oneLine": "Kurutulmuş salatalık, hafif ve serinletici demlenir.",
+    "oneLine": "Yaz salatalığı ince dilimlenip kurutulmuş, sıcak suda bile kokusunu korur — berrak soluk yeşil bir dem, serin yeşil bir aroma ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -3942,7 +3942,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-corn": {
     "name": "Kavrulmuş Mısır Çayı",
-    "oneLine": "Kavrulmuş mısır taneleri, patlamış mısır gibi kavruk demlenir.",
+    "oneLine": "İpek değil taneler — kavrulmuş mısır daha derin bir fincan için kaynatılır; patlamış mısır benzeri kavrulmuş tahıl ve hafif bir tatlılıkla altın bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g",
     "rounds": "2 demleme",
@@ -3958,7 +3958,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-wasong": {
     "name": "Wasong (Kaya Çamı) Çayı",
-    "oneLine": "Kurutulmuş wasong, hafif ve hafif ekşimsi demlenir.",
+    "oneLine": "Kiremitlerin ve kayaların çam benzeri sukulenti wasong, kurutulup demlenir — hafif bir ekşilik ve yeşil bir kokuyla berrak bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -3974,7 +3974,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-achyranthes": {
     "name": "Achyranthes Kökü Çayı",
-    "oneLine": "Achyranthes kökü kaynatması — topraksı ve dolgun.",
+    "oneLine": "Öküz dizine benzeyen eklemleri için useul diye adlandırılan achyranthes kökü, kaynatılır — koyu kahverengi bir dem, topraksı bir kavrukluk ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 kaynatma",
@@ -3990,7 +3990,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-turmeric": {
     "name": "Zerdeçal Çayı",
-    "oneLine": "Altın rengi ve topraksı keskinliğiyle zerdeçal çayı.",
+    "oneLine": "Köriyi sarıya boyayan bitki, ünlü Jindo'dan zerdeçal — topraksı bir koku ve biberli bir finalle koyu sarı bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4006,7 +4006,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-polygala": {
     "name": "Polygala Kökü Çayı",
-    "oneLine": "Polygala kökü kaynatması — acı-tatlı ve kavruk.",
+    "oneLine": "İnce bitkisel köklerden özü çıkarılıp kurutulmuş polygala kökü, kaynatılır — soluk kahverengi bir dem, acı bir ilk tat ve kavruk bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 kaynatma",
@@ -4022,7 +4022,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-coix": {
     "name": "Yulmu Çayı (Gözyaşı Otu)",
-    "oneLine": "Kavrulmuş yulmu — fındıksı, yoğun ve doyurucu.",
+    "oneLine": "Otomat yulmu çayı olarak ünlü ve bir tahıl olarak doyurucu, kavrulmuş gözyaşı otu — yoğun bir fincanda fındıksı bir koku ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g",
     "rounds": "2 demleme",
@@ -4038,7 +4038,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-akebia": {
     "name": "Akebia Çayı",
-    "oneLine": "Kurutulmuş akebia asması, hafif ve hafif tatlı demlenir.",
+    "oneLine": "Yarılıp açılan sonbahar meyvesiyle ünlü akebia asmasının sap ve meyvesi, kurutulmuş — hafif bir tatlılık ve yeşil bir kokuyla berrak bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4054,7 +4054,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-ginkgo": {
     "name": "Ginkgo Yaprağı Çayı",
-    "oneLine": "Kurutulmuş, tavada kavrulmuş ginkgo yaprakları — acı-tatlı bir yaprak çayı.",
+    "oneLine": "Yemiş değil yaprak — sonbaharda sararmış ginkgo yaprakları kurutulup tavada kavrulur; hafif yeşil bir koku ve acı-tatlı bir finalle soluk sarı bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4070,7 +4070,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-honeysuckle": {
     "name": "Hanımeli Çayı",
-    "oneLine": "Hanımeli tomurcukları, yumuşak ve çiçeksi demlenir.",
+    "oneLine": "'Kışa dayanan' asma hanımelinin, bitkisel malzeme geumeunhwa olarak kullanılan tomurcukları — nazik bir çiçek kokusu ve hafif bir tatlılıkla berrak bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4086,7 +4086,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-ginseng": {
     "name": "Ginseng Çayı",
-    "oneLine": "Kaynatılmış ginseng — acı-tatlı ve topraksı.",
+    "oneLine": "Geumsan ve Punggi'den ginseng, ince dilimlenip kurutulmuş ve kaynatılmış — acı-tatlı bir tat ve topraksı bir derinlikle soluk kehribar bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4102,7 +4102,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-safflower": {
     "name": "Aspir Çayı",
-    "oneLine": "Aspir taç yaprakları turuncu bir parıltıyla demlenir.",
+    "oneLine": "Uzun süredir kırmızı boya ve bitkisel malzeme olarak kullanılan bir çiçekten aspir taç yaprakları, kurutulup demlenir — sarı turuncuya döner, hafif çiçeksi.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 g",
     "rounds": "2 demleme",
@@ -4118,7 +4118,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-plum": {
     "name": "Erik Çayı",
-    "oneLine": "Suda erik şurubu — tatlı-ekşi bir yaz meyve çayı.",
+    "oneLine": "Yaz erikleri zirvesinde şekerde saklanır ve bütün yıl keyfi sürülür — taze, tatlı-ekşi bir erik kokusuyla kızılımsı bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 yemek kaşığı şurup",
     "rounds": "1 porsiyon",
@@ -4134,7 +4134,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-grapefruit": {
     "name": "Greyfurt Çayı",
-    "oneLine": "Suda greyfurt şurubu — narenciye aromalı, acı bir dokunuşla.",
+    "oneLine": "Kore kafelerinde greyfurta uygulanan yuja-cheong yöntemi — soluk pembe bir dem, parlak bir ekşilik ve belirgin acı bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 yemek kaşığı şurup",
     "rounds": "1 porsiyon",
@@ -4150,7 +4150,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-purple-corn": {
     "name": "Mor Mısır Çayı",
-    "oneLine": "Mor mısır koyu mor kaynatılır — bir And fincanı.",
+    "oneLine": "Peru Andları'ndan mor mısır, kurutulup kaynatılır — hafif bir tatlılık, bir yaban mersini notası ve kavruk tahılla koyu mor bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g",
     "rounds": "2 demleme",
@@ -4166,7 +4166,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-purple-perilla": {
     "name": "Perilla Yaprağı Çayı",
-    "oneLine": "Perilla yaprakları aromatik ve mor tonlu demlenir.",
+    "oneLine": "Arka yüzü mor yapraklı, Kore perillasının nane ailesinden bir kuzeni olan mor perilla, kurutulup demlenir — mor tonlu bir dem, kendine özgü bir koku, hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4182,7 +4182,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-swordbean": {
     "name": "Kılıç Fasulyesi Çayı",
-    "oneLine": "Kavrulmuş kılıç fasulyeleri, berrak ve fındıksı demlenir.",
+    "oneLine": "Uzun, bıçak benzeri baklalardan kılıç fasulyeleri, dilimlenip kavrulur ve demlenir — fındıksı bir fasulye kokusu ve hafif bir tatlılıkla berrak bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4198,7 +4198,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-peony": {
     "name": "Şakayık Çayı",
-    "oneLine": "Şakayık taç yaprakları, yumuşak ve zarif demlenir.",
+    "oneLine": "Şakayık; kökü eski bir bitkisel malzeme, gösterişli çiçekleri bir çiçek çayı — taç yapraklar berrak bir demde açılır; nazik bir çiçek kokusu ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 g",
     "rounds": "2 demleme",
@@ -4214,7 +4214,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-adenophora": {
     "name": "Adenophora Kökü Çayı",
-    "oneLine": "Adenophora kökü kaynatması — balon çiçeği gibi kavruk-tatlı.",
+    "oneLine": "'Kum ginsengi' diye adlandırılan ve balon çiçeğinin akrabası olan adenophora kökü, kaynatılır — kavruk bir tatlılık ve topraksı bir kokuyla soluk kahverengi bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 kaynatma",
@@ -4230,7 +4230,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-bamboo-shoot": {
     "name": "Bambu Filizi Çayı",
-    "oneLine": "Kurutulmuş bambu filizleri kavrulur — sade ve kavruk.",
+    "oneLine": "Damyang'dan ilkbahar bambu filizleri, dilimlenip kurutulmuş ve kavrulmuş — sade yeşil bir koku ve sakin kavruk bir derinlikle berrak bir dem.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4246,7 +4246,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-rehmannia": {
     "name": "Rehmannia Çayı",
-    "oneLine": "Rehmannia kaynatması — buharda pişmiş kök zengin bir tatlılığa döner.",
+    "oneLine": "Kaynatılmış rehmannia — sukjihwang olarak dokuz kez buharlanıp kurutularak karartıldığında derin tatlı ve ağırlıklı olur; çiğken acı ve serinleticidir.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 kaynatma",
@@ -4262,7 +4262,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sesame": {
     "name": "Susam Çayı",
-    "oneLine": "Öğütülmüş kavrulmuş susam — zengin, fındıksı bir fincan.",
+    "oneLine": "Susam kavrulup ince öğütülür, sıcak suya çırpılır — derin kavrulmuş bir fındıksılık, yumuşak yağlı bir gövde ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4278,7 +4278,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-orientalmelon": {
     "name": "Chamoe Çayı (Kore Kavunu)",
-    "oneLine": "Kurutulmuş Kore kavunu, hafif ve tatlı demlenir — bir yaz fincanı.",
+    "oneLine": "Yaz Kore kavunu ince dilimlenip kurutulmuş, soğuk da iyi — nazik bir kavun tatlılığı ve aroması, temiz bir finalle.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4294,7 +4294,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-calamus": {
     "name": "Eğir Otu Çayı",
-    "oneLine": "Kaynatılmış eğir otu — Dano festivalinin kokusu.",
+    "oneLine": "Eğir otu kök ve yaprağı kaynatılır; Dano festivalinin eğir otu suyu geleneğinin bir çayı — serin yeşil bir aroma, hafif bir baharat, temiz bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4310,7 +4310,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-greentangerine": {
     "name": "Yeşil Mandalina Çayı",
-    "oneLine": "Şurupta olgunlaşmamış Jeju mandalinaları — keskin narenciyeli bir fincan.",
+    "oneLine": "Olgun mandalina çayından daha keskin, şekerde saklanarak reçele dönüştürülmüş olgunlaşmamış Jeju yeşil mandalinaları — parlak bir ekşilik ve kabuk aroması, ardından tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2–3 yemek kaşığı şekerleme",
     "rounds": "1 fincan",
@@ -4326,7 +4326,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-gardenia": {
     "name": "Gardenya Meyvesi Çayı",
-    "oneLine": "Kaynatılmış gardenya meyvesi — nazik bir acılıkla sarı bir fincan.",
+    "oneLine": "Turp turşusunu sarıya boyayanın aynısı olan gardenya meyvesi, kurutulup kaynatılır — berrak sarı bir dem, hafif bir acılık ve topraksı bir nota.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4342,7 +4342,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-chicory": {
     "name": "Hindiba Kökü Çayı",
-    "oneLine": "Kavrulmuş hindiba kökü — kahve benzeri, kafeinsiz bir fincan.",
+    "oneLine": "Kavrulmuş hindiba kökü, Fransa ve Avrupa'da uzun süredir kahve yerine içilir — kavrulmuş bir acılık, topraksılık ve kahve benzeri bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4358,7 +4358,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-trifoliateorange": {
     "name": "Üç Yapraklı Portakal Çayı",
-    "oneLine": "Şekerde saklanmış üç yapraklı portakal — önce ekşi, sonra acı.",
+    "oneLine": "Dikenli çit ağacından üç yapraklı portakal; taze hâliyle fazla ekşi olduğu için saklanır — güçlü ekşi, ardından acı, narenciye kabuğu aromasıyla bir kış çayı.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2–3 yemek kaşığı şekerleme",
     "rounds": "1 fincan",
@@ -4374,7 +4374,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-taro": {
     "name": "Taro Çayı",
-    "oneLine": "Kurutulmuş taro kaynatılır — yumuşak, nişastalı bir kök çayı.",
+    "oneLine": "Bir sonbahar temel gıdası olan taro, dilimlenip kurutulmuş ve kaynatılmış — yumuşak nişastalı bir gövde, nazik bir fındıksılık ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4390,7 +4390,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pineapple": {
     "name": "Ananas Çayı",
-    "oneLine": "Şekerde saklanmış ananas — zengin tatlı, tropikal bir fincan.",
+    "oneLine": "Ananas şekerde saklanarak sıcak su için bir reçele dönüştürülmüş, bir ade olarak soğuk da çok güzel — ekşi bir kenarla derin bir tatlılık ve ananas aroması.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2–3 yemek kaşığı şekerleme",
     "rounds": "1 fincan",
@@ -4406,7 +4406,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-redbean": {
     "name": "Kırmızı Fasulye Çayı",
-    "oneLine": "Kavrulmuş adzuki fasulyeleri — sade, fındıksı bir tahıl çayı.",
+    "oneLine": "Bir tahıl çayı olarak demlenen kavrulmuş adzuki fasulyeleri, kaynatıldığında daha derin ve koyu — kavrulmuş bir fındıksılık, sade bir gövde ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4422,7 +4422,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-grape": {
     "name": "Üzüm Çayı",
-    "oneLine": "Şekerde saklanmış üzümler — tatlı, hoş kokulu bir meyve çayı.",
+    "oneLine": "Üzümler şekerde saklanarak bir reçele dönüştürülmüş, kabukları rengi derinleştirir — hafif bir ekşilikle üzüm tatlılığı ve aroması.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2–3 yemek kaşığı şekerleme",
     "rounds": "1 fincan",
@@ -4438,7 +4438,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-hallabong": {
     "name": "Hallabong Çayı",
-    "oneLine": "Şekerde saklanmış Jeju hallabongu — koyu narenciyeli bir kış çayı.",
+    "oneLine": "Halla Dağı'ndan adını alan Jeju hallabongu, şekerde saklanarak bir reçele dönüştürülmüş — mandalina çayından daha derin bir kış çayı; zengin narenciye aroması ve yuvarlak bir tatlılıkla.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2–3 yemek kaşığı şekerleme",
     "rounds": "1 fincan",
@@ -4454,7 +4454,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sunflower": {
     "name": "Ayçiçeği Tohumu Çayı",
-    "oneLine": "Kavrulmuş ayçiçeği tohumları — fındıksı bir tohum çayı.",
+    "oneLine": "Kavrulmuş ayçiçeği tohumları demlenir; sert kabukları kaynatıldığında daha fazlasını verir — hafif yağlı bir tatlılıkla kavrulmuş tohum fındıksılığı.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g",
     "rounds": "2 demleme",
@@ -4470,7 +4470,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-herbtea": {
     "name": "Bitki Çayı",
-    "oneLine": "Kurutulmuş bitki yaprak ve çiçeklerinden demlenen çayların genel adı.",
+    "oneLine": "Kurutulmuş bitki yaprak ve çiçeklerinin demlerine verilen genel bir ad — nane, papatya, melisa — kafeinsiz; her bitkinin kendi yeşil ve çiçeksi notaları vardır.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4486,7 +4486,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-raisintree": {
     "name": "Kuru Üzüm Ağacı Çayı",
-    "oneLine": "Kaynatılmış kuru üzüm ağacı meyvesi — nazik tatlı, odunsu bir çay.",
+    "oneLine": "Kore'de uzun süredir evde kaynatılan, çoğu zaman içkili bir gecenin ertesi sabahı aranan kuru üzüm ağacı meyvesi — nazik bir tatlılık, odunsu bir nota ve yumuşak bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "300 ml'ye 10 g meyve",
     "rounds": "1 kaynatma",
@@ -4502,7 +4502,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-schizonepeta": {
     "name": "Schizonepeta Çayı",
-    "oneLine": "Demlenmiş schizonepeta başakları — naneli-serin bir bitki fincanı.",
+    "oneLine": "Uzun süredir kullanılan bir bitkisel malzeme olan schizonepeta yaprak ve çiçek başağı, hafif bir çay için kurutulmuş — nane benzeri bir serinlik, yeşil bir aroma ve hafif bir baharat.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 3 g",
     "rounds": "2 demleme",
@@ -4518,7 +4518,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-walnut": {
     "name": "Ceviz Çayı",
-    "oneLine": "Öğütülmüş ceviz çırpılır — zengin, fındıksı bir fincan.",
+    "oneLine": "Öğütülmüş ceviz sıcak suya çırpılır, bazen hünnap ve zencefille kaynatılır — derin bir fındıksılık, yağlı bir yumuşaklık ve hafif bir tatlılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g öğütülmüş ceviz",
     "rounds": "1 fincan",
@@ -4534,7 +4534,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pumpkin": {
     "name": "Balkabağı Çayı",
-    "oneLine": "Kurutulmuş olgun balkabağı kaynatılır — tatlı, yumuşak bir fincan.",
+    "oneLine": "Bir kış temel gıdası olan olgun balkabağı, dilimlenip kiler için kurutulmuş, sonra kaynatılmış — yumuşak nişastalı bir gövdeyle doğal balkabağı tatlılığı.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 10 g kurutulmuş balkabağı",
     "rounds": "2 demleme",
@@ -4550,7 +4550,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-redginseng": {
     "name": "Kırmızı Ginseng Çayı",
-    "oneLine": "Buharda pişirilip kurutulmuş ginseng kaynatılır — acı-tatlı, derin bir fincan.",
+    "oneLine": "Kırmızı ginseng — kızarana kadar buharlanıp kurutulmuş ginseng — kaynatılır: önce acılık, ardından uzun ve derin bir finalde tatlılık ve toprak.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g dilim",
     "rounds": "1 kaynatma",
@@ -4566,7 +4566,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-astragalus": {
     "name": "Geven Çayı (Astragalus)",
-    "oneLine": "Kaynatılmış astragalus kökü — hafif tatlı bir bitki fincanı.",
+    "oneLine": "Samgyetang'dan tanıdık astragalus kökü, kurutulup tek başına kaynatılır — hafif bir tatlılık, fasulye benzeri bir fındıksılık ve yumuşak bir topraksılık.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g kök",
     "rounds": "1 kaynatma",
@@ -4582,7 +4582,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-magnolia-bark": {
     "name": "Manolya Kabuğu Çayı",
-    "oneLine": "Kaynatılmış manolya kabuğu — acı, derin aromatik bir fincan.",
+    "oneLine": "Uzun süredir kullanılan bir bitkisel malzeme olan manolya kabuğu, kurutulup kaynatılır — acılık, derin odunsu bir aroma ve hafif baharatlı bir final.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 5 g kabuk",
     "rounds": "1 kaynatma",
@@ -4598,7 +4598,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-pepper": {
     "name": "Karabiber Çayı",
-    "oneLine": "Kaynatılmış karabiber — keskin bir baharat çayı.",
+    "oneLine": "Öğütülmüş karabiber suda kaynatılır, bazen balla küçük ve güçlü fincanlarda içilir — yakıcı bir sıcaklık ve baharat aroması, kısa ve keskin.",
     "oxidation": "yok · kafeinsiz",
     "ratioNote": "200 ml'ye 2 g biber (yaklaşık 1 çay kaşığı)",
     "rounds": "1 fincan",
@@ -4614,7 +4614,7 @@ window.TEAFaiDataTur = (function () {
   },
   "herb-sipjeondaebotang": {
     "name": "Sipjeon Daebotang",
-    "oneLine": "On bitkinin klasik tonik kaynatması — ginseng, melekotu, astragalus ve daha fazlası birlikte kaynatılır; ssanghwa'nın yanında bir kış sağlık içeceği.",
+    "oneLine": "Song hanedanı kökenli klasik bir on bitki formülü — Sagunja ve Samul bitkileri artı astragalus ve tarçın — meyan köküyle yumuşatılmış ve sıcak tarçınla acı-tatlı.",
     "oxidation": "Yok · kafeinsiz",
     "ratioNote": "1000 ml suya 60 g bitki",
     "rounds": "1 kaynatma",
