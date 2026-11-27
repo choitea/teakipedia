@@ -9,7 +9,7 @@ window.TEAFaiDataVi = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "Tây Hồ Long Tỉnh",
-    "oneLine": "Vị ngọt đậu rang trong lá ép dẹt — thước đo chuẩn cho trà xanh sao chảo.",
+    "oneLine": "Trà xanh nổi tiếng nhất Trung Quốc, từng được hoàng đế yêu thích — lá dẹt sao trong chảo, hương đậu rang và hạt dẻ, vị ngọt trong trẻo.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml; pha trong ly thì cho nước vào trước",
     "rounds": "3–4 lần pha",
