@@ -54,7 +54,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Trà thường ngày của Nhật Bản, chiếm sáu phần mười lượng trà xanh được uống — lá hấp hòa hương rong biển và vị umami với chút chát nhẹ.",
+    "oneLine": "Trà thường ngày của Nhật Bản, chiếm 60% lượng trà xanh được uống — lá hấp hòa hương rong biển và vị umami với chút chát nhẹ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml; lần rót đầu ở 70 °C",
     "rounds": "3 lần pha",
