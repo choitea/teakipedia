@@ -1295,10 +1295,10 @@
     var isGroup = item.kind === "group";
     var native = D.nativeOf(item, lang);
     var nativeLine = [];
-    if (native) nativeLine.push(esc(native));
-    var subLow = (item.sub || "").toLowerCase();
+    var enName = item.sub || "";
     var nameLow = (item.name || "").toLowerCase();
-    if (item.sub && subLow !== native.toLowerCase() && subLow !== nameLow) nativeLine.push(esc(item.sub));
+    if (enName && enName.toLowerCase() !== nameLow) nativeLine.push(esc(enName));
+    if (native && native.toLowerCase() !== nameLow && native.toLowerCase() !== enName.toLowerCase()) nativeLine.push(esc(native));
 
     var facts = [
       [t("fact.temp"), item.tempRange],
@@ -2015,7 +2015,12 @@
 
   function quizCardHtml(tea, opt) {
     var native = D.nativeOf(tea, lang);
-    var sub = tea.sub && tea.sub.toLowerCase() !== native.toLowerCase() ? tea.sub : "";
+    var enName = tea.sub || "";
+    var teaNameLow = (tea.name || "").toLowerCase();
+    var nameParts = [];
+    if (enName && enName.toLowerCase() !== teaNameLow) nameParts.push(enName);
+    if (native && native.toLowerCase() !== teaNameLow && native.toLowerCase() !== enName.toLowerCase()) nameParts.push(native);
+    var nativeText = nameParts.join(" · ");
     var meta = [tea.groupName, tea.tempRange].filter(Boolean).join(" · ");
     var chips = opt.chips || [];
     var chipHtml = chips.length
@@ -2047,8 +2052,7 @@
       '<span class="qr-id"><b>' +
       esc(tea.name) +
       '</b><span class="qr-native">' +
-      esc(native) +
-      (sub ? " · " + esc(sub) : "") +
+      esc(nativeText) +
       '</span><span class="qr-group">' +
       esc(meta) +
       "</span></span></div>" +
