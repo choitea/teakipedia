@@ -54,7 +54,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Le thé quotidien du Japon, six dixièmes de sa consommation de thé vert — ses feuilles étuvées mêlent arôme d'algue et umami à une légère astringence.",
+    "oneLine": "Le thé quotidien du Japon, 60 % de sa consommation de thé vert — ses feuilles étuvées mêlent arôme d'algue et umami à une légère astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml ; première verse à 70 °C",
     "rounds": "3 infusions",

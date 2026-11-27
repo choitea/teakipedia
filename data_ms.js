@@ -54,7 +54,7 @@ window.TEAFaiDataMs = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Teh harian Jepun, enam persepuluh daripada minuman teh hijaunya — daun kukus mengadun aroma rumpai laut dan umami dengan kelat yang ringan.",
+    "oneLine": "Teh harian Jepun, 60% daripada minuman teh hijaunya — daun kukus mengadun aroma rumpai laut dan umami dengan kelat yang ringan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; tuangan pertama pada 70 °C",
     "rounds": "3 kali seduhan",

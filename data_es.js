@@ -54,7 +54,7 @@ window.TEAFaiDataEs = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "El té cotidiano de Japón, seis décimas partes de su consumo de té verde: hojas al vapor que combinan aroma a alga y umami con una ligera astringencia.",
+    "oneLine": "El té cotidiano de Japón, el 60% de su consumo de té verde: hojas al vapor que combinan aroma a alga y umami con una ligera astringencia.",
     "oxidation": "0%",
     "ratioNote": "3 g para 150 ml; primera infusión a 70 °C",
     "rounds": "3 infusiones",
