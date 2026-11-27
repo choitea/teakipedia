@@ -6371,24 +6371,20 @@ h3 {
   gap: 8px;
 }
 
-.sort-row {
-  margin-top: 8px;
-  display: flex;
-  justify-content: flex-end;
-}
-
-/* 정렬 칸은 한 줄짜리 작은 알약 형태로 (기존 폼 줄 높이를 그대로 쓰면 너무 커 보입니다) */
-.sort-row .field-inline {
-  flex: none;
+/* 정렬은 검색창과 같은 줄, 한 줄짜리 작은 알약 형태로 (폼 줄 높이를 그대로 쓰면 너무 커 보입니다) */
+.search-row .sort-inline {
+  flex: 0 1 auto;
   width: auto;
+  min-width: 0;
   height: 32px;
   padding: 0 12px;
   border-radius: 999px;
   gap: 6px;
 }
 
-.sort-row .field-inline select {
-  flex: none;
+.search-row .sort-inline select {
+  flex: 0 1 auto;
+  min-width: 0;
   font-size: 12.5px;
   padding: 2px 0;
 }
