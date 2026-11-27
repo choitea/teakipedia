@@ -1850,7 +1850,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Rose, orchidée et chocolat noir — la référence du thé noir chinois.",
+    "oneLine": "Rose, orchidée et chocolat noir — la référence du thé noir chinois, l'un des trois grands thés noirs du monde.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "1 à 2 infusions",

@@ -1850,7 +1850,7 @@ window.TEAFaiDataMs = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Ros, orkid dan coklat gelap — penanda aras teh hitam China.",
+    "oneLine": "Ros, orkid dan coklat gelap — penanda aras teh hitam China, salah satu daripada tiga teh hitam terhebat di dunia.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 bancuhan",

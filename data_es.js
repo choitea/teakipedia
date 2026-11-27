@@ -1850,7 +1850,7 @@ window.TEAFaiDataEs = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Rosa, orquídea y chocolate negro: la referencia del té negro chino.",
+    "oneLine": "Rosa, orquídea y chocolate negro: la referencia del té negro chino, uno de los tres grandes tés negros del mundo.",
     "oxidation": "90%",
     "ratioNote": "3 g por 150 ml",
     "rounds": "1–2 infusiones",
