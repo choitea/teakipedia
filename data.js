@@ -1069,7 +1069,7 @@ window.TEAFaiData = (function () {
       x: {
         ko: [
           "증청 → 유념 → 건조. 차광하지 않은 잎을 김으로 쪄서 효소를 멈춥니다.",
-          "무로마치 시대에 중국에서 전해진 증청법이 일본에 남아 센차가 되었습니다. 오늘날 일본 녹차 소비의 6할을 차지합니다."
+          "무로마치 시대에 중국에서 전해진 증청법이 일본에 남아 센차가 되었습니다. 오늘날 일본 녹차 소비의 60%를 차지합니다."
         ],
         en: [
           "Steaming → rolling → drying. Unshaded leaf is steamed to stop the enzymes.",
@@ -1077,11 +1077,11 @@ window.TEAFaiData = (function () {
         ],
         "zh-CN": [
           "蒸青 → 揉捻 → 干燥。不遮光的叶子用蒸汽杀青。",
-          "室町时代从中国传入的蒸青法在日本留下来，成了煎茶。今天占日本绿茶消费的六成。"
+          "室町时代从中国传入的蒸青法在日本留下来，成了煎茶。今天占日本绿茶消费的60%。"
         ],
         "zh-TW": [
           "蒸菁 → 揉捻 → 乾燥。不遮光的葉子用蒸氣殺菁。",
-          "室町時代從中國傳入的蒸菁法在日本留下來，成了煎茶。今天占日本綠茶消費的六成。"
+          "室町時代從中國傳入的蒸菁法在日本留下來，成了煎茶。今天占日本綠茶消費的60%。"
         ]
       },
       temp: 70,
@@ -1093,7 +1093,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "센차",
-        oneLine: "일본 녹차 소비의 여섯 할을 차지하는 일상차 — 증기로 쪄낸 잎에서 해조류 향과 감칠맛, 가벼운 떫음이 어우러집니다.",
+        oneLine: "일본 녹차 소비의 60%를 차지하는 일상차 — 증기로 쪄낸 잎에서 해조류 향과 감칠맛, 가벼운 떫음이 어우러집니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g, 첫 물은 70도",
         rounds: "3회",
@@ -1106,7 +1106,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Sencha",
-        oneLine: "Japan's everyday tea, six-tenths of its green-tea drinking — steamed leaves blend seaweed aroma and umami with a light astringency.",
+        oneLine: "Japan's everyday tea, 60% of its green-tea drinking — steamed leaves blend seaweed aroma and umami with a light astringency.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml; first pour at 70 °C",
         rounds: "3 infusions",
@@ -1119,7 +1119,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "煎茶",
-        oneLine: "占日本绿茶消费六成的日常茶——蒸青叶片融合海苔香与鲜味，带着淡淡的涩感。",
+        oneLine: "占日本绿茶消费60%的日常茶——蒸青叶片融合海苔香与鲜味，带着淡淡的涩感。",
         oxidation: "0%",
         ratioNote: "150毫升配3克，第一泡70度",
         rounds: "3泡",
@@ -1132,7 +1132,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "煎茶",
-        oneLine: "佔日本綠茶消費六成的日常茶——蒸青葉片融合海苔香與鮮味，帶著淡淡的澀感。",
+        oneLine: "佔日本綠茶消費60%的日常茶——蒸青葉片融合海苔香與鮮味，帶著淡淡的澀感。",
         oxidation: "0%",
         ratioNote: "200毫升配3公克，第一泡70度",
         rounds: "3泡",
@@ -11528,7 +11528,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红水乌龙",
-      "oneLine": "氧化约六成的台湾传统乌龙——红色汤色上熟果、蜂蜜与烘烤香浓得近似红茶。",
+      "oneLine": "氧化约60%的台湾传统乌龙——红色汤色上熟果、蜂蜜与烘烤香浓得近似红茶。",
       "oxidation": "约60%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -11544,7 +11544,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅水烏龍",
-      "oneLine": "氧化約六成的臺灣傳統烏龍——紅色湯色上熟果、蜂蜜與烘烤香濃得近似紅茶。",
+      "oneLine": "氧化約60%的臺灣傳統烏龍——紅色湯色上熟果、蜂蜜與烘烤香濃得近似紅茶。",
       "oxidation": "約60%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -12689,7 +12689,7 @@ window.TEAFaiData = (function () {
       "flavor": "菌香、土香与谷香，甜圆；金花越多越柔。",
       "pairing": "肥腻肉类、中餐、酸奶等乳制品和烤蘑菇搭配得很好。蘑菇与谷物的咸鲜加上柔和圆润的甘甜，平静地清除肉的油脂。新鲜水果的酸味与那份圆润甘甜相处不甚协调。",
       "brewTip": "沸水，洗茶一次，也可煮饮。",
-      "keep": "湿度约六成、无异味处，金花可继续生长。",
+      "keep": "湿度约60%、无异味处，金花可继续生长。",
       "keywords": "茯砖茶 金花 安化 黑茶 后发酵"
     },
     "zh-TW": {
@@ -12705,7 +12705,7 @@ window.TEAFaiData = (function () {
       "flavor": "菌香、土香與谷香，甜圓；金花越多越柔。",
       "pairing": "油膩的肉、中菜、優格等乳製品和烤蘑菇搭配起來很好。蘑菇與穀物的鮮鹹加上柔和圓潤的甜味,能平靜地清除肉的油脂。新鮮水果的酸味與那份圓潤的甜味相處起來有些彆扭。",
       "brewTip": "沸水，洗茶一次，也可煮飲。",
-      "keep": "溼度約六成、無異味處，金花可繼續生長。",
+      "keep": "溼度約60%、無異味處，金花可繼續生長。",
       "keywords": "茯磚茶 金花 安化 黑茶 後發酵"
     },
     "originCountryCode": "cn"
