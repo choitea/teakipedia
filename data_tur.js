@@ -9,7 +9,7 @@ window.TEAFaiDataTur = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "West Lake Longjing",
-    "oneLine": "Düz preslenmiş yaprakta kavrulmuş soya tatlılığı — tavada kavrulmuş yeşil çayın ölçüsü.",
+    "oneLine": "Çin'in en ünlü yeşil çayı, bir imparatorun gözdesi — tavada kavrulmuş yassı yapraklar, kavrulmuş fasulye ve kestane aromasıyla berrak bir tatlılık.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g; cam bardakta önce su",
     "rounds": "3–4 demleme",

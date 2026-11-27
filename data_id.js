@@ -9,7 +9,7 @@ window.TEAFaiDataId = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "West Lake Longjing",
-    "oneLine": "Manis kedelai sangrai dalam daun yang dipres pipih — patokan teh hijau sangrai wajan.",
+    "oneLine": "Teh hijau paling terkenal di Tiongkok, kegemaran kaisar — daun pipih disangrai dalam wajan, beraroma kacang sangrai dan kastanye dengan rasa manis yang jernih.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; dalam gelas, air dulu",
     "rounds": "3–4 seduhan",
