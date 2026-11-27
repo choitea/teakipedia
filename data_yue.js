@@ -17,7 +17,7 @@ window.TEAFaiDataYue = (function () {
  "green-longjing": {
   "t": {
    "name": "西湖龍井",
-   "oneLine": "炒豆般嘅香氣，加埋壓扁嘅葉——炒菁綠茶嘅標準。",
+   "oneLine": "乾隆鍾意嘅中國名茶之首——鑊炒壓扁嘅葉,炒豆同栗香交織,清甜爽口。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克，玻璃杯就先注水",
    "rounds": "3~4泡",
