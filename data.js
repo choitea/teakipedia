@@ -37313,11 +37313,23 @@ window.TEAFaiData = (function () {
   function nativeOf(tea, lang) {
     if (!tea) return "";
     var code = (ORIGIN[tea.id] || {}).code || "";
-    if (code === "in") {
-      for (var i = 0; i < TEAS.length; i++) {
-        if (TEAS[i].id === tea.id && TEAS[i].hi && TEAS[i].hi.name) return TEAS[i].hi.name;
-      }
+    var raw = null;
+    for (var i = 0; i < TEAS.length; i++) {
+      if (TEAS[i].id === tea.id) { raw = TEAS[i]; break; }
     }
+    var langName = function (key) {
+      return raw && raw[key] && raw[key].name ? raw[key].name : "";
+    };
+    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar" };
+    if (byLang[code]) {
+      var ln = langName(byLang[code]);
+      if (ln) return ln;
+    }
+    if (code === "kr") {
+      var kt = raw ? textFor(raw, "ko") : null;
+      if (kt && kt.name) return kt.name;
+    }
+    if (code === "uk" || code === "ie" || code === "ke" || code === "rw" || code === "za") return tea.sub || tea.rom || "";
     if (code === "cn") return tea.hs || tea.hz || tea.rom || "";
     if (code === "tw" || code === "hk") return tea.hz || tea.hs || tea.rom || "";
     if (lang === "zh-CN") return tea.hs || tea.hz || tea.rom || "";
