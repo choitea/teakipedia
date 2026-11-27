@@ -36,7 +36,7 @@ window.TEAFaiDataYue = (function () {
  "green-biluochun": {
   "t": {
    "name": "碧螺春",
-   "oneLine": "捲成螺旋嘅葉入面有果香——最香嘅綠茶。",
+   "oneLine": "康熙帝改名嘅洞庭春芽名茶——捲到好似田螺咁嘅葉，開出桃同杏嘅果香，仲帶住清涼嘅甜。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克，水溫要低",
    "rounds": "3~4泡",
@@ -55,7 +55,7 @@ window.TEAFaiDataYue = (function () {
  "green-maofeng": {
   "t": {
    "name": "黃山毛峰",
-   "oneLine": "霧山深處嘅柔和豆香——中國綠茶嘅另一種標準。",
+   "oneLine": "出自雲霧黃山、歷史比較後生嘅名茶——黃綠色葉片帶嚟柔和焙香同蘭花般嘅清涼，鮮味長長唔散。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -74,7 +74,7 @@ window.TEAFaiDataYue = (function () {
  "green-sencha": {
   "t": {
    "name": "煎茶",
-   "oneLine": "用蒸氣殺菁嘅日本日常綠茶——紫菜香同鮮味。",
+   "oneLine": "日本人飲綠茶有六成係佢，係日常茶——蒸青葉片將海苔香同鮮味溝埋一齊，帶少少澀感。",
    "oxidation": "0%",
    "ratioNote": "200毫升配3克，頭泡70度",
    "rounds": "3泡",
@@ -93,7 +93,7 @@ window.TEAFaiDataYue = (function () {
  "green-gyokuro": {
   "t": {
    "name": "玉露",
-   "oneLine": "遮光栽培將鮮味推到極致——最濃厚嘅綠茶。",
+   "oneLine": "遮光二十幾日整成、叫做「玉露」嘅茶——深綠針葉湧出味噌同昆布咁濃厚嘅鮮味，質地好似忌廉咁滑。",
    "oxidation": "0%",
    "ratioNote": "100毫升配5克，水少茶多",
    "rounds": "3泡",
@@ -112,7 +112,7 @@ window.TEAFaiDataYue = (function () {
  "green-matcha": {
   "t": {
    "name": "抹茶",
-   "oneLine": "將成塊葉磨碎飲落肚——唔止聞香，係飲入身體嘅綠茶。",
+   "oneLine": "成塊葉用石磨磨，一個鐘先磨得40克——鮮綠泡沫下面係濃厚鮮味，尾段帶一絲苦韻。",
    "oxidation": "0%",
    "ratioNote": "薄茶2克配70毫升，濃茶4克配70毫升",
    "rounds": "1碗",
@@ -131,7 +131,7 @@ window.TEAFaiDataYue = (function () {
  "green-jeju": {
   "t": {
    "name": "濟州雨前",
-   "oneLine": "穀雨前採嘅韓國第一片嫩葉——帶住春雨嘅柔和澀感。",
+   "oneLine": "1979年喺濟州開始、穀雨前採嘅第一片葉——火山土同海風養出嚟嘅葉，散發清新香氣同焙香，柔和咁舒展開嚟。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -150,7 +150,7 @@ window.TEAFaiDataYue = (function () {
  "white-silverneedle": {
   "t": {
    "name": "白毫銀針",
-   "oneLine": "芽上面留住銀白色嘅絨毛，係白茶之中最安靜嘅一種。",
+   "oneLine": "淨係拎芽頭、唔炒唔揉嘅白茶精華——銀白絨毛下面藏住鈴蘭香同完全唔澀、綿長嘅甜味。",
    "oxidation": "5%",
    "ratioNote": "200毫升配3克",
    "rounds": "4~5泡",
@@ -169,7 +169,7 @@ window.TEAFaiDataYue = (function () {
  "white-peony": {
   "t": {
    "name": "白牡丹",
-   "oneLine": "一芽兩葉——香氣比銀針豐富，價錢亦都親民啲。",
+   "oneLine": "一芽兩葉，好似牡丹盛開咁——白花同乾草香之間透住淡淡棗甜，茶身比銀針更加厚。",
    "oxidation": "8%",
    "ratioNote": "200毫升配4克",
    "rounds": "4~5泡",
@@ -188,7 +188,7 @@ window.TEAFaiDataYue = (function () {
  "white-shoumei": {
   "t": {
    "name": "壽眉",
-   "oneLine": "以葉為主嘅白茶。最啱放耐咗之後攞嚟煲。",
+   "oneLine": "個樣似老人眉毛、擺得耐又攞嚟煲嚟飲嘅葉型白茶——乾草、紅棗同熟果香盛喺深杏色嘅茶湯入面。",
    "oxidation": "10%",
    "ratioNote": "200毫升配4克，煲飲就5克配500毫升",
    "rounds": "4~5泡",
@@ -207,7 +207,7 @@ window.TEAFaiDataYue = (function () {
  "white-aged": {
   "t": {
    "name": "老白茶",
-   "oneLine": "三年係藥，七年係寶——由時間做成嘅白茶。",
+   "oneLine": "福建老白茶，一年係茶、三年係藥、七年係寶——歲月將紅棗、藥材同乾果香刻入深琥珀色嘅茶湯度。",
    "oxidation": "15%",
    "ratioNote": "200毫升配5克，煲飲就5克配500毫升",
    "rounds": "5泡以上",
@@ -226,7 +226,7 @@ window.TEAFaiDataYue = (function () {
  "white-gongmei": {
   "t": {
    "name": "貢眉",
-   "oneLine": "用菜茶品種做、介乎白牡丹同壽眉之間嘅白茶。",
+   "oneLine": "用菜茶品種做、企喺白牡丹同壽眉之間嘅白茶——乾草同淡淡花香之間，棗甜特別分明，比壽眉更清楚。",
    "oxidation": "10%",
    "ratioNote": "200毫升配4克",
    "rounds": "4~5泡",
@@ -245,7 +245,7 @@ window.TEAFaiDataYue = (function () {
  "green-luanguapian": {
   "t": {
    "name": "六安瓜片",
-   "oneLine": "淨係留葉、唔留芽，壓成瓜子形，唯一一種「純葉」綠茶。",
+   "oneLine": "去走晒芽同梗、淨係用葉片做嘅唯一綠茶——瓜子形扁葉帶嚟烤栗子香、厚實茶身同回甘。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -261,7 +261,7 @@ window.TEAFaiDataYue = (function () {
  "green-houkui": {
   "t": {
    "name": "太平猴魁",
-   "oneLine": "巴掌咁大嘅葉上面留低布紋格印，中國最大嘅綠茶。",
+   "oneLine": "用布同網壓出格紋嘅中國最大綠茶——就算巴掌咁大嘅葉，都散發到蘭花香同淡淡鮮味，一啲都唔苦澀。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -277,7 +277,7 @@ window.TEAFaiDataYue = (function () {
  "green-maojian": {
   "t": {
    "name": "信陽毛尖",
-   "oneLine": "針咁細嘅葉入面有青草同栗子香，河南名茶。",
+   "oneLine": "1915年巴拿馬萬國博覽會攞金獎嘅河南名茶——針咁筆直嘅細葉升起青草同栗子香，澀感清爽。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -293,7 +293,7 @@ window.TEAFaiDataYue = (function () {
  "green-lushan": {
   "t": {
    "name": "廬山雲霧",
-   "oneLine": "喺雲霧裏面長大，葉薄又柔軟，江西名茶。",
+   "oneLine": "一年有190幾日雲霧繚繞嘅廬山茶——薄而柔嘅葉慢火炒製，留低柔和草香同鮮味，幾乎唔澀。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -309,7 +309,7 @@ window.TEAFaiDataYue = (function () {
  "green-hojicha": {
   "t": {
    "name": "焙茶",
-   "oneLine": "將煎茶用炭火焙炒，咖啡因少啲、焙香足啲。",
+   "oneLine": "1920年代喺京都開始、將煎茶重焙嘅茶——接近200度嘅熱力帶嚟烤穀物、焦糖同木香，幾乎冇苦味。",
    "oxidation": "0%",
    "ratioNote": "200毫升配3克",
    "rounds": "2~3泡",
@@ -325,7 +325,7 @@ window.TEAFaiDataYue = (function () {
  "green-genmaicha": {
   "t": {
    "name": "玄米茶",
-   "oneLine": "將焙炒過嘅糙米撈入煎茶——茶同飯之間嘅一杯。",
+   "oneLine": "江戶時代平民為咗慳茶而溝入焙炒糙米——飯焦同爆谷嘅香氣下面，墊住煎茶嘅青草香。",
    "oxidation": "0%",
    "ratioNote": "200毫升配3克（連玄米）",
    "rounds": "2~3泡",
@@ -341,7 +341,7 @@ window.TEAFaiDataYue = (function () {
  "green-hadong": {
   "t": {
    "name": "河東雨前",
-   "oneLine": "穀雨前，喺智異山腳下採嘅一年第一片葉。",
+   "oneLine": "由新羅時代延續到而家嘅河東，穀雨前最早嘅葉——智異山野生茶園帶嚟清新香氣、焙香同綿長鮮味。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -357,7 +357,7 @@ window.TEAFaiDataYue = (function () {
  "green-sejak": {
   "t": {
    "name": "細雀",
-   "oneLine": "穀雨後、立夏前，好似麻雀脷咁細嫩嘅第二批葉。",
+   "oneLine": "穀雨之後、嫩到好似麻雀脷咁嘅第二批葉——草香同焙香比雨前茶更濃，尾段留低淡淡嘅澀。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -373,7 +373,7 @@ window.TEAFaiDataYue = (function () {
  "green-jungjak": {
   "t": {
    "name": "中雀",
-   "oneLine": "立夏後、芒種前，葉開始變厚嘅第三批。",
+   "oneLine": "立夏之後葉片變厚嘅第三等級「中雀」——大火短炒，焙香同澀感一齊盛喺深綠色茶湯入面。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -389,7 +389,7 @@ window.TEAFaiDataYue = (function () {
  "green-daejak": {
   "t": {
    "name": "大雀",
-   "oneLine": "夏天採嘅粗葉——韓國日日飲嘅生活茶。",
+   "oneLine": "芒種之後夏天採摘嘅最後等級「大雀」——粗葉嘅焙香同分明嘅澀感，攤凍之後會更加柔和，係日常茶嚟。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克，亦可以煲",
    "rounds": "2~3泡",
@@ -405,7 +405,7 @@ window.TEAFaiDataYue = (function () {
  "green-jukro": {
   "t": {
    "name": "竹露茶",
-   "oneLine": "用手炒河東野生茶樹，係韓國最古老嘅綠茶做法。",
+   "oneLine": "喺鐵鑊入面用雙手翻炒三百幾次嘅河東野生茶——深厚鮮味同花香清澈咁留低，幾乎唔澀。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -421,7 +421,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-junshan": {
   "t": {
    "name": "君山銀針",
-   "oneLine": "產喺洞庭湖一個小島，黃茶之中最有名嘅銀針。",
+   "oneLine": "出自洞庭湖小島、以前貴過黃金嘅黃茶銀針——用紙包住焗黃嘅芽喺水入面企直，帶嚟粟米同牛油咁嘅甜。",
    "oxidation": "10%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -437,7 +437,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-mengding": {
   "t": {
    "name": "蒙頂黃芽",
-   "oneLine": "四川蒙頂山最古老嘅名茶——黃茶嘅原型。",
+   "oneLine": "西漢已經種茶嘅蒙頂山最古老名茶之一——炒完再堆焗嘅芽，帶嚟粟米、牛油香同柔和甜味。",
    "oxidation": "15%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -453,7 +453,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-huoshan": {
   "t": {
    "name": "霍山黃芽",
-   "oneLine": "安徽霍山嘅細葉黃茶——喺竹林裏面生長嘅茶園。",
+   "oneLine": "明代貢茶、出自霍山竹林嘅茶——輕炒焗黃嘅葉帶嚟柔和穀物香同甜味，尾段微微澀。",
    "oxidation": "15%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -469,7 +469,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-tieguanyin": {
   "t": {
    "name": "安溪鐵觀音",
-   "oneLine": "蘭花香氣同「觀音韻」——揉成半球形，係烏龍茶嘅代表。",
+   "oneLine": "源自觀音岩旁邊一棵茶樹嘅安溪代表烏龍——半球形葉帶嚟蘭花同百合香、忌廉質地同回甘。",
    "oxidation": "30%",
    "ratioNote": "蓋碗110毫升配7克",
    "rounds": "7~8泡",
@@ -485,7 +485,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dahongpao": {
   "t": {
    "name": "武夷大紅袍",
-   "oneLine": "喺岩石縫隙長出嚟嘅葉，重火焙——岩韻之茶。",
+   "oneLine": "帶住紅袍傳說同懸崖母樹嘅武夷岩茶——炭火焙過三到六次嘅葉，留低可可、濕岩石香同長長餘韻。",
    "oxidation": "55%",
    "ratioNote": "蓋碗110毫升配7克",
    "rounds": "8~10泡",
@@ -501,7 +501,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong": {
   "t": {
    "name": "鳳凰單叢",
-   "oneLine": "一樹一香——每棵茶樹都有自己一個名嘅廣東香茶。",
+   "oneLine": "鳳凰山老樹一棵棵分開嚟做嘅「一樹一香」——白花、梔子同蜜香分明咁綻放，最後回甘。",
    "oxidation": "40%",
    "ratioNote": "蓋碗110毫升配7克",
    "rounds": "10泡以上",
@@ -517,7 +517,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dongding": {
   "t": {
    "name": "凍頂烏龍",
-   "oneLine": "臺灣中部山腳嘅中焙烏龍——栗子同花香嘅平衡。",
+   "oneLine": "源自1855年武夷山36棵茶苗嘅台灣中焙烏龍——烤穀物、栗子同蘭花香，喺柔和甜味上面取得平衡。",
    "oxidation": "25%",
    "ratioNote": "150毫升配6克",
    "rounds": "6~8泡",
@@ -533,7 +533,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-alishan": {
   "t": {
    "name": "阿里山高山烏龍",
-   "oneLine": "海拔1200米以上，帶清涼蘭花香嘅臺灣高山茶。",
+   "oneLine": "1980年代跟住高山茶熱潮擴展開嚟嘅阿里山烏龍——厚葉帶嚟蘭花、忌廉同青蘋果香，甜味清澈綿長。",
    "oxidation": "20%",
    "ratioNote": "150毫升配6克",
    "rounds": "6~8泡",
@@ -549,7 +549,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-beauty": {
   "t": {
    "name": "東方美人",
-   "oneLine": "畀小綠葉蟬咬過先有蜜香——臺灣代表性嘅重發酵烏龍。",
+   "oneLine": "維多利亞女王讚佢係「東方美人」嘅白毫烏龍——俾小綠葉蟬咬過嘅葉，帶嚟蜜、熟桃同玫瑰香，甜味圓潤。",
    "oxidation": "60%",
    "ratioNote": "150毫升配6克",
    "rounds": "5~6泡",
@@ -565,7 +565,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-si-ji-chun": {
   "t": {
    "name": "四季春",
-   "oneLine": "一年四季都好似春天咁發芽，臺灣最常見嘅清爽型烏龍。",
+   "oneLine": "因為木柵有一棵四季都發芽嘅偶然茶樹而得名——輕發酵葉片帶嚟梔子同茉莉花香，甜味輕盈。",
    "oxidation": "15~20%",
    "ratioNote": "150毫升配4克",
    "rounds": "3~4泡",
@@ -584,7 +584,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-jin-xuan": {
   "t": {
    "name": "金萱烏龍",
-   "oneLine": "奶香嚟自葉本身，係台茶十二號，柔順圓潤嘅烏龍，又叫奶香烏龍。",
+   "oneLine": "1981年登記嘅台茶十二號烏龍——葉片本身就散發牛奶同忌廉香，伴住茉莉，甜味圓潤咁收尾。",
    "oxidation": "15~20%",
    "ratioNote": "150毫升配4克",
    "rounds": "3~4泡",
@@ -603,7 +603,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-pouchong": {
   "t": {
    "name": "包種茶",
-   "oneLine": "因為用紙包住香氣而得名，係臺灣北部嘅輕發酵烏龍。",
+   "oneLine": "因為以前用紙包住嚟保存香氣而得名嘅文山輕烏龍——發酵度接近綠茶，令蘭花同梔子香清澈輕盈。",
    "oxidation": "8~12%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -622,7 +622,7 @@ window.TEAFaiDataYue = (function () {
  "black-darjeeling-first": {
   "t": {
    "name": "大吉嶺春摘",
-   "oneLine": "春天嘅第一芽，葡萄同花香——「茶中香檳」。",
+   "oneLine": "喜馬拉雅2000米雲霧茶園嘅「茶中香檳」頭摘——低發酵令青葡萄、麝香葡萄同白花香輕盈咁綻放。",
    "oxidation": "85%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -638,7 +638,7 @@ window.TEAFaiDataYue = (function () {
  "black-assam": {
   "t": {
    "name": "阿薩姆",
-   "oneLine": "麥芽香同厚重嘅茶體——奶茶嘅骨幹。",
+   "oneLine": "世界最大紅茶產區布拉馬普特拉平原嘅大葉茶——麥芽、蜂蜜同葡萄乾香盛喺厚實茶身入面，係奶茶嘅骨架。",
    "oxidation": "95%",
    "ratioNote": "200毫升配5克，奶茶用150毫升配5克",
    "rounds": "1~2泡",
@@ -651,11 +651,11 @@ window.TEAFaiDataYue = (function () {
    "brewTip": "98度3分鐘。加奶就用5克配150毫升。"
   }
  },
-  "black-assam-ctc": { "t": {"name": "阿薩姆CTC", "oneLine": "碎葉出湯快而濃——印度奶茶同茶包嘅主角。", "oxidation": "95%", "ratioNote": "150毫升配3克，直飲200毫升配3克", "rounds": "1~2泡", "steepBasis": "100度泡2分鐘，耐咗會苦。", "origin": "印度阿薩姆，布拉馬普特拉河流域嘅平原茶園。阿薩姆產量大部分都做成CTC。", "process": "萎凋 → CTC（碾碎·撕裂·捲曲） → 發酵 → 乾燥。用滾筒將葉片碾成小顆粒，片刻就出濃色。", "story": "1930年，阿薩姆Amgoorie茶園嘅William McKercher令第一部CTC機投入使用。而家佢已經係印度同非洲紅茶嘅標準工藝。", "flavor": "強麥芽同爽利嘅澀，湯色深紅。比傳統阿薩姆粗獷，但頂得住牛奶、糖同香料。", "pairing": "瑪薩拉奶茶、奶茶、司康配凝脂忌廉同濃郁朱古力甜品都好夾。佢出湯快而有力，喺牛奶同香料入面都企得穩中心。味道細膩嘅甜品容易俾佢嘅爽澀壓住。", "brewTip": "100度唔好超過2分鐘。加奶時用150毫升配3克，泡濃啲先唔會俾牛奶沖淡。"} },
+  "black-assam-ctc": { "t": {"name": "阿薩姆CTC", "oneLine": "1930年阿姆古里茶園第一部機器開創嘅CTC紅茶——顆粒葉沖出深紅色茶湯同濃烈麥芽香，牛奶同香料都壓唔住佢。", "oxidation": "95%", "ratioNote": "150毫升配3克，直飲200毫升配3克", "rounds": "1~2泡", "steepBasis": "100度泡2分鐘，耐咗會苦。", "origin": "印度阿薩姆，布拉馬普特拉河流域嘅平原茶園。阿薩姆產量大部分都做成CTC。", "process": "萎凋 → CTC（碾碎·撕裂·捲曲） → 發酵 → 乾燥。用滾筒將葉片碾成小顆粒，片刻就出濃色。", "story": "1930年，阿薩姆Amgoorie茶園嘅William McKercher令第一部CTC機投入使用。而家佢已經係印度同非洲紅茶嘅標準工藝。", "flavor": "強麥芽同爽利嘅澀，湯色深紅。比傳統阿薩姆粗獷，但頂得住牛奶、糖同香料。", "pairing": "瑪薩拉奶茶、奶茶、司康配凝脂忌廉同濃郁朱古力甜品都好夾。佢出湯快而有力，喺牛奶同香料入面都企得穩中心。味道細膩嘅甜品容易俾佢嘅爽澀壓住。", "brewTip": "100度唔好超過2分鐘。加奶時用150毫升配3克，泡濃啲先唔會俾牛奶沖淡。"} },
  "black-nilgiri": {
   "t": {
    "name": "尼爾吉里",
-   "oneLine": "南印度高原茶——清涼嘅香氣同柔和嘅澀。",
+   "oneLine": "1859年第一座商業茶園誕生嘅「藍山」高原紅茶——柑橘同薄荷咁嘅清涼，清澈咁浮喺柔和麥芽香上面。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -671,7 +671,7 @@ window.TEAFaiDataYue = (function () {
  "black-nuwaraeliya": {
   "t": {
    "name": "努沃勒埃利耶",
-   "oneLine": "錫蘭最高海拔1800米嘅雲霧茶——最明亮細膩嘅錫蘭茶。",
+   "oneLine": "錫蘭最高1800米雲霧茶園嘅「錫蘭香檳」——涼爽空氣令柑橘、白花同淡淡薄荷香明亮又細膩。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -687,7 +687,7 @@ window.TEAFaiDataYue = (function () {
  "black-udapussellawa": {
   "t": {
    "name": "烏達普塞拉瓦",
-   "oneLine": "貼住努沃勒埃利耶，帶玫瑰香嘅小產區。",
+   "oneLine": "錫蘭七大產區入面最細嘅烏達普塞爾拉瓦茶——涼季嘅玫瑰香同淡淡柑橘浮喺中等茶身上面，收尾清爽。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -703,7 +703,7 @@ window.TEAFaiDataYue = (function () {
  "black-uva": {
   "t": {
    "name": "烏伐",
-   "oneLine": "東風吹起嘅乾季茶——薄荷般嘅清涼感。",
+   "oneLine": "兩股季風交匯嘅烏瓦茶，7至9月旱季最出色——薄荷同桉樹咁嘅清涼，伴住尾端嘅澀感而嚟。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -719,7 +719,7 @@ window.TEAFaiDataYue = (function () {
  "black-dimbula": {
   "t": {
    "name": "丁布拉",
-   "oneLine": "錫蘭中部高地——均衡嘅標準紅茶。",
+   "oneLine": "英式早餐拼配嘅支柱、錫蘭中部高原茶——花、柑橘同麥芽香均衡咁交融，澀感適中。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -735,7 +735,7 @@ window.TEAFaiDataYue = (function () {
  "black-sabaragamuwa": {
   "t": {
    "name": "薩巴拉加穆瓦",
-   "oneLine": "錫蘭西南部，帶果香嘅中低海拔茶。",
+   "oneLine": "喺潮濕西南低地生長、葉片柔軟嘅錫蘭茶——熟果同蜂蜜香圓潤咁盛喺柔和茶身入面。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -751,7 +751,7 @@ window.TEAFaiDataYue = (function () {
  "black-kandy": {
   "t": {
    "name": "康提",
-   "oneLine": "錫蘭茶嘅起點，中海拔嘅柔和紅茶。",
+   "oneLine": "1867年泰勒種低第一片商業茶園嘅錫蘭茶起點——中海拔葉片帶嚟柔和麥芽同花香，幾乎唔澀。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -767,7 +767,7 @@ window.TEAFaiDataYue = (function () {
  "black-ruhuna": {
   "t": {
    "name": "魯忽努",
-   "oneLine": "錫蘭南部低地——濃又厚嘅一杯。",
+   "oneLine": "喺炎熱南部低地快速發酵嘅錫蘭茶——最深嘅湯色、厚重麥芽香同強烈澀感，係為奶茶而生嘅。",
    "oxidation": "90%",
    "ratioNote": "200毫升配4克",
    "rounds": "1~2泡",
@@ -783,7 +783,7 @@ window.TEAFaiDataYue = (function () {
  "black-keemun": {
   "t": {
    "name": "祁門紅茶",
-   "oneLine": "玫瑰、蘭花同黑朱古力——中國紅茶嘅標準，世界三大紅茶之一。",
+   "oneLine": "1875年引入福建工藝做成嘅世界三大紅茶之一——細卷葉片綻放玫瑰、蘭花同黑朱古力香，餘韻悠長。",
    "oxidation": "90%",
    "ratioNote": "150毫升配3克",
    "rounds": "1~2泡",
@@ -799,7 +799,7 @@ window.TEAFaiDataYue = (function () {
  "black-lapsang": {
   "t": {
    "name": "正山小種",
-   "oneLine": "用松煙烘乾，世界上香氣最強嘅紅茶。",
+   "oneLine": "避軍隊嗰陣氧化咗嘅葉，用松木急烘而成嘅紅茶——松煙、焦油同乾果香深沉又厚重。",
    "oxidation": "95%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -815,7 +815,7 @@ window.TEAFaiDataYue = (function () {
  "black-jinjunmei": {
   "t": {
    "name": "金駿眉",
-   "oneLine": "淨係用正山小種嘅芽整成，係最珍貴嘅紅茶之一。",
+   "oneLine": "2005年淨係用正山小種春芽新做嘅珍貴紅茶——唔經煙燻，蜂蜜、白花同杏乾香留得住，甜味柔和綿長。",
    "oxidation": "85%",
    "ratioNote": "150毫升配3克",
    "rounds": "2泡",
@@ -831,7 +831,7 @@ window.TEAFaiDataYue = (function () {
  "black-dianhong": {
   "t": {
    "name": "滇紅",
-   "oneLine": "雲南大葉種嘅力量——明亮嘅金芽同蜜香。",
+   "oneLine": "1939年始於鳳慶嘅雲南大葉種後生紅茶——長時間發酵帶出金芽、蜂蜜同梅乾香，茶身厚實。",
    "oxidation": "95%",
    "ratioNote": "200毫升配5克",
    "rounds": "1~2泡",
@@ -847,7 +847,7 @@ window.TEAFaiDataYue = (function () {
  "blend-masala": {
   "t": {
    "name": "馬薩拉茶",
-   "oneLine": "紅茶同香料、牛奶一齊煲——印度街頭茶檔嘅日常。",
+   "oneLine": "殖民時代喺印度扎根嘅街頭茶檔日常——濃烈嘅阿薩姆CTC加入薑、豆蔻、肉桂同牛奶一齊煲，溫暖圓潤。",
    "oxidation": "95%",
    "ratioNote": "150毫升配5克，再加一半牛奶",
    "rounds": "1次",
@@ -863,7 +863,7 @@ window.TEAFaiDataYue = (function () {
  "black-sikkim": {
   "t": {
    "name": "錫金泰米",
-   "oneLine": "喜馬拉雅東側，全境有機嘅小產區。",
+   "oneLine": "印度第一個全境有機邦錫金唯一茶園出產嘅茶——喜馬拉雅高地綻放花香同淡淡麝香葡萄，茶身柔和。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -879,7 +879,7 @@ window.TEAFaiDataYue = (function () {
  "black-nepal": {
   "t": {
    "name": "伊拉姆",
-   "oneLine": "喜馬拉雅東側，貼住大吉嶺嘅高山紅茶。",
+   "oneLine": "緊貼住大吉嶺嘅尼泊爾伊拉姆高山紅茶——小農做嘅葉輕盈咁綻放花香、青葡萄同淡淡麝香。",
    "oxidation": "90%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -895,7 +895,7 @@ window.TEAFaiDataYue = (function () {
  "black-kenya": {
   "t": {
    "name": "肯亞CTC",
-   "oneLine": "赤道高地嘅CTC——深色同力量。",
+   "oneLine": "世界三大紅茶出口國之一肯雅嘅赤道高地CTC——碎葉沖出深紅茶湯同濃烈麥芽，夠晒力頂得住牛奶。",
    "oxidation": "95%",
    "ratioNote": "200毫升配4克",
    "rounds": "1~2泡",
@@ -911,7 +911,7 @@ window.TEAFaiDataYue = (function () {
  "black-jaksal": {
   "t": {
    "name": "河東雀舌紅茶",
-   "oneLine": "喺河東用韓國茶葉製成嘅紅茶——個名係慶尚道方言嘅「雀舌」。",
+   "oneLine": "智異山腳河東將綠茶茶葉完全氧化而成嘅雀舌紅茶——方言名入面藏住蜂蜜、乾果同麥芽嘅柔和。",
    "oxidation": "90%",
    "ratioNote": "150毫升配3克",
    "rounds": "1~2泡",
@@ -927,7 +927,7 @@ window.TEAFaiDataYue = (function () {
  "black-ruby18": {
   "t": {
    "name": "日月潭",
-   "oneLine": "臺灣野生茶同緬甸阿薩姆嘅雜交種——薄荷同肉桂香。",
+   "oneLine": "台灣野生茶同緬甸阿薩姆雜交而成嘅日月潭紅玉——氧化得耐嘅大葉散發薄荷、肉桂同肉豆蔻香，餘韻悠長。",
    "oxidation": "95%",
    "ratioNote": "200毫升配5克",
    "rounds": "1~2泡",
@@ -943,7 +943,7 @@ window.TEAFaiDataYue = (function () {
  "dark-sheng": {
   "t": {
    "name": "普洱生茶",
-   "oneLine": "未經渥堆嘅生茶——時間同微生物一齊陳化。",
+   "oneLine": "清代曾經係貢茶嘅雲南普洱生茶——壓製之後擺得耐，會由乾果蜜香慢慢變成棗香、藥香同老木香。",
    "oxidation": "後發酵 · 生茶",
    "ratioNote": "蓋碗100毫升配5克，洗茶一次",
    "rounds": "8泡以上",
@@ -959,7 +959,7 @@ window.TEAFaiDataYue = (function () {
  "dark-shou": {
   "t": {
    "name": "普洱熟茶",
-   "oneLine": "用渥堆提早催熟嘅普洱——而家就飲得嘅陳香。",
+   "oneLine": "1973年昆明茶廠創出渥堆、提早陳熟嘅普洱熟茶——唔使等好耐，就有泥土、紅棗同菌香嘅柔和甜味。",
    "oxidation": "後發酵 · 熟茶",
    "ratioNote": "蓋碗100毫升配5克，洗茶兩次",
    "rounds": "8泡以上",
@@ -975,7 +975,7 @@ window.TEAFaiDataYue = (function () {
  "dark-anhua": {
   "t": {
    "name": "安化黑茶",
-   "oneLine": "湖南安化嘅壓製黑茶——以千兩茶為代表。",
+   "oneLine": "明清邊茶之鄉安化嘅黑茶，以千兩茶做代表——松煙慢慢烘，煙香、棗香同藥香濃郁又柔和。",
    "oxidation": "後發酵",
    "ratioNote": "5克配150毫升",
    "rounds": "6泡以上",
@@ -991,7 +991,7 @@ window.TEAFaiDataYue = (function () {
  "dark-liubao": {
   "t": {
    "name": "六堡茶",
-   "oneLine": "廣西嘅黑茶，喺竹簍入面陳化。",
+   "oneLine": "清代入選中國二十四名茶嘅廣西六堡茶——放喺竹簍陳化，菌香同檳榔香入面透住柔和甜味。",
    "oxidation": "後發酵",
    "ratioNote": "5克配150毫升",
    "rounds": "6泡以上",
@@ -1007,7 +1007,7 @@ window.TEAFaiDataYue = (function () {
  "dark-cheongtaejeon": {
   "t": {
    "name": "青苔錢",
-   "oneLine": "長興嘅銅錢形發酵茶——韓國嘅黑茶。",
+   "oneLine": "復原朝鮮銅錢形狀嘅長興青苔錢，係韓國嘅黑茶——蒸葉壓製發酵，泥土、藥材同紅棗味溫暖柔和。",
    "oxidation": "後發酵",
    "ratioNote": "一個（5克）配200毫升",
    "rounds": "3泡以上",
@@ -1023,7 +1023,7 @@ window.TEAFaiDataYue = (function () {
  "blend-earlgrey": {
   "t": {
    "name": "伯爵茶",
-   "oneLine": "用佛手柑加香嘅紅茶。個名唔係商標，而係兩百年嘅產業史。",
+   "oneLine": "承載住1830年代格雷伯爵傳說嘅經典加香紅茶——卡拉布里亞佛手柑綻放出柑橘同花香。",
    "oxidation": "95%",
    "ratioNote": "茶葉1對水60——3克配200毫升",
    "rounds": "1~2泡",
@@ -1039,7 +1039,7 @@ window.TEAFaiDataYue = (function () {
  "blend-ladygrey": {
   "t": {
    "name": "仕女伯爵茶",
-   "oneLine": "喺伯爵茶上面再加檸檬、橙皮同花嘅柔和變奏。",
+   "oneLine": "以格雷伯爵夫人命名、川寧出品嘅柔和變奏——佛手柑配檸檬橙皮同花瓣，帶淡淡甜味。",
    "oxidation": "95%",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -1055,7 +1055,7 @@ window.TEAFaiDataYue = (function () {
  "blend-englishbreakfast": {
   "t": {
    "name": "英式早餐茶",
-   "oneLine": "阿薩姆、錫蘭同祁門拼成嘅濃郁早晨茶。",
+   "oneLine": "19世紀英國早餐枱上面定型嘅濃郁拼配——阿薩姆、錫蘭同祁門呈現麥芽、蜂蜜同乾果味，頂得住牛奶。",
    "oxidation": "95%",
    "ratioNote": "200毫升配4克",
    "rounds": "1~2泡",
@@ -1071,7 +1071,7 @@ window.TEAFaiDataYue = (function () {
   "blend-jasmine": {
   "t": {
    "name": "茉莉花茶",
-   "oneLine": "用夜晚開嘅茉莉一層層窨入綠茶嘅茶。",
+   "oneLine": "始於宋代、盛於清代福建嘅茉莉花茶——夏夜花香一層層窨入去，甜潤白花香融入綠茶鮮味。",
    "oxidation": "90%（綠茶底）",
    "ratioNote": "200毫升配4克",
    "rounds": "1~2泡",
@@ -1087,7 +1087,7 @@ window.TEAFaiDataYue = (function () {
  "blend-hongkong": {
   "t": {
    "name": "港式拼配茶",
-   "oneLine": "以錫蘭為主要基底嘅香港茶餐廳招牌奶茶拼配。",
+   "oneLine": "英式奶茶喺香港茶餐廳重生嘅拼配——以錫蘭做基底濃泡，濃烈麥芽配淡奶嘅圓潤甜味。",
    "oxidation": "95%",
    "ratioNote": "200毫升配8克，淡奶按個人口味",
    "rounds": "1次",
@@ -1103,7 +1103,7 @@ window.TEAFaiDataYue = (function () {
  "fruit-daechu": {
   "t": {
    "name": "紅棗茶",
-   "oneLine": "將乾紅棗熬成嘅甜茶——冬天嘅暖杯。",
+   "oneLine": "用慶山、報恩出名嘅乾紅棗熬成嘅韓國冬日茶——棗甜、輕微焦香同柔和茶身。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "紅棗5~6粒或者蜜漬2羹配200毫升",
    "rounds": "1次（蜜漬可以加水再沖幾次）",
@@ -1117,7 +1117,7 @@ window.TEAFaiDataYue = (function () {
  "herb-ginger": {
   "t": {
    "name": "生薑茶",
-   "oneLine": "生薑用蜜糖醃成嘅暖身茶。",
+   "oneLine": "生薑切薄片用蜜漬嘅韓中傳統茶——清爽嘅辛辣俾蜂蜜甜味柔和咁包住。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "蜜漬2羹配200毫升",
    "rounds": "1次",
@@ -1131,7 +1131,7 @@ window.TEAFaiDataYue = (function () {
  "fruit-yuja": {
   "t": {
    "name": "柚子茶",
-   "oneLine": "柚子用蜜糖醃成嘅香甜蜜茶。",
+   "oneLine": "高興、莞島深秋柚子連皮蜜漬嘅冬日茶——柑橘皮香同清爽酸味，喚醒味蕾。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "蜜漬2羹配200毫升",
    "rounds": "1次",
@@ -1145,7 +1145,7 @@ window.TEAFaiDataYue = (function () {
  "fruit-omija": {
   "t": {
    "name": "五味子茶",
-   "oneLine": "據講有五種味道嘅紅色果實茶——夏天嘅茶。",
+   "oneLine": "文慶、旌善九月紅果五味子茶——酸、甜、苦、鹹、辣五種味喺一杯入面一層層交疊。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "蜜漬2羹配200毫升，凍水都得",
    "rounds": "1次",
@@ -1159,7 +1159,7 @@ window.TEAFaiDataYue = (function () {
  "herb-ssanghwa": {
   "t": {
    "name": "雙和茶",
-   "oneLine": "白芍、熟地、黃芪、當歸、川芎等九味藥材熬成嘅韓方茶——攰嘅時候嘅一杯。",
+   "oneLine": "白芍、熟地、黃芪、當歸等九味藥材熬成嘅傳統韓方茶——藥材嘅苦同甜深沉厚重咁交融。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "一包（200毫升）直接飲",
    "rounds": "1次",
@@ -1173,7 +1173,7 @@ window.TEAFaiDataYue = (function () {
  "herb-dunggulle": {
   "t": {
    "name": "玉竹茶",
-   "oneLine": "將玉竹根烘炒成嘅焙香茶——代替咖啡。",
+   "oneLine": "秋天掘玉竹根曬乾炒製嘅焙香根茶——炒穀物咁嘅香氣同淡淡甜味，係代替咖啡嘅一杯。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -1187,7 +1187,7 @@ window.TEAFaiDataYue = (function () {
  "herb-buckwheat": {
   "t": {
    "name": "蕎麥茶",
-   "oneLine": "炒過嘅蕎麥泡出嚟嘅焙香茶，甜味留得耐。",
+   "oneLine": "炒蕎麥粒沖泡嘅韓日穀物茶——炒穀香、蕎麥淡淡嘅苦味同留得耐嘅甜味交疊。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -1201,7 +1201,7 @@ window.TEAFaiDataYue = (function () {
  "herb-barley": {
   "t": {
    "name": "麥茶",
-   "oneLine": "煲炒過嘅大麥，韓國人當水飲嘅茶。",
+   "oneLine": "炒大麥煲成、韓國人當水飲嘅日常茶——焙香穀物氣息同乾淨回味，陪住你成日。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "1公升水配炒大麥20克",
    "rounds": "1次（煲完飲足一日）",
@@ -1215,7 +1215,7 @@ window.TEAFaiDataYue = (function () {
  "herb-brownrice": {
   "t": {
    "name": "玄米茶",
-   "oneLine": "煲炒過嘅糙米——將飯變成茶。",
+   "oneLine": "保留米糠嘅糙米炒完再煲，將飯變成茶——飯焦香同淡淡甜味，越煲越濃。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "1公升水配炒玄米20克",
    "rounds": "1次",
@@ -1229,7 +1229,7 @@ window.TEAFaiDataYue = (function () {
  "herb-persimmon": {
   "t": {
    "name": "柿葉茶",
-   "oneLine": "用柿樹葉製成嘅茶——維他命C豐富嘅葉茶。",
+   "oneLine": "初夏柿葉蒸或者曬製而成嘅韓國葉茶——淡淡草香同甜味，澀味少，口感柔和。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -1243,7 +1243,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mulberry": {
   "t": {
    "name": "桑葉茶",
-   "oneLine": "桑葉曬乾再炒，帶柔和嘅甜味。",
+   "oneLine": "晚春桑葉曬乾炒製嘅韓中葉茶——炒葉嘅焙香同淡淡甜味柔和咁延續。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -1257,7 +1257,7 @@ window.TEAFaiDataYue = (function () {
  "herb-lotus": {
   "t": {
    "name": "荷葉茶",
-   "oneLine": "曬乾嘅荷葉——夏天嘅一杯清茶。",
+   "oneLine": "夏日蓮葉曬乾沖泡嘅清香葉茶——草香同淡淡苦味，清涼爽口。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克",
    "rounds": "2泡",
@@ -1271,7 +1271,7 @@ window.TEAFaiDataYue = (function () {
  "herb-balloonflower": {
   "t": {
    "name": "桔梗茶",
-   "oneLine": "桔梗根曬乾熬煮——傳統上喉嚨唔舒服嗰陣飲嘅根茶。",
+   "oneLine": "秋天桔梗根曬乾熬煮嘅傳統根茶——淡淡苦甜同根獨特嘅香氣深深滲出嚟。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配5克",
    "rounds": "2泡",
@@ -1285,7 +1285,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mugwort": {
   "t": {
    "name": "艾草茶",
-   "oneLine": "春天艾草曬乾——初春嘅一杯。",
+   "oneLine": "三、四月嫩艾曬乾而成嘅春天之茶——草香同淡淡苦味，趁暖飲嗰陣香氣綻放。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克",
    "rounds": "2泡",
@@ -1299,7 +1299,7 @@ window.TEAFaiDataYue = (function () {
  "herb-tteokcha": {
   "t": {
    "name": "餅茶",
-   "oneLine": "蒸葉壓成嘅茶餅——可以放好多年。",
+   "oneLine": "蒸葉舂搗壓模而成嘅傳統餅茶——擺得耐之後掰開嚟煲，係藥材、紅棗同泥土嘅深厚味道。",
    "oxidation": "輕微後發酵",
    "ratioNote": "一片（5克）配300毫升",
    "rounds": "3泡以上",
@@ -1313,7 +1313,7 @@ window.TEAFaiDataYue = (function () {
  "herb-chamomile": {
   "t": {
    "name": "洋甘菊",
-   "oneLine": "蘋果同蜜糖香嘅花茶——睡前一杯。",
+   "oneLine": "埃及、德國等地洋甘菊花曬乾而成嘅花茶——蘋果、蜂蜜同乾草香，柔和微甜。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克（一小羹花）",
    "rounds": "1~2泡",
@@ -1327,7 +1327,7 @@ window.TEAFaiDataYue = (function () {
  "herb-peppermint": {
   "t": {
    "name": "薄荷",
-   "oneLine": "清涼薄荷香嘅草本茶——飯後飲。",
+   "oneLine": "歐美薄荷葉曬乾而成嘅草本茶——清涼薄荷香氣，冇澀味，爽口清新。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克",
    "rounds": "1~2泡",
@@ -1341,7 +1341,7 @@ window.TEAFaiDataYue = (function () {
  "herb-hibiscus": {
   "t": {
    "name": "洛神花",
-   "oneLine": "紅色花萼嘅酸——最啱整凍茶嘅茶。",
+   "oneLine": "洛神花萼曬乾而成嘅紅色茶——酸爽莓果香同深紅茶湯，凍飲更加出色。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "1~2泡",
@@ -1355,7 +1355,7 @@ window.TEAFaiDataYue = (function () {
  "herb-rooibos": {
   "t": {
    "name": "路易波士",
-   "oneLine": "南非嘅紅灌木茶——冇咖啡因，亦都啱加奶。",
+   "oneLine": "南非塞德貝格紅灌木，針葉發酵而成——雲呢拿、無花果同蜂蜜嘅柔和甜味，加奶都好夾。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -1369,7 +1369,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mate": {
   "t": {
    "name": "馬黛茶",
-   "oneLine": "南美嘅含咖啡因葉茶——用葫蘆同金屬吸管飲。",
+   "oneLine": "南美用葫蘆同金屬飲管一齊分享嘅馬黛茶——青草、乾草同淡淡煙香，餘味微微苦。",
    "oxidation": "唔發酵 · 含咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2~3泡",
@@ -1383,7 +1383,7 @@ window.TEAFaiDataYue = (function () {
  "herb-lavender": {
   "t": {
    "name": "薰衣草",
-   "oneLine": "普羅旺斯嘅紫色花茶——香氣強，少放為妙。",
+   "oneLine": "法國普羅旺斯紫色薰衣草曬乾而成嘅花茶——薰衣草、蜂蜜同淡淡柑橘香好濃烈，落少少就夠。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配1克",
    "rounds": "1泡",
@@ -1397,7 +1397,7 @@ window.TEAFaiDataYue = (function () {
  "herb-lemongrass": {
   "t": {
    "name": "香茅",
-   "oneLine": "帶檸檬香嘅草茶——東南亞嘅味道。",
+   "oneLine": "泰國、越南檸檬草莖葉曬乾而成嘅草茶——檸檬柑橘香疊住淡淡薑味，清新爽口。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克",
    "rounds": "2泡",
@@ -1411,7 +1411,7 @@ window.TEAFaiDataYue = (function () {
  "herb-chrysanthemum": {
   "t": {
    "name": "菊花茶",
-   "oneLine": "秋天菊花曬乾——清香嘅花茶。",
+   "oneLine": "杭州、黃山同韓國黃菊曬乾而成嘅秋日花茶——清涼藥香同淡淡甜味。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配2克（3~4朵）",
    "rounds": "2泡",
@@ -1425,7 +1425,7 @@ window.TEAFaiDataYue = (function () {
  "fruit-mogwa": {
   "t": {
    "name": "木瓜茶",
-   "oneLine": "香氣濃烈嘅木瓜用蜜醃成嘅一杯，為冬天嘅喉嚨。",
+   "oneLine": "俾人叫做「樹上香氣」嘅木瓜，連籽蜜漬成茶——柔和花香甜味，尾端微微澀。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "蜜漬2羹配200毫升",
    "rounds": "1次",
@@ -1441,7 +1441,7 @@ window.TEAFaiDataYue = (function () {
  "green-zhuyeqing": {
   "t": {
    "name": "竹葉青",
-   "oneLine": "似竹葉嘅扁平芽葉——將四川嘅早春裝入杯。",
+   "oneLine": "1964年始於峨眉山嘅竹葉青——清明前嫩芽炒到好似竹葉咁扁直，淡淡草香同清甜。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -1463,7 +1463,7 @@ window.TEAFaiDataYue = (function () {
  "green-enshi-yulu": {
   "t": {
    "name": "恩施玉露",
-   "oneLine": "蒸氣殺菁、揉成針形，中國少見嘅蒸青綠茶。",
+   "oneLine": "清代延續到而家嘅湖北恩施蒸青綠茶——蒸汽殺青再揉成針形，鮮味入面帶海藻氣息。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -1489,7 +1489,7 @@ window.TEAFaiDataYue = (function () {
   "keep": "藥材密封放喺陰涼乾爽嘅地方；煲好嘅湯要雪藏，幾日內飲完。",
   "keywords": "十全大補湯 韓方茶 補湯 雙和湯 藥材 人參 黃芪 當歸",
   "name": "十全大補湯",
-  "oneLine": "人參、當歸、黃芪等十味藥材一齊煲嘅代表補湯——同雙和湯一樣，係冬天常飲嘅韓方飲品。",
+  "oneLine": "經典嘅十味藥方，源自宋代——四君子同四物藥材再加黃芪同肉桂——苦甜並存，畀甘草甜味同暖肉桂香 смяг。",
   "origin": "源自中國宋代處方，喺韓國韓方入面常用；藥材舖同韓醫院有藥材包或者成品袋裝賣。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "pairing": "傳統上天氣凍嗰陣溫熱嚟飲，配年糕、藥果、柿餅呢類傳統甜食。藥材嘅苦味被甘草同甜食柔和化，肉桂溫暖嘅香料味融入其中；但佢沉重嘅香氣同沙律呢類清淡食物坐埋一齊顯得唔協調。",
@@ -1507,7 +1507,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sesame": {
  "t": {
   "name": "芝麻茶",
-  "oneLine": "炒香嘅芝麻磨成粉沖嚟飲，香氣好濃。",
+  "oneLine": "炒過嘅芝麻磨到好幼，撩入熱水——炒果仁香深厚，口感柔滑帶油潤，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1529,7 +1529,7 @@ window.TEAFaiDataYue = (function () {
  "herb-orientalmelon": {
  "t": {
   "name": "香瓜茶",
-  "oneLine": "甜瓜乾沖嚟飲，清甜爽口嘅夏日茶。",
+  "oneLine": "夏天嘅香瓜切薄曬乾，凍飲都好——甜味同香氣溫柔，收尾乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1551,7 +1551,7 @@ window.TEAFaiDataYue = (function () {
  "herb-calamus": {
  "t": {
   "name": "菖蒲茶",
-  "oneLine": "菖蒲煲出嚟嘅茶，帶住端午嘅香氣。",
+  "oneLine": "菖蒲根同葉煎煮，係端午節菖蒲水習俗嘅茶——青草香清涼，少少辛香，收尾乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1573,7 +1573,7 @@ window.TEAFaiDataYue = (function () {
  "herb-greentangerine": {
  "t": {
   "name": "青橘茶",
-  "oneLine": "未熟嘅濟州青橘醃成果醬沖嚟飲，酸香清爽。",
+  "oneLine": "未熟嘅濟州青橘用糖醃成保存品，比熟橘茶更 sharp——酸味明亮同橘皮香行先，跟住先甜。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配2~3匙果醬",
   "rounds": "1杯",
@@ -1595,7 +1595,7 @@ window.TEAFaiDataYue = (function () {
  "herb-gardenia": {
  "t": {
   "name": "梔子茶",
-  "oneLine": "梔子果煲出嚟嘅茶，湯色金黃、帶少少苦。",
+  "oneLine": "梔子果就係將醃蘿蔔染黃嗰種，曬乾煎煮——湯色清黃，苦味溫和，帶土香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1617,7 +1617,7 @@ window.TEAFaiDataYue = (function () {
  "herb-chicory": {
  "t": {
   "name": "菊苣茶",
-  "oneLine": "炒香嘅菊苣根沖嚟飲，苦香好似咖啡。",
+  "oneLine": "菊苣根炒過，喺法國同歐洲長久當咖啡代替品飲——炒苦味、土香，尾韻好似咖啡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1639,7 +1639,7 @@ window.TEAFaiDataYue = (function () {
  "herb-trifoliateorange": {
  "t": {
   "name": "枳實茶",
-  "oneLine": "枳實醃成嘅果醬沖嚟飲，先酸後甘苦。",
+  "oneLine": "枳實嚟自多刺嘅籬笆樹，新鮮太酸所以保存嚟飲——冬天茶，酸味強，跟住苦，帶柑橘皮香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配2~3匙果醬",
   "rounds": "1杯",
@@ -1661,7 +1661,7 @@ window.TEAFaiDataYue = (function () {
  "herb-taro": {
  "t": {
   "name": "芋頭茶",
-  "oneLine": "芋頭乾煲出嚟嘅茶，柔和粉糯嘅根茶。",
+  "oneLine": "芋頭係秋天主食，切片曬乾煎煮——澱粉口感柔和，果仁香溫柔，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1683,7 +1683,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pineapple": {
  "t": {
   "name": "鳳梨茶",
-  "oneLine": "鳳梨醃成果醬沖嚟飲，熱帶生果嘅濃甜。",
+  "oneLine": "菠蘿用糖醃成保存品沖熱水，凍飲做 ade 都好正——甜味深厚，菠蘿嘅香氣濃，帶酸邊。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配2~3匙果醬",
   "rounds": "1杯",
@@ -1705,7 +1705,7 @@ window.TEAFaiDataYue = (function () {
  "herb-redbean": {
  "t": {
   "name": "小豆茶",
-  "oneLine": "炒香嘅紅豆沖嚟飲，焦香樸實嘅穀物茶。",
+  "oneLine": "炒過嘅紅豆當穀物茶沖，煲煮就更深更濃——炒果仁香，口感樸素，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1727,7 +1727,7 @@ window.TEAFaiDataYue = (function () {
  "herb-grape": {
  "t": {
   "name": "葡萄茶",
-  "oneLine": "葡萄醃成果醬沖嚟飲，香甜嘅果茶。",
+  "oneLine": "提子用糖醃成保存品，果皮令顏色更深——提子嘅甜味同香氣，帶淡淡酸味。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配2~3匙果醬",
   "rounds": "1杯",
@@ -1749,7 +1749,7 @@ window.TEAFaiDataYue = (function () {
  "herb-hallabong": {
  "t": {
   "name": "漢拿峰茶",
-  "oneLine": "濟州漢拿峰柑橘醃成果醬，柑橘香濃嘅冬日茶。",
+  "oneLine": "濟州嘅漢拿峰以漢拿山得名，用糖醃成保存品——冬天茶，比橘茶更深，柑橘香豐富，甜味圓潤。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配2~3匙果醬",
   "rounds": "1杯",
@@ -1771,7 +1771,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sunflower": {
  "t": {
   "name": "葵花籽茶",
-  "oneLine": "炒香嘅葵花籽沖嚟飲，焦香嘅種子茶。",
+  "oneLine": "炒過嘅葵花籽沖泡，硬殼煲煮嗰陣出味更多——炒籽果仁香，帶淡淡油潤甜味。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -1793,7 +1793,7 @@ window.TEAFaiDataYue = (function () {
  "herb-herbtea": {
  "t": {
   "name": "草本茶",
-  "oneLine": "乾香草葉同花沖嚟飲嘅茶，統稱草本茶。",
+  "oneLine": "乾草本葉同花沖泡嘅統稱——薄荷、洋甘菊、檸檬香蜂草——冇咖啡因，每種草本都有自己嘅青草同花香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -1815,7 +1815,7 @@ window.TEAFaiDataYue = (function () {
  "herb-raisintree": {
  "t": {
   "name": "枳椇茶",
-  "oneLine": "枳椇果煲出嚟嘅茶，微甜嘅木果茶。",
+  "oneLine": "枳椇果喺韓國屋企煎煮咗好耐，飲酒之後第二朝成日搵嚟飲——甜味溫柔，木香淡淡，尾段柔和。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升水配枳椇果10克",
   "rounds": "1次（煲煮）",
@@ -1837,7 +1837,7 @@ window.TEAFaiDataYue = (function () {
  "herb-schizonepeta": {
  "t": {
   "name": "荊芥茶",
-  "oneLine": "荊芥葉同花穗沖嚟飲，清涼好似薄荷嘅草茶。",
+  "oneLine": "荊芥葉同花穗係用咗好耐嘅藥材，曬乾沖淡茶——清涼好似薄荷，青草香，少少辛香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -1859,7 +1859,7 @@ window.TEAFaiDataYue = (function () {
  "herb-walnut": {
  "t": {
   "name": "核桃茶",
-  "oneLine": "核桃磨碎沖嚟飲，濃郁焦香嘅堅果茶。",
+  "oneLine": "磨碎嘅合桃撩入熱水，有時同紅棗薑一齊煎——果仁香深厚，油潤柔和，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配核桃粉10克",
   "rounds": "1杯",
@@ -1881,7 +1881,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pumpkin": {
  "t": {
   "name": "南瓜茶",
-  "oneLine": "老南瓜乾煲出嚟嘅茶，香甜又柔和。",
+  "oneLine": "熟南瓜係冬天主食，切片曬乾留喺儲物櫃再煎煮——南瓜天然甜味，澱粉口感柔和。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配南瓜乾10克",
   "rounds": "2泡",
@@ -1903,7 +1903,7 @@ window.TEAFaiDataYue = (function () {
  "herb-redginseng": {
  "t": {
   "name": "紅蔘茶",
-  "oneLine": "人蔘蒸過曬乾變成紅蔘，煲出嚟嘅茶苦中回甘。",
+  "oneLine": "紅蔘即係人參蒸曬到變紅再煎煮——苦味行先，跟住甜味同土香，餘韻長而深。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配紅蔘片5克",
   "rounds": "1次（煲煮）",
@@ -1925,7 +1925,7 @@ window.TEAFaiDataYue = (function () {
  "herb-astragalus": {
  "t": {
   "name": "黃芪茶",
-  "oneLine": "黃芪根煲出嚟嘅茶，微甜嘅藥草茶。",
+  "oneLine": "黃芪根喺蔘雞湯入面好熟悉，曬乾單獨煎煮——甜味溫和，豆般果仁香，土香柔和。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配黃芪5克",
   "rounds": "1次（煲煮）",
@@ -1947,7 +1947,7 @@ window.TEAFaiDataYue = (function () {
  "herb-magnolia-bark": {
  "t": {
   "name": "厚朴茶",
-  "oneLine": "厚朴樹皮煲出嚟嘅茶，苦得嚟香好深。",
+  "oneLine": "厚朴樹皮係用咗好耐嘅藥材，曬乾煎煮——苦味、深厚木香，尾段少少辛辣。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配厚朴5克",
   "rounds": "1次（煲煮）",
@@ -1969,7 +1969,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pepper": {
  "t": {
   "name": "胡椒茶",
-  "oneLine": "胡椒煲水嚟飲，辛辣嘅香料茶。",
+  "oneLine": "磨碎嘅黑胡椒煲水，細杯濃飲，有時加蜜糖——辛辣熱感同香料香，短促又 sharp。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升水配胡椒2克（約1茶匙）",
   "rounds": "1杯",
@@ -1991,7 +1991,7 @@ window.TEAFaiDataYue = (function () {
  "herb-reishi": {
  "t": {
   "name": "靈芝茶",
-  "oneLine": "用靈芝煲出嚟嘅茶，苦味好鮮明。",
+  "oneLine": "長久以嚟被珍視嘅靈芝，切薄煲煮——湯色深褐，苦味強，木香同土香並存。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "500毫升配10克",
   "rounds": "2煎",
@@ -2013,7 +2013,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mulberry-fruit": {
  "t": {
   "name": "桑葚茶",
-  "oneLine": "曬乾嘅桑葚沖出嚟，帶紫色嘅甜果茶。",
+  "oneLine": "初夏熟到黑嘅桑葚曬乾沖泡——同桑葉唔同嘅果茶，又甜又少少酸，湯色淡紫。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "2泡",
@@ -2035,7 +2035,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cucumber": {
  "t": {
   "name": "黃瓜茶",
-  "oneLine": "乾黃瓜沖出嚟嘅輕茶，有清涼嘅草香。",
+  "oneLine": "夏天嘅青瓜切薄曬乾，熱水沖都留得住香氣——湯色清透淡綠，青草香清涼，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2057,7 +2057,7 @@ window.TEAFaiDataYue = (function () {
  "herb-corn": {
  "t": {
   "name": "玉米茶",
-  "oneLine": "炒過嘅粟米粒煲成，好似爆谷咁焦香。",
+  "oneLine": "用粟米粒唔係粟米鬚——炒粟米煲煮嗰杯更深，湯色金黃，炒穀香好似爆谷，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "2泡",
@@ -2079,7 +2079,7 @@ window.TEAFaiDataYue = (function () {
  "herb-wasong": {
  "t": {
   "name": "瓦松茶",
-  "oneLine": "曬乾嘅瓦松沖出嚟，帶淡淡嘅酸味。",
+  "oneLine": "瓦松係瓦片同岩石上好似松咁嘅多肉植物，曬乾沖泡——湯色清澈，酸味淡淡，青草香清新。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2101,7 +2101,7 @@ window.TEAFaiDataYue = (function () {
  "herb-achyranthes": {
  "t": {
   "name": "牛膝茶",
-  "oneLine": "牛膝根煲出嚟嘅根茶，醇厚又樸實。",
+  "oneLine": "牛膝根因為節位好似牛膝而叫做牛膝，煎煮嚟飲——湯色係深褐色，土香炒香，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2煎",
@@ -2123,7 +2123,7 @@ window.TEAFaiDataYue = (function () {
  "herb-turmeric": {
  "t": {
   "name": "鬱金茶",
-  "oneLine": "湯色金黃、土香好分明嘅鬱金茶。",
+  "oneLine": "鬱金嚟自出名嘅珍島，係將咖哩染黃嗰種植物——湯色深黃，土香濃，尾段有胡椒感。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2145,7 +2145,7 @@ window.TEAFaiDataYue = (function () {
  "herb-polygala": {
  "t": {
   "name": "遠志茶",
-  "oneLine": "遠志根煲出嚟，苦中帶香嘅藥材茶。",
+  "oneLine": "遠志根係幼細草藥根去芯曬乾，煎煮嚟飲——湯色淡褐，初味苦，尾段炒香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2煎",
@@ -2167,7 +2167,7 @@ window.TEAFaiDataYue = (function () {
  "herb-coix": {
  "t": {
   "name": "薏苡茶",
-  "oneLine": "炒薏苡煲出嚟嘅穀物茶，焦香又濃稠。",
+  "oneLine": "炒薏苡出名在於自動販賣機嘅薏米茶，飽肚好似穀物——果仁香同淡淡甜味，嗰杯幾厚身。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "2泡",
@@ -2189,7 +2189,7 @@ window.TEAFaiDataYue = (function () {
  "herb-akebia": {
  "t": {
   "name": "木通茶",
-  "oneLine": "木通藤曬乾沖出嚟，帶淡甜嘅山茶。",
+  "oneLine": "木通藤嘅莖同果，呢種藤出名在於秋天裂開嘅果，曬乾嚟飲——湯色清澈，甜味淡淡，青草香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2211,7 +2211,7 @@ window.TEAFaiDataYue = (function () {
  "herb-ginkgo": {
  "t": {
   "name": "銀杏茶",
-  "oneLine": "銀杏葉曬乾炒過嚟沖，微苦嘅葉茶。",
+  "oneLine": "唔係果而係葉——秋天變黃嘅銀杏葉曬乾鑊炒，湯色淡黃，青草香輕盈，尾段苦甜。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2233,7 +2233,7 @@ window.TEAFaiDataYue = (function () {
  "herb-honeysuckle": {
  "t": {
   "name": "忍冬茶",
-  "oneLine": "忍冬花蕾沖出嚟，花香淡淡嘅茶。",
+  "oneLine": "忍冬係「捱得過冬天」嘅藤，花苞就係藥材金銀花——湯色清澈，花香溫柔，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2255,7 +2255,7 @@ window.TEAFaiDataYue = (function () {
  "herb-ginseng": {
  "t": {
   "name": "人參茶",
-  "oneLine": "人參煲出嚟，苦甜帶土香嘅茶。",
+  "oneLine": "金山同豐基嘅人參，切薄曬乾煎煮——湯色淡琥珀，味道苦甜，土香深厚。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2277,7 +2277,7 @@ window.TEAFaiDataYue = (function () {
  "herb-safflower": {
  "t": {
   "name": "紅花茶",
-  "oneLine": "紅花花瓣沖出嚟，橙色嘅花茶。",
+  "oneLine": "紅花嘅花瓣，呢種花長久用嚟做紅色染料同藥材，曬乾沖泡——湯色由黃轉橙，花香淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -2299,7 +2299,7 @@ window.TEAFaiDataYue = (function () {
  "herb-plum": {
  "t": {
   "name": "李子茶",
-  "oneLine": "李子青沖水，酸酸甜甜嘅夏日果茶。",
+  "oneLine": "夏天嘅李子當造嗰陣用糖保存，全年享用——湯色偏紅，李子香清新酸甜。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配青2匙",
   "rounds": "1次",
@@ -2321,7 +2321,7 @@ window.TEAFaiDataYue = (function () {
  "herb-grapefruit": {
  "t": {
   "name": "葡萄柚茶",
-  "oneLine": "葡萄柚青沖水，清爽帶少少苦嘅果茶。",
+  "oneLine": "韓國咖啡店將柚子青做法用喺西柚度——湯色淡粉紅，酸味明亮，尾段分明咁苦。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配青2匙",
   "rounds": "1次",
@@ -2343,7 +2343,7 @@ window.TEAFaiDataYue = (function () {
  "herb-purple-corn": {
  "t": {
   "name": "紫玉米茶",
-  "oneLine": "紫粟米煲成深紫色，嚟自安第斯嘅茶。",
+  "oneLine": "秘魯安第斯嘅紫粟米曬乾煲煮——湯色深紫，甜味淡淡，有莓果味同炒穀香。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "2泡",
@@ -2365,7 +2365,7 @@ window.TEAFaiDataYue = (function () {
  "herb-purple-perilla": {
  "t": {
   "name": "紫蘇茶",
-  "oneLine": "紫蘇葉沖出嚟嘅茶，香氣獨特又帶紫色。",
+  "oneLine": "紫蘇係韓國紫蘇嘅薄荷科親戚，葉背紫色，曬乾沖泡——湯色帶紫，香氣獨特，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2387,7 +2387,7 @@ window.TEAFaiDataYue = (function () {
  "herb-swordbean": {
  "t": {
   "name": "刀豆茶",
-  "oneLine": "炒刀豆煲成嘅茶，清亮又帶豆香。",
+  "oneLine": "刀豆嚟自刀咁長嘅豆莢，切片炒過沖泡——湯色清澈，豆香濃，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2409,7 +2409,7 @@ window.TEAFaiDataYue = (function () {
  "herb-peony": {
  "t": {
   "name": "芍藥茶",
-  "oneLine": "芍藥花瓣沖出嚟，淡雅嘅花茶。",
+  "oneLine": "芍藥根係舊藥材，豐盈花朵又係花茶——花瓣喺清澈湯入面開，花香溫柔，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -2431,7 +2431,7 @@ window.TEAFaiDataYue = (function () {
  "herb-adenophora": {
  "t": {
   "name": "沙參茶",
-  "oneLine": "沙參根煲出嚟，好似桔梗咁醇甜。",
+  "oneLine": "沙參根叫做「沙人參」，同桔梗係親戚，煎煮嚟飲——湯色淡褐，炒香甜味同土香並存。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2煎",
@@ -2453,7 +2453,7 @@ window.TEAFaiDataYue = (function () {
  "herb-bamboo-shoot": {
  "t": {
   "name": "竹筍茶",
-  "oneLine": "乾竹筍炒過嚟沖嘅茶，清淡又焦香。",
+  "oneLine": "潭陽春天嘅竹筍切片曬乾炒好——湯色清澈，青草香樸素，炒香沉穩。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2475,7 +2475,7 @@ window.TEAFaiDataYue = (function () {
  "herb-rehmannia": {
  "t": {
   "name": "地黃茶",
-  "oneLine": "地黃煲出嚟，熟地黃甜味濃厚嘅藥材茶。",
+  "oneLine": "地黃煎煮——熟地黃蒸曬九次到變黑之後，甜味係深厚又有份量；生地黃就苦而清涼。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2煎",
@@ -2497,7 +2497,7 @@ window.TEAFaiDataYue = (function () {
  "herb-peach": {
  "t": {
   "name": "桃子茶",
-  "oneLine": "乾桃片沖出嚟嘅清甜果香茶。",
+  "oneLine": "將夏天桃曬乾，全年都飲得——香氣比鮮果柔和，甜味同淡淡酸邊留喺淡金色湯入面。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2519,7 +2519,7 @@ window.TEAFaiDataYue = (function () {
  "herb-beet": {
  "t": {
   "name": "甜菜根茶",
-  "oneLine": "乾甜菜根泡出嚟帶泥土香嘅甜茶。",
+  "oneLine": "紅色蔬菜茶，紅菜頭喺韓國廣泛種植之後喺屋企流傳——切薄曬乾，甜味帶土香，湯色紅寶石色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2541,7 +2541,7 @@ window.TEAFaiDataYue = (function () {
  "herb-loquat": {
  "t": {
   "name": "枇杷葉茶",
-  "oneLine": "枇杷葉曬乾泡出嚟嘅柔和清茶。",
+  "oneLine": "南海岸葉茶，關鍵一步係除走葉背嘅絨毛——厚身乾枇杷葉有寧靜草藥味，甜味淡淡，湯色清澈。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2563,7 +2563,7 @@ window.TEAFaiDataYue = (function () {
  "herb-apple": {
  "t": {
   "name": "蘋果茶",
-  "oneLine": "乾蘋果片泡出嚟嘅酸甜果香茶。",
+  "oneLine": "將秋天嘅蘋果曬乾留到冬天飲——連皮切薄，酸甜果味同柔和香氣，湯色淡金色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2585,7 +2585,7 @@ window.TEAFaiDataYue = (function () {
  "herb-yam": {
  "t": {
   "name": "山藥茶",
-  "oneLine": "山藥乾片煲出嚟嘅清淡柔和茶。",
+  "oneLine": "山藥長久以嚟既係食物又係藥材，仲要講明唔係抹茶——切片曬乾煎煮，根香寧靜，澱粉甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2607,7 +2607,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mulberry-twig": {
  "t": {
   "name": "桑枝茶",
-  "oneLine": "桑樹嫩枝煲出嚟嘅清淡木香茶。",
+  "oneLine": "桑樹每個部位都有自己嘅名同用途，嫩枝桑枝就係其中之一——同葉唔同部位，切碎曬乾煎煮，木香溫和，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2629,7 +2629,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cuscuta": {
  "t": {
   "name": "菟絲子茶",
-  "oneLine": "菟絲子煲出嚟嘅香口清淡茶。",
+  "oneLine": "菟絲嘅籽，呢種藤會纏住其他植物，自古叫做菟絲子——籽細又硬，啱煎煮，種子香濃，味道溫和樸素。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2651,7 +2651,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pomegranate": {
  "t": {
   "name": "石榴茶",
-  "oneLine": "乾石榴泡出嚟嘅酸甜果茶，湯色紅艷。",
+  "oneLine": "石榴係南方庭院熟悉嘅樹，果實同果皮曬乾做茶——沖泡之後酸甜味變成紅寶石色湯。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2673,7 +2673,7 @@ window.TEAFaiDataYue = (function () {
  "herb-seolcha": {
  "t": {
   "name": "雪茶",
-  "oneLine": "高山地衣曬乾泡出嚟嘅清淡雪茶。",
+  "oneLine": "雪茶因為生長雪白得名，只喺空氣乾淨嘅地方少量採到——高山松蘿曬乾，草藥味好淡，湯色近乎透明。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -2695,7 +2695,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sotae": {
  "t": {
   "name": "蘇苔茶",
-  "oneLine": "苦到出名嘅民間茶，韓語有「苦過蘇苔」嘅講法。",
+  "oneLine": "就係「苦過蘇苔」嗰句說話背後嘅民間茶——乾果同葉苦味強，尾段有淡淡甜味，湯色深褐。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2717,7 +2717,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sokdan": {
  "t": {
   "name": "續斷茶",
-  "oneLine": "續斷根煲出嚟嘅土香微甜茶。",
+  "oneLine": "民間煎茶，用本草書記載咗好耐嘅續斷根——切片曬乾煲煮，根香帶土味，甜味淡淡，尾段少少苦。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2739,7 +2739,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pineneedle": {
  "t": {
   "name": "松針茶",
-  "oneLine": "松針泡出嚟嘅清爽松香茶。",
+  "oneLine": "松針茶，抽走松脂做得好唔好決定味道——嫩松針處理曬乾，松香清新，味道乾淨，湯色淡金色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2761,7 +2761,7 @@ window.TEAFaiDataYue = (function () {
  "herb-pinepollen": {
  "t": {
   "name": "松花茶",
-  "oneLine": "松花粉調入暖水嘅柔和金黃茶。",
+  "oneLine": "松花粉只喺春天採，以前甜品同蜜水都用——唔係沖泡而係溝入水，松香溫柔，甜味柔和，湯色黃色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "1泡",
@@ -2783,7 +2783,7 @@ window.TEAFaiDataYue = (function () {
  "herb-watermelon": {
  "t": {
   "name": "西瓜皮茶",
-  "oneLine": "西瓜皮白瓤曬乾泡出嚟嘅清爽夏茶。",
+  "oneLine": "夏天嘅茶，源自成個西瓜都用盡，多數凍飲——白色瓜皮曬乾，甜味乾淨好淡，湯色近乎透明。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2805,7 +2805,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sorghum": {
  "t": {
   "name": "高粱茶",
-  "oneLine": "炒高粱粒泡出嚟，好似大麥茶咁焦香。",
+  "oneLine": "高粱以前飯、糕點同飲品都用，炒過嚟沖——穀粒有大麥茶般嘅炒香同淡淡甜味，湯色紅褐色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2827,7 +2827,7 @@ window.TEAFaiDataYue = (function () {
  "herb-bupleurum": {
  "t": {
   "name": "柴胡茶",
-  "oneLine": "柴胡根煲出嚟嘅土香苦茶。",
+  "oneLine": "民間煎茶，用本草書記載咗好耐嘅柴胡根——切片曬乾煲煮，根香帶土味，苦味分明。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2849,7 +2849,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mallow": {
  "t": {
   "name": "冬葵茶",
-  "oneLine": "冬葵葉曬乾泡出嚟嘅柔滑溫和茶。",
+  "oneLine": "冬葵係熟悉嘅煲湯菜，都可以變成茶——每家菜園都有嘅嫩葉曬乾沖泡，草藥味柔和，甜味淡淡，質地少少滑。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2871,7 +2871,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cherry": {
  "t": {
   "name": "毛櫻桃茶",
-  "oneLine": "乾毛櫻桃泡出嚟嘅酸甜果茶，湯色淡紅。",
+  "oneLine": "毛櫻桃果茶，以前庭院成日見嗰種樹，曬乾嚟飲——沖泡之後酸甜，湯色係淡紅色。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2893,7 +2893,7 @@ window.TEAFaiDataYue = (function () {
  "herb-onion": {
  "t": {
   "name": "洋蔥皮茶",
-  "oneLine": "洋蔥皮曬乾泡出嚟嘅淡淡蔥香茶。",
+  "oneLine": "慳家嘅屋企茶，只用曬乾洋蔥皮，唔用肉——湯色琥珀色，洋蔥香柔和，甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2915,7 +2915,7 @@ window.TEAFaiDataYue = (function () {
  "herb-bittermelon": {
  "t": {
   "name": "苦瓜茶",
-  "oneLine": "乾苦瓜泡出嚟嘅分明苦味茶。",
+  "oneLine": "南部同濟州嘅夏天苦瓜，切薄曬乾——苦味分明，尾段有炒香，炒過之後會柔和啲。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -2937,7 +2937,7 @@ window.TEAFaiDataYue = (function () {
  "herb-lotusroot": {
  "t": {
   "name": "蓮藕茶",
-  "oneLine": "蓮藕乾片炒後煲出嚟嘅焦香茶。",
+  "oneLine": "唔係葉而係根——蓮藕切片曬乾炒過再煎煮，炒香醇厚，澱粉甜味淡淡。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -2959,7 +2959,7 @@ window.TEAFaiDataYue = (function () {
  "herb-peachblossom": {
  "t": {
   "name": "桃花茶",
-  "oneLine": "乾桃花沖出嚟淡粉色，係春天嘅花茶。",
+  "oneLine": "將春天嘅桃花曬乾，全年都飲得——陰乾花朵散發柔和花香，甜味淡淡，湯色淡粉紅。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -2981,7 +2981,7 @@ window.TEAFaiDataYue = (function () {
  "herb-camellia": {
  "t": {
   "name": "冬柏茶",
-  "oneLine": "冬天嘅山茶花曬乾嚟沖，係清香嘅花茶。",
+  "oneLine": "濟州同南海岸嘅冬天山茶花曬乾做茶——陰乾花朵有柔和花香，甜味淡淡，湯色淡黃。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -3003,7 +3003,7 @@ window.TEAFaiDataYue = (function () {
  "herb-waxgourd": {
  "t": {
   "name": "冬瓜茶",
-  "oneLine": "冬瓜用蜜糖醃過再煲，係甜味濃厚嘅傳統茶。",
+  "oneLine": "傳統夏天茶，將冬瓜用蜜糖或者糖醃過再煲——甜味深厚，冬瓜嘅香氣柔和，湯色淺褐色。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配20克",
   "rounds": "1泡",
@@ -3025,7 +3025,7 @@ window.TEAFaiDataYue = (function () {
  "herb-jerusalemartichoke": {
  "t": {
   "name": "菊芋茶",
-  "oneLine": "菊芋炒過嚟沖，焦香入面帶啲淡淡甜味。",
+  "oneLine": "秋天嘅塊根茶，炒得越深越香濃，好易當水飲——切片曬乾炒好，炒香醇厚，甜味淡淡，收尾乾淨。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3047,7 +3047,7 @@ window.TEAFaiDataYue = (function () {
  "herb-eucommia": {
  "t": {
   "name": "杜仲茶",
-  "oneLine": "杜仲樹皮煲出嚟，係厚重微苦嘅藥茶。",
+  "oneLine": "杜仲樹嘅茶，剝出嚟嘅樹皮會拉出橡膠般嘅絲——切碎煲煮，味道帶苦邊又有份量，木香淡淡。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3069,7 +3069,7 @@ window.TEAFaiDataYue = (function () {
  "herb-duhyang": {
  "t": {
   "name": "杜香茶",
-  "oneLine": "香氣好濃嘅杜香葉曬乾嚟沖，係一款草藥茶。",
+  "oneLine": "山地草藥茶，香到少少已經夠——陰乾嘅杜香葉散發濃郁青草香，尾段帶苦邊。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3091,7 +3091,7 @@ window.TEAFaiDataYue = (function () {
  "herb-perilla": {
  "t": {
   "name": "紫蘇茶",
-  "oneLine": "紫蘇籽炒過磨碎嚟煲，係香味好濃嘅茶。",
+  "oneLine": "秋天紫蘇籽炒過磨碎再煲——炒籽浸出深厚嘅果仁香，好似芝麻咁，入口柔和豐厚。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "1泡",
@@ -3113,7 +3113,7 @@ window.TEAFaiDataYue = (function () {
  "herb-strawberry": {
  "t": {
   "name": "草莓茶",
-  "oneLine": "乾士多啤梨沖出嚟酸酸甜甜，係受歡迎嘅果茶。",
+  "oneLine": "將當造嘅士多啤梨曬乾，全年都享受到——切薄曬乾之後，酸甜香氣散開，湯色淡粉紅。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3135,7 +3135,7 @@ window.TEAFaiDataYue = (function () {
  "herb-peanut": {
  "t": {
   "name": "花生茶",
-  "oneLine": "花生炒過嚟煲，係香濃又頂飽嘅茶。",
+  "oneLine": "香濃到可以代替早餐——秋天花生炒過磨碎再煲，成杯都係果仁香，柔和豐厚。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配10克",
   "rounds": "1泡",
@@ -3157,7 +3157,7 @@ window.TEAFaiDataYue = (function () {
  "herb-lemon": {
  "t": {
   "name": "檸檬茶",
-  "oneLine": "檸檬青溝入暖水，係清爽帶甜嘅茶。",
+  "oneLine": "屋企同咖啡店都常見，將檸檬青溝入水——檸檬用糖醃過，香氣明亮又甜，湯色係淡黃色。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配青20克",
   "rounds": "1泡",
@@ -3179,7 +3179,7 @@ window.TEAFaiDataYue = (function () {
  "herb-garlic": {
  "t": {
   "name": "大蒜茶",
-  "oneLine": "大蒜烤過嚟煲，係辣味變柔和嘅茶。",
+  "oneLine": "大蒜經過烤製之後變身，辣味淡咗甜味升起——烤過再煲，烤甜味行先，生蒜嘅 sharp 邊變柔和。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配10克",
   "rounds": "1泡",
@@ -3201,7 +3201,7 @@ window.TEAFaiDataYue = (function () {
  "herb-watercaltrop": {
  "t": {
   "name": "菱角茶",
-  "oneLine": "菱角曬乾嚟煲，係味道清淡嘅傳統茶。",
+  "oneLine": "傳統茶，池塘種嘅菱角秋天採收曬乾——煲煮之後，果實味道樸素微甜，尾段柔和。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3223,7 +3223,7 @@ window.TEAFaiDataYue = (function () {
  "herb-maesil": {
  "t": {
   "name": "青梅茶",
-  "oneLine": "梅青溝水嚟飲，係酸酸甜甜嘅韓國茶。",
+  "oneLine": "韓國經典，將初夏青梅青溝入水——酸味行先，跟住甜味收尾，湯色係淡金色。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配青20克",
   "rounds": "1泡",
@@ -3245,7 +3245,7 @@ window.TEAFaiDataYue = (function () {
  "herb-plumblossom": {
  "t": {
   "name": "梅花茶",
-  "oneLine": "早春梅花曬乾嚟沖，係清香嘅花茶。",
+  "oneLine": "梅花喺早春開得短暫，因為清澈香氣而珍貴——陰乾花苞散發寧靜花香，甜味淡淡。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -3267,7 +3267,7 @@ window.TEAFaiDataYue = (function () {
  "herb-butterbur": {
  "t": {
   "name": "款冬茶",
-  "oneLine": "款冬葉曬乾炒過，係微苦帶焦香嘅茶。",
+  "oneLine": "將春天款冬曬乾，全年都飲得——葉曬乾鑊炒之後，有帶苦嘅青草香同炒香尾韻。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3289,7 +3289,7 @@ window.TEAFaiDataYue = (function () {
  "herb-magnolia": {
  "t": {
   "name": "木蘭茶",
-  "oneLine": "木蘭花苞曬乾嚟沖，係清涼香氣嘅花茶。",
+  "oneLine": "木蘭花苞叫做辛夷，用咗幾個世紀——未開之前採摘陰乾嘅花苞，散發清澈清涼嘅花香，甜味淡淡。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -3311,7 +3311,7 @@ window.TEAFaiDataYue = (function () {
  "herb-costus": {
  "t": {
   "name": "木香茶",
-  "oneLine": "木香根煲出嚟，係香深微苦嘅藥茶。",
+  "oneLine": "木香係香氣強勁嘅草藥，少少香氣已經好深——根切細煲煮，木香深沉，帶苦邊。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3333,7 +3333,7 @@ window.TEAFaiDataYue = (function () {
  "herb-radishleaf": {
  "t": {
   "name": "蘿蔔葉茶",
-  "oneLine": "蘿蔔葉曬乾嚟沖，係焦香清淡嘅茶。",
+  "oneLine": "做乾菜嗰種蘿蔔葉，曬乾除咗煲餸仲可以做茶——乾葉浸出炒香嘅青草味，味道樸素溫和。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3355,7 +3355,7 @@ window.TEAFaiDataYue = (function () {
  "herb-bangpung": {
  "t": {
   "name": "防風茶",
-  "oneLine": "防風根煲出嚟，係淡淡土香嘅藥茶。",
+  "oneLine": "防風根做嘅茶，呢種植物嘅葉會當菜食——切碎煲煮，土香寧靜，甜味淡淡，尾段柔和。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3377,7 +3377,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mushroom": {
  "t": {
   "name": "蘑菇茶",
-  "oneLine": "乾蘑菇煲出嚟，係帶鮮味嘅茶。",
+  "oneLine": "乾蘑菇鮮味加深，飲落差唔多好似清湯——冬菇等菇類煲煮，鮮味深厚，菌香淡淡。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3399,7 +3399,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cherryblossom": {
  "t": {
   "name": "櫻花茶",
-  "oneLine": "櫻花曬乾或者醃過嚟沖，係滿滿春意嘅花茶。",
+  "oneLine": "春天花茶，花喺水面開嗰下已經係一半樂趣——曬乾或者鹽醃，花香柔和，甜味淡淡。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -3421,7 +3421,7 @@ window.TEAFaiDataYue = (function () {
  "herb-poria": {
  "t": {
   "name": "茯苓茶",
-  "oneLine": "茯苓煲出嚟，係味道清淡柔和嘅藥茶。",
+  "oneLine": "茯苓生喺松樹根旁邊，味道樸素到好易同其他草藥搭配——切碎煲煮，味道溫和柔軟，幾乎冇自己嘅香氣。",
   "oxidation": "無發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3443,7 +3443,7 @@ window.TEAFaiDataYue = (function () {
  "herb-eggplant": {
  "t": {
   "name": "茄子茶",
-  "oneLine": "茄子曬乾炒過之後沖泡，焦香清淡嘅蔬菜茶。",
+  "oneLine": "民間嘅蔬菜茶，將夏天茄子切薄曬乾炒好嚟保存——炒香醇厚，味道溫和，收尾乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3465,7 +3465,7 @@ window.TEAFaiDataYue = (function () {
  "herb-licorice": {
  "t": {
   "name": "甘草茶",
-  "oneLine": "甘草根煎煮嘅茶，唔加糖都甜。",
+  "oneLine": "中藥處方常用嘅甘草根，喺屋企煎煮——唔加糖都分明咁甜，天然甜味同淡淡土香，尾段柔和。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1煎",
@@ -3487,7 +3487,7 @@ window.TEAFaiDataYue = (function () {
  "herb-hazel": {
  "t": {
   "name": "榛子茶",
-  "oneLine": "榛子炒過之後沖泡，有堅果香氣嘅茶。",
+  "oneLine": "民間茶，將山入面採嚟嘅韓國榛子保存再炒嚟沖——果仁炒香醇厚，甜味溫柔，湯體柔和。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3509,7 +3509,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cinnamon-twig": {
  "t": {
   "name": "桂枝茶",
-  "oneLine": "桂枝煎煮嘅茶，香氣比桂皮輕柔。",
+  "oneLine": "煎煮年輕嘅肉桂枝條——比樹皮嗰杯輕啲，肉桂香柔和，甜味淡淡，有暖笠笠嘅感覺。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1煎",
@@ -3531,7 +3531,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cinnamon": {
  "t": {
   "name": "桂皮茶",
-  "oneLine": "桂皮沖泡嘅茶，辛甜溫暖嘅香氣。",
+  "oneLine": "就係水正果入面熟悉嘅桂皮，單獨煎煮——辛甜香氣，湯體溫暖又幾厚實。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3553,7 +3553,7 @@ window.TEAFaiDataYue = (function () {
  "herb-sophora": {
  "t": {
   "name": "苦參茶",
-  "oneLine": "苦參根煎煮嘅茶，苦味好重。",
+  "oneLine": "長久用喺中藥入面嘅苦參根，少量煎煮——嗰杯苦得嚟唔掩飾，有土香，收尾乾爽。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配3克",
   "rounds": "1煎",
@@ -3575,7 +3575,7 @@ window.TEAFaiDataYue = (function () {
  "herb-agastache": {
  "t": {
   "name": "藿香茶",
-  "oneLine": "排草香葉曬乾沖泡，香氣鮮明嘅草本茶。",
+  "oneLine": "韓國原生草本，葉嘅香氣介乎紫蘇同薄荷之間，曬乾嚟沖——香氣鮮明，甜味淡淡，尾段清涼。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3597,7 +3597,7 @@ window.TEAFaiDataYue = (function () {
  "herb-tangerine-peel": {
  "t": {
   "name": "橘皮茶",
-  "oneLine": "橘皮曬乾炒過之後沖泡，清新柑橘香嘅茶。",
+  "oneLine": "民間茶，將冬天嘅橘皮留起曬乾炒好——柑橘香明亮，甜味輕盈，收尾乾淨輕巧。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3619,7 +3619,7 @@ window.TEAFaiDataYue = (function () {
  "herb-tangerine-blossom": {
  "t": {
   "name": "橘花茶",
-  "oneLine": "橘花曬乾沖泡，明亮花香嘅花茶。",
+  "oneLine": "春天嘅橘花數量少到只可以細批曬乾——花香明亮，呼應住果味，甜味淡淡，湯色清澈。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配2克",
   "rounds": "2泡",
@@ -3641,7 +3641,7 @@ window.TEAFaiDataYue = (function () {
  "herb-platycodon": {
  "t": {
   "name": "桔梗茶",
-  "oneLine": "桔梗根煎煮嘅茶，微苦嘅根茶。",
+  "oneLine": "用藥名叫桔梗嘅桔梗根煎煮——同桔梗茶係同一種根，根香苦甜，收尾乾爽。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1煎",
@@ -3663,7 +3663,7 @@ window.TEAFaiDataYue = (function () {
  "herb-selfheal": {
  "t": {
   "name": "夏枯草茶",
-  "oneLine": "夏枯草花穗曬乾沖泡，清淡嘅野花茶。",
+  "oneLine": "民間草地茶，將夏天田野常見嘅夏枯草花穗曬乾保存——草花香樸素，甜味淡淡，收尾乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3685,7 +3685,7 @@ window.TEAFaiDataYue = (function () {
  "herb-shepherdspurse": {
  "t": {
   "name": "薺菜茶",
-  "oneLine": "薺菜曬乾沖泡，帶泥土氣嘅野菜茶。",
+  "oneLine": "民間春茶，將煮餸剩低嘅薺菜曬乾留起——葉同根帶嚟青草香，甜味淡淡，味道樸素。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3707,7 +3707,7 @@ window.TEAFaiDataYue = (function () {
  "herb-naengcha": {
  "t": {
   "name": "冷茶",
-  "oneLine": "代用茶煲好攤涼之後冷飲，夏天嘅方式。",
+  "oneLine": "韓國夏天嘅飲法，將穀物同草本茶煲好攤涼雪凍當水飲——本身嘅炒香凍飲嗰陣更加乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "500毫升配10克",
   "rounds": "1次（攤涼飲）",
@@ -3729,7 +3729,7 @@ window.TEAFaiDataYue = (function () {
  "herb-aged-cucumber": {
  "t": {
   "name": "老瓜茶",
-  "oneLine": "老黃瓜曬乾炒過之後沖泡，清淡嘅夏季茶。",
+  "oneLine": "民間茶，留起夏天最後黃熟嘅青瓜——老瓜切片曬乾炒好，炒香樸素，甜味輕盈清澈。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3751,7 +3751,7 @@ window.TEAFaiDataYue = (function () {
  "herb-mungbean": {
  "t": {
   "name": "綠豆茶",
-  "oneLine": "綠豆炒過之後煲成，樸素嘅穀物茶。",
+  "oneLine": "源自飲煮綠豆嗰煲水嘅習慣——綠豆炒過再煲，炒香醇厚，甜味淡淡，味道樸素。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "500毫升配10克",
   "rounds": "1煲",
@@ -3774,7 +3774,7 @@ window.TEAFaiDataYue = (function () {
  "herb-kelp": {
  "t": {
   "name": "昆布茶",
-  "oneLine": "昆布沖泡嘅茶，帶淡淡海味鮮香。",
+  "oneLine": "就係煲湯嗰塊昆布，簡單沖嚟飲——乾昆布散發柔和鮮味、海風香同少少鹹味。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1泡",
@@ -3796,7 +3796,7 @@ window.TEAFaiDataYue = (function () {
  "herb-angelica": {
  "t": {
   "name": "當歸茶",
-  "oneLine": "當歸根煎煮嘅茶，藥香濃郁。",
+  "oneLine": "中藥入面用咗好耐嘅當歸，喺屋企同紅棗一齊煎——乾根香氣深厚，甜味溫柔，口感溫暖。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1煎",
@@ -3818,7 +3818,7 @@ window.TEAFaiDataYue = (function () {
  "herb-carrot": {
  "t": {
   "name": "胡蘿蔔茶",
-  "oneLine": "胡蘿蔔曬乾炒過之後沖泡，淡淡甜味嘅蔬菜茶。",
+  "oneLine": "將乾菜變成茶嘅民間方法之一——胡蘿蔔切片曬乾炒好，甜味溫柔，淡淡土香，收尾乾淨。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配5克",
   "rounds": "2泡",
@@ -3840,7 +3840,7 @@ window.TEAFaiDataYue = (function () {
  "herb-bamboo": {
  "t": {
   "name": "竹葉茶",
-  "oneLine": "竹葉曬乾沖泡，清涼清淡嘅葉茶。",
+  "oneLine": "竹葉茶，喺潭陽等竹鄉將葉曬乾嚟飲——青草香樸素，甜味淡淡，尾段清涼。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "200毫升配3克",
   "rounds": "2泡",
@@ -3862,7 +3862,7 @@ window.TEAFaiDataYue = (function () {
  "herb-green-onion": {
  "t": {
   "name": "大蔥茶",
-  "oneLine": "大蔥白莖同根煎煮嘅民間暖茶。",
+  "oneLine": "著涼嗰陣屋企成日煎嚟飲嘅茶——大蔥白同根有溫柔蔥香，甜味淡淡，尾段溫暖。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配10克",
   "rounds": "1煎",
@@ -3884,7 +3884,7 @@ window.TEAFaiDataYue = (function () {
  "herb-deodeok": {
  "t": {
   "name": "沙參茶",
-  "oneLine": "沙參根煎煮嘅茶，微苦而香。",
+  "oneLine": "山入面嘅沙參根曬乾留起煎煮——根香苦甜，好似桔梗咁，疊住炒香甜味，口感溫暖。",
   "oxidation": "唔發酵 · 冇咖啡因",
   "ratioNote": "300毫升配5克",
   "rounds": "1煎",
@@ -3910,7 +3910,7 @@ window.TEAFaiDataYue = (function () {
   "keep": "花香易散，密封放陰涼處，開封後兩三個月內飲完。",
   "keywords": "茉莉龍珠 烏龍 台灣 窨花",
   "name": "茉莉龍珠烏龍",
-  "oneLine": "輕發酵嘅烏龍揉成一粒粒龍珠，再窨入茉莉花香。",
+  "oneLine": "茉莉龍珠通常係綠茶底，台灣呢款罕有咁用烏龍做底嚟揉——茉莉香清澈，甜味溫柔，湯色淡忌廉色。",
   "origin": "台灣出產，用輕發酵烏龍揉成一粒粒龍珠。",
   "oxidation": "約20%",
   "pairing": "同點心、輕盈甜品同新鮮水果都好夾。清澈茉莉花香同溫和甜味帶出點心嘅細膩，印象好似佢淡忌廉色茶湯一樣輕。香氣細膩，要避開重口味食物，會壓過佢。",
@@ -3928,7 +3928,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-assam": {
  "t": {
   "name": "阿薩姆烏龍",
-  "oneLine": "阿薩姆大葉種按烏龍工藝製作——麥芽香入面帶烏龍嘅香氣。",
+  "oneLine": "阿薩姆布拉馬普特拉茶園嘅新派做法，將紅茶葉停喺半發酵——麥芽、蜜糖同炒穀物香，疊住烏龍花香。",
   "oxidation": "約40%",
   "ratioNote": "150毫升配5克",
   "rounds": "5泡",
@@ -3950,7 +3950,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-ceylon": {
  "t": {
   "name": "錫蘭烏龍",
-  "oneLine": "斯里蘭卡高山葉半發酵——錫蘭嘅清亮入面帶烏龍花香。",
+  "oneLine": "喺烏瓦等約1,200米茶園同紅茶一齊少量製作嘅烏龍——柑橘同花香清澈，淡淡蜜味，骨架明亮。",
   "oxidation": "約30%",
   "ratioNote": "150毫升配5克",
   "rounds": "5泡",
@@ -3972,7 +3972,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-ruby": {
  "t": {
   "name": "紅寶石烏龍",
-  "oneLine": "泰國高山重焙火嘅球形烏龍——紅寶石湯色同乾果甜。",
+  "oneLine": "喺湄沙龍一帶用台灣工藝做、因為紅色湯色得名嘅重焙球形烏龍——乾梅同提子乾嘅甜味，伴住烤果仁香。",
   "oxidation": "約50%",
   "ratioNote": "150毫升配6克",
   "rounds": "6泡",
@@ -3994,7 +3994,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-jeju": {
  "t": {
   "name": "濟州火山岩茶",
-  "oneLine": "濟州火山土茶園嘅韓國烏龍——帶礦物感嘅清爽滋味。",
+  "oneLine": "濟州葉喺玄武岩土、海風同大日夜溫差下長大嘅半發酵烏龍——花香同青草香乾淨，帶礦物邊同整齊甜味。",
   "oxidation": "約30%",
   "ratioNote": "150毫升配5克",
   "rounds": "5泡",
@@ -4016,7 +4016,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-cheong": {
  "t": {
   "name": "青烏龍",
-  "oneLine": "韓國產地按台灣方式輕發酵嘅烏龍——花香清亮嘅青茶。",
+  "oneLine": "用韓國葉喺濟州、寶城、河東以台灣輕發酵方式做嘅青茶——蘭花同草地花香清澈，新鮮咁企喺綠茶同烏龍之間。",
   "oxidation": "約20%",
   "ratioNote": "150毫升配6克",
   "rounds": "6泡",
@@ -4038,7 +4038,7 @@ window.TEAFaiDataYue = (function () {
  "black-chuanhong": {
  "t": {
   "name": "川紅",
-  "oneLine": "四川宜賓嘅工夫紅茶——玫瑰香、濃厚湯體同隨後嘅回甘。",
+  "oneLine": "嚟自宜賓、與祁門同滇紅並列嘅四川工夫紅茶，代表作係全芽金芽——玫瑰香同厚實湯體之後，甜味滾滾而嚟。",
   "oxidation": "90%",
   "ratioNote": "150毫升配3克",
   "rounds": "1~2泡",
@@ -4082,7 +4082,7 @@ window.TEAFaiDataYue = (function () {
  "black-jiuqu": {
  "t": {
   "name": "九曲紅梅",
-  "oneLine": "杭州嘅紅茶——同龍井同源嘅葉，帶可可般嘅甜。",
+  "oneLine": "杭州嘅另一面，用龍井家族嘅葉做成紅茶，因為紅梅形狀得名——可可韻味、乾果甜味同柔和花香。",
   "oxidation": "約85%",
   "ratioNote": "150毫升配3克",
   "rounds": "1~2泡",
@@ -4104,7 +4104,7 @@ window.TEAFaiDataYue = (function () {
  "black-mizhuan": {
  "t": {
   "name": "米磚茶",
-  "oneLine": "紅茶末壓成磚嘅湖北緊壓紅茶——可以久存嘅日常茶。",
+  "oneLine": "湖北紅茶末蒸過壓成磚、可以存好多年嘅茶——麥芽香濃，土香醇厚，加奶或者加鹽都啱。",
   "oxidation": "95%",
   "ratioNote": "300毫升配5克（由磚度掰落嚟）",
   "rounds": "1~2泡",
@@ -4126,7 +4126,7 @@ window.TEAFaiDataYue = (function () {
  "black-hongyun": {
  "t": {
   "name": "紅韻",
-  "oneLine": "日月潭嘅台茶21號——柚香同花香，酸甜嘅紅茶。",
+  "oneLine": "日月潭紅茶，用阿薩姆種同祁門種雜交嘅紅韻（台茶21號）做——柚香同花香，酸甜果味，同紅玉好唔同。",
   "oxidation": "95%",
   "ratioNote": "200毫升配5克",
   "rounds": "1~2泡",
@@ -4148,7 +4148,7 @@ window.TEAFaiDataYue = (function () {
  "black-ziya": {
  "t": {
   "name": "紫芽山茶",
-  "oneLine": "台灣原生山茶紫芽做嘅紅茶——日月潭產量稀少嘅另一面。",
+  "oneLine": "用台灣原生山茶紫芽做、產量少又珍貴嘅日月潭紅茶——野蜜糖、草本同乾果味，粗獷而悠長。",
   "oxidation": "約90%",
   "ratioNote": "200毫升配3克",
   "rounds": "3泡",
@@ -4170,7 +4170,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-huangzhi": {
  "t": {
   "name": "黃枝香單叢",
-  "oneLine": "香氣似梔子花、清甜分明嘅鳳凰單叢香型。",
+  "oneLine": "單株鳳凰單叢，梔子香係茶葉本身有嘅，唔係加花——梔子甜香同熟果味，收尾清澈。",
   "oxidation": "大約40%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "9泡左右",
@@ -4192,7 +4192,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-xingren": {
  "t": {
   "name": "杏仁香單叢",
-  "oneLine": "帶炒杏仁堅果香嘅鳳凰單叢香型。",
+  "oneLine": "以炒杏仁命名嘅單株鳳凰單叢——烘烤堅果香由短暫嘅苦邊轉成甜味，入口順滑。",
   "oxidation": "大約45%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "8泡左右",
@@ -4214,7 +4214,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-rougui": {
  "t": {
   "name": "肉桂香單叢",
-  "oneLine": "帶肉桂暖香嘅鳳凰單叢香型。",
+  "oneLine": "鳳凰單叢天然帶肉桂味，同武夷肉桂品種冇關——辛香溫暖，焙火香淡淡，湯體豐厚，餘韻悠長。",
   "oxidation": "大約50%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "9泡左右",
@@ -4236,7 +4236,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-guihua": {
  "t": {
   "name": "桂花香單叢",
-  "oneLine": "桂花香出自茶葉本身嘅鳳凰單叢香型。",
+  "oneLine": "天然香型，桂花香喺茶葉本身入面，唔同窨花烏龍——甜美花香疊住杏桃味，收尾清澈。",
   "oxidation": "大約35%",
   "ratioNote": "120毫升蓋碗配5克",
   "rounds": "8泡左右",
@@ -4258,7 +4258,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-zhilan": {
  "t": {
   "name": "芝蘭香單叢",
-  "oneLine": "香似芝蘭、清雅高潔嘅鳳凰單叢上品香型。",
+  "oneLine": "以芝蘭香喺單叢香型入面排得幾前嘅單株茶——蘭香高雅，甜味細膩，餘韻清澈悠長。",
   "oxidation": "大約40%",
   "ratioNote": "120毫升蓋碗配5克",
   "rounds": "10泡左右",
@@ -4280,7 +4280,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-yelai": {
  "t": {
   "name": "夜來香單叢",
-  "oneLine": "甜香濃郁好似夜來香嘅鳳凰單叢香型。",
+  "oneLine": "甜香濃到好似夜晚開花嘅夜來香咁嘅鳳凰單叢——夜花香同蜜般餘韻，尾韻依然清澈。",
   "oxidation": "大約40%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "9泡左右",
@@ -4302,7 +4302,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-tongtian": {
  "t": {
   "name": "通天香單叢",
-  "oneLine": "香氣高揚衝天嘅鳳凰單叢香型。",
+  "oneLine": "因為香氣高揚強勁、好似通天咁而得名嘅鳳凰單叢——第一泡花香就湧出嚟，明亮爽脆，收尾清澈。",
   "oxidation": "大約35%",
   "ratioNote": "120毫升蓋碗配5克",
   "rounds": "10泡左右",
@@ -4324,7 +4324,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-youhua": {
  "t": {
   "name": "柚花香單叢",
-  "oneLine": "香似柚花、清新爽朗嘅鳳凰單叢香型。",
+  "oneLine": "以春天柚花清新香氣命名嘅鳳凰單叢——柚花同柑橘花香，湯體輕盈，甜味分明又清澈。",
   "oxidation": "大約35%",
   "ratioNote": "120毫升蓋碗配5克",
   "rounds": "8泡左右",
@@ -4346,7 +4346,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-songzhong": {
  "t": {
   "name": "宋種單叢",
-  "oneLine": "相傳源自宋代嘅老叢系鳳凰單叢。",
+  "oneLine": "烏崬高地嘅老叢鳳凰單叢，相傳源自宋代種植——深沉花香之下係厚重甜味，餘韻悠長。",
   "oxidation": "大約45%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "10泡左右",
@@ -4368,7 +4368,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-baxian": {
  "t": {
   "name": "八仙單叢",
-  "oneLine": "葉片大而柔軟、名字源於八仙傳說嘅鳳凰單叢。",
+  "oneLine": "以八仙命名、葉大而柔軟嘅鳳凰單叢——花香柔和清澈，大葉帶嚟均勻慷慨嘅甜味。",
   "oxidation": "大約40%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "9泡左右",
@@ -4390,7 +4390,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-dawuye": {
  "t": {
   "name": "大烏葉單叢",
-  "oneLine": "葉片大而色深、香濃體強嘅鳳凰單叢品系。",
+  "oneLine": "葉大色深嘅單叢品系，濃泡再加冰都留得住香氣——花香濃烈，湯體厚重，苦後回甘強勁。",
   "oxidation": "大約50%",
   "ratioNote": "120毫升蓋碗配6克",
   "rounds": "10泡左右",
@@ -4412,7 +4412,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-qilai": {
  "t": {
   "name": "奇萊山高山烏龍",
-  "oneLine": "嚟自海拔1,400~2,000米奇萊山嘅台灣高山烏龍。",
+  "oneLine": "喺2,000米以上奇萊山雲霧入面、遲啲先畀人發現嘅台灣高山烏龍——花香清澈，口感creamy柔滑，甜味清涼。",
   "oxidation": "20%",
   "ratioNote": "150毫升配6克",
   "rounds": "6~7泡",
@@ -4434,7 +4434,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-honey": {
  "t": {
   "name": "蜜香烏龍",
-  "oneLine": "用畀小綠葉蟬咬過嘅葉揉成球形嘅台灣烏龍。",
+  "oneLine": "冇落農藥嘅茶園入面，畀小綠葉蟬咬過嘅葉揉成球形嘅台灣烏龍——蜜糖、熟桃同花香，甜味悠長。",
   "oxidation": "50%",
   "ratioNote": "150毫升配6克",
   "rounds": "5~6泡",
@@ -4456,7 +4456,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-red": {
  "t": {
   "name": "紅烏龍",
-  "oneLine": "發酵到接近紅茶、揉成球形嘅台東新派烏龍。",
+  "oneLine": "2000年代喺台東鹿野出世、發酵到接近紅茶再揉成球形嘅新派烏龍——熟果、蜜糖同炒穀物香，湯色紅琥珀色。",
   "oxidation": "約75%",
   "ratioNote": "150毫升配6克",
   "rounds": "6~7泡",
@@ -4478,7 +4478,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-qilan": {
  "t": {
   "name": "奇蘭",
-  "oneLine": "以蘭花香得名，武夷同閩南兩地都出產嘅品種烏龍。",
+  "oneLine": "以蘭花命名嘅品種，武夷同閩南兩種做法都有——清澈嘅蘭花同草本香，疊住輕焙火香同甜味。",
   "oxidation": "45%",
   "ratioNote": "110毫升配7克",
   "rounds": "7~8泡",
@@ -4500,7 +4500,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-meizhan": {
  "t": {
   "name": "梅占",
-  "oneLine": "相傳帶梅花香嘅福建老品種烏龍。",
+  "oneLine": "相傳有梅花香嘅福建經典品種，仲可以做紅茶同綠茶——梅花般嘅花香、輕盈果香同柔和甜味。",
   "oxidation": "40%",
   "ratioNote": "110毫升配7克",
   "rounds": "6~7泡",
@@ -4522,7 +4522,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-tieluohan": {
  "t": {
   "name": "鐵羅漢",
-  "oneLine": "武夷四大名欉之一，帶藥香、味道濃醇嘅岩茶。",
+  "oneLine": "武夷四大名欉入面歷史最悠久嘅品種之一——藥材、礦物同炒穀物香，甜味厚重又有份量。",
   "oxidation": "55%",
   "ratioNote": "110毫升配7克",
   "rounds": "7~8泡",
@@ -4544,7 +4544,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-baijiguan": {
  "t": {
   "name": "白雞冠",
-  "oneLine": "芽葉呈淡黃白色、味道清淡嘅武夷名欉。",
+  "oneLine": "芽葉淡黃白色、一眼就認得出嘅武夷名欉，為咗留住嫩色而輕焙——花香清澈，淡淡藥香，甜味清涼。",
   "oxidation": "40%",
   "ratioNote": "110毫升配7克",
   "rounds": "6~7泡",
@@ -4566,7 +4566,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-shuijingui": {
  "t": {
   "name": "水金龜",
-  "oneLine": "源於龜殼傳說嘅武夷名欉，味道柔和甘甜。",
+  "oneLine": "因為洪水沖嚟、葉紋好似龜殼而得名嘅武夷名欉——花香同焙火香柔和，甜味圓潤溫柔。",
   "oxidation": "50%",
   "ratioNote": "110毫升配7克",
   "rounds": "7~8泡",
@@ -4588,7 +4588,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-bantianyao": {
  "t": {
   "name": "半天腰",
-  "oneLine": "有懸崖鷂子傳說嘅武夷名欉，岩韻分明。",
+  "oneLine": "喺懸崖半腰、天地之間生長嘅武夷名欉——岩韻分明，有焙火香同深厚甜味，餘韻悠長。",
   "oxidation": "50%",
   "ratioNote": "110毫升配7克",
   "rounds": "7~8泡",
@@ -4610,7 +4610,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-zhangping": {
  "t": {
   "name": "漳平水仙",
-  "oneLine": "壓成方形茶餅、包上紙嘅罕見壓製烏龍。",
+  "oneLine": "好罕見嘅壓製烏龍，將水仙葉放入方形模具壓好再包紙——蘭香同清涼青草香，甜味清澈，湯色明亮金黃。",
   "oxidation": "30%",
   "ratioNote": "150毫升配6克",
   "rounds": "6~7泡",
@@ -4632,7 +4632,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-yunnan": {
  "t": {
   "name": "雲南烏龍",
-  "oneLine": "用雲南大葉種配台灣球形工藝做嘅烏龍。",
+  "oneLine": "普洱故鄉嘅雲南大葉茶，用台灣方法布揉成球形——花香之下有深厚嘅麥芽同蜜糖甜味，湯體厚實。",
   "oxidation": "30%",
   "ratioNote": "150毫升配6克",
   "rounds": "5~6泡",
@@ -4654,7 +4654,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-darjeeling": {
  "t": {
   "name": "大吉嶺烏龍",
-  "oneLine": "大吉嶺茶園以半發酵方式做嘅烏龍風格茶。",
+  "oneLine": "大吉嶺少量製作嘅風格，將紅茶葉停喺半發酵——麝香葡萄、杏桃同花香，輕盈清澈，湯色明亮黃銅色。",
   "oxidation": "40%",
   "ratioNote": "150毫升配5克",
   "rounds": "4~5泡",
@@ -4676,7 +4676,7 @@ window.TEAFaiDataYue = (function () {
  "green-chunseol": {
  "t": {
   "name": "春雪",
-  "oneLine": "無等山證心寺溪谷野生茶園嘅早春炒青綠茶。",
+  "oneLine": "畫家許百煉喺無等山野生茶園命名嘅鑊炒茶——早春嫩葉散發清新嘅青香同溫柔嘅甜味，好似春雪咁綻開。",
   "oxidation": "0%",
   "ratioNote": "150毫升配3克",
   "rounds": "3泡",
@@ -4698,7 +4698,7 @@ window.TEAFaiDataYue = (function () {
   "green-tencha": {
  "t": {
   "name": "碾茶",
-  "oneLine": "遮光栽培後蒸青乾燥、磨成抹茶之前嘅原料茶。",
+  "oneLine": "遮光又蒸青、未石磨成抹茶之前嘅葉——深厚嘅鮮味凝聚喺鮮綠色嘅葉入面，仲帶住一陣海藻香。",
   "oxidation": "0%",
   "ratioNote": "100毫升配3克",
   "rounds": "3泡",
@@ -4720,7 +4720,7 @@ window.TEAFaiDataYue = (function () {
  "green-funmatsu": {
  "t": {
   "name": "粉末茶",
-  "oneLine": "將煎茶磨成粉、沖水即飲嘅粉末綠茶。",
+  "oneLine": "冇遮光嘅煎茶磨到好幼，連葉成粉咁沖水飲——煎茶嘅青香同溫柔嘅苦味，一啖過完整送到。",
   "oxidation": "0%",
   "ratioNote": "150毫升配1.5克",
   "rounds": "1次",
@@ -4742,7 +4742,7 @@ window.TEAFaiDataYue = (function () {
  "green-konacha": {
  "t": {
   "name": "粉茶",
-  "oneLine": "用製作玉露、煎茶嗰陣篩出嘅碎葉製成嘅茶。",
+  "oneLine": "做玉露同煎茶嗰陣篩出嚟嘅芽同碎葉——沖得快又夠濃，湯色深，尾段帶住苦澀。",
   "oxidation": "0%",
   "ratioNote": "150毫升配3克",
   "rounds": "3泡",
@@ -4786,7 +4786,7 @@ window.TEAFaiDataYue = (function () {
  "white-darjeeling": {
  "t": {
   "name": "大吉嶺白茶",
-  "oneLine": "用大吉嶺高山茶園嘅嫩芽製成、帶麝香葡萄氣息嘅白茶。",
+  "oneLine": "海拔1,000至2,000米大吉嶺茶園嘅嫩芽，唔揉捻就咁曬乾——柔和花香、淡淡麝香葡萄同清澈嘅甜味。",
   "oxidation": "約8%",
   "ratioNote": "200毫升配2.5克",
   "rounds": "2泡",
@@ -4808,7 +4808,7 @@ window.TEAFaiDataYue = (function () {
  "green-anji-baipian": {
   "t": {
    "name": "安吉白茶",
-   "oneLine": "用春天葉色發白嘅品種做，名叫白茶，其實係綠茶。",
+   "oneLine": "個名叫白茶、其實係綠茶嘅安吉白茶——用春天發白嘅白葉一號做成，鮮味突出，幾乎冇澀。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4830,7 +4830,7 @@ window.TEAFaiDataYue = (function () {
  "green-gougunao": {
   "t": {
    "name": "狗牯腦",
-   "oneLine": "江西深谷霧山裏面嘅細條形蘭花香綠茶。",
+   "oneLine": "相傳1915年巴拿馬博覽會攞金獎嘅狗牯腦——江西霧谷細葉，蘭花香同柔和甜味。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4852,7 +4852,7 @@ window.TEAFaiDataYue = (function () {
  "green-wuyuan-mingmei": {
   "t": {
    "name": "婺源茗眉",
-   "oneLine": "眉形彎曲嘅葉，江西婺源嘅柔和綠茶。",
+   "oneLine": "1958年創製、入選全國名茶嘅婺源茗眉——眉形捲葉，柔和草香同栗子甜味。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4874,7 +4874,7 @@ window.TEAFaiDataYue = (function () {
  "green-mengding-ganlu": {
   "t": {
    "name": "蒙頂甘露",
-   "oneLine": "四川蒙頂嘅細卷名茶。",
+   "oneLine": "唐代已經係貢茶嘅蒙頂甘露——三炒三揉捲成細條，栗子同豆香嘅焙香甜潤。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4896,7 +4896,7 @@ window.TEAFaiDataYue = (function () {
  "green-hanzhong-xianhao": {
   "t": {
    "name": "漢中仙毫",
-   "oneLine": "中國茶區北緣，捱過漫長冬天嘅厚實春葉。",
+   "oneLine": "中國茶區北緣嘅漢中仙毫——捱過長冬嘅厚實春葉，草香、花香同留得耐嘅甜味。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4918,7 +4918,7 @@ window.TEAFaiDataYue = (function () {
  "green-huiming": {
   "t": {
    "name": "惠明茶",
-   "oneLine": "以寺為名，浙江山寺旁邊嘅春芽。",
+   "oneLine": "以浙江山寺惠明寺命名嘅惠明茶——嫩芽低溫炒製，淡淡花草香同乾淨甜味。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4940,7 +4940,7 @@ window.TEAFaiDataYue = (function () {
  "green-boseong": {
   "t": {
    "name": "寶城綠茶",
-   "oneLine": "韓國茶田最連片嘅地方，寶城嘅春葉。",
+   "oneLine": "韓國茶田最連成一片嘅寶城綠茶——由春採到大作，焙香同草香交疊，甜味跟住嚟。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3~4泡",
@@ -4962,7 +4962,7 @@ window.TEAFaiDataYue = (function () {
  "green-sanxia-biluochun": {
   "t": {
    "name": "三峽碧螺春",
-   "oneLine": "臺灣延續落嚟嘅中國式綠茶，甜潤嘅螺旋形葉。",
+   "oneLine": "承繼江蘇洞庭碧螺春個名、台灣三峽由1940年代延續落嚟嘅綠茶——螺旋葉帶青草香同淡淡果甜。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -4984,7 +4984,7 @@ window.TEAFaiDataYue = (function () {
  "green-kabusecha": {
   "t": {
    "name": "冠茶",
-   "oneLine": "採摘前淨係短期遮光，鮮味介乎煎茶同玉露之間。",
+   "oneLine": "介乎煎茶同玉露之間、採之前淨係遮光一兩個禮拜嘅冠茶——遮光提升鮮味，海藻香同濃郁甜味交疊。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5006,7 +5006,7 @@ window.TEAFaiDataYue = (function () {
  "green-kamairicha": {
   "t": {
    "name": "釜炒茶",
-   "oneLine": "日本少見嘅鑊炒綠茶，偏炒香而唔係紫菜氣。",
+   "oneLine": "喺以蒸青為主嘅日本好難得見到嘅九州鑊炒綠茶——炒穀物嘅焦香同輕甜清爽咁留低，冇海藻氣。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5028,7 +5028,7 @@ window.TEAFaiDataYue = (function () {
  "green-dafo-longjing": {
   "t": {
    "name": "大佛龍井",
-   "oneLine": "比西湖龍井更早上市嘅日常龍井。",
+   "oneLine": "比西湖龍井更早採摘嘅浙江新昌龍井——用手掌壓扁嘅葉片，帶炒豆焦香同輕甜。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5050,7 +5050,7 @@ window.TEAFaiDataYue = (function () {
  "green-laoshan": {
   "t": {
    "name": "嶗山綠茶",
-   "oneLine": "中國茶區北緣，海風養出嚟嘅厚葉。",
+   "oneLine": "中國茶區北緣，海風同花崗岩養出嚟嘅厚葉——醇厚炒香同濃甜，沖好多泡都仲得。",
    "oxidation": "0%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5072,7 +5072,7 @@ window.TEAFaiDataYue = (function () {
  "white-xingongyi": {
   "t": {
    "name": "新工藝白茶",
-   "oneLine": "傳統白茶加輕度揉捻，香氣更加出啲。",
+   "oneLine": "1968年喺福鼎以輕揉喚醒香氣嘅新工藝白茶——柔和甜味入面疊住花香同淡淡烘烤香。",
    "oxidation": "大約20%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5094,7 +5094,7 @@ window.TEAFaiDataYue = (function () {
  "white-yueguangbai": {
   "t": {
    "name": "月光白",
-   "oneLine": "一面白一面黑，雲南嘅月光白茶。",
+   "oneLine": "一面白、一面黑咁乾成嘅雲南大葉種白茶——乾果同蜂蜜咁嘅甜，柔和咁暈喺淺杏色湯色入面。",
    "oxidation": "大約15%",
    "ratioNote": "150毫升配4克",
    "rounds": "4泡",
@@ -5116,7 +5116,7 @@ window.TEAFaiDataYue = (function () {
  "white-lingyun-baihao": {
   "t": {
    "name": "凌雲白毫",
-   "oneLine": "白毫濃密嘅廣西白茶。",
+   "oneLine": "用白毫厚密嘅廣西凌雲芽頭做嘅白茶——柔和花香、淡淡青草氣同輕甜，清淨綿長。",
    "oxidation": "大約10%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5138,7 +5138,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-beigang-maojian": {
   "t": {
    "name": "北港毛尖",
-   "oneLine": "洞庭湖西岸嘅小宗黃茶，趁熱堆埋悶到轉黃。",
+   "oneLine": "洞庭湖西岸炒完堆焗、自己變黃嘅小眾黃茶——柔和穀物甜，比綠茶少咗澀味。",
    "oxidation": "大約12%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5160,7 +5160,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-weishan-maojian": {
   "t": {
    "name": "溈山毛尖",
-   "oneLine": "最後輕輕煙燻過，葉入面帶少少松煙香嘅黃茶。",
+   "oneLine": "最後乾燥嗰陣輕輕燻松煙嘅湖南溈山黃茶——穀物甜入面疊住淡淡松煙，澀味好少。",
    "oxidation": "大約15%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5182,7 +5182,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-wenzhou-huangtang": {
   "t": {
    "name": "平陽黃湯",
-   "oneLine": "悶黃時間短、色澤偏淺嘅浙南黃茶。",
+   "oneLine": "清代曾經係貢茶嘅浙江平陽黃茶，焗黃時間短——柔和穀物香、淡淡花香同輕甜，接近綠茶。",
    "oxidation": "大約12%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5204,7 +5204,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-wanxi-huangdacha": {
   "t": {
    "name": "皖西黃大茶",
-   "oneLine": "皖西粗老葉做成嘅大宗黃茶，啱煲嚟飲。",
+   "oneLine": "葉大又粗老、啱攞嚟用煲煮嘅皖西黃大茶——醇厚炒香同濃甜，加咗牛奶都仲喺度。",
    "oxidation": "大約20%",
    "ratioNote": "200毫升配5克",
    "rounds": "3泡",
@@ -5226,7 +5226,7 @@ window.TEAFaiDataYue = (function () {
  "yellow-yuanan-luyuan": {
   "t": {
    "name": "遠安鹿苑茶",
-   "oneLine": "清代已經有記載嘅湖北黃茶，條索細緊。",
+   "oneLine": "清代乾隆年間已經有記載嘅湖北鹿苑黃茶——細緊條索入面有柔和穀物同花香、乾淨嘅甜。",
    "oxidation": "大約15%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5248,7 +5248,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-rougui": {
   "t": {
    "name": "武夷肉桂",
-   "oneLine": "似桂皮嘅辛香，係武夷巖茶另一條支柱。",
+   "oneLine": "以桂皮香得名嘅武夷岩茶代表品種，經過炭焙——桂皮同丁香嘅辛香壓住濃甜，餘韻悠長。",
    "oxidation": "大約50%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "8泡以上",
@@ -5270,7 +5270,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-shuixian": {
   "t": {
    "name": "武夷水仙",
-   "oneLine": "葉大、焙得夠，老樹嘅苔蘚氣最深。",
+   "oneLine": "棵樹越老、苔蘚氣越深嘅武夷大葉烏龍——蘭香疊住木質同苔蘚氣，焙火嘅甜綿長。",
    "oxidation": "大約50%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "9泡以上",
@@ -5292,7 +5292,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dayuling": {
   "t": {
    "name": "大禹嶺高山烏龍",
-   "oneLine": "海拔2300米以上，係臺灣最高茶區嘅厚葉。",
+   "oneLine": "海拔2300米台灣最高茶區嘅厚葉——清澈花香同清涼嘅甜，喺淺金色湯色入面綻開，幾乎唔澀。",
    "oxidation": "大約20%",
    "ratioNote": "150毫升配6克",
    "rounds": "8泡",
@@ -5314,7 +5314,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-shanlinxi": {
   "t": {
    "name": "杉林溪高山烏龍",
-   "oneLine": "喺柳杉林之間嘅茶田，清冷乾淨。",
+   "oneLine": "柳杉林同雲霧之間、海拔1600米嘅高山茶——清澈花香、淡淡青草氣同乾淨嘅甜，清涼咁留喺杯入面。",
    "oxidation": "大約20%",
    "ratioNote": "150毫升配6克",
    "rounds": "7泡",
@@ -5336,7 +5336,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-lishan": {
   "t": {
    "name": "梨山高山烏龍",
-   "oneLine": "喺果園之間，海拔兩千米，帶熟果香嘅高山茶。",
+   "oneLine": "晝夜溫差大、海拔2000米果園之間嘅高山茶——熟果香同花香、柔和嘅甜，由厚葉入面透出嚟。",
    "oxidation": "大約20%",
    "ratioNote": "150毫升配6克",
    "rounds": "8泡",
@@ -5358,7 +5358,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-huangjingui": {
   "t": {
    "name": "黃金桂",
-   "oneLine": "香氣高揚、號稱「透天香」嘅安溪輕發酵烏龍。",
+   "oneLine": "號稱「透天香」嘅安溪黃旦烏龍——輕發酵葉片散出忌廉咁嘅香、花香同輕甜。",
    "oxidation": "大約35%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "6泡",
@@ -5380,7 +5380,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-benshan": {
   "t": {
    "name": "本山",
-   "oneLine": "鐵觀音嘅「細佬」，安溪輕香型烏龍。",
+   "oneLine": "俾人叫做鐵觀音「細佬」嘅清爽安溪烏龍——淡淡蘭香同青草氣、輕甜，輕鬆綿長。",
    "oxidation": "大約35%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "7泡",
@@ -5402,7 +5402,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-foshou": {
   "t": {
    "name": "永春佛手",
-   "oneLine": "葉大似佛手柑，帶梨子般嘅甜香。",
+   "oneLine": "用佛手咁大塊葉做嘅福建永春烏龍——梨同柿咁嘅甜果香柔和散開，幾乎唔澀。",
    "oxidation": "大約40%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "7泡",
@@ -5424,7 +5424,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-muzha-tieguanyin": {
   "t": {
    "name": "木柵鐵觀音",
-   "oneLine": "臺北木柵長時間炭焙嘅鐵觀音，帶烤果同焦糖香。",
+   "oneLine": "19世紀末以嚟喺台北木柵長時間炭焙嘅鐵觀音——烤果同焦糖嘅濃甜，尾段留一絲炭香。",
    "oxidation": "大約45%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "8泡",
@@ -5446,7 +5446,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-milan": {
   "t": {
    "name": "蜜蘭香單叢",
-   "oneLine": "蜜香疊住蘭香，係鳳凰單叢最常見嘅香型。",
+   "oneLine": "鳳凰單叢入面最常見嘅香型，蜜香疊住蘭香——醇厚茶身托住甜香，餘韻悠長。",
    "oxidation": "大約45%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "10泡以上",
@@ -5468,7 +5468,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-dancong-yashixiang": {
   "t": {
    "name": "鴨屎香",
-   "oneLine": "個名粗俗，但香係清冷嘅銀花香。",
+   "oneLine": "個名粗俗、但別稱「銀花香」嘅鳳凰單叢——鈴蘭咁清涼嘅花香同明快嘅甜，綿長唔散。",
    "oxidation": "大約45%",
    "ratioNote": "110毫升蓋碗配7克",
    "rounds": "10泡以上",
@@ -5490,7 +5490,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-hongshui": {
   "t": {
    "name": "紅水烏龍",
-   "oneLine": "深氧化嘅臺灣傳統烏龍，湯色接近紅色。",
+   "oneLine": "氧化約六成嘅台灣傳統烏龍，仲焙過火——紅色湯色上面，熟果、蜂蜜同烘烤香濃到近似紅茶。",
    "oxidation": "大約60%",
    "ratioNote": "150毫升配6克",
    "rounds": "7泡",
@@ -5512,7 +5512,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-thai-doi": {
   "t": {
    "name": "美斯樂烏龍",
-   "oneLine": "臺灣工藝同茶苗喺泰北落地生根嘅烏龍。",
+   "oneLine": "台灣工藝同茶苗喺泰北扎根嘅烏龍——輕盈花香同甜，比台灣高山茶更加柔和。",
    "oxidation": "大約25%",
    "ratioNote": "150毫升配6克",
    "rounds": "6泡",
@@ -5534,7 +5534,7 @@ window.TEAFaiDataYue = (function () {
  "oolong-vietnam-mocchau": {
   "t": {
    "name": "木州烏龍",
-   "oneLine": "法國人最早引種、喺越南高原上面嘅烏龍茶。",
+   "oneLine": "法國人最早引種嘅越南木州高原烏龍——青草氣、輕花香同乾淨嘅甜，比台灣烏龍更加清爽。",
    "oxidation": "大約30%",
    "ratioNote": "150毫升配6克",
    "rounds": "5泡",
@@ -5556,7 +5556,7 @@ window.TEAFaiDataYue = (function () {
  "black-lapsang-unsmoked": {
   "t": {
    "name": "正山小種（無煙）",
-   "oneLine": "唔燻煙嘅正山小種，花果香原汁原味咁呈現。",
+   "oneLine": "淨係用炭火、唔燻松煙嘅正山小種——乾果、蜂蜜同花香乾淨咁原樣呈現出嚟。",
    "oxidation": "大約90%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5578,7 +5578,7 @@ window.TEAFaiDataYue = (function () {
  "black-yingde": {
   "t": {
    "name": "英德紅茶",
-   "oneLine": "廣東大葉種嘅力度，濃強明亮。",
+   "oneLine": "廣東大葉種力度十足嘅英德紅茶——麥芽、蜂蜜同紅色果香喺濃湯入面，加牛奶都仲鮮明。",
    "oxidation": "大約95%",
    "ratioNote": "200毫升配3克，奶茶用150毫升配5克",
    "rounds": "3泡",
@@ -5600,7 +5600,7 @@ window.TEAFaiDataYue = (function () {
  "black-rize": {
   "t": {
    "name": "裡澤紅茶",
-   "oneLine": "細細隻鬱金香杯入面嘅濃紅茶，黑海沿岸嘅日常。",
+   "oneLine": "黑海沿岸里澤出產嘅土耳其日常紅茶——麥芽同烤麵包香濃泡入細細隻鬱金香杯，深紅滿杯。",
    "oxidation": "大約95%",
    "ratioNote": "150毫升配4克",
    "rounds": "2泡",
@@ -5622,7 +5622,7 @@ window.TEAFaiDataYue = (function () {
  "black-cameron": {
   "t": {
    "name": "金馬倫高原紅茶",
-   "oneLine": "赤道高原茶園嘅濃圓紅茶。",
+   "oneLine": "馬來西亞金馬倫高原由1929年延續落嚟嘅茶園紅茶——麥芽同烘烤香喺濃湯度出嚟，同牛奶好夾。",
    "oxidation": "大約95%",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -5644,7 +5644,7 @@ window.TEAFaiDataYue = (function () {
  "black-rwanda": {
   "t": {
    "name": "盧安達紅茶",
-   "oneLine": "東非高地明亮乾淨嘅紅茶。",
+   "oneLine": "喺海拔1600米雲霧山地慢慢生長嘅盧旺達紅茶——麥芽帶明亮氣息，深紅湯色，比肯雅茶更加柔和。",
    "oxidation": "大約95%",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -5666,7 +5666,7 @@ window.TEAFaiDataYue = (function () {
  "black-dooars": {
   "t": {
    "name": "杜阿爾斯紅茶",
-   "oneLine": "喺大吉嶺同阿薩姆之間平原嘅濃強紅茶。",
+   "oneLine": "大吉嶺同阿薩姆之間平原嘅濃強紅茶——麥芽同烘烤香、適度嘅澀，正啱加奶嘅早餐杯。",
    "oxidation": "大約92%",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -5688,7 +5688,7 @@ window.TEAFaiDataYue = (function () {
  "black-yeongdeok": {
   "t": {
    "name": "盈德紅茶",
-   "oneLine": "東海海風之中嘅小規模韓國紅茶。",
+   "oneLine": "東海岸山地小農茶園嘅夏葉韓國紅茶，完全氧化——麥芽帶淡淡花香同柔和甜味。",
    "oxidation": "大約90%",
    "ratioNote": "150毫升配3克",
    "rounds": "3泡",
@@ -5710,7 +5710,7 @@ window.TEAFaiDataYue = (function () {
  "dark-fuzhuan": {
   "t": {
    "name": "茯磚茶",
-   "oneLine": "磚入面生出嚟嘅黃色「金花」，茯磚茶嘅標記。",
+   "oneLine": "磚入面開出黃色「金花」嘅茯磚茶——菌香、土香同穀物香托住柔和圓潤嘅甜，金花越多就越順。",
    "oxidation": "後發酵",
    "ratioNote": "150毫升配5克，洗茶一次",
    "rounds": "8泡",
@@ -5732,7 +5732,7 @@ window.TEAFaiDataYue = (function () {
  "dark-qianliang": {
   "t": {
    "name": "千兩茶",
-   "oneLine": "用竹篾壓成嘅長柱茶，飲嗰陣鋸出嚟。",
+   "oneLine": "以舊時千兩之名、用竹篾壓成長柱嘅茶——切低嚟沖泡，竹香同土香、濃甜，越陳越柔和。",
    "oxidation": "後發酵",
    "ratioNote": "150毫升配5克，洗茶一次",
    "rounds": "8泡",
@@ -5754,7 +5754,7 @@ window.TEAFaiDataYue = (function () {
  "dark-kangzhuan": {
   "t": {
    "name": "康磚茶",
-   "oneLine": "銷去西藏嘅四川緊壓黑茶，當地人加酥油加鹽煲嚟飲。",
+   "oneLine": "曾經銷去西藏嘅四川雅安緊壓黑茶——土香同穀物香、濃而略粗嘅甜，遇到酥油就柔和落嚟。",
    "oxidation": "後發酵",
    "ratioNote": "150毫升配5克，洗茶一次",
    "rounds": "7泡",
@@ -5776,7 +5776,7 @@ window.TEAFaiDataYue = (function () {
  "dark-tibetan": {
   "t": {
    "name": "酥油茶",
-   "oneLine": "磚茶濃煲，加酥油同鹽，就係西藏嘅一日。",
+   "oneLine": "磚茶濃熬之後加酥油同鹽打成嘅西藏日常茶——酥油嘅醇香同鹹味壓住黑茶土香，飲落暖身。",
    "oxidation": "後發酵",
    "ratioNote": "500毫升水配8克茶，酥油同鹽隨個人口味",
    "rounds": "煲1次，分幾次飲",
@@ -5798,7 +5798,7 @@ window.TEAFaiDataYue = (function () {
  "dark-laoqingzhuan": {
   "t": {
    "name": "老青磚",
-   "oneLine": "曾經銷去蒙古同俄羅斯嘅湖北緊壓黑茶。",
+   "oneLine": "曾經銷去蒙古同俄羅斯嘅湖北趙李橋青磚茶——陳磚入面嘅土香同穀物香、柔和嘅甜，沉靜咁出嚟。",
    "oxidation": "後發酵",
    "ratioNote": "150毫升配5克，洗茶一次",
    "rounds": "7泡",
@@ -5820,7 +5820,7 @@ window.TEAFaiDataYue = (function () {
  "dark-tianjian": {
   "t": {
    "name": "天尖茶",
-   "oneLine": "唔壓制嘅安化黑茶上品，葉保持完整。",
+   "oneLine": "唔壓制、葉片完整保留嘅安化黑茶上品——煙香同土香、棗咁嘅甜，比緊壓茶更加清爽。",
    "oxidation": "後發酵",
    "ratioNote": "150毫升配5克，洗茶一次",
    "rounds": "8泡",
@@ -5842,7 +5842,7 @@ window.TEAFaiDataYue = (function () {
  "blend-guihua": {
   "t": {
    "name": "桂花茶",
-   "oneLine": "將秋桂嘅香窨入茶葉，甜似杏。",
+   "oneLine": "將秋天桂花一層層窨入茶入面嘅花茶——杏同桃咁嘅甜花香，柔和咁散開。",
    "oxidation": "大約60%（睇茶底）",
    "ratioNote": "200毫升配3克",
    "rounds": "3泡",
@@ -5864,7 +5864,7 @@ window.TEAFaiDataYue = (function () {
  "blend-rose": {
   "t": {
    "name": "玫瑰花茶",
-   "oneLine": "乾玫瑰花蕾拼紅茶，香比淨係用花更厚。",
+   "oneLine": "乾玫瑰花蕾拼入紅茶嘅花茶——玫瑰香同蜂蜜咁嘅甜，身後有紅茶麥芽托底。",
    "oxidation": "大約85%（紅茶底）",
    "ratioNote": "200毫升配3克",
    "rounds": "3泡",
@@ -5886,7 +5886,7 @@ window.TEAFaiDataYue = (function () {
  "blend-lychee": {
   "t": {
    "name": "荔枝紅茶",
-   "oneLine": "荔枝香疊喺紅茶上面，廣東嘅果香茶。",
+   "oneLine": "廣東紅茶窨入荔枝香嘅果香茶——荔枝甜香疊住麥芽，加冰都依然鮮明。",
    "oxidation": "大約90%",
    "ratioNote": "200毫升配3克",
    "rounds": "3泡",
@@ -5908,7 +5908,7 @@ window.TEAFaiDataYue = (function () {
  "blend-thaitea": {
   "t": {
    "name": "泰式奶茶",
-   "oneLine": "濃茶加煉奶同冰，泰國街頭嘅橙色一杯。",
+   "oneLine": "碎紅茶濃泡加煉奶同冰嘅泰國街頭茶——濃麥芽同忌廉咁嘅甜，盛滿橙色一杯。",
    "oxidation": "大約95%",
    "ratioNote": "150毫升配5克，煉奶同糖按個人口味",
    "rounds": "1次",
@@ -5930,7 +5930,7 @@ window.TEAFaiDataYue = (function () {
  "blend-moroccan-mint": {
   "t": {
    "name": "摩洛哥薄荷茶",
-   "oneLine": "中國珠茶加鮮薄荷同糖，高高舉起壺咁沖。",
+   "oneLine": "中國珠茶加鮮薄荷同糖、高高舉起沖注出泡沫嘅馬格里布茶——薄荷清涼壓住濃甜，熱飲都爽口。",
    "oxidation": "大約5%（綠茶底）",
    "ratioNote": "200毫升配4克，薄荷一揸、糖隨個人口味",
    "rounds": "3泡",
@@ -5952,7 +5952,7 @@ window.TEAFaiDataYue = (function () {
   "blend-irish-breakfast": {
   "t": {
    "name": "愛爾蘭早餐茶",
-   "oneLine": "以阿薩姆為主，係早餐拼配之中最濃嘅一支。",
+   "oneLine": "以阿薩姆為主、早餐拼配入面最濃嗰支——深沉嘅麥芽香，一加奶就變成忌廉質地。",
    "oxidation": "大約95%",
    "ratioNote": "200毫升配4克",
    "rounds": "3泡",
@@ -5974,7 +5974,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cassia-seed": {
   "t": {
    "name": "決明子茶",
-   "oneLine": "炒籽嘅焦香，冇咖啡因嘅夜晚茶。",
+   "oneLine": "炒決明子泡出嚟、冇咖啡因嘅夜茶——炒穀物焦香同淡淡苦味，尾段回返少少甜。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配5克",
    "rounds": "2泡",
@@ -5996,7 +5996,7 @@ window.TEAFaiDataYue = (function () {
  "herb-burdock": {
   "t": {
    "name": "牛蒡茶",
-   "oneLine": "炒牛蒡根嘅焦甜，冇咖啡因。",
+   "oneLine": "牛蒡根切片曬乾炒製、唔含咖啡因嘅茶——炒根焦香同隱隱嘅甜，尾段帶少少苦。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配5克",
    "rounds": "2泡",
@@ -6018,7 +6018,7 @@ window.TEAFaiDataYue = (function () {
  "herb-gugija": {
   "t": {
    "name": "枸杞茶",
-   "oneLine": "乾枸杞泡出嚟嘅淡淡甜，湯色淡黃。",
+   "oneLine": "用清陽同寧夏等名產地乾枸杞泡嘅茶——淺甜同乾果香，柔和咁浸出淡黃湯色。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配5克",
    "rounds": "2泡",
@@ -6040,7 +6040,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cornus": {
   "t": {
    "name": "山茱萸茶",
-   "oneLine": "紅色果實嘅強酸味，通常配蜜糖。",
+   "oneLine": "求禮同山清紅色山茱萸乾果茶——強酸同淡淡苦味喺紅色湯色入面，加蜂蜜就柔和落嚟。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配5克",
    "rounds": "2泡",
@@ -6062,7 +6062,7 @@ window.TEAFaiDataYue = (function () {
  "herb-dandelion": {
   "t": {
    "name": "蒲公英茶",
-   "oneLine": "春日蒲公英嘅苦，炒根就帶焦香。",
+   "oneLine": "春天採收曬乾嘅蒲公英葉同根——葉苦帶青草氣，炒根就焦香帶淺甜。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
@@ -6084,7 +6084,7 @@ window.TEAFaiDataYue = (function () {
  "herb-cornsilk": {
   "t": {
    "name": "玉米須茶",
-   "oneLine": "好似煲粟米水咁嘅焦香，夏天嘅茶。",
+   "oneLine": "粟米鬚曬乾炒製嘅夏日茶——好似煲粟米水咁嘅穀物焦香同淺甜，收尾乾淨。",
    "oxidation": "唔發酵 · 冇咖啡因",
    "ratioNote": "200毫升配3克",
    "rounds": "2泡",
