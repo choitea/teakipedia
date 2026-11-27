@@ -9,7 +9,7 @@
 window.TEAFaiData = (function () {
   "use strict";
 
-  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue", "hi", "th", "vi", "ar", "ind", "tur", "si", "es", "fr"];
+  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue", "hi", "th", "vi", "ar", "ind", "tur", "si", "es", "fr", "ne", "ms"];
 
   /* 광동어(yue)는 아직 차별 문구를 따로 쓰지 않았습니다. 번체 중국어 문구를 그대로 쓰고,
      없는 항목은 영어까지 내려갑니다(화면이 비지 않게). */
@@ -28,7 +28,9 @@ window.TEAFaiData = (function () {
     tur: ["tur", "en"],
     si: ["si", "en"],
     es: ["es", "en"],
-    fr: ["fr", "en"]
+    fr: ["fr", "en"],
+    ne: ["ne", "en"],
+    ms: ["ms", "en"]
   };
 
   /* 계열 이름은 일본어를 따로 적어 둡니다(차별 설명은 영어로 내려갑니다) */
@@ -35107,13 +35109,13 @@ window.TEAFaiData = (function () {
     "code": "uk"
   },
   "herb-hibiscus": {
-    "ko": "수단",
-    "en": "Sudan",
-    "zh-CN": "苏丹",
-    "zh-TW": "蘇丹",
-    "yue": "蘇丹",
-    "ja": "スーダン",
-    "code": "sd"
+    "ko": "이집트",
+    "en": "Egypt",
+    "zh-CN": "埃及",
+    "zh-TW": "埃及",
+    "yue": "埃及",
+    "ja": "エジプト",
+    "code": "eg"
   },
   "herb-rooibos": {
     "ko": "남아프리카공화국",
@@ -37324,7 +37326,7 @@ window.TEAFaiData = (function () {
     var langName = function (key) {
       return raw && raw[key] && raw[key].name ? raw[key].name : "";
     };
-    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "lk": "si", "ar": "es", "pe": "es", "fr": "fr" };
+    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "lk": "si", "ar": "es", "pe": "es", "fr": "fr", "np": "ne", "my": "ms" };
     if (byLang[code]) {
       var ln = langName(byLang[code]);
       if (ln) return ln;
