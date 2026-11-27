@@ -37312,6 +37312,14 @@ window.TEAFaiData = (function () {
   /* 중국어는 간체를, 그 밖의 언어는 정체(원어) 표기를 씁니다 */
   function nativeOf(tea, lang) {
     if (!tea) return "";
+    var code = (ORIGIN[tea.id] || {}).code || "";
+    if (code === "in") {
+      for (var i = 0; i < TEAS.length; i++) {
+        if (TEAS[i].id === tea.id && TEAS[i].hi && TEAS[i].hi.name) return TEAS[i].hi.name;
+      }
+    }
+    if (code === "cn") return tea.hs || tea.hz || tea.rom || "";
+    if (code === "tw" || code === "hk") return tea.hz || tea.hs || tea.rom || "";
     if (lang === "zh-CN") return tea.hs || tea.hz || tea.rom || "";
     return tea.hz || tea.hs || tea.rom || "";
   }
