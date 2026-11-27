@@ -163,6 +163,7 @@ CHECK = r"""
   out.turTeas = D.use('tur').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.siTeas = D.use('si').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.esTeas = D.use('es').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
+  out.frTeas = D.use('fr').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.hiGroups = D.use('hi').groups.filter(function (g) { return !!g.name; }).length;
   out.thGroups = D.use('th').groups.filter(function (g) { return !!g.name; }).length;
   out.viGroups = D.use('vi').groups.filter(function (g) { return !!g.name; }).length;
@@ -171,6 +172,7 @@ CHECK = r"""
   out.turGroups = D.use('tur').groups.filter(function (g) { return !!g.name; }).length;
   out.siGroups = D.use('si').groups.filter(function (g) { return !!g.name; }).length;
   out.esGroups = D.use('es').groups.filter(function (g) { return !!g.name; }).length;
+  out.frGroups = D.use('fr').groups.filter(function (g) { return !!g.name; }).length;
   out.yueCantonese = D.use('yue').teas.filter(function (t) {
     return t.oneLine && /嘅|係|唔|冇|喺|啲|咁/.test(t.oneLine);
   }).length;
@@ -242,7 +244,7 @@ def run(plan=None, shops=None):
             "localStorage.setItem('teafai.shops.v1', %r)"
             % json.dumps({"version": shops.get("version"), "shops": shops.get("shops")}, ensure_ascii=False)
         )
-    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_si.js", "data_es.js", "data_ja.js", "app.js", "features.js"]
+    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_si.js", "data_es.js", "data_fr.js", "data_ja.js", "app.js", "features.js"]
     for f in files:
         src = (HERE / f).read_text(encoding="utf-8")
         try:
@@ -318,6 +320,7 @@ def main():
         and result["turTeas"] == 300
         and result["siTeas"] == 300
         and result["esTeas"] == 300
+        and result["frTeas"] == 300
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
         and result["viGroups"] == 7
@@ -326,6 +329,7 @@ def main():
         and result["turGroups"] == 7
         and result["siGroups"] == 7
         and result["esGroups"] == 7
+        and result["frGroups"] == 7
         and result["pinnedOrder"] == "hongkong-first"
         and result["pinnedHtml"] > 200
         and result["partnerShopsText"] is True
