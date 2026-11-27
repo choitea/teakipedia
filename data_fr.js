@@ -24,7 +24,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-biluochun": {
     "name": "Biluochun",
-    "oneLine": "Un parfum de fruits dans une feuille tordue comme un escargot — le plus parfumé des thés verts.",
+    "oneLine": "Thé célèbre aux bourgeons de printemps de Dongting, renommé par l'empereur Kangxi — ses feuilles enroulées en escargot s'ouvrent sur la pêche et l'abricot, portés par une douceur fraîche.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml ; une température basse, c’est tout le secret",
     "rounds": "3–4 infusions",
@@ -39,7 +39,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-maofeng": {
     "name": "Huangshan Maofeng",
-    "oneLine": "Une douceur de noisette venue des montagnes brumeuses — l’autre grand classique du thé vert chinois.",
+    "oneLine": "Thé célèbre relativement jeune des brumes du Huangshan — ses feuilles jaune-vert offrent des notes doucement torréfiées, la fraîcheur de l'orchidée et un long umami.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -54,7 +54,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Le thé vert étuvé du quotidien japonais — parfum d’algue et umami.",
+    "oneLine": "Le thé quotidien du Japon, six dixièmes de sa consommation de thé vert — ses feuilles étuvées mêlent arôme d'algue et umami à une légère astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml ; première verse à 70 °C",
     "rounds": "3 infusions",
@@ -69,7 +69,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-gyokuro": {
     "name": "Gyokuro",
-    "oneLine": "Ombré pour pousser l’umami à son maximum — le plus profond des thés verts.",
+    "oneLine": "Ombré plus de 20 jours et nommé « rosée de jade » — ses aiguilles vert profond libèrent un umami de miso et de dashi, à la texture crémeuse.",
     "oxidation": "0%",
     "ratioNote": "5 g pour 40 ml — beaucoup de feuille, très peu d’eau",
     "rounds": "3 infusions",
@@ -84,7 +84,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-matcha": {
     "name": "Matcha",
-    "oneLine": "La feuille entière, moulue et bue — un thé vert que l’on ingère, pas seulement que l’on sent.",
+    "oneLine": "La feuille entière, moulue à la pierre à seulement 40 g par heure — une mousse vert vif sur un umami profond, avec une pointe d'amertume en finale.",
     "oxidation": "0%",
     "ratioNote": "2 g pour 60 ml pour l’usucha ; 4 g pour 60 ml pour le koicha",
     "rounds": "Un bol",
@@ -99,7 +99,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-jeju": {
     "name": "Ujeon (Jeju)",
-    "oneLine": "La première feuille de Corée, cueillie avant la Pluie des grains — une douce astringence pleine de pluie de printemps.",
+    "oneLine": "Première feuille de Jeju avant la Pluie des grains, issue de jardins créés en 1979 — le sol volcanique et le vent marin donnent des notes vertes fraîches et grillées qui s'adoucissent en douceur.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -114,7 +114,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-silverneedle": {
     "name": "Aiguilles d’argent (Bai Hao Yin Zhen)",
-    "oneLine": "La forme la plus pâle du thé blanc : un bourgeon encore dans son duvet argenté.",
+    "oneLine": "Le thé blanc dans sa forme la plus pure, bourgeons seuls, jamais torréfié ni roulé — un parfum de muguet et une longue douceur sans astringence sous un duvet argenté.",
     "oxidation": "5%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "4–5 infusions",
@@ -129,7 +129,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-peony": {
     "name": "Pivoine blanche (Bai Mu Dan)",
-    "oneLine": "Un bourgeon et deux feuilles — plus de parfum que les Aiguilles d’argent, à un prix plus doux.",
+    "oneLine": "Un bourgeon et deux feuilles, comme une pivoine en fleur — fleurs blanches et foin rencontrent une douceur légère de datte, avec plus de corps que les Aiguilles d'argent.",
     "oxidation": "8%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "4–5 infusions",
@@ -144,7 +144,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-shoumei": {
     "name": "Shou Mei",
-    "oneLine": "Le thé blanc axé sur la feuille — le meilleur pour une longue et lente décoction.",
+    "oneLine": "Thé blanc riche en feuilles, nommé d'après les sourcils d'un vieillard, longtemps gardé et mijoté — foin, dattes et fruits mûrs dans une liqueur abricot profonde.",
     "oxidation": "10%",
     "ratioNote": "4 g pour 200 ml ; 5 g pour 500 ml en décoction",
     "rounds": "4–5 infusions",
@@ -159,7 +159,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-aged": {
     "name": "Thé blanc vieilli",
-    "oneLine": "Trois ans un médicament, sept ans un trésor — un thé blanc fait par le temps.",
+    "oneLine": "Thé blanc vieilli du Fujian — « un an un thé, trois ans un remède, sept ans un trésor » — le temps inscrit dattes, herbes et fruits secs dans une liqueur ambrée profonde.",
     "oxidation": "15%",
     "ratioNote": "5 g pour 200 ml ; 5 g pour 500 ml en décoction",
     "rounds": "5 infusions ou plus",
@@ -174,7 +174,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-gongmei": {
     "name": "Gong Mei",
-    "oneLine": "Un thé blanc entre le Bai Mudan et le Shou Mei, fait du groupe de cultivars cai cha.",
+    "oneLine": "Thé blanc de cai cha, entre la Pivoine blanche et le Shou Mei — foin et fleurs discrètes encadrent une douceur de datte plus nette que celle du Shou Mei.",
     "oxidation": "10%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "4–5 infusions",
@@ -189,7 +189,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-luanguapian": {
     "name": "Lu’an Guapian",
-    "oneLine": "Que de la feuille et aucun bourgeon, pressée à plat comme une graine de melon — le seul thé vert fait de feuille seule.",
+    "oneLine": "Le seul thé vert fait de la feuille seule, bourgeons et tiges retirés — ses feuilles plates en graine de melon donnent châtaigne grillée, corps épais et douceur.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -203,7 +203,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-houkui": {
     "name": "Taiping Houkui",
-    "oneLine": "Une feuille de la taille d’une paume avec une grille de tissu pressée dedans — le plus grand thé vert de Chine.",
+    "oneLine": "Le plus grand thé vert de Chine, pressé dans toile et filet jusqu'à former une grille — même une feuille grande comme la paume donne orchidée et léger umami, sans amertume.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -217,7 +217,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-maojian": {
     "name": "Xinyang Maojian",
-    "oneLine": "Une feuille fine comme une aiguille portant herbe et châtaigne — le célèbre thé vert du Henan.",
+    "oneLine": "Thé célèbre du Henan, médaillé d'or à l'exposition Panama-Pacifique de 1915 — ses feuilles droites comme des aiguilles s'élèvent sur l'herbe, la châtaigne et une astringence vive.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -231,7 +231,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-lushan": {
     "name": "Lushan Yunwu",
-    "oneLine": "Cultivé dans le nuage, avec une feuille si tendre qu’elle se meurtrit facilement.",
+    "oneLine": "Thé du mont Lu, baigné de brume plus de 190 jours par an — ses feuilles fines et tendres, torréfiées lentement, donnent herbe douce et umami, avec peu d'astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -245,7 +245,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-hojicha": {
     "name": "Hojicha",
-    "oneLine": "Un sencha torréfié sur charbon : moins de caféine, plus de douceur torréfiée.",
+    "oneLine": "Né dans le Kyoto des années 1920, un sencha torréfié fort — une chaleur proche de 200 °C apporte grain grillé, caramel et bois, avec presque aucune amertume.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 130 ml",
     "rounds": "2–3 infusions",
@@ -259,7 +259,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-genmaicha": {
     "name": "Genmaicha",
-    "oneLine": "Un sencha au riz complet torréfié — à mi-chemin entre thé et riz.",
+    "oneLine": "Les foyers d'Edo allongeaient leur thé avec du riz complet torréfié — le côté noisette du riz grillé et du pop-corn sur la pointe verte du sencha.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 130 ml (riz inclus)",
     "rounds": "2–3 infusions",
@@ -273,7 +273,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-hadong": {
     "name": "Ujeon (Hadong)",
-    "oneLine": "La première feuille de l’année au pied du Jirisan, cueillie avant la Pluie des grains.",
+    "oneLine": "Hadong, district du thé depuis Silla, et sa feuille la plus précoce avant la Pluie des grains — les jardins sauvages du Jirisan donnent feuille fraîche, notes grillées et long umami.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -287,7 +287,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-sejak": {
     "name": "Sejak",
-    "oneLine": "Après la Pluie des grains et avant le début de l’été : la deuxième cueillette, tendre comme une langue de moineau.",
+    "oneLine": "Deuxième cueillette après la Pluie des grains, tendre comme une langue de moineau — herbe et notes grillées plus marquées que l'u-jeon, conclues par une légère astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -301,7 +301,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-jungjak": {
     "name": "Jungjak",
-    "oneLine": "Entre le début de l’été et les Épis en grains : la troisième cueillette, quand la feuille s’épaissit.",
+    "oneLine": "Troisième grade, le « moineau moyen », cueilli quand les feuilles s'épaississent après le début de l'été — une torréfaction chaude et brève marie notes grillées et astringence dans une liqueur vert profond.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -315,7 +315,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-daejak": {
     "name": "Daejak",
-    "oneLine": "La feuille grossière d’été — la tasse quotidienne de la Corée.",
+    "oneLine": "Dernier grade de cueillette, le « grand moineau » de l'été après le Grain en épi — feuille grossière, notes grillées et astringence nette qui s'adoucit quand la tasse refroidit.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml ; bon en décoction",
     "rounds": "2–3 infusions",
@@ -329,7 +329,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-jukro": {
     "name": "Jukro",
-    "oneLine": "Des théiers sauvages de Hadong torréfiés entièrement à la main — la plus ancienne façon de faire le thé vert coréen.",
+    "oneLine": "Feuille sauvage de Hadong retournée 300 fois à la main dans une marmite en fer — umami profond et note florale restent nets, avec peu d'astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -343,7 +343,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-junshan": {
     "name": "Junshan Yinzhen",
-    "oneLine": "La plus connue des aiguilles d’argent des thés jaunes, d’une île du lac Dongting.",
+    "oneLine": "L'aiguille d'argent des thés jaunes, d'une île du Dongting, jadis plus précieuse que l'or — ses bourgeons jaunis sur papier se dressent dans le verre, avec une douceur de maïs et de beurre.",
     "oxidation": "10%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -357,7 +357,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-mengding": {
     "name": "Mengding Huangya",
-    "oneLine": "Le plus ancien thé célèbre du mont Mengding, dans le Sichuan — le thé jaune originel.",
+    "oneLine": "Parmi les plus anciens thés célèbres de Chine, d'une montagne plantée sous les Han occidentaux — ses bourgeons empilés et jaunis donnent maïs, beurre et douceur moelleuse.",
     "oxidation": "15%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -371,7 +371,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-huoshan": {
     "name": "Huoshan Huangya",
-    "oneLine": "Un petit thé jaune de Huoshan, cultivé parmi les bambous.",
+    "oneLine": "Thé tribut des Ming, des bambouseraies de Huoshan — ses feuilles légèrement torréfiées et jaunies donnent grain doux et douceur, avec une faible astringence.",
     "oxidation": "15%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -385,7 +385,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-jasmine": {
     "name": "Thé au jasmin",
-    "oneLine": "Un thé vert superposé encore et encore avec du jasmin cueilli la nuit.",
+    "oneLine": "Thé au jasmin, commencé sous les Song et perfectionné dans le Fujian des Qing — des fleurs de nuit d'été superposées encore et encore sur l'umami doux du thé vert.",
     "oxidation": "90% (base de thé vert)",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "1–2 infusions",
@@ -399,7 +399,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-zhuyeqing": {
     "name": "Zhu Ye Qing (Emei)",
-    "oneLine": "Des lames plates comme des feuilles de bambou — le début de printemps du Sichuan dans une tasse.",
+    "oneLine": "Zhu Ye Qing, né sur le mont Emei en 1964 — bourgeons d'avant Qingming torréfiés à plat comme des feuilles de bambou, avec un arôme léger d'herbe et une douceur nette.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -415,7 +415,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-enshi-yulu": {
     "name": "Enshi Yulu",
-    "oneLine": "Étuvé et torsadé en aiguilles — un rare thé vert étuvé de Chine.",
+    "oneLine": "Enshi Yulu, thé vert étuvé du Hubei depuis les Qing — étuvé et torsadé en aiguilles, pour un umami savoureux et une pointe d'algue.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -431,7 +431,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-anji-baipian": {
     "name": "Anji Bai Cha",
-    "oneLine": "Un thé vert d’un cultivar pâle au printemps, nommé thé blanc.",
+    "oneLine": "Anji Bai Cha, un thé vert malgré son nom de « blanc » — du cultivar Baiye 1, pâle au printemps, riche en umami avec presque aucune astringence.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -447,7 +447,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-gougunao": {
     "name": "Gougunao",
-    "oneLine": "Un thé vert à feuille fine au parfum d’orchidée, d’une vallée brumeuse du Jiangxi.",
+    "oneLine": "Gougunao, qui aurait remporté l'or à l'exposition de Panama de 1915 — feuilles fines d'une vallée brumeuse du Jiangxi, parfumées à l'orchidée et doucement sucrées.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -463,7 +463,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-wuyuan-mingmei": {
     "name": "Wuyuan Mingmei",
-    "oneLine": "Une feuille courbée en sourcil — un thé vert doux de Wuyuan, dans le Jiangxi.",
+    "oneLine": "Wuyuan Mingmei, créé en 1958 et classé parmi les thés célèbres de Chine — feuilles recourbées en sourcil, avec herbe douce et douceur de châtaigne.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -479,7 +479,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-mengding-ganlu": {
     "name": "Mengding Ganlu",
-    "oneLine": "Un classique du Sichuan finement frisé, du mont Mengding.",
+    "oneLine": "Mengding Ganlu, thé tribut depuis les Tang — torréfié et roulé trois fois en une fine boucle de châtaigne et de soja grillé.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -495,7 +495,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-hanzhong-xianhao": {
     "name": "Hanzhong Xianhao",
-    "oneLine": "Du bord nord du pays du thé chinois : une feuille de printemps épaisse après un long hiver.",
+    "oneLine": "Hanzhong Xianhao, de la lisière nord du pays du thé en Chine — feuille épaisse de printemps après un long hiver, avec herbe, fleurs et douceur durable.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -511,7 +511,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-huiming": {
     "name": "Thé Huiming",
-    "oneLine": "Une feuille de printemps d’un temple de montagne du Zhejiang qui a donné son nom au thé.",
+    "oneLine": "Huiming, nommé directement d'après le temple de montagne du Zhejiang où il naquit — bourgeons tendres torréfiés à basse température, pour fleurs discrètes, herbe et douceur nette.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -527,7 +527,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-boseong": {
     "name": "Thé vert (Boseong)",
-    "oneLine": "Les plus vastes champs de thé de Corée — la feuille de printemps de Boseong.",
+    "oneLine": "Thé vert de Boseong, les plus vastes champs de thé de Corée — cueilli du printemps jusqu'au daejak, grillé et herbacé, avec la douceur derrière.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -543,7 +543,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-sanxia-biluochun": {
     "name": "Biluochun (Sanxia)",
-    "oneLine": "Le thé vert taïwanais de style chinois — une douce feuille en spirale.",
+    "oneLine": "Thé vert de Sanxia, qui porte à Taïwan le nom du Biluochun de Dongting, au Jiangsu, depuis les années 1940 — feuilles en spirale, avec herbe verte et faible douceur fruitée.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -559,7 +559,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-kabusecha": {
     "name": "Kabusecha",
-    "oneLine": "Une feuille brièvement ombragée — l’umami entre le sencha et le gyokuro.",
+    "oneLine": "Kabusecha, entre sencha et gyokuro, ombré juste une à deux semaines — l'ombrage relève l'umami, superposant des notes d'algue à une douceur profonde.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -575,7 +575,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-kamairicha": {
     "name": "Kamairicha",
-    "oneLine": "Le rare thé vert japonais torréfié au wok — grillé plutôt qu’algueux.",
+    "oneLine": "Une rareté dans le Japon du thé étuvé — thé vert de Kyushu torréfié au wok, laissant un côté grillé de grain torréfié et une douceur légère, sans note d'algue.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -591,7 +591,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-dafo-longjing": {
     "name": "Dafo Longjing",
-    "oneLine": "Une feuille de style Longjing plus précoce et quotidienne, du Zhejiang.",
+    "oneLine": "Un Longjing de Xinchang, au Zhejiang, cueilli plus tôt que celui du lac de l'Ouest — feuilles pressées à plat à la main, donnant un côté grillé de haricot torréfié et une douceur légère.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -607,7 +607,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-laoshan": {
     "name": "Thé vert (Laoshan)",
-    "oneLine": "Le bord nord du thé chinois : une feuille épaisse cultivée dans le vent marin.",
+    "oneLine": "De la lisière nord du pays du thé en Chine, feuilles épaisses cultivées dans le vent marin et un sol de granite — torréfaction grillée et douceur solide au fil des infusions.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -623,7 +623,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-xingongyi": {
     "name": "Thé blanc Nouvelle Technique",
-    "oneLine": "Un blanc traditionnel avec un léger roulage — plus de parfum, un peu d’oxydation.",
+    "oneLine": "Nouvelle technique née à Fuding en 1968, dont le léger roulage éveille l'arôme — douceur douce du thé blanc, superposée de fleurs et d'un faible côté grillé.",
     "oxidation": "environ 20%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -639,7 +639,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-yueguangbai": {
     "name": "Blanc Clair de Lune",
-    "oneLine": "Un côté pâle, un côté sombre — le thé blanc clair de lune du Yunnan.",
+    "oneLine": "Thé blanc à grandes feuilles du Yunnan, qui sèche pâle d'un côté et sombre de l'autre — fruits secs et douceur de miel dans une liqueur abricot pâle et douce.",
     "oxidation": "environ 15%",
     "ratioNote": "4 g pour 150 ml",
     "rounds": "4 infusions",
@@ -655,7 +655,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-lingyun-baihao": {
     "name": "Lingyun Baihao",
-    "oneLine": "Un thé blanc à feuille duveteuse du Guangxi.",
+    "oneLine": "Thé blanc de Lingyun, au Guangxi, fait de bourgeons épais de duvet blanc — fleurs douces, soupçon d'herbe et douceur légère, nets jusqu'au bout.",
     "oxidation": "environ 10%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -671,7 +671,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-beigang-maojian": {
     "name": "Beigang Maojian",
-    "oneLine": "Un petit thé jaune de la rive ouest du lac Dongting.",
+    "oneLine": "Petit thé jaune de la rive ouest du lac Dongting, empilé après torréfaction pour jaunir de lui-même — douceur douce de grain, moins astringent que le thé vert.",
     "oxidation": "environ 12%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -687,7 +687,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-weishan-maojian": {
     "name": "Weishan Maojian",
-    "oneLine": "Un thé jaune fini à la fumée — une légère note de pin dans la feuille.",
+    "oneLine": "Thé jaune du Hunan, de Weishan, légèrement touché par la fumée de pin au séchage final — douceur de grain avec un filet de fumée et peu d'astringence.",
     "oxidation": "environ 15%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -703,7 +703,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-wenzhou-huangtang": {
     "name": "Pingyang Huangtang",
-    "oneLine": "Un thé jaune pâle du sud du Zhejiang, au jaunissement court.",
+    "oneLine": "Thé jaune de Pingyang consigné comme tribut des Qing, au jaunissement gardé bref — grain doux, fleurs discrètes et douceur légère, proche du vert.",
     "oxidation": "environ 12%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -719,7 +719,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-wanxi-huangdacha": {
     "name": "Thé Wanxi Huangda",
-    "oneLine": "Le thé jaune à feuille grossière de l’ouest de l’Anhui — fait pour être bouilli.",
+    "oneLine": "Le grand thé jaune à feuilles grossières de l'ouest de l'Anhui, fait pour être bouilli en marmite — torréfaction grillée et douceur forte, qui tient même avec du lait.",
     "oxidation": "environ 20%",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "3 infusions",
@@ -735,7 +735,7 @@ window.TEAFaiDataFr = (function () {
   },
   "yellow-yuanan-luyuan": {
     "name": "Thé Yu’an Luyuan",
-    "oneLine": "Un thé jaune du Hubei avec des mentions sous les Qing et une feuille finement roulée.",
+    "oneLine": "Thé jaune du Hubei, du temple Luyuan, consigné sous l'ère Qianlong — brins finement roulés donnant grain doux, fleurs et douceur nette.",
     "oxidation": "environ 15%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -751,7 +751,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-moroccan-mint": {
     "name": "Thé à la menthe maghrébin",
-    "oneLine": "Un gunpowder vert avec menthe fraîche et sucre, versé de haut.",
+    "oneLine": "Le thé à la menthe du Maghreb, gunpowder chinois versé de haut avec menthe fraîche et sucre — menthe fraîche sur une douceur profonde, rafraîchissant même chaud.",
     "oxidation": "environ 5% (base de thé vert)",
     "ratioNote": "4 g pour 200 ml ; une poignée de menthe et du sucre au goût",
     "rounds": "3 infusions",
@@ -767,7 +767,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-chunseol": {
     "name": "Chunseol",
-    "oneLine": "Un thé vert torréfié à la poêle, cueilli au début du printemps sur des théiers sauvages près du vallon de Jeungsimsa, sur le mont Mudeung.",
+    "oneLine": "Un thé torréfié à la poêle, issu des théiers sauvages du mont Mudeung et baptisé par le peintre Heo Baek-ryeon — ses tendres feuilles du début du printemps s'ouvrent sur un parfum vert frais et une douceur délicate.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -783,7 +783,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-tencha": {
     "name": "Tencha",
-    "oneLine": "Une feuille ombragée et étuvée — la matière première que l’on moud en matcha.",
+    "oneLine": "La feuille ombragée et étuvée avant d'être moulue à la pierre en matcha — un umami profond concentré dans une feuille d'un vert vif, avec une touche d'algue.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 100 ml",
     "rounds": "3 infusions",
@@ -799,7 +799,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-funmatsu": {
     "name": "Funmatsu (Sencha en poudre)",
-    "oneLine": "Du sencha moulu en poudre et remué directement dans l’eau.",
+    "oneLine": "Du sencha non ombragé moulu finement et remué directement dans l'eau, feuille comprise — le parfum vert et l'amertume douce du sencha livrés dans leur intégralité.",
     "oxidation": "0%",
     "ratioNote": "1.5 g pour 150 ml",
     "rounds": "1 portion",
@@ -815,7 +815,7 @@ window.TEAFaiDataFr = (function () {
   },
   "green-konacha": {
     "name": "Konacha",
-    "oneLine": "Un thé des bourgeons et fragments restant de la fabrication du gyokuro et du sencha.",
+    "oneLine": "Les bourgeons et fragments tamisés lors de la fabrication du gyokuro et du sencha — une infusion rapide et corsée, à la liqueur sombre et au bord amer.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -847,7 +847,7 @@ window.TEAFaiDataFr = (function () {
   },
   "white-darjeeling": {
     "name": "Thé blanc de Darjeeling",
-    "oneLine": "Un thé blanc de bourgeons tendres des jardins d’altitude de Darjeeling, avec une touche de muscat.",
+    "oneLine": "De tendres bourgeons des jardins de Darjeeling, entre 1 000 et 2 000 m, séchés tels quels sans roulage — fleurs douces, pointe de muscat et douceur nette.",
     "oxidation": "Environ 8%",
     "ratioNote": "2.5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -863,7 +863,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-tieguanyin": {
     "name": "Tieguanyin d'Anxi",
-    "oneLine": "Arôme d'orchidée et guanyin yun — l'oolong de référence, roulé en demi-sphères serrées.",
+    "oneLine": "L'oolong de référence d'Anxi, rattaché à un buisson trouvé près d'un temple de Guanyin — ses hémisphères serrés donnent orchidée et lys, onctuosité et douceur qui revient.",
     "oxidation": "30%",
     "ratioNote": "7 g pour 110 ml dans un gaiwan",
     "rounds": "7–8 infusions",
@@ -877,7 +877,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dahongpao": {
     "name": "Da Hong Pao (Wuyi)",
-    "oneLine": "Feuille de roche fortement torréfiée — le thé du yan yun, la rime de la roche.",
+    "oneLine": "Thé de roche de Wuyi, de la légende de la robe rouge et des buissons mères des falaises — ses feuilles torréfiées trois à six fois au charbon laissent cacao, roche mouillée et longue finale.",
     "oxidation": "55%",
     "ratioNote": "7 g pour 110 ml dans un gaiwan",
     "rounds": "8–10 infusions",
@@ -891,7 +891,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong": {
     "name": "Dancong Phénix",
-    "oneLine": "Un buisson, un arôme — des oolongs de buisson unique du Guangdong, chacun avec son propre nom.",
+    "oneLine": "Vieux buissons du mont Phénix, chacun travaillé séparément — un buisson, un arôme de fleurs blanches, de gardénia et de miel, clos par une douceur qui revient.",
     "oxidation": "40%",
     "ratioNote": "7 g pour 110 ml dans un gaiwan",
     "rounds": "10 infusions ou plus",
@@ -905,7 +905,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dongding": {
     "name": "Dong Ding",
-    "oneLine": "Un oolong moyennement torréfié des contreforts du centre de Taïwan — châtaigne et fleurs en équilibre.",
+    "oneLine": "Oolong taïwanais moyennement torréfié, rattaché à 36 plants de Wuyi apportés en 1855 — grain grillé, châtaigne et orchidée s'équilibrent sur une douceur moelleuse.",
     "oxidation": "25%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6–8 infusions",
@@ -919,7 +919,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-alishan": {
     "name": "Oolong de haute montagne (Alishan)",
-    "oneLine": "Au-dessus de 1 200 m : un thé de haute montagne taïwanais, frais, au parfum d'orchidée.",
+    "oneLine": "Oolong de haute montagne d'Alishan, diffusé lors de l'essor du thé des années 1980 — ses feuilles épaisses donnent orchidée, crème et pomme verte sur une douceur claire et longue.",
     "oxidation": "20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6–8 infusions",
@@ -933,7 +933,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-beauty": {
     "name": "Oriental Beauty",
-    "oneLine": "Le miel que seule la cicadelle peut créer — l'oolong fortement oxydé emblématique de Taïwan.",
+    "oneLine": "L'oolong à pointes blanches que la reine Victoria aurait nommé Oriental Beauty — ses feuilles mordues par les cicadelles donnent miel, pêche mûre et rose, avec une douceur ronde.",
     "oxidation": "60%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "5–6 infusions",
@@ -947,7 +947,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-si-ji-chun": {
     "name": "Si Ji Chun",
-    "oneLine": "Quatre récoltes par an, chacune printanière : l'oolong léger que l'on rencontre le plus souvent à Taïwan.",
+    "oneLine": "Nommé d'après un arbre fortuit de Muzha qui bourgeonnait toute l'année — ses feuilles légèrement oxydées donnent des fleurs de gardénia et de jasmin, avec une douceur légère.",
     "oxidation": "15–20%",
     "ratioNote": "4 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -962,7 +962,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-jin-xuan": {
     "name": "Jin Xuan",
-    "oneLine": "Le cultivar n° 12 de Taïwan, dont le parfum crémeux et lacté vient de la feuille elle-même — aussi vendu sous le nom de Milky Oolong ; une tasse douce et ronde.",
+    "oneLine": "Le n° 12 du TTES taïwanais, enregistré en 1981 — la feuille elle-même donne lait et crème avec du jasmin, pour finir sur une douceur arrondie.",
     "oxidation": "15–20%",
     "ratioNote": "4 g pour 150 ml",
     "rounds": "3–4 infusions",
@@ -977,7 +977,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-pouchong": {
     "name": "Pouchong de Wen Shan",
-    "oneLine": "Un oolong léger du nord de Taïwan, nommé d'après le papier dans lequel on enveloppait autrefois son parfum.",
+    "oneLine": "Oolong léger de Wen Shan, nommé d'après le papier qui enveloppait jadis son parfum — une oxydation proche du thé vert garde orchidée et gardénia nets et légers.",
     "oxidation": "8–12%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -992,7 +992,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-rougui": {
     "name": "Rougui de Wuyi",
-    "oneLine": "Arôme d'écorce de cannelle — l'autre pilier des oolongs de roche de Wuyi.",
+    "oneLine": "Le thé de roche de Wuyi nommé d'après l'écorce de cannelle, cuit au charbon en plusieurs fois — épices de cannelle et de clou de girofle sur une douceur profonde, avec une longue finale.",
     "oxidation": "environ 50%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "8 infusions et plus",
@@ -1008,7 +1008,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-shuixian": {
     "name": "Shuixian de Wuyi",
-    "oneLine": "Grande feuille, cuisson profonde — et plus le buisson est vieux, plus la tasse sent la mousse.",
+    "oneLine": "Le grand oolong à feuilles de Wuyi, plus moussu à mesure que le buisson vieillit — orchidée sur bois et mousse, avec une douceur cuite qui dure.",
     "oxidation": "environ 50%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "9 infusions et plus",
@@ -1024,7 +1024,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dayuling": {
     "name": "Oolong de haute montagne (Dayuling)",
-    "oneLine": "Au-dessus de 2 300 m — le thé le plus haut de Taïwan, à la feuille épaisse et à croissance lente.",
+    "oneLine": "Feuille épaisse à croissance lente, du plus haut terroir à thé de Taïwan à 2 300 m — fleurs nettes et douceur fraîche dans une liqueur or pâle, presque sans astringence.",
     "oxidation": "environ 20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "8 infusions",
@@ -1040,7 +1040,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-shanlinxi": {
     "name": "Oolong de haute montagne (Shanlinxi)",
-    "oneLine": "Thé de haute montagne issu de parcelles en forêt de cèdres — net et frais.",
+    "oneLine": "Thé de haute montagne de parcelles parmi forêt de cèdres et brouillard à 1 600 m — fleurs nettes, un peu d'herbe et douceur propre, frais en tasse.",
     "oxidation": "environ 20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "7 infusions",
@@ -1056,7 +1056,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-lishan": {
     "name": "Oolong de haute montagne (Lishan)",
-    "oneLine": "Thé de haute montagne aux fruits mûrs, cultivé parmi les vergers à 2 000 m.",
+    "oneLine": "Thé de haute montagne cultivé parmi les vergers à 2 000 m, où de forts écarts jour-nuit épaississent la feuille — fruits mûrs, fleurs et douceur moelleuse.",
     "oxidation": "environ 20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "8 infusions",
@@ -1072,7 +1072,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-huangjingui": {
     "name": "Huang Jin Gui",
-    "oneLine": "L'oolong plus léger d'Anxi, surnommé « parfum qui perce le ciel ».",
+    "oneLine": "Oolong Huangdan d'Anxi, surnommé « parfum qui perce le ciel » — sa feuille légèrement oxydée répand un arôme crémeux, des fleurs et une douceur légère.",
     "oxidation": "environ 35%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "6 infusions",
@@ -1088,7 +1088,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-benshan": {
     "name": "Oolong Benshan",
-    "oneLine": "L'oolong d'Anxi plus léger et moins cher — le petit frère du Tieguanyin.",
+    "oneLine": "L'oolong plus léger d'Anxi, dit petit frère du Tieguanyin — orchidée et herbe discrètes avec une douceur légère, facile de la première à la dernière gorgée.",
     "oxidation": "environ 35%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "7 infusions",
@@ -1104,7 +1104,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-foshou": {
     "name": "Foshou de Yongchun",
-    "oneLine": "Douceur de poire, issue de feuilles larges comme une main.",
+    "oneLine": "Oolong de Yongchun, fait de feuilles larges comme un cédrat main de Bouddha — fruits doux de poire et de kaki, corps doux avec peu d'astringence.",
     "oxidation": "environ 40%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "7 infusions",
@@ -1120,7 +1120,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-muzha-tieguanyin": {
     "name": "Tieguanyin (Muzha)",
-    "oneLine": "Tieguanyin de Taipei longuement cuit au charbon — fruits torréfiés et caramel.",
+    "oneLine": "Tieguanyin de Muzha, cuit longuement et souvent au charbon depuis la fin du XIXe siècle — fruits torréfiés et douceur de caramel, avec une légère pointe grillée en finale.",
     "oxidation": "environ 45%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "8 infusions",
@@ -1136,7 +1136,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-milan": {
     "name": "Mi Lan Xiang Dancong",
-    "oneLine": "Du miel sur l'orchidée — le type aromatique de dancong Phénix le plus planté.",
+    "oneLine": "L'arôme de dancong Phénix le plus planté, le miel posé sur l'orchidée — un corps plein qui porte son parfum doux jusqu'à une longue finale.",
     "oxidation": "environ 45%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "10 infusions et plus",
@@ -1152,7 +1152,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-yashixiang": {
     "name": "Ya Shi Xiang",
-    "oneLine": "Un nom grossier pour un dancong floral, argenté et frais.",
+    "oneLine": "Dancong Phénix dont le nom grossier cache un arôme de « fleur d'argent » — fleurs fraîches de muguet et douceur lumineuse, longues en finale.",
     "oxidation": "environ 45%",
     "ratioNote": "7 g dans un gaiwan de 110 ml",
     "rounds": "10 infusions et plus",
@@ -1168,7 +1168,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-hongshui": {
     "name": "Oolong Hong Shui",
-    "oneLine": "Le style taïwanais ancien à oxydation poussée — un oolong à la liqueur rouge.",
+    "oneLine": "Style d'oolong taïwanais plus ancien, oxydé à environ 60 % et cuit — fruits mûrs, miel et note cuite sur une liqueur rouge, presque aussi sombre qu'un thé noir.",
     "oxidation": "environ 60%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "7 infusions",
@@ -1184,7 +1184,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-thai-doi": {
     "name": "Oolong (Doi Mae Salong)",
-    "oneLine": "Oolong des hautes terres thaïlandaises, cultivé selon les méthodes et avec des plants taïwanais.",
+    "oneLine": "Oolong du nord de la Thaïlande, enraciné dans les méthodes et plants taïwanais — fleurs légères et douceur, plus doux que les tasses de haute montagne de Taïwan.",
     "oxidation": "environ 25%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6 infusions",
@@ -1200,7 +1200,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-vietnam-mocchau": {
     "name": "Oolong (Moc Chau)",
-    "oneLine": "Oolong des hautes terres vietnamiennes, d'un plateau que les Français ont planté les premiers.",
+    "oneLine": "Oolong du plateau vietnamien de Moc Chau, où les Français plantèrent le thé pour la première fois — herbe, fleurs légères et douceur nette, plus frais que celui de Taïwan.",
     "oxidation": "environ 30%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "5 infusions",
@@ -1216,7 +1216,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-guihua": {
     "name": "Thé à l'osmanthus",
-    "oneLine": "L'osmanthus d'automne mêlé à la feuille — douceur d'abricot.",
+    "oneLine": "Thé parfumé en superposant la fleur d'osmanthus d'automne dans la feuille encore et encore — fleurs d'abricot et de pêche sur une douceur moelleuse.",
     "oxidation": "environ 60 % (selon la base)",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "3 infusions",
@@ -1232,7 +1232,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-qilai": {
     "name": "Oolong de haute montagne de Qilai",
-    "oneLine": "Un oolong de haute montagne taïwanais du mont Qilai, entre 1 400 et 2 000 m.",
+    "oneLine": "Un oolong de haute montagne taïwanais découvert tardivement, né dans les nuages du mont Qilai au-dessus de 2 000 m — fleurs limpides, onctuosité crémeuse et douceur fraîche.",
     "oxidation": "20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6–7 infusions",
@@ -1248,7 +1248,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-honey": {
     "name": "Oolong au parfum de miel",
-    "oneLine": "Un oolong taïwanais roulé en boules, issu de feuilles mordues par la cicadelle, au parfum de miel.",
+    "oneLine": "Un oolong taïwanais roulé en boules, issu de feuilles mordues par les cicadelles dans des jardins non traités — miel, pêche mûre et fleurs dans une longue douceur.",
     "oxidation": "50%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "5–6 infusions",
@@ -1264,7 +1264,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-red": {
     "name": "Oolong rouge",
-    "oneLine": "Un nouvel oolong de Taitung, oxydé presque au niveau d'un thé noir et roulé en boules.",
+    "oneLine": "Un oolong nouveau né à Luye, dans le comté de Taitung, dans les années 2000, oxydé presque comme un thé noir et roulé en boules — fruits mûrs, miel et grain torréfié dans une liqueur rouge ambrée.",
     "oxidation": "environ 75%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6–7 infusions",
@@ -1280,7 +1280,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-qilan": {
     "name": "Qilan",
-    "oneLine": "Un oolong de cultivar au parfum d'orchidée, fabriqué à la fois à Wuyi et dans le sud du Fujian.",
+    "oneLine": "Un cultivar nommé d'après l'orchidée, travaillé dans les styles de Wuyi et du sud du Fujian — notes nettes d'orchidée et d'herbes sur une torréfaction légère et de la douceur.",
     "oxidation": "45%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "7–8 infusions",
@@ -1296,7 +1296,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-meizhan": {
     "name": "Meizhan",
-    "oneLine": "Un oolong de cultivar classique du Fujian, dont on dit qu'il sent la fleur de prunier.",
+    "oneLine": "Un cultivar classique du Fujian dont on dit qu'il sent la fleur de prunier, également transformé en thés noirs et verts — fleurs de prunier, fruit léger et douceur souple.",
     "oxidation": "40%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "6–7 infusions",
@@ -1312,7 +1312,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-tieluohan": {
     "name": "Tie Luo Han",
-    "oneLine": "L'un des quatre grands mingcong de Wuyi — un thé de roche profond, à la pointe médicinale.",
+    "oneLine": "Compté parmi les plus anciens des quatre grands mingcong de Wuyi — herbes médicinales, minéraux et grain torréfié, avec une douceur épaisse et pesante.",
     "oxidation": "55%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "7–8 infusions",
@@ -1328,7 +1328,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-baijiguan": {
     "name": "Bai Ji Guan",
-    "oneLine": "Un mingcong de Wuyi léger et net, connu pour ses bourgeons jaune-blanc pâles.",
+    "oneLine": "Un mingcong de Wuyi dont les bourgeons jaune-blanc pâle se remarquent au premier coup d'œil, légèrement torréfiés pour les préserver — fleurs limpides, légère note herbacée et douceur fraîche.",
     "oxidation": "40%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "6–7 infusions",
@@ -1344,7 +1344,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-shuijingui": {
     "name": "Shui Jin Gui",
-    "oneLine": "Un mingcong de Wuyi doux et suave, nommé d'après une légende de carapace de tortue.",
+    "oneLine": "Un mingcong de Wuyi nommé d'après un théier emporté par une crue et dessiné comme une carapace de tortue — fleurs douces et torréfaction sur une douceur ronde et délicate.",
     "oxidation": "50%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "7–8 infusions",
@@ -1360,7 +1360,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-bantianyao": {
     "name": "Ban Tian Yao",
-    "oneLine": "Un mingcong de Wuyi issu de buissons à mi-falaise, au caractère de roche prononcé.",
+    "oneLine": "Un mingcong de Wuyi issu de théiers à flanc de falaise, entre ciel et terre — caractère de roche marqué, torréfaction et douceur profonde dans une longue finale.",
     "oxidation": "50%",
     "ratioNote": "7 g pour 110 ml",
     "rounds": "7–8 infusions",
@@ -1376,7 +1376,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-zhangping": {
     "name": "Shuixian de Zhangping",
-    "oneLine": "Un oolong pressé rare — la feuille de Shuixian compressée en carrés enveloppés de papier.",
+    "oneLine": "Un rare oolong pressé — des feuilles de Shuixian placées dans des moules carrés et enveloppées de papier — orchidée et note verte fraîche, avec une douceur limpide dans un doré lumineux.",
     "oxidation": "30%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6–7 infusions",
@@ -1392,7 +1392,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-yunnan": {
     "name": "Oolong du Yunnan",
-    "oneLine": "Thé à grandes feuilles du Yunnan, travaillé dans le style taïwanais des oolongs roulés en boules.",
+    "oneLine": "Un thé à grandes feuilles du Yunnan, terre du pu'er, roulé en boules dans un linge à la manière taïwanaise — malt profond et douceur de miel sous les fleurs, avec un corps épais.",
     "oxidation": "30%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "5–6 infusions",
@@ -1408,7 +1408,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-darjeeling": {
     "name": "Oolong de Darjeeling",
-    "oneLine": "Un thé de style oolong, obtenu par oxydation partielle dans les jardins de Darjeeling.",
+    "oneLine": "Un style de Darjeeling en petits lots, où la feuille de thé noir est arrêtée à une oxydation partielle — raisin muscat, abricot et fleurs, léger et limpide dans une liqueur cuivrée lumineuse.",
     "oxidation": "40%",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "4–5 infusions",
@@ -1424,7 +1424,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-huangzhi": {
     "name": "Huangzhi Xiang Dancong",
-    "oneLine": "Un dancong Phénix au parfum net et doux, proche du gardénia.",
+    "oneLine": "Un dancong de Phoenix issu d'un seul théier, dont le parfum de gardénia vient de la feuille elle-même, sans fleurs ajoutées — gardénia doux et fruits mûrs, avec une finale nette.",
     "oxidation": "environ 40%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 9 infusions",
@@ -1440,7 +1440,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-xingren": {
     "name": "Xingren Xiang Dancong",
-    "oneLine": "Un dancong Phénix à l'arôme toasté d'amande grillée.",
+    "oneLine": "Un dancong de Phoenix issu d'un seul théier et nommé d'après l'amande torréfiée — les fruits à coque grillés passent d'un bref bord amer à la douceur dans une gorgée souple.",
     "oxidation": "environ 45%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 8 infusions",
@@ -1456,7 +1456,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-rougui": {
     "name": "Rougui Xiang Dancong",
-    "oneLine": "Un dancong Phénix à la note d'épice chaude, proche de la cannelle.",
+    "oneLine": "Un dancong de Phoenix à la note naturelle de cannelle, sans lien avec le cultivar Rougui de Wuyi — épice chaude et torréfaction légère dans un corps ample à la longue finale.",
     "oxidation": "environ 50%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 9 infusions",
@@ -1472,7 +1472,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-guihua": {
     "name": "Guihua Xiang Dancong",
-    "oneLine": "Un dancong Phénix dont le parfum d'osmanthus vient de la feuille elle-même.",
+    "oneLine": "Un type aromatique naturel dont le parfum d'osmanthus est dans la feuille elle-même, contrairement aux oolongs mélangés aux fleurs — fleur douce sur l'abricot, avec une finale nette.",
     "oxidation": "environ 35%",
     "ratioNote": "5 g dans un gaiwan de 120 ml",
     "rounds": "environ 8 infusions",
@@ -1488,7 +1488,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-zhilan": {
     "name": "Zhilan Xiang Dancong",
-    "oneLine": "Un dancong élégant au parfum d'orchidée, compté parmi les types aromatiques les plus fins.",
+    "oneLine": "Un dancong d'un seul théier, compté parmi les types aromatiques les plus fins pour son parfum d'orchidée zhilan — arôme d'orchidée raffiné, douceur délicate, longue finale nette.",
     "oxidation": "environ 40%",
     "ratioNote": "5 g dans un gaiwan de 120 ml",
     "rounds": "environ 10 infusions",
@@ -1504,7 +1504,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-yelai": {
     "name": "Yelai Xiang Dancong",
-    "oneLine": "Un dancong Phénix au parfum dense et doux de fleurs de nuit.",
+    "oneLine": "Un dancong de Phoenix à la douceur aussi dense que la fleur yelai qui s'épanouit la nuit — arôme de fleur nocturne et finale miellée, pour un arrière-goût pourtant net.",
     "oxidation": "environ 40%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 9 infusions",
@@ -1520,7 +1520,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-tongtian": {
     "name": "Tongtian Xiang Dancong",
-    "oneLine": "Un dancong Phénix dont l'arôme monte haut et fort — « jusqu'au ciel ».",
+    "oneLine": "Un dancong de Phoenix nommé « qui atteint le ciel » pour un arôme qui monte haut et fort — les fleurs jaillissent dès la première infusion, vives et nettes, avec une finale limpide.",
     "oxidation": "environ 35%",
     "ratioNote": "5 g dans un gaiwan de 120 ml",
     "rounds": "environ 10 infusions",
@@ -1536,7 +1536,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-youhua": {
     "name": "Youhua Xiang Dancong",
-    "oneLine": "Un dancong Phénix au parfum frais de fleur de pomelo.",
+    "oneLine": "Un dancong de Phoenix nommé d'après le parfum frais de la fleur de pomelo printanière — fleurs de pomelo et d'agrumes sur un corps léger et une douceur nette bien distincte.",
     "oxidation": "environ 35%",
     "ratioNote": "5 g dans un gaiwan de 120 ml",
     "rounds": "environ 8 infusions",
@@ -1552,7 +1552,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-songzhong": {
     "name": "Song Zhong Dancong",
-    "oneLine": "Une lignée de dancong de vieux buissons, dont on dit qu'elle remonte à la dynastie Song.",
+    "oneLine": "Un dancong de Phoenix de vieux théiers, des hauteurs de Wudong, dont on dit qu'il descend de plantations de la dynastie Song — fleurs profondes sur une douceur pesante et une longue finale.",
     "oxidation": "environ 45%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 10 infusions",
@@ -1568,7 +1568,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-baxian": {
     "name": "Baxian Dancong",
-    "oneLine": "Un dancong à grandes feuilles tendres, nommé d'après les Huit Immortels.",
+    "oneLine": "Un dancong de Phoenix à grandes feuilles souples, nommé d'après les Huit Immortels — fleurs douces et limpides et une douceur généreuse et régulière, venue de ses grandes feuilles.",
     "oxidation": "environ 40%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 9 infusions",
@@ -1584,7 +1584,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-dancong-dawuye": {
     "name": "Da Wu Ye Dancong",
-    "oneLine": "Une lignée de dancong à grandes feuilles sombres, à l'arôme et au corps puissants.",
+    "oneLine": "Une lignée de dancong à grandes feuilles sombres qui garde son arôme même sur glace lorsqu'on l'infuse corsé — fleurs denses, corps lourd, fort retour sucré après l'amertume.",
     "oxidation": "environ 50%",
     "ratioNote": "6 g dans un gaiwan de 120 ml",
     "rounds": "environ 10 infusions",
@@ -1600,7 +1600,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-assam": {
     "name": "Oolong d'Assam",
-    "oneLine": "Feuille d'assamica travaillée en oolong — du malt sous un arôme d'oolong.",
+    "oneLine": "Un style plus récent des jardins du Brahmapoutre, en Assam, où la feuille de thé noir est arrêtée à mi-oxydation — malt, miel et grain torréfié, en couches avec les fleurs de l'oolong.",
     "oxidation": "Environ 40%",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "5 infusions",
@@ -1616,7 +1616,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-ceylon": {
     "name": "Oolong de Ceylan",
-    "oneLine": "Feuille d'altitude du Sri Lanka, à moitié oxydée — la luminosité de Ceylan avec les fleurs de l'oolong.",
+    "oneLine": "Un oolong en petits lots, produit aux côtés du thé noir à Uva et dans d'autres jardins proches de 1 200 m — agrumes et fleurs limpides, avec un miel léger sur une trame lumineuse.",
     "oxidation": "Environ 30%",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "5 infusions",
@@ -1632,7 +1632,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-ruby": {
     "name": "Ruby Oolong",
-    "oneLine": "Un oolong en boules fortement torréfié des hautes terres thaïlandaises — liqueur rubis, douceur de fruits secs.",
+    "oneLine": "Un oolong en boules fortement torréfié, façonné avec le savoir-faire taïwanais autour de Doi Mae Salong et nommé d'après sa liqueur rouge — douceur de prune séchée et de raisin sec, avec des noix torréfiées.",
     "oxidation": "Environ 50%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6 infusions",
@@ -1648,7 +1648,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-jeju": {
     "name": "Thé de roche volcanique de Jeju",
-    "oneLine": "Oolong coréen des champs volcaniques de Jeju — une tasse nette, à la pointe minérale.",
+    "oneLine": "Un oolong semi-oxydé issu de feuilles de Jeju élevées sur sol basaltique, vent marin et forts écarts jour-nuit — fleurs et herbe nettes, avec un bord minéral et une douceur soignée.",
     "oxidation": "Environ 30%",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "5 infusions",
@@ -1664,7 +1664,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-cheong": {
     "name": "Oolong Cheong",
-    "oneLine": "Oolong léger de style taïwanais, fait en Corée — un qingcha net et floral.",
+    "oneLine": "Un qingcha à oxydation légère de style taïwanais, fait de feuilles coréennes à Jeju, Boseong et Hadong — orchidée limpide et fleurs de prairie, frais entre le thé vert et l'oolong.",
     "oxidation": "Environ 20%",
     "ratioNote": "6 g pour 150 ml",
     "rounds": "6 infusions",
@@ -1680,7 +1680,7 @@ window.TEAFaiDataFr = (function () {
   },
   "oolong-jasmine": {
     "name": "Oolong Perles de dragon au jasmin",
-    "oneLine": "Oolong légèrement oxydé, roulé en perles et parfumé au jasmin.",
+    "oneLine": "Les perles de dragon au jasmin sont d'ordinaire à base verte ; la rare version taïwanaise roule une base d'oolong — jasmin limpide et douceur délicate dans une liqueur crème pâle.",
     "oxidation": "Environ 20%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions ou plus",
@@ -1696,7 +1696,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-darjeeling-first": {
     "name": "Darjeeling First Flush",
-    "oneLine": "Le bourgeon de printemps : raisin et fleurs, le champagne des thés.",
+    "oneLine": "Première récolte du « champagne du thé », de jardins brumeux à 2 000 m dans l'Himalaya — sa faible oxydation laisse fleurir légèrement raisin vert, muscat et fleurs blanches.",
     "oxidation": "85%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1710,7 +1710,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-assam": {
     "name": "Assam",
-    "oneLine": "Malt et corps épais — la colonne vertébrale du thé au lait.",
+    "oneLine": "Thé à grandes feuilles de la plaine du Brahmapoutre, plus grande région de thé noir au monde — malt, miel et raisins secs dans un corps épais, colonne vertébrale du thé au lait.",
     "oxidation": "95%",
     "ratioNote": "5 g pour 200 ml ; 5 g pour 150 ml pour le thé au lait",
     "rounds": "1 à 2 infusions",
@@ -1724,7 +1724,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-assam-ctc": {
     "name": "Assam CTC",
-    "oneLine": "Feuille broyée qui infuse vite et fort — la vedette du chai et des sachets de thé.",
+    "oneLine": "Thé noir CTC, né avec la première machine d'Amgoorie en 1930 — sa feuille en granulés infuse rouge profond et malt affirmé, qui tient tête au lait et aux épices.",
     "oxidation": "95%",
     "ratioNote": "3 g pour 150 ml ; 3 g pour 200 ml nature",
     "rounds": "1 à 2 infusions",
@@ -1738,7 +1738,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-nilgiri": {
     "name": "Nilgiri",
-    "oneLine": "Un thé des hautes terres du sud de l'Inde : arôme frais, astringence douce.",
+    "oneLine": "Thé noir des Montagnes Bleues, où les premiers jardins commerciaux ouvrirent en 1859 — une fraîcheur d'agrumes et de menthe se pose nettement sur un malt doux.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1752,7 +1752,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-nuwaraeliya": {
     "name": "Nuwara Eliya",
-    "oneLine": "Les plus hauts jardins de Ceylan, à 1 800 m dans la brume — les plus lumineux et les plus délicats.",
+    "oneLine": "Le « champagne de Ceylan », de ses jardins les plus hauts à 1 800 m — l'air frais garde agrumes, fleurs blanches et une touche de menthe vifs et délicats.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1766,7 +1766,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-udapussellawa": {
     "name": "Uda Pussellawa",
-    "oneLine": "Voisin de Nuwara Eliya, un petit district à la note de rose.",
+    "oneLine": "Thé du plus petit des sept districts de Ceylan — rose de saison fraîche et agrumes légers sur un corps moyen, avec une finale lumineuse.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1780,7 +1780,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-uva": {
     "name": "Uva",
-    "oneLine": "Le thé de la mousson sèche : une fraîcheur mentholée.",
+    "oneLine": "Uva, où les deux moussons se rencontrent, au meilleur de la saison sèche de juillet à septembre — une fraîcheur de menthol et d'eucalyptus arrive avec l'astringence en finale.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1794,7 +1794,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-dimbula": {
     "name": "Dimbula",
-    "oneLine": "Les hautes terres centrales de Ceylan : le thé noir équilibré, le classique.",
+    "oneLine": "Pilier des mélanges English Breakfast, des hauts plateaux du centre de Ceylan — fleur, agrumes et malt en équilibre, avec une astringence modérée.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1808,7 +1808,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-sabaragamuwa": {
     "name": "Sabaragamuwa",
-    "oneLine": "Les basses terres du sud-ouest de Ceylan, au parfum de fruits.",
+    "oneLine": "Thé de Ceylan des basses terres humides du sud-ouest, dont la feuille reste tendre — fruits mûrs et miel se posent rondement dans un corps doux.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1822,7 +1822,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-kandy": {
     "name": "Kandy",
-    "oneLine": "Là où le thé de Ceylan commença : un thé noir doux de moyenne altitude.",
+    "oneLine": "Là où le thé de Ceylan commença, avec la première plantation commerciale de Taylor en 1867 — ses feuilles de moyenne altitude donnent malt doux et fleurs, avec peu d'astringence.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1836,7 +1836,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-ruhuna": {
     "name": "Ruhuna",
-    "oneLine": "Les basses terres du sud de Ceylan : sombre et ample.",
+    "oneLine": "Thé de Ceylan des basses terres du sud, oxydé vite sous la chaleur — la liqueur la plus sombre, un malt ample et une forte astringence, faits pour le thé au lait.",
     "oxidation": "90%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1850,7 +1850,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Rose, orchidée et chocolat noir — la référence du thé noir chinois, l'un des trois grands thés noirs du monde.",
+    "oneLine": "L'un des trois grands thés noirs du monde, élaboré dès 1875 selon une méthode du Fujian — ses feuilles finement roulées s'ouvrent sur la rose, l'orchidée et le chocolat noir, en longue finale.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "1 à 2 infusions",
@@ -1864,7 +1864,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-lapsang": {
     "name": "Lapsang Souchong",
-    "oneLine": "Séché à la fumée de pin : le thé noir le plus puissamment parfumé qui soit.",
+    "oneLine": "Le thé noir né d'une feuille oxydée pendant une fuite devant des soldats, puis séchée à la hâte sur du pin — fumée de pin, goudron et fruits secs, profond et lourd.",
     "oxidation": "95%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1878,7 +1878,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-jinjunmei": {
     "name": "Jin Jun Mei",
-    "oneLine": "Fabriqué uniquement de bourgeons dans le style Lapsang — l'un des thés noirs les plus précieux.",
+    "oneLine": "Thé noir précieux créé en 2005, des seuls bourgeons de printemps du Lapsang — sans fumée, miel, fleurs blanches et abricot sec demeurent, avec une douceur douce et longue.",
     "oxidation": "85%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "2 infusions",
@@ -1892,7 +1892,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-dianhong": {
     "name": "Dianhong",
-    "oneLine": "La force des grandes feuilles du Yunnan : or vif et miel.",
+    "oneLine": "Jeune thé noir à grandes feuilles du Yunnan, élaboré pour la première fois à Fengqing en 1939 — sa longue oxydation apporte bourgeons dorés, miel et prune séchée dans un corps épais.",
     "oxidation": "95%",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1906,7 +1906,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-masala": {
     "name": "Masala Chai",
-    "oneLine": "Thé noir bouilli avec des épices et du lait — la tasse quotidienne de l'Inde, du chai-wallah.",
+    "oneLine": "La tasse quotidienne du chai-wallah, fixée dans l'Inde coloniale — un Assam CTC fort bouilli avec gingembre, cardamome, cannelle et lait, chaud et rond.",
     "oxidation": "95%",
     "ratioNote": "5 g pour 150 ml, puis moitié de lait",
     "rounds": "Une ébullition",
@@ -1920,7 +1920,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-sikkim": {
     "name": "Temi (Sikkim)",
-    "oneLine": "Himalaya oriental : un petit jardin connu pour être entièrement biologique.",
+    "oneLine": "Du seul jardin du Sikkim, dans le premier État indien entièrement biologique — les hauteurs himalayennes fleurissent en fleurs et léger muscat sur un corps doux.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1934,7 +1934,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-nepal": {
     "name": "Ilam (Népal)",
-    "oneLine": "Himalaya oriental : un thé noir d'altitude, voisin de Darjeeling.",
+    "oneLine": "Thé noir de haute altitude d'Ilam, au Népal, juste à côté de Darjeeling — les feuilles de petites fermes fleurissent légèrement en fleurs, raisin vert et muscat.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1948,7 +1948,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-kenya": {
     "name": "CTC (Kenya)",
-    "oneLine": "CTC des hautes terres équatoriales : couleur profonde et force.",
+    "oneLine": "CTC du Kenya équatorial, l'un des trois premiers exportateurs mondiaux de thé noir — sa feuille déchirée donne une liqueur rouge profond, un malt puissant et une force qui résiste au lait.",
     "oxidation": "95%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1962,7 +1962,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-jaksal": {
     "name": "Jaksal (Hadong)",
-    "oneLine": "Un thé noir fabriqué à Hadong à partir de feuilles coréennes ; jaksal est le mot local pour « langue de moineau ».",
+    "oneLine": "Jaksal, feuille verte de Hadong entièrement oxydée sur les pentes du mont Jiri — son nom dialectal pour la jeune feuille porte miel, fruits secs et malt doux.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "1 à 2 infusions",
@@ -1976,7 +1976,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-ruby18": {
     "name": "Sun Moon Lake",
-    "oneLine": "Un croisement entre le thé sauvage de Taïwan et l'assamica de Birmanie — menthe et cannelle.",
+    "oneLine": "Le Ruby du lac Soleil-Lune, thé sauvage taïwanais croisé avec un assamica birman — sa grande feuille longuement oxydée exhale menthe, cannelle et muscade, en longue finale.",
     "oxidation": "95%",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -1990,7 +1990,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-sheng": {
     "name": "Sheng Pu-erh",
-    "oneLine": "Pu-erh non mûri — le temps et les microbes font le vieillissement.",
+    "oneLine": "Pu-erh sheng du Yunnan, jadis tribut des Qing — pressé et vieilli, il mûrit des fruits secs et du miel vers les dattes, les herbes et le vieux bois.",
     "oxidation": "Post-fermenté · cru",
     "ratioNote": "5 g pour 100 ml dans un gaiwan ; rincez une fois",
     "rounds": "8 infusions ou plus",
@@ -2004,7 +2004,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-shou": {
     "name": "Shou Pu-erh",
-    "oneLine": "Pu-erh mûri à l'avance — la tasse terreuse que l'on peut boire dès maintenant.",
+    "oneLine": "Pu-erh shou mûri d'avance par le wo dui, mis au point à Kunming en 1973 — terre, dattes et champignon avec une douceur moelleuse, sans longue attente.",
     "oxidation": "Post-fermenté · mûr",
     "ratioNote": "5 g pour 100 ml ; rincez deux fois",
     "rounds": "8 infusions ou plus",
@@ -2018,7 +2018,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-anhua": {
     "name": "Thé sombre d'Anhua",
-    "oneLine": "Thé sombre pressé d'Anhua, dans le Hunan, célèbre sous forme de bûche qianliang.",
+    "oneLine": "Thé sombre d'Anhua, patrie du thé de frontière des Ming et des Qing et célèbre pour ses bûches de mille liang — séché à la fumée de pin, pour fumée, dattes et herbes profondes.",
     "oxidation": "Post-fermenté",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "6 infusions ou plus",
@@ -2032,7 +2032,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-liubao": {
     "name": "Liu Bao",
-    "oneLine": "Le thé sombre du Guangxi, vieilli en paniers de bambou.",
+    "oneLine": "Le Liu Bao du Guangxi, classé parmi les 24 thés célèbres de Chine sous les Qing — vieilli en paniers de bambou, pour champignon, noix de bétel et douceur moelleuse.",
     "oxidation": "Post-fermenté",
     "ratioNote": "5 g pour 150 ml",
     "rounds": "6 infusions ou plus",
@@ -2046,7 +2046,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-cheongtaejeon": {
     "name": "Cheongtaejeon",
-    "oneLine": "Un thé fermenté en forme de pièce de monnaie, de Jangheung — le thé sombre de la Corée.",
+    "oneLine": "Cheongtaejeon, thé sombre coréen relancé à Jangheung sous sa forme de pièce de monnaie de Joseon — étuvé, pressé et fermenté, pour terre chaude, herbes et dattes.",
     "oxidation": "Post-fermenté",
     "ratioNote": "Une pièce (5 g) pour 200 ml",
     "rounds": "3 infusions ou plus",
@@ -2060,7 +2060,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-earlgrey": {
     "name": "Earl Grey",
-    "oneLine": "Thé noir parfumé à la bergamote — le nom n'est pas une marque, mais 200 ans de commerce.",
+    "oneLine": "Le thé noir parfumé originel, imprégné de la légende du comte Grey des années 1830 — la bergamote de Calabre s'épanouit en agrumes et en fleurs.",
     "oxidation": "95%",
     "ratioNote": "1 part de feuille pour 60 d'eau — 3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2074,7 +2074,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-ladygrey": {
     "name": "Lady Grey",
-    "oneLine": "Earl Grey aux écorces de citron et d'orange et aux fleurs — une variation plus douce.",
+    "oneLine": "La variation plus douce de Twinings, nommée d'après la comtesse Grey — la bergamote rejointe par le zeste de citron et d'orange et des fleurs, avec une douceur légère.",
     "oxidation": "95%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2088,7 +2088,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-englishbreakfast": {
     "name": "English Breakfast",
-    "oneLine": "Un mélange du matin bien corsé d'Assam, de Ceylan et de Keemun.",
+    "oneLine": "Le mélange corsé installé aux tables britanniques du petit-déjeuner au XIXe siècle — Assam, Ceylan et Keemun en malt, miel et fruits secs, qui tiennent tête au lait.",
     "oxidation": "95%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2102,7 +2102,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-hongkong": {
     "name": "Hong Kong Blending",
-    "oneLine": "Le mélange signature de thé au lait d'un cha chaan teng de Hong Kong, construit principalement sur une base de Ceylan.",
+    "oneLine": "Le thé au lait britannique réinventé dans les cha chaan teng de Hong Kong — une infusion forte à base de Ceylan, au malt affirmé et à la douceur ronde du lait concentré non sucré.",
     "oxidation": "95%",
     "ratioNote": "8 g pour 200 ml ; lait selon le goût",
     "rounds": "Une infusion",
@@ -2116,7 +2116,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-lapsang-unsmoked": {
     "name": "Zhengshan Xiaozhong (non fumé)",
-    "oneLine": "La branche sans fumée — fleurs et fruits secs à découvert.",
+    "oneLine": "Zhengshan Xiaozhong séché au charbon seul, sans fumée de pin — fruits secs, miel et fleurs s'y montrent nettement à sa place.",
     "oxidation": "environ 90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -2132,7 +2132,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-yingde": {
     "name": "Thé noir (Yingde)",
-    "oneLine": "La force des grandes feuilles du Guangdong — sombre et lumineux.",
+    "oneLine": "Thé noir de Yingde, bâti sur la force des grandes feuilles du Guangdong — malt, miel et fruits rouges dans une liqueur sombre qui reste vive avec du lait.",
     "oxidation": "environ 95%",
     "ratioNote": "3 g pour 200 ml ; 5 g pour 150 ml pour le thé au lait",
     "rounds": "3 infusions",
@@ -2148,7 +2148,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-rize": {
     "name": "Rize Cay",
-    "oneLine": "Thé fort dans un petit verre en tulipe — la tasse quotidienne de la mer Noire.",
+    "oneLine": "Le thé quotidien de la Turquie, de Rize sur la mer Noire — malt et pain cuit, infusés forts dans un petit verre tulipe de liqueur rouge profond.",
     "oxidation": "environ 95%",
     "ratioNote": "4 g pour 150 ml",
     "rounds": "2 infusions",
@@ -2164,7 +2164,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-cameron": {
     "name": "Thé noir (Cameron Highlands)",
-    "oneLine": "Thé fort et rond d'un domaine des hautes terres équatoriales.",
+    "oneLine": "Thé noir des Cameron Highlands de Malaisie, où un domaine cultive le thé depuis 1929 — malt et notes grillées dans une liqueur sombre, faite pour le lait.",
     "oxidation": "environ 95%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2180,7 +2180,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-rwanda": {
     "name": "Thé noir (Rwanda)",
-    "oneLine": "Thé noir lumineux et net des hautes terres d'Afrique de l'Est.",
+    "oneLine": "Thé noir rwandais cultivé lentement dans des collines brumeuses à 1 600 m — malt avec une pointe lumineuse dans une liqueur rouge profond, plus doux que le thé kényan.",
     "oxidation": "environ 95%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2196,7 +2196,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-dooars": {
     "name": "Thé noir (Dooars)",
-    "oneLine": "Le thé fort de plaine entre Darjeeling et Assam.",
+    "oneLine": "Le thé fort de plaine entre Darjeeling et Assam — malt et notes grillées avec une bonne prise, fait pour une tasse de petit-déjeuner au lait.",
     "oxidation": "environ 92%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2212,7 +2212,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-yeongdeok": {
     "name": "Thé noir (Yeongdeok)",
-    "oneLine": "Un petit thé noir coréen des collines de la côte est.",
+    "oneLine": "Thé noir coréen de petite ferme, des collines de la côte est de Yeongdeok, feuille d'été entièrement oxydée — malt, faible note florale et douceur moelleuse.",
     "oxidation": "environ 90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "3 infusions",
@@ -2228,7 +2228,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-fuzhuan": {
     "name": "Thé en brique Fu",
-    "oneLine": "Des « fleurs dorées » jaunes à l'intérieur de la brique — la marque du thé en brique Fu.",
+    "oneLine": "Le thé en brique où fleurissent à l'intérieur les « fleurs dorées » jaunes — champignon, terre et grain sur une douceur douce et ronde, plus lisse quand les fleurs abondent.",
     "oxidation": "post-fermenté",
     "ratioNote": "5 g pour 150 ml ; rincez une fois",
     "rounds": "8 infusions",
@@ -2244,7 +2244,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-qianliang": {
     "name": "Thé Qianliang",
-    "oneLine": "Une bûche de thé pressée dans du bambou, que l'on coupe au besoin.",
+    "oneLine": "Longue bûche de thé pressée dans du bambou, nommée d'après son ancien poids de mille liang — coupée et infusée, elle donne bambou, terre et douceur profonde, plus douce avec l'âge.",
     "oxidation": "post-fermenté",
     "ratioNote": "5 g pour 150 ml ; rincez une fois",
     "rounds": "8 infusions",
@@ -2260,7 +2260,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-kangzhuan": {
     "name": "Thé Kangzhuan",
-    "oneLine": "La brique pressée du Sichuan pour le Tibet — bouillie là-bas avec du beurre et du sel.",
+    "oneLine": "Brique durement pressée de Ya'an, jadis destinée au Tibet — terre et grain avec une douceur forte et légèrement rugueuse, que le beurre ou le lait adoucissent.",
     "oxidation": "post-fermenté",
     "ratioNote": "5 g pour 150 ml ; rincez une fois",
     "rounds": "7 infusions",
@@ -2276,7 +2276,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-tibetan": {
     "name": "Thé au beurre tibétain",
-    "oneLine": "Thé en brique corsé baratté avec du beurre et du sel — une journée tibétaine.",
+    "oneLine": "La boisson quotidienne du Tibet, thé en brique bouilli fort et baratté avec beurre et sel — richesse beurrée et pointe salée sur une terre sombre, réchauffante jusqu'au bout.",
     "oxidation": "post-fermenté",
     "ratioNote": "8 g pour 500 ml d'eau ; beurre et sel selon le goût",
     "rounds": "1 préparation, bue comme un concentré",
@@ -2292,7 +2292,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-laoqingzhuan": {
     "name": "Lao Qingzhuan",
-    "oneLine": "Le thé sombre pressé du Hubei qui voyageait autrefois vers la Mongolie et la Russie.",
+    "oneLine": "Thé en brique verte du Hubei, de Zhaoliqiao, jadis échangé vers la Mongolie et la Russie — ses briques vieillies donnent terre, grain et une douceur calme et douce.",
     "oxidation": "post-fermenté",
     "ratioNote": "5 g pour 150 ml ; rincez une fois",
     "rounds": "7 infusions",
@@ -2308,7 +2308,7 @@ window.TEAFaiDataFr = (function () {
   },
   "dark-tianjian": {
     "name": "Thé Tianjian",
-    "oneLine": "Thé sombre d'Anhua de premier grade, laissé en vrac — la forme de la feuille survit.",
+    "oneLine": "Thé sombre haut de gamme d'Anhua, laissé en vrac pour que la forme de la feuille survive — fumée et terre avec une douceur de datte, plus léger et plus frais que le thé pressé.",
     "oxidation": "post-fermenté",
     "ratioNote": "5 g pour 150 ml ; rincez une fois",
     "rounds": "8 infusions",
@@ -2324,7 +2324,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-rose": {
     "name": "Thé à la rose",
-    "oneLine": "Boutons de rose séchés sur du thé noir — plus profond que la fleur seule.",
+    "oneLine": "Bourgeons de rose séchés mélangés à du thé noir — parfum de rose et douceur miellée, avec le malt du thé fermement derrière.",
     "oxidation": "environ 85% (base de thé noir)",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "3 infusions",
@@ -2340,7 +2340,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-lychee": {
     "name": "Thé noir au litchi",
-    "oneLine": "Litchi posé sur du thé noir — la tasse fruitée du Guangdong.",
+    "oneLine": "Thé noir fruité du Guangdong, parfumé au litchi — le parfum doux du fruit sur le malt, encore net même versé sur glace.",
     "oxidation": "environ 90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "3 infusions",
@@ -2356,7 +2356,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-thaitea": {
     "name": "Cha Yen",
-    "oneLine": "Thé fort, lait concentré et glace — le verre orange de la Thaïlande.",
+    "oneLine": "La tasse orange des rues de Thaïlande, thé noir finement brisé infusé fort avec du lait concentré sucré sur glace — malt profond et douceur crémeuse.",
     "oxidation": "environ 95%",
     "ratioNote": "5 g pour 150 ml ; lait concentré et sucre selon le goût",
     "rounds": "1 préparation",
@@ -2372,7 +2372,7 @@ window.TEAFaiDataFr = (function () {
   },
   "blend-irish-breakfast": {
     "name": "Irish Breakfast",
-    "oneLine": "À dominante d'Assam — le plus fort des mélanges pour petit-déjeuner.",
+    "oneLine": "Le plus fort des mélanges de petit-déjeuner, pondéré vers l'Assam — malt et couleur profonds qui deviennent crémeux dès que le lait entre.",
     "oxidation": "environ 95%",
     "ratioNote": "4 g pour 200 ml",
     "rounds": "3 infusions",
@@ -2388,7 +2388,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-chuanhong": {
     "name": "Chuanhong",
-    "oneLine": "Le thé noir gongfu du Sichuan, de Yibin — arôme de rose, corps plein, douceur qui suit.",
+    "oneLine": "Le thé noir gongfu du Sichuan, venu de Yibin, qui se tient aux côtés du Keemun et du Dianhong, avec pour fleuron son Jinya tout en bourgeons — arôme de rose et corps ample, puis une douceur roulante.",
     "oxidation": "90%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "1 à 2 infusions",
@@ -2420,7 +2420,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-jiuqu": {
     "name": "Jiuqu Hongmei",
-    "oneLine": "Le thé noir de Hangzhou — une douceur de cacao issue de la même famille de feuilles que le Longjing.",
+    "oneLine": "L'autre visage de Hangzhou — des feuilles de la famille du Longjing transformées en thé noir, nommé d'après sa forme de prune rouge — note de cacao, douceur de fruits séchés et fleurs douces.",
     "oxidation": "Environ 85%",
     "ratioNote": "3 g pour 150 ml",
     "rounds": "1 à 2 infusions",
@@ -2436,7 +2436,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-mizhuan": {
     "name": "Mizhuan",
-    "oneLine": "Poussière de thé noir du Hubei pressée en brique — un thé quotidien à garder des années.",
+    "oneLine": "De la poussière de thé noir du Hubei, étuvée et pressée en brique pour se garder des années — malt fort et saveur terreuse qui accepte aussi bien le lait que le sel.",
     "oxidation": "95%",
     "ratioNote": "5 g (détachés de la brique) pour 300 ml",
     "rounds": "1 à 2 infusions",
@@ -2452,7 +2452,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-hongyun": {
     "name": "Hong Yun",
-    "oneLine": "Le TTES n°21 du lac Sun Moon — pomelo et fleurs, un thé noir aigre-doux.",
+    "oneLine": "Un thé noir du lac Soleil-Lune issu du Hong Yun (TTES n°21), croisement d'assamica et de Keemun — pomelo et fleurs dans une ligne fruitée douce-acide, distincte du Hong Yu.",
     "oxidation": "95%",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2468,7 +2468,7 @@ window.TEAFaiDataFr = (function () {
   },
   "black-ziya": {
     "name": "Ziya Shancha",
-    "oneLine": "Thé noir issu des bourgeons violets du théier de montagne indigène de Taïwan — le visage plus rare du lac Sun Moon.",
+    "oneLine": "Un thé noir prisé du lac Soleil-Lune, à la production réduite, issu des bourgeons violets du théier de montagne indigène de Taïwan — miel sauvage, herbes et fruits séchés, brut et long.",
     "oxidation": "Environ 90%",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "3 infusions",
@@ -2484,7 +2484,7 @@ window.TEAFaiDataFr = (function () {
   },
   "fruit-daechu": {
     "name": "Thé de jujube",
-    "oneLine": "Jujubes séchés mijotés bien sucrés — une tasse chaude d'hiver.",
+    "oneLine": "Thé coréen d'hiver aux jujubes séchés mijotés, célèbre à Gyeongsan et Boeun — douceur de jujube, légère note grillée et corps doux.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "5 à 6 dattes ou 2 cuillères de cheong pour 200 ml",
     "rounds": "Une infusion (le cheong peut être rallongé)",
@@ -2496,7 +2496,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-ginger": {
     "name": "Thé au gingembre",
-    "oneLine": "Gingembre confit au miel — une tasse qui réchauffe de part en part.",
+    "oneLine": "Conserve traditionnelle de gingembre finement tranché au miel, de Corée et de Chine — une chaleur poivrée nette, enveloppée de douceur de miel.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 cuillères de cheong pour 200 ml",
     "rounds": "Une infusion",
@@ -2508,7 +2508,7 @@ window.TEAFaiDataFr = (function () {
   },
   "fruit-yuja": {
     "name": "Thé au yuzu",
-    "oneLine": "Yuzu confit au miel — une tasse d'hiver parfumée.",
+    "oneLine": "Thé d'hiver au yuzu de fin d'automne de Goheung et Wando, conservé au miel avec son zeste — arôme d'écorce d'agrume et acidité nette.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 cuillères de cheong pour 200 ml",
     "rounds": "Une infusion",
@@ -2520,7 +2520,7 @@ window.TEAFaiDataFr = (function () {
   },
   "fruit-omija": {
     "name": "Thé de schisandra",
-    "oneLine": "Une baie rouge censée réunir cinq saveurs — une tasse d'été.",
+    "oneLine": "Thé de schisandra, des baies rouges de septembre de Mungyeong et Jeongseon — acide, doux, amer, salé et piquant se superposent dans une seule tasse.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 cuillères de cheong pour 200 ml ; l'eau froide convient aussi",
     "rounds": "Une infusion",
@@ -2532,7 +2532,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-ssanghwa": {
     "name": "Thé ssanghwa",
-    "oneLine": "Neuf plantes médicinales en décoction — une tasse pour la fatigue.",
+    "oneLine": "Décoction coréenne traditionnelle de neuf plantes, de la pivoine et du rehmannia à l'astragale et à l'angélique — profonde, lourde, amère et douce à la fois.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "Un sachet de 200 ml, tel quel",
     "rounds": "Une infusion",
@@ -2544,7 +2544,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-dunggulle": {
     "name": "Thé de sceau de Salomon",
-    "oneLine": "Racine de sceau de Salomon torréfiée — la tasse aux notes de noisette qui remplace le café.",
+    "oneLine": "Racine de sceau de Salomon torréfiée, déterrée en automne et séchée — un côté noisette de grain grillé et une douceur légère, à la place du café.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2556,7 +2556,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-buckwheat": {
     "name": "Thé de sarrasin",
-    "oneLine": "Sarrasin torréfié à la longue douceur.",
+    "oneLine": "Thé de grains aux gruaux de sarrasin torréfiés, de Corée et du Japon — noisette grillée, faible amertume du sarrasin et longue douceur.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2568,7 +2568,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-barley": {
     "name": "Thé d'orge",
-    "oneLine": "Orge torréfiée bouillie — le thé que les Coréens boivent comme de l'eau.",
+    "oneLine": "Le thé quotidien de la Corée, orge torréfiée non décortiquée, bouillie et bue comme de l'eau — arôme de grain grillé et finale nette, toute la journée.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "20 g d'orge torréfiée pour 1 L",
     "rounds": "Une ébullition, bue tout au long de la journée",
@@ -2580,7 +2580,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-brownrice": {
     "name": "Thé de riz complet",
-    "oneLine": "Riz complet torréfié bouilli — du riz devenu thé.",
+    "oneLine": "Riz complet avec son son, torréfié et bouilli — le riz devenu thé, avec un arôme de riz grillé et une douceur qui s'approfondit à mesure qu'il mijote.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "20 g de riz torréfié pour 1 L",
     "rounds": "Une infusion",
@@ -2592,7 +2592,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-persimmon": {
     "name": "Thé de feuille de kaki",
-    "oneLine": "Feuille de kaki séchée, riche en vitamine C.",
+    "oneLine": "Thé coréen de feuilles de kaki du début de l'été, étuvées ou séchées — herbe légère et douceur, avec peu d'astringence.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2604,7 +2604,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mulberry": {
     "name": "Thé de feuille de mûrier",
-    "oneLine": "Feuille de mûrier séchée et torréfiée, à la douceur souple.",
+    "oneLine": "Thé de feuilles de mûrier de fin de printemps, séchées et torréfiées en Corée et en Chine — noisette de feuille grillée et douceur légère et douce.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2616,7 +2616,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-lotus": {
     "name": "Thé de feuille de lotus",
-    "oneLine": "Feuille de lotus séchée — une tasse verte d'été.",
+    "oneLine": "Thé parfumé de feuilles de lotus d'été séchées — arôme vert et faible amertume, avec une finale fraîche et nette.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2628,7 +2628,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-balloonflower": {
     "name": "Thé de racine de platycodon",
-    "oneLine": "Racine de platycodon séchée en décoction — un thé de racine traditionnellement recherché quand la gorge est râpeuse.",
+    "oneLine": "Thé traditionnel de racine de platycodon d'automne séchée, en décoction — amertume légère, douceur et l'arôme profond propre à la racine.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2640,7 +2640,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mugwort": {
     "name": "Thé d'armoise",
-    "oneLine": "Armoise de printemps séchée — la tasse du début du printemps.",
+    "oneLine": "La tasse du printemps : jeune armoise de mars-avril, séchée et infusée — arôme vert et faible amertume, parfumée quand on la boit chaude.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2652,7 +2652,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-tteokcha": {
     "name": "Tteokcha",
-    "oneLine": "Feuilles étuvées pressées en galettes — un thé qui se garde des années.",
+    "oneLine": "Galette de thé coréenne traditionnelle, feuille étuvée pilée et pressée — gardée des années, brisée et mijotée, pour herbes profondes, dattes et terre.",
     "oxidation": "Légère post-fermentation",
     "ratioNote": "Un morceau (5 g) pour 300 ml",
     "rounds": "3 infusions ou plus",
@@ -2664,7 +2664,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-chamomile": {
     "name": "Camomille",
-    "oneLine": "Pomme et miel dans une fleur — une tasse avant le sommeil.",
+    "oneLine": "Infusion de camomille séchée d'Égypte, d'Allemagne et d'ailleurs — pomme, miel et foin, douce et légèrement sucrée.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g (une cuillère à café de fleurs) pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2676,7 +2676,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-peppermint": {
     "name": "Menthe poivrée",
-    "oneLine": "Menthe fraîche en tisane — pour après le repas.",
+    "oneLine": "Infusion de feuille de menthe séchée d'Europe et d'Amérique — fraîcheur de menthol, sans astringence.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2688,7 +2688,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-hibiscus": {
     "name": "Hibiscus",
-    "oneLine": "L'acidité du calice rouge — le meilleur thé à boire glacé.",
+    "oneLine": "Thé rouge aux calices séchés de roselle — acidité acidulée de baies et liqueur rouge profond, qui brillent le plus servis froids.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 à 2 infusions",
@@ -2700,7 +2700,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-rooibos": {
     "name": "Rooibos",
-    "oneLine": "Le thé du buisson rouge d'Afrique du Sud — sans caféine, et il accepte le lait.",
+    "oneLine": "Le buisson rouge d'Afrique du Sud, du Cederberg, dont les feuilles en aiguilles sont fermentées — douceur de vanille, figue et miel, qui accepte aussi le lait.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2712,7 +2712,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mate": {
     "name": "Yerba maté",
-    "oneLine": "La feuille caféinée d'Amérique du Sud — bue dans une calebasse avec une paille en métal.",
+    "oneLine": "Le maté d'Amérique du Sud, partagé dans une calebasse à la paille métallique — herbe, foin et légère fumée, avec une finale amère.",
     "oxidation": "Aucune · contient de la caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 à 3 infusions",
@@ -2724,7 +2724,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-lavender": {
     "name": "Lavande",
-    "oneLine": "La fleur violette de Provence — si parfumée qu'un peu suffit.",
+    "oneLine": "Infusion de lavande violette de Provence, séchée — si parfumée de lavande, de miel et d'agrumes légers qu'un peu suffit.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "1 g pour 200 ml",
     "rounds": "Une infusion",
@@ -2736,7 +2736,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-lemongrass": {
     "name": "Citronnelle",
-    "oneLine": "Une herbe au parfum de citron — l'Asie du Sud-Est dans une tasse.",
+    "oneLine": "Infusion aux tiges et feuilles séchées de citronnelle de Thaïlande et du Vietnam — citron et agrumes sur un soupçon de gingembre, rafraîchissante.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2748,7 +2748,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-chrysanthemum": {
     "name": "Thé de chrysanthème",
-    "oneLine": "Chrysanthème d'automne séché — un thé de fleurs parfumé.",
+    "oneLine": "Infusion d'automne aux chrysanthèmes jaunes de Hangzhou, Huangshan et Corée — une note herbacée fraîche avec une douceur légère.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 g (3 à 4 fleurs) pour 200 ml",
     "rounds": "2 infusions",
@@ -2760,7 +2760,7 @@ window.TEAFaiDataFr = (function () {
   },
   "fruit-mogwa": {
     "name": "Thé de coing",
-    "oneLine": "Coing confit au miel — une tasse d'hiver pour la gorge qui gratte.",
+    "oneLine": "Le coing, jadis dit « parfum porté par un arbre », conservé au miel avec ses graines — douceur florale douce, conclue par une faible astringence.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "2 cuillères de cheong pour 200 ml",
     "rounds": "Une infusion",
@@ -2774,7 +2774,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cassia-seed": {
     "name": "Thé de graines de cassia",
-    "oneLine": "Douceur de graine torréfiée — une tasse du soir sans caféine.",
+    "oneLine": "Tasse du soir sans caféine, aux graines de cassia torréfiées — côté grillé de grain torréfié et faible amertume, close par un peu de douceur.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2790,7 +2790,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-burdock": {
     "name": "Thé de bardane",
-    "oneLine": "Racine de bardane torréfiée — douce, terreuse, sans caféine.",
+    "oneLine": "Thé sans caféine de racine de bardane, tranchée, séchée et torréfiée — terre grillée et douceur discrète, avec une finale légèrement amère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2806,7 +2806,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-gugija": {
     "name": "Thé de baies de goji",
-    "oneLine": "Baies de goji séchées — douceur pâle, tasse jaune.",
+    "oneLine": "Baies de goji séchées de sources réputées comme Cheongyang et Ningxia, infusées telles quelles — douceur légère et arôme de fruits secs dans une liqueur jaune pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2822,7 +2822,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cornus": {
     "name": "Thé de fruit de cornouiller",
-    "oneLine": "Fruit rouge vif — le plus souvent adouci au miel.",
+    "oneLine": "Thé aux fruits rouges séchés de cornouiller, de Gurye et Sancheong — forte acidité et un peu d'amertume dans une liqueur rouge, adoucie par le miel.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2838,7 +2838,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-dandelion": {
     "name": "Thé de pissenlit",
-    "oneLine": "L'amertume du pissenlit de printemps — et une racine torréfiée aux notes de noisette.",
+    "oneLine": "Pissenlit cueilli au printemps, feuille et racine séchées pour la tasse — la feuille amère et herbacée, la racine torréfiée grillée avec une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2854,7 +2854,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cornsilk": {
     "name": "Thé de barbe de maïs",
-    "oneLine": "Le réconfort de l'eau de cuisson du maïs — une tasse d'été.",
+    "oneLine": "Tasse d'été de barbe de maïs, séchée et torréfiée — grain grillé comme l'eau de cuisson du maïs, douceur légère et finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2870,7 +2870,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-eggplant": {
     "name": "Thé d'aubergine",
-    "oneLine": "Aubergine séchée et torréfiée en infusion — grillée et douce.",
+    "oneLine": "Un thé végétal populaire fait d'aubergines d'été tranchées finement, séchées et torréfiées pour se conserver — arôme torréfié toasté et goût doux à la finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2886,7 +2886,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-licorice": {
     "name": "Thé de racine de réglisse",
-    "oneLine": "Racine de réglisse en décoction — douce sans aucun sucre.",
+    "oneLine": "La racine de réglisse, pilier des prescriptions herbales, décoctée à la maison — nettement sucrée sans sucre, sa douceur naturelle et sa légère terre se finissant en douceur.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 décoction",
@@ -2902,7 +2902,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-hazel": {
     "name": "Thé de noisette",
-    "oneLine": "Noisettes coréennes torréfiées en infusion — chaudement noisetées.",
+    "oneLine": "Un thé populaire fait de noisettes coréennes cueillies dans la nature, conservées et torréfiées pour la tasse — arôme de noix toastée et douceur délicate dans un corps souple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2918,7 +2918,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cinnamon-twig": {
     "name": "Thé de rameaux de cannelle",
-    "oneLine": "Jeunes rameaux de cannelle en décoction — une tasse de cannelle plus légère.",
+    "oneLine": "De jeunes rameaux de cannelle en décoction — une tasse plus légère que l'écorce, avec un arôme doux de cannelle, une douceur délicate et une sensation réchauffante.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 décoction",
@@ -2934,7 +2934,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cinnamon": {
     "name": "Thé de cannelle",
-    "oneLine": "Écorce de cannelle infusée — épicée, douce et réchauffante.",
+    "oneLine": "L'écorce de cannelle familière du sujeonggwa, décoctée seule — un arôme épicé et sucré dans un corps chaud et assez ample.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2950,7 +2950,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sophora": {
     "name": "Thé de racine de sophora",
-    "oneLine": "Racine de sophora en décoction — une tisane amère sans excuses.",
+    "oneLine": "La racine de sophora, longtemps utilisée en médecine herbale et décoctée en petites quantités — une tasse franchement amère, aux notes terreuses et à la finale sèche.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 300 ml",
     "rounds": "1 décoction",
@@ -2966,7 +2966,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-agastache": {
     "name": "Thé de menthe coréenne",
-    "oneLine": "Feuilles séchées de menthe coréenne — une tisane vivement aromatique.",
+    "oneLine": "Une herbe coréenne indigène dont les feuilles sentent entre le périlla et la menthe, séchées et infusées — arôme vif, douceur légère et finale rafraîchissante.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2982,7 +2982,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-tangerine-peel": {
     "name": "Thé d'écorce de mandarine",
-    "oneLine": "Écorce de mandarine séchée et torréfiée — vive et citronnée.",
+    "oneLine": "Un thé populaire fait d'écorces de mandarines d'hiver conservées, séchées et torréfiées — arôme vif d'agrumes et douceur légère dans une finale nette et légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -2998,7 +2998,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-tangerine-blossom": {
     "name": "Thé de fleur de mandarinier",
-    "oneLine": "Fleurs de mandarinier séchées — une tasse florale vive.",
+    "oneLine": "Des fleurs de mandarinier printanières, assez rares pour n'être séchées qu'en petits lots — un écho floral lumineux du fruit, avec une douceur légère et une liqueur limpide.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3014,7 +3014,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-platycodon": {
     "name": "Thé de racine de platycodon",
-    "oneLine": "Racine de platycodon (gilgyeong) en décoction — douce-amère et terreuse.",
+    "oneLine": "La racine de platycodon sous son nom médicinal gilgyeong, en décoction — la même racine que le thé de doraji, avec un arôme de racine doux-amer et une finale sèche.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 décoction",
@@ -3030,7 +3030,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-selfheal": {
     "name": "Thé de brunelle",
-    "oneLine": "Épis floraux séchés de brunelle — un thé de fleur de prairie tout simple.",
+    "oneLine": "Un thé populaire des prairies, fait d'épis floraux de brunelle, plante commune des champs d'été séchée pour se conserver — arôme vert et floral simple, douceur légère, finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3046,7 +3046,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-shepherdspurse": {
     "name": "Thé de bourse-à-pasteur",
-    "oneLine": "Bourse-à-pasteur séchée — un thé vert de printemps terreux.",
+    "oneLine": "Un thé populaire de printemps, fait de la bourse-à-pasteur restée de la marmite de namul, séchée et conservée — ses feuilles et racines donnent un arôme vert, une douceur légère et une finale simple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3062,7 +3062,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-naengcha": {
     "name": "Thé herbal froid",
-    "oneLine": "Tisane bouillie, refroidie et servie froide — la façon d'été.",
+    "oneLine": "La manière coréenne de boire en été — des thés de grains et d'herbes bouillis, refroidis et gardés froids comme de l'eau, leur goût toasté paraissant plus net bien frais.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 500 ml",
     "rounds": "1 lot, servi glacé",
@@ -3078,7 +3078,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-aged-cucumber": {
     "name": "Thé de concombre mûr",
-    "oneLine": "Concombre mûr séché et torréfié — un thé d'été simple.",
+    "oneLine": "Un thé populaire qui conservait les derniers concombres d'été mûris jusqu'au jaune — le nogak tranché, séché et torréfié donne un toasté simple, avec une douceur légère et nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3094,7 +3094,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mungbean": {
     "name": "Thé de haricot mungo",
-    "oneLine": "Haricots mungo torréfiés bouillis — un thé de grain simple et grillé.",
+    "oneLine": "Né de l'eau de cuisson des haricots mungo que l'on buvait — torréfiés et bouillis, les haricots donnent un arôme toasté, une douceur légère et une finale simple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 500 ml",
     "rounds": "1 ébullition",
@@ -3110,7 +3110,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-kelp": {
     "name": "Thé de kelp",
-    "oneLine": "Kelp infusé — un thé de mer doux et savoureux.",
+    "oneLine": "Le kelp de bouillon lui-même, simplement infusé et bu — le kelp séché s'ouvre sur un umami doux, un arôme de brise marine et une pointe de sel.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3126,7 +3126,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-angelica": {
     "name": "Thé de racine d'angélique",
-    "oneLine": "Racine d'angélique en décoction — une tasse herbale profonde.",
+    "oneLine": "L'angélique, longtemps utilisée en médecine herbale, décoctée à la maison avec du jujube — la racine séchée donne un arôme herbal profond, une douceur délicate et un corps chaud.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 décoction",
@@ -3142,7 +3142,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-carrot": {
     "name": "Thé de carotte",
-    "oneLine": "Carotte séchée et torréfiée — un thé de légume doucement sucré.",
+    "oneLine": "L'une des manières populaires de transformer les légumes séchés en thé — la carotte tranchée, séchée et torréfiée laisse une douceur délicate et une légère terre, nette en finale.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3158,7 +3158,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-bamboo": {
     "name": "Thé de feuille de bambou",
-    "oneLine": "Feuilles de bambou séchées — un thé de feuille simple et rafraîchissant.",
+    "oneLine": "Le thé jukyeop, bu en pays de bambou comme Damyang où l'on sèche les feuilles — arôme vert simple, douceur légère et finale rafraîchissante.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3174,7 +3174,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-green-onion": {
     "name": "Thé de ciboule",
-    "oneLine": "Blancs et racines de ciboule coréenne en décoction — un thé populaire réchauffant.",
+    "oneLine": "Une décoction maison préparée de longue date quand un coup de froid arrivait — le blanc et les racines de ciboule donnent un doux arôme d'oignon, une douceur légère et une finale réchauffante.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 300 ml",
     "rounds": "1 décoction",
@@ -3190,7 +3190,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-deodeok": {
     "name": "Thé de racine de deodeok",
-    "oneLine": "Racine de deodeok en décoction — douce-amère et grillée.",
+    "oneLine": "La racine de deodeok de montagne, séchée et conservée pour la décoction — un arôme doux-amer proche de la racine de platycodon, en couches avec une douceur toastée et un corps chaud.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 décoction",
@@ -3206,7 +3206,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-peachblossom": {
     "name": "Thé de fleur de pêcher",
-    "oneLine": "Fleurs de pêcher séchées infusées rose pâle — un thé de fleurs de printemps.",
+    "oneLine": "Des fleurs de pêcher printanières séchées pour être bues toute l'année — les fleurs séchées à l'ombre s'épanouissent en un parfum floral doux, une douceur légère et une liqueur rose pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3222,7 +3222,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-camellia": {
     "name": "Thé de fleur de camélia",
-    "oneLine": "Fleurs de camélia d'hiver, séchées et infusées.",
+    "oneLine": "Des camélias d'hiver de Jeju et de la côte sud, séchés pour le thé — les fleurs séchées à l'ombre donnent un parfum floral doux, une douceur légère et une liqueur jaune pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3238,7 +3238,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-waxgourd": {
     "name": "Thé de courge cireuse",
-    "oneLine": "Courge cireuse macérée dans le miel ou le sucre puis mijotée — un thé traditionnel riche et doux.",
+    "oneLine": "Un thé d'été traditionnel, fait de courge cireuse macérée dans le miel ou le sucre puis mijotée — douceur profonde et parfum doux du melon dans une liqueur brun clair.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "20 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3254,7 +3254,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-jerusalemartichoke": {
     "name": "Thé de topinambour",
-    "oneLine": "Topinambour torréfié — grillé, légèrement doux.",
+    "oneLine": "Un thé de tubercule d'automne, d'autant plus toasté qu'on le torréfie fort, facile à boire comme de l'eau — tranché, séché et torréfié, il laisse un parfum toasté, une douceur légère et une finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3270,7 +3270,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-eucommia": {
     "name": "Thé d'écorce d'eucommia",
-    "oneLine": "Écorce d'eucommia mijotée — lourde et au bord amer.",
+    "oneLine": "Le thé de l'eucommia, dont l'écorce pelée s'étire en fils caoutchouteux — coupée et mijotée, elle a un goût au bord amer et pesant, avec un discret parfum boisé.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3286,7 +3286,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-duhyang": {
     "name": "Thé de duhyang",
-    "oneLine": "Feuilles de duhyang fortement parfumées, séchées et infusées.",
+    "oneLine": "Un thé d'herbe de montagne si parfumé qu'un peu suffit — les feuilles de duhyang séchées à l'ombre répandent un parfum vert dense, avec une finale au bord amer.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3302,7 +3302,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-perilla": {
     "name": "Thé de graines de périlla",
-    "oneLine": "Graines de périlla torréfiées, moulues et bouillies — profondément noisetées.",
+    "oneLine": "Des graines de périlla d'automne torréfiées, moulues et bouillies — les graines torréfiées infusent un parfum profond de noix, proche du sésame, souple et ample en bouche.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "1 infusion",
@@ -3318,7 +3318,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-strawberry": {
     "name": "Thé de fraise",
-    "oneLine": "Fraises séchées infusées douces-acidulées.",
+    "oneLine": "Des fraises de saison séchées pour en profiter toute l'année — tranchées finement et séchées, elles s'ouvrent sur un parfum doux-acide et une liqueur rose pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3334,7 +3334,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-peanut": {
     "name": "Thé de cacahuète",
-    "oneLine": "Cacahuètes torréfiées bouillies — noiseté et nourrissant.",
+    "oneLine": "Assez riche et noiseté pour tenir lieu de petit-déjeuner — les cacahuètes d'automne torréfiées, moulues et bouillies remplissent la tasse d'un parfum de noix, souple et ample.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "1 infusion",
@@ -3350,7 +3350,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-lemon": {
     "name": "Thé au citron",
-    "oneLine": "Cheong de citron mélangé dans l'eau chaude — vif et doux.",
+    "oneLine": "Un thé de maison et de café, fait de cheong de citron remué dans l'eau — les citrons macérés dans le sucre donnent un parfum vif de citron et de la douceur dans une liqueur jaune pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "20 g de cheong pour 200 ml",
     "rounds": "1 infusion",
@@ -3366,7 +3366,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-garlic": {
     "name": "Thé à l'ail",
-    "oneLine": "Ail torréfié mijoté — le piquant adouci.",
+    "oneLine": "L'ail transformé par la torréfaction, son piquant s'effaçant à mesure que la douceur monte — torréfié et mijoté, il met en avant une douceur grillée et adoucit le bord cru.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3382,7 +3382,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-watercaltrop": {
     "name": "Thé de mâcre",
-    "oneLine": "Fruit de mâcre séché mijoté — doux et simple.",
+    "oneLine": "Un thé traditionnel fait de mâcres poussant dans les étangs, récoltées en automne et séchées — mijoté, le fruit donne une douceur simple et douce, avec une finale souple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3398,7 +3398,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-maesil": {
     "name": "Thé de prune verte",
-    "oneLine": "Cheong de maesil mélangé dans l'eau — doux-acidulé, un classique coréen.",
+    "oneLine": "Un classique coréen, fait de cheong de prunes vertes du début de l'été remué dans l'eau — une première note acidulée court vers une finale sucrée, dans une liqueur dorée pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "20 g de cheong pour 200 ml",
     "rounds": "1 infusion",
@@ -3414,7 +3414,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-plumblossom": {
     "name": "Thé de fleur de prunier",
-    "oneLine": "Fleurs de prunier du début du printemps séchées — un thé de fleurs au parfum clair.",
+    "oneLine": "La fleur de prunier, brève au début du printemps et prisée pour son parfum limpide — les bourgeons séchés à l'ombre s'ouvrent sur un arôme floral discret et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3430,7 +3430,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-butterbur": {
     "name": "Thé de pétasite",
-    "oneLine": "Feuilles de pétasite séchées et poêlées — au bord amer et grillées.",
+    "oneLine": "Le pétasite de printemps séché pour toute l'année — les feuilles séchées et torréfiées à la poêle répandent un parfum vert amer, avec une finale toastée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3446,7 +3446,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-magnolia": {
     "name": "Thé de magnolia",
-    "oneLine": "Boutons de magnolia séchés — un thé de fleurs au parfum clair et frais.",
+    "oneLine": "Les bourgeons de magnolia, appelés sini et utilisés depuis des siècles — cueillis avant l'ouverture et séchés à l'ombre, ils donnent un parfum floral limpide et frais et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3462,7 +3462,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-costus": {
     "name": "Thé de racine de costus",
-    "oneLine": "Racine de costus mijotée — au parfum profond et au bord amer.",
+    "oneLine": "Le costus, une herbe puissante dont le parfum va loin en petites quantités — la racine, coupée menu et mijotée, donne un arôme boisé profond et un bord amer.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3478,7 +3478,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-radishleaf": {
     "name": "Thé de feuille de radis",
-    "oneLine": "Feuilles de radis séchées — grillées et simples.",
+    "oneLine": "La feuille de radis siraegi, séchée pour le thé comme pour la marmite — les feuilles séchées infusent un parfum vert toasté et un goût simple et doux.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3494,7 +3494,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-bangpung": {
     "name": "Thé de bangpung",
-    "oneLine": "Racine de bangpung mijotée — une tisane tranquille et terreuse.",
+    "oneLine": "Le thé de racine de bangpung, d'une plante dont on mange les feuilles en légume vert — coupée et mijotée, elle donne un discret parfum terreux, une douceur légère et une finale souple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3510,7 +3510,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mushroom": {
     "name": "Thé aux champignons",
-    "oneLine": "Des champignons séchés mijotés — une tasse savoureuse et umami.",
+    "oneLine": "Des champignons séchés, dont l'umami s'approfondit jusqu'à ce que la tasse se boive presque comme un léger bouillon — shiitakés mijotés et apparentés donnent une saveur profonde et un discret parfum de champignon.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3526,7 +3526,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cherryblossom": {
     "name": "Thé aux fleurs de cerisier",
-    "oneLine": "Fleurs de cerisier séchées ou confites au sel — le printemps dans une tasse.",
+    "oneLine": "Un thé de fleurs printanières où la fleur qui s'ouvre sur l'eau fait la moitié du plaisir — séchée ou confite au sel, elle donne un parfum floral doux et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3542,7 +3542,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-poria": {
     "name": "Thé au poria",
-    "oneLine": "Poria mijoté — simple, doux et presque sans parfum.",
+    "oneLine": "Le poria, venu d'auprès des racines de pin, si simple qu'il se mélange facilement à d'autres herbes — coupé et mijoté, il a un goût doux et souple, presque sans parfum propre.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 300 ml",
     "rounds": "1 infusion",
@@ -3558,7 +3558,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-peach": {
     "name": "Thé à la pêche",
-    "oneLine": "Des tranches de pêche séchées infusées, douces et fruitées.",
+    "oneLine": "Des pêches d'été séchées pour être bues toute l'année — plus douces en arôme que le fruit frais, leur douceur et leur léger bord acidulé sont tenus dans une liqueur dorée pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3574,7 +3574,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-beet": {
     "name": "Thé à la betterave",
-    "oneLine": "Tranches de betterave séchées — terreux, sucré, rouge profond.",
+    "oneLine": "Un thé végétal rouge qui s'est répandu comme infusion maison lorsque la betterave a été largement cultivée en Corée — tranchée finement et séchée, elle donne une douceur terreuse et une liqueur rouge rubis.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3590,7 +3590,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-loquat": {
     "name": "Thé aux feuilles de néflier",
-    "oneLine": "Feuilles de néflier séchées — doux, lisse, discret.",
+    "oneLine": "Un thé de feuilles de la côte sud, dont l'étape clé est de retirer le duvet au dos de la feuille — les épaisses feuilles séchées de néflier donnent des notes herbales discrètes, une douceur légère et une liqueur limpide.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3606,7 +3606,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-apple": {
     "name": "Thé à la pomme",
-    "oneLine": "Tranches de pomme séchées — sucré, acidulé, parfumé.",
+    "oneLine": "Des pommes d'automne séchées et conservées pour les boissons d'hiver — tranchées finement avec la peau, elles donnent un fruit doux-acide et un arôme doux dans une liqueur dorée pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3622,7 +3622,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-yam": {
     "name": "Thé à l'igname de Chine",
-    "oneLine": "Tranches d'igname séchées en décoction — doux et lisse.",
+    "oneLine": "L'igname de Chine, longtemps à la fois aliment et matière herbale — et non du matcha — tranchée, séchée et décoctée pour un discret arôme de racine et une légère douceur d'amidon.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3638,7 +3638,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mulberry-twig": {
     "name": "Thé aux rameaux de mûrier",
-    "oneLine": "Jeunes rameaux de mûrier en décoction — discrets et boisés.",
+    "oneLine": "Chaque partie du mûrier avait son nom et son usage, et le rameau sangji en était un — une partie différente de la feuille, coupée, séchée et décoctée pour un doux arôme boisé et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3654,7 +3654,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cuscuta": {
     "name": "Thé aux graines de cuscute",
-    "oneLine": "Graines de cuscute en décoction — goût de noisette et douceur.",
+    "oneLine": "Les graines de cuscute, la liane qui s'enroule autour d'autres plantes, longtemps consignée sous le nom de tosaja — petites et dures, elles conviennent à la décoction, donnant un arôme de graine noisetée et un goût doux et simple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3670,7 +3670,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pomegranate": {
     "name": "Thé à la grenade",
-    "oneLine": "Grenade séchée — douce-acidulée et rouge rubis.",
+    "oneLine": "Le fruit et l'écorce de la grenade, arbre familier des jardins du sud, séchés pour le thé — infusée, sa saveur douce-acide se déploie dans une liqueur rouge rubis.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3686,7 +3686,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-seolcha": {
     "name": "Seolcha (thé des neiges)",
-    "oneLine": "Lichen de montagne séché — pâle, délicat, discret.",
+    "oneLine": "Le seolcha, nommé d'après sa pousse pâle comme la neige et cueilli seulement en petites quantités là où l'air est pur — l'usnée de haute montagne séchée donne des notes herbales très légères et une liqueur presque limpide.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3702,7 +3702,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sotae": {
     "name": "Thé de sotae",
-    "oneLine": "Célèbre pour son amertume — le thé derrière l'expression « amer comme le sotae ».",
+    "oneLine": "Le thé populaire derrière le dicton « amer comme le sotae » — fruits et feuilles séchés donnent une forte amertume avec une légère queue sucrée, dans une liqueur brun foncé.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3718,7 +3718,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sokdan": {
     "name": "Thé de sokdan",
-    "oneLine": "Racine de sokdan en décoction — terreuse avec une légère douceur.",
+    "oneLine": "Une décoction populaire de racine de sokdan, longtemps consignée dans les textes herbaux — tranchée, séchée et mijotée, elle donne un arôme terreux de racine, une douceur légère et une queue légèrement amère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3734,7 +3734,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pineneedle": {
     "name": "Thé aux aiguilles de pin",
-    "oneLine": "Jeunes aiguilles de pin — vives, résineuses, rafraîchissantes.",
+    "oneLine": "Le thé aux aiguilles de pin, où extraire la résine fait ou défait le goût — les jeunes aiguilles préparées et séchées donnent un arôme frais de pin et un goût net dans une liqueur dorée pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3750,7 +3750,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pinepollen": {
     "name": "Thé au pollen de pin",
-    "oneLine": "Pollen de pin fouetté dans l'eau chaude — doux et doré.",
+    "oneLine": "Le pollen de pin récolté seulement au printemps, autrefois utilisé aussi bien dans les douceurs que dans les boissons au miel — remué dans l'eau plutôt qu'infusé, il donne un doux arôme de pin, une douceur souple et une liqueur jaune.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "1 infusion",
@@ -3766,7 +3766,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-watermelon": {
     "name": "Thé à l'écorce de pastèque",
-    "oneLine": "Écorce de pastèque séchée — nette, légèrement sucrée, une tasse d'été.",
+    "oneLine": "Un thé d'été né de l'usage du melon entier, bu le plus souvent froid — l'écorce blanche séchée donne une douceur nette et très légère et une liqueur presque limpide.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3782,7 +3782,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sorghum": {
     "name": "Thé au sorgho",
-    "oneLine": "Grains de sorgho torréfiés — goût grillé comme le thé d'orge.",
+    "oneLine": "Le sorgho, un grain qui servait aux gâteaux de riz, à la nourriture et à la boisson, torréfié et infusé — les grains donnent un toasté proche du thé d'orge et une douceur légère dans une liqueur brun rougeâtre.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3798,7 +3798,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-bupleurum": {
     "name": "Thé à la racine de buplèvre",
-    "oneLine": "Racine de buplèvre en décoction — terreuse et amère.",
+    "oneLine": "Une décoction populaire de racine de buplèvre, longtemps consignée dans les textes herbaux — tranchée, séchée et mijotée, elle répand un arôme terreux de racine, avec une amertume nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3814,7 +3814,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mallow": {
     "name": "Thé à la mauve",
-    "oneLine": "Feuilles de mauve séchées — lisse, délicat, doux.",
+    "oneLine": "La mauve, légume familier des soupes, devenue thé — les jeunes feuilles de chaque potager, séchées et infusées, donnent des notes herbales douces, une douceur légère et une texture légèrement soyeuse.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3830,7 +3830,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cherry": {
     "name": "Thé aux cerises de Nankin",
-    "oneLine": "Cerises coréennes séchées — douces-acidulées et rosées.",
+    "oneLine": "Un thé de fruits d'aengdu, arbre autrefois familier des cours, séché pour être bu — infusé, le fruit donne un goût doux-acide dans une liqueur rouge pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3846,7 +3846,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-onion": {
     "name": "Thé aux pelures d'oignon",
-    "oneLine": "Pelures d'oignon séchées — un doux arôme d'oignon, liqueur ambrée.",
+    "oneLine": "Un thé ménager économe, fait uniquement de pelures d'oignon séchées, non de la chair — liqueur ambrée, avec un doux arôme d'oignon et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3862,7 +3862,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-bittermelon": {
     "name": "Thé à la margose",
-    "oneLine": "Margose séchée — franchement, nettement amère.",
+    "oneLine": "La margose d'été du sud et de Jeju, tranchée finement et séchée — une amertume nette avec une queue toastée, adoucie lorsqu'elle est torréfiée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3878,7 +3878,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-lotusroot": {
     "name": "Thé à la racine de lotus",
-    "oneLine": "Tranches de racine de lotus torréfiées — goût grillé et réconfortant.",
+    "oneLine": "Non la feuille mais la racine — la racine de lotus tranchée, séchée, torréfiée et décoctée, avec un arôme toasté et une légère douceur d'amidon.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3894,7 +3894,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-reishi": {
     "name": "Thé au reishi",
-    "oneLine": "Une décoction de reishi au goût nettement amer.",
+    "oneLine": "Le reishi, longtemps prisé comme herbe de longévité, tranché finement et mijoté — liqueur brun foncé, forte amertume et notes boisées et terreuses.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 500 ml",
     "rounds": "2 décoctions",
@@ -3910,7 +3910,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-mulberry-fruit": {
     "name": "Thé aux fruits du mûrier",
-    "oneLine": "Fruits de mûrier séchés infusés, sucrés et violets.",
+    "oneLine": "Des mûres mûries jusqu'au noir au début de l'été, séchées et infusées — un thé de fruits distinct de la feuille de mûrier, sucré et légèrement acidulé dans un violet pâle.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3926,7 +3926,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-cucumber": {
     "name": "Thé au concombre",
-    "oneLine": "Concombre séché infusé, léger et rafraîchissant.",
+    "oneLine": "Le concombre d'été tranché finement et séché, gardant son parfum même dans l'eau chaude — liqueur vert pâle limpide, arôme vert frais et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3942,7 +3942,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-corn": {
     "name": "Thé au maïs torréfié",
-    "oneLine": "Grains de maïs torréfiés infusés, goût grillé comme du pop-corn.",
+    "oneLine": "Les grains, non la soie — le maïs torréfié mijoté pour une tasse plus profonde, liqueur dorée avec un grain torréfié proche du pop-corn et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3958,7 +3958,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-wasong": {
     "name": "Thé au wasong (pin des rochers)",
-    "oneLine": "Wasong séché infusé, léger et légèrement acidulé.",
+    "oneLine": "Le wasong, succulente pareille à un pin des tuiles et des rochers, séché et infusé — liqueur limpide, avec une légère acidité et un parfum vert.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -3974,7 +3974,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-achyranthes": {
     "name": "Thé à la racine d'achyranthes",
-    "oneLine": "Une décoction de racine d'achyranthes — terreuse et ample.",
+    "oneLine": "La racine d'achyranthes, nommée useul pour des articulations pareilles au genou d'un bœuf, en décoction — liqueur brun foncé, toasté terreux et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 décoctions",
@@ -3990,7 +3990,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-turmeric": {
     "name": "Thé au curcuma",
-    "oneLine": "Thé au curcuma à la couleur dorée et au mordant terreux.",
+    "oneLine": "Le curcuma de la célèbre Jindo, la plante qui colore le curry en jaune — liqueur jaune profond, avec un parfum terreux et une finale poivrée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4006,7 +4006,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-polygala": {
     "name": "Thé à la racine de polygala",
-    "oneLine": "Une décoction de racine de polygala — douce-amère et grillée.",
+    "oneLine": "La racine de polygala, débarrassée de son cœur et séchée à partir de fines racines herbales, en décoction — liqueur brun pâle, goût amer d'abord et finale toastée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 décoctions",
@@ -4022,7 +4022,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-coix": {
     "name": "Thé aux larmes-de-Job",
-    "oneLine": "Larmes-de-Job torréfiées — goût de noisette, épais et nourrissant.",
+    "oneLine": "Les larmes-de-Job torréfiées, célèbres comme thé yulmu des distributeurs et nourrissantes comme un grain — parfum de noix et douceur légère dans une tasse épaisse.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4038,7 +4038,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-akebia": {
     "name": "Thé à l'akébia",
-    "oneLine": "Liane d'akébia séchée infusée, légère et légèrement sucrée.",
+    "oneLine": "Les tiges et fruits de la liane d'akébia, célèbre pour son fruit d'automne qui s'ouvre en deux, séchés — liqueur limpide, avec une douceur légère et un parfum vert.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4054,7 +4054,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-ginkgo": {
     "name": "Thé aux feuilles de ginkgo",
-    "oneLine": "Feuilles de ginkgo séchées et passées à la poêle — un thé de feuilles doux-amer.",
+    "oneLine": "Non la noix mais la feuille — les feuilles de ginkgo jaunes d'automne séchées et torréfiées à la poêle, liqueur jaune pâle avec un léger parfum vert et une finale douce-amère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4070,7 +4070,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-honeysuckle": {
     "name": "Thé au chèvrefeuille",
-    "oneLine": "Boutons de chèvrefeuille infusés, tendres et floraux.",
+    "oneLine": "Le chèvrefeuille, la liane « qui endure l'hiver » dont les bourgeons servent d'herbe geumeunhwa — liqueur limpide, avec un doux parfum floral et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4086,7 +4086,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-ginseng": {
     "name": "Thé au ginseng",
-    "oneLine": "Ginseng en décoction — doux-amer et terreux.",
+    "oneLine": "Le ginseng de Geumsan et de Punggi, tranché finement, séché et décocté — liqueur ambre pâle, avec un goût doux-amer et une profondeur terreuse.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4102,7 +4102,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-safflower": {
     "name": "Thé au carthame",
-    "oneLine": "Pétales de carthame infusés jusqu'à un éclat orangé.",
+    "oneLine": "Les pétales de carthame, d'une fleur longtemps utilisée comme teinture rouge et matière herbale, séchés et infusés — du jaune tournant à l'orange, légèrement floral.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4118,7 +4118,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-plum": {
     "name": "Thé à la prune",
-    "oneLine": "Sirop de prune dans l'eau — un thé de fruits d'été doux-acidulé.",
+    "oneLine": "Des prunes d'été conservées dans le sucre à leur apogée et savourées toute l'année — liqueur rougeâtre, avec un parfum frais et doux-acide de prune.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 cuillères à soupe de sirop pour 200 ml",
     "rounds": "1 portion",
@@ -4134,7 +4134,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-grapefruit": {
     "name": "Thé au pamplemousse",
-    "oneLine": "Sirop de pamplemousse dans l'eau — agrumes avec un coup d'amertume.",
+    "oneLine": "La méthode du yuja-cheong appliquée au pamplemousse dans les cafés coréens — liqueur rose pâle, acidité vive et finale nettement amère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 cuillères à soupe de sirop pour 200 ml",
     "rounds": "1 portion",
@@ -4150,7 +4150,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-purple-corn": {
     "name": "Maïs violet",
-    "oneLine": "Maïs violet mijoté jusqu'au violet profond — une tasse des Andes.",
+    "oneLine": "Le maïs violet des Andes péruviennes, séché et mijoté — liqueur violet profond, avec une douceur légère, une note de baie et un grain toasté.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4166,7 +4166,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-purple-perilla": {
     "name": "Thé aux feuilles de périlla",
-    "oneLine": "Feuilles de périlla infusées, aromatiques et teintées de violet.",
+    "oneLine": "La périlla pourpre, cousine de la famille de la menthe de la périlla coréenne aux feuilles violettes au revers, séchée et infusée — liqueur teintée de violet, parfum distinctif, douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4182,7 +4182,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-swordbean": {
     "name": "Thé au haricot sabre",
-    "oneLine": "Haricots sabre torréfiés infusés, clairs et goût de noisette.",
+    "oneLine": "Les haricots sabres de longues gousses en forme de couteau, tranchés, torréfiés et infusés — liqueur limpide, avec un parfum de haricot noiseté et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4198,7 +4198,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-peony": {
     "name": "Thé à la pivoine",
-    "oneLine": "Pétales de pivoine infusés, tendres et élégants.",
+    "oneLine": "La pivoine, dont la racine est une ancienne matière herbale et les fleurs généreuses un thé de fleurs — pétales s'ouvrant dans une liqueur limpide, doux parfum floral et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4214,7 +4214,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-adenophora": {
     "name": "Thé à la racine d'adénophora",
-    "oneLine": "Une décoction de racine d'adénophora — douce et grillée comme le platycodon.",
+    "oneLine": "La racine d'adénophora, appelée « ginseng des sables » et parente du platycodon, en décoction — liqueur brun pâle, avec une douceur toastée et un parfum terreux.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 décoctions",
@@ -4230,7 +4230,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-bamboo-shoot": {
     "name": "Thé aux pousses de bambou",
-    "oneLine": "Pousses de bambou séchées et torréfiées — simples et grillées.",
+    "oneLine": "Des pousses de bambou printanières de Damyang, tranchées, séchées et torréfiées — liqueur limpide, avec un parfum vert simple et une profondeur torréfiée apaisée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4246,7 +4246,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-rehmannia": {
     "name": "Thé au rehmannia",
-    "oneLine": "Une décoction de rehmannia — la racine cuite à la vapeur devient richement sucrée.",
+    "oneLine": "Le rehmannia en décoction — en sukjihwang, étuvé et séché neuf fois jusqu'au noir, il devient profondément sucré et pesant ; cru, il est amer et rafraîchissant.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 décoctions",
@@ -4262,7 +4262,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sesame": {
     "name": "Thé au sésame",
-    "oneLine": "Sésame torréfié moulu — une tasse riche au goût de noisette.",
+    "oneLine": "Le sésame torréfié et moulu finement, fouetté dans l'eau chaude — noix torréfiée profonde, corps souple et huileux et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4278,7 +4278,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-orientalmelon": {
     "name": "Thé au melon oriental",
-    "oneLine": "Melon coréen séché infusé, léger et sucré — une tasse d'été.",
+    "oneLine": "Le melon oriental d'été tranché finement et séché, bon froid également — douceur et arôme délicats de melon, avec une finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4294,7 +4294,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-calamus": {
     "name": "Thé à l'acore odorant",
-    "oneLine": "Acore odorant en décoction — le parfum de la fête de Dano.",
+    "oneLine": "La racine et la feuille d'acore odorant en décoction, un thé lié à la coutume de l'eau d'acore de la fête de Dano — arôme vert frais, légère épice, finale nette.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4310,7 +4310,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-greentangerine": {
     "name": "Thé à la mandarine verte",
-    "oneLine": "Mandarines vertes de Jeju au sirop — une tasse d'agrumes bien vive.",
+    "oneLine": "Des mandarines vertes de Jeju non mûres, confites au sucre, plus vives que le thé de mandarine mûre — acidité lumineuse et arôme d'écorce, puis douceur.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2–3 cuillères à soupe de conserve pour 200 ml",
     "rounds": "1 tasse",
@@ -4326,7 +4326,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-gardenia": {
     "name": "Thé au fruit de gardénia",
-    "oneLine": "Fruit de gardénia en décoction — une tasse jaune à la douce amertume.",
+    "oneLine": "Le fruit de gardénia, le même qui colore le radis mariné en jaune, séché et décocté — liqueur jaune limpide, amertume douce et note terreuse.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4342,7 +4342,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-chicory": {
     "name": "Chicorée",
-    "oneLine": "Racine de chicorée torréfiée — une tasse façon café, sans caféine.",
+    "oneLine": "La racine de chicorée torréfiée, bue de longue date en France et en Europe comme substitut du café — amertume torréfiée, terre et finale proche du café.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4358,7 +4358,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-trifoliateorange": {
     "name": "Thé à l'orange trifoliée",
-    "oneLine": "Orange trifoliée conservée — acide d'abord, amère ensuite.",
+    "oneLine": "L'orange trifoliée de l'arbre haie épineux, trop acide fraîche et donc confite — un thé d'hiver, fortement acide puis amer, avec un arôme d'écorce d'agrume.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2–3 cuillères à soupe de conserve pour 200 ml",
     "rounds": "1 tasse",
@@ -4374,7 +4374,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-taro": {
     "name": "Thé au taro",
-    "oneLine": "Taro séché en décoction — un thé de racine tendre et amidonné.",
+    "oneLine": "Le taro, aliment de base d'automne, tranché, séché et décocté — un corps souple d'amidon, une délicate note de noix et une douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4390,7 +4390,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pineapple": {
     "name": "Thé à l'ananas",
-    "oneLine": "Ananas conservé — une tasse tropicale richement sucrée.",
+    "oneLine": "L'ananas confit au sucre pour l'eau chaude, délicieux froid en ade également — douceur profonde et arôme d'ananas, avec un bord acidulé.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2–3 cuillères à soupe de conserve pour 200 ml",
     "rounds": "1 tasse",
@@ -4406,7 +4406,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-redbean": {
     "name": "Thé aux haricots rouges",
-    "oneLine": "Haricots azuki torréfiés — un thé de céréale simple au goût de noisette.",
+    "oneLine": "Des haricots azuki torréfiés infusés comme un thé de grains, plus profonds et plus sombres lorsqu'ils sont bouillis — noix torréfiée, corps simple et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4422,7 +4422,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-grape": {
     "name": "Thé au raisin",
-    "oneLine": "Raisins conservés — un thé de fruits sucré et parfumé.",
+    "oneLine": "Des raisins confits au sucre, dont les peaux approfondissent la couleur — douceur et arôme de raisin, avec une légère acidité.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2–3 cuillères à soupe de conserve pour 200 ml",
     "rounds": "1 tasse",
@@ -4438,7 +4438,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-hallabong": {
     "name": "Thé au hallabong",
-    "oneLine": "Hallabong de Jeju conservé — un thé d'hiver aux agrumes profonds.",
+    "oneLine": "Le hallabong de Jeju, nommé d'après le mont Halla, confit au sucre — un thé d'hiver plus profond que le thé de mandarine, avec un riche arôme d'agrumes et une douceur ronde.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2–3 cuillères à soupe de conserve pour 200 ml",
     "rounds": "1 tasse",
@@ -4454,7 +4454,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sunflower": {
     "name": "Thé aux graines de tournesol",
-    "oneLine": "Graines de tournesol torréfiées — un thé de graines au goût de noisette.",
+    "oneLine": "Des graines de tournesol torréfiées infusées, leurs coques dures donnant davantage lorsqu'elles sont bouillies — noix de graine torréfiée, avec une légère douceur huileuse.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4470,7 +4470,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-herbtea": {
     "name": "Tisane",
-    "oneLine": "Un nom général pour les thés infusés à partir de feuilles et de fleurs de plantes séchées.",
+    "oneLine": "Un nom générique pour les infusions de feuilles et fleurs d'herbes séchées — menthe, camomille, mélisse — sans caféine, chaque herbe avec ses propres notes vertes et florales.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4486,7 +4486,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-raisintree": {
     "name": "Thé au raisinier de Chine",
-    "oneLine": "Fruit du raisinier en décoction — un thé boisé légèrement sucré.",
+    "oneLine": "Le fruit du raisinier de Chine, décocté de longue date à la maison en Corée, souvent recherché le lendemain d'une soirée arrosée — douceur délicate, note boisée et finale souple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g de fruit pour 300 ml",
     "rounds": "1 décoction",
@@ -4502,7 +4502,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-schizonepeta": {
     "name": "Thé au schizonepeta",
-    "oneLine": "Épis de schizonepeta infusés — une tasse herbacée fraîche façon menthe.",
+    "oneLine": "La feuille et l'épi floral du schizonepeta, matière herbale utilisée de longue date, séchés pour un thé léger — fraîcheur proche de la menthe, arôme vert et légère épice.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "3 g pour 200 ml",
     "rounds": "2 infusions",
@@ -4518,7 +4518,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-walnut": {
     "name": "Thé à la noix",
-    "oneLine": "Noix moulues fouettées — une tasse riche au goût de noisette.",
+    "oneLine": "La noix moulue fouettée dans l'eau chaude, parfois décoctée avec du jujube et du gingembre — noix profonde, onctuosité huileuse et douceur légère.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g de noix moulue pour 200 ml",
     "rounds": "1 tasse",
@@ -4534,7 +4534,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pumpkin": {
     "name": "Thé à la citrouille",
-    "oneLine": "Citrouille mûre séchée en décoction — une tasse sucrée et tendre.",
+    "oneLine": "La citrouille mûre, aliment de base d'hiver, tranchée et séchée pour le garde-manger, puis décoctée — douceur naturelle de citrouille, avec un corps souple d'amidon.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "10 g de citrouille séchée pour 200 ml",
     "rounds": "2 infusions",
@@ -4550,7 +4550,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-redginseng": {
     "name": "Thé au ginseng rouge",
-    "oneLine": "Ginseng cuit à la vapeur et séché en décoction — une tasse douce-amère et profonde.",
+    "oneLine": "Le ginseng rouge — ginseng étuvé et séché jusqu'au rougeâtre — en décoction : l'amertume d'abord, puis la douceur et la terre dans une finale longue et profonde.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g de tranches pour 200 ml",
     "rounds": "1 décoction",
@@ -4566,7 +4566,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-astragalus": {
     "name": "Thé à l'astragale",
-    "oneLine": "Racine d'astragale en décoction — une tasse herbacée légèrement sucrée.",
+    "oneLine": "La racine d'astragale, familière du samgyetang, séchée et décoctée seule — douceur douce, note de noix proche du haricot et terre souple.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g de racine pour 200 ml",
     "rounds": "1 décoction",
@@ -4582,7 +4582,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-magnolia-bark": {
     "name": "Thé à l'écorce de magnolia",
-    "oneLine": "Écorce de magnolia en décoction — une tasse amère et profondément aromatique.",
+    "oneLine": "L'écorce de magnolia, matière herbale utilisée de longue date, séchée et décoctée — amertume, arôme boisé profond et finale légèrement épicée.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "5 g d'écorce pour 200 ml",
     "rounds": "1 décoction",
@@ -4598,7 +4598,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-pepper": {
     "name": "Thé au poivre noir",
-    "oneLine": "Poivre noir bouilli — un thé d'épice piquant.",
+    "oneLine": "Du poivre noir moulu bouilli dans l'eau, bu en petites tasses fortes, parfois avec du miel — chaleur piquante et arôme d'épice, bref et vif.",
     "oxidation": "aucune · sans caféine",
     "ratioNote": "2 g de poivre (environ 1 cuillère à café) pour 200 ml",
     "rounds": "1 tasse",
@@ -4614,7 +4614,7 @@ window.TEAFaiDataFr = (function () {
   },
   "herb-sipjeondaebotang": {
     "name": "Sipjeon Daebotang",
-    "oneLine": "Une décoction tonique classique de dix plantes — ginseng, angélique, astragale et plus — mijotées ensemble ; une boisson d'hiver traditionnelle aux côtés du ssanghwa.",
+    "oneLine": "Une formule classique de dix herbes d'origine de la dynastie Song — herbes Sagunja et Samul, plus astragale et cannelle — douce-amère, adoucie par la réglisse et la cannelle chaude.",
     "oxidation": "Aucune · sans caféine",
     "ratioNote": "60 g de plantes pour 1000 ml d'eau",
     "rounds": "1 décoction",
