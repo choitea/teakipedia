@@ -54,7 +54,7 @@ window.TEAFaiDataTur = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Japonya'nın günlük çayı, yeşil çay tüketiminin onda altısı — buharlanmış yapraklar yosun aroması ve umamiyi hafif bir buruklukla harmanlar.",
+    "oneLine": "Japonya'nın günlük çayı, yeşil çay tüketiminin %60'ı — buharlanmış yapraklar yosun aroması ve umamiyi hafif bir buruklukla harmanlar.",
     "oxidation": "0%",
     "ratioNote": "150 ml'ye 3 g; ilk dem 70 °C'de",
     "rounds": "3 demleme",

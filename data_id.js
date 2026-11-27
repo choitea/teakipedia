@@ -54,7 +54,7 @@ window.TEAFaiDataId = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Teh sehari-hari Jepang, enam per sepuluh konsumsi teh hijaunya — daun kukus memadukan aroma rumput laut dan umami dengan sepat ringan.",
+    "oneLine": "Teh sehari-hari Jepang, 60% konsumsi teh hijaunya — daun kukus memadukan aroma rumput laut dan umami dengan sepat ringan.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; tuangan pertama pada 70 °C",
     "rounds": "3 seduhan",
