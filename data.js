@@ -5554,10 +5554,10 @@ window.TEAFaiData = (function () {
       group: "black",
       alias: ["홍콩식 밀크티"],
       h: "港",
-      hz: "港式奶茶",
-      hs: "港式奶茶",
-      rom: "Hong Kong Milk Tea",
-      sub: "Hong Kong Milk Tea",
+      hz: "港式拼配茶",
+      hs: "港式拼配茶",
+      rom: "Hong Kong Blending",
+      sub: "Hong Kong Blending",
       t: 98,
       l: "8g",
       w: "200ml",
@@ -5566,7 +5566,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "홍콩 블렌딩",
-        "진하게 우린 홍차에 무가당 연유를 더한 홍콩 차찬텡의 잔.",
+        "진하게 우린 홍차에 무가당 연유를 더한 홍콩 차찬텡의 시그니처 밀크티 블렌딩.",
         "95%",
         "200ml에 8g, 연유는 취향껏",
         "1회",
@@ -5579,8 +5579,8 @@ window.TEAFaiData = (function () {
         "5분 진하게. 연유는 마지막에 넣고 저어 마십니다."
       ],
       en: [
-        "Hong Kong Milk Tea",
-        "Strong black tea with evaporated milk — the cup of a Hong Kong cha chaan teng.",
+        "Hong Kong Blending",
+        "Strong black tea with evaporated milk — the signature milk tea blend of a Hong Kong cha chaan teng.",
         "95%",
         "8 g to 200 ml; milk to taste",
         "One brew",
@@ -5593,8 +5593,8 @@ window.TEAFaiData = (function () {
         "Five minutes, strong. Add the milk last and stir."
       ],
       "zh-CN": [
-        "港式奶茶",
-        "浓泡红茶加淡奶——香港茶餐厅的一杯。",
+        "港式拼配茶",
+        "浓泡红茶加淡奶——香港茶餐厅的招牌奶茶拼配。",
         "95%",
         "200毫升配8克，淡奶按口味",
         "1次",
@@ -5607,8 +5607,8 @@ window.TEAFaiData = (function () {
         "5分钟泡浓。淡奶最后加再搅匀。"
       ],
       "zh-TW": [
-        "港式奶茶",
-        "濃泡紅茶加淡奶——香港茶餐廳的一杯。",
+        "港式拼配茶",
+        "濃泡紅茶加淡奶——香港茶餐廳的招牌奶茶拼配。",
         "95%",
         "200毫升配8公克，淡奶按口味",
         "1次",
