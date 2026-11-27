@@ -24,7 +24,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-biluochun": {
     "name": "Bích Loa Xuân",
-    "oneLine": "Hương trái cây trong lá xoắn như ốc — loại trà xanh thơm nhất.",
+    "oneLine": "Trà búp xuân danh tiếng của Động Đình, được hoàng đế Khang Hy đổi tên — lá cuộn như ốc bung ra hương đào và mơ trên nền vị ngọt mát.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml; nhiệt độ thấp là bí quyết quan trọng nhất",
     "rounds": "3–4 lần pha",
@@ -39,7 +39,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-maofeng": {
     "name": "Hoàng Sơn Mao Phong",
-    "oneLine": "Vị hạt dịu nhẹ từ núi sương mù — chuẩn trà xanh còn lại của Trung Quốc.",
+    "oneLine": "Trà danh tiếng còn khá trẻ từ Hoàng Sơn sương mù — lá vàng xanh cho nốt rang dịu, sự tươi mát của hoa lan và vị umami kéo dài.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -54,7 +54,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-sencha": {
     "name": "Sencha",
-    "oneLine": "Trà xanh hấp dùng hằng ngày của Nhật Bản — hương rong biển và vị umami.",
+    "oneLine": "Trà thường ngày của Nhật Bản, chiếm sáu phần mười lượng trà xanh được uống — lá hấp hòa hương rong biển và vị umami với chút chát nhẹ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml; lần rót đầu ở 70 °C",
     "rounds": "3 lần pha",
@@ -69,7 +69,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-gyokuro": {
     "name": "Gyokuro",
-    "oneLine": "Trồng trong bóng râm để đẩy umami tới cực hạn — loại trà xanh đậm vị nhất.",
+    "oneLine": "Che bóng hơn 20 ngày và được gọi là 'ngọc lộ' — lá kim xanh đậm cho vị umami như miso và dashi với kết cấu mịn như kem.",
     "oxidation": "0%",
     "ratioNote": "5 g cho 40 ml — nhiều lá, rất ít nước",
     "rounds": "3 lần pha",
@@ -84,7 +84,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-matcha": {
     "name": "Matcha",
-    "oneLine": "Cả lá trà được nghiền và uống hết — trà xanh để nạp vào người chứ không chỉ để ngửi.",
+    "oneLine": "Cả lá trà, nghiền bằng cối đá chỉ 40 g mỗi giờ — bọt xanh rực trên nền umami đậm với chút đắng ở cuối.",
     "oxidation": "0%",
     "ratioNote": "2 g cho 60 ml với usucha; 4 g cho 60 ml với koicha",
     "rounds": "Một bát",
@@ -99,7 +99,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-jeju": {
     "name": "Trà Ujeon (Jeju)",
-    "oneLine": "Lá trà đầu tiên của Hàn Quốc, hái trước Cốc vũ — vị chát dịu thấm đẫm mưa xuân.",
+    "oneLine": "Lá đầu tiên của Jeju trước Cốc vũ, từ những vườn trà bắt đầu năm 1979 — đất núi lửa và gió biển cho nốt xanh tươi và hương rang dịu nhẹ dần.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -114,7 +114,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-silverneedle": {
     "name": "Bạch Hào Ngân Châm",
-    "oneLine": "Dạng nhạt nhất của bạch trà: một búp trà còn nguyên lớp lông tơ bạc.",
+    "oneLine": "Bạch trà ở dạng tinh khiết nhất, chỉ có búp, không sao cũng không vò — hương hoa linh lan và vị ngọt dài, không chát, dưới lớp lông tơ bạc.",
     "oxidation": "5%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "4–5 lần pha",
@@ -129,7 +129,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-peony": {
     "name": "Bạch Mẫu Đơn",
-    "oneLine": "Một búp hai lá — thơm hơn Ngân Châm, giá lại mềm hơn.",
+    "oneLine": "Một búp hai lá như hoa mẫu đơn đang nở — hoa trắng và cỏ khô gặp vị ngọt nhẹ của táo tàu, đậm đà hơn Bạch Hào Ngân Châm.",
     "oxidation": "8%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "4–5 lần pha",
@@ -144,7 +144,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-shoumei": {
     "name": "Thọ Mi",
-    "oneLine": "Bạch trà thiên về lá — loại hợp nhất để đun chậm lâu.",
+    "oneLine": "Bạch trà thiên về lá, được đặt tên theo lông mày của ông lão, thường để lâu và đem đun — cỏ khô, táo tàu và trái cây chín trong nước trà màu mơ đậm.",
     "oxidation": "10%",
     "ratioNote": "4 g cho 200 ml; 5 g cho 500 ml khi đun",
     "rounds": "4–5 lần pha",
@@ -159,7 +159,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-aged": {
     "name": "Bạch Trà Lâu Năm",
-    "oneLine": "Ba năm là thuốc, bảy năm là báu vật — bạch trà được thời gian làm nên.",
+    "oneLine": "Bạch trà lâu năm của Phúc Kiến — một năm là trà, ba năm là thuốc, bảy năm là báu vật — thời gian viết táo tàu, thảo dược và trái cây khô vào nước trà hổ phách đậm.",
     "oxidation": "15%",
     "ratioNote": "5 g cho 200 ml; 5 g cho 500 ml khi đun",
     "rounds": "5 lần pha trở lên",
@@ -174,7 +174,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-gongmei": {
     "name": "Cống Mi",
-    "oneLine": "Bạch trà nằm giữa Bạch Mẫu Đơn và Thọ Mi, làm từ nhóm giống trà cai cha.",
+    "oneLine": "Bạch trà cai cha đứng giữa Bạch Mẫu Đơn và Thọ Mi — cỏ khô và hoa lặng lẽ ôm vị ngọt như táo tàu, trong trẻo hơn của Thọ Mi.",
     "oxidation": "10%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "4–5 lần pha",
@@ -189,7 +189,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-luanguapian": {
     "name": "Lục An Qua Phiến",
-    "oneLine": "Chỉ có lá mà không có búp, ép dẹt như hạt dưa — loại trà xanh duy nhất làm từ lá thuần túy.",
+    "oneLine": "Loại trà xanh duy nhất chỉ làm từ lá, bỏ cả búp lẫn cuống — lá dẹt như hạt dưa cho hương hạt dẻ rang, thân vị dày và vị ngọt.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -203,7 +203,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-houkui": {
     "name": "Thái Bình Hầu Quỳ",
-    "oneLine": "Lá to bằng bàn tay với vân lưới vải ép lên — loại trà xanh lớn nhất Trung Quốc.",
+    "oneLine": "Loại trà xanh lớn nhất Trung Quốc, ép trong vải và lưới thành vân ô — ngay cả lá to bằng bàn tay cũng cho hương lan và umami nhẹ mà không đắng.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -217,7 +217,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-maojian": {
     "name": "Tín Dương Mao Tiêm",
-    "oneLine": "Lá mảnh như kim mang hương cỏ và hạt dẻ — trà xanh danh tiếng của Hà Nam.",
+    "oneLine": "Trà danh tiếng của Hà Nam, đoạt huy chương vàng tại triển lãm Panama–Thái Bình Dương năm 1915 — lá thẳng như kim dậy hương cỏ, hạt dẻ và vị chát sống động.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -231,7 +231,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-lushan": {
     "name": "Lư Sơn Vân Vụ",
-    "oneLine": "Trồng ngay trong mây, lá mềm đến mức dễ bầm dập.",
+    "oneLine": "Trà từ núi Lư, chìm trong sương hơn 190 ngày mỗi năm — lá mảnh, non được sao chậm cho hương cỏ dịu và umami với rất ít vị chát.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -245,7 +245,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-hojicha": {
     "name": "Hojicha",
-    "oneLine": "Sencha rang trên than: ít caffeine hơn, ngọt rang nhiều hơn.",
+    "oneLine": "Ra đời ở Kyoto những năm 1920, sencha rang mạnh — nhiệt gần 200 °C mang đến hương ngũ cốc rang, caramel và gỗ, gần như không đắng.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 130 ml",
     "rounds": "2–3 lần pha",
@@ -259,7 +259,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-genmaicha": {
     "name": "Genmaicha",
-    "oneLine": "Sencha trộn gạo lứt rang — nửa trà, nửa gạo.",
+    "oneLine": "Các hộ gia đình thời Edo kéo dài trà bằng gạo lứt rang — vị bùi như cơm cháy và bỏng ngô trên nền xanh của sencha.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 130 ml (đã gồm gạo)",
     "rounds": "2–3 lần pha",
@@ -273,7 +273,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-hadong": {
     "name": "Trà Ujeon (Hadong)",
-    "oneLine": "Lá đầu tiên trong năm từ chân núi Jirisan, hái trước Cốc vũ.",
+    "oneLine": "Hadong, vùng trà từ thời Silla, và lá sớm nhất của nó trước Cốc vũ — những vườn trà hoang dưới chân Jirisan cho hương lá tươi, vị rang và umami kéo dài.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -287,7 +287,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-sejak": {
     "name": "Trà Sejak",
-    "oneLine": "Sau Cốc vũ và trước đầu hè: đợt hái thứ hai, non như lưỡi chim sẻ.",
+    "oneLine": "Đợt hái thứ hai sau Cốc vũ, non như lưỡi chim sẻ — hương cỏ và vị rang mạnh hơn ujeon, khép lại bằng chút chát nhẹ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -301,7 +301,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-jungjak": {
     "name": "Trà Jungjak",
-    "oneLine": "Giữa đầu hè và Mang chủng: đợt hái thứ ba, khi lá bắt đầu dày.",
+    "oneLine": "Cấp thứ ba, 'chim sẻ vừa', hái khi lá dày lên sau đầu hè — sao nóng và ngắn kết hợp vị rang với vị chát trong nước trà xanh đậm.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -315,7 +315,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-daejak": {
     "name": "Trà Daejak",
-    "oneLine": "Lá mùa hè thô — chén trà thường ngày của Hàn Quốc.",
+    "oneLine": "Cấp hái cuối cùng, 'chim sẻ lớn' của mùa hè sau Mang chủng — lá thô, vị rang và vị chát rõ rệt, dịu dần khi chén trà nguội.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml; đun cũng ngon",
     "rounds": "2–3 lần pha",
@@ -329,7 +329,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-jukro": {
     "name": "Trà Jukro",
-    "oneLine": "Những bụi trà hoang ở Hadong được sao hoàn toàn bằng tay — cách làm trà xanh lâu đời nhất của Hàn Quốc.",
+    "oneLine": "Lá trà hoang Hadong được đảo hơn 300 lần bằng tay trong chảo sắt — umami đậm và nốt hoa vẫn trong trẻo, với rất ít vị chát.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -343,7 +343,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-junshan": {
     "name": "Quân Sơn Ngân Châm",
-    "oneLine": "Loại ngân châm nổi tiếng nhất trong các trà vàng, từ một hòn đảo giữa hồ Động Đình.",
+    "oneLine": "Ngân châm trà vàng từ một hòn đảo giữa hồ Động Đình, từng quý hơn vàng — búp ủ vàng như giấy đứng trong ly với vị ngọt như ngô và bơ.",
     "oxidation": "10%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -357,7 +357,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-mengding": {
     "name": "Mông Đính Hoàng Nha",
-    "oneLine": "Trà danh tiếng lâu đời nhất của núi Mông Đính ở Tứ Xuyên — trà vàng nguyên bản.",
+    "oneLine": "Trong số những trà danh tiếng lâu đời nhất Trung Quốc, từ ngọn núi được trồng trà từ thời Tây Hán — búp ủ vàng cho hương ngô, bơ và vị ngọt dịu.",
     "oxidation": "15%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -371,7 +371,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-huoshan": {
     "name": "Hoắc Sơn Hoàng Nha",
-    "oneLine": "Một loại trà vàng nhỏ từ Hoắc Sơn, trồng giữa rừng tre.",
+    "oneLine": "Trà tiến vua thời Minh từ những rừng tre của Hoắc Sơn — lá sao nhẹ, ủ vàng cho hương ngũ cốc dịu và vị ngọt với chút chát thoảng.",
     "oxidation": "15%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -385,7 +385,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-jasmine": {
     "name": "Trà ướp hoa nhài",
-    "oneLine": "Trà xanh được ướp đi ướp lại với hoa nhài hái vào ban đêm.",
+    "oneLine": "Trà hoa nhài, bắt đầu từ thời Tống và hoàn thiện ở Phúc Kiến thời Thanh — hoa nở đêm hè được ướp đi ướp lại trên nền umami dịu của trà xanh.",
     "oxidation": "90% (nền trà xanh)",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -399,7 +399,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-zhuyeqing": {
     "name": "Trúc Diệp Thanh (Nga Mi)",
-    "oneLine": "Lá dẹt như lá tre — mùa xuân sớm của Tứ Xuyên trong một chén trà.",
+    "oneLine": "Trúc Diệp Thanh, bắt đầu trên núi Nga Mi năm 1964 — búp trước Thanh minh sao dẹt như lá tre, với hương cỏ nhẹ và vị ngọt sạch.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -415,7 +415,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-enshi-yulu": {
     "name": "Ân Thi Ngọc Lộ",
-    "oneLine": "Hấp và xoắn thành kim — một loại trà xanh hấp hiếm hoi ở Trung Quốc.",
+    "oneLine": "Ân Thi Ngọc Lộ, trà xanh hấp của Hồ Bắc từ thời Thanh — hấp và xoắn thành kim cho umami đậm đà và cạnh hương rong biển.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -431,7 +431,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-anji-baipian": {
     "name": "An Cát Bạch Trà",
-    "oneLine": "Trà xanh từ một giống trà lá nhạt màu vào mùa xuân, được gọi là bạch trà.",
+    "oneLine": "An Cát Bạch Trà, trà xanh dù mang tên 'bạch' — từ giống Bạch Diệp 1 nhạt màu vào mùa xuân, giàu umami với gần như không chát.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -447,7 +447,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-gougunao": {
     "name": "Cẩu Cổ Não",
-    "oneLine": "Trà xanh lá nhỏ với hương hoa lan từ thung lũng sương mù ở Giang Tây.",
+    "oneLine": "Cẩu Cổ Não, được cho là đã đoạt vàng tại triển lãm Panama năm 1915 — lá mịn từ thung lũng sương mù ở Giang Tây, thơm hoa lan và ngọt dịu.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -463,7 +463,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-wuyuan-mingmei": {
     "name": "Vụ Nguyên Minh Mi",
-    "oneLine": "Lá cong như lông mày — trà xanh dịu nhẹ từ Vụ Nguyên, Giang Tây.",
+    "oneLine": "Vụ Nguyên Minh Mi, tạo ra năm 1958 và được xếp vào trà danh tiếng của Trung Quốc — lá cong như lông mày với hương cỏ dịu và vị ngọt hạt dẻ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -479,7 +479,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-mengding-ganlu": {
     "name": "Mông Đính Cam Lộ",
-    "oneLine": "Trà Tứ Xuyên xoăn mịn kinh điển từ núi Mông Đính.",
+    "oneLine": "Mông Đính Cam Lộ, trà tiến vua từ thời Đường — sao và vò ba lần thành cuộn xoăn mịn với hương hạt dẻ và vị rang đậu nành.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -495,7 +495,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-hanzhong-xianhao": {
     "name": "Hán Trung Tiên Hào",
-    "oneLine": "Từ rìa phía bắc của xứ trà Trung Quốc: lá xuân dày sau một mùa đông dài.",
+    "oneLine": "Hán Trung Tiên Hào từ rìa phía bắc của xứ trà Trung Quốc — lá xuân dày sau một mùa đông dài, với cỏ, hoa và vị ngọt bền.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -511,7 +511,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-huiming": {
     "name": "Trà Huệ Minh",
-    "oneLine": "Lá xuân từ một ngôi chùa trên núi ở Chiết Giang đã cho trà cái tên này.",
+    "oneLine": "Huệ Minh, được đặt tên trực tiếp theo ngôi chùa trên núi ở Chiết Giang nơi nó bắt đầu — búp non sao ở lửa thấp cho hoa thoảng, cỏ và vị ngọt sạch.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -527,7 +527,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-boseong": {
     "name": "Trà xanh Boseong",
-    "oneLine": "Những cánh đồng trà rộng nhất Hàn Quốc — lá xuân từ Boseong.",
+    "oneLine": "Trà xanh từ Boseong, những cánh đồng trà rộng nhất Hàn Quốc — hái từ mùa xuân đến daejak, thơm rang và cỏ với vị ngọt phía sau.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3–4 lần pha",
@@ -543,7 +543,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-sanxia-biluochun": {
     "name": "Bích Loa Xuân (Tam Hiệp)",
-    "oneLine": "Trà xanh kiểu Trung Hoa của Đài Loan — lá xoắn ngọt.",
+    "oneLine": "Trà xanh của Tam Hiệp, mang tên Bích Loa Xuân của Động Đình Giang Tô ở Đài Loan từ những năm 1940 — lá xoắn với hương cỏ xanh và vị ngọt trái cây thoảng.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -559,7 +559,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-kabusecha": {
     "name": "Kabusecha",
-    "oneLine": "Lá che nắng ngắn ngày — vị umami nằm giữa sencha và gyokuro.",
+    "oneLine": "Kabusecha, nằm giữa sencha và gyokuro, chỉ che bóng một đến hai tuần — che bóng nâng umami, xếp hương rong biển trên nền vị ngọt sâu.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -575,7 +575,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-kamairicha": {
     "name": "Kamairicha",
-    "oneLine": "Trà xanh sao chảo hiếm hoi của Nhật Bản — thơm rang thay vì tanh rong biển.",
+    "oneLine": "Một loại hiếm ở Nhật Bản xứ trà hấp — trà xanh Cửu Châu sao trong chảo, để lại vị rang ngũ cốc và vị ngọt nhẹ mà không có nốt rong biển.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -591,7 +591,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-dafo-longjing": {
     "name": "Đại Phật Long Tỉnh",
-    "oneLine": "Lá kiểu Long Tỉnh hái sớm hơn, dùng hằng ngày, từ Chiết Giang.",
+    "oneLine": "Long Tỉnh từ Tân Xương, Chiết Giang, hái sớm hơn của Tây Hồ — lá ép dẹt bằng tay cho vị rang đậu và vị ngọt nhẹ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -607,7 +607,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-laoshan": {
     "name": "Trà xanh Lao Sơn",
-    "oneLine": "Rìa phía bắc của xứ trà Trung Quốc: lá dày trồng trong gió biển.",
+    "oneLine": "Từ rìa phía bắc của xứ trà Trung Quốc, lá dày trồng trong gió biển và đất granit — vị rang thơm và vị ngọt chắc qua nhiều lần pha.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -623,7 +623,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-xingongyi": {
     "name": "Bạch trà Tân Công Nghệ",
-    "oneLine": "Bạch trà truyền thống thêm vò nhẹ — thơm hơn, oxy hóa một chút.",
+    "oneLine": "Công nghệ mới ra đời ở Phúc Đỉnh năm 1968, cái vò nhẹ của nó đánh thức hương thơm — vị ngọt dịu của bạch trà xếp lớp với hoa và chút rang thoảng.",
     "oxidation": "khoảng 20%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -639,7 +639,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-yueguangbai": {
     "name": "Nguyệt Quang Bạch",
-    "oneLine": "Một mặt nhạt, một mặt sẫm — bạch trà ánh trăng của Vân Nam.",
+    "oneLine": "Bạch trà lá lớn Vân Nam phơi một mặt nhạt, một mặt sẫm — vị ngọt trái cây khô và mật ong trong nước trà màu mơ nhạt, mềm.",
     "oxidation": "khoảng 15%",
     "ratioNote": "4 g cho 150 ml",
     "rounds": "4 lần pha",
@@ -655,7 +655,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-lingyun-baihao": {
     "name": "Lăng Vân Bạch Hào",
-    "oneLine": "Bạch trà lá nhiều lông tơ từ Quảng Tây.",
+    "oneLine": "Bạch trà từ Lăng Vân của Quảng Tây, làm từ búp dày lông tơ trắng — hoa dịu, chút cỏ thoảng và vị ngọt nhẹ, sạch đến cuối.",
     "oxidation": "khoảng 10%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -671,7 +671,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-beigang-maojian": {
     "name": "Bắc Cảng Mao Tiêm",
-    "oneLine": "Một loại trà vàng nhỏ từ bờ tây hồ Động Đình.",
+    "oneLine": "Trà vàng nhỏ từ bờ tây hồ Động Đình, ủ đống sau khi sao để tự ngả vàng — vị ngọt ngũ cốc dịu, ít chát hơn trà xanh.",
     "oxidation": "khoảng 12%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -687,7 +687,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-weishan-maojian": {
     "name": "Nguy Sơn Mao Tiêm",
-    "oneLine": "Trà vàng hoàn thiện trên khói — một nốt thông thoang thoảng trong lá.",
+    "oneLine": "Trà vàng Hồ Nam từ Nguy Sơn, được khói thông chạm nhẹ ở lần sấy cuối — vị ngọt ngũ cốc với làn khói thoảng và rất ít vị chát.",
     "oxidation": "khoảng 15%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -703,7 +703,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-wenzhou-huangtang": {
     "name": "Bình Dương Hoàng Thang",
-    "oneLine": "Trà vàng nhạt màu của nam Chiết Giang với thời gian ủ vàng ngắn.",
+    "oneLine": "Trà vàng Bình Dương được ghi là trà tiến vua thời Thanh, thời gian ủ vàng giữ ngắn — ngũ cốc dịu, hoa thoảng và vị ngọt nhẹ, gần với trà xanh.",
     "oxidation": "khoảng 12%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -719,7 +719,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-wanxi-huangdacha": {
     "name": "Hoản Tây Hoàng Đại Trà",
-    "oneLine": "Trà vàng lá thô của tây An Huy — làm ra để đun sôi.",
+    "oneLine": "Trà vàng lá to, thô của tây An Huy, làm ra để đun trong ấm — vị rang thơm và vị ngọt mạnh giữ được ngay cả với sữa.",
     "oxidation": "khoảng 20%",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "3 lần pha",
@@ -735,7 +735,7 @@ window.TEAFaiDataVi = (function () {
   },
   "yellow-yuanan-luyuan": {
     "name": "Viễn An Lộc Uyển",
-    "oneLine": "Trà vàng Hồ Bắc với ghi chép từ thời Thanh và lá vò mịn.",
+    "oneLine": "Trà vàng Hồ Bắc từ chùa Lộc Uyển, được ghi chép từ thời Càn Long — sợi vò mịn cho ngũ cốc dịu, hoa và vị ngọt sạch.",
     "oxidation": "khoảng 15%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -751,7 +751,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-moroccan-mint": {
     "name": "Trà bạc hà Maroc (Maghreb)",
-    "oneLine": "Trà xanh gunpowder với bạc hà tươi và đường, rót từ trên cao.",
+    "oneLine": "Trà bạc hà của Maghreb, trà gunpowder Trung Quốc rót từ trên cao với bạc hà tươi và đường — bạc hà mát trên nền vị ngọt sâu, sảng khoái ngay cả khi nóng.",
     "oxidation": "khoảng 5% (nền trà xanh)",
     "ratioNote": "4 g cho 200 ml; một nắm bạc hà và đường tùy khẩu vị",
     "rounds": "3 lần pha",
@@ -767,7 +767,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-chunseol": {
     "name": "Trà Chunseol",
-    "oneLine": "Trà xanh sao chảo hái vào đầu xuân từ những bụi trà hoang bên thung lũng chùa Jeungsimsa trên núi Mudeung.",
+    "oneLine": "Trà sao chảo từ những bụi trà hoang trên núi Mudeung, được họa sĩ Heo Baek-ryeon đặt tên — lá non đầu xuân bung hương xanh tươi mát và vị ngọt dịu nhẹ.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -783,7 +783,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-tencha": {
     "name": "Tencha",
-    "oneLine": "Lá hấp che nắng — nguyên liệu được nghiền thành matcha.",
+    "oneLine": "Lá trà che bóng, hấp chín trước khi nghiền bằng cối đá thành matcha — vị umami đậm đặc trong lá xanh rực với chút hương rong biển.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 100 ml",
     "rounds": "3 lần pha",
@@ -799,7 +799,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-funmatsu": {
     "name": "Funmatsu (Sencha dạng bột)",
-    "oneLine": "Sencha nghiền thành bột và khuấy thẳng vào nước.",
+    "oneLine": "Sencha không che bóng được nghiền mịn và khuấy thẳng vào nước, uống cả lá — trọn vẹn hương xanh và vị đắng nhẹ của sencha.",
     "oxidation": "0%",
     "ratioNote": "1.5 g cho 150 ml",
     "rounds": "1 lần dùng",
@@ -815,7 +815,7 @@ window.TEAFaiDataVi = (function () {
   },
   "green-konacha": {
     "name": "Konacha",
-    "oneLine": "Trà làm từ búp và mảnh vụn còn lại sau khi làm gyokuro và sencha.",
+    "oneLine": "Búp và mảnh vụn rây ra khi làm gyokuro và sencha — pha nhanh và đậm, nước trà sẫm màu với vị đắng sắc ở cuối.",
     "oxidation": "0%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -847,7 +847,7 @@ window.TEAFaiDataVi = (function () {
   },
   "white-darjeeling": {
     "name": "Bạch trà Darjeeling",
-    "oneLine": "Bạch trà từ búp non của những vườn cao Darjeeling, với chút hương muscatel.",
+    "oneLine": "Búp non từ các vườn Darjeeling ở độ cao 1.000–2.000 m, sấy nguyên trạng không vò — hương hoa mềm mại, phảng phất muscatel và vị ngọt trong trẻo.",
     "oxidation": "Khoảng 8%",
     "ratioNote": "2.5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -863,7 +863,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-tieguanyin": {
     "name": "Thiết Quan Âm An Khê",
-    "oneLine": "Hương lan và 'Quan Âm vận' — chuẩn mực của trà ô long, được vò thành những viên bán cầu chặt.",
+    "oneLine": "Ô long chuẩn mực của An Khê, truy về một bụi trà tìm thấy gần miếu Quan Âm — những viên bán cầu chặt cho hương lan và hoa huệ, vị béo mịn và hậu ngọt quay lại.",
     "oxidation": "30%",
     "ratioNote": "7 g trà với 110 ml nước trong chén khải",
     "rounds": "pha được 7–8 lần",
@@ -878,7 +878,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dahongpao": {
     "name": "Đại Hồng Bào (Vũ Di)",
-    "oneLine": "Lá trà mọc trên đá được nướng đậm — loại trà của 'nham vận', dư vị của đá.",
+    "oneLine": "Nham trà Vũ Di của truyền thuyết áo đỏ và những bụi mẹ trên vách đá — lá nướng ba đến sáu lần trên than để lại ca cao, đá ướt và dư vị dài.",
     "oxidation": "55%",
     "ratioNote": "7 g trà với 110 ml nước trong chén khải",
     "rounds": "pha được 8–10 lần",
@@ -893,7 +893,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong": {
     "name": "Đơn Tùng Phượng Hoàng",
-    "oneLine": "Một cây, một hương — những loại ô long đơn tùng từ Quảng Đông, mỗi cây mang một tên riêng.",
+    "oneLine": "Những bụi trà cổ trên núi Phượng Hoàng, mỗi bụi làm riêng — một bụi, một hương hoa trắng, hoa dành dành và mật ong, khép lại bằng hậu ngọt quay lại.",
     "oxidation": "40%",
     "ratioNote": "7 g trà với 110 ml nước trong chén khải",
     "rounds": "pha được 10 lần trở lên",
@@ -908,7 +908,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dongding": {
     "name": "Đông Đỉnh",
-    "oneLine": "Ô long nướng vừa từ vùng chân núi miền trung Đài Loan — hạt dẻ và hoa cân bằng.",
+    "oneLine": "Ô long nướng vừa của Đài Loan, truy về 36 cây giống Vũ Di mang đến năm 1855 — ngũ cốc rang, hạt dẻ và hoa lan cân bằng trên nền vị ngọt dịu.",
     "oxidation": "25%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6–8 lần",
@@ -923,7 +923,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-alishan": {
     "name": "Ô long núi cao (A Lý Sơn)",
-    "oneLine": "Trên 1,200 m: trà núi cao mát lành hương lan từ Đài Loan.",
+    "oneLine": "Ô long núi cao A Lý Sơn, lan rộng trong cơn bùng nổ trà những năm 1980 — lá dày cho hương lan, vị kem và táo xanh trên nền vị ngọt trong, dài.",
     "oxidation": "20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6–8 lần",
@@ -938,7 +938,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-beauty": {
     "name": "Đông Phương Mỹ Nhân",
-    "oneLine": "Vị mật ong mà chỉ rầy xanh mới tạo ra được — loại ô long oxy hóa đậm đặc trưng của Đài Loan.",
+    "oneLine": "Ô long đầu trắng mà nữ hoàng Victoria được cho là đã đặt tên Đông Phương Mỹ Nhân — lá bị rầy xanh cắn cho mật ong, đào chín và hoa hồng với vị ngọt tròn.",
     "oxidation": "60%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 5–6 lần",
@@ -953,7 +953,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-si-ji-chun": {
     "name": "Tứ Quý Xuân",
-    "oneLine": "Thu hoạch bốn mùa trong năm, mùa nào cũng như xuân: loại ô long nhẹ bạn gặp thường xuyên nhất ở Đài Loan.",
+    "oneLine": "Được đặt tên theo một cây tình cờ ở Mộc Sách ra búp quanh năm — lá oxy hóa nhẹ cho hương dành dành và hoa nhài với vị ngọt nhẹ.",
     "oxidation": "15–20%",
     "ratioNote": "4 g trà với 150 ml nước",
     "rounds": "pha được 3–4 lần",
@@ -969,7 +969,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-jin-xuan": {
     "name": "Kim Huyên",
-    "oneLine": "Giống trà số 12 của Đài Loan, với hương thơm béo ngậy như sữa đến từ chính lá trà — còn được bán với tên Ô long Sữa; một chén trà mềm và tròn vị.",
+    "oneLine": "Giống TTES số 12 của Đài Loan, đăng ký năm 1981 — chính lá trà cho hương sữa và kem với hoa nhài, khép lại bằng vị ngọt tròn.",
     "oxidation": "15–20%",
     "ratioNote": "4 g trà với 150 ml nước",
     "rounds": "pha được 3–4 lần",
@@ -985,7 +985,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-pouchong": {
     "name": "Bao Chủng Văn Sơn",
-    "oneLine": "Ô long nhẹ của miền bắc Đài Loan, được đặt tên theo tờ giấy từng dùng để gói giữ hương thơm.",
+    "oneLine": "Ô long nhẹ của Văn Sơn, được đặt tên theo tờ giấy từng gói giữ hương của nó — độ oxy hóa gần với trà xanh giữ hương lan và dành dành trong trẻo, nhẹ nhàng.",
     "oxidation": "8–12%",
     "ratioNote": "3 g trà với 150 ml nước",
     "rounds": "pha được 3 lần",
@@ -1001,7 +1001,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-rougui": {
     "name": "Nhục Quế Vũ Di",
-    "oneLine": "Hương vỏ quế — trụ cột còn lại của ô long nham trà Vũ Di.",
+    "oneLine": "Nham trà Vũ Di được đặt tên theo vỏ quế, nướng than nhiều vòng — gia vị quế và đinh hương trên nền vị ngọt sâu với dư vị dài.",
     "oxidation": "khoảng 50%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 8 lần trở lên",
@@ -1017,7 +1017,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-shuixian": {
     "name": "Thủy Tiên Vũ Di",
-    "oneLine": "Lá to, nướng sâu — và cây càng già, chén trà càng có mùi rêu.",
+    "oneLine": "Ô long lá lớn của Vũ Di, càng có mùi rêu khi bụi trà càng già — hoa lan trên nền gỗ và rêu, với vị ngọt nướng bền lâu.",
     "oxidation": "khoảng 50%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 9 lần trở lên",
@@ -1033,7 +1033,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dayuling": {
     "name": "Ô long núi cao (Đại Vũ Lĩnh)",
-    "oneLine": "Trên 2,300 m — trà cao nhất của Đài Loan, lá dày và lớn chậm.",
+    "oneLine": "Lá dày, lớn chậm từ vùng trà cao nhất Đài Loan ở 2.300 m — hoa trong trẻo và vị ngọt mát trong nước trà vàng nhạt, gần như không chát.",
     "oxidation": "khoảng 20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 8 lần",
@@ -1049,7 +1049,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-shanlinxi": {
     "name": "Ô long núi cao (Sam Lâm Khê)",
-    "oneLine": "Trà núi cao từ các khoảnh rừng tuyết tùng — sạch và mát.",
+    "oneLine": "Trà núi cao từ những khoảnh đất giữa rừng tuyết tùng và sương mù ở 1.600 m — hoa trong, chút cỏ và vị ngọt sạch, mát trong chén.",
     "oxidation": "khoảng 20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 7 lần",
@@ -1065,7 +1065,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-lishan": {
     "name": "Ô long núi cao (Lê Sơn)",
-    "oneLine": "Trà núi cao hương trái cây chín từ giữa những vườn cây ăn quả ở độ cao 2,000 m.",
+    "oneLine": "Trà núi cao trồng giữa những vườn cây ăn quả ở 2.000 m, nơi chênh lệch ngày–đêm lớn làm lá dày lên — trái cây chín, hoa và vị ngọt mềm.",
     "oxidation": "khoảng 20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 8 lần",
@@ -1081,7 +1081,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-huangjingui": {
     "name": "Hoàng Kim Quế",
-    "oneLine": "Ô long nhẹ hơn của An Khê, có biệt danh 'hương thơm xuyên trời'.",
+    "oneLine": "Ô long Hoàng Đán của An Khê, có biệt danh 'hương thơm xuyên trời' — lá oxy hóa nhẹ tỏa hương béo mịn, hoa và vị ngọt nhẹ.",
     "oxidation": "khoảng 35%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 6 lần",
@@ -1097,7 +1097,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-benshan": {
     "name": "Bản Sơn",
-    "oneLine": "Ô long An Khê nhẹ hơn, rẻ hơn — người em của Thiết Quan Âm.",
+    "oneLine": "Ô long An Khê nhẹ hơn, được gọi là người em của Thiết Quan Âm — hoa lan thoảng và cỏ với vị ngọt nhẹ, dễ uống từ ngụm đầu đến cuối.",
     "oxidation": "khoảng 35%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 7 lần",
@@ -1113,7 +1113,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-foshou": {
     "name": "Phật Thủ Vĩnh Xuân",
-    "oneLine": "Vị ngọt như lê từ những lá trà rộng bằng bàn tay.",
+    "oneLine": "Ô long của Vĩnh Xuân, làm từ lá rộng như quả phật thủ — trái lê và hồng ngọt, thân vị mềm với rất ít vị chát.",
     "oxidation": "khoảng 40%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 7 lần",
@@ -1129,7 +1129,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-muzha-tieguanyin": {
     "name": "Thiết Quan Âm (Mộc Sách)",
-    "oneLine": "Thiết Quan Âm nướng than lâu từ Đài Bắc — trái cây rang và caramel.",
+    "oneLine": "Thiết Quan Âm của Mộc Sách, nướng than lâu và nhiều lần từ cuối thế kỷ 19 — trái cây rang và vị ngọt caramel với chút cháy nhẹ ở cuối.",
     "oxidation": "khoảng 45%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 8 lần",
@@ -1145,7 +1145,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-milan": {
     "name": "Đơn Tùng Mật Lan Hương",
-    "oneLine": "Mật ong trên nền hoa lan — loại hương đơn tùng Phượng Hoàng được trồng nhiều nhất.",
+    "oneLine": "Hương đơn tùng Phượng Hoàng được trồng nhiều nhất, mật ong phủ trên hoa lan — thân vị đầy đặn mang hương ngọt của nó vào dư vị dài.",
     "oxidation": "khoảng 45%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 10 lần trở lên",
@@ -1161,7 +1161,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-yashixiang": {
     "name": "Áp Thí Hương",
-    "oneLine": "Cái tên thô mộc cho một loại đơn tùng hương hoa mát lành, ánh bạc.",
+    "oneLine": "Đơn tùng Phượng Hoàng mà cái tên thô mộc của nó che giấu hương 'hoa bạc' — hoa linh lan mát lành và vị ngọt tươi sáng, dài trong dư vị.",
     "oxidation": "khoảng 45%",
     "ratioNote": "7 g trà trong chén khải 110 ml",
     "rounds": "pha được 10 lần trở lên",
@@ -1177,7 +1177,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-hongshui": {
     "name": "Ô long Hồng Thủy",
-    "oneLine": "Phong cách oxy hóa sâu cổ hơn của Đài Loan — một loại ô long có nước trà đỏ.",
+    "oneLine": "Phong cách ô long xưa hơn của Đài Loan, oxy hóa khoảng 60% và nướng — trái cây chín, mật ong và nốt nướng trên nước trà đỏ, gần sẫm như hồng trà.",
     "oxidation": "khoảng 60%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 7 lần",
@@ -1193,7 +1193,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-thai-doi": {
     "name": "Ô long (Doi Mae Salong)",
-    "oneLine": "Ô long vùng cao Thái Lan được trồng theo phương pháp và giống của Đài Loan.",
+    "oneLine": "Ô long của miền bắc Thái Lan, bắt nguồn từ phương pháp và cây giống Đài Loan — hoa nhẹ và vị ngọt, mềm hơn những chén núi cao của Đài Loan.",
     "oxidation": "khoảng 25%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6 lần",
@@ -1209,7 +1209,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-vietnam-mocchau": {
     "name": "Ô long (Mộc Châu)",
-    "oneLine": "Ô long vùng cao Việt Nam từ cao nguyên mà người Pháp trồng đầu tiên.",
+    "oneLine": "Ô long từ cao nguyên Mộc Châu của Việt Nam, nơi người Pháp trồng trà đầu tiên — cỏ, hoa nhẹ và vị ngọt sạch, tươi hơn của Đài Loan.",
     "oxidation": "khoảng 30%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 5 lần",
@@ -1225,7 +1225,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-guihua": {
     "name": "Trà Quế Hoa",
-    "oneLine": "Hoa quế mùa thu ướp vào lá trà — ngọt như mơ.",
+    "oneLine": "Trà được ướp bằng cách xếp hoa quế mùa thu vào lá đi lặp lại nhiều lần — hương hoa như mơ và đào trên nền vị ngọt dịu.",
     "oxidation": "khoảng 60% (tùy nền trà)",
     "ratioNote": "3 g trà với 200 ml nước",
     "rounds": "pha được 3 lần",
@@ -1241,7 +1241,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-qilai": {
     "name": "Ô long núi cao Kỳ Lai",
-    "oneLine": "Ô long núi cao Đài Loan từ núi Kỳ Lai, ở độ cao 1,400–2,000 m.",
+    "oneLine": "Ô long núi cao Đài Loan được phát hiện muộn từ biển mây núi Kỳ Lai trên 2.000 m — hương hoa thanh khiết, mềm mịn như kem và vị ngọt mát.",
     "oxidation": "20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6–7 lần",
@@ -1257,7 +1257,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-honey": {
     "name": "Ô long hương mật",
-    "oneLine": "Ô long vò viên của Đài Loan từ lá bị rầy chích, thơm hương mật ong.",
+    "oneLine": "Ô long vo viên Đài Loan từ lá bị rầy xanh cắn trong vườn không phun thuốc — mật ong, đào chín và hoa trong vị ngọt kéo dài.",
     "oxidation": "50%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 5–6 lần",
@@ -1273,7 +1273,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-red": {
     "name": "Hồng Ô Long",
-    "oneLine": "Ô long mới của Đài Đông, oxy hóa gần đến mức hồng trà và vò thành viên.",
+    "oneLine": "Ô long mới ra đời ở Luye, Đài Đông vào những năm 2000, oxy hóa gần như hồng trà rồi vo viên — trái cây chín, mật ong và ngũ cốc rang trong nước trà đỏ hổ phách.",
     "oxidation": "khoảng 75%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6–7 lần",
@@ -1289,7 +1289,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-qilan": {
     "name": "Kỳ Lan",
-    "oneLine": "Ô long giống trà hương lan được làm ở cả Vũ Di và miền nam Phúc Kiến.",
+    "oneLine": "Giống trà mang tên hoa lan, làm theo cả phong cách Vũ Di và miền nam Phúc Kiến — lan thanh khiết và thảo mộc trên nền rang nhẹ và vị ngọt.",
     "oxidation": "45%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 7–8 lần",
@@ -1305,7 +1305,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-meizhan": {
     "name": "Mai Chiêm",
-    "oneLine": "Ô long giống cổ điển của Phúc Kiến, được cho là có mùi hoa mai.",
+    "oneLine": "Giống trà Phúc Kiến cổ điển được cho là thơm như hoa mai, cũng được làm thành hồng trà và trà xanh — hương hoa mai, trái cây nhẹ và vị ngọt mềm.",
     "oxidation": "40%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 6–7 lần",
@@ -1321,7 +1321,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-tieluohan": {
     "name": "Thiết La Hán",
-    "oneLine": "Một trong bốn danh tùng lớn của Vũ Di — nham trà sâu lắng với khía cạnh dược thảo.",
+    "oneLine": "Được tính trong số cổ xưa nhất của tứ đại danh tùng Vũ Di — thảo dược, khoáng chất và ngũ cốc rang cùng vị ngọt dày, đậm đà.",
     "oxidation": "55%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 7–8 lần",
@@ -1337,7 +1337,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-baijiguan": {
     "name": "Bạch Kê Quan",
-    "oneLine": "Danh tùng Vũ Di nhẹ và trong, nổi tiếng với búp trà vàng trắng nhạt.",
+    "oneLine": "Danh tùng Vũ Di với búp vàng trắng nhạt nổi bật ngay từ cái nhìn, rang nhẹ để giữ nét ấy — hương hoa trong trẻo, thoảng thảo mộc và vị ngọt mát.",
     "oxidation": "40%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 6–7 lần",
@@ -1353,7 +1353,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-shuijingui": {
     "name": "Thủy Kim Quy",
-    "oneLine": "Danh tùng Vũ Di dịu dàng, ngọt ngào, được đặt tên theo truyền thuyết mai rùa.",
+    "oneLine": "Danh tùng Vũ Di mang tên bụi trà bị lũ cuốn có vân như mai rùa — hoa mềm và hương rang trên vị ngọt tròn trịa, dịu dàng.",
     "oxidation": "50%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 7–8 lần",
@@ -1369,7 +1369,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-bantianyao": {
     "name": "Bán Thiên Yêu",
-    "oneLine": "Danh tùng Vũ Di từ những cây giữa vách đá, với tính chất nham rõ rệt.",
+    "oneLine": "Danh tùng Vũ Di từ những bụi trà ở lưng chừng vách đá, giữa trời và đất — nham vận rõ rệt, hương rang và vị ngọt sâu trong hậu vị dài.",
     "oxidation": "50%",
     "ratioNote": "7 g trà với 110 ml nước",
     "rounds": "pha được 7–8 lần",
@@ -1385,7 +1385,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-zhangping": {
     "name": "Thủy Tiên Chương Bình",
-    "oneLine": "Ô long ép hiếm có — lá Thủy Tiên được nén thành những bánh vuông gói giấy.",
+    "oneLine": "Ô long ép hiếm có — lá Thủy Tiên đặt trong khuôn vuông và gói giấy — lan và nốt xanh mát cùng vị ngọt trong trẻo trong nước vàng sáng.",
     "oxidation": "30%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6–7 lần",
@@ -1401,7 +1401,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-yunnan": {
     "name": "Ô long Vân Nam",
-    "oneLine": "Trà lá lớn Vân Nam được làm theo kiểu ô long vò viên của Đài Loan.",
+    "oneLine": "Trà lá lớn Vân Nam từ quê hương phổ nhĩ, vo vải thành viên theo cách Đài Loan — mạch nha và mật ong đậm dưới hương hoa, thể trà dày.",
     "oxidation": "30%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 5–6 lần",
@@ -1417,7 +1417,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-darjeeling": {
     "name": "Ô long Darjeeling",
-    "oneLine": "Trà kiểu ô long được làm bằng oxy hóa một phần trong các vườn Darjeeling.",
+    "oneLine": "Phong cách Darjeeling sản lượng nhỏ, lá hồng trà dừng ở oxy hóa một phần — nho muscatel, mơ và hoa, nhẹ và trong trong nước trà vàng đồng sáng.",
     "oxidation": "40%",
     "ratioNote": "5 g trà với 150 ml nước",
     "rounds": "pha được 4–5 lần",
@@ -1433,7 +1433,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-huangzhi": {
     "name": "Đơn Tùng Hoàng Chi Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng với hương thơm trong và ngọt như hoa dành dành.",
+    "oneLine": "Đơn Tùng Phượng Hoàng một bụi mà hương chi tử đến từ chính lá trà, không bao giờ ướp hoa — chi tử ngọt, trái cây chín và hậu vị sạch.",
     "oxidation": "khoảng 40%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 9 lần",
@@ -1449,7 +1449,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-xingren": {
     "name": "Đơn Tùng Hạnh Nhân Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng với hương hạnh nhân rang thơm bùi.",
+    "oneLine": "Đơn Tùng Phượng Hoàng một bụi mang tên hạnh nhân rang — hạt rang chuyển từ vị đắng thoáng qua thành ngọt trong ngụm nuốt êm mượt.",
     "oxidation": "khoảng 45%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 8 lần",
@@ -1465,7 +1465,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-rougui": {
     "name": "Đơn Tùng Nhục Quế Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng với nốt gia vị ấm như quế.",
+    "oneLine": "Đơn Tùng Phượng Hoàng có nốt quế tự nhiên, không liên quan giống Nhục Quế của Vũ Di — gia vị ấm và rang nhẹ trong thể trà đầy đặn, hậu vị dài.",
     "oxidation": "khoảng 50%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 9 lần",
@@ -1481,7 +1481,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-guihua": {
     "name": "Đơn Tùng Quế Hoa Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng mà hương quế hoa đến từ chính lá trà.",
+    "oneLine": "Loại hương tự nhiên mà mùi quế hoa nằm sẵn trong lá, khác hẳn ô long ướp hoa — hoa ngọt trên nền mơ, hậu vị sạch.",
     "oxidation": "khoảng 35%",
     "ratioNote": "5 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 8 lần",
@@ -1497,7 +1497,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-zhilan": {
     "name": "Đơn Tùng Chi Lan Hương",
-    "oneLine": "Đơn tùng hương lan thanh nhã, được xếp vào nhóm loại hương tinh tế hơn.",
+    "oneLine": "Đơn tùng một bụi được xếp vào hàng loại hương tinh tế nhờ hương lan chi lan — hương lan tinh tế, vị ngọt thanh tao, hậu vị dài và sạch.",
     "oxidation": "khoảng 40%",
     "ratioNote": "5 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 10 lần",
@@ -1513,7 +1513,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-yelai": {
     "name": "Đơn Tùng Dạ Lai Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng với hương hoa đêm đậm và ngọt.",
+    "oneLine": "Đơn Tùng Phượng Hoàng với vị ngọt đậm như hoa dạ lai nở về đêm — hương hoa đêm và hậu vị mật ong, nhưng dư vị vẫn sạch.",
     "oxidation": "khoảng 40%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 9 lần",
@@ -1529,7 +1529,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-tongtian": {
     "name": "Đơn Tùng Thông Thiên Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng mà hương thơm bốc cao và mạnh — 'vươn tới trời'.",
+    "oneLine": "Đơn Tùng Phượng Hoàng mang tên 'thông thiên' vì hương thơm bốc cao và mạnh — hoa bung ngay từ nước đầu, tươi sáng, giòn mát, hậu vị sạch.",
     "oxidation": "khoảng 35%",
     "ratioNote": "5 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 10 lần",
@@ -1545,7 +1545,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-youhua": {
     "name": "Đơn Tùng Dữu Hoa Hương",
-    "oneLine": "Đơn tùng Phượng Hoàng với hương hoa bưởi tươi mát.",
+    "oneLine": "Đơn Tùng Phượng Hoàng mang tên hương tươi của hoa bưởi mùa xuân — hoa bưởi và cam quýt trên thể trà nhẹ, vị ngọt rõ và sạch.",
     "oxidation": "khoảng 35%",
     "ratioNote": "5 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 8 lần",
@@ -1561,7 +1561,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-songzhong": {
     "name": "Đơn Tùng Tống Chủng",
-    "oneLine": "Dòng đơn tùng cây cổ được cho là có từ triều Tống.",
+    "oneLine": "Đơn tùng bụi cổ Phượng Hoàng từ đỉnh Ô Động, được cho là hậu duệ của những cây trồng từ đời Tống — hoa sâu lắng trên vị ngọt đậm, hậu vị dài.",
     "oxidation": "khoảng 45%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 10 lần",
@@ -1577,7 +1577,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-baxian": {
     "name": "Đơn Tùng Bát Tiên",
-    "oneLine": "Đơn tùng lá to, mềm, được đặt tên theo Bát Tiên.",
+    "oneLine": "Đơn Tùng Phượng Hoàng lá lớn, mềm mang tên Bát Tiên — hoa mềm, trong trẻo và vị ngọt hào phóng, đều đặn từ lá lớn.",
     "oxidation": "khoảng 40%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 9 lần",
@@ -1593,7 +1593,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-dancong-dawuye": {
     "name": "Đơn Tùng Đại Ô Diệp",
-    "oneLine": "Dòng đơn tùng lá to, sẫm với hương và vị mạnh.",
+    "oneLine": "Dòng đơn tùng lá lớn sẫm màu giữ được hương ngay cả khi pha đậm uống đá — hoa đậm đặc, thể trà nặng, vị ngọt hồi mạnh sau vị đắng.",
     "oxidation": "khoảng 50%",
     "ratioNote": "6 g trà trong chén khải 120 ml",
     "rounds": "pha được khoảng 10 lần",
@@ -1609,7 +1609,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-assam": {
     "name": "Ô long Assam",
-    "oneLine": "Lá assamica được làm thành ô long — mạch nha dưới hương ô long.",
+    "oneLine": "Phong cách mới từ các vườn Brahmaputra của Assam, lá hồng trà dừng ở nửa oxy hóa — mạch nha, mật ong và ngũ cốc rang hòa cùng hương hoa ô long.",
     "oxidation": "Khoảng 40%",
     "ratioNote": "5 g trà với 150 ml nước",
     "rounds": "pha được 5 lần",
@@ -1625,7 +1625,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-ceylon": {
     "name": "Ô long Ceylon",
-    "oneLine": "Lá vùng cao Sri Lanka, oxy hóa một nửa — sự tươi sáng của Ceylon cùng hương hoa ô long.",
+    "oneLine": "Ô long sản lượng nhỏ làm cùng hồng trà ở Uva và các vườn gần 1.200 m — cam quýt và hoa trong trẻo với mật ong nhẹ trên khung vị tươi sáng.",
     "oxidation": "Khoảng 30%",
     "ratioNote": "5 g trà với 150 ml nước",
     "rounds": "pha được 5 lần",
@@ -1641,7 +1641,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-ruby": {
     "name": "Ô long Ruby",
-    "oneLine": "Ô long viên nướng đậm từ vùng cao Thái Lan — nước trà đỏ ruby, vị ngọt trái cây khô.",
+    "oneLine": "Ô long viên rang đậm làm bằng tay nghề Đài Loan quanh Doi Mae Salong, mang tên theo nước trà đỏ — vị ngọt mận khô và nho khô cùng hạt rang.",
     "oxidation": "Khoảng 50%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6 lần",
@@ -1657,7 +1657,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-jeju": {
     "name": "Trà nham thạch núi lửa Jeju",
-    "oneLine": "Ô long Hàn Quốc từ các cánh đồng núi lửa của Jeju — một chén trà sạch với khía cạnh khoáng chất.",
+    "oneLine": "Ô long bán oxy hóa từ lá Jeju lớn trên đất bazan, gió biển và chênh lệch ngày–đêm lớn — hoa và cỏ sạch với cạnh khoáng chất và vị ngọt gọn.",
     "oxidation": "Khoảng 30%",
     "ratioNote": "5 g trà với 150 ml nước",
     "rounds": "pha được 5 lần",
@@ -1673,7 +1673,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-cheong": {
     "name": "Ô long Thanh (Cheong)",
-    "oneLine": "Ô long nhẹ kiểu Đài Loan được làm ở Hàn Quốc — một thanh trà trong trẻo, hương hoa.",
+    "oneLine": "Thanh trà oxy hóa nhẹ kiểu Đài Loan làm từ lá Hàn Quốc ở Jeju, Boseong và Hadong — lan và hoa đồng cỏ trong trẻo, tươi mới giữa trà xanh và ô long.",
     "oxidation": "Khoảng 20%",
     "ratioNote": "6 g trà với 150 ml nước",
     "rounds": "pha được 6 lần",
@@ -1689,7 +1689,7 @@ window.TEAFaiDataVi = (function () {
   },
   "oolong-jasmine": {
     "name": "Ô long Long Châu Nhài",
-    "oneLine": "Ô long oxy hóa nhẹ được vò thành viên ngọc và ướp hương nhài.",
+    "oneLine": "Long châu nhài thường có nền trà xanh; phiên bản hiếm của Đài Loan vo nền ô long — nhài trong trẻo và vị ngọt dịu trong nước trà kem nhạt.",
     "oxidation": "Khoảng 20%",
     "ratioNote": "3 g trà với 150 ml nước",
     "rounds": "pha được 3 lần trở lên",
@@ -1705,7 +1705,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-darjeeling-first": {
     "name": "Darjeeling First Flush",
-    "oneLine": "Búp trà mùa xuân: hương nho và hoa — 'sâm panh' của thế giới trà.",
+    "oneLine": "Vụ xuân 'sâm panh của trà' từ những vườn trà trong sương ở độ cao 2.000 m trên Himalaya — độ oxy hóa thấp để nho xanh, hương muscatel và hoa trắng nở nhẹ nhàng.",
     "oxidation": "85%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1719,7 +1719,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-assam": {
     "name": "Assam",
-    "oneLine": "Hương mạch nha và vị đậm dày — trụ cột của trà sữa.",
+    "oneLine": "Trà lá lớn từ đồng bằng Brahmaputra, vùng hồng trà lớn nhất thế giới — mạch nha, mật ong và nho khô trong thân vị dày, trụ cột của trà sữa.",
     "oxidation": "95%",
     "ratioNote": "5 g cho 200 ml; pha trà sữa dùng 5 g cho 150 ml",
     "rounds": "1–2 lần pha",
@@ -1731,10 +1731,10 @@ window.TEAFaiDataVi = (function () {
     "pairing": "Bánh mì bagel phô mai kem, bánh mì nướng phết bơ, bánh sô cô la và xúc xích nướng đều hợp. Độ đậm mạch nha và mật ong sâu cùng thể trà dày của trà đứng vững trước bơ và kem, và khi pha với sữa trà tạo thành nền masala chai ngon. Món ăn quá tinh tế như sashimi đơn giản có xu hướng bị lấn át.",
     "brewTip": "98 °C trong 3 phút. Pha với sữa thì dùng 5 g cho 150 ml."
   },
-    "black-assam-ctc": {"name": "Assam CTC", "oneLine": "Lá vụn pha nhanh và đậm — ngôi sao của chai và trà túi lọc.", "oxidation": "95%", "ratioNote": "3 g cho 150 ml; uống nguyên chất 3 g cho 200 ml", "rounds": "1–2 lần", "steepBasis": "100 °C trong 2 phút — lâu hơn sẽ đắng.", "origin": "Các đồn điền đồng bằng của Assam, Ấn Độ, dọc sông Brahmaputra. Phần lớn sản lượng Assam được làm theo kiểu CTC.", "process": "Làm héo → CTC (nghiền, xé, cuộn) → oxy hóa → sấy. Con lăn nghiền lá thành hạt nhỏ, cho màu đậm chỉ trong chốc lát.", "story": "Năm 1930, máy CTC đầu tiên đi vào hoạt động tại đồn điền Amgoorie ở Assam dưới sự giám sát của William McKercher. Nay đây là tiêu chuẩn cho trà đen Ấn Độ và châu Phi.", "flavor": "Mạch nha đậm và vị chát sảng khoái, nước trà đỏ sẫm; thô hơn Assam truyền thống nhưng chịu được sữa, đường và gia vị.", "pairing": "Masala chai, trà sữa, bánh scone với kem clotted và các món tráng miệng sô cô la đậm đều hợp. Nước trà nhanh và mạnh của nó giữ vững vị giữa sữa và gia vị. Những hương vị quá tinh tế dễ bị vị chát lấn át.", "brewTip": "Ở 100 °C đừng quá 2 phút. Khi pha với sữa, hãy pha đậm — 3 g cho 150 ml — để trà không bị nhạt."},
+    "black-assam-ctc": {"name": "Assam CTC", "oneLine": "Hồng trà CTC, bắt đầu với chiếc máy đầu tiên ở Amgoorie năm 1930 — lá dạng hạt pha ra màu đỏ đậm và mạch nha mạnh mẽ, đứng vững trước sữa và gia vị.", "oxidation": "95%", "ratioNote": "3 g cho 150 ml; uống nguyên chất 3 g cho 200 ml", "rounds": "1–2 lần", "steepBasis": "100 °C trong 2 phút — lâu hơn sẽ đắng.", "origin": "Các đồn điền đồng bằng của Assam, Ấn Độ, dọc sông Brahmaputra. Phần lớn sản lượng Assam được làm theo kiểu CTC.", "process": "Làm héo → CTC (nghiền, xé, cuộn) → oxy hóa → sấy. Con lăn nghiền lá thành hạt nhỏ, cho màu đậm chỉ trong chốc lát.", "story": "Năm 1930, máy CTC đầu tiên đi vào hoạt động tại đồn điền Amgoorie ở Assam dưới sự giám sát của William McKercher. Nay đây là tiêu chuẩn cho trà đen Ấn Độ và châu Phi.", "flavor": "Mạch nha đậm và vị chát sảng khoái, nước trà đỏ sẫm; thô hơn Assam truyền thống nhưng chịu được sữa, đường và gia vị.", "pairing": "Masala chai, trà sữa, bánh scone với kem clotted và các món tráng miệng sô cô la đậm đều hợp. Nước trà nhanh và mạnh của nó giữ vững vị giữa sữa và gia vị. Những hương vị quá tinh tế dễ bị vị chát lấn át.", "brewTip": "Ở 100 °C đừng quá 2 phút. Khi pha với sữa, hãy pha đậm — 3 g cho 150 ml — để trà không bị nhạt."},
   "black-nilgiri": {
     "name": "Nilgiri",
-    "oneLine": "Trà cao nguyên Nam Ấn: hương mát, vị chát dịu.",
+    "oneLine": "Hồng trà từ dãy Núi Xanh, nơi những vườn trà thương mại đầu tiên mở năm 1859 — cảm giác mát như cam quýt và bạc hà nằm trong trẻo trên nền mạch nha dịu.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1748,7 +1748,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-nuwaraeliya": {
     "name": "Nuwara Eliya",
-    "oneLine": "Vườn trà cao nhất của Ceylon ở 1.800 m trong sương — sáng và tinh tế nhất.",
+    "oneLine": " 'Sâm panh của Ceylon' từ những vườn trà cao nhất của nó ở 1.800 m — không khí mát giữ cam quýt, hoa trắng và chút bạc hà tươi sáng, tinh tế.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1762,7 +1762,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-udapussellawa": {
     "name": "Uda Pussellawa",
-    "oneLine": "Kề bên Nuwara Eliya, một vùng trà nhỏ với nốt hương hoa hồng.",
+    "oneLine": "Trà từ quận nhỏ nhất trong bảy quận trà của Ceylon — hoa hồng mùa mát và cam quýt nhẹ trên thân vị vừa với dư vị tươi sáng.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1776,7 +1776,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-uva": {
     "name": "Uva",
-    "oneLine": "Trà từ mùa gió khô: cảm giác mát như bạc hà.",
+    "oneLine": "Uva, nơi hai mùa gió mùa gặp nhau, ngon nhất vào mùa khô tháng Bảy–Chín — cảm giác mát như bạc hà và khuynh diệp đến cùng vị chát ở cuối.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1790,7 +1790,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-dimbula": {
     "name": "Dimbula",
-    "oneLine": "Cao nguyên miền trung Ceylon: hồng trà cân bằng, chuẩn mực.",
+    "oneLine": "Trụ cột của các blend bữa sáng kiểu Anh từ cao nguyên miền trung Ceylon — hoa, cam quýt và mạch nha cân bằng, với vị chát vừa phải.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1804,7 +1804,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-sabaragamuwa": {
     "name": "Sabaragamuwa",
-    "oneLine": "Vùng đất thấp tây nam của Ceylon, với hương trái cây ngay từ mùi đầu.",
+    "oneLine": "Trà Ceylon từ vùng đất thấp tây nam ẩm ướt, lá được giữ mềm — trái cây chín và mật ong nằm tròn trịa trong thân vị mềm.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1818,7 +1818,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-kandy": {
     "name": "Kandy",
-    "oneLine": "Nơi trà Ceylon bắt đầu: hồng trà vùng trung du dịu nhẹ.",
+    "oneLine": "Nơi trà Ceylon bắt đầu, với đợt trồng thương mại đầu tiên của Taylor năm 1867 — lá vùng trung du cho mạch nha dịu và hoa với rất ít vị chát.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1832,7 +1832,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-ruhuna": {
     "name": "Ruhuna",
-    "oneLine": "Vùng đất thấp phía nam Ceylon: đậm và rộng vị.",
+    "oneLine": "Trà Ceylon vùng đất thấp phía nam, oxy hóa nhanh trong cái nóng — nước trà sẫm nhất, mạch nha rộng và vị chát mạnh, làm ra cho trà sữa.",
     "oxidation": "90%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1846,7 +1846,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Hoa hồng, lan và sô cô la đen — thước đo của hồng trà Trung Quốc, một trong ba loại hồng trà vĩ đại nhất thế giới.",
+    "oneLine": "Một trong ba loại hồng trà vĩ đại nhất thế giới, làm từ năm 1875 theo phương pháp Phúc Kiến — lá vò mịn bung ra hoa hồng, hoa lan và sô cô la đen trong dư vị dài.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "1–2 lần pha",
@@ -1860,7 +1860,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-lapsang": {
     "name": "Lapsang Souchong",
-    "oneLine": "Sấy khói thông: hồng trà có hương mạnh nhất.",
+    "oneLine": "Hồng trà ra đời khi lá bị oxy hóa trong lúc chạy trốn binh lính và được sấy vội trên củi thông — khói thông, hắc ín và trái cây khô, sâu và nặng.",
     "oxidation": "95%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1874,7 +1874,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-jinjunmei": {
     "name": "Kim Tuấn Mi (Jin Jun Mei)",
-    "oneLine": "Chỉ làm từ búp theo phong cách Lapsang — một trong những hồng trà quý nhất.",
+    "oneLine": "Hồng trà quý được tạo ra năm 2005 chỉ từ búp xuân của Lapsang — không khói, nên mật ong, hoa trắng và mơ khô ở lại, với vị ngọt dịu, dài.",
     "oxidation": "85%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "2 lần pha",
@@ -1888,7 +1888,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-dianhong": {
     "name": "Điền Hồng (Dianhong)",
-    "oneLine": "Sức mạnh lá lớn Vân Nam: vàng sáng và mật ong.",
+    "oneLine": "Hồng trà lá lớn Vân Nam còn trẻ, làm lần đầu ở Phượng Khánh năm 1939 — oxy hóa dài mang đến búp vàng, mật ong và mận khô trong thân vị dày.",
     "oxidation": "95%",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1902,7 +1902,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-masala": {
     "name": "Masala Chai",
-    "oneLine": "Hồng trà đun với gia vị và sữa — tách trà thường ngày của Ấn Độ từ người bán chai (chai-wallah).",
+    "oneLine": "Tách trà thường ngày của người bán chai, định hình ở Ấn Độ thời thuộc địa — Assam CTC mạnh đun với gừng, bạch đậu khấu, quế và sữa, ấm và tròn vị.",
     "oxidation": "95%",
     "ratioNote": "5 g cho 150 ml, sau đó thêm một nửa sữa",
     "rounds": "Đun một lần",
@@ -1916,7 +1916,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-sikkim": {
     "name": "Temi (Sikkim)",
-    "oneLine": "Đông Himalaya: một vườn trà nhỏ nổi tiếng vì hoàn toàn hữu cơ.",
+    "oneLine": "Từ vườn trà duy nhất của Sikkim, bang hoàn toàn hữu cơ đầu tiên của Ấn Độ — độ cao Himalaya nở hoa và hương muscatel nhẹ trên thân vị mềm.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1930,7 +1930,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-nepal": {
     "name": "Ilam (Nepal)",
-    "oneLine": "Đông Himalaya: hồng trà cao nguyên sát cạnh Darjeeling.",
+    "oneLine": "Hồng trà cao nguyên từ Ilam của Nepal, ngay sát Darjeeling — lá từ nông trại nhỏ nở nhẹ với hoa, nho xanh và hương muscatel.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1944,7 +1944,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-kenya": {
     "name": "CTC (Kenya)",
-    "oneLine": "CTC cao nguyên xích đạo: màu sâu và độ mạnh.",
+    "oneLine": "CTC từ Kenya vùng xích đạo, một trong ba nước xuất khẩu hồng trà lớn nhất thế giới — lá xé nhỏ cho nước trà đỏ đậm, mạch nha mạnh và sức mạnh chịu được sữa.",
     "oxidation": "95%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1958,7 +1958,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-jaksal": {
     "name": "Jaksal (Hadong)",
-    "oneLine": "Hồng trà làm ở Hadong từ lá trà Hàn Quốc; 'jaksal' là từ địa phương chỉ 'lưỡi chim sẻ'.",
+    "oneLine": "Jaksal, lá xanh Hadong được oxy hóa hoàn toàn trên sườn núi Jiri — tên địa phương của nó chỉ lá non, mang mật ong, trái cây khô và mạch nha dịu.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "1–2 lần pha",
@@ -1972,7 +1972,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-ruby18": {
     "name": "Sun Moon Lake",
-    "oneLine": "Lai giữa trà dại Đài Loan và assamica Miến Điện — bạc hà và quế.",
+    "oneLine": "Hồng ngọc của hồ Nhật Nguyệt, lai giữa trà dại Đài Loan và assamica Miến Điện — lá lớn oxy hóa dài thở ra bạc hà, quế và nhục đậu khấu, dư vị dài.",
     "oxidation": "95%",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -1986,7 +1986,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-sheng": {
     "name": "Phổ Nhĩ Sống (Sheng Pu-erh)",
-    "oneLine": "Phổ Nhĩ chưa ủ chín — thời gian và vi sinh vật làm nhiệm vụ lão hóa.",
+    "oneLine": "Phổ nhĩ sống Vân Nam, từng là trà tiến vua nhà Thanh — ép bánh và lão hóa, nó chín dần từ trái cây khô và mật ong tới táo tàu, thảo dược và gỗ cũ.",
     "oxidation": "Lên men sau · sống",
     "ratioNote": "5 g cho 100 ml trong ấm cái oản (gaiwan); tráng trà một lần",
     "rounds": "8 lần pha trở lên",
@@ -2000,7 +2000,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-shou": {
     "name": "Phổ Nhĩ Chín (Shou Pu-erh)",
-    "oneLine": "Phổ Nhĩ được ủ chín trước — tách trà vị đất uống được ngay.",
+    "oneLine": "Phổ nhĩ chín được làm chín trước bằng ủ đống (wo dui), phát triển ở Côn Minh năm 1973 — đất, táo tàu và nấm với vị ngọt dịu, không cần chờ lâu.",
     "oxidation": "Lên men sau · chín",
     "ratioNote": "5 g cho 100 ml; tráng trà hai lần",
     "rounds": "8 lần pha trở lên",
@@ -2014,7 +2014,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-anhua": {
     "name": "Hắc Trà An Hóa (Anhua Dark Tea)",
-    "oneLine": "Hắc trà ép nén từ An Hóa, Hồ Nam, nổi tiếng với khúc 'thiên lượng'.",
+    "oneLine": "Hắc trà An Hóa, quê hương của trà biên giới thời Minh–Thanh và nổi tiếng với những khúc thiên lượng — sấy khói thông cho hương khói, táo tàu và thảo dược sâu.",
     "oxidation": "Lên men sau",
     "ratioNote": "5 g cho 150 ml",
     "rounds": "6 lần pha trở lên",
@@ -2028,7 +2028,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-liubao": {
     "name": "Lục Bảo (Liu Bao)",
-    "oneLine": "Hắc trà của Quảng Tây, lão hóa trong giỏ tre.",
+    "oneLine": "Lục Bảo của Quảng Tây, được liệt vào 24 trà danh tiếng của Trung Quốc thời Thanh — lão hóa trong giỏ tre cho hương nấm, cau và vị ngọt dịu.",
     "oxidation": "Lên men sau",
     "ratioNote": "5 g cho 150 ml",
     "rounds": "6 lần pha trở lên",
@@ -2042,7 +2042,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-cheongtaejeon": {
     "name": "Cheongtaejeon",
-    "oneLine": "Trà lên men hình đồng xu từ Jangheung — hắc trà của Hàn Quốc.",
+    "oneLine": "Cheongtaejeon, hắc trà Hàn Quốc được hồi sinh ở Jangheung theo hình đồng xu thời Joseon — hấp, ép và lên men cho hương đất ấm, thảo dược và táo tàu.",
     "oxidation": "Lên men sau",
     "ratioNote": "Một đồng xu (5 g) cho 200 ml",
     "rounds": "3 lần pha trở lên",
@@ -2056,7 +2056,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-earlgrey": {
     "name": "Earl Grey",
-    "oneLine": "Hồng trà ướp hương cam bergamot — cái tên không phải nhãn hiệu mà là 200 năm thương mại.",
+    "oneLine": "Hồng trà ướp hương nguyên bản, chìm trong truyền thuyết Bá tước Grey những năm 1830 — cam bergamot Calabria bung thành hương cam quýt và hoa.",
     "oxidation": "95%",
     "ratioNote": "Tỉ lệ 1 phần trà với 60 nước — 3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -2070,7 +2070,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-ladygrey": {
     "name": "Lady Grey",
-    "oneLine": "Earl Grey với vỏ chanh, vỏ cam và hoa — một biến thể dịu hơn.",
+    "oneLine": "Biến thể dịu hơn của Twinings được đặt theo tên Nữ bá tước Grey — bergamot kết hợp vỏ chanh, vỏ cam và hoa, với vị ngọt nhẹ.",
     "oxidation": "95%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -2084,7 +2084,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-englishbreakfast": {
     "name": "English Breakfast",
-    "oneLine": "Blend buổi sáng đậm đà gồm Assam, Ceylon và Keemun.",
+    "oneLine": "Blend mạnh định hình trên bàn ăn sáng của Anh thế kỷ 19 — Assam, Ceylon và Keemun trong mạch nha, mật ong và trái cây khô, đứng vững trước sữa.",
     "oxidation": "95%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -2098,7 +2098,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-hongkong": {
     "name": "Trà Pha Trộn Hồng Kông (Hong Kong Blending)",
-    "oneLine": "Kiểu pha trà sữa đặc trưng của quán cha chaan teng Hồng Kông, với nền chủ đạo là trà Ceylon.",
+    "oneLine": "Trà sữa kiểu Anh tái sinh trong các quán cha chaan teng của Hồng Kông — nền Ceylon mạnh với mạch nha đậm và vị ngọt tròn của sữa đặc không đường (sữa bay hơi).",
     "oxidation": "95%",
     "ratioNote": "8 g cho 200 ml; sữa tùy khẩu vị",
     "rounds": "Pha một lần",
@@ -2112,7 +2112,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-lapsang-unsmoked": {
     "name": "Chính Sơn Tiểu Chủng Không Hun Khói (Zhengshan Xiaozhong)",
-    "oneLine": "Nhánh không khói — hoa và trái cây khô hiện rõ nguyên vẹn.",
+    "oneLine": "Chính Sơn Tiểu Chủng chỉ sấy trên than, không có khói thông — trái cây khô, mật ong và hoa hiện rõ ràng, sạch sẽ thay vào đó.",
     "oxidation": "khoảng 90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -2128,7 +2128,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-yingde": {
     "name": "Hồng Trà Anh Đức (Yingde)",
-    "oneLine": "Sức mạnh lá lớn Quảng Đông — đậm và sáng.",
+    "oneLine": "Hồng trà Anh Đức xây trên sức mạnh lá lớn Quảng Đông — mạch nha, mật ong và trái cây đỏ trong nước trà sẫm vẫn sống động với sữa.",
     "oxidation": "khoảng 95%",
     "ratioNote": "3 g cho 200 ml; pha trà sữa dùng 5 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -2144,7 +2144,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-rize": {
     "name": "Rize Çay",
-    "oneLine": "Trà đậm trong ly tulip nhỏ — tách trà thường ngày vùng Biển Đen.",
+    "oneLine": "Trà thường ngày của Türkiye từ Rize bên Biển Đen — mạch nha và bánh mì nướng pha đậm vào ly tulip nhỏ với nước trà đỏ đậm.",
     "oxidation": "khoảng 95%",
     "ratioNote": "4 g cho 150 ml",
     "rounds": "2 lần pha",
@@ -2160,7 +2160,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-cameron": {
     "name": "Hồng Trà Cameron Highlands",
-    "oneLine": "Trà đậm, tròn vị từ một điền trang cao nguyên xích đạo.",
+    "oneLine": "Hồng trà từ Cao nguyên Cameron của Malaysia, nơi một điền trang đã trồng trà từ năm 1929 — mạch nha và vị rang trong nước trà sẫm làm ra cho sữa.",
     "oxidation": "khoảng 95%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -2176,7 +2176,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-rwanda": {
     "name": "Hồng Trà Rwanda",
-    "oneLine": "Hồng trà sáng, sạch từ cao nguyên Đông Phi.",
+    "oneLine": "Hồng trà Rwanda trồng chậm trên những đồi sương mù ở 1.600 m — mạch nha với cạnh tươi sáng trong nước trà đỏ đậm, mềm hơn trà Kenya.",
     "oxidation": "khoảng 95%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -2192,7 +2192,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-dooars": {
     "name": "Hồng Trà Dooars",
-    "oneLine": "Trà đồng bằng đậm đà nằm giữa Darjeeling và Assam.",
+    "oneLine": "Trà đồng bằng mạnh nằm giữa Darjeeling và Assam — mạch nha và vị rang với độ bám khá, làm ra cho chén bữa sáng với sữa.",
     "oxidation": "khoảng 92%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -2208,7 +2208,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-yeongdeok": {
     "name": "Hồng Trà Yeongdeok",
-    "oneLine": "Hồng trà Hàn Quốc nhỏ từ những đồi ven biển phía đông.",
+    "oneLine": "Hồng trà Hàn Quốc từ nông trại nhỏ ở những đồi ven biển phía đông của Yeongdeok, lá mùa hè oxy hóa hoàn toàn — mạch nha, nốt hoa thoảng và vị ngọt mềm.",
     "oxidation": "khoảng 90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "3 lần pha",
@@ -2224,7 +2224,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-fuzhuan": {
     "name": "Trà Gạch Phó Chuyên (Fu Brick Tea)",
-    "oneLine": "'Hoa vàng' màu vàng bên trong viên gạch — dấu ấn của trà Phó Chuyên.",
+    "oneLine": "Trà gạch với 'hoa vàng' màu vàng nở bên trong — nấm, đất và ngũ cốc trên nền vị ngọt mềm, tròn, càng nhiều hoa càng mượt.",
     "oxidation": "lên men sau",
     "ratioNote": "5 g cho 150 ml; tráng trà một lần",
     "rounds": "8 lần pha",
@@ -2240,7 +2240,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-qianliang": {
     "name": "Thiên Lượng Trà (Qianliang Tea)",
-    "oneLine": "Một khúc trà ép trong tre, cắt ra dùng dần.",
+    "oneLine": "Một khúc trà dài ép trong tre, được đặt tên theo trọng lượng nghìn lượng xưa — cắt ra pha, nó cho hương tre, đất và vị ngọt sâu, mềm hơn theo thời gian.",
     "oxidation": "lên men sau",
     "ratioNote": "5 g cho 150 ml; tráng trà một lần",
     "rounds": "8 lần pha",
@@ -2256,7 +2256,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-kangzhuan": {
     "name": "Khang Chuyên (Kangzhuan Tea)",
-    "oneLine": "Gạch trà ép của Tứ Xuyên dành cho Tây Tạng — ở đó được đun với bơ và muối.",
+    "oneLine": "Gạch trà ép cứng của Nhã An, từng hướng về Tây Tạng — đất và ngũ cốc với vị ngọt mạnh, hơi thô, mà bơ hoặc sữa làm mềm.",
     "oxidation": "lên men sau",
     "ratioNote": "5 g cho 150 ml; tráng trà một lần",
     "rounds": "7 lần pha",
@@ -2272,7 +2272,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-tibetan": {
     "name": "Trà Bơ Tây Tạng (Tibetan Butter Tea)",
-    "oneLine": "Trà gạch đậm đánh với bơ và muối — một ngày Tây Tạng.",
+    "oneLine": "Thức uống thường ngày của Tây Tạng, trà gạch đun đậm và đánh với bơ và muối — vị béo của bơ và cạnh mặn trên nền đất sẫm, ấm dần.",
     "oxidation": "lên men sau",
     "ratioNote": "8 g cho 500 ml nước; bơ và muối tùy khẩu vị",
     "rounds": "1 lần pha, uống dạng cô đặc",
@@ -2288,7 +2288,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-laoqingzhuan": {
     "name": "Lão Thanh Chuyên (Lao Qingzhuan)",
-    "oneLine": "Hắc trà ép của Hồ Bắc từng đi đến Mông Cổ và Nga.",
+    "oneLine": "Trà gạch xanh của Hồ Bắc từ Zhaoliqiao, từng được buôn đến Mông Cổ và Nga — những viên gạch lão hóa cho đất, ngũ cốc và vị ngọt điềm, mềm.",
     "oxidation": "lên men sau",
     "ratioNote": "5 g cho 150 ml; tráng trà một lần",
     "rounds": "7 lần pha",
@@ -2304,7 +2304,7 @@ window.TEAFaiDataVi = (function () {
   },
   "dark-tianjian": {
     "name": "Thiên Tiêm (Tianjian Tea)",
-    "oneLine": "Hắc trà An Hóa hạng cao nhất, để rời — hình lá vẫn còn nguyên.",
+    "oneLine": "Hắc trà hạng cao nhất của An Hóa, để rời để hình lá còn nguyên — khói và đất với vị ngọt như táo tàu, nhẹ và tươi hơn trà ép.",
     "oxidation": "lên men sau",
     "ratioNote": "5 g cho 150 ml; tráng trà một lần",
     "rounds": "8 lần pha",
@@ -2320,7 +2320,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-rose": {
     "name": "Trà Hoa Hồng (Rose Tea)",
-    "oneLine": "Nụ hồng khô trên nền hồng trà — sâu hơn hoa đơn thuần.",
+    "oneLine": "Nụ hồng khô pha vào hồng trà — hương nước hoa hồng và vị ngọt mật ong, với mạch nha của trà đứng vững phía sau.",
     "oxidation": "khoảng 85% (nền hồng trà)",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "3 lần pha",
@@ -2336,7 +2336,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-lychee": {
     "name": "Hồng Trà Vải (Lychee Black Tea)",
-    "oneLine": "Quả vải phủ trên hồng trà — tách trái cây của Quảng Đông.",
+    "oneLine": "Hồng trà trái cây của Quảng Đông, ướp hương vải — hương thơm ngọt của quả phủ trên mạch nha, vẫn trong trẻo ngay cả khi rót trên đá.",
     "oxidation": "khoảng 90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "3 lần pha",
@@ -2352,7 +2352,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-thaitea": {
     "name": "Cha Yen",
-    "oneLine": "Trà đậm, sữa đặc và đá — ly trà màu cam của Thái Lan.",
+    "oneLine": "Ly trà đường phố màu cam của Thái Lan, hồng trà vụn mịn pha đậm với sữa đặc trên đá — mạch nha sâu và vị ngọt béo mịn.",
     "oxidation": "khoảng 95%",
     "ratioNote": "5 g cho 150 ml; sữa đặc và đường tùy khẩu vị",
     "rounds": "1 lần pha",
@@ -2368,7 +2368,7 @@ window.TEAFaiDataVi = (function () {
   },
   "blend-irish-breakfast": {
     "name": "Irish Breakfast",
-    "oneLine": "Thiên về Assam — mạnh nhất trong các blend bữa sáng.",
+    "oneLine": "Blend bữa sáng mạnh nhất, nghiêng về Assam — mạch nha và màu sâu chuyển thành béo mịn ngay khi sữa đi vào.",
     "oxidation": "khoảng 95%",
     "ratioNote": "4 g cho 200 ml",
     "rounds": "3 lần pha",
@@ -2384,7 +2384,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-chuanhong": {
     "name": "Xuyên Hồng (Chuanhong)",
-    "oneLine": "Hồng trà công phu của Tứ Xuyên từ Nghi Tân — hương hoa hồng, vị đầy, ngọt theo sau.",
+    "oneLine": "Hồng trà công phu của Tứ Xuyên từ Nghi Tân, sánh cùng Kỳ Môn và Điền Hồng, với Kim Nha toàn búp là chủ lực — hương hoa hồng, thể trà đầy, rồi vị ngọt cuộn trào.",
     "oxidation": "90%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "1–2 lần pha",
@@ -2416,7 +2416,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-jiuqu": {
     "name": "Cửu Khúc Hồng Mai (Jiuqu Hongmei)",
-    "oneLine": "Hồng trà của Hàng Châu — vị ngọt như ca cao từ cùng họ lá với Long Tỉnh.",
+    "oneLine": "Gương mặt khác của Hàng Châu — lá họ Long Tỉnh làm thành hồng trà, mang tên theo dáng mai đỏ — nốt cacao, vị ngọt trái cây khô và hoa mềm.",
     "oxidation": "Khoảng 85%",
     "ratioNote": "3 g cho 150 ml",
     "rounds": "1–2 lần pha",
@@ -2432,7 +2432,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-mizhuan": {
     "name": "Mễ Chuyên (Mizhuan)",
-    "oneLine": "Bụi hồng trà Hồ Bắc ép thành gạch — trà thường ngày để được nhiều năm.",
+    "oneLine": "Bụi hồng trà Hồ Bắc được hấp và ép thành gạch để giữ nhiều năm — mạch nha mạnh và vị mặn đất, hợp cả với sữa hay muối.",
     "oxidation": "95%",
     "ratioNote": "5 g (bẻ từ viên gạch) cho 300 ml",
     "rounds": "1–2 lần pha",
@@ -2448,7 +2448,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-hongyun": {
     "name": "Hồng Vận (Hong Yun)",
-    "oneLine": "TTES No.21 của hồ Nhật Nguyệt — bưởi và hoa, hồng trà chua ngọt.",
+    "oneLine": "Hồng trà hồ Nhật Nguyệt từ Hồng Vận (TTES No.21), phép lai assamica × Kỳ Môn — bưởi và hoa trong tuyến trái cây chua ngọt khác hẳn Hồng Ngọc.",
     "oxidation": "95%",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "1–2 lần pha",
@@ -2464,7 +2464,7 @@ window.TEAFaiDataVi = (function () {
   },
   "black-ziya": {
     "name": "Tử Nha Sơn Trà (Ziya Shancha)",
-    "oneLine": "Hồng trà từ búp tím của trà núi bản địa Đài Loan — gương mặt hiếm hơn của hồ Nhật Nguyệt.",
+    "oneLine": "Hồng trà hồ Nhật Nguyệt quý hiếm, sản lượng nhỏ từ búp tím của trà núi bản địa Đài Loan — mật ong hoang, thảo mộc và trái cây khô, mộc mạc và dài.",
     "oxidation": "Khoảng 90%",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "3 lần pha",
@@ -2480,7 +2480,7 @@ window.TEAFaiDataVi = (function () {
   },
   "fruit-daechu": {
     "name": "Trà táo tàu (Daechu)",
-    "oneLine": "Táo tàu khô ninh ngọt — một tách ấm áp cho mùa đông.",
+    "oneLine": "Trà mùa đông Hàn Quốc từ táo tàu khô ninh, nổi tiếng từ Gyeongsan và Boeun — vị ngọt của táo tàu, nốt cháy nhẹ và thân vị mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5–6 quả táo hoặc 2 muỗng cheong với 200 ml",
     "rounds": "Pha một lần (cheong có thể châm thêm nước)",
@@ -2493,7 +2493,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-ginger": {
     "name": "Trà gừng",
-    "oneLine": "Gừng ngâm mật ong — một tách làm ấm người từ trong ra ngoài.",
+    "oneLine": "Món ngâm truyền thống từ gừng thái mỏng trong mật ong, từ Hàn Quốc và Trung Quốc — vị cay nồng sạch sẽ được ôm trong vị ngọt mật ong.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 muỗng cheong với 200 ml",
     "rounds": "Pha một lần",
@@ -2506,7 +2506,7 @@ window.TEAFaiDataVi = (function () {
   },
   "fruit-yuja": {
     "name": "Trà thanh yên (Yuja)",
-    "oneLine": "Thanh yên ngâm mật ong — một tách mùa đông thơm ngát.",
+    "oneLine": "Trà mùa đông từ thanh yên cuối thu của Goheung và Wando, ngâm cả vỏ trong mật ong — hương vỏ cam quýt và vị chua sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 muỗng cheong với 200 ml",
     "rounds": "Pha một lần",
@@ -2519,7 +2519,7 @@ window.TEAFaiDataVi = (function () {
   },
   "fruit-omija": {
     "name": "Trà ngũ vị tử (Omija)",
-    "oneLine": "Quả đỏ được cho là chứa đủ năm vị — một tách cho mùa hè.",
+    "oneLine": "Trà ngũ vị tử từ quả đỏ tháng Chín của Mungyeong và Jeongseon — chua, ngọt, đắng, mặn và cay xếp lớp trong một chén.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 muỗng cheong với 200 ml; dùng nước lạnh cũng được",
     "rounds": "Pha một lần",
@@ -2532,7 +2532,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-ssanghwa": {
     "name": "Trà thảo dược Ssanghwa",
-    "oneLine": "Chín vị thảo dược được sắc — một tách cho lúc mệt mỏi.",
+    "oneLine": "Bài sắc truyền thống Hàn Quốc từ chín vị thảo dược, từ mẫu đơn và địa hoàng đến hoàng kỳ và đương quy — sâu, nặng, đắng và ngọt cùng lúc.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "Một gói 200 ml, dùng nguyên như vậy",
     "rounds": "Pha một lần",
@@ -2545,7 +2545,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-dunggulle": {
     "name": "Trà hoàng tinh (Dunggulle)",
-    "oneLine": "Rễ hoàng tinh rang — tách trà thơm bùi thay cho cà phê.",
+    "oneLine": "Rễ hoàng tinh rang, đào vào mùa thu và phơi khô — vị bùi như ngũ cốc rang và vị ngọt nhẹ thay cho cà phê.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2558,7 +2558,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-buckwheat": {
     "name": "Trà kiều mạch",
-    "oneLine": "Kiều mạch rang với vị ngọt kéo dài.",
+    "oneLine": "Trà ngũ cốc từ hạt kiều mạch rang của Hàn Quốc và Nhật Bản — vị bùi rang, chút đắng thoảng của kiều mạch và vị ngọt dài.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2571,7 +2571,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-barley": {
     "name": "Trà lúa mạch",
-    "oneLine": "Lúa mạch rang đun sôi — loại trà người Hàn uống như nước.",
+    "oneLine": "Trà thường ngày của Hàn Quốc, lúa mạch nguyên vỏ rang đun sôi và uống như nước — hương ngũ cốc rang với dư vị sạch, suốt cả ngày.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "20 g lúa mạch rang với 1 L",
     "rounds": "Đun một lần, uống cả ngày",
@@ -2584,7 +2584,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-brownrice": {
     "name": "Trà gạo lứt",
-    "oneLine": "Gạo lứt rang đun sôi — gạo hóa thành trà.",
+    "oneLine": "Gạo lứt còn cám, rang và đun sôi — gạo hóa thành trà, với hương cơm cháy và vị ngọt sâu dần khi ninh.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "20 g gạo rang với 1 L",
     "rounds": "Pha một lần",
@@ -2597,7 +2597,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-persimmon": {
     "name": "Trà lá hồng",
-    "oneLine": "Lá hồng phơi khô, giàu vitamin C.",
+    "oneLine": "Trà lá Hàn Quốc từ lá hồng đầu hè, hấp hoặc phơi khô — hương cỏ nhẹ và vị ngọt với rất ít vị chát.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2610,7 +2610,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mulberry": {
     "name": "Trà lá dâu tằm",
-    "oneLine": "Lá dâu tằm phơi khô và rang với vị ngọt dịu.",
+    "oneLine": "Trà lá từ lá dâu tằm cuối xuân, phơi khô và rang ở Hàn Quốc và Trung Quốc — vị bùi của lá rang và vị ngọt nhẹ, mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2623,7 +2623,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-lotus": {
     "name": "Trà lá sen",
-    "oneLine": "Lá sen phơi khô — một tách xanh mát cho mùa hè.",
+    "oneLine": "Trà lá thơm từ lá sen mùa hè phơi khô — hương xanh và chút đắng thoảng với dư vị mát, sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2636,7 +2636,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-balloonflower": {
     "name": "Trà rễ cát cánh (Doraji)",
-    "oneLine": "Rễ cát cánh phơi khô đem sắc — loại trà rễ theo truyền thống được tìm đến khi cổ họng khó chịu.",
+    "oneLine": "Trà rễ truyền thống từ rễ cát cánh mùa thu phơi khô, đem sắc — vị đắng nhẹ, vị ngọt và hương sâu riêng của rễ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2649,7 +2649,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mugwort": {
     "name": "Trà ngải cứu",
-    "oneLine": "Ngải cứu mùa xuân phơi khô — tách trà của đầu xuân.",
+    "oneLine": "Chén trà của mùa xuân: ngải cứu non tháng Ba–Bốn, phơi khô và hãm — hương xanh và chút đắng thoảng, thơm khi uống ấm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2662,7 +2662,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-tteokcha": {
     "name": "Trà ép bánh (Tteokcha)",
-    "oneLine": "Lá trà hấp rồi ép thành bánh — loại trà để dành nhiều năm.",
+    "oneLine": "Trà bánh truyền thống Hàn Quốc từ lá hấp giã và ép — để dành nhiều năm, bẻ ra ninh cho thảo dược sâu, táo tàu và đất.",
     "oxidation": "Lên men sau nhẹ",
     "ratioNote": "Một miếng (5 g) với 300 ml",
     "rounds": "3 lần pha trở lên",
@@ -2675,7 +2675,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-chamomile": {
     "name": "Trà hoa cúc La Mã",
-    "oneLine": "Hương táo và mật ong trong một bông hoa — một tách trước khi ngủ.",
+    "oneLine": "Trà hoa từ hoa cúc La Mã phơi khô của Ai Cập, Đức và nhiều nơi khác — táo, mật ong và cỏ khô, mềm và ngọt thoảng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g (một muỗng cà phê hoa) với 200 ml",
     "rounds": "1–2 lần pha",
@@ -2688,7 +2688,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-peppermint": {
     "name": "Trà bạc hà (Peppermint)",
-    "oneLine": "Bạc hà mát lạnh trong một tách trà thảo mộc — dành cho sau khi ăn.",
+    "oneLine": "Trà thảo mộc từ lá bạc hà phơi khô của châu Âu và châu Mỹ — sự tươi mát lạnh của menthol mà không có vị chát.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "1–2 lần pha",
@@ -2701,7 +2701,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-hibiscus": {
     "name": "Trà hibiscus (atiso đỏ)",
-    "oneLine": "Vị chua của đài hoa đỏ — loại trà ngon nhất khi uống đá.",
+    "oneLine": "Trà đỏ từ đài hoa atiso đỏ phơi khô — vị chua của quả mọng và nước trà đỏ đậm tỏa sáng nhất khi uống lạnh.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "1–2 lần pha",
@@ -2714,7 +2714,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-rooibos": {
     "name": "Trà rooibos",
-    "oneLine": "Trà bụi đỏ của Nam Phi — không caffeine, và hợp với sữa.",
+    "oneLine": "Bụi đỏ Nam Phi từ Cederberg, lá kim của nó được lên men — vị ngọt vani, sung và mật ong, cũng hợp với sữa.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2727,7 +2727,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mate": {
     "name": "Trà yerba mate",
-    "oneLine": "Lá có caffeine của Nam Mỹ — uống từ quả bầu bằng ống hút kim loại.",
+    "oneLine": "Mate của Nam Mỹ, chia nhau từ quả bầu qua ống hút kim loại — cỏ, cỏ khô và khói nhẹ với dư vị đắng.",
     "oxidation": "Không oxy hóa · có caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2–3 lần pha",
@@ -2740,7 +2740,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-lavender": {
     "name": "Trà oải hương",
-    "oneLine": "Hoa tím của vùng Provence — thơm đến mức chỉ cần một ít.",
+    "oneLine": "Trà hoa từ oải hương tím của Provence, phơi khô — thơm oải hương, mật ong và cam quýt nhẹ đến mức chỉ cần một ít là đủ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "1 g với 200 ml",
     "rounds": "Một lần pha",
@@ -2753,7 +2753,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-lemongrass": {
     "name": "Trà sả",
-    "oneLine": "Loại cỏ thơm hương chanh — Đông Nam Á trong một tách.",
+    "oneLine": "Trà cỏ từ thân và lá sả phơi khô của Thái Lan và Việt Nam — chanh và cam quýt trên chút gừng thoảng, sảng khoái.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2766,7 +2766,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-chrysanthemum": {
     "name": "Trà hoa cúc",
-    "oneLine": "Hoa cúc mùa thu phơi khô — một loại trà hoa thơm ngát.",
+    "oneLine": "Trà hoa mùa thu từ hoa cúc vàng của Hàng Châu, Hoàng Sơn và Hàn Quốc — nốt thảo dược mát với vị ngọt nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g (3–4 bông) với 200 ml",
     "rounds": "2 lần pha",
@@ -2779,7 +2779,7 @@ window.TEAFaiDataVi = (function () {
   },
   "fruit-mogwa": {
     "name": "Trà mộc qua (Mogwa)",
-    "oneLine": "Mộc qua ngâm mật ong — tách trà mùa đông cho cổ họng khàn.",
+    "oneLine": "Mộc qua, từng được gọi là 'hương thơm sinh trên cây', ngâm cả hạt trong mật ong — vị ngọt hoa mềm khép lại bằng chút chát thoảng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 muỗng cheong với 200 ml",
     "rounds": "Pha một lần",
@@ -2794,7 +2794,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cassia-seed": {
     "name": "Trà hạt muồng (Gyeolmyeongja)",
-    "oneLine": "Vị ngọt của hạt rang — một tách buổi tối không caffeine.",
+    "oneLine": "Chén trà buổi tối không caffeine từ hạt muồng rang — vị rang ngũ cốc và chút đắng thoảng, khép lại bằng chút vị ngọt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2810,7 +2810,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-burdock": {
     "name": "Trà ngưu bàng (Ueong)",
-    "oneLine": "Rễ ngưu bàng rang — ngọt, mùi đất, không caffeine.",
+    "oneLine": "Trà không caffeine từ rễ ngưu bàng, thái lát, phơi khô và rang — vị đất rang và vị ngọt lặng lẽ với dư vị đắng nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2826,7 +2826,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-gugija": {
     "name": "Trà kỷ tử",
-    "oneLine": "Quả kỷ tử khô — vị ngọt nhạt, nước trà vàng.",
+    "oneLine": "Quả kỷ tử khô từ những nguồn nổi tiếng như Cheongyang và Ninh Hạ, hãm nguyên — vị ngọt nhẹ và hương trái cây khô trong nước trà vàng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2842,7 +2842,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cornus": {
     "name": "Trà sơn thù du (Sansuyu)",
-    "oneLine": "Quả đỏ chua gắt — thường làm dịu bằng mật ong.",
+    "oneLine": "Trà từ quả sơn thù du đỏ phơi khô của Gurye và Sancheong — vị chua mạnh và chút đắng trong nước trà đỏ, được mật ong làm dịu.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2858,7 +2858,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-dandelion": {
     "name": "Trà bồ công anh",
-    "oneLine": "Vị đắng của bồ công anh mùa xuân — và rễ rang thơm bùi.",
+    "oneLine": "Bồ công anh hái mùa xuân, lá và rễ phơi khô cho chén trà — lá đắng và hương cỏ, rễ rang thơm bùi với vị ngọt nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2874,7 +2874,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cornsilk": {
     "name": "Trà râu ngô",
-    "oneLine": "Sự dễ chịu của nước luộc ngô — một tách cho mùa hè.",
+    "oneLine": "Chén trà mùa hè từ râu ngô, phơi khô và rang — ngũ cốc rang như nước luộc ngô, vị ngọt nhẹ và dư vị sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2890,7 +2890,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-eggplant": {
     "name": "Trà cà tím",
-    "oneLine": "Cà tím phơi khô, rang rồi ngâm — thơm nướng và dịu.",
+    "oneLine": "Trà rau dân gian từ cà tím mùa hè thái mỏng, sấy khô và rang để giữ lâu — hương rang thơm và vị nhẹ nhàng, hậu vị sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2906,7 +2906,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-licorice": {
     "name": "Trà cam thảo",
-    "oneLine": "Rễ cam thảo đem sắc — ngọt mà không cần chút đường nào.",
+    "oneLine": "Rễ cam thảo, nguyên liệu quen thuộc trong các bài thuốc thảo dược, sắc tại nhà — ngọt rõ rệt không cần đường, vị ngọt tự nhiên và thoảng mùi đất, kết thúc mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -2922,7 +2922,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-hazel": {
     "name": "Trà hạt phỉ (Gaeam)",
-    "oneLine": "Hạt phỉ Hàn Quốc rang rồi ngâm — thơm bùi ấm áp.",
+    "oneLine": "Trà dân gian từ hạt phỉ Hàn Quốc hái lượm, giữ lại và rang để uống — hương hạt rang thơm và vị ngọt dịu trong thể trà mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2938,7 +2938,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cinnamon-twig": {
     "name": "Trà quế chi (Gyeji)",
-    "oneLine": "Cành quế non đem sắc — một tách quế nhẹ nhàng hơn.",
+    "oneLine": "Cành quế non đem sắc — tách trà nhẹ hơn vỏ quế, hương quế mềm, vị ngọt dịu và cảm giác ấm áp.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -2954,7 +2954,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cinnamon": {
     "name": "Trà quế (Gyepi)",
-    "oneLine": "Vỏ quế ngâm — cay, ngọt và ấm.",
+    "oneLine": "Vỏ quế quen thuộc trong sujeonggwa, sắc riêng một mình — hương cay ngọt trong thể trà ấm, khá đầy đặn.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -2970,7 +2970,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sophora": {
     "name": "Trà khổ sâm (Gosam)",
-    "oneLine": "Rễ khổ sâm đem sắc — một loại trà thảo dược đắng thẳng thắn.",
+    "oneLine": "Rễ khổ sâm, dùng lâu đời trong y học thảo dược và sắc với lượng nhỏ — tách trà đắng thẳng thắn với nốt đất và hậu vị khô.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -2986,7 +2986,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-agastache": {
     "name": "Trà bạc hà Hàn Quốc (Baechohyang)",
-    "oneLine": "Lá bạc hà Hàn Quốc phơi khô — một loại trà thảo mộc thơm sống động.",
+    "oneLine": "Thảo mộc bản địa Hàn Quốc mà lá thơm giữa tía tô và bạc hà, sấy khô và hãm — hương thơm sống động, vị ngọt nhẹ và hậu vị mát.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3002,7 +3002,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-tangerine-peel": {
     "name": "Trà trần bì (Gyulpi)",
-    "oneLine": "Vỏ quýt phơi khô và rang — tươi sáng và thơm cam quýt.",
+    "oneLine": "Trà dân gian từ vỏ quýt mùa đông giữ lại, sấy khô và rang — hương cam quýt tươi sáng và vị ngọt nhẹ trong hậu vị sạch, nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3018,7 +3018,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-tangerine-blossom": {
     "name": "Trà hoa quýt (Gyulhwa)",
-    "oneLine": "Hoa quýt phơi khô — một tách hoa tươi sáng.",
+    "oneLine": "Hoa quýt mùa xuân, ít đến mức chỉ sấy được từng mẻ nhỏ — dư âm hoa tươi sáng của trái cây với vị ngọt nhẹ và nước trà trong.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3034,7 +3034,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-platycodon": {
     "name": "Trà cát cánh (Gilgyeong)",
-    "oneLine": "Rễ cát cánh (gilgyeong) đem sắc — đắng ngọt và mùi đất.",
+    "oneLine": "Rễ hoa chuông với tên thuốc cát cánh, đem sắc — cùng loại rễ với trà doraji, hương rễ đắng ngọt và hậu vị khô.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -3050,7 +3050,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-selfheal": {
     "name": "Trà hạ khô thảo (Hagocho)",
-    "oneLine": "Bông hoa self-heal phơi khô — một loại trà hoa đồng cỏ mộc mạc.",
+    "oneLine": "Trà đồng cỏ dân gian từ bông hạ khô thảo, cây ruộng mùa hè quen thuộc được sấy để giữ — hương hoa xanh giản dị, vị ngọt nhẹ, hậu vị sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3066,7 +3066,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-shepherdspurse": {
     "name": "Trà tề thái (Naengi)",
-    "oneLine": "Tề thái phơi khô — một loại trà xanh mùa xuân mùi đất.",
+    "oneLine": "Trà xuân dân gian từ cây tề thái còn thừa sau nồi rau namul, sấy khô và giữ lại — lá và rễ cho hương xanh, vị ngọt nhẹ và hậu vị giản dị.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3082,7 +3082,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-naengcha": {
     "name": "Trà thảo dược lạnh (Naengcha)",
-    "oneLine": "Trà thảo dược đun sôi, để nguội và dùng lạnh — cách uống của mùa hè.",
+    "oneLine": "Cách uống mùa hè của Hàn Quốc — trà ngũ cốc và thảo dược đun sôi, để nguội và giữ lạnh như nước, vị rang của chúng sạch hơn khi uống lạnh.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 500 ml",
     "rounds": "1 mẻ, dùng lạnh",
@@ -3098,7 +3098,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-aged-cucumber": {
     "name": "Trà dưa chuột già (Nogak)",
-    "oneLine": "Dưa chuột già phơi khô và rang — một loại trà mùa hè mộc mạc.",
+    "oneLine": "Trà dân gian giữ lại những quả dưa chuột cuối mùa hè chín vàng — nogak thái lát, sấy và rang cho vị rang giản dị với vị ngọt nhẹ, sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3114,7 +3114,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mungbean": {
     "name": "Trà đậu xanh (Nokdu)",
-    "oneLine": "Đậu xanh rang đem đun — một loại trà ngũ cốc mộc mạc, thơm nướng.",
+    "oneLine": "Sinh ra từ việc uống nước luộc đậu xanh — rang và đun, hạt cho hương rang thơm, vị ngọt nhẹ và hậu vị giản dị.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 500 ml",
     "rounds": "1 lần đun",
@@ -3130,7 +3130,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-kelp": {
     "name": "Trà tảo bẹ (Dasima)",
-    "oneLine": "Tảo bẹ ngâm — một loại trà biển dịu và đậm vị umami.",
+    "oneLine": "Chính tảo bẹ nấu nước dùng, chỉ đơn giản hãm và uống — tảo khô mở ra vị umami mềm, hương gió biển và chút mặn.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3146,7 +3146,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-angelica": {
     "name": "Trà đương quy (Danggwi)",
-    "oneLine": "Rễ đương quy đem sắc — một tách thảo dược sâu vị.",
+    "oneLine": "Đương quy dùng lâu đời trong y học thảo dược, sắc tại nhà cùng táo tàu — rễ khô cho hương thảo dược sâu, vị ngọt dịu và thể trà ấm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -3162,7 +3162,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-carrot": {
     "name": "Trà cà rốt",
-    "oneLine": "Cà rốt phơi khô và rang — một loại trà rau củ ngọt dịu.",
+    "oneLine": "Một trong những cách dân gian biến rau khô thành trà — cà rốt thái lát, sấy và rang để lại vị ngọt dịu và thoảng mùi đất, sạch ở cuối.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3178,7 +3178,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-bamboo": {
     "name": "Trà lá tre (Jukyeop)",
-    "oneLine": "Lá tre phơi khô — một loại trà lá mộc mạc, thanh mát.",
+    "oneLine": "Trà trúc diệp, uống ở xứ tre như Damyang nơi lá được sấy khô — hương xanh giản dị, vị ngọt nhẹ và hậu vị mát.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3194,7 +3194,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-green-onion": {
     "name": "Trà hành (Daepa)",
-    "oneLine": "Phần trắng và rễ của hành Hàn Quốc đem sắc — một loại trà dân gian ấm áp.",
+    "oneLine": "Thuốc sắc tại nhà làm từ lâu mỗi khi cảm lạnh — phần trắng và rễ hành cho hương hành dịu, vị ngọt nhẹ và hậu vị ấm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -3210,7 +3210,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-deodeok": {
     "name": "Trà rễ deodeok (Deodeok)",
-    "oneLine": "Rễ deodeok đem sắc — đắng ngọt và thơm nướng.",
+    "oneLine": "Rễ deodeok núi, sấy khô và giữ để sắc — hương đắng ngọt như rễ hoa chuông, hòa cùng vị ngọt rang và thể trà ấm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần sắc",
@@ -3226,7 +3226,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-peachblossom": {
     "name": "Trà hoa đào",
-    "oneLine": "Hoa đào phơi khô ngâm ra màu hồng nhạt — một loại trà hoa mùa xuân.",
+    "oneLine": "Hoa đào mùa xuân sấy khô để uống quanh năm — hoa sấy trong bóng râm bung hương hoa mềm, vị ngọt nhẹ và nước trà hồng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3242,7 +3242,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-camellia": {
     "name": "Trà hoa sơn trà",
-    "oneLine": "Hoa sơn trà mùa đông, phơi khô và ngâm.",
+    "oneLine": "Hoa sơn trà mùa đông từ Jeju và bờ biển phía nam, sấy khô làm trà — hoa sấy trong bóng râm cho hương hoa mềm, vị ngọt nhẹ và nước trà vàng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3258,7 +3258,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-waxgourd": {
     "name": "Trà bí đao (Donga)",
-    "oneLine": "Bí đao ngâm trong mật ong hoặc đường rồi đun nhỏ lửa — một loại trà truyền thống giàu vị ngọt.",
+    "oneLine": "Trà mùa hè truyền thống từ bí đao ướp mật ong hoặc đường rồi đun — vị ngọt sâu và hương bí mềm trong nước trà nâu nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "20 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3274,7 +3274,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-jerusalemartichoke": {
     "name": "Trà cúc vu (Dwaeji-gamja)",
-    "oneLine": "Cúc vu rang — thơm nướng, hơi ngọt.",
+    "oneLine": "Trà củ mùa thu càng rang sâu càng thơm, dễ uống như nước — thái lát, sấy và rang, để lại hương rang, vị ngọt nhẹ và hậu vị sạch.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3290,7 +3290,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-eucommia": {
     "name": "Trà đỗ trọng (Duzhong)",
-    "oneLine": "Vỏ đỗ trọng đun nhỏ lửa — nặng vị và có cạnh đắng.",
+    "oneLine": "Trà từ cây đỗ trọng, mà vỏ bóc ra kéo thành sợi dai như cao su — cắt và đun, vị đắng ở cạnh, đậm đà, với hương gỗ trầm lặng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3306,7 +3306,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-duhyang": {
     "name": "Trà lá duhyang (Duhyang)",
-    "oneLine": "Lá duhyang thơm nồng, phơi khô và ngâm.",
+    "oneLine": "Trà thảo mộc núi thơm đến mức chỉ cần một ít — lá duhyang sấy trong bóng râm tỏa hương xanh đậm đặc với hậu vị hơi đắng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3322,7 +3322,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-perilla": {
     "name": "Trà hạt tía tô (Deulkkae)",
-    "oneLine": "Hạt tía tô rang, xay và đun sôi — thơm bùi đậm.",
+    "oneLine": "Hạt tía tô mùa thu rang, xay và đun — hạt rang chiết ra hương hạt đậm, như mè, mềm và đầy trong miệng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 200 ml",
     "rounds": "1 lần pha",
@@ -3338,7 +3338,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-strawberry": {
     "name": "Trà dâu tây",
-    "oneLine": "Dâu tây phơi khô ngâm ra vị chua ngọt.",
+    "oneLine": "Dâu tây đúng mùa sấy khô để thưởng thức quanh năm — thái mỏng và sấy, mở ra hương chua ngọt và nước trà hồng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3354,7 +3354,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-peanut": {
     "name": "Trà đậu phộng",
-    "oneLine": "Đậu phộng rang đem đun — thơm bùi và no bụng.",
+    "oneLine": "Đậm đà và bùi béo đủ để thay bữa sáng — đậu phộng mùa thu rang, xay và đun lấp đầy tách trà bằng hương hạt, mềm và đầy.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 200 ml",
     "rounds": "1 lần pha",
@@ -3370,7 +3370,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-lemon": {
     "name": "Trà chanh",
-    "oneLine": "Cheong chanh khuấy vào nước ấm — tươi sáng và ngọt.",
+    "oneLine": "Trà nhà và quán cà phê từ chanh ngâm đường khuấy vào nước — chanh ướp đường cho hương chanh tươi sáng và vị ngọt trong nước trà vàng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "20 g cheong với 200 ml",
     "rounds": "1 lần pha",
@@ -3386,7 +3386,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-garlic": {
     "name": "Trà tỏi",
-    "oneLine": "Tỏi rang đun nhỏ lửa — vị hăng đã dịu đi.",
+    "oneLine": "Tỏi biến đổi nhờ rang, vị cay nồng phai đi khi vị ngọt tăng lên — rang và đun, đưa vị ngọt rang lên trước và làm mềm cạnh gắt sống.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "10 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3402,7 +3402,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-watercaltrop": {
     "name": "Trà củ ấu (Mareum)",
-    "oneLine": "Quả ấu phơi khô đun nhỏ lửa — dịu và mộc mạc.",
+    "oneLine": "Trà truyền thống từ củ ấu mọc trong ao, thu vào mùa thu và sấy khô — đun lên, quả cho vị ngọt giản dị, nhẹ nhàng và hậu vị mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3418,7 +3418,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-maesil": {
     "name": "Trà mơ xanh (Maesil)",
-    "oneLine": "Cheong mơ xanh khuấy vào nước — chua ngọt, một kinh điển của Hàn Quốc.",
+    "oneLine": "Món kinh điển Hàn Quốc từ mơ xanh đầu hè ngâm đường khuấy vào nước — nốt chua mở đầu chạy vào hậu vị ngọt, trong nước trà vàng nhạt.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "20 g cheong với 200 ml",
     "rounds": "1 lần pha",
@@ -3434,7 +3434,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-plumblossom": {
     "name": "Trà hoa mơ (Maehwa)",
-    "oneLine": "Hoa mơ đầu xuân phơi khô — một loại trà hoa hương thanh khiết.",
+    "oneLine": "Hoa mơ, ngắn ngủi đầu xuân và được quý vì hương trong trẻo — nụ sấy trong bóng râm mở ra hương hoa tĩnh lặng và vị ngọt nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3450,7 +3450,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-butterbur": {
     "name": "Trà lá meowi (Meowi)",
-    "oneLine": "Lá meowi phơi khô và sao trên chảo — có cạnh đắng và thơm nướng.",
+    "oneLine": "Lá meowi mùa xuân sấy khô dùng cho cả năm — lá sấy và sao chảo tỏa hương xanh đắng với hậu vị rang.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3466,7 +3466,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-magnolia": {
     "name": "Trà nụ mộc lan (Sini)",
-    "oneLine": "Nụ mộc lan phơi khô — một loại trà hoa hương thanh mát.",
+    "oneLine": "Nụ mộc lan, gọi là sini và dùng hàng thế kỷ — hái trước khi nở và sấy trong bóng râm, cho hương hoa trong, mát và vị ngọt nhẹ.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "2 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3482,7 +3482,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-costus": {
     "name": "Trà mộc hương (Mokhyang)",
-    "oneLine": "Rễ mộc hương đun nhỏ lửa — hương sâu và có cạnh đắng.",
+    "oneLine": "Mộc hương, thảo dược mạnh mà hương đi sâu chỉ với lượng nhỏ — rễ cắt nhỏ và đun, cho hương gỗ sâu và cạnh đắng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3498,7 +3498,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-radishleaf": {
     "name": "Trà lá củ cải khô (Siraegi)",
-    "oneLine": "Lá củ cải phơi khô — thơm nướng và mộc mạc.",
+    "oneLine": "Lá củ cải siraegi, sấy khô làm trà cũng như nấu ăn — lá khô chiết ra hương xanh rang và vị giản dị, nhẹ nhàng.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "3 g với 200 ml",
     "rounds": "2 lần pha",
@@ -3514,7 +3514,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-bangpung": {
     "name": "Trà phòng phong (Bangpung)",
-    "oneLine": "Rễ bangpung đun nhỏ lửa — một loại trà thảo dược trầm và mùi đất.",
+    "oneLine": "Trà từ rễ phòng phong, từ cây mà lá được ăn như rau xanh — cắt và đun, cho hương đất trầm lặng, vị ngọt nhẹ và hậu vị mềm.",
     "oxidation": "Không oxy hóa · không caffeine",
     "ratioNote": "5 g với 300 ml",
     "rounds": "1 lần pha",
@@ -3530,7 +3530,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mushroom": {
     "name": "Trà nấm",
-    "oneLine": "Nấm khô đem ninh — một tách trà đậm vị umami, thanh nhẹ.",
+    "oneLine": "Nấm khô, vị umami đậm dần đến khi tách trà uống gần như nước dùng nhẹ — nấm hương và nấm đun lên cho vị đậm sâu và hương nấm trầm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 300 ml",
     "rounds": "1 lần pha",
@@ -3546,7 +3546,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cherryblossom": {
     "name": "Trà hoa anh đào",
-    "oneLine": "Hoa anh đào phơi khô hoặc muối — mùa xuân trong một tách trà.",
+    "oneLine": "Trà hoa mùa xuân mà cảnh hoa nở trên mặt nước là một nửa thú vui — sấy khô hoặc muối chua, cho hương hoa mềm và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3562,7 +3562,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-poria": {
     "name": "Trà phục linh (Bokryeong)",
-    "oneLine": "Phục linh đem ninh — vị nhạt, mềm, gần như không mùi.",
+    "oneLine": "Phục linh từ bên rễ thông, giản dị đến mức dễ hòa cùng các thảo mộc khác — cắt và đun, vị nhẹ và mềm, hầu như không có hương riêng.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 300 ml",
     "rounds": "1 lần pha",
@@ -3578,7 +3578,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-peach": {
     "name": "Trà đào",
-    "oneLine": "Lát đào khô hãm nước — ngọt và thơm hương trái cây.",
+    "oneLine": "Đào mùa hè sấy khô để uống quanh năm — mềm hơn trái tươi về hương, vị ngọt và cạnh chua nhẹ giữ trong nước trà vàng nhạt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3594,7 +3594,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-beet": {
     "name": "Trà củ dền",
-    "oneLine": "Lát củ dền khô — vị đất, ngọt, đỏ thẫm.",
+    "oneLine": "Trà rau củ đỏ lan rộng như món pha tại nhà khi củ dền được trồng phổ biến ở Hàn Quốc — thái mỏng và sấy, cho vị ngọt mùi đất và nước trà đỏ ruby.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3610,7 +3610,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-loquat": {
     "name": "Trà lá tỳ bà (Bipa)",
-    "oneLine": "Lá tỳ bà phơi khô — dịu, mượt, thanh nhã.",
+    "oneLine": "Trà lá bờ biển phía nam mà bước then chốt là loại bỏ lớp lông ở mặt sau lá — lá tỳ bà khô dày cho nốt thảo mộc trầm, vị ngọt nhẹ và nước trà trong.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3626,7 +3626,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-apple": {
     "name": "Trà táo",
-    "oneLine": "Lát táo khô — ngọt, chua nhẹ, thơm.",
+    "oneLine": "Táo mùa thu sấy khô và giữ để uống mùa đông — thái mỏng cả vỏ, cho vị trái cây chua ngọt và hương mềm trong nước trà vàng nhạt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3642,7 +3642,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-yam": {
     "name": "Trà hoài sơn (Sanyak)",
-    "oneLine": "Lát hoài sơn khô đem sắc — dịu và mượt.",
+    "oneLine": "Hoài sơn, từ lâu vừa là thực phẩm vừa là dược liệu — và không phải matcha — thái lát, sấy và sắc cho hương rễ trầm và vị ngọt tinh bột thoảng qua.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3658,7 +3658,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mulberry-twig": {
     "name": "Trà cành dâu (Sangji)",
-    "oneLine": "Cành dâu non đem sắc — thanh và hương gỗ nhẹ.",
+    "oneLine": "Mọi bộ phận của cây dâu đều có tên và công dụng riêng, cành dâu sangji là một trong số đó — bộ phận khác với lá, cắt, sấy và sắc cho hương gỗ nhẹ và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3674,7 +3674,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cuscuta": {
     "name": "Trà hạt tơ hồng (Tosaja)",
-    "oneLine": "Hạt tơ hồng đem sắc — bùi và dịu.",
+    "oneLine": "Hạt của tơ hồng, dây leo quấn quanh cây khác, ghi chép lâu đời là tosaja — nhỏ và cứng, hợp để sắc, cho hương hạt bùi và vị nhẹ, giản dị.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3690,7 +3690,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pomegranate": {
     "name": "Trà lựu",
-    "oneLine": "Lựu phơi khô — chua ngọt và đỏ ruby.",
+    "oneLine": "Quả và vỏ lựu, cây vườn quen thuộc miền nam, sấy khô làm trà — hãm lên, vị chua ngọt chiết ra thành nước trà đỏ ruby.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3706,7 +3706,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-seolcha": {
     "name": "Seolcha (Trà tuyết)",
-    "oneLine": "Địa y núi phơi khô — nhạt, tinh tế, thanh tĩnh.",
+    "oneLine": "Seolcha, mang tên theo sắc trắng như tuyết và chỉ thu được lượng nhỏ nơi không khí trong lành — địa y núi cao sấy khô cho nốt thảo mộc rất nhẹ và nước trà gần như trong.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3722,7 +3722,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sotae": {
     "name": "Trà Sotae",
-    "oneLine": "Đắng nổi tiếng — loại trà đứng sau câu nói 'đắng như sotae'.",
+    "oneLine": "Trà dân gian đứng sau câu nói 'đắng như sotae' — quả và lá khô cho vị đắng mạnh với đuôi ngọt thoảng qua, trong nước trà nâu đậm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3738,7 +3738,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sokdan": {
     "name": "Trà rễ tục đoạn (Sokdan)",
-    "oneLine": "Rễ sokdan đem sắc — hương đất với vị ngọt nhẹ.",
+    "oneLine": "Thuốc sắc dân gian từ rễ tục đoạn, ghi chép lâu đời trong sách thảo dược — thái lát, sấy và đun, cho hương rễ mùi đất, vị ngọt nhẹ và đuôi hơi đắng.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3754,7 +3754,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pineneedle": {
     "name": "Trà lá thông",
-    "oneLine": "Lá thông non — sảng khoái, hương nhựa thông, tươi mát.",
+    "oneLine": "Trà lá thông, mà việc khử nhựa quyết định thành bại của hương vị — lá non xử lý và sấy cho hương thông tươi và vị sạch trong nước trà vàng nhạt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3770,7 +3770,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pinepollen": {
     "name": "Trà phấn thông (Songhwa)",
-    "oneLine": "Phấn thông khuấy vào nước ấm — mềm và vàng óng.",
+    "oneLine": "Phấn thông chỉ thu vào mùa xuân, từng dùng trong bánh kẹo và đồ uống mật ong — khuấy vào nước thay vì hãm, cho hương thông dịu, vị ngọt mềm và nước trà vàng.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "1 lần pha",
@@ -3786,7 +3786,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-watermelon": {
     "name": "Trà vỏ dưa hấu",
-    "oneLine": "Vỏ dưa hấu phơi khô — sạch, ngọt thoảng, một tách mùa hè.",
+    "oneLine": "Trà mùa hè sinh ra từ việc tận dụng cả quả dưa, thường uống lạnh nhất — cùi trắng sấy cho vị ngọt sạch, rất nhẹ và nước trà gần như trong.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3802,7 +3802,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sorghum": {
     "name": "Trà cao lương",
-    "oneLine": "Hạt cao lương rang — thơm nướng như trà lúa mạch.",
+    "oneLine": "Cao lương, hạt từng phục vụ bánh gạo, món ăn và đồ uống, rang và pha — hạt cho vị rang như trà lúa mạch và vị ngọt nhẹ trong nước trà nâu đỏ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3818,7 +3818,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-bupleurum": {
     "name": "Trà rễ sài hồ (Siho)",
-    "oneLine": "Rễ sài hồ đem sắc — hương đất và đắng.",
+    "oneLine": "Thuốc sắc dân gian từ rễ sài hồ, ghi chép lâu đời trong sách thảo dược — thái lát, sấy và đun, tỏa hương rễ mùi đất với vị đắng rõ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3834,7 +3834,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mallow": {
     "name": "Trà cẩm quỳ (Auk)",
-    "oneLine": "Lá cẩm quỳ phơi khô — mượt, dịu, nhẹ nhàng.",
+    "oneLine": "Cẩm quỳ, rau nấu canh quen thuộc, biến thành trà — lá non từ mọi vườn bếp, sấy và hãm, cho nốt thảo mộc mềm, vị ngọt nhẹ và kết cấu hơi mượt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3850,7 +3850,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cherry": {
     "name": "Trà quả Aengdu (anh đào)",
-    "oneLine": "Anh đào Hàn Quốc phơi khô — chua ngọt và hồng phớt.",
+    "oneLine": "Trà trái cây từ aengdu, từng là cây sân vườn quen thuộc, sấy khô để uống — hãm lên, quả cho vị chua ngọt trong nước trà đỏ nhạt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3866,7 +3866,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-onion": {
     "name": "Trà vỏ hành tây",
-    "oneLine": "Vỏ hành khô — hương hành dịu, nước trà màu hổ phách.",
+    "oneLine": "Trà gia đình tiết kiệm chỉ làm từ vỏ hành khô, không dùng phần thịt — nước trà hổ phách với hương hành mềm và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3882,7 +3882,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-bittermelon": {
     "name": "Trà khổ qua",
-    "oneLine": "Khổ qua phơi khô — đắng sạch và dứt khoát.",
+    "oneLine": "Khổ qua mùa hè từ miền nam và Jeju, thái mỏng và sấy khô — vị đắng rõ với đuôi rang, dịu đi khi rang.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3898,7 +3898,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-lotusroot": {
     "name": "Trà củ sen",
-    "oneLine": "Lát củ sen rang — thơm nướng và ấm lòng.",
+    "oneLine": "Không phải lá mà là củ — củ sen thái lát, sấy, rang và sắc, với hương rang thơm và vị ngọt tinh bột thoảng qua.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3914,7 +3914,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-reishi": {
     "name": "Trà linh chi",
-    "oneLine": "Nước sắc từ nấm linh chi với vị đắng rõ rệt.",
+    "oneLine": "Linh chi, được quý lâu đời như thảo dược trường thọ, thái mỏng và đun — nước trà nâu đậm, vị đắng mạnh và nốt gỗ, đất.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g cho 500 ml",
     "rounds": "2 lần sắc",
@@ -3930,7 +3930,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-mulberry-fruit": {
     "name": "Trà dâu tằm (Odi)",
-    "oneLine": "Quả dâu tằm khô hãm nước — ngọt và tím.",
+    "oneLine": "Dâu tằm chín đen đầu hè, sấy khô và hãm — trà trái cây khác hẳn lá dâu, ngọt và hơi chua trong sắc tím nhạt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3946,7 +3946,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-cucumber": {
     "name": "Trà dưa leo",
-    "oneLine": "Dưa leo khô hãm nước — nhẹ và mát.",
+    "oneLine": "Dưa leo mùa hè thái mỏng và sấy khô, giữ hương ngay cả trong nước nóng — nước trà xanh nhạt trong, hương xanh mát và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3962,7 +3962,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-corn": {
     "name": "Trà ngô rang",
-    "oneLine": "Hạt ngô rang nấu nước — thơm nướng như bỏng ngô.",
+    "oneLine": "Hạt, không phải râu — ngô rang đun cho tách trà sâu hơn, nước vàng với ngũ cốc rang như bắp rang và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3978,7 +3978,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-wasong": {
     "name": "Trà ngõa tùng (Wasong)",
-    "oneLine": "Wasong phơi khô hãm nước — nhẹ và chua thoảng.",
+    "oneLine": "Ngõa tùng, loài mọng nước như thông trên mái ngói và đá, sấy khô và hãm — nước trong với vị chua nhẹ và hương xanh.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -3994,7 +3994,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-achyranthes": {
     "name": "Trà rễ ngưu tất (Useul)",
-    "oneLine": "Nước sắc rễ ngưu tất — hương đất và đậm đà.",
+    "oneLine": "Rễ ngưu tất, mang tên useul vì khớp như đầu gối bò, đem sắc — nước nâu đậm, vị rang mùi đất và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần sắc",
@@ -4010,7 +4010,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-turmeric": {
     "name": "Trà nghệ",
-    "oneLine": "Trà nghệ với màu vàng óng và vị đất cay nhẹ.",
+    "oneLine": "Nghệ từ Jindo nổi tiếng, cây nhuộm cà ri thành vàng — nước vàng đậm với hương đất và hậu vị cay nồng.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4026,7 +4026,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-polygala": {
     "name": "Trà rễ viễn chí (Wonji)",
-    "oneLine": "Nước sắc rễ viễn chí — đắng ngọt và thơm nướng.",
+    "oneLine": "Rễ viễn chí, rút lõi và sấy từ rễ thảo dược mảnh, đem sắc — nước nâu nhạt, vị đắng mở đầu và hậu vị rang.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần sắc",
@@ -4042,7 +4042,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-coix": {
     "name": "Trà ý dĩ",
-    "oneLine": "Ý dĩ rang — bùi, sánh và no bụng.",
+    "oneLine": "Ý dĩ rang, nổi tiếng là trà yulmu máy bán hàng tự động và no bụng như ngũ cốc — hương hạt bùi và vị ngọt nhẹ trong tách trà dày.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4058,7 +4058,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-akebia": {
     "name": "Trà mộc thông (Akebia)",
-    "oneLine": "Dây akebia phơi khô hãm nước — nhẹ và ngọt dịu.",
+    "oneLine": "Thân và quả dây mộc thông, nổi tiếng với quả thu nứt toác, sấy khô — nước trong với vị ngọt nhẹ và hương xanh.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4074,7 +4074,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-ginkgo": {
     "name": "Trà lá bạch quả",
-    "oneLine": "Lá bạch quả phơi khô, sao chảo — một loại trà lá đắng ngọt.",
+    "oneLine": "Không phải hạt mà là lá — lá bạch quả vàng mùa thu sấy và sao chảo, nước vàng nhạt với hương xanh nhẹ và hậu vị đắng ngọt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4090,7 +4090,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-honeysuckle": {
     "name": "Trà kim ngân hoa (Geumeunhwa)",
-    "oneLine": "Nụ kim ngân hãm nước — mềm và thơm hoa.",
+    "oneLine": "Kim ngân hoa, dây leo 'chịu đựng mùa đông' mà nụ là dược liệu geumeunhwa — nước trong với hương hoa dịu và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4106,7 +4106,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-ginseng": {
     "name": "Trà sâm",
-    "oneLine": "Nhân sâm đem sắc — đắng ngọt và hương đất.",
+    "oneLine": "Sâm từ Geumsan và Punggi, thái mỏng, sấy và sắc — nước hổ phách nhạt với vị đắng ngọt và chiều sâu mùi đất.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4122,7 +4122,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-safflower": {
     "name": "Trà hồng hoa (Honghwa)",
-    "oneLine": "Cánh hoa hồng hoa hãm nước — ánh cam rực.",
+    "oneLine": "Cánh hồng hoa, từ loài hoa dùng lâu đời làm thuốc nhuộm đỏ và dược liệu, sấy và hãm — vàng chuyển sang cam, thoảng hương hoa.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4138,7 +4138,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-plum": {
     "name": "Trà mận",
-    "oneLine": "Siro mận pha nước — trà trái cây chua ngọt của mùa hè.",
+    "oneLine": "Mận mùa hè ướp đường lúc ngon nhất và thưởng thức quanh năm — nước đỏ với hương mận tươi, chua ngọt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 muỗng canh siro cho 200 ml",
     "rounds": "1 khẩu phần",
@@ -4154,7 +4154,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-grapefruit": {
     "name": "Trà bưởi",
-    "oneLine": "Siro bưởi pha nước — vị cam chanh với hậu đắng sắc.",
+    "oneLine": "Phương pháp yuja-cheong áp dụng cho bưởi trong các quán cà phê Hàn Quốc — nước hồng nhạt, vị chua tươi sáng và hậu vị đắng rõ rệt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 muỗng canh siro cho 200 ml",
     "rounds": "1 khẩu phần",
@@ -4170,7 +4170,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-purple-corn": {
     "name": "Trà ngô tím",
-    "oneLine": "Ngô tím ninh thành màu tím đậm — một tách trà vùng Andes.",
+    "oneLine": "Ngô tím từ dãy Andes của Peru, sấy khô và đun — nước tím đậm với vị ngọt nhẹ, nốt quả mọng và ngũ cốc rang.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4186,7 +4186,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-purple-perilla": {
     "name": "Trà tía tô (Jaso)",
-    "oneLine": "Lá tía tô hãm nước — thơm và ánh tím.",
+    "oneLine": "Tía tô tím, họ hàng họ bạc hà của tía tô Hàn Quốc với lá mặt sau tím, sấy và hãm — nước phớt tím, hương đặc trưng, vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4202,7 +4202,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-swordbean": {
     "name": "Trà đậu kiếm (Jakdu)",
-    "oneLine": "Đậu kiếm rang pha nước — trong và bùi.",
+    "oneLine": "Đậu kiếm từ quả dài như dao, thái lát, rang và pha — nước trong với hương đậu bùi và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4218,7 +4218,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-peony": {
     "name": "Trà hoa mẫu đơn",
-    "oneLine": "Cánh hoa mẫu đơn hãm nước — mềm mại và thanh nhã.",
+    "oneLine": "Mẫu đơn, rễ là dược liệu cổ và hoa sum suê là trà hoa — cánh hoa mở trong nước trong, hương hoa dịu và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4234,7 +4234,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-adenophora": {
     "name": "Trà sa sâm (Jandae)",
-    "oneLine": "Nước sắc rễ sa sâm — ngọt thơm nướng như cát cánh.",
+    "oneLine": "Rễ sa sâm, gọi là 'sâm cát' và họ hàng với hoa chuông, đem sắc — nước nâu nhạt với vị ngọt rang và hương đất.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần sắc",
@@ -4250,7 +4250,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-bamboo-shoot": {
     "name": "Trà măng (Juksun)",
-    "oneLine": "Măng khô đem rang — thanh đạm và thơm nướng.",
+    "oneLine": "Măng mùa xuân từ Damyang, thái lát, sấy và rang — nước trong với hương xanh giản dị và chiều sâu rang điềm tĩnh.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4266,7 +4266,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-rehmannia": {
     "name": "Trà địa hoàng (Jihwang)",
-    "oneLine": "Nước sắc địa hoàng — rễ hấp chín chuyển vị ngọt đậm đà.",
+    "oneLine": "Địa hoàng đem sắc — như thục địa hoàng, hấp và sấy chín lần đến đen, trở nên ngọt sâu và đậm đà; sống thì đắng và mát.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần sắc",
@@ -4282,7 +4282,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sesame": {
     "name": "Trà mè (Chamkkae)",
-    "oneLine": "Mè rang xay nhuyễn — một tách béo bùi đậm đà.",
+    "oneLine": "Mè rang và xay mịn, khuấy vào nước nóng — vị hạt rang đậm sâu, thể trà dầu mềm và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4298,7 +4298,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-orientalmelon": {
     "name": "Trà dưa lê (Chamoe)",
-    "oneLine": "Dưa lê Hàn Quốc phơi khô hãm nước — nhẹ và ngọt, một tách mùa hè.",
+    "oneLine": "Dưa lê mùa hè thái mỏng và sấy khô, uống lạnh cũng ngon — vị ngọt và hương dưa dịu với hậu vị sạch.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4314,7 +4314,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-calamus": {
     "name": "Trà xương bồ (Changpo)",
-    "oneLine": "Xương bồ đem sắc — hương thơm của lễ hội Dano.",
+    "oneLine": "Rễ và lá xương bồ đem sắc, trà của phong tục nước xương bồ lễ Đoan Ngọ — hương xanh mát, chút cay, hậu vị sạch.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4330,7 +4330,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-greentangerine": {
     "name": "Trà quýt xanh (Cheonggyul)",
-    "oneLine": "Quýt Jeju chưa chín ngâm đường — một tách cam chanh sắc nét.",
+    "oneLine": "Quýt xanh Jeju chưa chín ướp đường thành mứt, sắc hơn trà quýt chín — vị chua tươi sáng và hương vỏ, rồi đến vị ngọt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2–3 muỗng canh mứt cho 200 ml",
     "rounds": "1 tách",
@@ -4346,7 +4346,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-gardenia": {
     "name": "Trà dành dành (Chija)",
-    "oneLine": "Quả dành dành đem sắc — một tách vàng với vị đắng dịu.",
+    "oneLine": "Quả dành dành, cùng loại nhuộm củ cải muối thành vàng, sấy khô và sắc — nước vàng trong, vị đắng nhẹ và nốt đất.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4362,7 +4362,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-chicory": {
     "name": "Trà rễ rau diếp xoăn",
-    "oneLine": "Rễ rau diếp xoăn rang — một tách giống cà phê, không caffeine.",
+    "oneLine": "Rễ rau diếp xoăn rang, uống lâu đời ở Pháp và châu Âu như thức uống thay cà phê — vị đắng rang, mùi đất và hậu vị như cà phê.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4378,7 +4378,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-trifoliateorange": {
     "name": "Trà Taengja (quả chỉ)",
-    "oneLine": "Quả chỉ ngâm đường — chua trước, đắng sau.",
+    "oneLine": "Quả chỉ từ cây hàng rào đầy gai, quá chua khi tươi nên được ướp giữ — trà mùa đông, chua mạnh rồi đắng với hương vỏ cam quýt.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2–3 muỗng canh mứt cho 200 ml",
     "rounds": "1 tách",
@@ -4394,7 +4394,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-taro": {
     "name": "Trà khoai môn (Toran)",
-    "oneLine": "Khoai môn khô đem sắc — trà củ mềm và bở bột.",
+    "oneLine": "Khoai môn, món chính mùa thu, thái lát, sấy và sắc — thể trà tinh bột mềm, vị hạt dịu và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4410,7 +4410,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pineapple": {
     "name": "Trà dứa",
-    "oneLine": "Dứa ngâm đường — một tách nhiệt đới ngọt đậm.",
+    "oneLine": "Dứa ướp đường thành mứt cho nước nóng, uống lạnh như ade cũng tuyệt — vị ngọt sâu và hương dứa với cạnh chua.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2–3 muỗng canh mứt cho 200 ml",
     "rounds": "1 tách",
@@ -4426,7 +4426,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-redbean": {
     "name": "Trà đậu đỏ",
-    "oneLine": "Đậu đỏ rang — trà ngũ cốc thanh đạm và bùi.",
+    "oneLine": "Đậu đỏ rang pha như trà ngũ cốc, sâu và sẫm hơn khi đun — vị hạt rang, thể trà giản dị và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4442,7 +4442,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-grape": {
     "name": "Trà nho",
-    "oneLine": "Nho ngâm đường — trà trái cây ngọt và thơm.",
+    "oneLine": "Nho ướp đường thành mứt, vỏ làm màu sâu hơn — vị ngọt và hương nho với vị chua nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2–3 muỗng canh mứt cho 200 ml",
     "rounds": "1 tách",
@@ -4458,7 +4458,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-hallabong": {
     "name": "Trà Hallabong",
-    "oneLine": "Hallabong Jeju ngâm đường — trà cam chanh mùa đông đậm đà.",
+    "oneLine": "Hallabong Jeju, mang tên núi Halla, ướp đường thành mứt — trà mùa đông sâu hơn trà quýt, hương cam quýt đậm và vị ngọt tròn.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2–3 muỗng canh mứt cho 200 ml",
     "rounds": "1 tách",
@@ -4474,7 +4474,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sunflower": {
     "name": "Trà hạt hướng dương",
-    "oneLine": "Hạt hướng dương rang — một loại trà hạt bùi.",
+    "oneLine": "Hạt hướng dương rang hãm, vỏ cứng cho nhiều hơn khi đun — vị hạt rang bùi với vị ngọt dầu nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4490,7 +4490,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-herbtea": {
     "name": "Trà thảo mộc",
-    "oneLine": "Tên gọi chung cho các loại trà pha từ lá và hoa thảo mộc khô.",
+    "oneLine": "Tên gọi chung cho các loại hãm từ lá và hoa thảo mộc khô — bạc hà, cúc La Mã, tía tô đất — không caffeine, mỗi thảo mộc có nốt xanh và hoa riêng.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4506,7 +4506,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-raisintree": {
     "name": "Trà khúng khéng (Heotgae)",
-    "oneLine": "Quả khúng khéng đem sắc — trà gỗ ngọt dịu.",
+    "oneLine": "Quả khúng khéng sắc lâu đời tại nhà ở Hàn Quốc, thường tìm đến vào sáng sau khi uống rượu — vị ngọt dịu, nốt gỗ và hậu vị mềm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g quả cho 300 ml",
     "rounds": "1 lần sắc",
@@ -4522,7 +4522,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-schizonepeta": {
     "name": "Trà kinh giới (Hyeonggae)",
-    "oneLine": "Bông kinh giới hãm nước — một tách thảo mộc mát như bạc hà.",
+    "oneLine": "Lá và bông kinh giới, dược liệu dùng lâu đời, sấy khô làm trà nhẹ — mát như bạc hà, hương xanh và chút cay.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "3 g cho 200 ml",
     "rounds": "2 lần pha",
@@ -4538,7 +4538,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-walnut": {
     "name": "Trà óc chó",
-    "oneLine": "Óc chó xay khuấy vào nước — một tách béo bùi đậm đà.",
+    "oneLine": "Óc chó xay khuấy vào nước nóng, đôi khi sắc cùng táo tàu và gừng — vị hạt đậm sâu, mềm dầu và vị ngọt nhẹ.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g óc chó xay cho 200 ml",
     "rounds": "1 tách",
@@ -4554,7 +4554,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pumpkin": {
     "name": "Trà bí đỏ",
-    "oneLine": "Bí đỏ chín phơi khô đem sắc — một tách ngọt và mềm.",
+    "oneLine": "Bí đỏ chín, món chính mùa đông, thái lát và sấy khô để dành trong tủ, rồi sắc — vị ngọt bí tự nhiên với thể trà tinh bột mềm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "10 g bí khô cho 200 ml",
     "rounds": "2 lần pha",
@@ -4570,7 +4570,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-redginseng": {
     "name": "Trà hồng sâm",
-    "oneLine": "Sâm hấp khô đem sắc — một tách đắng ngọt và sâu vị.",
+    "oneLine": "Hồng sâm — sâm hấp và sấy đến đỏ — đem sắc: đắng trước, rồi ngọt và mùi đất trong hậu vị dài, sâu.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g lát cho 200 ml",
     "rounds": "1 lần sắc",
@@ -4586,7 +4586,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-astragalus": {
     "name": "Trà hoàng kỳ (Hwanggi)",
-    "oneLine": "Rễ hoàng kỳ đem sắc — một tách thảo mộc ngọt dịu.",
+    "oneLine": "Rễ hoàng kỳ, quen thuộc từ samgyetang, sấy khô và sắc riêng — vị ngọt nhẹ, bùi như đậu và mùi đất mềm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g rễ cho 200 ml",
     "rounds": "1 lần sắc",
@@ -4602,7 +4602,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-magnolia-bark": {
     "name": "Trà hậu phác (Hubak)",
-    "oneLine": "Vỏ hậu phác đem sắc — một tách đắng và thơm sâu.",
+    "oneLine": "Vỏ hậu phác, dược liệu dùng lâu đời, sấy khô và sắc — vị đắng, hương gỗ sâu và hậu vị hơi cay.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "5 g vỏ cho 200 ml",
     "rounds": "1 lần sắc",
@@ -4618,7 +4618,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-pepper": {
     "name": "Trà tiêu đen",
-    "oneLine": "Tiêu đen đun sôi — một loại trà gia vị cay nồng.",
+    "oneLine": "Tiêu đen xay đun trong nước, uống trong tách nhỏ đậm đặc đôi khi cùng mật ong — vị cay nồng và hương gia vị, ngắn và sắc.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "2 g tiêu (khoảng 1 muỗng cà phê) cho 200 ml",
     "rounds": "1 tách",
@@ -4634,7 +4634,7 @@ window.TEAFaiDataVi = (function () {
   },
   "herb-sipjeondaebotang": {
     "name": "Thập Toàn Đại Bổ Thang (Sipjeon Daebotang)",
-    "oneLine": "Bài thuốc bổ cổ điển gồm mười vị thảo dược — nhân sâm, đương quy, hoàng kỳ và nhiều vị nữa — ninh chung với nhau; thức uống bồi bổ mùa đông, sánh vai cùng ssanghwa.",
+    "oneLine": "Bài thuốc mười vị thảo dược kinh điển có nguồn gốc đời Tống — thảo dược Tứ Quân Tử và Tứ Vật cộng hoàng kỳ và quế — đắng ngọt, dịu đi nhờ cam thảo và quế ấm.",
     "oxidation": "không oxy hóa · không chứa caffeine",
     "ratioNote": "60 g dược liệu cho 1000 ml nước",
     "rounds": "1 lần sắc",
