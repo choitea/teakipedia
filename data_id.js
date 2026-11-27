@@ -2097,8 +2097,8 @@ window.TEAFaiDataId = (function () {
     "brewTip": "3–4 menit; dengan susu, 5 g untuk 150 ml."
   },
   "blend-hongkong": {
-    "name": "Hong Kong Milk Tea",
-    "oneLine": "Teh hitam pekat dengan susu evaporasi — cangkir khas cha chaan teng Hong Kong.",
+    "name": "Hong Kong Blending",
+    "oneLine": "Racikan milk tea khas cha chaan teng Hong Kong dengan basis utama Ceylon.",
     "oxidation": "95%",
     "ratioNote": "8 g untuk 200 ml; susu sesuai selera",
     "rounds": "Satu kali seduh",

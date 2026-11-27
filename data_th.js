@@ -2152,8 +2152,8 @@ window.TEAFaiDataTh = (function () {
     "keywords": "อิงลิชเบรกฟาสต์ ชาดำ เบลนด์ อาหารเช้า English Breakfast black tea blend"
   },
   "blend-hongkong": {
-    "name": "ชานมฮ่องกง",
-    "oneLine": "ชาดำเข้มกับนมข้นจืด — ถ้วยของร้านชาฮ่องกง (cha chaan teng)",
+    "name": "เบลนด์ฮ่องกง",
+    "oneLine": "เบลนด์มิลค์ทีซิกเนเจอร์ของร้านชาฮ่องกง (cha chaan teng) ที่ใช้ซีลอนเป็นเบสหลัก",
     "oxidation": "95%",
     "ratioNote": "ชา 8 g ต่อน้ำ 200 ml เติมนมตามชอบ",
     "rounds": "ชง 1 ครั้ง",

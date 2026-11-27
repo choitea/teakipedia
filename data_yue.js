@@ -1086,8 +1086,8 @@ window.TEAFaiDataYue = (function () {
  },
  "blend-hongkong": {
   "t": {
-   "name": "港式奶茶",
-   "oneLine": "濃泡紅茶加淡奶——香港茶餐廳嘅一杯。",
+   "name": "港式拼配茶",
+   "oneLine": "以錫蘭為主要基底嘅香港茶餐廳招牌奶茶拼配。",
    "oxidation": "95%",
    "ratioNote": "200毫升配8克，淡奶按個人口味",
    "rounds": "1次",

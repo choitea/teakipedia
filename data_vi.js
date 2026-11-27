@@ -2097,8 +2097,8 @@ window.TEAFaiDataVi = (function () {
     "brewTip": "3–4 phút; pha với sữa thì dùng 5 g cho 150 ml."
   },
   "blend-hongkong": {
-    "name": "Trà Sữa Hồng Kông (Hong Kong Milk Tea)",
-    "oneLine": "Hồng trà đậm với sữa đặc không đường — tách trà của quán cha chaan teng Hồng Kông.",
+    "name": "Trà Pha Trộn Hồng Kông (Hong Kong Blending)",
+    "oneLine": "Kiểu pha trà sữa đặc trưng của quán cha chaan teng Hồng Kông, với nền chủ đạo là trà Ceylon.",
     "oxidation": "95%",
     "ratioNote": "8 g cho 200 ml; sữa tùy khẩu vị",
     "rounds": "Pha một lần",

@@ -2101,8 +2101,8 @@ window.TEAFaiDataTur = (function () {
     "brewTip": "3–4 dakika; sütle, 150 ml'ye 5 g."
   },
   "blend-hongkong": {
-    "name": "Hong Kong Sütlü Çayı",
-    "oneLine": "Buharlaştırılmış sütle güçlü siyah çay — Hong Kong cha chaan teng'inin fincanı.",
+    "name": "Hong Kong Harmanı",
+    "oneLine": "Ana bazı Seylan çayı olan, Hong Kong cha chaan teng'inin imza sütlü çay harmanı.",
     "oxidation": "95%",
     "ratioNote": "200 ml için 8 g; süt damak tadınıza göre",
     "rounds": "Tek demleme",

@@ -2101,8 +2101,8 @@ window.TEAFaiDataSi = (function () {
     "brewTip": "තත්පර 3–4 ක්; කිරි සමඟ නම් 5 g ට 150 ml."
   },
   "blend-hongkong": {
-    "name": "Hong Kong Milk Tea",
-    "oneLine": "උකු කිරි සහිත තද කළු තේ — Hong Kong cha chaan teng එකක කෝප්පය.",
+    "name": "Hong Kong Blending",
+    "oneLine": "ප්‍රධාන පදනම ලංකා තේ වන Hong Kong cha chaan teng එකක අත්සන කිරි තේ මිශ්‍රණය.",
     "oxidation": "95%",
     "ratioNote": "8 g ට 200 ml; රස අනුව කිරි",
     "rounds": "එක් වරක් හැදීම",

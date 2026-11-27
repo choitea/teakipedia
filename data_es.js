@@ -2101,8 +2101,8 @@ window.TEAFaiDataEs = (function () {
     "brewTip": "3–4 minutos; con leche, 5 g por 150 ml."
   },
   "blend-hongkong": {
-    "name": "Té con leche de Hong Kong",
-    "oneLine": "Té negro fuerte con leche evaporada: la taza de un cha chaan teng de Hong Kong.",
+    "name": "Mezcla de Hong Kong",
+    "oneLine": "La mezcla de té con leche emblemática de un cha chaan teng de Hong Kong, con base principal de té de Ceilán.",
     "oxidation": "95%",
     "ratioNote": "8 g por 200 ml; leche al gusto",
     "rounds": "Una sola preparación",
