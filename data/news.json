@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "id": "korea-matcha-plan-2031",
+      "date": "2026-11-25",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976473&pWise=main&pWiseMain=R2",
+      "title": {
+        "ko": "정부, 말차를 K-Tea 성장동력으로 — 제2차 차산업 발전 기본계획 발표",
+        "en": "Korea bets on matcha: second tea industry plan targets $35M exports by 2031",
+        "zh-CN": "韩国力推抹茶——第二次茶产业发展基本计划，2031年出口目标3500万美元",
+        "zh-TW": "韓國力推抹茶——第二次茶產業發展基本計劃，2031年出口目標3,500萬美元",
+        "ja": "韓国、抹茶をK-Teaの成長軸に——第2次茶産業発展基本計画、2031年輸出3,500万ドル目標",
+        "yue": "南韓力推抹茶——第二次茶產業發展基本計劃，2031年出口目標3,500萬美元",
+        "hi": "कोरिया की माचा पर बड़ी योजना — 2031 तक चाय निर्यात 3.5 करोड़ डॉलर का लक्ष्य",
+        "th": "เกาหลีดันมัทฉะเป็นหัวหอก K-Tea — แผนพัฒนาอุตสาหกรรมชาฉบับที่ 2 ตั้งเป้าส่งออก 35 ล้านดอลลาร์ในปี 2031",
+        "vi": "Hàn Quốc đặt cược vào matcha — kế hoạch phát triển ngành trà lần 2, mục tiêu xuất khẩu 35 triệu USD vào năm 2031",
+        "ar": "كوريا تراهن على الماتشا — خطة تطوير صناعة الشاي الثانية تستهدف صادرات بقيمة 35 مليون دولار بحلول 2031",
+        "ind": "Korea bertaruh pada matcha — rencana pengembangan industri teh kedua, target ekspor 35 juta dolar pada 2031"
+      },
+      "summary": {
+        "ko": "농림축산식품부가 2027년부터 2년간 100억 원을 들여 주산지 2곳에 말차 가공라인을 구축하고, 말차 생산을 연 650톤에서 800톤으로, 차 수출을 2031년 3,500만 달러로 늘리는 기본계획을 발표했어요.",
+        "en": "Korea's agriculture ministry will invest ₩10 billion over two years from 2027 to build matcha processing lines in two producing regions, lifting matcha output from 650 to 800 tonnes a year and tea exports to $35 million by 2031.",
+        "zh-CN": "韩国农林畜产食品部宣布，2027年起两年投入100亿韩元，在两大产区建设抹茶加工线，将抹茶年产量从650吨提高到800吨，并力争2031年茶叶出口达到3500万美元。",
+        "zh-TW": "韓國農林畜產食品部宣布，2027年起兩年投入100億韓元，在兩大產區建設抹茶加工線，將抹茶年產量從650噸提高到800噸，並力爭2031年茶葉出口達到3,500萬美元。",
+        "ja": "韓国農林畜産食品部は、2027年から2年間で100億ウォンを投じて主産地2か所に抹茶加工ラインを整備し、抹茶生産を年650トンから800トンへ、茶輸出を2031年に3,500万ドルへ拡大する基本計画を発表しました。",
+        "yue": "南韓農林畜產食品部宣布，2027年起兩年投入100億韓圜，喺兩大產區起抹茶加工線，將抹茶年產量由650噸提高到800噸，並力爭2031年茶葉出口達到3,500萬美元。",
+        "hi": "कोरिया का कृषि मंत्रालय 2027 से दो वर्षों में 10 अरब वॉन लगाकर दो प्रमुख उत्पादक क्षेत्रों में माचा प्रसंस्करण लाइनें बनाएगा, जिससे माचा उत्पादन 650 से बढ़कर 800 टन प्रति वर्ष और चाय निर्यात 2031 तक 3.5 करोड़ डॉलर तक पहुंचेगा।",
+        "th": "กระทรวงเกษตรเกาหลีประกาศลงทุน 1 หมื่นล้านวอนใน 2 ปีตั้งแต่ปี 2027 เพื่อสร้างสายการผลิตมัทฉะใน 2 แหล่งผลิตหลัก เพิ่มกำลังผลิตมัทฉะจาก 650 เป็น 800 ตันต่อปี และดันยอดส่งออกชาสู่ 35 ล้านดอลลาร์ในปี 2031",
+        "vi": "Bộ Nông nghiệp Hàn Quốc sẽ đầu tư 10 tỷ won trong hai năm từ 2027 để xây dây chuyền chế biến matcha tại hai vùng sản xuất chính, nâng sản lượng matcha từ 650 lên 800 tấn mỗi năm và xuất khẩu trà đạt 35 triệu USD vào năm 2031.",
+        "ar": "أعلنت وزارة الزراعة الكورية استثمار 10 مليارات وون على مدى عامين اعتبارًا من 2027 لبناء خطوط معالجة للماتشا في منطقتين رئيسيتين، لرفع إنتاج الماتشا من 650 إلى 800 طن سنويًا وصادرات الشاي إلى 35 مليون دولار بحلول 2031.",
+        "ind": "Kementerian Pertanian Korea akan menginvestasikan 10 miliar won selama dua tahun mulai 2027 untuk membangun lini pengolahan matcha di dua daerah penghasil utama, menaikkan produksi matcha dari 650 menjadi 800 ton per tahun dan ekspor teh menjadi 35 juta dolar pada 2031."
+      }
+    },
+    {
+      "id": "rwanda-carbon-neutral-tea-2025",
+      "date": "2026-11-24",
+      "source": "The New Times",
+      "url": "https://www.newtimes.co.rw/article/40732/news/featured/three-rwandan-tea-factories-secure-carbon-neutrality-certification",
+      "title": {
+        "ko": "르완다 홍차 3개 공장, 탄소중립 인증 획득",
+        "en": "Three Rwandan tea factories earn carbon-neutral certification",
+        "zh-CN": "卢旺达三家茶厂获碳中和认证",
+        "zh-TW": "盧旺達三家茶廠獲碳中和認證",
+        "ja": "ルワンダの紅茶工場3か所がカーボンニュートラル認証を取得",
+        "yue": "盧旺達三間茶廠獲得碳中和認證",
+        "hi": "रवांडा की तीन चाय फैक्ट्रियों को कार्बन-न्यूट्रल प्रमाणन",
+        "th": "โรงงานชา 3 แห่งในรวันดาได้รับรองความเป็นกลางทางคาร์บอน",
+        "vi": "Ba nhà máy trà Rwanda đạt chứng nhận trung hòa carbon",
+        "ar": "ثلاثة مصانع شاي في رواندا تحصل على شهادة الحياد الكربوني",
+        "ind": "Tiga pabrik teh Rwanda meraih sertifikasi netral karbon"
+      },
+      "summary": {
+        "ko": "물린디·샤가샤·은실리 키부 공장의 2025년산 홍차가 인증을 받았어요. 평가 범위 안에서 배출량 약 24,076톤 CO2e보다 인정된 제거량이 약 57,002톤으로 더 많았습니다. 단, 인증은 2025년 생산분과 평가 범위에 한정됩니다.",
+        "en": "Black tea produced in 2025 by the Mulindi, Shagasha and Nshili Kivu factories was certified carbon neutral: within the assessment boundaries, recognised removals of about 57,002 t CO₂e exceeded emissions of 24,076 t CO₂e. The certification covers only the 2025 production within those boundaries.",
+        "zh-CN": "Mulindi、Shagasha和Nshili Kivu三家工厂2025年生产的红茶获得碳中和认证：在评估范围内，约57,002吨CO₂e的认可清除量超过了24,076吨CO₂e的排放量。认证仅限于2025年产量及评估范围。",
+        "zh-TW": "Mulindi、Shagasha和Nshili Kivu三家工廠2025年生產的紅茶獲得碳中和認證：在評估範圍內，約57,002噸CO₂e的認可清除量超過了24,076噸CO₂e的排放量。認證僅限於2025年產量及評估範圍。",
+        "ja": "Mulindi、Shagasha、Nshili Kivuの3工場が2025年に生産した紅茶がカーボンニュートラル認証を取得しました。評価範囲内では、排出量24,076トンCO₂eに対し、認められた除去量が約57,002トンと上回りました。認証は2025年生産分と評価範囲に限られます。",
+        "yue": "Mulindi、Shagasha同Nshili Kivu三間工場2025年出產嘅紅茶獲得碳中和認證：喺評估範圍入面，認可清除量約57,002噸CO₂e，多過排放量24,076噸CO₂e。認證只限2025年產量同評估範圍。",
+        "hi": "Mulindi, Shagasha और Nshili Kivu फैक्ट्रियों की 2025 में बनी काली चाय को कार्बन-न्यूट्रल प्रमाणन मिला: मूल्यांकन सीमा के भीतर लगभग 57,002 टन CO₂e की मान्यता प्राप्त हटाई गई मात्रा 24,076 टन CO₂e उत्सर्जन से अधिक रही। यह प्रमाणन केवल 2025 के उत्पादन और उसी सीमा पर लागू है।",
+        "th": "ชาแดงที่ผลิตในปี 2025 โดยโรงงาน Mulindi, Shagasha และ Nshili Kivu ได้รับรองความเป็นกลางทางคาร์บอน โดยภายในขอบเขตการประเมิน ปริมาณการดูดกลับที่ได้รับการรับรองราว 57,002 ตัน CO₂e สูงกว่าการปล่อย 24,076 ตัน CO₂e ทั้งนี้การรับรองครอบคลุมเฉพาะผลผลิตปี 2025 ในขอบเขตดังกล่าวเท่านั้น",
+        "vi": "Trà đen sản xuất năm 2025 của ba nhà máy Mulindi, Shagasha và Nshili Kivu đã đạt chứng nhận trung hòa carbon: trong phạm vi đánh giá, lượng loại bỏ được công nhận khoảng 57.002 tấn CO₂e vượt lượng phát thải 24.076 tấn CO₂e. Chứng nhận chỉ áp dụng cho sản lượng năm 2025 trong phạm vi đó.",
+        "ar": "حصل الشاي الأسود الذي أنتجته مصانع Mulindi وShagasha وNshili Kivu في عام 2025 على شهادة الحياد الكربوني؛ فداخل حدود التقييم تجاوزت الإزالات المعترف بها البالغة نحو 57,002 طن من مكافئ ثاني أكسيد الكربون الانبعاثات البالغة 24,076 طنًا. وتقتصر الشهادة على إنتاج عام 2025 وداخل تلك الحدود.",
+        "ind": "Teh hitam produksi 2025 dari pabrik Mulindi, Shagasha, dan Nshili Kivu meraih sertifikasi netral karbon: dalam batas penilaian, penyerapan yang diakui sekitar 57.002 ton CO₂e melampaui emisi 24.076 ton CO₂e. Sertifikasi ini hanya berlaku untuk produksi 2025 dalam batas tersebut."
+      }
+    },
+    {
       "date": "2026-11-24",
       "id": "iced-tea-market-2032",
       "source": "Mordor Intelligence",
@@ -161,6 +225,38 @@
       "url": "https://www.japanomars.com/insights/international-matcha-congress-2026"
     },
     {
+      "id": "sri-lanka-ceylon-matcha",
+      "date": "2026-11-10",
+      "source": "Lanka Business News",
+      "url": "https://www.lankabusinessnews.com/talawakelle-tea-estates-takes-ceylon-tea-into-the-global-matcha-market/",
+      "title": {
+        "ko": "스리랑카, 실론 말차로 세계 말차 시장 진출",
+        "en": "Sri Lanka enters the global matcha market with Ceylon matcha",
+        "zh-CN": "斯里兰卡以锡兰抹茶进军全球抹茶市场",
+        "zh-TW": "斯里蘭卡以錫蘭抹茶進軍全球抹茶市場",
+        "ja": "スリランカ、セイロン抹茶で世界抹茶市場へ",
+        "yue": "斯里蘭卡以錫蘭抹茶進軍全球抹茶市場",
+        "hi": "श्रीलंका सीलोन माचा के साथ वैश्विक माचा बाज़ार में",
+        "th": "ศรีลังกาส่งมัทฉะซีลอนเข้าสู่ตลาดมัทฉะโลก",
+        "vi": "Sri Lanka đưa matcha Ceylon vào thị trường matcha toàn cầu",
+        "ar": "سريلانكا تدخل سوق الماتشا العالمي بماتشا سيلان",
+        "ind": "Sri Lanka memasuki pasar matcha global dengan matcha Ceylon"
+      },
+      "summary": {
+        "ko": "탈라와켈레 티 이스테이츠가 누와라엘리야 베어웰 다원에서 의식용·요리용 두 등급의 프리미엄 실론 말차를 출시했어요. 첫 시험부터 상업 판매까지 6개월이 걸렸고, 스리랑카 말차 판매의 80% 이상을 차지합니다.",
+        "en": "Talawakelle Tea Estates has launched premium Ceylon matcha from its Bearwell Estate in Nuwara Eliya, in ceremonial and culinary grades. The project went from first trial to commercial sales in six months and accounts for over 80% of Sri Lanka's matcha sales.",
+        "zh-CN": "Talawakelle茶业公司在努沃勒埃利耶的Bearwell茶园推出了典礼级和料理级两个等级的优质锡兰抹茶。该项目从首次试验到商业销售只用了六个月，占斯里兰卡抹茶销量的80%以上。",
+        "zh-TW": "Talawakelle茶業公司在努沃勒埃利耶的Bearwell茶園推出了典禮級和料理級兩個等級的優質錫蘭抹茶。該項目從首次試驗到商業銷售只用了六個月，佔斯里蘭卡抹茶銷量的80%以上。",
+        "ja": "Talawakelle Tea EstatesがヌワラエリヤのBearwell農園から、儀式用と料理用の2等級のプレミアム・セイロン抹茶を発売しました。最初の試験から商業販売まで6か月で、スリランカの抹茶販売の80%以上を占めます。",
+        "yue": "Talawakelle茶業公司喺努沃勒埃利耶嘅Bearwell茶園推出典禮級同料理級兩種優質錫蘭抹茶。個項目由首次試驗到正式開賣只用咗六個月，佔斯里蘭卡抹茶銷量八成以上。",
+        "hi": "Talawakelle Tea Estates ने नुवारा एलिया के Bearwell Estate से औपचारिक और पाक — दो श्रेणियों में प्रीमियम सीलोन माचा लॉन्च किया है। परियोजना पहले परीक्षण से व्यावसायिक बिक्री तक सिर्फ़ छह महीनों में पहुंची और श्रीलंका की माचा बिक्री का 80% से अधिक हिस्सा इसी का है।",
+        "th": "Talawakelle Tea Estates เปิดตัวมัทฉะซีลอนระดับพรีเมียมจากไร่ Bearwell ในนูวาราเอลิยา ทั้งเกรดพิธีการและเกรดทำอาหาร โครงการใช้เวลาเพียง 6 เดือนจากทดลองครั้งแรกถึงจำหน่ายเชิงพาณิชย์ และครองยอดขายมัทฉะกว่า 80% ของศรีลังกา",
+        "vi": "Talawakelle Tea Estates đã ra mắt matcha Ceylon cao cấp từ đồn điền Bearwell ở Nuwara Eliya, với hai cấp độ nghi lễ và ẩm thực. Dự án chỉ mất sáu tháng từ thử nghiệm đầu tiên đến bán thương mại và chiếm hơn 80% doanh số matcha của Sri Lanka.",
+        "ar": "أطلقت شركة Talawakelle Tea Estates ماتشا سيلان فاخرة من مزرعة Bearwell في نوارا إليا، بدرجتين: احتفالية وللطهي. واستغرق المشروع ستة أشهر فقط من أول تجربة إلى البيع التجاري، ويستحوذ على أكثر من 80% من مبيعات الماتشا في سريلانكا.",
+        "ind": "Talawakelle Tea Estates meluncurkan matcha Ceylon premium dari perkebunan Bearwell di Nuwara Eliya, dalam dua grade: seremonial dan kuliner. Proyek ini berjalan dari uji coba pertama hingga penjualan komersial hanya dalam enam bulan dan mencakup lebih dari 80% penjualan matcha Sri Lanka."
+      }
+    },
+    {
       "date": "2026-11-01",
       "id": "muku-kyoto-launch",
       "source": "Kyoto Chanokura",
@@ -194,6 +290,6 @@
     }
   ],
   "note": "티키피디아 차 뉴스 — 아침 브리핑에서 출처·날짜를 확인한 소식만 올립니다. 제목·요약은 11개 언어, 원문은 출처 링크로 연결합니다.",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "version": 1
 }
