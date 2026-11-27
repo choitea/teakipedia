@@ -1,4 +1,4 @@
-/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (11개 언어) */
+/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (12개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -199,6 +199,24 @@ window.TEAFaiCulture = [
      "h": "Darye sehari-hari masa kini",
      "p": "Kini, darye sehari-hari yang disederhanakan dipraktikkan secara luas. Dengan satu teko dan beberapa cangkir di rumah atau di kedai teh, orang-orang berbagi teh sebagai waktu untuk ketenangan dan percakapan. Jika Anda baru memulai, cukup memperhatikan suhu air dan waktu seduh saja sudah cukup untuk menyajikan secangkir teh yang baik."
     }
+   ],
+   "tur": [
+    {
+     "h": "Charye: çay sunma töreni",
+     "p": "Kore'de charye (차례) adı verilen ataları anma töreninin, atalara çay sunma geleneğinden doğduğu yaygın olarak anlatılır. Goryeo ve Joseon dönemlerinde tapınaklarda, sarayda ve bilginlerin evlerinde misafir ağırlanırken ve atalar anılırken çay özenle hazırlanırdı. Çay hiçbir zaman yalnızca bir içecek olmadı; kalpten gelen duyguyu iletmenin bir yoluydu."
+    },
+    {
+     "h": "Darye'nin temel akışı",
+     "p": "Önce su kaynatılır, demlik ve fincanlar sıcak suyla ısıtılır. Yapraklar ısınmış demliğe konur, uygun sıcaklıktaki su dökülür ve çay demlenmeye bırakılır. Doldururken her fincanın aynı koyulukta olması için fincanlar arasında azar azar gidip gelinir."
+    },
+    {
+     "h": "Misafirperverliğin ruhu",
+     "p": "Darye'nin özü teknik değil, tutumdur. Ev sahibi her şeyi misafir oturmadan önce hazırlar ve fincanı iki elle sunar. Misafir içerken ev sahibi az konuşur ve sessizce yanında durur; böylece misafir kokuya ve tada odaklanabilir."
+    },
+    {
+     "h": "Günümüzde günlük darye",
+     "p": "Bugün sadeleştirilmiş günlük darye yaygın olarak uygulanıyor. Evde ya da bir çay evinde tek demlik ve birkaç fincanla insanlar çayı sakinlik ve sohbet zamanı olarak paylaşıyor. Yeni başlıyorsanız, yalnızca su sıcaklığına ve demleme süresine dikkat etmeniz iyi bir fincan için yeterlidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -219,7 +237,8 @@ window.TEAFaiCulture = [
    "th": "ในเกาหลี ชากับมารยาทเป็นเรื่องเดียวกันมานานแล้ว คำว่า ชารเย ซึ่งหมายถึงพิธีไหว้บรรพบุรุษ แปลตรงตัวได้ว่า 'พิธีชา' บทความนี้จะพาไปรู้จักขั้นตอนของดาแรในชีวิตประจำวัน ตั้งแต่การต้มน้ำไปจนถึงการยื่นถ้วยชาด้วยสองมือ",
    "vi": "Ở Hàn Quốc, trà và lễ nghi từ lâu đã là một: từ chỉ nghi lễ cúng tổ tiên, charye, theo nghĩa đen có nghĩa là 'lễ trà'. Bài viết này giới thiệu trình tự của darye thường ngày, từ đun nước đến dâng chén trà bằng cả hai tay.",
    "ar": "في كوريا، كان الشاي والآداب شيئًا واحدًا منذ زمن طويل: فكلمة «تشارييه» التي تُطلق على طقس تكريم الأسلاف تعني حرفيًا «طقس الشاي». يأخذك هذا المقال عبر خطوات الدارييه اليومية، من غلي الماء إلى تقديم الكوب بكلتا اليدين.",
-   "ind": "Di Korea, teh dan etiket sejak lama menyatu: kata untuk upacara leluhur, charye, secara harfiah berarti 'ritual teh.' Artikel ini menelusuri alur darye sehari-hari, dari mendidihkan air hingga menyuguhkan cangkir dengan kedua tangan."
+   "ind": "Di Korea, teh dan etiket sejak lama menyatu: kata untuk upacara leluhur, charye, secara harfiah berarti 'ritual teh.' Artikel ini menelusuri alur darye sehari-hari, dari mendidihkan air hingga menyuguhkan cangkir dengan kedua tangan.",
+   "tur": "Kore'de çay ile görgü kuralları uzun zamandır iç içedir: atalar için düzenlenen törene verilen ad olan charye, kelime anlamıyla 'çay töreni' demektir. Bu yazı, suyu kaynatmaktan fincanı iki elle sunmaya kadar günlük darye'nin akışını adım adım anlatıyor."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -232,7 +251,8 @@ window.TEAFaiCulture = [
    "th": "ดาแรของเกาหลี — มารยาทแห่งการถวายชา",
    "vi": "Darye Hàn Quốc — Lễ nghi dâng trà",
    "ar": "الدارييه الكورية — آداب تقديم الشاي",
-   "ind": "Darye Korea — Etiket Menyajikan Teh"
+   "ind": "Darye Korea — Etiket Menyajikan Teh",
+   "tur": "Kore Darye'si — Çay Sunma Âdâbı"
   }
  },
  {
@@ -390,6 +410,20 @@ window.TEAFaiCulture = [
      "h": "Wadah kecil, teh pekat, banyak putaran",
      "p": "Penyeduhan gongfu menggunakan teko seukuran telapak tangan atau gaiwan yang diisi daun dengan murah hati, diseduh sebentar dan diulang lima kali atau lebih. Setiap seduhan sedikit bergeser dalam aroma dan rasa, dan mencicipi perubahan itu putaran demi putaran adalah kenikmatan gaya ini."
     }
+   ],
+   "tur": [
+    {
+     "h": "Gongfu çayının yurdu",
+     "p": "Gongfu çayı (工夫茶), Guangdong'daki Chaozhou'da ve Fujian'ın güneyindeki Minnan bölgesinde gelişti. Qing hanedanı döneminden kayıtlar Chaozhou gongfu çayını zaten anlatır; bu tarz, Çin ve Tayvan genelindeki çay uygulamalarını güçlü biçimde etkilemiştir."
+    },
+    {
+     "h": "'Gongfu' zaman ve özen demektir",
+     "p": "Burada gongfu, dövüş sanatları anlamına gelmez. Bir şeye zaman ve ustalık ayırmak demektir. Bu ad, her adıma gösterilen özeni yansıtır: iyi yaprak seçmek, suyu ısıtmak ve kısa, tekrarlanan demlemelerle demlemek."
+    },
+    {
+     "h": "Küçük kaplar, koyu çay, çok tur",
+     "p": "Gongfu demlemesinde avuç içi büyüklüğünde bir demlik ya da gaiwan bol yaprakla doldurulur, kısa süre demlenir ve bu işlem beş ya da daha çok kez tekrarlanır. Her demlemede koku ve tat hafifçe değişir; bu değişimi tur tur tatmak, tarzın keyfidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -410,7 +444,8 @@ window.TEAFaiCulture = [
    "th": "ชากงฟูถือกำเนิดที่เฉาโจวและฝูเจี้ยนตอนใต้ เป็นการชงชาเข้มข้นในกาใบเล็กหรือไก้หว่าน แล้วแบ่งกันดื่มหลายรอบ รอบละสั้น ๆ มาทำความรู้จักหน้าที่ของเหยือกแบ่งชาและถ้วยดมกลิ่น และเหตุผลที่คำว่า 'กงฟู' หมายถึงเวลาและความใส่ใจ",
    "vi": "Ra đời ở Triều Châu và miền nam Phúc Kiến, trà công phu pha trà đậm trong chiếc ấm nhỏ xíu hoặc gaiwan và chia sẻ qua nhiều lần pha ngắn. Hãy tìm hiểu chén công đạo và chén ngửi hương dùng để làm gì, và vì sao 'công phu' có nghĩa là thời gian và sự chăm chút.",
    "ar": "وُلد شاي غونغ فو في تشاوتشو وجنوب فوجيان، وهو يحضّر شايًا قويًا في إبريق صغير أو غايوان ويتشاركه عبر نقعات قصيرة كثيرة. تعرّف على ما يفعله إبريق العدالة وكوب الرائحة، ولماذا تعني كلمة «غونغ فو» الوقت والعناية.",
-   "ind": "Lahir di Chaozhou dan Fujian selatan, teh gongfu menyeduh teh pekat dalam teko kecil atau gaiwan dan membaginya dalam banyak seduhan singkat. Pelajari fungsi teko keadilan dan cangkir aroma, serta mengapa 'gongfu' berarti waktu dan kepedulian."
+   "ind": "Lahir di Chaozhou dan Fujian selatan, teh gongfu menyeduh teh pekat dalam teko kecil atau gaiwan dan membaginya dalam banyak seduhan singkat. Pelajari fungsi teko keadilan dan cangkir aroma, serta mengapa 'gongfu' berarti waktu dan kepedulian.",
+   "tur": "Chaozhou ve güney Fujian'da doğan gongfu çayı, minik bir demlikte ya da gaiwan'da koyu çay demler ve birçok kısa demleme boyunca paylaşır. Eşitlik sürahisi ile koku fincanının ne işe yaradığını ve 'gongfu'nun neden zaman ve özen anlamına geldiğini öğrenin."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -423,7 +458,8 @@ window.TEAFaiCulture = [
    "th": "ชากงฟูของจีน — กาเล็ก ชงหลายรอบ",
    "vi": "Trà Công Phu Trung Quốc — Ấm nhỏ, nhiều lần pha",
    "ar": "شاي غونغ فو الصيني — أباريق صغيرة ونقعات كثيرة",
-   "ind": "Teh Gongfu Tiongkok — Teko Kecil, Banyak Seduhan"
+   "ind": "Teh Gongfu Tiongkok — Teko Kecil, Banyak Seduhan",
+   "tur": "Çin Gongfu Çayı — Küçük Demlikler, Çok Demleme"
   }
  },
  {
@@ -625,6 +661,24 @@ window.TEAFaiCulture = [
      "h": "Tata krama dasar untuk tamu",
      "p": "Saat menerima mangkuk, tamu membungkuk ringan, lalu memutar mangkuk sedikit di telapak tangan agar tidak minum dari bagian depan yang berhias. Setelah selesai, tamu menyeka bibir mangkuk, mengagumi mangkuknya, dan berterima kasih kepada tuan rumah. Mengetahui alur sederhana ini sudah lebih dari cukup untuk pengalaman pertama."
     }
+   ],
+   "tur": [
+    {
+     "h": "Kâsede matcha çırpmak",
+     "p": "Sadō'da toz matcha bir çay kâsesine (chawan) konur, sıcak su eklenir ve çay, bambu bir çırpıcıyla (chasen) köpürene kadar çırpılır. Ev sahibi çayı her misafirin önünde hazırlar; matcha'nın acılığını dengelemek için önce mevsimlik bir tatlı servis edilir."
+    },
+    {
+     "h": "Sen no Rikyū ve wabi",
+     "p": "16. yüzyıl çay ustası Sen no Rikyū'nun, sadeliğin ve kusurun içinde güzellik bulan wabi çay tarzını olgunlaştırdığı kabul edilir. Gösterişli gereçler yerine sade kâseleri ve küçük çay odalarını değerli buldu; sadō, zihinsel bir disiplin yolu olarak şekillendi."
+    },
+    {
+     "h": "Ichi-go ichi-e",
+     "p": "Değer verilen ichi-go ichi-e (一期一會) sözü, bu buluşmanın ömürde yalnızca bir kez gerçekleşeceği anlamına gelir. Ev sahibi, hiç tekrarlanmayacak bir ana tüm özenini katar; misafir de bu özeni şükranla karşılar ve tek kâsenin tadını çıkarır."
+    },
+    {
+     "h": "Misafirler için temel görgü kuralları",
+     "p": "Kâseyi alan misafir hafifçe eğilir, ardından süslü ön yüzünden içmemek için kâseyi avucunda hafifçe çevirir. İçtikten sonra misafir kenarını siler, kâseye hayranlıkla bakar ve ev sahibine teşekkür eder. Bu basit akışı bilmek, ilk deneyim için fazlasıyla yeterlidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -644,7 +698,8 @@ window.TEAFaiCulture = [
    "th": "ในซาโดของญี่ปุ่น มัทฉะจะถูกตีในถ้วยชาและเสิร์ฟให้แขกทีละคน บทความนี้แนะนำสุนทรียะแบบวาบิของเซ็น โนะ ริคิว จิตวิญญาณของอิจิโกะ อิจิเอะ และมารยาทพื้นฐานสำหรับแขกมือใหม่",
    "vi": "Trong sadō của Nhật Bản, matcha được đánh trong bát trà và dâng cho từng vị khách. Bài viết này giới thiệu thẩm mỹ wabi của Sen no Rikyū, tinh thần ichi-go ichi-e và những phép tắc cơ bản dành cho khách mới bắt đầu.",
    "ar": "في السادو اليابانية، يُخفق الماتشا في وعاء شاي ويُقدَّم لكل ضيف. يقدّم هذا المقال جمالية الوابي عند سين نو ريكيو، وروح «إيتشي-غو إيتشي-إيه»، وآداب الضيف الأساسية للمبتدئين.",
-   "ind": "Dalam sadō Jepang, matcha dikocok dalam mangkuk teh dan disajikan kepada setiap tamu. Artikel ini memperkenalkan estetika wabi Sen no Rikyū, semangat ichi-go ichi-e, dan tata krama dasar tamu untuk pemula."
+   "ind": "Dalam sadō Jepang, matcha dikocok dalam mangkuk teh dan disajikan kepada setiap tamu. Artikel ini memperkenalkan estetika wabi Sen no Rikyū, semangat ichi-go ichi-e, dan tata krama dasar tamu untuk pemula.",
+   "tur": "Japon sadō'sunda matcha bir çay kâsesinde çırpılır ve her misafire sunulur. Bu yazı, Sen no Rikyū'nun wabi estetiğini, ichi-go ichi-e ruhunu ve yeni başlayanlar için temel misafir görgü kurallarını tanıtıyor."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -657,7 +712,8 @@ window.TEAFaiCulture = [
    "th": "ซาโดของญี่ปุ่น — หนึ่งถ้วย หนึ่งการพบพาน",
    "vi": "Sadō Nhật Bản — Một chén trà, một lần gặp gỡ",
    "ar": "السادو اليابانية — كوب واحد ولقاء واحد",
-   "ind": "Sadō Jepang — Satu Cangkir, Satu Pertemuan"
+   "ind": "Sadō Jepang — Satu Cangkir, Satu Pertemuan",
+   "tur": "Japon Sadō'su — Bir Fincan, Bir Buluşma"
   }
  },
  {
@@ -859,6 +915,24 @@ window.TEAFaiCulture = [
      "h": "Teko zisha kecil, tegukan pekat",
      "p": "Baik laoren cha maupun seni teh menggunakan teko tanah liat zisha kecil yang diisi daun dengan murah hati, diseduh dalam seduhan singkat berulang. Cangkirnya kecil tetapi setiap tegukan pekat, dan berbagi bagaimana rasa berubah di setiap seduhan adalah kegembiraan oolong Taiwan."
     }
+   ],
+   "tur": [
+    {
+     "h": "Laoren cha: yavaş yavaş paylaşılan çay",
+     "p": "Laoren cha (老人茶, 'yaşlıların çayı'), yaşlıların ağaçların ya da saçakların altında toplanıp küçük bir demlikte koyu oolong demleyerek yavaş yavaş paylaşmasının gündelik geleneğiydi. 'Yaşlılar' sözcüğü bir tutumu taşır: çay asla aceleye getirilmez."
+    },
+    {
+     "h": "Çay sanatı evine doğru",
+     "p": "Tayvan ekonomisi 1970'ler ve 1980'lerde büyüdükçe, çaya adanmış çay evleri — chayiguan — çoğaldı ve laoren cha tarzı, resmî bir 'çay sanatı' olarak inceldi. Bugün bu çay evleri, ziyaretçilerin Tayvan oolong'unu en sık deneyimlediği yerlerdir."
+    },
+    {
+     "h": "Koku fincanıyla önce koku",
+     "p": "Tayvan çay sanatı, tattan önce kokuyu tatmasıyla tanınır. Demlenen çay önce uzun bir koku fincanına (wenxiangbei) dökülür, ardından içme fincanına aktarılır; misafir sonra boşalmış koku fincanını kaldırır ve geride kalan kokuyu içine çeker — oolong'un zengin kokusunun keyfini tam çıkarmak için bir düzenektir bu."
+    },
+    {
+     "h": "Küçük zisha demlik, yoğun yudumlar",
+     "p": "Hem laoren cha hem de çay sanatı, bol yaprakla doldurulmuş küçük bir zisha toprak demlik kullanır ve kısa, tekrarlanan demlemelerle demler. Fincanlar miniktir ama her yudum yoğundur; tadın demlemeler boyunca nasıl değiştiğini paylaşmak, Tayvan oolong'unun keyfidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -879,7 +953,8 @@ window.TEAFaiCulture = [
    "th": "ในไต้หวัน ครั้งหนึ่งผู้สูงอายุเคยรวมตัวกันแบ่งปันชาอู่หลงเข้มข้นจากดินเผาใบเล็ก ธรรมเนียมที่เรียกว่า เหลาเหรินฉา ซึ่งเติบโตกลายมาเป็นร้านศิลปะชาในปัจจุบัน มาทำความรู้จักพิธีที่ให้ความสำคัญกับกลิ่นก่อนรส โดยใช้ถ้วยดมกลิ่นกัน",
    "vi": "Ở Đài Loan, các bậc cao niên từng tụ họp để chia sẻ trà ô long đậm từ những chiếc ấm đất nhỏ xíu — một phong tục gọi là laoren cha, sau này phát triển thành các trà nghệ quán ngày nay. Hãy khám phá nghi thức ưu tiên hương thơm bằng chén ngửi hương.",
    "ar": "في تايوان، كان كبار السن يجتمعون يومًا ليتشاركوا أولونغ قويًا من أباريق طينية صغيرة — عادة تسمى لاورين تشا نمت لتصبح بيوت فن الشاي اليوم. اكتشف طقس تقديم الرائحة أولًا باستخدام كوب العبير.",
-   "ind": "Di Taiwan, para tetua dulu berkumpul untuk berbagi oolong pekat dari teko tanah liat kecil — kebiasaan yang disebut laoren cha yang tumbuh menjadi rumah seni teh masa kini. Temukan ritual mengutamakan aroma dengan cangkir penghirup aroma."
+   "ind": "Di Taiwan, para tetua dulu berkumpul untuk berbagi oolong pekat dari teko tanah liat kecil — kebiasaan yang disebut laoren cha yang tumbuh menjadi rumah seni teh masa kini. Temukan ritual mengutamakan aroma dengan cangkir penghirup aroma.",
+   "tur": "Tayvan'da yaşlılar bir zamanlar minik toprak demliklerde koyu oolong paylaşmak için toplanırdı — laoren cha denen bu gelenek, günümüzün çay sanatı evlerine dönüştü. Koku fincanıyla önce kokuyu tatmaya dayanan ritüeli keşfedin."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -892,7 +967,8 @@ window.TEAFaiCulture = [
    "th": "ศิลปะชาไต้หวัน — จากเหลาเหรินฉาสู่ร้านน้ำชา",
    "vi": "Trà nghệ Đài Loan — Từ Laoren Cha đến trà quán",
    "ar": "فن الشاي التايواني — من لاورين تشا إلى بيت الشاي",
-   "ind": "Seni Teh Taiwan — Dari Laoren Cha hingga Kedai Teh"
+   "ind": "Seni Teh Taiwan — Dari Laoren Cha hingga Kedai Teh",
+   "tur": "Tayvan Çay Sanatı — Laoren Cha'dan Çay Evine"
   }
  },
  {
@@ -1138,6 +1214,28 @@ window.TEAFaiCulture = [
      "h": "Meja bersama dan keramaian yang gembira",
      "p": "Saat makan siang, berbagi meja dengan orang asing — dap toi (搭枱) — adalah hal yang sangat biasa. Pesanan diteriakkan dalam singkatan, hidangan tiba dalam hitungan menit, dan tidak ada yang berlama-lama. Awalnya bisa terasa terburu-buru, tetapi kecepatan dan keriuhan yang ceria itulah persis pemandangan yang dinikmati orang Hong Kong setiap hari."
     }
+   ],
+   "tur": [
+    {
+     "h": "Cha chaan teng nedir?",
+     "p": "Cha chaan teng, Hong Kong'un her köşesinde bulunan gündelik bir lokantadır. Buzlu içecekler ve basit Batı tarzı atıştırmalıklar satan bing sutt (冰室) dükkânlarından doğdu ve İkinci Dünya Savaşı'ndan sonra, Hong Kong tarzında yeniden yorumlanmış hızlı ve ucuz Batı yemeklerinin adresi oldu. Kahvaltıda tost ve sütlü çay, öğle yemeğinde kızarmış noodle — bir masada sunulan Hong Kong gündelik hayatıdır."
+    },
+    {
+     "h": "İpek çorap sütlü çayı",
+     "p": "Cha chaan teng'in yüzü Hong Kong sütlü çayıdır. Birkaç siyah çay harmanlanır ve koyu demlenir; ardından çoraba benzeyen uzun bir bez torbadan defalarca süzülür, bu da çayı ipeksi bir pürüzsüzlüğe kavuşturur. Buharlaştırılmış ya da yoğunlaştırılmış süt ona gövde ve zenginlik verir; süzme torbası ona 'ipek çorap sütlü çayı' (絲襪奶茶) lakabını kazandırmıştır."
+    },
+    {
+     "h": "Yuanyang ve buzlu limon çayı",
+     "p": "Ömür boyu eş olan mandarin ördeklerinden adını alan, kahve ile sütlü çay karışımı yuanyang (鴛鴦), lokantanın diğer imza içeceğidir. Buzlu limon çayı (凍檸茶) — buz üzerinde, limon dilimleriyle siyah çay — da en az onun kadar vazgeçilmezdir. Limonu pipetinizle ezip suyunu çıkarmak ve tadı ayarlamak, Hong Kong ritüelinin bir parçasıdır."
+    },
+    {
+     "h": "Çayınızın yanında ne yenir?",
+     "p": "Ananaslı çörek (菠蘿包) hiç ananas içermez; çıtır kabuğu yalnızca ananasa benzer ve içine soğuk bir dilim tereyağı konarak servis edildiğinde sevilen bo lo yau olur. Bol şurupla, kızartılmış Hong Kong usulü Fransız tostu (西多士) ve jambonlu makarna çorbası, kahvaltının gediklilerindendir. Koyu bir sütlü çay ile fırından çıkmış tatlı ve sıcak bir şey, klasik cha chaan teng eşleşmesidir."
+    },
+    {
+     "h": "Paylaşılan masalar ve neşeli kalabalık",
+     "p": "Öğle saatinde yabancılarla masa paylaşmak — dap toi (搭枱) — son derece normaldir. Siparişler kısaltmalarla seslenilir, yemekler dakikalar içinde gelir ve kimse uzun kalmaz. İlk başta telaşlı gelebilir, ama o hız ve neşeli gürültü, Hong Kongluların her gün keyif aldığı sahnenin ta kendisidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1157,7 +1255,8 @@ window.TEAFaiCulture = [
    "th": "ชานมเข้มข้น หยวนหยางที่ผสมกาแฟกับชา และขนมปังสับปะรด ที่ร้านอาหารตามสั่งแบบฮ่องกงที่เรียกว่า ฉาฉานเท้ง — บทนำสู่วัฒนธรรมชาของเมืองนี้ที่รวดเร็วและคึกคัก",
    "vi": "Trà sữa đậm, yuanyang cà phê-trà và bánh dứa tại các quán ăn cha chaan teng của Hồng Kông — một giới thiệu nhanh và sôi động về văn hóa trà của thành phố.",
    "ar": "شاي حليب قوي، ويوانيانغ من القهوة والشاي، وكعك الأناناس في مطاعم تشا تشان تينغ في هونغ كونغ — مقدمة سريعة وحيوية لثقافة الشاي في المدينة.",
-   "ind": "Teh susu pekat, yuanyang kopi-teh, dan roti nanas di kedai cha chaan teng Hong Kong — pengantar yang cepat dan meriah tentang budaya teh kota ini."
+   "ind": "Teh susu pekat, yuanyang kopi-teh, dan roti nanas di kedai cha chaan teng Hong Kong — pengantar yang cepat dan meriah tentang budaya teh kota ini.",
+   "tur": "Hong Kong'un cha chaan teng lokantalarında koyu sütlü çay, kahve-çay karışımı yuanyang ve ananaslı çörekler — şehrin çay kültürüne hızlı ve canlı bir giriş."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -1170,7 +1269,8 @@ window.TEAFaiCulture = [
    "th": "ฉาฉานเท้งและชานมของฮ่องกง",
    "vi": "Cha Chaan Teng Hồng Kông và Trà Sữa",
    "ar": "تشا تشان تينغ في هونغ كونغ وشاي الحليب",
-   "ind": "Cha Chaan Teng Hong Kong dan Teh Susu"
+   "ind": "Cha Chaan Teng Hong Kong dan Teh Susu",
+   "tur": "Hong Kong Cha Chaan Teng'i ve Sütlü Çay"
   }
  },
  {
@@ -1372,6 +1472,24 @@ window.TEAFaiCulture = [
      "h": "Jeda teh sehari-hari",
      "p": "Terpisah dari teh sore formal, jeda teh singkat terjalin dalam kehidupan sehari-hari Inggris. Menghentikan pekerjaan untuk semug teh celup dengan susu adalah tanda kecil bahwa sudah waktunya beristirahat. Menawarkan secangkir teh terlebih dahulu kepada pengunjung juga merupakan isyarat dasar keramahtamahan Inggris."
     }
+   ],
+   "tur": [
+    {
+     "h": "İkindi çayı nasıl başladı?",
+     "p": "19. yüzyıl ortası Britanya'sında, öğle yemeği ile geç bir akşam yemeği arasında hafif yiyeceklerle çay içme geleneği aristokrat çevrelerinde yayıldı; ikindi çayının kökeninin bu olduğu söylenir. Siyah çay demlikte koyu demlenir, fincanlara dökülür ve damak tadına göre süt ve şekerle tamamlanır. Bu sütlü, güçlü demleme, Britanya'nın imza çay içme biçimi oldu."
+    },
+    {
+     "h": "Üç kat, sırasıyla",
+     "p": "Otellerde ve çay salonlarında ikindi çayı genellikle üç katlı bir standla gelir. Olağan sıra, alt katta salatalıklı sandviçler gibi tuzlularla başlamak, ortada clotted cream ve reçelli scone'lara geçmek ve üstte kekler ile küçük hamur işleriyle bitirmektir. Scone'un üzerine önce kremanın mı yoksa reçelin mi sürüleceği, başlı başına dostane bir yöresel rekabet konusudur."
+    },
+    {
+     "h": "Önce süt mü, önce çay mı?",
+     "p": "Britanya'da sütün fincana çaydan önce mi sonra mı konması gerektiğine dair uzun süredir devam eden, iyi niyetli bir tartışma vardır. Sütü önce koymanın, narin porselen fincanları sıcak çayın şokundan koruduğu söylenir. İki yol da yanlış değildir; her evin kendi alışkanlığı vardır."
+    },
+    {
+     "h": "Gündelik çay molası",
+     "p": "Resmî ikindi çayından ayrı olarak kısa çay molası, Britanya gündelik hayatına işlemiştir. İşe ara verip sütlü bir kupa poşet çay içmek, dinlenme zamanının geldiğinin küçük bir işaretidir. Bir ziyaretçiye önce bir fincan çay sunmak da Britanya misafirperverliğinin temel bir jestidir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1392,7 +1510,8 @@ window.TEAFaiCulture = [
    "th": "ชาดำเข้มข้นที่ชงในกา เสิร์ฟพร้อมนมและน้ำตาล และพิธีสามชั้นของแซนด์วิช สโคน และเค้ก — พร้อมด้วยช่วงพักดื่มชาในชีวิตประจำวัน",
    "vi": "Trà đen đậm pha trong ấm, dùng với sữa và đường, cùng nghi thức ba tầng gồm bánh sandwich, scone và bánh ngọt — cộng thêm giờ nghỉ uống trà thường ngày.",
    "ar": "شاي أسود قوي يُحضَّر في إبريق ويُقدَّم مع الحليب والسكر، وطقس المستويات الثلاثة من السندويشات والسكونز والكعك — إضافة إلى استراحة الشاي اليومية.",
-   "ind": "Teh hitam pekat yang diseduh dalam teko, disajikan dengan susu dan gula, serta ritual tiga tingkat berisi roti lapis, skon, dan kue — ditambah jeda teh sehari-hari."
+   "ind": "Teh hitam pekat yang diseduh dalam teko, disajikan dengan susu dan gula, serta ritual tiga tingkat berisi roti lapis, skon, dan kue — ditambah jeda teh sehari-hari.",
+   "tur": "Demlikte koyu demlenmiş siyah çay; süt ve şekerle servis edilir — sandviçler, scone'lar ve keklerden oluşan üç katlı ritüel ve gündelik çay molası."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -1405,7 +1524,8 @@ window.TEAFaiCulture = [
    "th": "ชายามบ่ายของอังกฤษ",
    "vi": "Trà Chiều Anh Quốc",
    "ar": "شاي ما بعد الظهيرة البريطاني",
-   "ind": "Teh Sore ala Inggris"
+   "ind": "Teh Sore ala Inggris",
+   "tur": "Britanya İkindi Çayı"
   }
  },
  {
@@ -1607,6 +1727,24 @@ window.TEAFaiCulture = [
      "h": "Minuman yang menggerakkan hari",
      "p": "Dari cangkir pertama yang membuka pagi hingga jeda kerja dan menyambut tamu, chai berada di dalam irama hari. Menawarkan chai kepada seseorang adalah ungkapan keramahtamahan paling sehari-hari di India. Kuat dan manis, satu tegukan membangunkan Anda dan memulai percakapan — minuman di pusat kehidupan India."
     }
+   ],
+   "tur": [
+    {
+     "h": "Demleyerek değil, kaynatarak yapılır",
+     "p": "Masala chai, yaprakların sıcak suda demlenmesiyle yapılmaz. Bunun yerine siyah çay, şeker ve baharatlar bir tencerede su ve sütle birlikte kaynatılır. Kaynadıkça baharat kokuları ve çayın gücü süte işler; tatlı, gövdeli bir fincan ortaya çıkar. Her evin ve tezgâhın kendine özgü, biraz farklı bir baharat karışımı ve kendi tadı vardır."
+    },
+    {
+     "h": "Masala: baharat karışımı",
+     "p": "\"Masala\" basitçe bir baharat karışımı anlamına gelir ve chai'de en sık kullanılanlar kakule, zencefil, tarçın, karanfil ve karabiberdir. Bu içinizi ısıtan baharatlar zengin sütle buluşarak doyurucu ve rahatlatıcı hissettiren bir içecek verir. Birçok aile, evde biri üşüttüğünde zencefili bol chai yapar."
+    },
+    {
+     "h": "Sokaktaki chaiwala",
+     "p": "Hindistan'ın her yerinde, sokaklarda ve tren istasyonlarında, küçük tencerelerde chai kaynatan chaiwala'lara rastlarsınız. Chai küçük bardaklarda ya da tek kullanımlık toprak fincanlarda servis edilir; insanlar günde birkaç kez durup ayakta bir fincan bitirir. Hint usulü: küçük porsiyonlar, sık sık."
+    },
+    {
+     "h": "Günü taşıyan bir içecek",
+     "p": "Sabahı açan ilk fincandan iş molalarına ve misafir ağırlamaya kadar chai, günün ritminin içinde oturur. Birine chai sunmak, Hindistan'da misafirperverliğin en gündelik ifadesidir. Güçlü ve tatlı; tek bir yudum sizi uyandırır ve sohbetleri başlatır — Hint yaşamının merkezinde bir içecek."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1627,7 +1765,8 @@ window.TEAFaiCulture = [
    "th": "เครื่องดื่มอันเป็นที่รักของอินเดีย: ชาดำเคี่ยวกับนม น้ำตาล และเครื่องเทศอย่างกระวานและขิง เสิร์ฟในถ้วยเล็ก ๆ โดยจายวาลาริมถนนตลอดทั้งวัน",
    "vi": "Thức uống được yêu thích của Ấn Độ: trà đen đun sôi cùng sữa, đường và các gia vị như bạch đậu khấu và gừng, được các chaiwala ven đường phục vụ trong những chiếc cốc nhỏ suốt cả ngày.",
    "ar": "مشروب الهند المحبوب: شاي أسود يُغلى مع الحليب والسكر وتوابل مثل الهيل والزنجبيل، ويُقدَّم في أكواب صغيرة لدى باعة التشاي على الأرصفة طوال اليوم.",
-   "ind": "Minuman tercinta India: teh hitam yang direbus bersama susu, gula, dan rempah seperti kapulaga dan jahe, disajikan dalam cangkir kecil oleh chaiwala di pinggir jalan sepanjang hari."
+   "ind": "Minuman tercinta India: teh hitam yang direbus bersama susu, gula, dan rempah seperti kapulaga dan jahe, disajikan dalam cangkir kecil oleh chaiwala di pinggir jalan sepanjang hari.",
+   "tur": "Hindistan'ın sevilen içeceği: siyah çayın süt, şeker ve kakule ile zencefil gibi baharatlarla kaynatılması; sokaktaki chaiwala'lar tarafından gün boyu küçük fincanlarda servis edilir."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -1640,7 +1779,8 @@ window.TEAFaiCulture = [
    "th": "มาซาลาจายของอินเดีย",
    "vi": "Masala Chai của Ấn Độ",
    "ar": "تشاي الماسالا الهندي",
-   "ind": "Masala Chai India"
+   "ind": "Masala Chai India",
+   "tur": "Hindistan'ın Masala Chai'si"
   }
  },
  {
@@ -1842,6 +1982,24 @@ window.TEAFaiCulture = [
      "h": "Simbol keramahtamahan",
      "p": "Baik Anda membeli sesuatu di toko, mengunjungi kantor, atau tiba di rumah seseorang untuk pertama kali, segelas teh muncul lebih dulu. Menawarkan teh adalah sambutan paling mendasar dan tanda bagi percakapan untuk dimulai — segelas kecil panas yang menghubungkan orang-orang."
     }
+   ],
+   "tur": [
+    {
+     "h": "Çaydanlık: iki katlı bir demlik",
+     "p": "Türkiye'de çay, üst üste konmuş bir çift kaptan oluşan çaydanlıkta yapılır. Su alttaki kapta kaynar; bir kısmı üstteki küçük kaptaki yaprakları ıslatır; üstteki kap da buharda yavaşça demlenerek koyu bir dem hâline gelir. Bu dem bir bardağa dökülür ve üzerine alttaki kaptan sıcak su eklenir; böylece içen herkes koyuluğu damak tadına göre ayarlayabilir."
+    },
+    {
+     "h": "Sapsız lale bardaklar",
+     "p": "Çay, sapı olmayan küçük cam bardaklarda servis edilir. Beli ince, laleyi andıran şekilleri çayın koyu kırmızı rengini ortaya çıkarır; ince cam dudaklara ferah bir his verir. Şeker, sizin için karıştırılmak yerine genellikle yanında küp hâlinde, bir tabak ve küçük bir kaşıkla gelir."
+    },
+    {
+     "h": "Dünyanın en çok çay içen ülkesi",
+     "p": "Türkiye, kişi başına çay tüketiminin dünyada en yüksek olduğu ülkeler arasında sayılır. Karadeniz kıyısındaki Rize yöresi, en bilinen yetiştirme bölgesidir ve evde içilen çayın çoğunu karşılar. Birçok evde çaydanlık, kahvaltıdan gece geç saatlere kadar ocağın üzerinde kalır."
+    },
+    {
+     "h": "Misafirperverliğin simgesi",
+     "p": "Bir dükkânda bir şey satın alırken de, bir ofisi ziyaret ederken de, birinin evine ilk kez giderken de önce bir bardak çay belirir. Çay sunmak, en temel karşılamadır ve sohbetin başlamasının işaretidir — insanları birbirine bağlayan küçük, sıcak bir bardak."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1861,7 +2019,8 @@ window.TEAFaiCulture = [
    "th": "ชาที่ชงเข้มข้นในไชดันลึกแบบสองชั้นที่วางซ้อนกัน ปรับความเข้มด้วยน้ำร้อน และเสิร์ฟพร้อมน้ำตาลก้อนในแก้วทรงทิวลิปไม่มีหูจับ — การต้อนรับของประเทศที่มีการบริโภคชาต่อคนสูงที่สุดในโลก",
    "vi": "Trà pha đậm trong çaydanlık xếp chồng, điều chỉnh bằng nước nóng, và phục vụ với đường viên trong ly tulip không quai — lòng hiếu khách ở đất nước có mức tiêu thụ trà bình quân đầu người cao nhất thế giới.",
    "ar": "شاي يُحضَّر قويًا في تشاي دانليك متراكب، ويُضبط بالماء الساخن، ويُقدَّم مع مكعبات السكر في أكواب زجاجية على شكل زهرة التوليب بلا مقابض — ضيافة في بلد لديه أعلى استهلاك للشاي للفرد في العالم.",
-   "ind": "Teh yang diseduh pekat dalam çaydanlık bertumpuk, disesuaikan dengan air panas, dan disajikan dengan gula batu dalam gelas tulip tanpa pegangan — keramahtamahan di negara dengan konsumsi teh per orang tertinggi di dunia."
+   "ind": "Teh yang diseduh pekat dalam çaydanlık bertumpuk, disesuaikan dengan air panas, dan disajikan dengan gula batu dalam gelas tulip tanpa pegangan — keramahtamahan di negara dengan konsumsi teh per orang tertinggi di dunia.",
+   "tur": "Üst üste konmuş çaydanlıkta koyu demlenen, sıcak suyla ayarlanan ve sapsız lale bardaklarda küp şekerle servis edilen çay — kişi başına çay tüketiminde dünyada ilk sıralarda yer alan bir ülkede misafirperverlik."
   },
   "title": {
    "en": "Turkish Çay",
@@ -1874,7 +2033,8 @@ window.TEAFaiCulture = [
    "th": "ชาตุรกี (ไช)",
    "vi": "Çay Thổ Nhĩ Kỳ",
    "ar": "الشاي التركي (تشاي)",
-   "ind": "Çay Turki"
+   "ind": "Çay Turki",
+   "tur": "Türkiye'nin Çayı"
   }
  },
  {
@@ -2076,6 +2236,24 @@ window.TEAFaiCulture = [
      "h": "Keramahtamahan sepanjang hari",
      "p": "Atay muncul tidak hanya untuk tamu tetapi juga saat makan keluarga, saat tawar-menawar di toko, dan dalam percakapan panjang dengan teman. Teh biasanya disiapkan dan dituangkan oleh kepala rumah tangga atau tuan rumah, karena membuatnya sendiri adalah tanda penghormatan. Di Maroko, seteko teh adalah undangan untuk masuk dan beristirahat."
     }
+   ],
+   "tur": [
+    {
+     "h": "Nane ve şekerle yeşil çay",
+     "p": "Fas atay'ı genellikle Çin barut yeşil çayı baz alınarak yapılır; demlikte taze nane yaprakları ve bol şekerle demlenir. Tadı, serin nane kokusu ile güçlü tatlılığın bir eşleşmesidir; yemeklerle birlikte ya da sonrasında ferahlatıcı olarak içilir. Küçük, süslü bardaklarda servis edilir."
+    },
+    {
+     "h": "Yüksekten dökme ve köpük",
+     "p": "Atay, demlik bardağın epey yukarısında tutularak ince bir akışla dökülür. Bu, çaya hava katar ve üstte ince bir köpük oluşur; iyi bir köpük, iyi yapılmış bir demliğin işaretidir. Yüksekten dökmenin kendisi, misafir için küçük bir gösteridir — bir özen ifadesi."
+    },
+    {
+     "h": "Misafir için üç bardak",
+     "p": "Fas, bir misafire üç bardağa kadar çay sunma geleneğiyle tanınır. Çay içmeye ayrılan zaman, karşılanmaya ayrılan zamandır; bu yüzden bir bardağı bitirip hemen ayrılmak, ritüelin anlamını kaçırabilir. Bir söz, üç bardağa anlamlar yükler — hayat gibi yumuşaklık, aşk gibi güç, ölüm gibi acılık."
+    },
+    {
+     "h": "Gün boyu misafirperverlik",
+     "p": "Atay yalnızca misafirler için değil, aile yemeklerinde, dükkânlarda pazarlık sırasında ve arkadaşlarla uzun sohbetlerde de ortaya çıkar. Çay genellikle evin reisi ya da ev sahibi tarafından hazırlanıp dökülür; çünkü bunu kendiniz yapmak bir saygı işaretidir. Fas'ta bir demlik çay, içeri girip dinlenmeye bir davettir."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2095,7 +2273,8 @@ window.TEAFaiCulture = [
    "th": "ชาเขียวกับมินต์สดและน้ำตาล รินจากที่สูงให้เกิดฟอง — พิธีแห่งการต้อนรับของโมร็อกโก มีชื่อเสียงจากชาสามแก้วที่มอบให้แขก",
    "vi": "Trà xanh với bạc hà tươi và đường, rót từ trên cao để tạo lớp bọt — nghi thức chào đón của Maroc, nổi tiếng với ba ly trà mời khách.",
    "ar": "شاي أخضر مع نعناع طازج وسكر، يُسكب من ارتفاع لرفع رغوة — طقس الترحيب المغربي، المشهور بالأكواب الثلاثة المقدمة للضيف.",
-   "ind": "Teh hijau dengan mint segar dan gula, dituang dari ketinggian untuk membangkitkan busa — ritual penyambutan Maroko, terkenal dengan tiga gelas yang ditawarkan kepada tamu."
+   "ind": "Teh hijau dengan mint segar dan gula, dituang dari ketinggian untuk membangkitkan busa — ritual penyambutan Maroko, terkenal dengan tiga gelas yang ditawarkan kepada tamu.",
+   "tur": "Taze nane ve şekerle, köpük yükseltmek için yüksekten dökülen yeşil çay — bir misafire sunulan üç bardakla ünlü, Fas'ın karşılama ritüeli."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -2108,7 +2287,8 @@ window.TEAFaiCulture = [
    "th": "อาเตย์ของโมร็อกโก",
    "vi": "Atay Maroc",
    "ar": "الأتاي المغربي",
-   "ind": "Atay Maroko"
+   "ind": "Atay Maroko",
+   "tur": "Fas Atay'ı"
   }
  },
  {
@@ -2310,6 +2490,24 @@ window.TEAFaiCulture = [
      "h": "Samovar di atas rel",
      "p": "Di negara seluas Rusia, kereta jarak jauh adalah bagian dari kehidupan, dan teh adalah pendampingnya. Di kereta, teh disajikan dalam gelas yang diletakkan dalam dudukan logam yang disebut podstakannik, agar minuman tidak tumpah saat gerbong bergoyang — citra yang menjadi ikonik. Bahkan hingga kini, segelas teh panas menghibur penumpang dalam perjalanan rel panjang Rusia."
     }
+   ],
+   "tur": [
+    {
+     "h": "Semaver: kendi kendini kaynatan çaydanlık",
+     "p": "Semaver, suyu kaynatıp sıcak tutan metal bir kaptır; adı bile Rusçada \"kendi kendine kaynama\" anlamını taşır. Geleneksel olarak odun ya da kömürle yakılırdı; günümüzde elektrikli modeller yaygındır. Masanın ortasında bir semaver varken aile ve misafirler etrafında toplanır, çay eşliğinde uzun saatler geçirirdi."
+    },
+    {
+     "h": "Zavarka: koyu dem, seyreltilerek içilir",
+     "p": "Rus yöntemi zavarka ile başlar — çay yaprakları küçük bir demlikte çok koyu demlenerek bir konsantre hazırlanır. Servis ederken fincana biraz zavarka koyar, üzerine semaverden sıcak su eklersiniz; koyuluğu kendi zevkinize göre ayarlarsınız. Bir kez demleyin, birçok kişi saatlerce, herkes kendi sevdiği koyulukta çay içebilir."
+    },
+    {
+     "h": "Reçel ve dişlerin arasında şeker",
+     "p": "Ruslar geleneksel olarak çaylarının yanında bir kaşık reçel (varenye) alır ya da reçeli çaya karıştırır. Daha eski bir âdet, bir şeker küpünü dişlerin arasında tutup çayı onun üzerinden yudumlamak, tatlılığın azar azar sızmasını sağlamaktı. Acı ile tatlının küçük dozlarda birlikte tadılması — soğuk bir ülkenin şekillendirdiği bir çay kültürü."
+    },
+    {
+     "h": "Raylar üzerinde semaver",
+     "p": "Rusya kadar geniş bir ülkede uzun mesafe trenleri hayatın bir parçasıydı ve çay onların yoldaşıydı. Trenlerde çay, podstakannik denen metal tutacaklara oturtulmuş bardaklarda servis edilirdi; böylece vagon sallanırken içecek dökülmezdi — bu görüntü ikonik hale geldi. Bugün bile bir bardak sıcak çay, Rusya'nın uzun demiryolu yolculuklarında yolcuları rahatlatır."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2329,7 +2527,8 @@ window.TEAFaiCulture = [
    "th": "น้ำที่เดือดอยู่ตลอดในซาโมวาร์ ชาแก่เข้มข้นซาวาร์กาที่เจือจางตามชอบ — วิถีชาของรัสเซีย มีแยมเคียงข้าง ก้อนน้ำตาลคาบไว้ระหว่างฟัน และซาโมวาร์ที่เป็นเพื่อนคู่การเดินทางไกลด้วยรถไฟ",
    "vi": "Nước luôn sôi trong samovar, nước cốt trà đặc zavarka được pha loãng theo khẩu vị — cách uống trà của người Nga, với mứt ăn kèm, viên đường ngậm giữa hai hàm răng, và chiếc samovar đồng hành trên những chuyến tàu dài.",
    "ar": "ماء يبقى يغلي في ساموفار، ومركز زافاركا قوي يُخفف حسب الذوق — طريقة روسيا في الشاي، مع المربى على الجانب، ومكعبات سكر بين الأسنان، والساموفار رفيق رحلات القطارات الطويلة.",
-   "ind": "Air yang terus mendidih dalam samovar, konsentrat zavarka pekat yang diencerkan sesuai selera — cara minum teh Rusia, dengan selai di samping, gula batu di antara gigi, dan samovar sebagai pendamping perjalanan kereta yang panjang."
+   "ind": "Air yang terus mendidih dalam samovar, konsentrat zavarka pekat yang diencerkan sesuai selera — cara minum teh Rusia, dengan selai di samping, gula batu di antara gigi, dan samovar sebagai pendamping perjalanan kereta yang panjang.",
+   "tur": "Semaverde kaynar halde tutulan su, damak zevkine göre seyreltilen koyu zavarka demi — yanında reçel, dişlerin arasında şeker küpleri ve uzun tren yolculuklarının yoldaşı semaverle Rusya'nın çay tarzı."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -2342,7 +2541,8 @@ window.TEAFaiCulture = [
    "th": "ซาโมวาร์ของรัสเซีย",
    "vi": "Chiếc Samovar của Nga",
    "ar": "الساموفار الروسي",
-   "ind": "Samovar Rusia"
+   "ind": "Samovar Rusia",
+   "tur": "Rusya'nın Semaveri"
   }
  },
  {
@@ -2360,7 +2560,8 @@ window.TEAFaiCulture = [
    "th": "วิธีใช้ไก้หว่าน — ชงชาด้วยฝา ชาม และจานรอง",
    "vi": "Cách Dùng Gaiwan — Pha Trà với Nắp, Chén và Đĩa",
    "ar": "كيفية استخدام الغايوان — التحضير بغطاء ووعاء وصحن",
-   "ind": "Cara Menggunakan Gaiwan — Menyeduh dengan Tutup, Mangkuk, dan Tatakan"
+   "ind": "Cara Menggunakan Gaiwan — Menyeduh dengan Tutup, Mangkuk, dan Tatakan",
+   "tur": "Gaiwan Nasıl Kullanılır — Kapak, Kâse ve Tabakla Demleme"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -2373,7 +2574,8 @@ window.TEAFaiCulture = [
    "th": "ไก้หว่าน — ฝา ชาม และจานรอง — คือภาชนะพื้นฐานที่สุดของชาจีน คู่มือนี้จะพาผู้ใช้ครั้งแรกไปทีละขั้นตอน ตั้งแต่วิธีจับไปจนถึงวิธีแก้เมื่อร้อนมือ",
    "vi": "Gaiwan — gồm nắp, chén và đĩa — là dụng cụ cơ bản nhất trong trà đạo Trung Hoa. Từ cách cầm đến cách xử lý khi quá nóng, bài viết này hướng dẫn người mới dùng qua từng bước.",
    "ar": "الغايوان — غطاء ووعاء وصحن — هو أبسط أواني الشاي الصينية. من كيفية إمساكه إلى ما تفعله عندما يبدو ساخنًا جدًا، يأخذ هذا الدليل المستخدمين لأول مرة عبر كل خطوة.",
-   "ind": "Gaiwan — tutup, mangkuk, dan tatakan — adalah wadah paling dasar dalam teh Tiongkok. Dari cara memegangnya hingga apa yang dilakukan saat terasa terlalu panas, panduan ini menuntun pengguna pertama kali melalui setiap langkah."
+   "ind": "Gaiwan — tutup, mangkuk, dan tatakan — adalah wadah paling dasar dalam teh Tiongkok. Dari cara memegangnya hingga apa yang dilakukan saat terasa terlalu panas, panduan ini menuntun pengguna pertama kali melalui setiap langkah.",
+   "tur": "Gaiwan — bir kapak, bir kâse ve bir tabak — Çin çayının en temel kabıdır. Nasıl tutulacağından, elinizi yaktığında ne yapacağınıza kadar bu rehber, ilk kez kullananları her adımda yönlendiriyor."
   },
   "body": {
    "ko": [
@@ -2617,6 +2819,28 @@ window.TEAFaiCulture = [
      "h": "Mengapa cocok untuk pemula",
      "p": "Gaiwan mudah dicuci, dan karena Anda dapat membuka tutupnya, Anda dapat menyaksikan daun mengembang saat menyeduh. Anda mengendalikan waktu seduh dengan bebas, yang memudahkan menemukan titik manis setiap teh. Ia juga tidak mahal, itulah mengapa ia begitu sering direkomendasikan sebagai peralatan teh pertama."
     }
+   ],
+   "tur": [
+    {
+     "h": "Üç parça — gök, insan, yer",
+     "p": "Bir gaiwan üç parçadan oluşur: bir kapak, bir kâse ve bir tabak. Geleneksel olarak kapak göğe, tabak yere, aralarındaki kâse ise insana benzetilir; bu yüzden bazen 'üç yetenek kâsesi' diye de anılır. Kapak ayrıca aromayı hapseder; demledikten sonra kapağı kaldırıp iç yüzünü koklamak, gaiwan kullanmanın küçük keyiflerindendir."
+    },
+    {
+     "h": "Adım adım demleme",
+     "p": "Önce gaiwanı sıcak suyla ısıtın, o suyu dökün ve çay yapraklarını ekleyin. Taze su dökün, kapağı kapatın ve çayı kısa süre demlenmeye bırakın; sonra kapağın kenarıyla yüzeydeki köpüğü sıyırın. Yaprak miktarı çaya göre değişir ama gaiwanın yaklaşık üçte birini doldurmak iyi bir başlangıç noktasıdır."
+    },
+    {
+     "h": "Dökerken — kapaktaki aralık anahtardır",
+     "p": "Kapağı hafifçe eğin ki çayın akacağı küçük bir aralık açılsın. Kâsenin kenarını başparmağınız ile orta parmağınız arasında tutun ve işaret parmağınızla kapağın üstüne hafifçe bastırarak yerinde kalmasını sağlayın. Bileğinizi eğin; yalnızca sıvı dökülür, kapak yaprakları geride tutar. Aralık çok geniş olursa yapraklar da kaçar, bu yüzden başta dar tutun."
+    },
+    {
+     "h": "Elinizi yaktığında",
+     "p": "Gaiwan tutulamayacak kadar sıcaksa, genellikle fazla doldurmuşsunuz demektir. Yalnızca onda sekizine kadar doldurun; hâlâ sıcaksa tabağından tutup kaldırın ve öyle taşıyın. Kenarı hafifçe dışa kıvrılan bir gaiwan, parmaklarınızın değdiği yerde daha serin kalır; bu da onu yeni başlayanlar için dostane bir seçim yapar."
+    },
+    {
+     "h": "Neden yeni başlayanlara uygun",
+     "p": "Gaiwanın yıkanması basittir ve kapağı açabildiğiniz için yaprakların demlenirken açılışını izleyebilirsiniz. Demleme süresini özgürce kontrol edersiniz; bu da her çayın tatlı noktasını bulmayı kolaylaştırır. Ayrıca ucuzdur, bu yüzden ilk çay gereci olarak sıkça önerilir."
+    }
    ]
   },
   "related": [
@@ -2639,7 +2863,8 @@ window.TEAFaiCulture = [
    "th": "การเลือกกาน้ำชาและถ้วย — วัสดุเปลี่ยนรสชาติอย่างไร",
    "vi": "Chọn Ấm và Chén — Chất Liệu Làm Thay Đổi Hương Vị",
    "ar": "اختيار إبريق الشاي والأكواب — كيف تغيّر المادة المذاق",
-   "ind": "Memilih Teko dan Cangkir — Bagaimana Bahan Mengubah Rasa"
+   "ind": "Memilih Teko dan Cangkir — Bagaimana Bahan Mengubah Rasa",
+   "tur": "Demlik ve Fincan Seçimi — Malzeme Tadı Nasıl Değiştirir"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -2652,7 +2877,8 @@ window.TEAFaiCulture = [
    "th": "กระเบื้อง แก้ว ดินอี๋ซิง เหล็ก — วัสดุของอุปกรณ์ชาแต่ละชนิดเหมาะกับชาต่างกัน คู่มือนี้อธิบายว่าขนาดและรูปทรงส่งผลต่อรสชาติอย่างไร พร้อมแนะนำชุดแรกที่เหมาะสมสำหรับผู้เริ่มต้น",
    "vi": "Sứ, thủy tinh, đất tử sa Nghi Hưng, sắt — mỗi chất liệu trà cụ hợp với những loại trà khác nhau. Bài viết này giải thích kích thước và hình dáng ảnh hưởng đến hương vị ra sao, và gợi ý một bộ đầu tiên hợp lý cho người mới.",
    "ar": "الخزف والزجاج وطين ييشينغ والحديد — كل مادة من مواد أدوات الشاي تناسب أنواع شاي مختلفة. يشرح هذا الدليل كيف يؤثر الحجم والشكل في النكهة، ويقترح مجموعة أولى معقولة للمبتدئين.",
-   "ind": "Porselen, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh cocok untuk teh yang berbeda. Panduan ini menjelaskan bagaimana ukuran dan bentuk memengaruhi rasa, dan menyarankan set pertama yang masuk akal untuk pemula."
+   "ind": "Porselen, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh cocok untuk teh yang berbeda. Panduan ini menjelaskan bagaimana ukuran dan bentuk memengaruhi rasa, dan menyarankan set pertama yang masuk akal untuk pemula.",
+   "tur": "Porselen, cam, Yixing kili, demir — her çay gereci malzemesi farklı çaylara uyar. Bu rehber, boyut ve şeklin lezzeti nasıl etkilediğini açıklıyor ve yeni başlayanlar için mantıklı bir ilk set öneriyor."
   },
   "body": {
    "ko": [
@@ -2896,6 +3122,28 @@ window.TEAFaiCulture = [
      "h": "Set pertama yang masuk akal",
      "p": "Mulailah dengan gaiwan porselen atau teko porselen kecil sekitar 100–150 ml dan dua cangkir. Bahan yang netral menunjukkan setiap teh apa adanya, dan perawatannya mudah. Seiring minat Anda tumbuh, menambahkan teko khusus seperti Yixing untuk satu keluarga teh menjadi bagian dari kesenangan."
     }
+   ],
+   "tur": [
+    {
+     "h": "Malzemeler, birinci bölüm — porselen ve cam",
+     "p": "Porselenin pürüzsüz, gözeneksiz yüzeyi aroma emmez; böylece tek bir kap, tatları birbirine taşımadan birçok farklı çaya hizmet edebilir. Bu, her şeyden biraz demleyen yeni başlayanlar için onu en güvenli seçim yapar. Cam, çayın rengini ve yaprakların açılışını izlemenizi sağlar — yeşil çaylar ve çiçek çayları için çok hoştur — ama ısıyı çabuk kaybeder, bu yüzden çay hızlı soğur."
+    },
+    {
+     "h": "Malzemeler, ikinci bölüm — Yixing kili ve demir",
+     "p": "Yixing (zisha) kilinin ince gözenekleri çayın aromasını zamanla içine çeker ve iyi kullanılmış bir demliğin, tek bir çay ailesinin lezzetini zamanla yumuşattığı söylenir. Koku emdiği için bir demliği oolonglar gibi tek bir aileye ayırmak en iyisidir. Demir çaydanlıklar su kaynatmak için kullanılır; ısıyı iyi tutarlar ve suya daha yumuşak bir his verdikleri sıkça övülür."
+    },
+    {
+     "h": "Boyut ve şekil lezzeti nasıl etkiler",
+     "p": "Küçük bir demlik, yaprak-su oranını yüksek tutup aromayı yoğunlaştırır; bu, gongfu demlemenin çok sayıda kısa demine uyar. Büyük bir demlik, paylaşmak için bir seferde bol miktarda çay demler. Ayrıca ağzın temiz döküp damlatmadan durduğunu ve kapağın tam oturduğunu kontrol edin — bunlar malzeme kadar önemlidir."
+    },
+    {
+     "h": "Fincan seçimi",
+     "p": "Küçük, ince duvarlı fincanlar aromayı toplar ve her yudumun sıcaklığını hissetmenizi sağlar. Beyaz bir iç yüzey çayın gerçek rengini gösterir; bu da bir çayı tanıma keyfini artırır. Gongfu setlerinde bazen uzun bir aroma fincanı bir tadım fincanıyla eşleştirilir ama başlangıçta tek bir fincan fazlasıyla yeter."
+    },
+    {
+     "h": "Mantıklı bir ilk set",
+     "p": "Yaklaşık 100–150 ml'lik bir porselen gaiwan ya da küçük porselen demlik ve iki fincanla başlayın. Nötr malzeme her çayı olduğu gibi gösterir ve bakımı kolaydır. İlginiz arttıkça, Yixing gibi tek bir çay ailesine ayrılmış bir demlik eklemek keyfin bir parçası haline gelir."
+    }
    ]
   },
   "related": []
@@ -2915,7 +3163,8 @@ window.TEAFaiCulture = [
    "th": "ชุดชากังฟู — ชื่อและหน้าที่ของอุปกรณ์แต่ละชิ้น",
    "vi": "Bộ Trà Công Phu — Tên Gọi và Vai Trò của Từng Dụng Cụ",
    "ar": "مجموعة شاي غونغ فو — أسماء كل أداة وأدوارها",
-   "ind": "Set Teh Gongfu — Nama dan Peran Setiap Alat"
+   "ind": "Set Teh Gongfu — Nama dan Peran Setiap Alat",
+   "tur": "Gongfu Çay Seti — Her Aletin Adı ve Görevi"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -2928,7 +3177,8 @@ window.TEAFaiCulture = [
    "th": "ถาดชา เหยือกแบ่งชา ถ้วยดมกลิ่นและถ้วยชิม ที่ตักใบชาและเข็มแคะชา — คู่มือนี้อธิบายอุปกรณ์แต่ละชิ้นบนโต๊ะชากังฟู และแสดงวิธีจัดชุดแบบง่าย ๆ ไว้ใช้ที่บ้าน",
    "vi": "Khay trà, chén tống, chén ngửi hương và chén thưởng trà, trà hà và kim trà — bài viết này giải thích từng dụng cụ trên bàn trà công phu và cho thấy cách bày một bộ đơn giản tại nhà.",
    "ar": "صينية الشاي وإبريق العدالة وكوب الرائحة وكوب التذوق وحامل الشاي وإبرة الشاي — يشرح هذا الدليل كل أداة على طاولة شاي غونغ فو ويوضح كيفية تجميع نسخة بسيطة في البيت.",
-   "ind": "Nampan teh, teko keadilan, cangkir aroma dan cangkir cicip, tempat teh dan jarum teh — panduan ini menjelaskan setiap alat di meja teh gongfu dan menunjukkan cara menyusun versi sederhana di rumah."
+   "ind": "Nampan teh, teko keadilan, cangkir aroma dan cangkir cicip, tempat teh dan jarum teh — panduan ini menjelaskan setiap alat di meja teh gongfu dan menunjukkan cara menyusun versi sederhana di rumah.",
+   "tur": "Çay tepsisi, adalet sürahisi, aroma fincanı ve tadım fincanı, çay tutacağı ve çay iğnesi — bu rehber, gongfu çay masasındaki her aleti açıklıyor ve evde basit bir düzenin nasıl kurulacağını gösteriyor."
   },
   "body": {
    "ko": [
@@ -3084,6 +3334,20 @@ window.TEAFaiCulture = [
      "h": "Alat untuk menangani daun",
      "p": "Tempat teh (chahe) adalah wadah kecil berbentuk sendok untuk menyajikan daun kering kepada tamu dan mengarahkannya ke dalam teko, sementara sendok teh (chaze) menakar dan memindahkan daun. Jarum teh membersihkan daun yang tersangkut di cerat, dan penjepit digunakan untuk menangani daun dan cangkir panas. Setiap alat kecil, tetapi bersama-sama mereka menjaga meja tetap rapi dan tidak tergesa-gesa."
     }
+   ],
+   "tur": [
+    {
+     "h": "Çay tepsisi ve adalet sürahisi",
+     "p": "Çay tepsisi (chapan), her şeyin üzerinde durduğu tabladır; çay gereçlerinin üzerine dökülen suyun aşağıdaki bir hazneye akması için drenajlı yapılmıştır. Bu, kapları oturduğunuz yerde ısıtıp durulamanızı sağlar. Adalet sürahisi (gongdaobei), demlenen çayı önce alan küçük bir sürahidir; çayı fincanlara bölmeden önce koyuluğunu eşitler, böylece ilk dökülen fincanla son fincan aynı tadı verir."
+    },
+    {
+     "h": "Aroma fincanı ve tadım fincanı",
+     "p": "Aroma fincanı uzun ve dar bir fincandır: çay önce ona dökülür, sonra tadım fincanına aktarılır ve boş aroma fincanında kalan kokuyu koklarsınız. Tadım fincanı, gerçekten içtiğiniz fincandır. Tayvan'da yaygınlaşan bu eşleştirme, oolong çaylarının katmanlı kokusunu takdir etmenin güzel bir yoludur."
+    },
+    {
+     "h": "Yaprakları işlemek için aletler",
+     "p": "Çay tutacağı (chahe), kuru yaprakları misafirlere sunmak ve demliğe yönlendirmek için kullanılan küçük, kepçe biçimli bir tabaktır; çay kaşığı (chaze) ise yaprakları ölçüp taşır. Çay iğnesi, ağza sıkışan yaprakları temizler; maşa ise yaprakları ve sıcak fincanları tutmak için kullanılır. Her alet küçüktür ama birlikte masayı düzenli ve telaşsız tutarlar."
+    }
    ]
   },
   "related": [
@@ -3105,7 +3369,8 @@ window.TEAFaiCulture = [
    "th": "ชาทั้งหกประเภท — ใบเดียว ชาหลากชนิด",
    "vi": "Sáu Loại Trà — Một Lá Trà, Nhiều Loại Trà",
    "ar": "أنواع الشاي الستة — ورقة واحدة وشايات كثيرة",
-   "ind": "Enam Jenis Teh — Satu Daun, Banyak Teh"
+   "ind": "Enam Jenis Teh — Satu Daun, Banyak Teh",
+   "tur": "Altı Çay Türü — Bir Yaprak, Birçok Çay"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -3118,7 +3383,8 @@ window.TEAFaiCulture = [
    "th": "ตั้งแต่ชาเขียวไปจนถึงชาดำ ชาแท้ทุกชนิดเริ่มต้นจากใบของต้นชาต้นเดียวกัน บทความนี้อธิบายว่าการออกซิเดชันและการแปรรูปแบ่งชาออกเป็นหกประเภทได้อย่างไร และทำไมเครื่องดื่มสมุนไพรจึงไม่ใช่ 'ชา' ในความหมายที่เคร่งครัด",
    "vi": "Từ trà xanh đến hắc trà, mọi loại trà thực thụ đều bắt đầu từ lá của cùng một cây trà. Bài viết này giải thích quá trình oxy hóa và chế biến chia chúng thành sáu loại ra sao — và vì sao các loại đồ uống thảo mộc, nói một cách nghiêm ngặt, không phải là trà.",
    "ar": "من الشاي الأخضر إلى الشاي الداكن، كل شاي حقيقي يبدأ كورقة من نبتة الشاي نفسها. يشرح هذا المقال كيف تقسمها الأكسدة والمعالجة إلى ستة أنواع — ولماذا لا تُعد المشروبات العشبية، بالمعنى الدقيق، شايًا.",
-   "ind": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun dari tanaman teh yang sama. Artikel ini menjelaskan bagaimana oksidasi dan pengolahan membaginya menjadi enam jenis — dan mengapa seduhan herbal, secara ketat, bukanlah teh."
+   "ind": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun dari tanaman teh yang sama. Artikel ini menjelaskan bagaimana oksidasi dan pengolahan membaginya menjadi enam jenis — dan mengapa seduhan herbal, secara ketat, bukanlah teh.",
+   "tur": "Yeşil çaydan siyah çaya, her gerçek çay aynı çay bitkisinin yaprağından başlar. Bu yazı, oksidasyon ve işlemenin çayları nasıl altı türe ayırdığını — ve bitkisel demlemelerin, tam anlamıyla, neden çay olmadığını açıklıyor."
   },
   "body": {
    "ko": [
@@ -3901,6 +4167,77 @@ window.TEAFaiCulture = [
       "Oxidation None · caffeine-free · Water 90~100℃ · Leaf · water 3g / 200ml · First steep 5 min"
      ]
     }
+   ],
+   "tur": [
+    {
+     "h": "Hepsi aynı bitkiden",
+     "p": "Birbirinden tamamen farklı görünen çaylar — yeşil çay, siyah çay, oolong — hepsi aynı yerden başlar: tek bir türün, Camellia sinensis'in yapraklarından. Çeşit, toprak ve toplama mevsimi lezzeti şekillendirir ama bir yaprağın hangi çay türüne dönüşeceğine esas olarak hasattan sonra nasıl işlendiği karar verir."
+    },
+    {
+     "h": "Anahtar, oksidasyondur",
+     "p": "Bir yaprak koparıldığı anda, içindeki bileşikler havayla tepkimeye girerken oksidasyon başlar. Yeşil çay bunu buharda pişirme ya da tavada kavurmayla erkenden durdurur ve taze, yeşil karakterini korur; siyah çay yuvarlanır ve tamamen okside edilir, bu da ona kırmızı-kahverengi bir renk ve daha derin bir lezzet verir. Oolong arada bir yerde durur, bu yüzden kısmen okside edilmiş diye adlandırılır."
+    },
+    {
+     "h": "Altı türe hızlı bakış",
+     "p": "Beyaz çay en az işlenendir — genç tomurcuklar yalnızca soldurulup kurutulur, bu yüzden yalnızca hafifçe okside olur. Sarı çay, yeşil çaya çok benzer şekilde yapılır ama nemli yaprakların yığılması adımını ekler; bu, tadı yumuşatır. Siyah çay (dark tea), yapıldıktan sonra mikrobiyal son fermantasyondan geçer; pu'er en bilinen örneğidir. Altı tür birlikte: yeşil, beyaz, sarı, oolong, siyah (black) ve siyah (dark) çaydır."
+    },
+    {
+     "h": "Bitkisel içecekler neden 'çay' değildir",
+     "p": "Çay diye adlandırılan birçok günlük içecek — arpa çayı, rooibos, papatya — hiç çay bitkisi yaprağı içermez. Tam anlamıyla bunlar bitkisel demlemeler ya da tisanlardır; gerçek çaydan ayrı bir kategoridir. Bu, tatları hakkında bir yargı değildir, yalnızca içerik farkıdır; etiketi kontrol etmek, çay dünyasını netleştiren iyi bir alışkanlıktır."
+    },
+    {
+     "h": "Her aileye hızlı bakış",
+     "p": "Ansiklopedide her ailenin başında gösterilen referans değerler, burada toplandı: her aile için oksidasyon, su sıcaklığı, yaprak-su oranı ve ilk dem süresi."
+    },
+    {
+     "h": "Yeşil çay 綠",
+     "p": [
+      "Her şey, toplandıktan sonraki 24 saat içinde kararlaştırılır — zamana karşı bir yarış.",
+      "Oksidasyon %0 · Su 70~80℃ · Yaprak · su 2~3 g / 200 ml · İlk dem 1 dk 30 sn"
+     ]
+    },
+    {
+     "h": "Oolong çayı 烏",
+     "p": [
+      "Yarı oksidasyon sanatı: tam istediğiniz noktada durmak.",
+      "Oksidasyon %15–70 · Su 90~95℃ · Yaprak · su 5~7 g / 200 ml · İlk dem 45 sn"
+     ]
+    },
+    {
+     "h": "Siyah çay (black) 紅",
+     "p": [
+      "Tamamen okside edilmiş. Kırmızı renk ve sütü taşıma gücü buradan gelir.",
+      "Oksidasyon %80–95 · Su 95~100℃ · Yaprak · su 3~5 g / 200 ml · İlk dem 3 dk"
+     ]
+    },
+    {
+     "h": "Siyah çay · Pu-erh 黑",
+     "p": [
+      "Zaman burada bir raf ömrü değildir; bir malzemedir.",
+      "Oksidasyon Sonradan fermente · Su 100℃ · Yaprak · su 5 g / 100 ml · İlk dem 20 sn"
+     ]
+    },
+    {
+     "h": "Beyaz çay 白",
+     "p": [
+      "Soldur ve kurut — hepsi bu; bu yüzden yaprağın kalitesi olduğu gibi kendini gösterir.",
+      "Oksidasyon %5–10 · Su 80~90℃ · Yaprak · su 3~4 g / 200 ml · İlk dem 2 dk"
+     ]
+    },
+    {
+     "h": "Sarı çay 黃",
+     "p": [
+      "Ekstra bir adım — kapalı sarartma — altı çay ailesinin en yumuşak tatlılığını verir ve bunların en nadiridir.",
+      "Oksidasyon %10–20 · Su 80~85℃ · Yaprak · su 3 g / 200 ml · İlk dem 1 dk 30 sn"
+     ]
+    },
+    {
+     "h": "Günlük ve bitkisel çay 代",
+     "p": [
+      "Çay çalısı yerine kavrulmuş ya da kurutulmuş tahıllar, kökler ve meyveler; olduğu gibi demlenen çiçekler ve yapraklar — kafeinsiz, her zaman el altında.",
+      "Oksidasyon Yok · kafeinsiz · Su 90~100℃ · Yaprak · su 3 g / 200 ml · İlk dem 5 dk"
+     ]
+    }
    ]
   },
   "related": []
@@ -3920,7 +4257,8 @@ window.TEAFaiCulture = [
    "th": "อุณหภูมิน้ำและเวลาแช่ — พื้นฐานที่ควรรู้",
    "vi": "Nhiệt Độ Nước và Thời Gian Ngâm — Những Điều Cơ Bản",
    "ar": "درجة حرارة الماء ووقت النقع — الأساسيات",
-   "ind": "Suhu Air dan Waktu Seduh — Dasar-dasarnya"
+   "ind": "Suhu Air dan Waktu Seduh — Dasar-dasarnya",
+   "tur": "Su Sıcaklığı ve Demleme Süresi — Temeller"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -3933,7 +4271,8 @@ window.TEAFaiCulture = [
    "th": "ชาชนิดเดียวกันอาจมีรสชาติแตกต่างกันโดยสิ้นเชิงขึ้นอยู่กับอุณหภูมิน้ำและเวลาแช่ คู่มือนี้ครอบคลุมอุณหภูมิที่แนะนำตามประเภทของชา เหตุผลที่น้ำร้อนเกินไปทำให้ชาขม วิธีลดอุณหภูมิน้ำด้วยเหยือกพักน้ำ และวิธียืดเวลาในการชงน้ำถัดไป",
    "vi": "Cùng một loại trà có thể có vị hoàn toàn khác nhau tùy thuộc vào nhiệt độ nước và thời gian ngâm. Bài viết này trình bày nhiệt độ khuyến nghị theo từng loại trà, vì sao nước quá nóng làm trà đắng, cách làm nguội nước bằng bình làm nguội, và cách kéo dài thời gian cho mỗi lần ngâm lại.",
    "ar": "يمكن أن يختلف مذاق الشاي نفسه تمامًا بحسب درجة حرارة الماء ووقت النقع. يغطي هذا الدليل درجات الحرارة الموصى بها حسب نوع الشاي، ولماذا يجعل الماء الساخن جدًا الشاي مرًا، وكيفية تبريد الماء بإبريق تبريد، وكيفية إطالة كل إعادة نقع.",
-   "ind": "Teh yang sama bisa terasa sama sekali berbeda tergantung suhu air dan waktu seduh. Panduan ini mencakup suhu yang disarankan menurut jenis teh, mengapa air yang terlalu panas membuat teh pahit, cara mendinginkan air dengan teko pendingin, dan cara memperpanjang setiap seduhan ulang."
+   "ind": "Teh yang sama bisa terasa sama sekali berbeda tergantung suhu air dan waktu seduh. Panduan ini mencakup suhu yang disarankan menurut jenis teh, mengapa air yang terlalu panas membuat teh pahit, cara mendinginkan air dengan teko pendingin, dan cara memperpanjang setiap seduhan ulang.",
+   "tur": "Aynı çay, su sıcaklığına ve demleme süresine bağlı olarak tamamen farklı tat verebilir. Bu rehber, çay türüne göre önerilen sıcaklıkları, çok sıcak suyun çayı neden acılaştırdığını, soğutma sürahisiyle suyun nasıl soğutulacağını ve her yeniden demde sürenin nasıl uzatılacağını anlatıyor."
   },
   "body": {
    "ko": [
@@ -4133,6 +4472,24 @@ window.TEAFaiCulture = [
      "h": "Aturan waktu seduh",
      "p": "Mulailah singkat — teh apa pun menjadi pahit dan kasar jika diseduh terlalu lama. Untuk teh yang diseduh beberapa kali, setiap seduhan mengekstrak lebih sedikit dari yang sebelumnya, jadi perpanjang waktunya sedikit di setiap putaran, sekitar sepuluh hingga dua puluh detik. Jika secangkir terasa terlalu kuat, persingkat waktunya; terlalu lemah, perpanjang, dan Anda akan menemukan standar Anda sendiri."
     }
+   ],
+   "tur": [
+    {
+     "h": "Sıcaklık tadı neden değiştirir",
+     "p": "Su ne kadar sıcaksa, yapraklardaki bileşikler o kadar hızlı ve tam çözünür. Özellikle acı ve buruk bileşenler çok sıcak suda kolayca ortaya çıkar; bu yüzden genç yapraklardan yapılmış bir çayın üzerine kaynar su dökmek, tatlılık ve umamiden önce acılığı öne çıkarır. Çok soğuk suyun ise ters sorunu vardır: aroma ve lezzet kilitli kalır, fincan yavan tat verir."
+    },
+    {
+     "h": "Çay türüne göre önerilen sıcaklıklar",
+     "p": "Genç yapraklardan yapılan yeşil çaylar genellikle 70–80°C'de demlenir ve daha ince yeşil çaylar çoğu zaman daha da serin su ister. Beyaz ve sarı çaylara 80–90°C uyar; oolong ise 90°C civarı ve üzerindeki sıcak suda en iyi açılır. Siyah (black) ve siyah (dark) çayların yaprakları daha sert ve daha çok okside edilmiştir; en iyi tatları için kaynamaya yakın, 95–100°C suya ihtiyaç duyarlar."
+    },
+    {
+     "h": "Suyu sürahiyle soğutmak",
+     "p": "Yeni kaynamış suyu bir soğutma sürahisine ya da boş bir kaba dökmek, her aktarmada sıcaklığını kabaca on derece düşürür. Termometre olmadan, aktarma sayısıyla ayarlayabilir ya da suyu kapağı açık halde kısa bir süre bekletebilirsiniz. Yeşil çayda güvenli sıra, önce suyu soğutup sonra yaprakların üzerine dökmektir."
+    },
+    {
+     "h": "Demleme süresinin kuralı",
+     "p": "Kısa başlayın — her çay, çok uzun demlenirse acı ve sert olur. Birkaç kez demlenen çaylarda her dem bir öncekinden daha az öz çıkarır; bu yüzden süreyi her turda biraz, yaklaşık on ila yirmi saniye uzatın. Bir fincan çok koyu gelirse süreyi kısaltın; zayıf gelirse uzatın — kendi ölçünüzü bulursunuz."
+    }
    ]
   },
   "related": []
@@ -4152,7 +4509,8 @@ window.TEAFaiCulture = [
    "th": "คาเฟอีนและธีอะนีน — ความตื่นตัวที่สงบของชา",
    "vi": "Caffeine và Theanine — Sự Tỉnh Táo Bình Thản của Trà",
    "ar": "الكافيين والثيانين — يقظة الشاي الهادئة",
-   "ind": "Kafein dan Teanin — Kewaspadaan Tenang dari Teh"
+   "ind": "Kafein dan Teanin — Kewaspadaan Tenang dari Teh",
+   "tur": "Kafein ve Teanin — Çayın Sakin Uyanıklığı"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -4165,7 +4523,8 @@ window.TEAFaiCulture = [
    "th": "ชาก็มีคาเฟอีนเช่นกัน แต่โดยทั่วไปน้อยกว่ากาแฟ และกรดอะมิโนธีอะนีนช่วยทำให้ฤทธิ์ของมันนุ่มนวลลง บทความนี้อธิบายว่าชาชนิดใดมีคาเฟอีนมากกว่า ควรดื่มอะไรในตอนเย็น และความจริงเกี่ยวกับการชงน้ำแรก",
    "vi": "Trà cũng chứa caffeine, nhưng thường ít hơn cà phê, và axit amin theanine làm dịu tác dụng của nó. Bài viết này giải thích loại trà nào chứa nhiều caffeine hơn, nên uống gì vào buổi tối, và sự thật về lần ngâm đầu tiên.",
    "ar": "يحتوي الشاي على الكافيين أيضًا، لكن عادة أقل من القهوة، وحمض الثيانين الأميني يخفف من تأثيره. يشرح هذا المقال أي الشايات تحمل كافيين أكثر، وماذا تشرب في المساء، وحقيقة النقعة الأولى.",
-   "ind": "Teh juga mengandung kafein, tetapi biasanya lebih sedikit dari kopi, dan asam amino teanin melunakkan efeknya. Artikel ini menjelaskan teh mana yang mengandung lebih banyak kafein, apa yang diminum di malam hari, dan kebenaran tentang seduhan pertama."
+   "ind": "Teh juga mengandung kafein, tetapi biasanya lebih sedikit dari kopi, dan asam amino teanin melunakkan efeknya. Artikel ini menjelaskan teh mana yang mengandung lebih banyak kafein, apa yang diminum di malam hari, dan kebenaran tentang seduhan pertama.",
+   "tur": "Çay da kafein içerir ama genellikle kahveden azdır ve teanin adlı amino asit onun etkisini yumuşatır. Bu yazı, hangi çayların daha çok kafein taşıdığını, akşam ne içileceğini ve ilk dem hakkındaki gerçeği açıklıyor."
   },
   "body": {
    "ko": [
@@ -4409,6 +4768,28 @@ window.TEAFaiCulture = [
      "h": "Mitos seduhan pertama",
      "p": "Klaim bahwa membuang seduhan pertama menghilangkan sebagian besar kafein adalah berlebihan. Kafein tidak hilang dalam satu kali bilasan; ia terus larut di banyak seduhan. Membilas daun terutama adalah tentang membersihkan debu dan membangunkan daun — bukan cara yang andal untuk menghilangkan kafein dari teh Anda."
     }
+   ],
+   "tur": [
+    {
+     "h": "Evet, çayda kafein var",
+     "p": "Çay gerçekten kafein içerir ama bir fincan çayda genellikle bir fincan kahveden az kafein olur. Miktar, çaya ve nasıl demlendiğine göre çok değişir — koyu demlenmiş bir fincanla hafif demlenmiş biri arasında büyük fark olabilir. Yani 'çayda kafein yoktur' doğru değildir; 'çoğu zaman kahveden daha yumuşaktır' gerçeğe daha yakındır."
+    },
+    {
+     "h": "Farkı teanin yaratır",
+     "p": "Çay ayrıca teanin adlı bir amino asit içerir; bu, kafeinin uyarıcı etkisini yumuşatır. Birçok kişinin çaydan sonra, kahvedeki gibi keskin bir sarsıntı yerine sakince odaklanmış hissetmesinin nedeni budur. Teanin ayrıca lezzetli umami tadının bir kaynağıdır; bu yüzden teanin bakımından zengin çaylar — ince, gölgede yetiştirilmiş yeşil çaylar gibi — daha derin bir tat verme eğilimindedir."
+    },
+    {
+     "h": "Hangi çaylarda daha çok kafein var",
+     "p": "Kafein, genç tomurcuklarda ve genç yapraklarda daha yüksek olma eğilimindedir; bu yüzden tomurcuğu bol çaylar ve bütün yaprak tozu olarak tüketilen matcha, nispeten daha fazlasını verir. Saplardan ya da kaba yapraklardan yapılan çaylar ve kavrulmuş çaylar daha az içerme eğilimindedir. Aynı çay, daha sıcak suda daha uzun demlendiğinde de daha çok kafein salar."
+    },
+    {
+     "h": "İyi akşam seçimleri",
+     "p": "Kafeine duyarlıysanız, hojicha — kavrulmuş ve kafeini daha düşük — gerçek çaylar arasında iyi bir akşam seçimidir. Arpa çayı, rooibos, papatya ve diğer bitkisel demlemeler hiç kafein içermez ve geceleri kolay seçimlerdir. Yine de gerçek çay isterseniz, hafif ve küçük demleyin ve yatmadan önce birkaç saat bırakın."
+    },
+    {
+     "h": "İlk dem efsanesi",
+     "p": "İlk demi dökmenin kafeinin çoğunu uzaklaştırdığı iddiası bir abartıdır. Kafein tek bir durulamayla yıkanıp gitmez; birçok dem boyunca çözünmeye devam eder. Yaprakları durulamak esas olarak tozu yıkamak ve yaprakları uyandırmak içindir — çayınızı kafeinsizleştirmenin güvenilir bir yolu değildir."
+    }
    ]
   },
   "related": [
@@ -4430,7 +4811,8 @@ window.TEAFaiCulture = [
    "th": "วิธีเก็บรักษาชา — หลีกให้ห่างจากห้าสิ่ง",
    "vi": "Cách Bảo Quản Trà — Tránh Xa Năm Thứ",
    "ar": "كيفية تخزين الشاي — أبعده عن خمسة أشياء",
-   "ind": "Cara Menyimpan Teh — Jauhkan dari Lima Hal"
+   "ind": "Cara Menyimpan Teh — Jauhkan dari Lima Hal",
+   "tur": "Çay Nasıl Saklanır — Beş Şeyden Uzak Tutun"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -4443,7 +4825,8 @@ window.TEAFaiCulture = [
    "th": "ชาบอบบางต่อแสง ความชื้น อากาศ กลิ่น และความร้อน คู่มือนี้ครอบคลุมกฎพื้นฐานในการรักษาความสดของชา วิธีเลือกภาชนะที่ปิดสนิท ข้อควรระวังในการแช่เย็น และความรู้สึกคร่าว ๆ ว่าชาแต่ละประเภทเก็บได้นานแค่ไหน",
    "vi": "Trà rất nhạy cảm trước ánh sáng, độ ẩm, không khí, mùi lạ và nhiệt. Bài viết này trình bày các quy tắc cơ bản để giữ trà tươi, cách chọn hộp kín, những điều cần lưu ý khi bảo quản lạnh, và cảm nhận về thời gian giữ của từng loại trà.",
    "ar": "الشاي هش أمام الضوء والرطوبة والهواء والروائح والحرارة. يغطي هذا الدليل القواعد الأساسية للحفاظ على الشاي طازجًا، وكيفية اختيار وعاء محكم الإغلاق، وما يجب الانتباه له مع التبريد، وإحساسًا بمدة بقاء كل نوع.",
-   "ind": "Teh rapuh menghadapi cahaya, kelembapan, udara, bau, dan panas. Panduan ini mencakup aturan dasar menjaga teh tetap segar, cara memilih wadah kedap udara, hal yang perlu diperhatikan dengan pendinginan, dan gambaran berapa lama setiap jenis bertahan."
+   "ind": "Teh rapuh menghadapi cahaya, kelembapan, udara, bau, dan panas. Panduan ini mencakup aturan dasar menjaga teh tetap segar, cara memilih wadah kedap udara, hal yang perlu diperhatikan dengan pendinginan, dan gambaran berapa lama setiap jenis bertahan.",
+   "tur": "Çay; ışık, nem, hava, kokular ve ısı karşısında hassastır. Bu rehber, çayı taze tutmanın temel kurallarını, hava geçirmez bir kabın nasıl seçileceğini, buzdolabında saklarken nelere dikkat edileceğini ve her türün ne kadar dayandığına dair bir fikir veriyor."
   },
   "body": {
    "ko": [
@@ -4642,6 +5025,24 @@ window.TEAFaiCulture = [
     {
      "h": "Berapa lama setiap jenis bertahan",
      "p": "Teh hijau berubah dengan cepat, jadi sebaiknya dihabiskan dalam beberapa bulan setelah dibuka; teh hitam lebih kokoh dan bertahan dengan baik selama satu atau dua tahun. Oolong yang disangrai lebih kuat bertahan lebih lama daripada yang lebih hijau. Teh gelap seperti pu'er adalah pengecualian: ia dinikmati karena bagaimana ia berubah selama bertahun-tahun pada suhu ruangan dengan sedikit aliran udara, jadi ventilasi lebih penting daripada segel kedap udara."
+    }
+   ],
+   "tur": [
+    {
+     "h": "Çayın sevmediği beş şey",
+     "p": "Işık, çayın rengini ve aromasını soldurur; nem ise küfü ve kötü tatları davet eder. Havayla temas oksidasyonu sürdürür ve taze kokuyu çalar; kuru yapraklar çevredeki kokuları o kadar kolay emer ki çayı baharatların ya da kahvenin yanında saklamak onu bozar. Yüksek sıcaklıklar da aromanın daha hızlı solmasına yol açar."
+    },
+    {
+     "h": "Kap ve yer — temeller",
+     "p": "Genel kural, serin ve kuru bir yerde tutulan, opak ve hava geçirmez bir kaptır. Çayı küçük kaplara bölmek, ana stoğun daha seyrek açılması demektir; böylece kokusu daha uzun süre kalır. Mutfaklarda sıcaklık ve nem dalgalanır ve yemek kokularıyla doludur; bu yüzden başka bir odadaki bir dolap, çayınız için daha iyi bir evdir."
+    },
+    {
+     "h": "Buzdolabında saklarsanız dikkatli olun",
+     "p": "Yeşil çaylar ve hassas oolonglar, mühür gerçekten hava geçirmezse buzdolabında tazeliklerini daha uzun korur. Ama soğuk çayı hemen açarsanız havadaki nem yaprakların üzerinde yoğunlaşır; bu yüzden kabı açmadan önce oda sıcaklığına dönmesini bekleyin. Açıldıktan sonra çayı buzdolabı ile raf arasında gidip getirmekten kaçının — serin tutun ve makul bir sürede bitirin."
+    },
+    {
+     "h": "Her tür ne kadar dayanır",
+     "p": "Yeşil çay çabuk değişir; bu yüzden açıldıktan sonra birkaç ay içinde bitirmek en iyisidir. Siyah çay (black) daha dayanıklıdır ve bir iki yıl iyi saklanır. Daha çok kavrulmuş oolonglar, daha yeşil olanlardan daha uzun dayanır. Pu'er gibi siyah çaylar (dark) istisnadır: oda sıcaklığında, biraz hava akışıyla yıllar içinde nasıl değiştiklerinin tadı çıkarılır; bu yüzden onlar için hava geçirmez bir mühürden çok havalandırma önemlidir."
     }
    ]
   },
@@ -4846,6 +5247,24 @@ window.TEAFaiCulture = [
      "h": "Kategori lain, dan upacara yang akan datang",
      "p": "Best of Matcha diraih oleh teh bubuk organik SAMIDORI dari Furukawa Seicha dari Jepang, dan Best of Botanicals diraih oleh teh kuning Orchid Frost dari Seven Teahouse di AS. Upacara penghargaan berlangsung pada 22 Januari 2027 di toko utama Fortnum & Mason di London, diikuti keesokan harinya dengan pencicipan teh-teh peraih medali emas."
     }
+   ],
+   "tur": [
+    {
+     "h": "The Leafies nedir?",
+     "p": "The Leafies, Britanyalı bir çay eğitim kurumu olan UK Tea Academy tarafından 2022'de başlatılan uluslararası bir çay yarışmasıdır. Her yıl dünyanın dört yanından yüzlerce çay katılır ve farklı sektörlerden ve kültürel geçmişlerden gelen profesyonel jüri üyelerinden oluşan bir panel, tekrarlanan kör tadım turlarıyla kazananları seçer. Britanyalı lüks gıda mağazası Fortnum & Mason ödüllerin ortağıdır ve kazanan çaylar, mağazanın raflarında ya da ikindi çayı menüsünde yer kazanabilir."
+    },
+    {
+     "h": "Best in Show 2026 — Japonya'dan buharda pişirilmiş bir yeşil çay",
+     "p": "Bu yılın en büyük onuru Best in Show, Japonya'nın Kagoshima kentinden Horiguchi Seicha (Wakoen) tarafından üretilen Kodama 'Special Edition' buharda pişirilmiş yeşil çayına gitti. Buharda pişirme, Japon yeşil çayının imzası olan yöntemdir: yapraklar tava ısısı yerine buharla sabitlenir; bu da yeşil aromalarını ve lezzetli derinliklerini özellikle canlı tutar."
+    },
+    {
+     "h": "Tayvan'ın siyah çayları öne fırlıyor",
+     "p": "Best of Black Teas ödülü, Tayvanlı Fusensen'in ürettiği Mi Ying Black Tea'ye gitti. 1985'te Tainan'da kurulan şirket, bu bal kokulu siyah çayı Tayvan'ın doğusundaki Hualien'de yetiştirilen yapraklardan üretti. Tayvan çayları Best of Retail Teas ödülünü de paylaştı ve Tayvan bu yılki ödüllerde yedi altın, 22 gümüş ve 26 bronz madalya kazandı. Tayvan siyah çayı bu kategorinin en büyük ödülünü ilk kez 2024'te kazanmıştı; 2025'te ise bir Tayvan çayı Best in Show'un kendisini aldı — hâlâ güçlü giden bir form grafiği."
+    },
+    {
+     "h": "Diğer kategoriler ve yaklaşan tören",
+     "p": "Best of Matcha, Japonya'dan Furukawa Seicha'nın organik SAMIDORI toz çayına; Best of Botanicals ise ABD'den Seven Teahouse'un Orchid Frost sarı çayına gitti. Ödül töreni 22 Ocak 2027'de Fortnum & Mason'ın Londra'daki amiral mağazasında yapılacak; ertesi gün altın madalyalı çayların tadımı izleyecek."
+    }
    ]
   },
   "cat": "basics",
@@ -4866,7 +5285,8 @@ window.TEAFaiCulture = [
    "th": "ผลรางวัล The Leafies 2026 เวทีประกวดชานานาชาติที่จัดโดย UK Tea Academy ประกาศออกมาแล้ว รางวัลสูงสุดตกเป็นของชาเขียวนึ่งจาก Kagoshima ประเทศญี่ปุ่น รางวัลชาดำตกเป็นของชาดำกลิ่นน้ำผึ้งจาก Taiwan — และ Taiwan กวาดไปทั้งหมด 55 เหรียญ รวมถึง 7 เหรียญทอง",
    "vi": "Kết quả của The Leafies 2026, giải thưởng trà quốc tế do UK Tea Academy tổ chức, đã được công bố. Giải thưởng cao nhất thuộc về một loại trà xanh hấp từ Kagoshima, Nhật Bản, giải trà đen thuộc về một loại trà đen thơm mùi mật ong từ Taiwan — và Taiwan giành tổng cộng 55 huy chương, trong đó có bảy huy chương vàng.",
    "ar": "صدرت نتائج ذا ليفيز 2026، جوائز الشاي الدولية التي تديرها أكاديمية الشاي في المملكة المتحدة. ذهبت الجائزة الكبرى إلى شاي أخضر مبخر من كاغوشيما في اليابان، وجائزة الشاي الأسود إلى شاي أسود برائحة العسل من تايوان — وحصدت تايوان 55 ميدالية في المجموع، منها سبع ذهبيات.",
-   "ind": "Hasil The Leafies 2026 telah diumumkan, penghargaan teh internasional yang diselenggarakan oleh UK Tea Academy. Penghargaan tertinggi diraih teh hijau kukus dari Kagoshima, Jepang, hadiah teh hitam diraih teh hitam beraroma madu dari Taiwan — dan Taiwan menyapu 55 medali seluruhnya, termasuk tujuh emas."
+   "ind": "Hasil The Leafies 2026 telah diumumkan, penghargaan teh internasional yang diselenggarakan oleh UK Tea Academy. Penghargaan tertinggi diraih teh hijau kukus dari Kagoshima, Jepang, hadiah teh hitam diraih teh hitam beraroma madu dari Taiwan — dan Taiwan menyapu 55 medali seluruhnya, termasuk tujuh emas.",
+   "tur": "UK Tea Academy tarafından düzenlenen uluslararası çay ödülleri The Leafies 2026'nın sonuçları açıklandı. En büyük onur, Japonya'nın Kagoshima kentinden buharda pişirilmiş bir yeşil çaya gitti; siyah çay ödülü, Tayvan'dan bal kokulu bir siyah çaya — ve Tayvan, yedisi altın olmak üzere toplam 55 madalya topladı."
   },
   "title": {
    "en": "The Leafies 2026 — The World's Teas of the Year",
@@ -4879,7 +5299,8 @@ window.TEAFaiCulture = [
    "th": "The Leafies 2026 — ชาแห่งปีของโลก",
    "vi": "The Leafies 2026 — Những loại trà của năm trên thế giới",
    "ar": "ذا ليفيز 2026 — أفضل شايات العالم لهذا العام",
-   "ind": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini"
+   "ind": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini",
+   "tur": "The Leafies 2026 — Dünyanın Yılın Çayları"
   }
  }
 ];
