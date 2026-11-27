@@ -1,4 +1,4 @@
-/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (13개 언어) */
+/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (14개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -235,6 +235,24 @@ window.TEAFaiCulture = [
      "h": "අද එදිනෙදා දාරියේ",
      "p": "අද වන විට, සරල කළ එදිනෙදා දාරියේ පුළුල් ලෙස භාවිතා වේ. නිවසේ හෝ තේ නිවසක තේ බඳුනක් සහ කෝප්ප කිහිපයක් සමඟ, මිනිසුන් සන්සුන්භාවය සහ සංවාදය සඳහා ගත කරන කාලයක් ලෙස තේ බෙදා ගනිති. ඔබ ආරම්භකයෙකු නම්, ජලයේ උෂ්ණත්වය සහ පෙරන කාලය ගැන සැලකිලිමත් වීම හොඳ කෝප්පයක් පිළිගැන්වීමට ප්‍රමාණවත්ය."
     }
+   ],
+   "es": [
+    {
+     "h": "Charye, un rito de ofrecer té",
+     "p": "Se suele explicar que el rito ancestral coreano llamado charye (차례) tiene su origen en la costumbre de ofrecer té a los antepasados. En los templos, la corte y las casas de los eruditos de Goryeo y Joseon, el té se preparaba con cuidado al recibir invitados y honrar a los antepasados. El té nunca fue solo una bebida; era una forma de transmitir lo que uno sentía."
+    },
+    {
+     "h": "El flujo básico del darye",
+     "p": "Primero, hierve el agua y calienta la tetera y las tazas con agua caliente. Coloca las hojas en la tetera ya caliente, vierte agua a la temperatura adecuada y deja reposar el té. Al servir, alterna pequeñas cantidades entre las tazas para que todas tengan la misma intensidad."
+    },
+    {
+     "h": "El espíritu de la hospitalidad",
+     "p": "El corazón del darye es la actitud, no la técnica. El anfitrión prepara todo antes de que el invitado se siente y ofrece la taza con ambas manos. Mientras el invitado bebe, el anfitrión habla poco y permanece atento en silencio, para que el invitado pueda concentrarse en el aroma y el sabor."
+    },
+    {
+     "h": "El darye cotidiano de hoy",
+     "p": "Hoy en día se practica ampliamente un darye cotidiano simplificado. Con una tetera y unas pocas tazas en casa o en una casa de té, la gente comparte el té como un momento de calma y conversación. Si estás empezando, basta con cuidar la temperatura del agua y el tiempo de reposo para servir una buena taza."
+    }
    ]
   },
   "cat": "ceremony",
@@ -257,7 +275,8 @@ window.TEAFaiCulture = [
    "ar": "في كوريا، كان الشاي والآداب شيئًا واحدًا منذ زمن طويل: فكلمة «تشارييه» التي تُطلق على طقس تكريم الأسلاف تعني حرفيًا «طقس الشاي». يأخذك هذا المقال عبر خطوات الدارييه اليومية، من غلي الماء إلى تقديم الكوب بكلتا اليدين.",
    "ind": "Di Korea, teh dan etiket sejak lama menyatu: kata untuk upacara leluhur, charye, secara harfiah berarti 'ritual teh.' Artikel ini menelusuri alur darye sehari-hari, dari mendidihkan air hingga menyuguhkan cangkir dengan kedua tangan.",
    "tur": "Kore'de çay ile görgü kuralları uzun zamandır iç içedir: atalar için düzenlenen törene verilen ad olan charye, kelime anlamıyla 'çay töreni' demektir. Bu yazı, suyu kaynatmaktan fincanı iki elle sunmaya kadar günlük darye'nin akışını adım adım anlatıyor.",
-   "si": "කොරියාවේදී තේ සහ ආචාර ධර්ම දිගු කලක් එකක් වී තිබේ: මුතුන් මිත්තන්ට පුද පූජා කරන චාරිත්‍රයට කියන 'චාරියේ' යන වචනයේ තේරුම වචනානුසාරයෙන්ම 'තේ චාරිත්‍රය' යන්නයි. මෙම ලිපියෙන් ජලය උණු කිරීමේ සිට අත් දෙකෙන්ම කෝප්පය පිළිගැන්වීම දක්වා එදිනෙදා දාරියේ ක්‍රියාවලිය විස්තර කෙරේ."
+   "si": "කොරියාවේදී තේ සහ ආචාර ධර්ම දිගු කලක් එකක් වී තිබේ: මුතුන් මිත්තන්ට පුද පූජා කරන චාරිත්‍රයට කියන 'චාරියේ' යන වචනයේ තේරුම වචනානුසාරයෙන්ම 'තේ චාරිත්‍රය' යන්නයි. මෙම ලිපියෙන් ජලය උණු කිරීමේ සිට අත් දෙකෙන්ම කෝප්පය පිළිගැන්වීම දක්වා එදිනෙදා දාරියේ ක්‍රියාවලිය විස්තර කෙරේ.",
+   "es": "En Corea, el té y la etiqueta han sido una sola cosa desde hace mucho tiempo: la palabra para un rito ancestral, charye, significa literalmente «rito del té». Este artículo recorre el flujo del darye cotidiano, desde hervir el agua hasta ofrecer la taza con ambas manos."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -272,7 +291,8 @@ window.TEAFaiCulture = [
    "ar": "الدارييه الكورية — آداب تقديم الشاي",
    "ind": "Darye Korea — Etiket Menyajikan Teh",
    "tur": "Kore Darye'si — Çay Sunma Âdâbı",
-   "si": "කොරියානු දාරියේ — තේ පිළිගැන්වීමේ ආචාර ධර්ම"
+   "si": "කොරියානු දාරියේ — තේ පිළිගැන්වීමේ ආචාර ධර්ම",
+   "es": "Darye coreano: la etiqueta de ofrecer té"
   }
  },
  {
@@ -458,6 +478,20 @@ window.TEAFaiCulture = [
      "h": "කුඩා භාජන, තද තේ, බොහෝ වට",
      "p": "ගොංෆු පෙරීමේදී අත්ල ප්‍රමාණයේ තේ බඳුනක් හෝ ගයිවානයක් තේ දළුවලින් ත්‍යාගශීලීව පුරවා, කෙටියෙන් පෙරා, පස් වතාවක් හෝ ඊට වැඩි වාර ගණනක් නැවත නැවත කරයි. සෑම වාරයක්ම සුවඳ සහ රසයෙන් තරමක් වෙනස් වන අතර, වටයෙන් වටයට එම වෙනස රස විඳීම මෙම විලාසයේ සතුටයි."
     }
+   ],
+   "es": [
+    {
+     "h": "El hogar del té gongfu",
+     "p": "El té gongfu (工夫茶) se desarrolló en Chaozhou, Guangdong, y en la región de Minnan, al sur de Fujian. Los registros de la dinastía Qing ya describen el té gongfu de Chaozhou, y este estilo ha influido fuertemente en la práctica del té en toda China y Taiwán."
+    },
+    {
+     "h": "«Gongfu» significa tiempo y dedicación",
+     "p": "Aquí, gongfu no significa artes marciales. Significa dedicar tiempo y habilidad a algo. El nombre refleja el cuidado puesto en cada paso: elegir buenas hojas, calentar el agua y preparar el té en infusiones cortas y repetidas."
+    },
+    {
+     "h": "Recipientes pequeños, té fuerte, muchas rondas",
+     "p": "La preparación gongfu usa una tetera del tamaño de la palma de la mano o un gaiwan, llenos generosamente de hojas, con un reposo breve que se repite cinco veces o más. Cada infusión cambia ligeramente en aroma y sabor, y saborear ese cambio ronda tras ronda es el placer de este estilo."
+    }
    ]
   },
   "cat": "ceremony",
@@ -480,7 +514,8 @@ window.TEAFaiCulture = [
    "ar": "وُلد شاي غونغ فو في تشاوتشو وجنوب فوجيان، وهو يحضّر شايًا قويًا في إبريق صغير أو غايوان ويتشاركه عبر نقعات قصيرة كثيرة. تعرّف على ما يفعله إبريق العدالة وكوب الرائحة، ولماذا تعني كلمة «غونغ فو» الوقت والعناية.",
    "ind": "Lahir di Chaozhou dan Fujian selatan, teh gongfu menyeduh teh pekat dalam teko kecil atau gaiwan dan membaginya dalam banyak seduhan singkat. Pelajari fungsi teko keadilan dan cangkir aroma, serta mengapa 'gongfu' berarti waktu dan kepedulian.",
    "tur": "Chaozhou ve güney Fujian'da doğan gongfu çayı, minik bir demlikte ya da gaiwan'da koyu çay demler ve birçok kısa demleme boyunca paylaşır. Eşitlik sürahisi ile koku fincanının ne işe yaradığını ve 'gongfu'nun neden zaman ve özen anlamına geldiğini öğrenin.",
-   "si": "චාඕජෝ සහ දකුණු ෆුජියන් ප්‍රදේශවල උපන් ගොංෆු තේ, කුඩා බඳුනක හෝ ගයිවානයක තද තේ පෙරා, කෙටි වාර බොහෝ ගණනක් පුරා බෙදා ගනියි. සාධාරණත්ව පිචරය සහ සුවඳ කෝප්පය කරන්නේ කුමක්ද, සහ 'ගොංෆු' යන්නෙන් අදහස් කරන්නේ කාලය සහ සැලකිල්ල ඇයි දැයි ඉගෙන ගන්න."
+   "si": "චාඕජෝ සහ දකුණු ෆුජියන් ප්‍රදේශවල උපන් ගොංෆු තේ, කුඩා බඳුනක හෝ ගයිවානයක තද තේ පෙරා, කෙටි වාර බොහෝ ගණනක් පුරා බෙදා ගනියි. සාධාරණත්ව පිචරය සහ සුවඳ කෝප්පය කරන්නේ කුමක්ද, සහ 'ගොංෆු' යන්නෙන් අදහස් කරන්නේ කාලය සහ සැලකිල්ල ඇයි දැයි ඉගෙන ගන්න.",
+   "es": "Nacido en Chaozhou y el sur de Fujian, el té gongfu prepara un té fuerte en una tetera diminuta o en un gaiwan y lo comparte en muchas infusiones cortas. Descubre qué hacen la jarra de la equidad y la taza de aroma, y por qué «gongfu» significa tiempo y dedicación."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -495,7 +530,8 @@ window.TEAFaiCulture = [
    "ar": "شاي غونغ فو الصيني — أباريق صغيرة ونقعات كثيرة",
    "ind": "Teh Gongfu Tiongkok — Teko Kecil, Banyak Seduhan",
    "tur": "Çin Gongfu Çayı — Küçük Demlikler, Çok Demleme",
-   "si": "චීන ගොංෆු තේ — කුඩා බඳුන්, බොහෝ වාර ගණනක් පෙරීම"
+   "si": "චීන ගොංෆු තේ — කුඩා බඳුන්, බොහෝ වාර ගණනක් පෙරීම",
+   "es": "Té gongfu chino: teteras pequeñas, muchas infusiones"
   }
  },
  {
@@ -733,6 +769,24 @@ window.TEAFaiCulture = [
      "h": "අමුත්තන් සඳහා මූලික ආචාර ධර්ම",
      "p": "භාජනය ලැබුණු විට, අමුත්තා සැහැල්ලුවෙන් ආචාර කර, පසුව එහි අලංකාර ඉදිරිපසින් පානය නොකිරීමට අත්ල මත භාජනය තරමක් හරවයි. පානය අවසන් කළ පසු, අමුත්තා කට පිස දමා, භාජනය අගය කර, සත්කාරකයාට ස්තූති කරයි. මෙම සරල ක්‍රියාවලිය දැන ගැනීම පළමු අත්දැකීමක් සඳහා ඕනෑ තරම්ය."
     }
+   ],
+   "es": [
+    {
+     "h": "Batir matcha en un cuenco",
+     "p": "En el sadō, el matcha en polvo se coloca en un cuenco de té (chawan), se añade agua caliente y el té se bate con un batidor de bambú (chasen) hasta que queda espumoso. El anfitrión prepara el té frente a cada invitado, y primero se sirve un dulce de temporada para equilibrar el amargor del matcha."
+    },
+    {
+     "h": "Sen no Rikyū y el wabi",
+     "p": "A Sen no Rikyū, el maestro del té del siglo XVI, se le atribuye haber perfeccionado el estilo wabi del té: encontrar la belleza en la sencillez y la imperfección. En lugar de utensilios lujosos, valoraba los cuencos rústicos y las pequeñas salas de té, y el sadō tomó forma como un camino de disciplina mental."
+    },
+    {
+     "h": "Ichi-go ichi-e",
+     "p": "La apreciada frase ichi-go ichi-e (一期一會) significa que este encuentro ocurrirá una sola vez en la vida. El anfitrión pone todo su cuidado en una ocasión que nunca se repetirá, y el invitado recibe ese cuidado con gratitud, saboreando ese único cuenco."
+    },
+    {
+     "h": "Normas básicas para invitados",
+     "p": "Al recibir el cuenco, el invitado hace una leve reverencia y luego gira un poco el cuenco sobre la palma para no beber por su frente decorado. Al terminar, limpia el borde, admira el cuenco y agradece al anfitrión. Conocer este sencillo flujo es más que suficiente para una primera experiencia."
+    }
    ]
   },
   "cat": "ceremony",
@@ -754,7 +808,8 @@ window.TEAFaiCulture = [
    "ar": "في السادو اليابانية، يُخفق الماتشا في وعاء شاي ويُقدَّم لكل ضيف. يقدّم هذا المقال جمالية الوابي عند سين نو ريكيو، وروح «إيتشي-غو إيتشي-إيه»، وآداب الضيف الأساسية للمبتدئين.",
    "ind": "Dalam sadō Jepang, matcha dikocok dalam mangkuk teh dan disajikan kepada setiap tamu. Artikel ini memperkenalkan estetika wabi Sen no Rikyū, semangat ichi-go ichi-e, dan tata krama dasar tamu untuk pemula.",
    "tur": "Japon sadō'sunda matcha bir çay kâsesinde çırpılır ve her misafire sunulur. Bu yazı, Sen no Rikyū'nun wabi estetiğini, ichi-go ichi-e ruhunu ve yeni başlayanlar için temel misafir görgü kurallarını tanıtıyor.",
-   "si": "ජපන් සදෝවේදී, මච්චා තේ භාජනයක ගසා සෑම අමුත්තෙකුටම පිළිගන්වනු ලැබේ. මෙම ලිපියෙන් සෙන් නො රික්යුගේ වබි සෞන්දර්යය, ඉචි-ගෝ ඉචි-ඒ හි ආත්මය, සහ ආරම්භකයින් සඳහා මූලික අමුත්තන්ගේ ආචාර ධර්ම හඳුන්වා දෙයි."
+   "si": "ජපන් සදෝවේදී, මච්චා තේ භාජනයක ගසා සෑම අමුත්තෙකුටම පිළිගන්වනු ලැබේ. මෙම ලිපියෙන් සෙන් නො රික්යුගේ වබි සෞන්දර්යය, ඉචි-ගෝ ඉචි-ඒ හි ආත්මය, සහ ආරම්භකයින් සඳහා මූලික අමුත්තන්ගේ ආචාර ධර්ම හඳුන්වා දෙයි.",
+   "es": "En el sadō japonés, el matcha se bate en un cuenco de té y se sirve a cada invitado. Este artículo presenta la estética wabi de Sen no Rikyū, el espíritu del ichi-go ichi-e y las normas básicas para invitados principiantes."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -769,7 +824,8 @@ window.TEAFaiCulture = [
    "ar": "السادو اليابانية — كوب واحد ولقاء واحد",
    "ind": "Sadō Jepang — Satu Cangkir, Satu Pertemuan",
    "tur": "Japon Sadō'su — Bir Fincan, Bir Buluşma",
-   "si": "ජපන් සදෝ — එක් කෝප්පයක්, එක් හමුවීමක්"
+   "si": "ජපන් සදෝ — එක් කෝප්පයක්, එක් හමුවීමක්",
+   "es": "Sadō japonés: una taza, un encuentro"
   }
  },
  {
@@ -1007,6 +1063,24 @@ window.TEAFaiCulture = [
      "h": "කුඩා ජිෂා බඳුන, සාන්ද්‍රිත උගුරු",
      "p": "ලාඕරෙන් චා සහ තේ කලාව යන දෙකම කුඩා ජිෂා මැටි බඳුනක් තේ දළුවලින් ත්‍යාගශීලීව පුරවා, කෙටි නැවත නැවත වාරවලින් පෙරනු ලැබේ. කෝප්ප කුඩා වුවත් සෑම උගුරක්ම සාන්ද්‍රිත වන අතර, වාර පුරා රසය වෙනස් වන ආකාරය බෙදා ගැනීම තායිවාන ඌලොංහි සතුටයි."
     }
+   ],
+   "es": [
+    {
+     "h": "Laoren cha, té compartido sin prisa",
+     "p": "El laoren cha (老人茶, «té de los mayores») era la costumbre cotidiana de las personas mayores de reunirse bajo los árboles o los aleros para preparar un oolong fuerte en una tetera pequeña y compartirlo sin prisa. La palabra «mayores» encierra una actitud: el té nunca se toma con apuro."
+    },
+    {
+     "h": "Hacia la casa del arte del té",
+     "p": "A medida que la economía de Taiwán creció en las décadas de 1970 y 1980, se multiplicaron las casas de té dedicadas al té —chayiguan— y la forma del laoren cha se refinó hasta convertirse en un «arte del té» formal. Hoy estas casas de té son el lugar donde los visitantes experimentan con más frecuencia el oolong taiwanés."
+    },
+    {
+     "h": "Primero el aroma, con la taza de aroma",
+     "p": "El arte del té taiwanés es conocido por saborear el aroma antes que el sabor. El té preparado se vierte primero en una taza de aroma alta (wenxiangbei) y luego se pasa a la taza para beber; el invitado levanta entonces la taza de aroma ya vacía e inhala la fragancia que quedó en ella: un recurso para disfrutar plenamente el rico aroma del oolong."
+    },
+    {
+     "h": "Tetera pequeña de zisha, sorbos concentrados",
+     "p": "Tanto el laoren cha como el arte del té usan una pequeña tetera de arcilla zisha llena generosamente de hojas, preparada en infusiones cortas y repetidas. Las tazas son diminutas, pero cada sorbo es concentrado, y compartir cómo cambia el sabor entre infusiones es la alegría del oolong taiwanés."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1029,7 +1103,8 @@ window.TEAFaiCulture = [
    "ar": "في تايوان، كان كبار السن يجتمعون يومًا ليتشاركوا أولونغ قويًا من أباريق طينية صغيرة — عادة تسمى لاورين تشا نمت لتصبح بيوت فن الشاي اليوم. اكتشف طقس تقديم الرائحة أولًا باستخدام كوب العبير.",
    "ind": "Di Taiwan, para tetua dulu berkumpul untuk berbagi oolong pekat dari teko tanah liat kecil — kebiasaan yang disebut laoren cha yang tumbuh menjadi rumah seni teh masa kini. Temukan ritual mengutamakan aroma dengan cangkir penghirup aroma.",
    "tur": "Tayvan'da yaşlılar bir zamanlar minik toprak demliklerde koyu oolong paylaşmak için toplanırdı — laoren cha denen bu gelenek, günümüzün çay sanatı evlerine dönüştü. Koku fincanıyla önce kokuyu tatmaya dayanan ritüeli keşfedin.",
-   "si": "තායිවානයේදී, වැඩිහිටියන් වරක් කුඩා මැටි බඳුන්වලින් තද ඌලොං බෙදා ගැනීමට රැස් වූහ — ලාඕරෙන් චා නම් සිරිත අද තේ-කලා නිවස බවට වර්ධනය විය. සුවඳ කෝප්පය භාවිතා කරමින් සුවඳට ප්‍රමුඛතාව දෙන චාරිත්‍රය සොයා ගන්න."
+   "si": "තායිවානයේදී, වැඩිහිටියන් වරක් කුඩා මැටි බඳුන්වලින් තද ඌලොං බෙදා ගැනීමට රැස් වූහ — ලාඕරෙන් චා නම් සිරිත අද තේ-කලා නිවස බවට වර්ධනය විය. සුවඳ කෝප්පය භාවිතා කරමින් සුවඳට ප්‍රමුඛතාව දෙන චාරිත්‍රය සොයා ගන්න.",
+   "es": "En Taiwán, los mayores solían reunirse para compartir un oolong fuerte en pequeñas teteras de arcilla, una costumbre llamada laoren cha que dio origen a las actuales casas del arte del té. Descubre el ritual de apreciar primero el aroma con la taza de aroma."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -1044,7 +1119,8 @@ window.TEAFaiCulture = [
    "ar": "فن الشاي التايواني — من لاورين تشا إلى بيت الشاي",
    "ind": "Seni Teh Taiwan — Dari Laoren Cha hingga Kedai Teh",
    "tur": "Tayvan Çay Sanatı — Laoren Cha'dan Çay Evine",
-   "si": "තායිවාන තේ කලාව — ලාඕරෙන් චා සිට තේ නිවස දක්වා"
+   "si": "තායිවාන තේ කලාව — ලාඕරෙන් චා සිට තේ නිවස දක්වා",
+   "es": "Arte del té taiwanés: del laoren cha a la casa de té"
   }
  },
  {
@@ -1334,6 +1410,28 @@ window.TEAFaiCulture = [
      "h": "බෙදා ගත් මේස සහ ප්‍රීතිමත් කලබලය",
      "p": "දිවා ආහාර වේලාවේදී, ආගන්තුකයන් සමඟ මේසයක් බෙදා ගැනීම — දප් තෝයි (搭枱) — සම්පූර්ණයෙන්ම සාමාන්‍ය දෙයකි. ඇණවුම් කෙටි යෙදුම්වලින් කෑ ගසා කියනු ලැබේ, කෑම මිනිත්තු කිහිපයකින් ළඟා වේ, කිසිවෙකු වැඩි වේලාවක් රැඳී නොසිටියි. මුලදී එය කලබලකාරී ලෙස හැඟෙන්නට පුළුවන, නමුත් එම වේගය සහ ප්‍රීතිමත් ඝෝෂාව හරියටම හොංකොං වැසියන් සෑම දිනකම භුක්ති විඳින දර්ශනයයි."
     }
+   ],
+   "es": [
+    {
+     "h": "¿Qué es un cha chaan teng?",
+     "p": "Un cha chaan teng es el comedor cotidiano que se encuentra en cada esquina de Hong Kong. Surgió del bing sutt (冰室), locales que vendían bebidas heladas y sencillos bocadillos occidentales, y después de la Segunda Guerra Mundial se convirtió en el lugar de la comida occidental rápida y económica, rehecha al estilo de Hong Kong. Tostadas y té con leche en el desayuno, fideos salteados en el almuerzo: es la vida diaria de Hong Kong servida en una mesa."
+    },
+    {
+     "h": "Té con leche «media de seda»",
+     "p": "La cara del cha chaan teng es el té con leche de Hong Kong. Se mezclan varios tés negros y se preparan fuertes, y luego se cuelan una y otra vez a través de una larga bolsa de tela que parece una media, lo que le da al té una textura sedosa. La leche evaporada o condensada le aporta cuerpo y riqueza, y la bolsa para colar le valió el apodo de «té con leche media de seda» (絲襪奶茶)."
+    },
+    {
+     "h": "Yuanyang y té helado de limón",
+     "p": "El yuanyang (鴛鴦), una mezcla de café y té con leche que lleva el nombre de los patos mandarines, que forman pareja de por vida, es la otra bebida emblemática del comedor. El té helado de limón (凍檸茶) —té negro sobre hielo con rodajas de limón— es igual de imprescindible. Pinchar el limón con el popote para soltar el jugo y ajustar el sabor es parte del ritual de Hong Kong."
+    },
+    {
+     "h": "Qué comer con tu té",
+     "p": "El bollo de piña (菠蘿包) no contiene piña en absoluto; su corteza crujiente simplemente se parece a una, y servido con una fría lámina de mantequilla dentro se convierte en el querido bo lo yau. La tostada francesa al estilo de Hong Kong (西多士), frita y bañada en jarabe, y la sopa de macarrones con jamón son clásicos del desayuno. Un té con leche fuerte acompañado de algo dulce y recién salido del horno es la combinación clásica del cha chaan teng."
+    },
+    {
+     "h": "Mesas compartidas y bullicio alegre",
+     "p": "A la hora del almuerzo, compartir mesa con desconocidos —dap toi (搭枱)— es perfectamente normal. Los pedidos se cantan en abreviaturas, los platos llegan en minutos y nadie se queda mucho tiempo. Al principio puede parecer agitado, pero esa rapidez y ese ruido alegre son justamente la escena que los hongkoneses disfrutan cada día."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1355,7 +1453,8 @@ window.TEAFaiCulture = [
    "ar": "شاي حليب قوي، ويوانيانغ من القهوة والشاي، وكعك الأناناس في مطاعم تشا تشان تينغ في هونغ كونغ — مقدمة سريعة وحيوية لثقافة الشاي في المدينة.",
    "ind": "Teh susu pekat, yuanyang kopi-teh, dan roti nanas di kedai cha chaan teng Hong Kong — pengantar yang cepat dan meriah tentang budaya teh kota ini.",
    "tur": "Hong Kong'un cha chaan teng lokantalarında koyu sütlü çay, kahve-çay karışımı yuanyang ve ananaslı çörekler — şehrin çay kültürüne hızlı ve canlı bir giriş.",
-   "si": "හොංකොංහි චා චාන් තෙන් ආපනශාලාවල තද කිරි තේ, කෝපි-තේ යුවාන්යැං සහ අන්නාසි බන් — නගරයේ තේ සංස්කෘතියට වේගවත්, ජීවමාන හැඳින්වීමක්."
+   "si": "හොංකොංහි චා චාන් තෙන් ආපනශාලාවල තද කිරි තේ, කෝපි-තේ යුවාන්යැං සහ අන්නාසි බන් — නගරයේ තේ සංස්කෘතියට වේගවත්, ජීවමාන හැඳින්වීමක්.",
+   "es": "Té con leche fuerte, yuanyang de café y té y bollos de piña en los comedores cha chaan teng de Hong Kong: una introducción rápida y animada a la cultura del té de la ciudad."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -1370,7 +1469,8 @@ window.TEAFaiCulture = [
    "ar": "تشا تشان تينغ في هونغ كونغ وشاي الحليب",
    "ind": "Cha Chaan Teng Hong Kong dan Teh Susu",
    "tur": "Hong Kong Cha Chaan Teng'i ve Sütlü Çay",
-   "si": "හොංකොං චා චාන් තෙන් සහ කිරි තේ"
+   "si": "හොංකොං චා චාන් තෙන් සහ කිරි තේ",
+   "es": "El cha chaan teng de Hong Kong y el té con leche"
   }
  },
  {
@@ -1608,6 +1708,24 @@ window.TEAFaiCulture = [
      "h": "එදිනෙදා තේ විවේකය",
      "p": "විධිමත් දහවල් තේවලින් වෙන්ව, කෙටි තේ විවේකය එදිනෙදා බ්‍රිතාන්‍ය ජීවිතයට බැඳී ඇත. කිරි සමඟ බෑග් කළ තේ මග් එකක් සඳහා වැඩ නතර කිරීම විවේක ගැනීමට කාලය පැමිණ ඇති බවට කුඩා සංඥාවකි. අමුත්තෙකුට පළමුව තේ කෝප්පයක් පිළිගැන්වීම ද බ්‍රිතාන්‍ය ආගන්තුක සත්කාරයේ මූලික අභිනයකි."
     }
+   ],
+   "es": [
+    {
+     "h": "Cómo comenzó el té de la tarde",
+     "p": "A mediados del siglo XIX en Gran Bretaña, la costumbre de tomar té con comida ligera entre el almuerzo y una cena tardía se extendió por la sociedad aristocrática, y se dice que ese es el origen del té de la tarde. El té negro se prepara fuerte en una tetera, se sirve en tazas y se completa con leche y azúcar al gusto. Esta infusión robusta y con leche se convirtió en la forma emblemática británica de beber té."
+    },
+    {
+     "h": "Los tres pisos, en orden",
+     "p": "En hoteles y salones de té, el té de la tarde suele llegar en una bandeja de tres pisos. El orden habitual es empezar con los sándwiches salados, como los de pepino, del piso inferior, pasar a los scones con crema cuajada y mermelada del piso del medio, y terminar con los pasteles y la repostería pequeña de arriba. Si en un scone va primero la crema o la mermelada es, en sí misma, una amistosa rivalidad regional."
+    },
+    {
+     "h": "¿La leche primero o el té primero?",
+     "p": "En Gran Bretaña existe un debate largo y cordial sobre si la leche debe ir en la taza antes del té o después. Se dice que poner la leche primero protegía las delicadas tazas de porcelana del choque del té caliente. Ninguna de las dos formas está mal; cada hogar simplemente tiene su propia costumbre."
+    },
+    {
+     "h": "La pausa cotidiana para el té",
+     "p": "Aparte del formal té de la tarde, la breve pausa para el té está entretejida en la vida diaria británica. Detener el trabajo para tomar una taza de té de bolsita con leche es una pequeña señal de que es hora de descansar. Ofrecer primero una taza de té a una visita también es un gesto básico de la hospitalidad británica."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1630,7 +1748,8 @@ window.TEAFaiCulture = [
    "ar": "شاي أسود قوي يُحضَّر في إبريق ويُقدَّم مع الحليب والسكر، وطقس المستويات الثلاثة من السندويشات والسكونز والكعك — إضافة إلى استراحة الشاي اليومية.",
    "ind": "Teh hitam pekat yang diseduh dalam teko, disajikan dengan susu dan gula, serta ritual tiga tingkat berisi roti lapis, skon, dan kue — ditambah jeda teh sehari-hari.",
    "tur": "Demlikte koyu demlenmiş siyah çay; süt ve şekerle servis edilir — sandviçler, scone'lar ve keklerden oluşan üç katlı ritüel ve gündelik çay molası.",
-   "si": "බඳුනක පෙරන ලද තද කළු තේ, කිරි සහ සීනි සමඟ පිළිගන්වනු ලැබේ, සහ සැන්ඩ්විච්, ස්කෝන් සහ කේක්වල තට්ටු තුනේ චාරිත්‍රය — සහ එදිනෙදා තේ විවේකය ද සමඟ."
+   "si": "බඳුනක පෙරන ලද තද කළු තේ, කිරි සහ සීනි සමඟ පිළිගන්වනු ලැබේ, සහ සැන්ඩ්විච්, ස්කෝන් සහ කේක්වල තට්ටු තුනේ චාරිත්‍රය — සහ එදිනෙදා තේ විවේකය ද සමඟ.",
+   "es": "Té negro fuerte preparado en tetera, servido con leche y azúcar, y el ritual de tres pisos de sándwiches, scones y pasteles, además de la pausa cotidiana para el té."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -1645,7 +1764,8 @@ window.TEAFaiCulture = [
    "ar": "شاي ما بعد الظهيرة البريطاني",
    "ind": "Teh Sore ala Inggris",
    "tur": "Britanya İkindi Çayı",
-   "si": "බ්‍රිතාන්‍ය දහවල් තේ"
+   "si": "බ්‍රිතාන්‍ය දහවල් තේ",
+   "es": "El té de la tarde británico"
   }
  },
  {
@@ -1883,6 +2003,24 @@ window.TEAFaiCulture = [
      "h": "දවස ගෙන යන පානයක්",
      "p": "උදෑසන විවෘත කරන පළමු කෝප්පයේ සිට වැඩ විවේක සහ අමුත්තන් පිළිගැනීම දක්වා, චායි දවසේ රිද්මය තුළ පවතී. යමෙකුට චායි පිළිගැන්වීම ඉන්දියාවේ ආගන්තුක සත්කාරයේ වඩාත්ම එදිනෙදා ප්‍රකාශනයයි. තද සහ පැණි රස, එක් උගුරක් ඔබව අවදි කර සංවාද ආරම්භ කරයි — ඉන්දියානු ජීවිතයේ කේන්ද්‍රයේ ඇති පානයකි."
     }
+   ],
+   "es": [
+    {
+     "h": "Preparado hirviendo, no en reposo",
+     "p": "El masala chai no se hace dejando las hojas en reposo en agua caliente. En su lugar, el té negro, el azúcar y las especias se hierven juntos en una olla con agua y leche. Mientras hierve a fuego lento, los aromas de las especias y la fuerza del té se impregnan en la leche, produciendo una taza dulce y con mucho cuerpo. Cada hogar y cada puesto tiene su propia mezcla de especias, ligeramente distinta, y su propio sabor."
+    },
+    {
+     "h": "Masala: la mezcla de especias",
+     "p": "«Masala» significa simplemente una mezcla de especias, y las que más se usan en el chai son el cardamomo, el jengibre, la canela, el clavo y la pimienta negra. Estas especias cálidas se encuentran con la leche cremosa para dar una bebida que se siente sustanciosa y reconfortante. Muchas familias preparan un chai con mucho jengibre cuando alguien está resfriado."
+    },
+    {
+     "h": "El chaiwala de la calle",
+     "p": "En las calles y estaciones de tren de toda la India encontrarás chaiwalas hirviendo chai en ollas pequeñas por dondequiera que vayas. El chai se sirve en vasos pequeños o en tazas desechables de barro, y la gente se detiene a terminar una taza de pie, varias veces al día. La forma india es en porciones pequeñas, con frecuencia."
+    },
+    {
+     "h": "Una bebida que marca el día",
+     "p": "Desde la primera taza que abre la mañana hasta las pausas del trabajo y la bienvenida a los invitados, el chai está dentro del ritmo del día. Ofrecer chai a alguien es la expresión más cotidiana de la hospitalidad en la India. Fuerte y dulce, un solo sorbo te despierta e inicia conversaciones: una bebida en el centro de la vida india."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1905,7 +2043,8 @@ window.TEAFaiCulture = [
    "ar": "مشروب الهند المحبوب: شاي أسود يُغلى مع الحليب والسكر وتوابل مثل الهيل والزنجبيل، ويُقدَّم في أكواب صغيرة لدى باعة التشاي على الأرصفة طوال اليوم.",
    "ind": "Minuman tercinta India: teh hitam yang direbus bersama susu, gula, dan rempah seperti kapulaga dan jahe, disajikan dalam cangkir kecil oleh chaiwala di pinggir jalan sepanjang hari.",
    "tur": "Hindistan'ın sevilen içeceği: siyah çayın süt, şeker ve kakule ile zencefil gibi baharatlarla kaynatılması; sokaktaki chaiwala'lar tarafından gün boyu küçük fincanlarda servis edilir.",
-   "si": "ඉන්දියාවේ ආදරණීය පානය: එනසාල් සහ ඉඟුරු වැනි කුළුබඩු සමඟ කිරි, සීනි සමඟ උණු කරන ලද කළු තේ, දවස පුරාම වීදි අයිනේ චායිවාලාවරුන් විසින් කුඩා කෝප්පවලින් පිළිගන්වනු ලැබේ."
+   "si": "ඉන්දියාවේ ආදරණීය පානය: එනසාල් සහ ඉඟුරු වැනි කුළුබඩු සමඟ කිරි, සීනි සමඟ උණු කරන ලද කළු තේ, දවස පුරාම වීදි අයිනේ චායිවාලාවරුන් විසින් කුඩා කෝප්පවලින් පිළිගන්වනු ලැබේ.",
+   "es": "La bebida querida de la India: té negro cocido a fuego lento con leche, azúcar y especias como cardamomo y jengibre, servido en tazas pequeñas por los chaiwalas callejeros durante todo el día."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -1920,7 +2059,8 @@ window.TEAFaiCulture = [
    "ar": "تشاي الماسالا الهندي",
    "ind": "Masala Chai India",
    "tur": "Hindistan'ın Masala Chai'si",
-   "si": "ඉන්දියාවේ මසාලා චායි"
+   "si": "ඉන්දියාවේ මසාලා චායි",
+   "es": "El masala chai de la India"
   }
  },
  {
@@ -2158,6 +2298,24 @@ window.TEAFaiCulture = [
      "h": "ආගන්තුක සත්කාරයේ සංකේතයක්",
      "p": "ඔබ කඩයක යමක් මිලදී ගත්තත්, කාර්යාලයකට ගියත්, හෝ පළමු වරට යමෙකුගේ නිවසට පැමිණියත්, පළමුව තේ වීදුරුවක් දිස් වේ. තේ පිළිගැන්වීම වඩාත්ම මූලික පිළිගැනීම වන අතර සංවාදය ආරම්භ කිරීමට සංඥාවයි — මිනිසුන් සම්බන්ධ කරන කුඩා, උණුසුම් වීදුරුවකි."
     }
+   ],
+   "es": [
+    {
+     "h": "La çaydanlık: una tetera de dos pisos",
+     "p": "El té turco se prepara en una çaydanlık, un par de hervidores apilados. El agua hierve en la olla inferior; una parte moja las hojas en la olla superior, más pequeña, que luego se infusiona lentamente en el vapor hasta convertirse en un concentrado fuerte. El concentrado se vierte en un vaso y se completa con agua caliente de la olla inferior, para que cada persona pueda ajustar la intensidad a su gusto."
+    },
+    {
+     "h": "Vasos de tulipán sin asas",
+     "p": "El té se sirve en pequeños vasos de vidrio sin asas. Su forma estrecha, parecida a un tulipán, luce el color rojo intenso del té, y el vidrio fino se siente fresco contra los labios. El azúcar suele venir en terrones aparte, en lugar de ya disuelta, con un platillo y una cucharita."
+    },
+    {
+     "h": "El país más sediento de té del mundo",
+     "p": "Türkiye se cuenta entre los países con mayor consumo de té por persona del mundo. La región de Rize, en la costa del mar Negro, es su zona de cultivo más conocida y abastece gran parte del té que se bebe en casa. En muchos hogares el hervidor permanece en la estufa desde el desayuno hasta tarde en la noche."
+    },
+    {
+     "h": "Un símbolo de hospitalidad",
+     "p": "Ya sea que estés comprando algo en una tienda, visitando una oficina o llegando por primera vez a la casa de alguien, primero aparece un vaso de té. Ofrecer té es la bienvenida más básica y la señal de que la conversación puede comenzar: un vaso pequeño y caliente que conecta a las personas."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2179,7 +2337,8 @@ window.TEAFaiCulture = [
    "ar": "شاي يُحضَّر قويًا في تشاي دانليك متراكب، ويُضبط بالماء الساخن، ويُقدَّم مع مكعبات السكر في أكواب زجاجية على شكل زهرة التوليب بلا مقابض — ضيافة في بلد لديه أعلى استهلاك للشاي للفرد في العالم.",
    "ind": "Teh yang diseduh pekat dalam çaydanlık bertumpuk, disesuaikan dengan air panas, dan disajikan dengan gula batu dalam gelas tulip tanpa pegangan — keramahtamahan di negara dengan konsumsi teh per orang tertinggi di dunia.",
    "tur": "Üst üste konmuş çaydanlıkta koyu demlenen, sıcak suyla ayarlanan ve sapsız lale bardaklarda küp şekerle servis edilen çay — kişi başına çay tüketiminde dünyada ilk sıralarda yer alan bir ülkede misafirperverlik.",
-   "si": "එක මත එක තැබූ චායිදන්ලික් එකක තදින් පෙරා, උණු වතුරෙන් සකස් කර, අඬු නැති ටියුලිප් වීදුරුවල සීනි කැට සමඟ පිළිගන්වන තේ — ඒක පුද්ගල තේ පරිභෝජනය ලෝකයේ වැඩිම රටක ආගන්තුක සත්කාරය."
+   "si": "එක මත එක තැබූ චායිදන්ලික් එකක තදින් පෙරා, උණු වතුරෙන් සකස් කර, අඬු නැති ටියුලිප් වීදුරුවල සීනි කැට සමඟ පිළිගන්වන තේ — ඒක පුද්ගල තේ පරිභෝජනය ලෝකයේ වැඩිම රටක ආගන්තුක සත්කාරය.",
+   "es": "Té preparado fuerte en una çaydanlık de dos pisos, ajustado con agua caliente y servido con terrones de azúcar en vasos con forma de tulipán y sin asa: hospitalidad en el país con el mayor consumo de té por persona del mundo."
   },
   "title": {
    "en": "Turkish Çay",
@@ -2194,7 +2353,8 @@ window.TEAFaiCulture = [
    "ar": "الشاي التركي (تشاي)",
    "ind": "Çay Turki",
    "tur": "Türkiye'nin Çayı",
-   "si": "තුර්කි චායි"
+   "si": "තුර්කි චායි",
+   "es": "El çay turco"
   }
  },
  {
@@ -2432,6 +2592,24 @@ window.TEAFaiCulture = [
      "h": "දවස පුරාම ආගන්තුක සත්කාරය",
      "p": "අටායි අමුත්තන් සඳහා පමණක් නොව පවුලේ ආහාරවලදී, කඩවල කේවල් කිරීමේදී, සහ මිතුරන් සමඟ දිගු සංවාදවලදී ද දිස් වේ. තේ සාමාන්‍යයෙන් සකස් කර වත් කරනු ලබන්නේ නිවසේ ප්‍රධානියා හෝ සත්කාරකයා විසින් වන අතර, එය ඔබ විසින්ම කිරීම ගෞරවයේ සලකුණක් වන බැවිනි. මොරොක්කෝවේ, තේ බඳුනක් යනු ඇතුළට පැමිණ විවේක ගැනීමට ආරාධනයකි."
     }
+   ],
+   "es": [
+    {
+     "h": "Té verde con menta y azúcar",
+     "p": "El atay marroquí suele prepararse con té verde chino tipo gunpowder como base, infusionado en la tetera con hojas de menta fresca y una generosa cantidad de azúcar. El sabor combina la fresca fragancia de la menta con una dulzura intensa, y se bebe con las comidas o después, como un refresco. Se sirve en vasos pequeños y decorados."
+    },
+    {
+     "h": "El servicio desde lo alto y la espuma",
+     "p": "El atay se sirve con la tetera sostenida en alto sobre el vaso, en un chorro fino. Esto incorpora aire al té para que una espuma fina se asiente en la superficie, y una buena espuma es señal de una tetera bien preparada. El servicio desde lo alto es en sí mismo una pequeña actuación para el invitado: una expresión de atención."
+    },
+    {
+     "h": "Tres vasos para el invitado",
+     "p": "Marruecos es conocido por la costumbre de ofrecer al invitado hasta tres vasos de té. El tiempo dedicado a beber té es tiempo dedicado a ser bienvenido, así que terminar un vaso y marcharse enseguida puede pasar por alto el sentido del ritual. Un dicho atribuye significados a los tres vasos: suavidad como la vida, fuerza como el amor, amargor como la muerte."
+    },
+    {
+     "h": "Hospitalidad durante todo el día",
+     "p": "El atay aparece no solo para los invitados, sino también en las comidas familiares, durante el regateo en las tiendas y en las largas conversaciones con amigos. El té suele prepararlo y servirlo el jefe de la familia o el anfitrión, porque hacerlo uno mismo es una muestra de respeto. En Marruecos, una tetera de té es una invitación a entrar y descansar."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2453,7 +2631,8 @@ window.TEAFaiCulture = [
    "ar": "شاي أخضر مع نعناع طازج وسكر، يُسكب من ارتفاع لرفع رغوة — طقس الترحيب المغربي، المشهور بالأكواب الثلاثة المقدمة للضيف.",
    "ind": "Teh hijau dengan mint segar dan gula, dituang dari ketinggian untuk membangkitkan busa — ritual penyambutan Maroko, terkenal dengan tiga gelas yang ditawarkan kepada tamu.",
    "tur": "Taze nane ve şekerle, köpük yükseltmek için yüksekten dökülen yeşil çay — bir misafire sunulan üç bardakla ünlü, Fas'ın karşılama ritüeli.",
-   "si": "නැවුම් මින්ට් සහ සීනි සමඟ කොළ තේ, පෙන නැගීමට උසකින් වත් කරනු ලැබේ — අමුත්තෙකුට පිළිගන්වන වීදුරු තුන සඳහා ප්‍රසිද්ධ මොරොක්කෝවේ පිළිගැනීමේ චාරිත්‍රය."
+   "si": "නැවුම් මින්ට් සහ සීනි සමඟ කොළ තේ, පෙන නැගීමට උසකින් වත් කරනු ලැබේ — අමුත්තෙකුට පිළිගන්වන වීදුරු තුන සඳහා ප්‍රසිද්ධ මොරොක්කෝවේ පිළිගැනීමේ චාරිත්‍රය.",
+   "es": "Té verde con menta fresca y azúcar, servido desde lo alto para levantar espuma: el ritual de bienvenida de Marruecos, famoso por los tres vasos que se ofrecen al invitado."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -2468,7 +2647,8 @@ window.TEAFaiCulture = [
    "ar": "الأتاي المغربي",
    "ind": "Atay Maroko",
    "tur": "Fas Atay'ı",
-   "si": "මොරොක්කෝ අටායි"
+   "si": "මොරොක්කෝ අටායි",
+   "es": "El atay marroquí"
   }
  },
  {
@@ -2706,6 +2886,24 @@ window.TEAFaiCulture = [
      "h": "දුම්රිය මාර්ගයේ සමෝවාරය",
      "p": "රුසියාව තරම් විශාල රටක, දිගු දුර දුම්රිය ජීවිතයේ කොටසක් වූ අතර, තේ ඒවායේ සහකාරිය විය. දුම්රියවල, තේ පිළිගැන්වූයේ podstakannik නම් ලෝහ රඳවනයන්හි තැබූ වීදුරු වලිනි, එවිට මැදිරිය සෙලවෙන විට බීම නොවැගිරේ — එය සංකේතාත්මක රූපයක් බවට පත් වූ දසුනකි. අද පවා, උණු තේ වීදුරුවක් රුසියාවේ දිගු දුම්රිය ගමන්වල මගීන් සනසයි."
     }
+   ],
+   "es": [
+    {
+     "h": "El samovar: una tetera que hierve sola",
+     "p": "Un samovar es un recipiente de metal que hierve el agua y la mantiene caliente; su propio nombre lleva el sentido ruso de «hervir por sí mismo». Tradicionalmente se encendía con leña o carbón; hoy son comunes las versiones eléctricas. Con un samovar en el centro de la mesa, la familia y los invitados se reunían a su alrededor y pasaban largas horas tomando té."
+    },
+    {
+     "h": "Zavarka: concentrado fuerte, para diluir",
+     "p": "El método ruso empieza con la zavarka: hojas de té preparadas muy fuertes en una tetera pequeña hasta obtener un concentrado. Para servir, se vierte un poco de zavarka en una taza y se completa con agua caliente del samovar, ajustando la intensidad al gusto de cada quien. Con una sola preparación, muchas personas pueden disfrutar del té durante horas, cada una con la intensidad que prefiere."
+    },
+    {
+     "h": "Mermelada y azúcar entre los dientes",
+     "p": "En Rusia es tradicional acompañar el té con una cucharada de mermelada (varenye) al lado, o mezclarla en la taza. Una costumbre más antigua era sostener un terrón de azúcar entre los dientes y sorber el té a través de él, dejando que el dulzor se filtrara poco a poco. Lo amargo y lo dulce disfrutados juntos, en pequeñas dosis: una cultura del té moldeada por un país frío."
+    },
+    {
+     "h": "El samovar sobre rieles",
+     "p": "En un país tan vasto como Rusia, los trenes de larga distancia eran parte de la vida, y el té era su compañero. En los trenes, el té se servía en vasos colocados en soportes de metal llamados podstakannik, para que la bebida no se derramara con el balanceo del vagón: una imagen que se volvió icónica. Aún hoy, un vaso caliente de té reconforta a los pasajeros en los largos viajes en tren de Rusia."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2727,7 +2925,8 @@ window.TEAFaiCulture = [
    "ar": "ماء يبقى يغلي في ساموفار، ومركز زافاركا قوي يُخفف حسب الذوق — طريقة روسيا في الشاي، مع المربى على الجانب، ومكعبات سكر بين الأسنان، والساموفار رفيق رحلات القطارات الطويلة.",
    "ind": "Air yang terus mendidih dalam samovar, konsentrat zavarka pekat yang diencerkan sesuai selera — cara minum teh Rusia, dengan selai di samping, gula batu di antara gigi, dan samovar sebagai pendamping perjalanan kereta yang panjang.",
    "tur": "Semaverde kaynar halde tutulan su, damak zevkine göre seyreltilen koyu zavarka demi — yanında reçel, dişlerin arasında şeker küpleri ve uzun tren yolculuklarının yoldaşı semaverle Rusya'nın çay tarzı.",
-   "si": "සමෝවාරයක ජලය නටමින් තබා ගෙන, තද zavarka සාන්ද්‍රණයක් රස අනුව තනුක කර බීම — ජෑම් පැත්තෙන් තබා ගෙන, සීනි කැට දත් අතර තබා ගෙන, සහ දිගු දුම්රිය ගමන්වල සහකාරියක් වූ සමෝවාරය සමඟ රුසියාවේ තේ බොන ආකාරය."
+   "si": "සමෝවාරයක ජලය නටමින් තබා ගෙන, තද zavarka සාන්ද්‍රණයක් රස අනුව තනුක කර බීම — ජෑම් පැත්තෙන් තබා ගෙන, සීනි කැට දත් අතර තබා ගෙන, සහ දිගු දුම්රිය ගමන්වල සහකාරියක් වූ සමෝවාරය සමඟ රුසියාවේ තේ බොන ආකාරය.",
+   "es": "Agua siempre hirviendo en un samovar, un concentrado fuerte de zavarka que se diluye al gusto: así es el té en Rusia, con mermelada al lado, terrones de azúcar entre los dientes y el samovar como compañero de los largos viajes en tren."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -2742,7 +2941,8 @@ window.TEAFaiCulture = [
    "ar": "الساموفار الروسي",
    "ind": "Samovar Rusia",
    "tur": "Rusya'nın Semaveri",
-   "si": "රුසියාවේ සමෝවාරය"
+   "si": "රුසියාවේ සමෝවාරය",
+   "es": "El samovar de Rusia"
   }
  },
  {
@@ -2762,7 +2962,8 @@ window.TEAFaiCulture = [
    "ar": "كيفية استخدام الغايوان — التحضير بغطاء ووعاء وصحن",
    "ind": "Cara Menggunakan Gaiwan — Menyeduh dengan Tutup, Mangkuk, dan Tatakan",
    "tur": "Gaiwan Nasıl Kullanılır — Kapak, Kâse ve Tabakla Demleme",
-   "si": "ගයිවාන් එකක් භාවිතා කරන ආකාරය — පියනක්, බඳුනක් සහ පීරිසියක් සමඟ තේ නිවීම"
+   "si": "ගයිවාන් එකක් භාවිතා කරන ආකාරය — පියනක්, බඳුනක් සහ පීරිසියක් සමඟ තේ නිවීම",
+   "es": "Cómo usar un gaiwan: preparar té con tapa, cuenco y platillo"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -2777,7 +2978,8 @@ window.TEAFaiCulture = [
    "ar": "الغايوان — غطاء ووعاء وصحن — هو أبسط أواني الشاي الصينية. من كيفية إمساكه إلى ما تفعله عندما يبدو ساخنًا جدًا، يأخذ هذا الدليل المستخدمين لأول مرة عبر كل خطوة.",
    "ind": "Gaiwan — tutup, mangkuk, dan tatakan — adalah wadah paling dasar dalam teh Tiongkok. Dari cara memegangnya hingga apa yang dilakukan saat terasa terlalu panas, panduan ini menuntun pengguna pertama kali melalui setiap langkah.",
    "tur": "Gaiwan — bir kapak, bir kâse ve bir tabak — Çin çayının en temel kabıdır. Nasıl tutulacağından, elinizi yaktığında ne yapacağınıza kadar bu rehber, ilk kez kullananları her adımda yönlendiriyor.",
-   "si": "ගයිවාන් — පියන, බඳුන සහ පීරිසිය — චීන තේ වල මූලිකම භාජනයයි. එය අල්ලන ආකාරයේ සිට, එය අධිකව රත් වූ විට කළ යුතු දේ දක්වා, මෙම මාර්ගෝපදේශය පළමු වරට භාවිතා කරන්නන් සෑම පියවරක් හරහාම රැගෙන යයි."
+   "si": "ගයිවාන් — පියන, බඳුන සහ පීරිසිය — චීන තේ වල මූලිකම භාජනයයි. එය අල්ලන ආකාරයේ සිට, එය අධිකව රත් වූ විට කළ යුතු දේ දක්වා, මෙම මාර්ගෝපදේශය පළමු වරට භාවිතා කරන්නන් සෑම පියවරක් හරහාම රැගෙන යයි.",
+   "es": "El gaiwan —una tapa, un cuenco y un platillo— es el recipiente más básico del té chino. Desde cómo sostenerlo hasta qué hacer cuando se siente demasiado caliente, esta guía acompaña paso a paso a quienes lo usan por primera vez."
   },
   "body": {
    "ko": [
@@ -3065,6 +3267,28 @@ window.TEAFaiCulture = [
      "h": "එය ආරම්භකයින්ට සුදුසු ඇයි",
      "p": "ගයිවාන් එකක් සේදීම සරලය, තවද පියන විවෘත කළ හැකි නිසා තේ නිවෙන විට කොළ දිග හැරෙන ආකාරය ඔබට බලා සිටිය හැකිය. නිවෙන වේලාව ඔබට නිදහසේ පාලනය කළ හැකි බැවින්, එක් එක් තේ වල රසවත්ම තැන සොයා ගැනීම පහසුය. එය මිල අඩු ද වන අතර, එය බොහෝ විට පළමු තේ භාජනය ලෙස නිර්දේශ වන්නේ එබැවිනි."
     }
+   ],
+   "es": [
+    {
+     "h": "Las tres partes: cielo, personas y tierra",
+     "p": "Un gaiwan tiene tres partes: una tapa, un cuenco y un platillo. Tradicionalmente, la tapa se comparaba con el cielo, el platillo con la tierra y el cuenco entre ambos con las personas, por lo que a veces se le llama el «cuenco de los tres talentos». La tapa también atrapa el aroma, así que levantarla después de preparar el té y oler su interior es uno de los pequeños placeres de usar un gaiwan."
+    },
+    {
+     "h": "Preparación, paso a paso",
+     "p": "Primero calienta el gaiwan con agua caliente, desecha esa agua y agrega las hojas de té. Vierte agua fresca, cubre con la tapa y deja reposar el té por poco tiempo; luego retira la espuma de la superficie con el borde de la tapa. La cantidad de hojas varía según el té, pero llenar cerca de un tercio del gaiwan es un buen punto de partida."
+    },
+    {
+     "h": "Al verter: la abertura de la tapa es la clave",
+     "p": "Inclina la tapa ligeramente para que se abra una pequeña abertura por donde fluya el té. Sostén el borde del cuenco entre el pulgar y el dedo medio, y presiona suavemente la parte superior de la tapa con el dedo índice para mantenerla en su lugar. Inclina la muñeca y solo saldrá el líquido, mientras la tapa retiene las hojas. Si la abertura es demasiado ancha, las hojas también se escaparán, así que al principio mantenla estrecha."
+    },
+    {
+     "h": "Cuando se siente demasiado caliente",
+     "p": "Si el gaiwan está demasiado caliente para sostenerlo, por lo general lo llenaste demasiado. Llénalo solo hasta unas ocho décimas partes y, si aún está caliente, levántalo y muévelo por el platillo. Un gaiwan cuyo borde se ensancha ligeramente hacia afuera se mantiene más fresco donde tocan tus dedos, lo que lo convierte en una opción amable para principiantes."
+    },
+    {
+     "h": "Por qué es ideal para principiantes",
+     "p": "Un gaiwan es fácil de lavar y, como puedes abrir la tapa, puedes ver cómo se despliegan las hojas mientras se prepara el té. Controlas el tiempo de infusión con libertad, lo que facilita encontrar el punto ideal de cada té. También es económico, por lo que a menudo se recomienda como la primera pieza de utensilios para té."
+    }
    ]
   },
   "related": [
@@ -3089,7 +3313,8 @@ window.TEAFaiCulture = [
    "ar": "اختيار إبريق الشاي والأكواب — كيف تغيّر المادة المذاق",
    "ind": "Memilih Teko dan Cangkir — Bagaimana Bahan Mengubah Rasa",
    "tur": "Demlik ve Fincan Seçimi — Malzeme Tadı Nasıl Değiştirir",
-   "si": "තේ භාජනයක් සහ කෝප්ප තෝරා ගැනීම — ද්‍රව්‍යය රසය වෙනස් කරන ආකාරය"
+   "si": "තේ භාජනයක් සහ කෝප්ප තෝරා ගැනීම — ද්‍රව්‍යය රසය වෙනස් කරන ආකාරය",
+   "es": "Cómo elegir una tetera y tazas: cómo el material cambia el sabor"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -3104,7 +3329,8 @@ window.TEAFaiCulture = [
    "ar": "الخزف والزجاج وطين ييشينغ والحديد — كل مادة من مواد أدوات الشاي تناسب أنواع شاي مختلفة. يشرح هذا الدليل كيف يؤثر الحجم والشكل في النكهة، ويقترح مجموعة أولى معقولة للمبتدئين.",
    "ind": "Porselen, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh cocok untuk teh yang berbeda. Panduan ini menjelaskan bagaimana ukuran dan bentuk memengaruhi rasa, dan menyarankan set pertama yang masuk akal untuk pemula.",
    "tur": "Porselen, cam, Yixing kili, demir — her çay gereci malzemesi farklı çaylara uyar. Bu rehber, boyut ve şeklin lezzeti nasıl etkilediğini açıklıyor ve yeni başlayanlar için mantıklı bir ilk set öneriyor.",
-   "si": "පෝසිලේන්, වීදුරු, යිෂිං මැටි, යකඩ — සෑම තේ භාජන ද්‍රව්‍යයක්ම විවිධ තේ වලට ගැලපේ. ප්‍රමාණය සහ හැඩය රසයට බලපාන ආකාරය මෙම මාර්ගෝපදේශය පැහැදිලි කරන අතර, ආරම්භකයින් සඳහා සාධාරණ පළමු කට්ටලයක් යෝජනා කරයි."
+   "si": "පෝසිලේන්, වීදුරු, යිෂිං මැටි, යකඩ — සෑම තේ භාජන ද්‍රව්‍යයක්ම විවිධ තේ වලට ගැලපේ. ප්‍රමාණය සහ හැඩය රසයට බලපාන ආකාරය මෙම මාර්ගෝපදේශය පැහැදිලි කරන අතර, ආරම්භකයින් සඳහා සාධාරණ පළමු කට්ටලයක් යෝජනා කරයි.",
+   "es": "Porcelana, vidrio, arcilla de Yixing, hierro: cada material para utensilios de té combina con tés diferentes. Esta guía explica cómo el tamaño y la forma afectan el sabor, y sugiere un primer juego sensato para principiantes."
   },
   "body": {
    "ko": [
@@ -3392,6 +3618,28 @@ window.TEAFaiCulture = [
      "h": "සාධාරණ පළමු කට්ටලයක්",
      "p": "මිලි ලීටර් 100–150 ක් පමණ වන පෝසිලේන් ගයිවාන් එකකින් හෝ කුඩා පෝසිලේන් භාජනයකින් සහ කෝප්ප දෙකකින් ආරම්භ කරන්න. මධ්‍යස්ථ ද්‍රව්‍යය සෑම තේ වර්ගයක්ම එය ඇති ආකාරයෙන්ම පෙන්වන අතර, රැකබලා ගැනීම පහසුය. ඔබේ උනන්දුව වැඩි වන විට, එක් තේ පවුලක් සඳහා යිෂිං වැනි වෙන් කළ භාජනයක් එක් කිරීම සතුටේ කොටසක් බවට පත් වේ."
     }
+   ],
+   "es": [
+    {
+     "h": "Materiales, primera parte: porcelana y vidrio",
+     "p": "La porcelana tiene una superficie lisa y no porosa que no absorbe aromas, por lo que un mismo recipiente puede servir para muchos tés diferentes sin arrastrar sabores. Eso la convierte en la opción más segura para principiantes que preparan un poco de todo. El vidrio permite ver el color del licor y cómo se despliegan las hojas —encantador para tés verdes y tés de flores—, pero pierde calor rápidamente, así que el té se enfría pronto."
+    },
+    {
+     "h": "Materiales, segunda parte: arcilla de Yixing y hierro",
+     "p": "La arcilla de Yixing (zisha) tiene poros finos que poco a poco absorben el aroma del té, y se dice que una tetera bien usada redondea con el tiempo el sabor de una familia de tés. Como absorbe el aroma, es mejor dedicar una tetera a una sola familia, por ejemplo solo a los oolong. Las teteras de hierro se usan para hervir agua; conservan bien el calor y a menudo se elogian por darle al agua una sensación más suave."
+    },
+    {
+     "h": "Cómo el tamaño y la forma afectan el sabor",
+     "p": "Una tetera pequeña mantiene alta la proporción de hojas respecto al agua y concentra el aroma, lo que combina con las muchas infusiones cortas de la preparación gongfu. Una tetera grande prepara una cantidad generosa de una vez para compartir. Revisa también que el pico vierta y se detenga limpiamente y que la tapa ajuste bien: estos detalles importan tanto como el material."
+    },
+    {
+     "h": "Cómo elegir las tazas",
+     "p": "Las tazas pequeñas y de paredes delgadas reúnen el aroma y te permiten sentir la temperatura de cada sorbo. Un interior blanco muestra el color verdadero del té, lo que suma al placer de conocer un té. Los juegos gongfu a veces combinan una taza alta para aroma con una taza para degustar, pero una sola taza es más que suficiente cuando empiezas."
+    },
+    {
+     "h": "Un primer juego sensato",
+     "p": "Empieza con un gaiwan de porcelana o una tetera pequeña de porcelana de unos 100–150 ml y dos tazas. El material neutro muestra cada té tal como es, y su cuidado es fácil. A medida que crece tu interés, agregar una tetera dedicada, como una de Yixing para una familia de té, se vuelve parte de la diversión."
+    }
    ]
   },
   "related": []
@@ -3413,7 +3661,8 @@ window.TEAFaiCulture = [
    "ar": "مجموعة شاي غونغ فو — أسماء كل أداة وأدوارها",
    "ind": "Set Teh Gongfu — Nama dan Peran Setiap Alat",
    "tur": "Gongfu Çay Seti — Her Aletin Adı ve Görevi",
-   "si": "ගොංෆු තේ කට්ටලය — එක් එක් මෙවලමේ නම් සහ කාර්යයන්"
+   "si": "ගොංෆු තේ කට්ටලය — එක් එක් මෙවලමේ නම් සහ කාර්යයන්",
+   "es": "El juego de té gongfu: nombres y funciones de cada utensilio"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -3428,7 +3677,8 @@ window.TEAFaiCulture = [
    "ar": "صينية الشاي وإبريق العدالة وكوب الرائحة وكوب التذوق وحامل الشاي وإبرة الشاي — يشرح هذا الدليل كل أداة على طاولة شاي غونغ فو ويوضح كيفية تجميع نسخة بسيطة في البيت.",
    "ind": "Nampan teh, teko keadilan, cangkir aroma dan cangkir cicip, tempat teh dan jarum teh — panduan ini menjelaskan setiap alat di meja teh gongfu dan menunjukkan cara menyusun versi sederhana di rumah.",
    "tur": "Çay tepsisi, adalet sürahisi, aroma fincanı ve tadım fincanı, çay tutacağı ve çay iğnesi — bu rehber, gongfu çay masasındaki her aleti açıklıyor ve evde basit bir düzenin nasıl kurulacağını gösteriyor.",
-   "si": "තේ තැටිය, සාධාරණත්ව කේතලය, සුවඳ කෝප්පය සහ රස බැලීමේ කෝප්පය, තේ රඳවනය සහ තේ ඉදිකටුව — මෙම මාර්ගෝපදේශය ගොංෆු තේ මේසයේ ඇති සෑම මෙවලමක්ම පැහැදිලි කරන අතර, නිවසේදී සරල ආකාරයක් එකලස් කරන ආකාරය පෙන්වයි."
+   "si": "තේ තැටිය, සාධාරණත්ව කේතලය, සුවඳ කෝප්පය සහ රස බැලීමේ කෝප්පය, තේ රඳවනය සහ තේ ඉදිකටුව — මෙම මාර්ගෝපදේශය ගොංෆු තේ මේසයේ ඇති සෑම මෙවලමක්ම පැහැදිලි කරන අතර, නිවසේදී සරල ආකාරයක් එකලස් කරන ආකාරය පෙන්වයි.",
+   "es": "Bandeja para té, jarra de la equidad, taza para aroma y taza para degustar, portahojas y aguja para té: esta guía explica cada utensilio de la mesa de té gongfu y muestra cómo armar una versión sencilla en casa."
   },
   "body": {
    "ko": [
@@ -3612,6 +3862,20 @@ window.TEAFaiCulture = [
      "h": "කොළ හැසිරවීම සඳහා මෙවලම්",
      "p": "තේ රඳවනයක් (chahe) යනු වියළි කොළ අමුත්තන්ට ඉදිරිපත් කිරීමට සහ ඒවා භාජනයට යොමු කිරීමට ඇති කුඩා හැන්දක හැඩැති තැටියක් වන අතර, තේ හැන්දක් (chaze) කොළ මැනීමට සහ ගෙනයාමට යොදා ගනී. තේ ඉදිකටුවක් තුණ්ඩයක සිර වූ කොළ ඉවත් කරන අතර, අඬු කොළ සහ උණු කෝප්ප හැසිරවීමට භාවිතා කරයි. සෑම මෙවලමක්ම කුඩා වුවත්, ඒවා එකට මේසය පිළිවෙලට සහ ඉක්මන් නොවී තබා ගනී."
     }
+   ],
+   "es": [
+    {
+     "h": "Bandeja para té y jarra de la equidad",
+     "p": "La bandeja para té (chapan) es la tabla sobre la que se coloca todo, construida con drenaje para que el agua vertida sobre los utensilios baje a un depósito inferior. Eso te permite calentar y enjuagar los recipientes justo donde estás sentado. La jarra de la equidad (gongdaobei) es una jarrita que recibe primero el té ya preparado, igualando su intensidad antes de repartirlo entre las tazas, para que la primera taza servida sepa igual que la última."
+    },
+    {
+     "h": "Taza para aroma y taza para degustar",
+     "p": "La taza para aroma es una taza alta y estrecha: el té se vierte primero en ella, luego se pasa a la taza para degustar, y se huele la fragancia que queda en la taza para aroma vacía. La taza para degustar es aquella de la que realmente bebes. Esta combinación, popularizada en Taiwán, es una excelente manera de apreciar el aroma en capas de los tés oolong."
+    },
+    {
+     "h": "Utensilios para manipular las hojas",
+     "p": "Un portahojas (chahe) es un pequeño platillo con forma de pala para presentar las hojas secas a los invitados y guiarlas hacia la tetera, mientras que una cuchara para té (chaze) mide y mueve las hojas. Una aguja para té despeja las hojas atoradas en un pico, y las pinzas se usan para manipular las hojas y las tazas calientes. Cada utensilio es pequeño, pero juntos mantienen la mesa ordenada y sin prisas."
+    }
    ]
   },
   "related": [
@@ -3635,7 +3899,8 @@ window.TEAFaiCulture = [
    "ar": "أنواع الشاي الستة — ورقة واحدة وشايات كثيرة",
    "ind": "Enam Jenis Teh — Satu Daun, Banyak Teh",
    "tur": "Altı Çay Türü — Bir Yaprak, Birçok Çay",
-   "si": "තේ වර්ග හය — එක් කොළයක්, තේ වර්ග බොහොමයක්"
+   "si": "තේ වර්ග හය — එක් කොළයක්, තේ වර්ග බොහොමයක්",
+   "es": "Los seis tipos de té: una hoja, muchos tés"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -3650,7 +3915,8 @@ window.TEAFaiCulture = [
    "ar": "من الشاي الأخضر إلى الشاي الداكن، كل شاي حقيقي يبدأ كورقة من نبتة الشاي نفسها. يشرح هذا المقال كيف تقسمها الأكسدة والمعالجة إلى ستة أنواع — ولماذا لا تُعد المشروبات العشبية، بالمعنى الدقيق، شايًا.",
    "ind": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun dari tanaman teh yang sama. Artikel ini menjelaskan bagaimana oksidasi dan pengolahan membaginya menjadi enam jenis — dan mengapa seduhan herbal, secara ketat, bukanlah teh.",
    "tur": "Yeşil çaydan siyah çaya, her gerçek çay aynı çay bitkisinin yaprağından başlar. Bu yazı, oksidasyon ve işlemenin çayları nasıl altı türe ayırdığını — ve bitkisel demlemelerin, tam anlamıyla, neden çay olmadığını açıklıyor.",
-   "si": "කොළ තේ සිට අඳුරු තේ දක්වා, සෑම සැබෑ තේ වර්ගයක්ම එකම තේ ශාකයේ කොළයකින් ආරම්භ වේ. ඔක්සිකරණය සහ සැකසීම ඒවා වර්ග හයකට බෙදන ආකාරය — සහ ශාකසාර නිවීම්, නිශ්චිතවම, තේ නොවන්නේ ඇයිද යන්න මෙම ලිපිය පැහැදිලි කරයි."
+   "si": "කොළ තේ සිට අඳුරු තේ දක්වා, සෑම සැබෑ තේ වර්ගයක්ම එකම තේ ශාකයේ කොළයකින් ආරම්භ වේ. ඔක්සිකරණය සහ සැකසීම ඒවා වර්ග හයකට බෙදන ආකාරය — සහ ශාකසාර නිවීම්, නිශ්චිතවම, තේ නොවන්නේ ඇයිද යන්න මෙම ලිපිය පැහැදිලි කරයි.",
+   "es": "Del té verde al té oscuro, todo té verdadero comienza como una hoja de la misma planta de té. Este artículo explica cómo la oxidación y el procesamiento los dividen en seis tipos, y por qué las infusiones herbales no son, en sentido estricto, té."
   },
   "body": {
    "ko": [
@@ -4575,6 +4841,77 @@ window.TEAFaiCulture = [
       "ඔක්සිකරණය නැත · කැෆේන් රහිත · ජලය 90~100℃ · තේ කොළ · ජලය 3g / 200ml · පළමු නිවීම විනාඩි 5"
      ]
     }
+   ],
+   "es": [
+    {
+     "h": "Todos de la misma planta",
+     "p": "Tés que parecen completamente diferentes —té verde, té negro, oolong— todos empiezan en el mismo lugar: las hojas de una sola especie, Camellia sinensis. El cultivar, el suelo y la temporada de cosecha moldean el sabor, pero lo que decide en qué tipo de té se convierte una hoja es principalmente cómo se procesa después de la cosecha."
+    },
+    {
+     "h": "La oxidación es la clave",
+     "p": "Una vez que se recoge una hoja, la oxidación comienza cuando los compuestos en su interior reaccionan con el aire. El té verde detiene este proceso pronto, al vapor o en sartén, conservando su carácter fresco y verde; el té negro se enrolla y se oxida por completo, lo que le da un color marrón rojizo y un sabor más profundo. El oolong se detiene en un punto intermedio, por lo que se le llama parcialmente oxidado."
+    },
+    {
+     "h": "Los seis tipos de un vistazo",
+     "p": "El té blanco es el menos procesado: los brotes jóvenes simplemente se marchitan y se secan, por lo que se oxida solo ligeramente. El té amarillo se elabora de forma muy parecida al té verde, pero agrega un paso de apilar las hojas húmedas, lo que suaviza el sabor. El té oscuro pasa por una posfermentación microbiana después de elaborarse, con el pu'er como ejemplo más conocido. Juntos, los seis tipos son el té verde, blanco, amarillo, oolong, negro y oscuro."
+    },
+    {
+     "h": "Por qué las bebidas herbales no son «té»",
+     "p": "Muchas bebidas cotidianas llamadas té —té de cebada, rooibos, manzanilla— no contienen hojas de la planta de té en absoluto. En sentido estricto son infusiones herbales o tisanas, una categoría separada del té verdadero. No es un juicio sobre su sabor, solo una diferencia de ingredientes, y revisar la etiqueta es un buen hábito que hace más claro el mundo del té."
+    },
+    {
+     "h": "Cada familia de un vistazo",
+     "p": "Los valores de referencia que antes se mostraban en la parte superior de cada familia en la enciclopedia, reunidos aquí: oxidación, temperatura del agua, proporción de hojas respecto al agua y tiempo de la primera infusión para cada familia."
+    },
+    {
+     "h": "Té verde 綠",
+     "p": [
+      "Todo se decide dentro de las 24 horas posteriores a la cosecha: una carrera contra el tiempo.",
+      "Oxidación 0% · Agua 70~80℃ · Hojas · agua 2~3g / 200ml · Primera infusión 1 min 30 seg"
+     ]
+    },
+    {
+     "h": "Té oolong 烏",
+     "p": [
+      "El arte de la semioxidación: detenerse en el punto exacto que deseas.",
+      "Oxidación 15–70% · Agua 90~95℃ · Hojas · agua 5~7g / 200ml · Primera infusión 45 seg"
+     ]
+    },
+    {
+     "h": "Té negro 紅",
+     "p": [
+      "Totalmente oxidado. De aquí vienen el color rojo y la fuerza para acompañar la leche.",
+      "Oxidación 80–95% · Agua 95~100℃ · Hojas · agua 3~5g / 200ml · Primera infusión 3 min"
+     ]
+    },
+    {
+     "h": "Té oscuro · Pu-erh 黑",
+     "p": [
+      "Aquí el tiempo no es una fecha de caducidad; es un ingrediente.",
+      "Oxidación Posfermentado · Agua 100℃ · Hojas · agua 5g / 100ml · Primera infusión 20 seg"
+     ]
+    },
+    {
+     "h": "Té blanco 白",
+     "p": [
+      "Marchitar y secar: eso es todo, así que la calidad de la hoja se muestra intacta.",
+      "Oxidación 5–10% · Agua 80~90℃ · Hojas · agua 3~4g / 200ml · Primera infusión 2 min"
+     ]
+    },
+    {
+     "h": "Té amarillo 黃",
+     "p": [
+      "Un paso extra —el amarilleo sellado— da la dulzura más suave de las seis familias de té, y la más rara de ellas.",
+      "Oxidación 10–20% · Agua 80~85℃ · Hojas · agua 3g / 200ml · Primera infusión 1 min 30 seg"
+     ]
+    },
+    {
+     "h": "Té cotidiano y herbal 代",
+     "p": [
+      "Granos, raíces y frutas tostados o secos en lugar del arbusto de té, y flores y hojas en infusión tal como son: sin cafeína, siempre a la mano.",
+      "Oxidación Ninguna · sin cafeína · Agua 90~100℃ · Hojas · agua 3g / 200ml · Primera infusión 5 min"
+     ]
+    }
    ]
   },
   "related": []
@@ -4596,7 +4933,8 @@ window.TEAFaiCulture = [
    "ar": "درجة حرارة الماء ووقت النقع — الأساسيات",
    "ind": "Suhu Air dan Waktu Seduh — Dasar-dasarnya",
    "tur": "Su Sıcaklığı ve Demleme Süresi — Temeller",
-   "si": "ජල උෂ්ණත්වය සහ නිවෙන වේලාව — මූලික කරුණු"
+   "si": "ජල උෂ්ණත්වය සහ නිවෙන වේලාව — මූලික කරුණු",
+   "es": "Temperatura del agua y tiempo de infusión: lo básico"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -4611,7 +4949,8 @@ window.TEAFaiCulture = [
    "ar": "يمكن أن يختلف مذاق الشاي نفسه تمامًا بحسب درجة حرارة الماء ووقت النقع. يغطي هذا الدليل درجات الحرارة الموصى بها حسب نوع الشاي، ولماذا يجعل الماء الساخن جدًا الشاي مرًا، وكيفية تبريد الماء بإبريق تبريد، وكيفية إطالة كل إعادة نقع.",
    "ind": "Teh yang sama bisa terasa sama sekali berbeda tergantung suhu air dan waktu seduh. Panduan ini mencakup suhu yang disarankan menurut jenis teh, mengapa air yang terlalu panas membuat teh pahit, cara mendinginkan air dengan teko pendingin, dan cara memperpanjang setiap seduhan ulang.",
    "tur": "Aynı çay, su sıcaklığına ve demleme süresine bağlı olarak tamamen farklı tat verebilir. Bu rehber, çay türüne göre önerilen sıcaklıkları, çok sıcak suyun çayı neden acılaştırdığını, soğutma sürahisiyle suyun nasıl soğutulacağını ve her yeniden demde sürenin nasıl uzatılacağını anlatıyor.",
-   "si": "එකම තේ වර්ගය ජල උෂ්ණත්වය සහ නිවෙන වේලාව අනුව සම්පූර්ණයෙන්ම වෙනස් රසයක් ගත හැකිය. මෙම මාර්ගෝපදේශය තේ වර්ගය අනුව නිර්දේශිත උෂ්ණත්ව, අධිකව රත් වූ ජලය තේ තිත්ත කරන්නේ ඇයි, සිසිලන කේතලයකින් ජලය සිසිල් කරන ආකාරය, සහ එක් එක් නැවත නිවීම දිගු කරන ආකාරය ආවරණය කරයි."
+   "si": "එකම තේ වර්ගය ජල උෂ්ණත්වය සහ නිවෙන වේලාව අනුව සම්පූර්ණයෙන්ම වෙනස් රසයක් ගත හැකිය. මෙම මාර්ගෝපදේශය තේ වර්ගය අනුව නිර්දේශිත උෂ්ණත්ව, අධිකව රත් වූ ජලය තේ තිත්ත කරන්නේ ඇයි, සිසිලන කේතලයකින් ජලය සිසිල් කරන ආකාරය, සහ එක් එක් නැවත නිවීම දිගු කරන ආකාරය ආවරණය කරයි.",
+   "es": "El mismo té puede saber completamente diferente según la temperatura del agua y el tiempo de infusión. Esta guía cubre las temperaturas recomendadas por tipo de té, por qué el agua demasiado caliente vuelve amargo el té, cómo enfriar el agua con una jarra para enfriar y cómo alargar cada nueva infusión."
   },
   "body": {
    "ko": [
@@ -4847,6 +5186,24 @@ window.TEAFaiCulture = [
      "h": "නිවෙන වේලාව සඳහා රීතිය",
      "p": "කෙටියෙන් ආරම්භ කරන්න — ඕනෑම තේ වර්ගයක් අධික වේලාවක් නිවුණොත් තිත්ත සහ සැර වේ. කිහිප වරක් නිවන තේ සඳහා, එක් එක් නිවීම පෙර එකට වඩා අඩුවෙන් උරා ගන්නා බැවින්, සෑම වටයකදීම වේලාව තත්පර දහයක් හෝ විස්සක් පමණින් ටිකෙන් ටික දිගු කරන්න. කෝප්පයක් අධිකව තද නම්, වේලාව කෙටි කරන්න; අධිකව දුර්වල නම්, එය දිගු කරන්න, එවිට ඔබේම ප්‍රමිතිය ඔබ සොයා ගනු ඇත."
     }
+   ],
+   "es": [
+    {
+     "h": "Por qué la temperatura cambia el sabor",
+     "p": "Cuanto más caliente está el agua, más rápido y por completo se disuelven los compuestos de las hojas. Los componentes amargos y astringentes, en particular, salen con facilidad en agua muy caliente, así que verter agua hirviendo sobre un té hecho de hojas jóvenes hace que el amargor se imponga antes que la dulzura y el umami. El agua demasiado fría tiene el problema contrario: el aroma y el sabor quedan atrapados y la taza sabe plana."
+    },
+    {
+     "h": "Temperaturas recomendadas por tipo de té",
+     "p": "Los tés verdes hechos de hojas jóvenes por lo general se preparan a 70–80°C, y los tés verdes más finos a menudo requieren agua aún más fría. Los tés blancos y amarillos combinan bien con 80–90°C, mientras que el oolong se abre mejor en agua caliente, alrededor de 90°C o más. Los tés negros y oscuros tienen hojas más duras y más oxidadas, y necesitan agua a 95–100°C, justo antes de hervir, para saber en su mejor punto."
+    },
+    {
+     "h": "Enfriar el agua con una jarra",
+     "p": "Verter agua recién hervida en una jarra para enfriar o en un recipiente vacío baja su temperatura en unos diez grados con cada trasvase. Sin un termómetro, puedes ajustarla según el número de trasvases o simplemente dejar reposar el agua con la tapa abierta por un momento. Para el té verde, el orden seguro es enfriar primero el agua y luego verterla sobre las hojas."
+    },
+    {
+     "h": "La regla para el tiempo de infusión",
+     "p": "Empieza con tiempos cortos: cualquier té se vuelve amargo y áspero si reposa demasiado. En los tés que se preparan varias veces, cada infusión extrae menos que la anterior, así que alarga el tiempo un poco en cada ronda, unos diez a veinte segundos. Si una taza sabe demasiado fuerte, acorta el tiempo; si sabe demasiado débil, alárgalo, y encontrarás tu propio estándar."
+    }
    ]
   },
   "related": []
@@ -4868,7 +5225,8 @@ window.TEAFaiCulture = [
    "ar": "الكافيين والثيانين — يقظة الشاي الهادئة",
    "ind": "Kafein dan Teanin — Kewaspadaan Tenang dari Teh",
    "tur": "Kafein ve Teanin — Çayın Sakin Uyanıklığı",
-   "si": "කැෆේන් සහ තියානීන් — තේ වල සන්සුන් සුපරීක්ෂාකාරී බව"
+   "si": "කැෆේන් සහ තියානීන් — තේ වල සන්සුන් සුපරීක්ෂාකාරී බව",
+   "es": "Cafeína y teanina: la alerta tranquila del té"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -4883,7 +5241,8 @@ window.TEAFaiCulture = [
    "ar": "يحتوي الشاي على الكافيين أيضًا، لكن عادة أقل من القهوة، وحمض الثيانين الأميني يخفف من تأثيره. يشرح هذا المقال أي الشايات تحمل كافيين أكثر، وماذا تشرب في المساء، وحقيقة النقعة الأولى.",
    "ind": "Teh juga mengandung kafein, tetapi biasanya lebih sedikit dari kopi, dan asam amino teanin melunakkan efeknya. Artikel ini menjelaskan teh mana yang mengandung lebih banyak kafein, apa yang diminum di malam hari, dan kebenaran tentang seduhan pertama.",
    "tur": "Çay da kafein içerir ama genellikle kahveden azdır ve teanin adlı amino asit onun etkisini yumuşatır. Bu yazı, hangi çayların daha çok kafein taşıdığını, akşam ne içileceğini ve ilk dem hakkındaki gerçeği açıklıyor.",
-   "si": "තේ වල ද කැෆේන් අඩංගු වේ, නමුත් සාමාන්‍යයෙන් කෝපි වලට වඩා අඩුවෙන්, සහ ඇමයිනෝ අම්ලය තියානීන් එහි බලපෑම මෘදු කරයි. මෙම ලිපිය කුමන තේ වල වැඩි කැෆේන් ඇත්ද, සවසට බොන්නේ කුමක්ද, සහ පළමු නිවීම පිළිබඳ සත්‍යය පැහැදිලි කරයි."
+   "si": "තේ වල ද කැෆේන් අඩංගු වේ, නමුත් සාමාන්‍යයෙන් කෝපි වලට වඩා අඩුවෙන්, සහ ඇමයිනෝ අම්ලය තියානීන් එහි බලපෑම මෘදු කරයි. මෙම ලිපිය කුමන තේ වල වැඩි කැෆේන් ඇත්ද, සවසට බොන්නේ කුමක්ද, සහ පළමු නිවීම පිළිබඳ සත්‍යය පැහැදිලි කරයි.",
+   "es": "El té también contiene cafeína, pero por lo general menos que el café, y el aminoácido teanina suaviza su efecto. Este artículo explica qué tés tienen más cafeína, qué beber por la noche y la verdad sobre la primera infusión."
   },
   "body": {
    "ko": [
@@ -5171,6 +5530,28 @@ window.TEAFaiCulture = [
      "h": "පළමු නිවීම පිළිබඳ මිථ්‍යාව",
      "p": "පළමු නිවීම ඉවත දැමීමෙන් කැෆේන් වලින් වැඩි කොටසක් ඉවත් වන බවට වන ප්‍රකාශය අතිශයෝක්තියකි. කැෆේන් එක් සේදීමකින් සෝදා නොයයි; එය බොහෝ නිවීම් හරහා දිය වෙමින් පවතී. කොළ සේදීම ප්‍රධාන වශයෙන් දූවිලි සෝදා හැරීමට සහ කොළ අවදි කිරීමටයි — ඔබේ තේ කැෆේන් රහිත කිරීමට විශ්වාසදායක ක්‍රමයක් නොවේ."
     }
+   ],
+   "es": [
+    {
+     "h": "Sí, el té tiene cafeína",
+     "p": "El té sí contiene cafeína, aunque una taza de té por lo general tiene menos que una taza de café. La cantidad varía mucho según el té y cómo se prepara: una taza preparada fuerte y una preparada ligera pueden diferir bastante. Así que «el té no tiene cafeína» no es exacto; «a menudo más suave que el café» se acerca más a la verdad."
+    },
+    {
+     "h": "La teanina marca la diferencia",
+     "p": "El té también contiene un aminoácido llamado teanina, que suaviza el efecto estimulante de la cafeína. Por eso muchas personas se sienten tranquilamente concentradas después de tomar té, en lugar de bruscamente agitadas como con el café. La teanina también es una fuente de sabor umami sabroso, así que los tés ricos en teanina —como los tés verdes finos cultivados a la sombra— tienden a saber también más profundos."
+    },
+    {
+     "h": "Qué tés tienen más cafeína",
+     "p": "La cafeína tiende a ser mayor en los brotes jóvenes y las hojas jóvenes, así que los tés con muchos brotes y el matcha, que se consume como polvo de hoja entera, aportan relativamente más. Los tés hechos de tallos u hojas gruesas, y los tés tostados, tienden a tener menos. El mismo té también libera más cafeína cuando reposa más tiempo en agua más caliente."
+    },
+    {
+     "h": "Buenas opciones para la noche",
+     "p": "Si eres sensible a la cafeína, el hojicha —tostado y con menos cafeína— es una buena elección nocturna entre los tés verdaderos. El té de cebada, el rooibos, la manzanilla y otras infusiones herbales no contienen cafeína en absoluto y son opciones fáciles por la noche. Si aun así quieres té verdadero, prepáralo ligero y en poca cantidad, y deja unas horas antes de acostarte."
+    },
+    {
+     "h": "El mito de la primera infusión",
+     "p": "La afirmación de que desechar la primera infusión elimina la mayor parte de la cafeína es una exageración. La cafeína no se va con un solo enjuague; sigue disolviéndose a lo largo de muchas infusiones. Enjuagar las hojas sirve principalmente para quitar el polvo y despertar las hojas, no como una forma confiable de descafeinar tu té."
+    }
    ]
   },
   "related": [
@@ -5194,7 +5575,8 @@ window.TEAFaiCulture = [
    "ar": "كيفية تخزين الشاي — أبعده عن خمسة أشياء",
    "ind": "Cara Menyimpan Teh — Jauhkan dari Lima Hal",
    "tur": "Çay Nasıl Saklanır — Beş Şeyden Uzak Tutun",
-   "si": "තේ ගබඩා කරන ආකාරය — දේවල් පහකින් ඈත් කර තබන්න"
+   "si": "තේ ගබඩා කරන ආකාරය — දේවල් පහකින් ඈත් කර තබන්න",
+   "es": "Cómo guardar el té: aléjalo de cinco cosas"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -5209,7 +5591,8 @@ window.TEAFaiCulture = [
    "ar": "الشاي هش أمام الضوء والرطوبة والهواء والروائح والحرارة. يغطي هذا الدليل القواعد الأساسية للحفاظ على الشاي طازجًا، وكيفية اختيار وعاء محكم الإغلاق، وما يجب الانتباه له مع التبريد، وإحساسًا بمدة بقاء كل نوع.",
    "ind": "Teh rapuh menghadapi cahaya, kelembapan, udara, bau, dan panas. Panduan ini mencakup aturan dasar menjaga teh tetap segar, cara memilih wadah kedap udara, hal yang perlu diperhatikan dengan pendinginan, dan gambaran berapa lama setiap jenis bertahan.",
    "tur": "Çay; ışık, nem, hava, kokular ve ısı karşısında hassastır. Bu rehber, çayı taze tutmanın temel kurallarını, hava geçirmez bir kabın nasıl seçileceğini, buzdolabında saklarken nelere dikkat edileceğini ve her türün ne kadar dayandığına dair bir fikir veriyor.",
-   "si": "ආලෝකය, තෙතමනය, වාතය, ගන්ධයන් සහ තාපය හමුවේ තේ බිඳෙනසුලුය. මෙම මාර්ගෝපදේශය තේ නැවුම්ව තබා ගැනීමේ මූලික රීති, වාතය නොයන බඳුනක් තෝරා ගන්නා ආකාරය, ශීතකරණයේ තැබීමේදී සැලකිලිමත් විය යුතු දේ, සහ එක් එක් වර්ගය කොපමණ කාලයක් තබා ගත හැකිද යන්න පිළිබඳ හැඟීමක් ආවරණය කරයි."
+   "si": "ආලෝකය, තෙතමනය, වාතය, ගන්ධයන් සහ තාපය හමුවේ තේ බිඳෙනසුලුය. මෙම මාර්ගෝපදේශය තේ නැවුම්ව තබා ගැනීමේ මූලික රීති, වාතය නොයන බඳුනක් තෝරා ගන්නා ආකාරය, ශීතකරණයේ තැබීමේදී සැලකිලිමත් විය යුතු දේ, සහ එක් එක් වර්ගය කොපමණ කාලයක් තබා ගත හැකිද යන්න පිළිබඳ හැඟීමක් ආවරණය කරයි.",
+   "es": "El té es frágil ante la luz, la humedad, el aire, los olores y el calor. Esta guía cubre las reglas básicas para mantener fresco el té, cómo elegir un recipiente hermético, qué tener en cuenta con la refrigeración y una idea de cuánto dura cada tipo."
   },
   "body": {
    "ko": [
@@ -5444,6 +5827,24 @@ window.TEAFaiCulture = [
     {
      "h": "එක් එක් වර්ගය කොපමණ කාලයක් තබා ගත හැකිද",
      "p": "කොළ තේ ඉක්මනින් වෙනස් වන බැවින්, එය විවෘත කිරීමෙන් මාස කිහිපයක් ඇතුළත අවසන් කිරීම වඩාත් සුදුසුය; කළු තේ වඩාත් දැඩි වන අතර වසරක් හෝ දෙකක් හොඳින් තබා ගනී. වඩාත් තදින් බැදපු ඌලොං කොළ පැහැති ඒවාට වඩා වැඩි කාලයක් ගබඩා වේ. පු-අර් වැනි අඳුරු තේ ව්‍යතිරේකයයි: ඒවා වායු ප්‍රවාහයක් සමඟ කාමර උෂ්ණත්වයේදී වසර ගණනාවක් තිස්සේ වෙනස් වන ආකාරය වෙනුවෙන් රස විඳිනු ලබන බැවින්, වාතය නොයන මුද්‍රාවකට වඩා වාතාශ්‍රය වැදගත් වේ."
+    }
+   ],
+   "es": [
+    {
+     "h": "Cinco cosas que al té no le gustan",
+     "p": "La luz desvanece el color y el aroma de un té, y la humedad invita al moho y a los sabores extraños. El contacto con el aire mantiene en marcha la oxidación y roba el aroma fresco, mientras que las hojas secas absorben los olores del entorno con tanta facilidad que guardar té junto a especias o café lo contaminará. Las temperaturas altas también hacen que el aroma se desvanezca más rápido."
+    },
+    {
+     "h": "Recipiente y lugar: lo básico",
+     "p": "La regla general es un recipiente opaco y hermético guardado en un lugar fresco y seco. Dividir el té en recipientes pequeños hace que la reserva principal se abra con menos frecuencia, así que se mantiene fragante por más tiempo. Las cocinas cambian de temperatura y humedad y están llenas de olores de comida, así que un armario en otra habitación es un mejor hogar para tu té."
+    },
+    {
+     "h": "Si lo refrigeras, ten cuidado",
+     "p": "Los tés verdes y los oolong delicados conservan su frescura por más tiempo en el refrigerador, siempre que el sello sea realmente hermético. Pero si abres el té frío de inmediato, la humedad del aire se condensa en las hojas, así que deja que el recipiente vuelva a temperatura ambiente antes de abrirlo. Una vez abierto, evita mover el té de un lado a otro entre el refrigerador y el estante: mantenlo fresco y termínalo en un plazo razonable."
+    },
+    {
+     "h": "Cuánto dura cada tipo",
+     "p": "El té verde cambia rápidamente, así que es mejor terminarlo dentro de unos pocos meses después de abrirlo; el té negro es más resistente y se conserva bien durante uno o dos años. Los oolong más tostados duran más que los más verdes. Los tés oscuros como el pu'er son la excepción: se disfrutan por cómo cambian con los años a temperatura ambiente y con algo de flujo de aire, así que la ventilación importa más que un sello hermético."
     }
    ]
   },
@@ -5684,6 +6085,24 @@ window.TEAFaiCulture = [
      "h": "වෙනත් කාණ්ඩ, සහ ඉදිරියේ ඇති උත්සවය",
      "p": "Best of Matcha ත්‍යාගය ජපානයේ Furukawa Seicha හි කාබනික SAMIDORI කුඩු තේ වර්ගයට හිමි වූ අතර, Best of Botanicals ත්‍යාගය ඇමරිකා එක්සත් ජනපදයේ Seven Teahouse හි Orchid Frost කහ තේ වර්ගයට හිමි විය. සම්මාන උත්සවය 2027 ජනවාරි 22 වන දින ලන්ඩනයේ Fortnum & Mason හි ප්‍රධාන වෙළඳසැලේදී පැවැත්වෙන අතර, ඊට පසුදා රන් පදක්කම් ලැබූ තේ රස බැලීමක් පැවැත්වේ."
     }
+   ],
+   "es": [
+    {
+     "h": "¿Qué es The Leafies?",
+     "p": "The Leafies es una competencia internacional de té lanzada en 2022 por la UK Tea Academy, un organismo británico de educación sobre el té. Cada año se inscriben cientos de tés de todo el mundo, y un panel de jueces profesionales de diferentes industrias y contextos culturales elige a los ganadores mediante repetidas rondas de cata a ciegas. La tienda británica de lujo Fortnum & Mason colabora con los premios, y los tés ganadores pueden ganarse un lugar en sus estantes o en su menú de té de la tarde."
+    },
+    {
+     "h": "Best in Show 2026: un té verde al vapor de Japón",
+     "p": "El máximo honor de este año, Best in Show, fue para el té verde al vapor Kodama 'Special Edition' elaborado por Horiguchi Seicha (Wakoen) de Kagoshima, Japón. El vapor es la forma característica de elaborar el té verde japonés: las hojas se fijan con vapor en lugar de calor en sartén, lo que mantiene su aroma verde y su profundidad sabrosa especialmente vívidos."
+    },
+    {
+     "h": "Los tés negros de Taiwán avanzan con fuerza",
+     "p": "Best of Black Teas fue para Mi Ying Black Tea, elaborado por Fusensen de Taiwán. Fundada en Tainan en 1985, la compañía creó este té negro con aroma a miel a partir de hojas cultivadas en Hualien, en el este de Taiwán. Los tés taiwaneses también compartieron el premio Best of Retail Teas, y Taiwán se llevó a casa siete medallas de oro, 22 de plata y 26 de bronce en los premios de este año. El té negro taiwanés ganó por primera vez el máximo premio de esta categoría en 2024, y en 2025 un té taiwanés llegó a ganar el propio Best in Show: una racha que sigue con fuerza."
+    },
+    {
+     "h": "Otras categorías y la ceremonia que viene",
+     "p": "Best of Matcha fue para el té en polvo orgánico SAMIDORI de Furukawa Seicha, de Japón, y Best of Botanicals para el té amarillo Orchid Frost de Seven Teahouse, de EE. UU. La ceremonia de premiación tendrá lugar el 22 de enero de 2027 en la tienda insignia de Fortnum & Mason en Londres, seguida al día siguiente por una degustación de los tés con medalla de oro."
+    }
    ]
   },
   "cat": "basics",
@@ -5706,7 +6125,8 @@ window.TEAFaiCulture = [
    "ar": "صدرت نتائج ذا ليفيز 2026، جوائز الشاي الدولية التي تديرها أكاديمية الشاي في المملكة المتحدة. ذهبت الجائزة الكبرى إلى شاي أخضر مبخر من كاغوشيما في اليابان، وجائزة الشاي الأسود إلى شاي أسود برائحة العسل من تايوان — وحصدت تايوان 55 ميدالية في المجموع، منها سبع ذهبيات.",
    "ind": "Hasil The Leafies 2026 telah diumumkan, penghargaan teh internasional yang diselenggarakan oleh UK Tea Academy. Penghargaan tertinggi diraih teh hijau kukus dari Kagoshima, Jepang, hadiah teh hitam diraih teh hitam beraroma madu dari Taiwan — dan Taiwan menyapu 55 medali seluruhnya, termasuk tujuh emas.",
    "tur": "UK Tea Academy tarafından düzenlenen uluslararası çay ödülleri The Leafies 2026'nın sonuçları açıklandı. En büyük onur, Japonya'nın Kagoshima kentinden buharda pişirilmiş bir yeşil çaya gitti; siyah çay ödülü, Tayvan'dan bal kokulu bir siyah çaya — ve Tayvan, yedisi altın olmak üzere toplam 55 madalya topladı.",
-   "si": "UK Tea Academy විසින් පවත්වාගෙන යනු ලබන ජාත්‍යන්තර තේ සම්මාන වන The Leafies 2026 සඳහා ප්‍රතිඵල ප්‍රකාශයට පත් වී ඇත. ඉහළම ගෞරවය ජපානයේ කගෝෂිමා වල වාෂ්ප කළ කොළ තේ වර්ගයකට හිමි වූ අතර, කළු තේ ත්‍යාගය තායිවානයේ පැණි සුවඳැති කළු තේ වර්ගයකට හිමි විය — තවද රන් පදක්කම් හතක් ඇතුළුව, තායිවානය සමස්තයක් ලෙස පදක්කම් 55 ක් දිනා ගත්තේය."
+   "si": "UK Tea Academy විසින් පවත්වාගෙන යනු ලබන ජාත්‍යන්තර තේ සම්මාන වන The Leafies 2026 සඳහා ප්‍රතිඵල ප්‍රකාශයට පත් වී ඇත. ඉහළම ගෞරවය ජපානයේ කගෝෂිමා වල වාෂ්ප කළ කොළ තේ වර්ගයකට හිමි වූ අතර, කළු තේ ත්‍යාගය තායිවානයේ පැණි සුවඳැති කළු තේ වර්ගයකට හිමි විය — තවද රන් පදක්කම් හතක් ඇතුළුව, තායිවානය සමස්තයක් ලෙස පදක්කම් 55 ක් දිනා ගත්තේය.",
+   "es": "Ya están los resultados de The Leafies 2026, los premios internacionales de té organizados por la UK Tea Academy. El máximo honor fue para un té verde al vapor de Kagoshima, Japón, el premio al té negro para un té negro con aroma a miel de Taiwán, y Taiwán arrasó con 55 medallas en total, incluidas siete de oro."
   },
   "title": {
    "en": "The Leafies 2026 — The World's Teas of the Year",
@@ -5721,7 +6141,8 @@ window.TEAFaiCulture = [
    "ar": "ذا ليفيز 2026 — أفضل شايات العالم لهذا العام",
    "ind": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini",
    "tur": "The Leafies 2026 — Dünyanın Yılın Çayları",
-   "si": "The Leafies 2026 — ලෝකයේ වසරේ තේ"
+   "si": "The Leafies 2026 — ලෝකයේ වසරේ තේ",
+   "es": "The Leafies 2026 — Los tés del año en el mundo"
   }
  }
 ];
