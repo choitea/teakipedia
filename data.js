@@ -5566,7 +5566,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "홍콩 블렌딩",
-        "진하게 우린 홍차에 무가당 연유를 더한 홍콩 차찬텡의 시그니처 밀크티 블렌딩.",
+        "실론을 주 베이스로 하는 홍콩 차찬텡의 시그니처 밀크티 블렌딩.",
         "95%",
         "200ml에 8g, 연유는 취향껏",
         "1회",
@@ -5580,7 +5580,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Hong Kong Blending",
-        "Strong black tea with evaporated milk — the signature milk tea blend of a Hong Kong cha chaan teng.",
+        "The signature milk tea blend of a Hong Kong cha chaan teng, built mainly on a Ceylon base.",
         "95%",
         "8 g to 200 ml; milk to taste",
         "One brew",
@@ -5594,7 +5594,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "港式拼配茶",
-        "浓泡红茶加淡奶——香港茶餐厅的招牌奶茶拼配。",
+        "以锡兰为主要基底的香港茶餐厅招牌奶茶拼配。",
         "95%",
         "200毫升配8克，淡奶按口味",
         "1次",
@@ -5608,7 +5608,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "港式拼配茶",
-        "濃泡紅茶加淡奶——香港茶餐廳的招牌奶茶拼配。",
+        "以錫蘭為主要基底的香港茶餐廳招牌奶茶拼配。",
         "95%",
         "200毫升配8公克，淡奶按口味",
         "1次",
