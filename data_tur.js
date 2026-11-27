@@ -1850,7 +1850,7 @@ window.TEAFaiDataTur = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Gül, orkide ve bitter çikolata — Çin siyah çayının ölçütü.",
+    "oneLine": "Gül, orkide ve bitter çikolata — Çin siyah çayının ölçütü, dünyanın en büyük üç siyah çayından biri.",
     "oxidation": "90%",
     "ratioNote": "150 ml için 3 g",
     "rounds": "1–2 demleme",

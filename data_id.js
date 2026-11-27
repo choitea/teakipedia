@@ -1846,7 +1846,7 @@ window.TEAFaiDataId = (function () {
   },
   "black-keemun": {
     "name": "Keemun",
-    "oneLine": "Mawar, anggrek, dan cokelat hitam — tolok ukur teh hitam Tiongkok.",
+    "oneLine": "Mawar, anggrek, dan cokelat hitam — tolok ukur teh hitam Tiongkok, salah satu dari tiga teh hitam terhebat di dunia.",
     "oxidation": "90%",
     "ratioNote": "3 g untuk 150 ml",
     "rounds": "1–2 seduhan",
