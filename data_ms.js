@@ -9,7 +9,7 @@ window.TEAFaiDataMs = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "Longjing Tasik Barat",
-    "oneLine": "Kemanisan soya panggang pada daun yang ditekan leper — penanda aras bagi teh hijau sangai kuali.",
+    "oneLine": "Teh hijau paling terkenal di China, kegemaran seorang maharaja — daun leper disangrai dalam kuali, beraroma kacang sangrai dan berangan dengan rasa manis yang jernih.",
     "oxidation": "0%",
     "ratioNote": "3 g untuk 150 ml; dalam gelas, air dahulu",
     "rounds": "3–4 kali seduhan",

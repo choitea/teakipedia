@@ -9,7 +9,7 @@ window.TEAFaiDataEs = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "Longjing del Lago del Oeste",
-    "oneLine": "Dulzor de soja tostada en una hoja prensada y plana: la referencia del té verde tostado en sartén.",
+    "oneLine": "El té verde más famoso de China, favorito de un emperador: hojas planas tostadas al wok, con aroma a judías tostadas y castaña y un dulzor limpio.",
     "oxidation": "0%",
     "ratioNote": "3 g para 150 ml; en vaso, primero el agua",
     "rounds": "3–4 infusiones",

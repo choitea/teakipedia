@@ -9,7 +9,7 @@ window.TEAFaiDataFr = (function () {
   var TEAS = {
   "green-longjing": {
     "name": "Longjing du lac de l'Ouest",
-    "oneLine": "Une douceur de soja torréfié dans une feuille pressée à plat — la référence des thés verts torréfiés à la poêle.",
+    "oneLine": "Le thé vert le plus célèbre de Chine, favori d'un empereur — feuilles plates torréfiées au wok, arômes de haricot grillé et de châtaigne, douceur limpide.",
     "oxidation": "0%",
     "ratioNote": "3 g pour 150 ml ; dans un verre, l’eau d’abord",
     "rounds": "3–4 infusions",
