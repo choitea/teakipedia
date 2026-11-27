@@ -1305,6 +1305,10 @@
       [t("fact.leaf"), item.leaf + " / " + item.water],
       [t("fact.first"), fmtDur(item.steeps[0])]
     ];
+    if (!isGroup && item.caffeine) {
+      var cf2 = item.caffeine;
+      facts.push([t("caf.label"), cf2[0] === "none" ? t("caf.none") : t("caf." + cf2[0]) + " " + cf2[1] + "~" + cf2[2] + "mg"]);
+    }
 
     var details = [];
     if (isGroup) {
