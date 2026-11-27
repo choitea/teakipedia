@@ -1319,6 +1319,10 @@
     }
     if (item.flavor) details.push([t("detail.flavor"), item.flavor]);
     if (item.pairing) details.push([t("detail.pairing"), item.pairing]);
+    if (!isGroup && item.caffeine) {
+      var cf = item.caffeine;
+      details.push([t("caf.label"), t("caf." + cf[0]) + (cf[0] === "none" ? " · 0mg" : " · " + t("caf.range", { min: cf[1], max: cf[2] }))]);
+    }
     if (item.keep) details.push([t("detail.keep"), item.keep]);
     if (item.brewTip) details.push([t("detail.brew"), item.brewTip]);
 

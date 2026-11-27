@@ -6241,6 +6241,19 @@ window.TEAFaiI18N = (function () {
     "ind": { "news.title": "Berita teh" }
   };
   var YUE10 = { "news.title": "茶新聞" };
+  var V21 = {
+    "ko": { "caf.label": "카페인", "caf.none": "없음", "caf.low": "낮음", "caf.mid": "보통", "caf.high": "높음", "caf.range": "1잔 약 {min}~{max}mg" },
+    "en": { "caf.label": "Caffeine", "caf.none": "None", "caf.low": "Low", "caf.mid": "Moderate", "caf.high": "High", "caf.range": "About {min}\u2013{max} mg per cup" },
+    "zh-CN": { "caf.label": "咖啡因", "caf.none": "无", "caf.low": "低", "caf.mid": "中等", "caf.high": "高", "caf.range": "每杯约 {min}~{max} mg" },
+    "zh-TW": { "caf.label": "咖啡因", "caf.none": "無", "caf.low": "低", "caf.mid": "中等", "caf.high": "高", "caf.range": "每杯約 {min}~{max} mg" },
+    "ja": { "caf.label": "カフェイン", "caf.none": "なし", "caf.low": "低め", "caf.mid": "普通", "caf.high": "高め", "caf.range": "1杯あたり約{min}〜{max}mg" },
+    "hi": { "caf.label": "कैफीन", "caf.none": "नहीं है", "caf.low": "कम", "caf.mid": "मध्यम", "caf.high": "अधिक", "caf.range": "प्रति कप लगभग {min}~{max} mg" },
+    "th": { "caf.label": "คาเฟอีน", "caf.none": "ไม่มี", "caf.low": "ต่ำ", "caf.mid": "ปานกลาง", "caf.high": "สูง", "caf.range": "ประมาณ {min}~{max} มก. ต่อแก้ว" },
+    "vi": { "caf.label": "Caffeine", "caf.none": "Không có", "caf.low": "Thấp", "caf.mid": "Trung bình", "caf.high": "Cao", "caf.range": "Khoảng {min}~{max} mg mỗi tách" },
+    "ar": { "caf.label": "الكافيين", "caf.none": "لا يوجد", "caf.low": "منخفض", "caf.mid": "متوسط", "caf.high": "مرتفع", "caf.range": "نحو {min}~{max} ملغ في الكوب" },
+    "ind": { "caf.label": "Kafein", "caf.none": "Tidak ada", "caf.low": "Rendah", "caf.mid": "Sedang", "caf.high": "Tinggi", "caf.range": "Sekitar {min}~{max} mg per cangkir" }
+  };
+  var YUE11 = { "caf.label": "咖啡因", "caf.none": "冇", "caf.low": "低", "caf.mid": "中等", "caf.high": "高", "caf.range": "每杯約 {min}~{max} mg" };
   var VAR = { ar: {
     "a11y.delete": "حذف ملاحظة {name}",
     "a11y.filter": "تصفية حسب نوع الشاي",
@@ -7473,7 +7486,7 @@ window.TEAFaiI18N = (function () {
     "weekday.tue": "Sel",
     "weekday.wed": "Rab"
 } };
-  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, VAR, VID, V17, V18, V19, V20];
+  var SECTIONS = [UI, PRIVACY, QUIZ, EXTRA, SHOPS, FEATURES, V12, V12B, V13, VJA, V14, V16, VHI, VTH, VVI, VAR, VID, V17, V18, V19, V20, V21];
 
   function dict(lang) {
     if (dictFor[lang]) return dictFor[lang];
@@ -7497,6 +7510,7 @@ window.TEAFaiI18N = (function () {
       for (k in YUE8) merged[k] = YUE8[k];
       for (k in YUE9) merged[k] = YUE9[k];
       for (k in YUE10) merged[k] = YUE10[k];
+      for (k in YUE11) merged[k] = YUE11[k];
       merged["lang.name"] = "粵語";
     }
     dictFor[lang] = merged;
