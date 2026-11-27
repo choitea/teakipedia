@@ -4249,7 +4249,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "기문",
-        "장미·난초·다크초콜릿 — 중국 홍차의 기준.",
+        "장미·난초·다크초콜릿 — 중국 홍차의 기준, 세계 3대 홍차 중 하나.",
         "90%",
         "150ml에 3g",
         "1~2회",
@@ -4263,7 +4263,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Keemun",
-        "Rose, orchid and dark chocolate — the yardstick for Chinese black tea.",
+        "Rose, orchid and dark chocolate — the yardstick for Chinese black tea, and one of the world's three great black teas.",
         "90%",
         "3 g to 150 ml",
         "1–2 infusions",
@@ -4277,7 +4277,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "祁门红茶",
-        "玫瑰、兰花与黑巧克力——中国红茶的标准。",
+        "玫瑰、兰花与黑巧克力——中国红茶的标准，世界三大红茶之一。",
         "90%",
         "150毫升配3克",
         "1~2泡",
@@ -4291,7 +4291,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "祁門紅茶",
-        "玫瑰、蘭花與黑巧克力——中國紅茶的標準。",
+        "玫瑰、蘭花與黑巧克力——中國紅茶的標準，世界三大紅茶之一。",
         "90%",
         "150毫升配3公克",
         "1~2泡",
