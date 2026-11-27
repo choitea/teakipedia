@@ -919,7 +919,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "벽라춘",
-        oneLine: "달팽이처럼 꼬인 잎에서 과일 향이 난다 — 가장 향기로운 녹차.",
+        oneLine: "강희제가 이름 붙인 둥팅산 봄 싹의 명차 — 달팽이처럼 만 잎에서 복숭아·살구의 과일 향과 청량한 단맛이 피어납니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g, 낮은 온도가 핵심",
         rounds: "3~4회",
@@ -932,7 +932,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Biluochun",
-        oneLine: "Fruit aroma in a leaf twisted like a snail — the most fragrant of green teas.",
+        oneLine: "A famed spring-bud tea from Dongting, renamed by the Kangxi Emperor — snail-coiled leaves bloom with peach and apricot over a cool sweetness.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml; low temperature is the whole trick",
         rounds: "3–4 infusions",
@@ -945,7 +945,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "碧螺春",
-        oneLine: "卷成螺旋的叶子里有果香——最香的绿茶。",
+        oneLine: "康熙帝赐名的洞庭山春芽名茶——卷成螺旋的叶子绽放桃与杏的果香，清凉的甜味随之而来。",
         oxidation: "0%",
         ratioNote: "150毫升配3克，低温是关键",
         rounds: "3~4泡",
@@ -958,7 +958,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "碧螺春",
-        oneLine: "捲成螺旋的葉子裡有果香——最香的綠茶。",
+        oneLine: "康熙帝賜名的洞庭山春芽名茶——捲成螺旋的葉子綻放桃與杏的果香，清涼的甜味隨之而來。",
         oxidation: "0%",
         ratioNote: "150毫升配3公克，低溫是關鍵",
         rounds: "3~4泡",
@@ -1006,7 +1006,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "황산모봉",
-        oneLine: "안개 낀 산의 부드러운 고소함 — 중국 녹차의 또 다른 표준.",
+        oneLine: "안개 낀 황산에서 난 비교적 젊은 명차 — 황록빛 잎에서 부드러운 고소함과 난초 같은 청량함, 긴 감칠맛이 남습니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g",
         rounds: "3~4회",
@@ -1019,7 +1019,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Huangshan Maofeng",
-        oneLine: "A soft nuttiness from misty mountains — China's other green-tea standard.",
+        oneLine: "A relatively young famous tea from misty Huangshan — yellow-green leaves give soft roasted notes, orchid freshness and a long umami.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml",
         rounds: "3–4 infusions",
@@ -1032,7 +1032,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "黄山毛峰",
-        oneLine: "雾山深处的柔和豆香——中国绿茶的另一种标准。",
+        oneLine: "出自云雾黄山、历史较年轻的名茶——黄绿叶片带来柔和的焙香与兰花般的清凉，鲜味久久不散。",
         oxidation: "0%",
         ratioNote: "150毫升配3克",
         rounds: "3~4泡",
@@ -1045,7 +1045,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "黃山毛峰",
-        oneLine: "霧山深處的柔和豆香——中國綠茶的另一種標準。",
+        oneLine: "出自雲霧黃山、歷史較年輕的名茶——黃綠葉片帶來柔和的焙香與蘭花般的清涼，鮮味久久不散。",
         oxidation: "0%",
         ratioNote: "150毫升配3公克",
         rounds: "3~4泡",
@@ -1093,7 +1093,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "센차",
-        oneLine: "증기로 쪄낸 일본의 일상 녹차 — 해조류 향과 감칠맛.",
+        oneLine: "일본 녹차 소비의 여섯 할을 차지하는 일상차 — 증기로 쪄낸 잎에서 해조류 향과 감칠맛, 가벼운 떫음이 어우러집니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g, 첫 물은 70도",
         rounds: "3회",
@@ -1106,7 +1106,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Sencha",
-        oneLine: "Japan's everyday steamed green tea — seaweed aroma and umami.",
+        oneLine: "Japan's everyday tea, six-tenths of its green-tea drinking — steamed leaves blend seaweed aroma and umami with a light astringency.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml; first pour at 70 °C",
         rounds: "3 infusions",
@@ -1119,7 +1119,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "煎茶",
-        oneLine: "蒸汽杀青的日本日常绿茶——海苔香与鲜味。",
+        oneLine: "占日本绿茶消费六成的日常茶——蒸青叶片融合海苔香与鲜味，带着淡淡的涩感。",
         oxidation: "0%",
         ratioNote: "150毫升配3克，第一泡70度",
         rounds: "3泡",
@@ -1132,7 +1132,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "煎茶",
-        oneLine: "蒸氣殺菁的日本日常綠茶——海苔香與鮮味。",
+        oneLine: "佔日本綠茶消費六成的日常茶——蒸青葉片融合海苔香與鮮味，帶著淡淡的澀感。",
         oxidation: "0%",
         ratioNote: "200毫升配3公克，第一泡70度",
         rounds: "3泡",
@@ -1181,7 +1181,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "교쿠로",
-        oneLine: "차광 재배로 감칠맛을 극한까지 끌어올린, 가장 진한 녹차.",
+        oneLine: "20일 넘게 차광해 만든 '옥 같은 이슬' — 짙은 녹색 바늘잎에서 된장·다시마 같은 감칠맛이 크림처럼 퍼집니다.",
         oxidation: "0%",
         ratioNote: "40ml에 5g, 아주 적은 물에 많은 잎",
         rounds: "3회",
@@ -1194,7 +1194,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Gyokuro",
-        oneLine: "Shade-grown to push umami to its limit — the deepest of green teas.",
+        oneLine: "Shaded over 20 days and named 'jade dew' — deep-green needles pour out miso-and-dashi umami with a creamy texture.",
         oxidation: "0%",
         ratioNote: "5 g to 40 ml — much leaf, very little water",
         rounds: "3 infusions",
@@ -1207,7 +1207,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "玉露",
-        oneLine: "遮光栽培把鲜味推到极致——最浓厚的绿茶。",
+        oneLine: "遮光二十多天制成的“玉露”——深绿针叶中涌出味噌与海带般的浓厚鲜味，质地如奶油。",
         oxidation: "0%",
         ratioNote: "40毫升配5克，水极少茶多",
         rounds: "3泡",
@@ -1220,7 +1220,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "玉露",
-        oneLine: "遮光栽培把鮮味推到極致——最濃厚的綠茶。",
+        oneLine: "遮光二十多天製成的「玉露」——深綠針葉中湧出味噌與海帶般的濃厚鮮味，質地如奶油。",
         oxidation: "0%",
         ratioNote: "100毫升配5公克，水少茶多",
         rounds: "3泡",
@@ -1269,7 +1269,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "말차",
-        oneLine: "잎을 갈아 물에 그대로 마시는 차 — 향이 아니라 몸 전체로 마시는 녹차.",
+        oneLine: "맷돌로 한 시간에 40g만 갈아내는 잎 전체의 차 — 선명한 녹색 거품 아래 짙은 감칠맛과 끝의 쌉싸름함이 남습니다.",
         oxidation: "0%",
         ratioNote: "우스차 2g에 60ml, 고이차는 4g에 60ml",
         rounds: "1회",
@@ -1282,7 +1282,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Matcha",
-        oneLine: "The whole leaf, ground and drunk — green tea you take in, not just smell.",
+        oneLine: "The whole leaf, stone-ground at just 40 g an hour — vivid green foam over deep umami with a bitter edge at the end.",
         oxidation: "0%",
         ratioNote: "2 g to 60 ml for usucha; 4 g to 60 ml for koicha",
         rounds: "One bowl",
@@ -1295,7 +1295,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "抹茶",
-        oneLine: "把整片叶子磨碎喝下去——不只是闻香，而是喝进身体的绿茶。",
+        oneLine: "石磨一小时只能磨出40克的整叶之茶——鲜绿泡沫之下是浓厚鲜味，尾端带着一丝苦韵。",
         oxidation: "0%",
         ratioNote: "薄茶2克配60毫升，浓茶4克配60毫升",
         rounds: "1碗",
@@ -1308,7 +1308,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "抹茶",
-        oneLine: "把整片葉子磨碎喝下去——不只是聞香，而是喝進身體的綠茶。",
+        oneLine: "石磨一小時只能磨出40克的整葉之茶——鮮綠泡沫之下是濃厚鮮味，尾端帶著一絲苦韻。",
         oxidation: "0%",
         ratioNote: "薄茶2公克配70毫升，濃茶4公克配70毫升",
         rounds: "1碗",
@@ -1357,7 +1357,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 0,
       ko: {
         name: "우전 (제주)",
-        oneLine: "곡우 전에 딴 한국의 첫 잎 — 봄비 머금은 부드러운 떫음.",
+        oneLine: "1979년 제주에서 시작된 곡우 전의 첫 잎 — 화산토와 해풍 머금은 잎에서 풋풋한 향과 고소함이 부드럽게 풀립니다.",
         oxidation: "0%",
         ratioNote: "150ml에 3g",
         rounds: "3~4회",
@@ -1370,7 +1370,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Ujeon (Jeju)",
-        oneLine: "Korea's first leaf, picked before Grain Rain — a soft astringency full of spring rain.",
+        oneLine: "Jeju's first leaf before Grain Rain, from gardens begun in 1979 — volcanic soil and sea wind give fresh green notes and toast that soften gently.",
         oxidation: "0%",
         ratioNote: "3 g to 150 ml",
         rounds: "3–4 infusions",
@@ -1383,7 +1383,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "济州雨前",
-        oneLine: "谷雨前采下的韩国第一片嫩叶——带着春雨的柔和涩感。",
+        oneLine: "1979年始于济州、谷雨前采的第一片叶——火山土与海风孕育的叶片散发清新香气与焙香，柔和舒展。",
         oxidation: "0%",
         ratioNote: "150毫升配3克",
         rounds: "3~4泡",
@@ -1396,7 +1396,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "濟州雨前",
-        oneLine: "穀雨前採下的韓國第一片嫩葉——帶著春雨的柔和澀感。",
+        oneLine: "1979年始於濟州、穀雨前採的第一片葉——火山土與海風孕育的葉片散發清新香氣與焙香，柔和舒展。",
         oxidation: "0%",
         ratioNote: "150毫升配3公克",
         rounds: "3~4泡",
@@ -1445,7 +1445,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 5,
       ko: {
         name: "백호은침",
-        oneLine: "싹에 붙은 은백색 털이 그대로 남은, 백차의 가장 조용한 형태.",
+        oneLine: "싹만 골라 덖지도 비비지도 않고 말린 백차의 정수 — 은백색 털 아래 은방울꽃 향과 떫음 없는 긴 단맛이 숨습니다.",
         oxidation: "5%",
         ratioNote: "200ml에 3g",
         rounds: "4~5회",
@@ -1458,7 +1458,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Silver Needle",
-        oneLine: "The palest form of white tea: a bud still in its silvery down.",
+        oneLine: "White tea at its purest, buds only, never fired or rolled — lily-of-the-valley scent and a long, astringency-free sweetness under silvery down.",
         oxidation: "5%",
         ratioNote: "3 g to 200 ml",
         rounds: "4–5 infusions",
@@ -1471,7 +1471,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "白毫银针",
-        oneLine: "芽上保留着银白绒毛，白茶里最安静的一种。",
+        oneLine: "只取芽头、不炒不揉的白茶精华——银白绒毛之下藏着铃兰香与毫无涩感的绵长甜味。",
         oxidation: "5%",
         ratioNote: "200毫升配3克",
         rounds: "4~5泡",
@@ -1484,7 +1484,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "白毫銀針",
-        oneLine: "芽上保留著銀白絨毛，白茶裡最安靜的一種。",
+        oneLine: "只取芽頭、不炒不揉的白茶精華——銀白絨毛之下藏著鈴蘭香與毫無澀感的綿長甜味。",
         oxidation: "5%",
         ratioNote: "200毫升配3公克",
         rounds: "4~5泡",
@@ -1532,7 +1532,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 8,
       ko: {
         name: "백모단",
-        oneLine: "싹 하나에 잎 두 장 — 은침보다 향이 풍부하고 값은 부드럽습니다.",
+        oneLine: "활짝 핀 모란을 닮은 싹 하나 잎 두 장의 백차 — 흰 꽃과 건초 향 사이로 대추 단맛과 은침보다 깊은 바디가 옵니다.",
         oxidation: "8%",
         ratioNote: "200ml에 4g",
         rounds: "4~5회",
@@ -1545,7 +1545,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "White Peony",
-        oneLine: "One bud and two leaves — more aroma than Silver Needle, at a gentler price.",
+        oneLine: "One bud and two leaves like a peony in bloom — white flowers and hay meet light date sweetness, with more body than Silver Needle.",
         oxidation: "8%",
         ratioNote: "4 g to 200 ml",
         rounds: "4–5 infusions",
@@ -1558,7 +1558,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "白牡丹",
-        oneLine: "一芽两叶——比银针香更丰富，价格也更温和。",
+        oneLine: "一芽两叶如盛开的牡丹——白花与干草香之间透着淡淡的枣甜，汤体比银针更厚。",
         oxidation: "8%",
         ratioNote: "200毫升配4克",
         rounds: "4~5泡",
@@ -1571,7 +1571,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "白牡丹",
-        oneLine: "一芽兩葉——比銀針香更豐富，價格也更溫和。",
+        oneLine: "一芽兩葉如盛開的牡丹——白花與乾草香之間透著淡淡的棗甜，湯體比銀針更厚。",
         oxidation: "8%",
         ratioNote: "200毫升配4公克",
         rounds: "4~5泡",
@@ -1619,7 +1619,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 10,
       ko: {
         name: "수미",
-        oneLine: "잎 위주의 백차. 오래 두고 끓여 마시는 데 가장 알맞습니다.",
+        oneLine: "늙은이 눈썹을 닮아 오래 두고 끓여 마시던 잎 백차 — 건초와 대추, 익은 과일 향이 짙은 살구빛 수색에 담깁니다.",
         oxidation: "10%",
         ratioNote: "200ml에 4g, 끓여 마실 때는 5g에 500ml",
         rounds: "4~5회",
@@ -1632,7 +1632,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Shou Mei",
-        oneLine: "The leaf-forward white tea — the best one for long, slow simmering.",
+        oneLine: "A leaf-forward white tea named for an old man's eyebrows, long kept and simmered — hay, dates and ripe fruit in a deep apricot liquor.",
         oxidation: "10%",
         ratioNote: "4 g to 200 ml; 5 g to 500 ml when simmering",
         rounds: "4–5 infusions",
@@ -1645,7 +1645,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "寿眉",
-        oneLine: "以叶为主的白茶。最适合久放后煮着喝。",
+        oneLine: "因形似寿眉、久放煮饮的叶茶型白茶——干草、红枣与熟果香盛在深杏色的茶汤里。",
         oxidation: "10%",
         ratioNote: "200毫升配4克，煮饮则5克配500毫升",
         rounds: "4~5泡",
@@ -1658,7 +1658,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "壽眉",
-        oneLine: "以葉為主白茶。最適合久放後煮著喝。",
+        oneLine: "因形似壽眉、久放煮飲的葉茶型白茶——乾草、紅棗與熟果香盛在深杏色的茶湯裡。",
         oxidation: "10%",
         ratioNote: "200毫升配4公克，煮飲則5公克配500毫升",
         rounds: "4~5泡",
@@ -1706,7 +1706,7 @@ window.TEAFaiData = (function () {
       oxidationValue: 15,
       ko: {
         name: "노백차",
-        oneLine: "3년이 약, 7년이 보배 — 시간이 만든 백차.",
+        oneLine: "1년은 차, 3년은 약, 7년은 보배라는 푸젠의 노백차 — 세월이 대추·약재·말린 과일 향을 호박빛 수색에 새깁니다.",
         oxidation: "15%",
         ratioNote: "200ml에 5g, 끓여 마시면 5g에 500ml",
         rounds: "5회 이상",
@@ -1719,7 +1719,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Aged White",
-        oneLine: "Three years a medicine, seven a treasure — white tea made by time.",
+        oneLine: "Fujian's aged white — one year a tea, three a medicine, seven a treasure — time writes dates, herbs and dried fruit into a deep amber liquor.",
         oxidation: "15%",
         ratioNote: "5 g to 200 ml; 5 g to 500 ml when simmering",
         rounds: "5 or more infusions",
@@ -1732,7 +1732,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "老白茶",
-        oneLine: "三年是药，七年是宝——时间做成的白茶。",
+        oneLine: "福建老白茶，一年茶、三年药、七年宝——岁月把红枣、药材与干果香刻进深琥珀色的茶汤。",
         oxidation: "15%",
         ratioNote: "200毫升配5克，煮饮则5克配500毫升",
         rounds: "5泡以上",
@@ -1745,7 +1745,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "老白茶",
-        oneLine: "三年是藥，七年是寶——時間做成的白茶。",
+        oneLine: "福建老白茶，一年茶、三年藥、七年寶——歲月把紅棗、藥材與乾果香刻進深琥珀色的茶湯。",
         oxidation: "15%",
         ratioNote: "200毫升配5公克，煮飲則5公克配500毫升",
         rounds: "5泡以上",
@@ -1792,7 +1792,7 @@ window.TEAFaiData = (function () {
       },
       ko: {
         name: "공미",
-        oneLine: "채차 품종으로 만드는, 백모단과 수미 사이의 백차.",
+        oneLine: "채차 품종으로 만들어 백모단과 수미 사이에 선 백차 — 건초와 은은한 꽃향 사이에서 대추 같은 단맛이 또렷하게 납니다.",
         oxidation: "10%",
         ratioNote: "200ml에 4g",
         rounds: "4~5회",
@@ -1805,7 +1805,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Gong Mei",
-        oneLine: "A white tea between Bai Mudan and Shou Mei, made from the cai cha cultivar group.",
+        oneLine: "A cai cha white tea standing between White Peony and Shou Mei — hay and quiet florals frame a date-like sweetness clearer than Shou Mei's.",
         oxidation: "10%",
         ratioNote: "4 g to 200 ml",
         rounds: "4–5 infusions",
@@ -1818,7 +1818,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "贡眉",
-        oneLine: "用菜茶品种制作、介于白牡丹与寿眉之间的白茶。",
+        oneLine: "用菜茶品种制成、介于白牡丹与寿眉之间的白茶——干草与 淡淡的 花香之间，枣甜格外分明。",
         oxidation: "10%",
         ratioNote: "200毫升配4克",
         rounds: "4~5泡",
@@ -1831,7 +1831,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "貢眉",
-        oneLine: "用菜茶品種製作、介於白牡丹與壽眉之間的白茶。",
+        oneLine: "用菜茶品種製成、介於白牡丹與壽眉之間的白茶——乾草與 淡淡的 花香之間，棗甜格外分明。",
         oxidation: "10%",
         ratioNote: "200毫升配4公克",
         rounds: "4~5泡",
@@ -1860,7 +1860,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "육안과편",
-        "싹과 줄기를 떼고 잎만 남겨 멜론 씨처럼 편평하게 만든, 녹차 중 유일한 ‘잎만’ 차.",
+        "싹과 줄기를 떼어 잎만으로 만든 유일한 녹차 — 편평한 잎에서 구운 밤 고소함과 두툼한 바디, 단맛이 옵니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -1874,7 +1874,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lu'an Guapian",
-        "Only leaf and no bud, pressed flat like a melon seed — the one green tea made from leaf alone.",
+        "The only green tea made from leaf alone, buds and stems removed — flat melon-seed leaves give roasted chestnut, a thick body and sweetness.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -1888,7 +1888,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "六安瓜片",
-        "只留叶、不留芽，压成瓜子形的唯一一种“纯叶”绿茶。",
+        "去掉芽与梗、只用叶片制成的唯一绿茶——瓜子形扁叶带来烤栗子的香气、厚实的汤体与回甘。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -1902,7 +1902,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "六安瓜片",
-        "只留葉、不留芽，壓成瓜子形的唯一一種「純葉」綠茶。",
+        "去掉芽與梗、只用葉片製成的唯一綠茶——瓜子形扁葉帶來烤栗子的香氣、厚實的湯體與回甘。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -1931,7 +1931,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "태평후괴",
-        "손바닥만 한 큰 잎에 격자 무늬가 남는, 중국에서 가장 큰 녹차.",
+        "천에 눌러 격자가 남은 중국에서 가장 큰 녹차 — 손바닥만 한 잎에서도 난초 향과 감칠맛이 떫지 않게 납니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -1945,7 +1945,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Taiping Houkui",
-        "A leaf the size of a palm with a cloth grid pressed into it — the largest green tea in China.",
+        "China's largest green tea, pressed in cloth and mesh to a grid — even a palm-sized leaf gives orchid and light umami without bitterness.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -1959,7 +1959,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "太平猴魁",
-        "巴掌大的叶片上留著布纹格印，中国最大的绿茶。",
+        "用布与网压出格纹的中国最大绿茶——巴掌大的叶片也能散发兰花香与淡淡鲜味，毫不苦涩。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -1973,7 +1973,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "太平猴魁",
-        "巴掌大的葉片上留著布紋格印，中國最大的綠茶。",
+        "用布與網壓出格紋的中國最大綠茶——巴掌大的葉片也能散發蘭花香與淡淡鮮味，毫不苦澀。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -2002,7 +2002,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "신양모첨",
-        "바늘처럼 가는 잎에서 풀과 밤 향이 올라오는 허난의 명차.",
+        "1915년 만국박람회 금상에 빛나는 허난의 명차 — 바늘처럼 곧은 가는 잎에서 풀과 밤 향, 산뜻한 떫음이 올라옵니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -2016,7 +2016,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Xinyang Maojian",
-        "Needle-fine leaf carrying grass and chestnut — Henan's famous green.",
+        "Henan's famous tea, gold medallist at the 1915 Panama–Pacific exhibition — needle-straight leaves rise with grass, chestnut and lively astringency.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -2030,7 +2030,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "信阳毛尖",
-        "针一样细的叶子里有青草与栗子的香，河南名茶。",
+        "1915年万国博览会金奖的河南名茶——针一样笔直的细叶升起青草与栗子香，涩感清爽。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -2044,7 +2044,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "信陽毛尖",
-        "針一樣細的葉子裡有青草與栗子的香，河南名茶。",
+        "1915年萬國博覽會金獎的河南名茶——針一樣筆直的細葉升起青草與栗子香，澀感清爽。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -2073,7 +2073,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "여산운무",
-        "안개 속에서 자라 잎이 부드러운 장시의 차.",
+        "한 해 190일 넘게 안개에 잠기는 여산의 차 — 얇은 잎을 천천히 덖어 부드러운 풀 향과 감칠맛이 떫지 않게 남습니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -2087,7 +2087,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lushan Yunwu",
-        "Grown inside the cloud, with a leaf soft enough to bruise easily.",
+        "Tea from Mount Lu, misted over 190 days a year — thin, tender leaves fired slowly give soft grass and umami with little astringency.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -2101,7 +2101,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "庐山云雾",
-        "在云雾里长大，叶子薄而柔软，江西名茶。",
+        "一年190多天云雾缭绕的庐山茶——薄而柔的叶子慢火炒制，留下柔和的草香与鲜味，几乎不涩。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -2115,7 +2115,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "廬山雲霧",
-        "在雲霧裡長大，葉子薄而柔軟，江西名茶。",
+        "一年190多天雲霧繚繞的廬山茶——薄而柔的葉子慢火炒製，留下柔和的草香與鮮味，幾乎不澀。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -2145,7 +2145,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "호지",
-        "센차를 숯불에 볶아 카페인을 줄이고 고소함을 올린 차.",
+        "1920년대 교토에서 시작된 센차의 강한 볶음 — 200도 열이 볶은 곡물·카라멜·나무 향을 내고 쓴맛은 사라집니다.",
         "0%",
         "130ml에 3g",
         "2~3회",
@@ -2159,7 +2159,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Hojicha",
-        "Sencha roasted over charcoal: less caffeine, more roasted sweetness.",
+        "Born in 1920s Kyoto, sencha roasted hard — heat near 200 °C brings roasted grain, caramel and wood, with almost no bitterness.",
         "0%",
         "3 g to 130 ml",
         "2–3 infusions",
@@ -2173,7 +2173,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "焙茶",
-        "把煎茶用炭火焙炒，咖啡因更少、焙香更足。",
+        "1920年代始于京都的煎茶重焙——近200度的热力带来烤谷物、焦糖与木香，几乎没有苦味。",
         "0%",
         "130毫升配3克",
         "2~3泡",
@@ -2187,7 +2187,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "焙茶",
-        "把煎茶用炭火焙炒，咖啡因更少、焙香更足。",
+        "1920年代始於京都的煎茶重焙——近200度的熱力帶來烤穀物、焦糖與木香，幾乎沒有苦味。",
         "0%",
         "200毫升配3公克",
         "2~3泡",
@@ -2217,7 +2217,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "겐마이",
-        "볶은 현미를 센차에 섞은 차 — 차와 밥의 중간.",
+        "에도 서민이 차를 아끼려 볶은 현미를 섞은 차 — 누룽지·팝콘 고소함 아래 센차의 풀 향이 깔립니다.",
         "0%",
         "130ml에 3g (현미 포함)",
         "2~3회",
@@ -2231,7 +2231,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Genmaicha",
-        "Sencha with roasted brown rice — halfway between tea and rice.",
+        "Edo households stretched their tea with roasted brown rice — scorched-rice and popcorn nuttiness over sencha's green edge.",
         "0%",
         "3 g to 130 ml (rice included)",
         "2–3 infusions",
@@ -2245,7 +2245,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "玄米茶",
-        "把焙炒的糙米混进煎茶——茶与饭之间的一杯。",
+        "江户时代平民为省茶而混入焙炒糙米——锅巴与爆米花的香气之下，垫着煎茶的青草香。",
         "0%",
         "130毫升配3克（含玄米）",
         "2~3泡",
@@ -2259,7 +2259,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "玄米茶",
-        "把焙炒的糙米混進煎茶——茶與飯之間的一杯。",
+        "江戶時代平民為省茶而混入焙炒糙米——鍋巴與爆米花的香氣之下，墊著煎茶的青草香。",
         "0%",
         "200毫升配3公克（含玄米）",
         "2~3泡",
@@ -2290,7 +2290,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "우전 (하동)",
-        "곡우 전, 지리산 자락에서 딴 한 해의 첫 잎.",
+        "신라 때부터 이어진 하동, 곡우 전의 가장 이른 잎 — 야생 차밭 잎에서 풋풋한 향과 고소함, 긴 감칠맛이 남습니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -2304,7 +2304,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Ujeon (Hadong)",
-        "The year's first leaf from the foot of Jirisan, picked before Grain Rain.",
+        "Hadong, a tea district since Silla, and its earliest leaf before Grain Rain — wild Jirisan gardens give fresh leaf, toast and a long umami.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -2318,7 +2318,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "河东雨前",
-        "谷雨前，在智异山脚下采下的一年第一片叶。",
+        "新罗时代延续至今的河东，谷雨前最早的叶子——智异山野生茶园带来清新香气、焙香与绵长的鲜味。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -2332,7 +2332,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "河東雨前",
-        "穀雨前，在智異山腳下採下的一年第一片葉。",
+        "新羅時代延續至今的河東，穀雨前最早的葉子——智異山野生茶園帶來清新香氣、焙香與綿長的鮮味。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -2359,7 +2359,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "세작",
-        "곡우 뒤 입하 전, 참새 혀처럼 여린 두 번째 잎.",
+        "참새 혀처럼 여린 곡우 뒤 두 번째 잎 — 우전보다 진한 풀 향과 고소함이 끝에 가벼운 떫음을 남기며 이어집니다.",
         "0%",
         "150ml에 3g",
         "3회",
@@ -2373,7 +2373,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Sejak",
-        "After Grain Rain and before early summer: the second pick, tender as a sparrow's tongue.",
+        "The second pick after Grain Rain, tender as a sparrow's tongue — stronger grass and toast than ujeon, closing with a light astringency.",
         "0%",
         "3 g to 150 ml",
         "3 infusions",
@@ -2387,7 +2387,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "细雀",
-        "谷雨后、立夏前，像麻雀舌头一样细嫩的第二批叶。",
+        "谷雨后如麻雀舌头般细嫩的第二批叶——比雨前更浓的草香与焙香，尾端留下淡淡的涩。",
         "0%",
         "150毫升配3克",
         "3泡",
@@ -2401,7 +2401,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "細雀",
-        "穀雨後、立夏前，像麻雀舌頭一樣細嫩的第二批葉。",
+        "穀雨後如麻雀舌頭般細嫩的第二批葉——比雨前更濃的草香與焙香，尾端留下淡淡的澀。",
         "0%",
         "150毫升配3公克",
         "3泡",
@@ -2428,7 +2428,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "중작",
-        "입하 뒤 망종 전, 잎이 두꺼워진 세 번째 잎.",
+        "입하 뒤 잎이 두꺼워진 세 번째 등급 '중간 참새' — 센 불에 짧게 덖어 구수함과 떫음이 짙은 수색에 함께 옵니다.",
         "0%",
         "150ml에 3g",
         "3회",
@@ -2442,7 +2442,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Jungjak",
-        "Between early summer and Grain in Ear: the third pick, when the leaf thickens.",
+        "The third grade, the 'middle sparrow', picked as leaves thicken after early summer — a hot, short firing pairs toast with astringency in deep green liquor.",
         "0%",
         "3 g to 150 ml",
         "3 infusions",
@@ -2456,7 +2456,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "中雀",
-        "立夏后、芒种前，叶片变厚的第三批。",
+        "立夏后叶片变厚的第三等级“中雀”——高火短炒，焙香与涩感一同盛在深绿的茶汤里。",
         "0%",
         "150毫升配3克",
         "3泡",
@@ -2470,7 +2470,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "中雀",
-        "立夏後、芒種前，葉片變厚的第三批。",
+        "立夏後葉片變厚的第三等級「中雀」——高火短炒，焙香與澀感一同盛在深綠的茶湯裡。",
         "0%",
         "150毫升配3公克",
         "3泡",
@@ -2497,7 +2497,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "대작",
-        "여름에 딴 굵은 잎 — 매일 마시는 한국의 생활차.",
+        "망종 뒤 여름에 딴 등급의 마지막 '큰 참새' — 굵은 잎의 구수함과 떫음이 식을수록 부드러워지는 생활차입니다.",
         "0%",
         "150ml에 3g, 끓여 마셔도",
         "2~3회",
@@ -2511,7 +2511,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Daejak",
-        "The coarse summer leaf — Korea's everyday cup.",
+        "The last picking grade, the 'big sparrow' of summer after Grain in Ear — coarse leaf, toast and clear astringency that softens as the cup cools.",
         "0%",
         "3 g to 150 ml; good simmered",
         "2–3 infusions",
@@ -2525,7 +2525,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "大雀",
-        "夏天采的粗叶——韩国每天喝的生活茶。",
+        "芒种后夏季采摘的最后等级“大雀”——粗叶的焙香与分明的涩感，放凉后愈发柔和的日常茶。",
         "0%",
         "150毫升配3克，也可煮",
         "2~3泡",
@@ -2539,7 +2539,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "大雀",
-        "夏天採的粗葉——韓國每天喝的生活茶。",
+        "芒種後夏季採摘的最後等級「大雀」——粗葉的焙香與分明的澀感，放涼後愈發柔和的日常茶。",
         "0%",
         "150毫升配3公克，也可煮",
         "2~3泡",
@@ -2568,7 +2568,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "죽로차",
-        "하동 야생 차나무를 손으로 덖어 만드는, 한국 녹차의 가장 오래된 방식.",
+        "가마솥에서 두 손으로 300번 넘게 뒤집어 덖는 하동 야생차 — 깊은 감칠맛과 꽃 향이 떫음 없이 맑게 남습니다.",
         "0%",
         "150ml에 3g",
         "3~4회",
@@ -2582,7 +2582,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Jukro",
-        "Wild Hadong bushes fired entirely by hand — the oldest way of making Korean green tea.",
+        "Wild Hadong leaf turned over 300 times by hand in an iron pot — deep umami and a floral note stay clear, with little astringency.",
         "0%",
         "3 g to 150 ml",
         "3–4 infusions",
@@ -2596,7 +2596,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "竹露茶",
-        "用手工炒制河东野生茶树的韩国最古老绿茶做法。",
+        "在铁锅里双手翻炒三百多次的河东野生茶——深厚的鲜味与花香清澈留存，几乎不涩。",
         "0%",
         "150毫升配3克",
         "3~4泡",
@@ -2610,7 +2610,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "竹露茶",
-        "用手工炒製河東野生茶樹的韓國最古老綠茶做法。",
+        "在鐵鍋裡雙手翻炒三百多次的河東野生茶——深厚的鮮味與花香清澈留存，幾乎不澀。",
         "0%",
         "150毫升配3公克",
         "3~4泡",
@@ -2639,7 +2639,7 @@ window.TEAFaiData = (function () {
       ox: 10,
       ko: [
         "군산은침",
-        "둥팅호의 섬에서 나는, 황차 가운데 가장 이름난 은침.",
+        "둥팅호 섬에서 나 황금보다 귀하다던 황차의 은침 — 종이에 싸 익힌 싹이 물에 서며 옥수수·버터 같은 단맛을 냅니다.",
         "10%",
         "150ml에 3g",
         "3회",
@@ -2653,7 +2653,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Junshan Yinzhen",
-        "The best known silver needle of the yellow teas, from an island in Dongting Lake.",
+        "The yellow-tea silver needle from a Dongting island, once worth more than gold — paper-yellowed buds stand in the glass with corn-and-butter sweetness.",
         "10%",
         "3 g to 150 ml",
         "3 infusions",
@@ -2667,7 +2667,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "君山银针",
-        "产于洞庭湖小岛，黄茶中最有名的银针。",
+        "出自洞庭湖小岛、曾贵过黄金的黄茶银针——纸包闷黄的芽在水中直立，带来玉米与黄油般的甜。",
         "10%",
         "150毫升配3克",
         "3泡",
@@ -2681,7 +2681,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "君山銀針",
-        "產於洞庭湖小島，黃茶中最有名的銀針。",
+        "出自洞庭湖小島、曾貴過黃金的黃茶銀針——紙包悶黃的芽在水中直立，帶來玉米與黃油般的甜。",
         "10%",
         "150毫升配3公克",
         "3泡",
@@ -2709,7 +2709,7 @@ window.TEAFaiData = (function () {
       ox: 15,
       ko: [
         "몽정황아",
-        "쓰촨 몽정산의 가장 오래된 명차 — 황차의 원형.",
+        "서한 때 차를 심었다는 몽정산의 오래된 명차 — 쌓아 익힌 싹에서 옥수수·버터 향과 부드러운 단맛이 납니다.",
         "15%",
         "150ml에 3g",
         "3회",
@@ -2723,7 +2723,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Mengding Huangya",
-        "The oldest famous tea of Mount Mengding in Sichuan — the original yellow tea.",
+        "Among China's oldest famous teas, from a mountain planted in the Western Han — piled, yellowed buds give corn, butter and a soft sweetness.",
         "15%",
         "3 g to 150 ml",
         "3 infusions",
@@ -2737,7 +2737,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "蒙顶黄芽",
-        "四川蒙顶山最古老的名茶——黄茶的原型。",
+        "西汉种茶的蒙顶山最古老名茶之一——炒后堆闷的芽带来玉米、黄油香与柔和的甜味。",
         "15%",
         "150毫升配3克",
         "3泡",
@@ -2751,7 +2751,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "蒙頂黃芽",
-        "四川蒙頂山最古老的名茶——黃茶的原型。",
+        "西漢種茶的蒙頂山最古老名茶之一——炒後堆悶的芽帶來玉米、奶油香與柔和的甜味。",
         "15%",
         "150毫升配3公克",
         "3泡",
@@ -2779,7 +2779,7 @@ window.TEAFaiData = (function () {
       ox: 15,
       ko: [
         "곽산황아",
-        "안후이 곽산의 작은 황차 — 대나무 숲 사이 차밭.",
+        "명나라 때 공차로 오른 곽산의 대나무 숲 차 — 살짝 덖어 익힌 잎에서 부드러운 곡물 향과 단맛, 옅은 떫음이 옵니다.",
         "15%",
         "150ml에 3g",
         "3회",
@@ -2793,7 +2793,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Huoshan Huangya",
-        "A small yellow tea from Huoshan, grown among bamboo.",
+        "A Ming tribute tea from Huoshan's bamboo groves — lightly fired, yellowed leaves give soft grain and sweetness with a faint astringency.",
         "15%",
         "3 g to 150 ml",
         "3 infusions",
@@ -2807,7 +2807,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "霍山黄芽",
-        "安徽霍山的小叶黄茶——竹林中生长的茶园。",
+        "明代贡茶、产于霍山竹林的茶——轻炒闷黄的叶子带来柔和的谷物香与甜味，尾端微涩。",
         "15%",
         "150毫升配3克",
         "3泡",
@@ -2821,7 +2821,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "霍山黃芽",
-        "安徽霍山的小葉黃茶——竹林中生長的茶園。",
+        "明代貢茶、產於霍山竹林的茶——輕炒悶黃的葉子帶來柔和的穀物香與甜味，尾端微澀。",
         "15%",
         "150毫升配3公克",
         "3泡",
@@ -2851,7 +2851,7 @@ window.TEAFaiData = (function () {
       ox: 30,
       ko: [
         "철관음 (안계)",
-        "난초 향과 관음운(觀音韻) — 반구형으로 뭉친 우롱차의 대표.",
+        "관음암 근처 나무에서 시작된 안계의 대표 우롱 — 반구형 잎에서 난초·백합 향과 크림 질감, 회감이 옵니다.",
         "30%",
         "개완 110ml에 7g",
         "7~8회",
@@ -2865,7 +2865,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Anxi Tieguanyin",
-        "Orchid aroma and guanyin yun — the benchmark oolong, rolled into tight hemispheres.",
+        "Anxi's benchmark oolong, traced to a bush found near a Guanyin temple — tight hemispheres give orchid and lily, creaminess and returning sweetness.",
         "30%",
         "7 g to 110 ml in a gaiwan",
         "7–8 infusions",
@@ -2879,7 +2879,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "安溪铁观音",
-        "兰花香气与“观音韵”——揉成半球形的乌龙茶代表。",
+        "源于观音岩旁一株茶树的安溪代表乌龙——半球形叶带来兰花与百合香、奶油质地与回甘。",
         "30%",
         "盖碗110毫升配7克",
         "7~8泡",
@@ -2893,7 +2893,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "安溪鐵觀音",
-        "蘭花香氣與「觀音韻」——揉成半球形的烏龍茶代表。",
+        "源於觀音岩旁一株茶樹的安溪代表烏龍——半球形葉帶來蘭花與百合香、奶油質地與回甘。",
         "30%",
         "蓋碗110毫升配7公克",
         "7~8泡",
@@ -2923,7 +2923,7 @@ window.TEAFaiData = (function () {
       ox: 55,
       ko: [
         "대홍포 (무이)",
-        "바위 틈에서 자란 잎을 강하게 배화한, 암운(岩韻)의 차.",
+        "붉은 도포 전설과 절벽 모수를 품은 무이 암차 — 숯불에 구운 잎에서 코코아와 젖은 바위 향, 긴 여운이 남습니다.",
         "55%",
         "개완 110ml에 7g",
         "8~10회",
@@ -2937,7 +2937,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Da Hong Pao (Wuyi)",
-        "Rock-grown leaf roasted hard — the tea of yan yun, the rock rhyme.",
+        "Wuyi rock tea of the red-robe legend and cliff mother bushes — leaves roasted three to six times over charcoal leave cocoa, wet rock and a long finish.",
         "55%",
         "7 g to 110 ml in a gaiwan",
         "8–10 infusions",
@@ -2951,7 +2951,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "武夷大红袍",
-        "岩缝里长出的叶子重度焙火——岩韵之茶。",
+        "带着红袍传说与悬崖母树的武夷岩茶——炭火焙过三到六次的叶子留下可可、湿岩石香与长长余韵。",
         "55%",
         "盖碗110毫升配7克",
         "8~10泡",
@@ -2965,7 +2965,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "武夷大紅袍",
-        "岩縫裡長出的葉子重度焙火——岩韻之茶。",
+        "帶著紅袍傳說與懸崖母樹的武夷岩茶——炭火焙過三到六次的葉子留下可可、濕岩石香與長長餘韻。",
         "55%",
         "蓋碗110毫升配7公克",
         "8~10泡",
@@ -2993,7 +2993,7 @@ window.TEAFaiData = (function () {
       ox: 40,
       ko: [
         "봉황단총",
-        "한 그루에서 한 향 — 나무마다 이름이 붙은 광둥의 향 차.",
+        "봉황산 고목을 한 그루씩 따로 만드는 '한 그루 한 향' — 백화·치자·꿀 향이 선명하게 피고 회감이 옵니다.",
         "40%",
         "개완 110ml에 7g",
         "10회 이상",
@@ -3007,7 +3007,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Phoenix Dancong",
-        "One bush, one aroma — single-tree oolongs from Guangdong, each with its own name.",
+        "Phoenix Mountain's old bushes, each made separately — one bush, one aroma of white flowers, gardenia and honey, closing with returning sweetness.",
         "40%",
         "7 g to 110 ml in a gaiwan",
         "10 or more infusions",
@@ -3021,7 +3021,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "凤凰单丛",
-        "一树一香——每棵茶树都有一个名字的广东香茶。",
+        "凤凰山老树一棵棵单独制作的“一树一香”——白花、栀子与蜜香分明绽放，最后回甘。",
         "40%",
         "盖碗110毫升配7克",
         "10泡以上",
@@ -3035,7 +3035,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "鳳凰單叢",
-        "一樹一香——每棵茶樹都有一個名字的廣東香茶。",
+        "鳳凰山老樹一棵棵單獨製作的「一樹一香」——白花、梔子與蜜香分明綻放，最後回甘。",
         "40%",
         "蓋碗110毫升配7公克",
         "10泡以上",
@@ -3063,7 +3063,7 @@ window.TEAFaiData = (function () {
       ox: 25,
       ko: [
         "동정우롱",
-        "대만 중부 산기슭의 중배화 우롱 — 밤과 꽃 향의 균형.",
+        "1855년 우이산 묘목에서 시작된 대만의 중배화 우롱 — 구운 곡물과 밤, 난초 향이 부드러운 단맛과 균형을 이룹니다.",
         "25%",
         "150ml에 6g",
         "6~8회",
@@ -3077,7 +3077,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Dong Ding",
-        "A mid-roasted oolong from Taiwan's central foothills — chestnut and flower in balance.",
+        "Taiwan's mid-roasted oolong, traced to 36 Wuyi seedlings brought in 1855 — roasted grain, chestnut and orchid balance over a soft sweetness.",
         "25%",
         "6 g to 150 ml",
         "6–8 infusions",
@@ -3091,7 +3091,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "冻顶乌龙",
-        "台湾中部山脚的中焙乌龙——栗子与花香的平衡。",
+        "源于1855年武夷山36株苗木的台湾中焙乌龙——烤谷物、栗子与兰花香在柔和甜味上取得平衡。",
         "25%",
         "150毫升配6克",
         "6~8泡",
@@ -3105,7 +3105,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "凍頂烏龍",
-        "台灣中部山腳的中焙烏龍——栗子與花香的平衡。",
+        "源於1855年武夷山36株苗木的台灣中焙烏龍——烤穀物、栗子與蘭花香在柔和甜味上取得平衡。",
         "25%",
         "150毫升配6公克",
         "6~8泡",
@@ -3134,7 +3134,7 @@ window.TEAFaiData = (function () {
       ox: 20,
       ko: [
         "고산우롱 (아리산)",
-        "해발 1,200m 위, 청량한 난초 향의 대만 고산차.",
+        "1980년대 고산차 붐으로 넓어진 아리산 고산우롱 — 두꺼운 잎에서 난초·크림·청사과 향과 맑고 긴 단맛이 납니다.",
         "20%",
         "150ml에 6g",
         "6~8회",
@@ -3148,7 +3148,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "High Mountain Oolong (Alishan)",
-        "Above 1,200 m: a cool orchid-scented high-mountain tea from Taiwan.",
+        "Alishan high-mountain oolong, spread in the 1980s tea boom — thick leaves give orchid, cream and green apple over a clear, long sweetness.",
         "20%",
         "6 g to 150 ml",
         "6–8 infusions",
@@ -3162,7 +3162,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "阿里山高山乌龙",
-        "海拔1200米以上，清凉兰花香气的台湾高山茶。",
+        "1980年代随高山茶热潮扩展的阿里山乌龙——厚叶带来兰花、奶油与青苹果香，甜味清澈绵长。",
         "20%",
         "150毫升配6克",
         "6~8泡",
@@ -3176,7 +3176,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "阿里山高山烏龍",
-        "海拔1200米以上，清涼蘭花香氣的台灣高山茶。",
+        "1980年代隨高山茶熱潮擴展的阿里山烏龍——厚葉帶來蘭花、奶油與青蘋果香，甜味清澈綿長。",
         "20%",
         "150毫升配6公克",
         "6~8泡",
@@ -3205,7 +3205,7 @@ window.TEAFaiData = (function () {
       ox: 60,
       ko: [
         "동방미인",
-        "매미가 물어야 나는 꿀 향 — 대만의 대표 백호우롱.",
+        "빅토리아 여왕이 '동방의 미인'이라 불렀다는 백호우롱 — 매미가 문 잎에서 꿀·복숭아·장미 향과 둥근 단맛이 납니다.",
         "60%",
         "150ml에 6g",
         "5~6회",
@@ -3219,7 +3219,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Oriental Beauty",
-        "The honey that only a leafhopper can make — Taiwan's signature heavily oxidised oolong.",
+        "The white-tip oolong Queen Victoria is said to have named Oriental Beauty — leafhopper-bitten leaves give honey, ripe peach and rose with round sweetness.",
         "60%",
         "6 g to 150 ml",
         "5–6 infusions",
@@ -3233,7 +3233,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "东方美人",
-        "被小绿叶蝉咬过才有蜜香——台湾代表性的重发酵乌龙。",
+        "维多利亚女王誉为“东方美人”的白毫乌龙——被小绿叶蝉咬过的叶子带来蜜、熟桃与玫瑰香，甜味圆润。",
         "60%",
         "150毫升配6克",
         "5~6泡",
@@ -3247,7 +3247,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "東方美人",
-        "被小綠葉蟬咬過才有蜜香——台灣代表性的重發酵烏龍。",
+        "維多利亞女王譽為「東方美人」的白毫烏龍——被小綠葉蟬咬過的葉子帶來蜜、熟桃與玫瑰香，甜味圓潤。",
         "60%",
         "150毫升配6公克",
         "5~6泡",
@@ -3295,7 +3295,7 @@ window.TEAFaiData = (function () {
       },
       ko: {
         name: "사계춘",
-        oneLine: "한 해에 네 번, 봄처럼 싹이 나 다시 사계춘. 대만에서 가장 흔히 만나는 가벼운 우롱.",
+        oneLine: "사계절 싹을 올려 이름 붙은 무자의 우연한 한 그루 — 가볍게 산화한 잎에서 치자·재스민 꽃향과 단맛이 납니다.",
         oxidation: "15~20%",
         ratioNote: "150ml에 4g",
         rounds: "3~4회",
@@ -3308,7 +3308,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Si Ji Chun",
-        oneLine: "Four harvests a year, each spring-like: the light oolong you meet most often in Taiwan.",
+        oneLine: "Named for a chance Muzha tree that flushed all year — lightly oxidised leaves give gardenia and jasmine florals with a light sweetness.",
         oxidation: "15–20%",
         ratioNote: "4 g to 150 ml",
         rounds: "3–4 infusions",
@@ -3321,7 +3321,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "四季春",
-        oneLine: "一年四季都像春天发芽，台湾最常见的清爽型乌龙。",
+        oneLine: "因木栅一株四季发芽的偶然茶树得名——轻发酵叶片带来栀子与茉莉花香，甜味轻盈。",
         oxidation: "15~20%",
         ratioNote: "150毫升配4克",
         rounds: "3~4泡",
@@ -3334,7 +3334,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "四季春",
-        oneLine: "一年四季都像春天發芽，台灣最常見的清爽型烏龍。",
+        oneLine: "因木柵一株四季發芽的偶然茶樹得名——輕發酵葉片帶來梔子與茉莉花香，甜味輕盈。",
         oxidation: "15~20%",
         ratioNote: "150毫升配4公克",
         rounds: "3~4泡",
@@ -3382,7 +3382,7 @@ window.TEAFaiData = (function () {
       },
       ko: {
         name: "금훤",
-        oneLine: "우유 같은 크림 향이 잎에서 자연스럽게 나는 대만 12호 — ‘밀키 우롱’으로도 부르는, 부드럽고 둥근 우롱.",
+        oneLine: "1981년 등록된 대만 12호 품종의 우롱 — 잎 자체에서 우유·크림 향과 재스민이 나고 둥근 단맛이 남습니다.",
         oxidation: "15~20%",
         ratioNote: "150ml에 4g",
         rounds: "3~4회",
@@ -3395,7 +3395,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Jin Xuan",
-        oneLine: "Taiwan's No. 12 cultivar, whose creamy, milky scent comes from the leaf itself — also sold as Milky Oolong; a soft, round cup.",
+        oneLine: "Taiwan's TTES No. 12, registered in 1981 — the leaf itself gives milk and cream with jasmine, closing in rounded sweetness.",
         oxidation: "15–20%",
         ratioNote: "4 g to 150 ml",
         rounds: "3–4 infusions",
@@ -3408,7 +3408,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "金萱烏龍",
-        oneLine: "奶香来自叶片本身的台茶十二号，柔顺圆润的乌龙，也叫奶香乌龙。",
+        oneLine: "1981年登记的台茶十二号乌龙——叶片本身散发牛奶与奶油香，伴着茉莉，甜味圆润收尾。",
         oxidation: "15~20%",
         ratioNote: "150毫升配4克",
         rounds: "3~4泡",
@@ -3421,7 +3421,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "金萱烏龍",
-        oneLine: "奶香來自葉片本身的台茶十二號，柔順圓潤的烏龍，也叫奶香烏龍。",
+        oneLine: "1981年登記的台茶十二號烏龍——葉片本身散發牛奶與奶油香，伴著茉莉，甜味圓潤收尾。",
         oxidation: "15~20%",
         ratioNote: "150毫升配4公克",
         rounds: "3~4泡",
@@ -3469,7 +3469,7 @@ window.TEAFaiData = (function () {
       },
       ko: {
         name: "포종",
-        oneLine: "향을 종이로 감싸 두던 데서 이름이 온, 타이완 북부의 가벼운 우롱.",
+        oneLine: "향을 종이에 싸던 데서 이름 온 문산의 가벼운 우롱 — 녹차에 가까운 산화에서 난초·치자 꽃향이 맑게 납니다.",
         oxidation: "8~12%",
         ratioNote: "150ml에 3g",
         rounds: "3회",
@@ -3482,7 +3482,7 @@ window.TEAFaiData = (function () {
       },
       en: {
         name: "Wen Shan Pouchong",
-        oneLine: "A light northern Taiwanese oolong named for the paper its scent was once wrapped in.",
+        oneLine: "Wen Shan's light oolong, named for paper that once wrapped its scent — oxidation close to green tea keeps orchid and gardenia clear and light.",
         oxidation: "8–12%",
         ratioNote: "3 g to 150 ml",
         rounds: "3 infusions",
@@ -3495,7 +3495,7 @@ window.TEAFaiData = (function () {
       },
       "zh-CN": {
         name: "包种茶",
-        oneLine: "因用纸包住香气而得名的台湾北部轻发酵乌龙。",
+        oneLine: "因用纸包裹保存香气得名的文山轻乌龙——接近绿茶的发酵度让兰花与栀子香清澈轻盈。",
         oxidation: "8~12%",
         ratioNote: "150毫升配3克",
         rounds: "3泡",
@@ -3508,7 +3508,7 @@ window.TEAFaiData = (function () {
       },
       "zh-TW": {
         name: "包種茶",
-        oneLine: "因用紙包住香氣而得名的台灣北部輕發酵烏龍。",
+        oneLine: "因用紙包裹保存香氣得名的文山輕烏龍——接近綠茶的發酵度讓蘭花與梔子香清澈輕盈。",
         oxidation: "8~12%",
         ratioNote: "150毫升配3公克",
         rounds: "3泡",
@@ -3538,7 +3538,7 @@ window.TEAFaiData = (function () {
       ox: 85,
       ko: [
         "다즐링",
-        "봄의 첫 싹, 포도와 꽃 — ‘차의 샴페인’.",
+        "히말라야 2,000m 안개밭의 '차의 샴페인' 첫물 — 산화를 낮게 멈춰 청포도·머스캣·흰 꽃 향이 가볍게 피어납니다.",
         "85%",
         "200ml에 3g",
         "1~2회",
@@ -3552,7 +3552,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Darjeeling First Flush",
-        "The spring bud: grape and flower, the champagne of tea.",
+        "The 'champagne of tea' first flush from misty gardens at 2,000 m in the Himalaya — low oxidation lets green grape, muscatel and white flowers bloom lightly.",
         "85%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3566,7 +3566,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "大吉岭春摘",
-        "春天的第一芽，葡萄与花香——“茶中香槟”。",
+        "喜马拉雅2000米云雾园的“茶中香槟”头摘——低发酵让青葡萄、麝香葡萄与白花香轻盈绽放。",
         "85%",
         "200毫升配3克",
         "1~2泡",
@@ -3580,7 +3580,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "大吉嶺春摘",
-        "春天的第一芽，葡萄與花香——「茶中香檳」。",
+        "喜馬拉雅2000米雲霧園的「茶中香檳」頭摘——低發酵讓青葡萄、麝香葡萄與白花香輕盈綻放。",
         "85%",
         "200毫升配3公克",
         "1~2泡",
@@ -3608,7 +3608,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "아쌈",
-        "몰트 향과 두꺼운 바디 — 밀크티의 뼈대.",
+        "세계 최대 홍차 산지, 브라마푸트라 평원의 큰잎 차 — 몰트·꿀·건포도 향과 두꺼운 바디가 밀크티의 뼈대를 이룹니다.",
         "95%",
         "200ml에 5g, 밀크티는 150ml에 5g",
         "1~2회",
@@ -3622,7 +3622,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Assam",
-        "Malt and a thick body — the backbone of milk tea.",
+        "Large-leaf tea from the Brahmaputra plain, the world's largest black-tea region — malt, honey and raisins in a thick body, the backbone of milk tea.",
         "95%",
         "5 g to 200 ml; 5 g to 150 ml for milk tea",
         "1–2 infusions",
@@ -3636,7 +3636,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "阿萨姆",
-        "麦芽香与厚重的汤体——奶茶的骨架。",
+        "世界最大红茶产区布拉马普特拉平原的大叶茶——麦芽、蜂蜜与葡萄干香盛在厚实汤体里，是奶茶的骨架。",
         "95%",
         "200毫升配5克，奶茶用150毫升配5克",
         "1~2泡",
@@ -3650,7 +3650,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "阿薩姆",
-        "麥芽香與厚重的湯體——奶茶的骨幹。",
+        "世界最大紅茶產區布拉馬普特拉平原的大葉茶——麥芽、蜂蜜與葡萄乾香盛在厚實湯體裡，是奶茶的骨架。",
         "95%",
         "200毫升配5公克，奶茶用150毫升配5公克",
         "1~2泡",
@@ -3676,10 +3676,10 @@ window.TEAFaiData = (function () {
       l: "3g",
       s: [120, 180],
       ox: 95,
-      ko: ["아쌈 CTC", "잘게 부순 잎이 내는 빠르고 진한 힘 — 차이와 티백의 주인공.", "95%", "150ml에 3g, 스트레이트는 200ml에 3g", "1~2회", "100도에서 2분. 길게 우리면 떫어집니다.", "인도 아쌈, 브라마푸트라강 유역의 평원 다원. 아쌈 생산량의 대부분이 CTC로 가공됩니다.", "위조 → CTC(부수고·찢고·말기) → 산화 → 건조. 롤러가 잎을 과립처럼 잘게 부숴 짧은 시간에 진하게 우러납니다.", "1930년 아쌈의 아뭉구리 다원에서 윌리엄 맥커처의 감독 아래 첫 CTC 기계가 가동된 것이 시작입니다. 지금은 인도·아프리카 홍차의 표준 방식입니다.", "강한 몰트와 산뜻한 떫음, 진한 붉은빛. 오서독스 아쌈보다 거칠지만 우유·설탕·향신료를 이겨 냅니다.", "마살라 차이, 밀크티, 클로티드 크림을 올린 스콘, 진한 초콜릿 디저트가 잘 어울립니다. 빠르고 진하게 우러나는 힘이 우유와 향신료 속에서도 중심을 잡아 줍니다. 아주 섬세한 디저트는 강한 떫음에 눌리기 쉬워요.", "100도에서 2분을 넘기지 마세요. 우유를 넣을 땐 150ml에 3g으로 진하게 우려야 우유에 지지 않습니다."],
-      en: ["Assam CTC", "Crushed leaf that brews fast and strong — the star of chai and tea bags.", "95%", "3 g to 150 ml; 3 g to 200 ml straight", "1–2 infusions", "100 °C for 2 minutes — longer turns bitter.", "The plains estates of Assam, India, along the Brahmaputra. Most of Assam's output is made as CTC.", "Withering → CTC (crush, tear, curl) → oxidation → drying. Rollers shred the leaf into granules that colour the cup in moments.", "The first CTC machine entered service in 1930 at the Amgoorie estate in Assam, under William McKercher. It is now the standard method for Indian and African black tea.", "Bold malt and brisk astringency with a deep red liquor; rougher than orthodox Assam, but it stands up to milk, sugar and spice.", "Masala chai, milk tea, scones with clotted cream and rich chocolate desserts all work well. Its fast, strong extraction holds its centre through milk and spice. Very delicate desserts are easily pressed down by its briskness.", "Keep it under 2 minutes at 100 °C. For milk, brew strong — 3 g to 150 ml — so it does not fade."],
-      "zh-CN": ["阿萨姆CTC", "碎叶出汤快而浓——印度奶茶与茶包的主角。", "95%", "150毫升配3克，直饮200毫升配3克", "1~2泡", "100度泡2分钟，久泡会苦。", "印度阿萨姆，布拉马普特拉河流域的平原茶园。阿萨姆产量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·卷曲） → 发酵 → 干燥。滚筒把叶片碾成小颗粒，片刻就出浓色。", "1930年，阿萨姆Amgoorie茶园在William McKercher监督下让第一台CTC机投入使用。如今它已是印度与非洲红茶的标准工艺。", "强麦芽与爽利的涩，汤色深红。比传统阿萨姆粗犷，但顶得住牛奶、糖与香料。", "玛萨拉奶茶、奶茶、司康配凝脂奶油和浓郁巧克力甜点都很合适。它出汤快而有力，在牛奶与香料中也能站稳中心。味道细腻的甜点容易被它的爽涩压住。", "100度不要超过2分钟。加奶时用150毫升配3克，泡浓一些才不会被牛奶冲淡。"],
-      "zh-TW": ["阿薩姆CTC", "碎葉出湯快而濃——印度奶茶與茶包的主角。", "95%", "150毫升配3公克，直飲200毫升配3公克", "1~2泡", "100度泡2分鐘，久泡會苦。", "印度阿薩姆，布拉馬普特拉河流域的平原茶園。阿薩姆產量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·捲曲） → 發酵 → 乾燥。滾筒把葉片碾成小顆粒，片刻就出濃色。", "1930年，阿薩姆Amgoorie茶園在William McKercher監督下讓第一台CTC機投入使用。如今它已是印度與非洲紅茶的標準工藝。", "強麥芽與爽利的澀，湯色深紅。比傳統阿薩姆粗獷，但頂得住牛奶、糖與香料。", "瑪薩拉奶茶、奶茶、司康配凝脂奶油和濃郁巧克力甜點都很合適。它出湯快而有力，在牛奶與香料中也能站穩中心。味道細膩的甜點容易被它的爽澀壓住。", "100度不要超過2分鐘。加奶時用150毫升配3公克，泡濃一些才不會被牛奶沖淡。"]
+      ko: ["아쌈 CTC", "1930년 첫 CTC 기계가 돌던 아쌈의 홍차 — 과립 잎이 진한 붉은빛과 강한 몰트를 우유·향신료 속에서도 냅니다.", "95%", "150ml에 3g, 스트레이트는 200ml에 3g", "1~2회", "100도에서 2분. 길게 우리면 떫어집니다.", "인도 아쌈, 브라마푸트라강 유역의 평원 다원. 아쌈 생산량의 대부분이 CTC로 가공됩니다.", "위조 → CTC(부수고·찢고·말기) → 산화 → 건조. 롤러가 잎을 과립처럼 잘게 부숴 짧은 시간에 진하게 우러납니다.", "1930년 아쌈의 아뭉구리 다원에서 윌리엄 맥커처의 감독 아래 첫 CTC 기계가 가동된 것이 시작입니다. 지금은 인도·아프리카 홍차의 표준 방식입니다.", "강한 몰트와 산뜻한 떫음, 진한 붉은빛. 오서독스 아쌈보다 거칠지만 우유·설탕·향신료를 이겨 냅니다.", "마살라 차이, 밀크티, 클로티드 크림을 올린 스콘, 진한 초콜릿 디저트가 잘 어울립니다. 빠르고 진하게 우러나는 힘이 우유와 향신료 속에서도 중심을 잡아 줍니다. 아주 섬세한 디저트는 강한 떫음에 눌리기 쉬워요.", "100도에서 2분을 넘기지 마세요. 우유를 넣을 땐 150ml에 3g으로 진하게 우려야 우유에 지지 않습니다."],
+      en: ["Assam CTC", "CTC black tea, begun with the first machine at Amgoorie in 1930 — granule leaf brews deep red and bold malt that stands up to milk and spice.", "95%", "3 g to 150 ml; 3 g to 200 ml straight", "1–2 infusions", "100 °C for 2 minutes — longer turns bitter.", "The plains estates of Assam, India, along the Brahmaputra. Most of Assam's output is made as CTC.", "Withering → CTC (crush, tear, curl) → oxidation → drying. Rollers shred the leaf into granules that colour the cup in moments.", "The first CTC machine entered service in 1930 at the Amgoorie estate in Assam, under William McKercher. It is now the standard method for Indian and African black tea.", "Bold malt and brisk astringency with a deep red liquor; rougher than orthodox Assam, but it stands up to milk, sugar and spice.", "Masala chai, milk tea, scones with clotted cream and rich chocolate desserts all work well. Its fast, strong extraction holds its centre through milk and spice. Very delicate desserts are easily pressed down by its briskness.", "Keep it under 2 minutes at 100 °C. For milk, brew strong — 3 g to 150 ml — so it does not fade."],
+      "zh-CN": ["阿萨姆CTC", "1930年阿姆古里茶园第一台机器开启的CTC红茶——颗粒叶冲出深红色汤与浓烈麦芽香，牛奶香料也压不住。", "95%", "150毫升配3克，直饮200毫升配3克", "1~2泡", "100度泡2分钟，久泡会苦。", "印度阿萨姆，布拉马普特拉河流域的平原茶园。阿萨姆产量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·卷曲） → 发酵 → 干燥。滚筒把叶片碾成小颗粒，片刻就出浓色。", "1930年，阿萨姆Amgoorie茶园在William McKercher监督下让第一台CTC机投入使用。如今它已是印度与非洲红茶的标准工艺。", "强麦芽与爽利的涩，汤色深红。比传统阿萨姆粗犷，但顶得住牛奶、糖与香料。", "玛萨拉奶茶、奶茶、司康配凝脂奶油和浓郁巧克力甜点都很合适。它出汤快而有力，在牛奶与香料中也能站稳中心。味道细腻的甜点容易被它的爽涩压住。", "100度不要超过2分钟。加奶时用150毫升配3克，泡浓一些才不会被牛奶冲淡。"],
+      "zh-TW": ["阿薩姆CTC", "1930年阿姆古里茶園第一台機器開啟的CTC紅茶——顆粒葉沖出深紅色湯與濃烈麥芽香，牛奶香料也壓不住。", "95%", "150毫升配3公克，直飲200毫升配3公克", "1~2泡", "100度泡2分鐘，久泡會苦。", "印度阿薩姆，布拉馬普特拉河流域的平原茶園。阿薩姆產量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·捲曲） → 發酵 → 乾燥。滾筒把葉片碾成小顆粒，片刻就出濃色。", "1930年，阿薩姆Amgoorie茶園在William McKercher監督下讓第一台CTC機投入使用。如今它已是印度與非洲紅茶的標準工藝。", "強麥芽與爽利的澀，湯色深紅。比傳統阿薩姆粗獷，但頂得住牛奶、糖與香料。", "瑪薩拉奶茶、奶茶、司康配凝脂奶油和濃郁巧克力甜點都很合適。它出湯快而有力，在牛奶與香料中也能站穩中心。味道細膩的甜點容易被它的爽澀壓住。", "100度不要超過2分鐘。加奶時用150毫升配3公克，泡濃一些才不會被牛奶沖淡。"]
     },
     {
       id: "black-nilgiri",
@@ -3695,7 +3695,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "닐기리",
-        "남인도 고원의 차 — 청량한 향과 부드러운 떫음.",
+        "1859년 첫 다원이 열린 '푸른 산' 고원의 홍차 — 시트러스·민트 같은 청량감이 부드러운 몰트 위에 맑게 얹힙니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -3709,7 +3709,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Nilgiri",
-        "A southern Indian highland tea: cool aroma, soft astringency.",
+        "Black tea from the Blue Mountains, where the first commercial gardens opened in 1859 — citrus-and-mint coolness sits clear over a soft malt.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3723,7 +3723,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "尼尔吉里",
-        "南印度高原茶——清凉的香气与柔和的涩。",
+        "1859年首座商业茶园诞生的“蓝山”高原红茶——柑橘与薄荷般的清凉清澈地浮在柔和麦芽香上。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -3737,7 +3737,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "尼爾吉里",
-        "南印度高原茶——清涼的香氣與柔和的澀。",
+        "1859年首座商業茶園誕生的「藍山」高原紅茶——柑橘與薄荷般的清涼清澈地浮在柔和麥芽香上。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -3764,7 +3764,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "누와라 엘리야",
-        "실론 최고 고도, 1,800m 안개의 차 — 가장 밝고 섬세한 실론.",
+        "실론에서 가장 높은 1,800m 안개밭의 '실론의 샴페인' — 시트러스·흰 꽃·옅은 민트 향이 밝고 섬세합니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -3778,7 +3778,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Nuwara Eliya",
-        "Ceylon's highest gardens at 1,800 m in the mist — its brightest and most delicate.",
+        "The 'champagne of Ceylon' from its highest gardens at 1,800 m — cool air keeps citrus, white flowers and a touch of mint bright and delicate.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3792,7 +3792,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "努沃勒埃利耶",
-        "锡兰最高海拔1800米的云雾茶——最明亮细腻的锡兰茶。",
+        "锡兰最高1800米云雾园的“锡兰香槟”——凉爽空气让柑橘、白花与淡淡薄荷香明亮而细腻。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -3806,7 +3806,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "努沃勒埃利耶",
-        "錫蘭最高海拔1800米的雲霧茶——最明亮細膩的錫蘭茶。",
+        "錫蘭最高1800米雲霧園的「錫蘭香檳」——涼爽空氣讓柑橘、白花與淡淡薄荷香明亮而細膩。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -3833,7 +3833,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "우다 푸셀라와",
-        "누와라 엘리야 옆, 장미 향이 도는 작은 산지.",
+        "실론 7대 산지 중 가장 작은 산지의 차 — 서늘한 시즌의 장미 향과 옅은 시트러스가 산뜻한 끝맛을 냅니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -3847,7 +3847,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Uda Pussellawa",
-        "Next to Nuwara Eliya, a small district with a rose note.",
+        "Tea from the smallest of Ceylon's seven districts — cool-season rose and light citrus over a medium body with a bright finish.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3861,7 +3861,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "乌达普塞拉瓦",
-        "与大吉岭式的努沃勒埃利耶相邻，带玫瑰香的小产区。",
+        "锡兰七大产区中最小的乌达普塞尔拉瓦茶——凉季的玫瑰香与淡淡柑橘浮在中等汤体上，收尾清爽。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -3875,7 +3875,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "烏達普塞拉瓦",
-        "與努沃勒埃利耶相鄰，帶玫瑰香的小產區。",
+        "錫蘭七大產區中最小的烏達普塞爾拉瓦茶——涼季的玫瑰香與淡淡柑橘浮在中等湯體上，收尾清爽。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -3902,7 +3902,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "우바",
-        "동풍이 부는 건기의 차 — 멘톨 같은 청량감.",
+        "두 계절풍이 만나는 우바, 7~9월 건기에 빛나는 차 — 멘톨 같은 청량감이 끝의 떫음과 함께 옵니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -3916,7 +3916,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Uva",
-        "Tea from the dry monsoon: a menthol-like coolness.",
+        "Uva, where both monsoons meet, finest in the July–September dry season — menthol-and-eucalyptus coolness arrives with astringency at the end.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3930,7 +3930,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "乌伐",
-        "东风吹起的干季茶——薄荷般的清凉感。",
+        "两季风交汇的乌瓦茶，7至9月旱季最出色——薄荷与桉树般的清凉伴着尾端的涩感而来。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -3944,7 +3944,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "烏伐",
-        "東風吹起的乾季茶——薄荷般的清涼感。",
+        "兩季風交匯的烏瓦茶，7至9月旱季最出色——薄荷與桉樹般的清涼伴著尾端的澀感而來。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -3971,7 +3971,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "딤불라",
-        "실론 중부 고원 — 균형 잡힌 표준 홍차.",
+        "영국식 아침 블렌드의 기둥인 실론 중부 고원의 차 — 꽃·시트러스·몰트가 적당한 떫음과 균형 잡힌 한 잔을 냅니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -3985,7 +3985,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Dimbula",
-        "Ceylon's central highlands: the balanced, standard black tea.",
+        "A pillar of English breakfast blends from Ceylon's central highlands — flower, citrus and malt in balance, with moderate astringency.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -3999,7 +3999,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "丁布拉",
-        "锡兰中部高地——均衡的标准红茶。",
+        "英式早餐拼配的支柱、锡兰中部高原茶——花、柑橘与麦芽香均衡交融，涩感适中。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -4013,7 +4013,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "丁布拉",
-        "錫蘭中部高地——均衡的標準紅茶。",
+        "英式早餐拼配的支柱、錫蘭中部高原茶——花、柑橘與麥芽香均衡交融，澀感適中。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -4040,7 +4040,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "사바라가무와",
-        "실론 서남부, 과일 향이 도는 저중지대 차.",
+        "습한 서남부 저중지대에서 자라 잎이 부드러운 실론차 — 잘 익은 과일과 꿀 향이 부드러운 바디에 둥글게 담깁니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -4054,7 +4054,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Sabaragamuwa",
-        "Ceylon's south-west low country, with fruit on the nose.",
+        "A Ceylon tea from the humid south-west low country, its leaf kept soft — ripe fruit and honey sit roundly in a soft body.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -4068,7 +4068,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "萨巴拉加穆瓦",
-        "锡兰西南部，带果香的低中海拔茶。",
+        "生长在潮湿西南低地的锡兰茶，叶片柔软——熟果与蜂蜜香圆润地盛在柔和的汤体里。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -4082,7 +4082,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "薩巴拉加穆瓦",
-        "錫蘭西南部，帶果香的低中海拔茶。",
+        "生長在潮濕西南低地的錫蘭茶，葉片柔軟——熟果與蜂蜜香圓潤地盛在柔和的湯體裡。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -4109,7 +4109,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "캔디",
-        "실론 차의 시작점, 중고도의 부드러운 홍차.",
+        "1867년 테일러가 첫 재배를 시작한 실론차의 출발점 — 중고도 잎에서 부드러운 몰트와 꽃 향이 떫지 않게 납니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -4123,7 +4123,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Kandy",
-        "Where Ceylon tea began: a soft mid-grown black.",
+        "Where Ceylon tea began, with Taylor's first commercial planting in 1867 — mid-grown leaves give soft malt and flowers with little astringency.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -4137,7 +4137,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "康提",
-        "锡兰茶的起点，中海拔的柔和红茶。",
+        "1867年泰勒种下第一片商业茶园的锡兰茶起点——中海拔叶片带来柔和麦芽与花香，几乎不涩。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -4151,7 +4151,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "康提",
-        "錫蘭茶的起點，中海拔的柔和紅茶。",
+        "1867年泰勒種下第一片商業茶園的錫蘭茶起點——中海拔葉片帶來柔和麥芽與花香，幾乎不澀。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -4178,7 +4178,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "루후나",
-        "실론 남부 저지대 — 진하고 굵은 맛.",
+        "더운 남부 저지에서 산화가 빠르게 진해지는 실론차 — 가장 진한 수색과 굵은 몰트, 강한 떫음이 밀크티를 받칩니다.",
         "90%",
         "200ml에 4g",
         "1~2회",
@@ -4192,7 +4192,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Ruhuna",
-        "Ceylon's southern low country: dark and broad.",
+        "A southern low-country Ceylon tea, oxidised fast in the heat — the darkest liquor, broad malt and strong astringency built for milk tea.",
         "90%",
         "4 g to 200 ml",
         "1–2 infusions",
@@ -4206,7 +4206,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "鲁忽努",
-        "锡兰南部低地——浓而厚的一杯。",
+        "炎热南部低地快速发酵的锡兰茶——最深的汤色、厚重的麦芽香与强烈的涩感，专为奶茶而生。",
         "90%",
         "200毫升配4克",
         "1~2泡",
@@ -4220,7 +4220,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "魯忽努",
-        "錫蘭南部低地——濃而厚的一杯。",
+        "炎熱南部低地快速發酵的錫蘭茶——最深的湯色、厚重的麥芽香與強烈的澀感，專為奶茶而生。",
         "90%",
         "200毫升配4公克",
         "1~2泡",
@@ -4249,7 +4249,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "기문",
-        "장미·난초·다크초콜릿 — 중국 홍차의 기준, 세계 3대 홍차 중 하나.",
+        "1875년 푸젠 제법을 들여와 만든 세계 3대 홍차 — 가늘게 만 잎에서 장미·난초·다크초콜릿 향이 길게 피어납니다.",
         "90%",
         "150ml에 3g",
         "1~2회",
@@ -4263,7 +4263,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Keemun",
-        "Rose, orchid and dark chocolate — the yardstick for Chinese black tea, and one of the world's three great black teas.",
+        "One of the world's three great black teas, made from 1875 with a Fujian method — finely rolled leaves bloom with rose, orchid and dark chocolate in a long finish.",
         "90%",
         "3 g to 150 ml",
         "1–2 infusions",
@@ -4277,7 +4277,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "祁门红茶",
-        "玫瑰、兰花与黑巧克力——中国红茶的标准，世界三大红茶之一。",
+        "1875年引入福建工艺制成的世界三大红茶之一——细卷的叶片绽放玫瑰、兰花与黑巧克力香，余韵悠长。",
         "90%",
         "150毫升配3克",
         "1~2泡",
@@ -4291,7 +4291,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "祁門紅茶",
-        "玫瑰、蘭花與黑巧克力——中國紅茶的標準，世界三大紅茶之一。",
+        "1875年引入福建工藝製成的世界三大紅茶之一——細卷的葉片綻放玫瑰、蘭花與黑巧克力香，餘韻悠長。",
         "90%",
         "150毫升配3公克",
         "1~2泡",
@@ -4318,7 +4318,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "정산소종",
-        "소나무 연기로 건조한, 세계에서 향이 가장 강한 홍차.",
+        "군대를 피해 비운 사이 산화된 잎을 소나무로 말린 홍차 — 소나무 연기·타르·말린 과일 향이 깊고 묵직합니다.",
         "95%",
         "200ml에 3g",
         "1~2회",
@@ -4332,7 +4332,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lapsang Souchong",
-        "Smoke-dried over pine: the most powerfully scented black tea there is.",
+        "The black tea born when leaf oxidised during a flight from soldiers and was dried hastily over pine — pine smoke, tar and dried fruit, deep and heavy.",
         "95%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -4346,7 +4346,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "正山小种",
-        "用松烟烘干，世界上香气最强的红茶。",
+        "躲避军队时氧化的叶子用松木急烘而成的红茶之源——松烟、焦油与干果香深沉厚重。",
         "95%",
         "200毫升配3克",
         "1~2泡",
@@ -4360,7 +4360,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "正山小種",
-        "用松煙烘乾，世界上香氣最強的紅茶。",
+        "躲避軍隊時氧化的葉子用松木急烘而成的紅茶之源——松煙、焦油與乾果香深沉厚重。",
         "95%",
         "200毫升配3公克",
         "1~2泡",
@@ -4389,7 +4389,7 @@ window.TEAFaiData = (function () {
       ox: 85,
       ko: [
         "금준미",
-        "정산소종의 싹만으로 만든, 가장 귀한 홍차 가운데 하나.",
+        "2005년 정산소종 봄싹만으로 만든 귀한 홍차 — 훈연 없이 살린 꿀·흰 꽃·말린 살구 향과 부드럽고 긴 단맛이 납니다.",
         "85%",
         "150ml에 3g",
         "2회",
@@ -4403,7 +4403,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Jin Jun Mei",
-        "Made from buds alone in the Lapsang style — one of the most precious black teas.",
+        "A precious black tea created in 2005 from Lapsang spring buds alone — no smoke, so honey, white flowers and dried apricot stay, with a soft, long sweetness.",
         "85%",
         "3 g to 150 ml",
         "2 infusions",
@@ -4417,7 +4417,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "金骏眉",
-        "只用正山小种的芽制成，最珍贵的红茶之一。",
+        "2005年只用正山小种春芽新制的珍贵红茶——不经烟熏，蜂蜜、白花与杏干香留存，甜味柔和绵长。",
         "85%",
         "150毫升配3克",
         "2泡",
@@ -4431,7 +4431,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "金駿眉",
-        "只用正山小種的芽製成，最珍貴的紅茶之一。",
+        "2005年只用正山小種春芽新製的珍貴紅茶——不經煙燻，蜂蜜、白花與杏乾香留存，甜味柔和綿長。",
         "85%",
         "150毫升配3公克",
         "2泡",
@@ -4458,7 +4458,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "전홍",
-        "윈난 대엽종의 힘 — 밝은 금색과 꿀 향.",
+        "1939년 펑칭에서 시작된 윈난 대엽종의 젊은 홍차 — 오래 산화한 잎에서 금싹과 꿀·말린 자두 향이 두텁게 옵니다.",
         "95%",
         "200ml에 5g",
         "1~2회",
@@ -4472,7 +4472,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Dianhong",
-        "Yunnan large-leaf strength: bright gold and honey.",
+        "A young Yunnan large-leaf black tea first made in Fengqing in 1939 — long oxidation brings golden buds, honey and dried plum in a thick body.",
         "95%",
         "5 g to 200 ml",
         "1–2 infusions",
@@ -4486,7 +4486,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "滇红",
-        "云南大叶种的力量——明亮的金芽与蜜香。",
+        "1939年始于凤庆的云南大叶种年轻红茶——长时发酵带出金芽、蜂蜜与梅干香，汤体厚实。",
         "95%",
         "200毫升配5克",
         "1~2泡",
@@ -4500,7 +4500,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "滇紅",
-        "雲南大葉種的力量——明亮的金芽與蜜香。",
+        "1939年始於鳳慶的雲南大葉種年輕紅茶——長時發酵帶出金芽、蜂蜜與梅乾香，湯體厚實。",
         "95%",
         "200毫升配5公克",
         "1~2泡",
@@ -4529,7 +4529,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "마살라 차이",
-        "홍차에 향신료와 우유를 끓인 인도의 일상 — 차이왈라의 잔.",
+        "인도에 자리 잡은 차이왈라의 일상 — 진한 아쌈 CTC에 생강·카다멈·계피를 넣고 우유와 끓여 따뜻하고 둥글게 냅니다.",
         "95%",
         "150ml에 5g, 우유 반을 섞어",
         "1회",
@@ -4543,7 +4543,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Masala Chai",
-        "Black tea boiled with spice and milk — India's everyday cup from the chai-wallah.",
+        "The chai-wallah's everyday cup, settled in colonial India — strong Assam CTC boiled with ginger, cardamom, cinnamon and milk, warm and round.",
         "95%",
         "5 g to 150 ml, then half milk",
         "One boil",
@@ -4557,7 +4557,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "马萨拉茶",
-        "红茶与香料、牛奶一起煮——印度街头茶摊的日常。",
+        "殖民时代在印度扎根的街头茶摊日常——浓烈的阿萨姆CTC加入姜、豆蔻、肉桂与牛奶同煮，温暖圆润。",
         "95%",
         "150毫升配5克，再加一半牛奶",
         "1次",
@@ -4571,7 +4571,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "馬薩拉茶",
-        "紅茶與香料、牛奶一起煮——印度街頭茶攤的日常。",
+        "殖民時代在印度扎根的街頭茶攤日常——濃烈的阿薩姆CTC加入薑、豆蔻、肉桂與牛奶同煮，溫暖圓潤。",
         "95%",
         "150毫升配5公克，再加一半牛奶",
         "1次",
@@ -4599,7 +4599,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "테미 (시킴)",
-        "히말라야 동쪽, 전 지역 유기농으로 유명한 소규모 산지.",
+        "인도 최초로 전 지역 유기농을 선언한 시킴의 다원 — 히말라야 고지에서 꽃 향과 옅은 머스캣, 부드러운 바디가 피어납니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -4613,7 +4613,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Temi (Sikkim)",
-        "East Himalaya: a small garden known for being wholly organic.",
+        "From Sikkim's sole garden, in India's first fully organic state — Himalayan heights blooming with flowers and light muscatel over a soft body.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -4627,7 +4627,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "锡金泰米",
-        "喜马拉雅东侧，全境有机的小产区。",
+        "印度首个全境有机邦锡金的唯一茶园——喜马拉雅高地绽放花香与淡淡麝香葡萄，茶体柔和。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -4641,7 +4641,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "錫金泰米",
-        "喜馬拉雅東側，全境有機的小產區。",
+        "印度首個全境有機邦錫金的唯一茶園——喜馬拉雅高地綻放花香與淡淡麝香葡萄，茶體柔和。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -4669,7 +4669,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "일람 (네팔)",
-        "히말라야 동쪽, 다즐링과 이웃한 고산 홍차.",
+        "다즐링 바로 옆 네팔 일람의 고산 홍차 — 소농의 손길로 만든 잎에서 꽃·청포도와 옅은 머스캣이 가볍게 피어납니다.",
         "90%",
         "200ml에 3g",
         "1~2회",
@@ -4683,7 +4683,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Ilam (Nepal)",
-        "East Himalaya: a high-grown black next door to Darjeeling.",
+        "A high-grown black from Nepal's Ilam, just beside Darjeeling — small-farm leaves blooming lightly with flowers, green grape and muscatel.",
         "90%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -4697,7 +4697,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "伊拉姆",
-        "喜马拉雅东侧，与大吉岭相邻的高山红茶。",
+        "紧邻大吉岭的尼泊尔伊拉姆高山红茶——小农手工之叶轻盈绽放花香、青葡萄与淡淡麝香。",
         "90%",
         "200毫升配3克",
         "1~2泡",
@@ -4711,7 +4711,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "伊拉姆",
-        "喜馬拉雅東側，與大吉嶺相鄰的高山紅茶。",
+        "緊鄰大吉嶺的尼泊爾伊拉姆高山紅茶——小農手工之葉輕盈綻放花香、青葡萄與淡淡麝香。",
         "90%",
         "200毫升配3公克",
         "1~2泡",
@@ -4739,7 +4739,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "CTC (케냐)",
-        "적도 고지의 CTC — 진한 색과 힘.",
+        "세계 3대 홍차 수출국 케냐의 적도 고지 CTC — 부순 잎이 진한 붉은 수색과 강한 몰트, 우유도 견디는 힘을 냅니다.",
         "95%",
         "200ml에 4g",
         "1~2회",
@@ -4753,7 +4753,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "CTC (Kenya)",
-        "Equatorial highland CTC: deep colour and strength.",
+        "CTC from equatorial Kenya, one of the world's top three black-tea exporters — shredded leaf giving deep red liquor, strong malt and milk-proof strength.",
         "95%",
         "4 g to 200 ml",
         "1–2 infusions",
@@ -4767,7 +4767,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "肯尼亚CTC",
-        "赤道高地的CTC——深色与力量。",
+        "世界三大红茶出口国之一肯尼亚的赤道高地CTC——碎叶冲出深红茶汤与浓烈麦芽，耐牛奶的劲道。",
         "95%",
         "200毫升配4克",
         "1~2泡",
@@ -4781,7 +4781,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "肯亞CTC",
-        "赤道高地的CTC——深色與力量。",
+        "世界三大紅茶出口國之一肯尼亞的赤道高地CTC——碎葉沖出深紅茶湯與濃烈麥芽，耐牛奶的勁道。",
         "95%",
         "200毫升配4公克",
         "1~2泡",
@@ -4811,7 +4811,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "잭살 (하동)",
-        "하동에서 만든 발효 홍차 — 잭살은 ‘작설’의 방언.",
+        "지리산 자락 하동에서 녹차 잎을 완전 산화시킨 잭살 — '작설'의 방언 이름에 꿀·말린 과일과 몰트가 담깁니다.",
         "90%",
         "150ml에 3g",
         "1~2회",
@@ -4825,7 +4825,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Jaksal (Hadong)",
-        "A black tea made in Hadong from Korean leaf; jaksal is the local word for a sparrow's tongue.",
+        "Jaksal, Hadong green leaf fully oxidised on Mount Jiri's slopes — its dialect name for young leaf carrying honey, dried fruit and soft malt.",
         "90%",
         "3 g to 150 ml",
         "1–2 infusions",
@@ -4839,7 +4839,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "河东雀舌红茶",
-        "在河东用韩国茶叶制成的红茶——“잭살”是“雀舌”的方言。",
+        "智异山麓河东将绿茶叶完全氧化的雀舌红茶——方言之名里藏着蜂蜜、干果与麦芽的柔和。",
         "90%",
         "150毫升配3克",
         "1~2泡",
@@ -4853,7 +4853,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "河東雀舌紅茶",
-        "在河東用韓國茶葉製成的紅茶——「잭살」是「雀舌」的方言。",
+        "智異山麓河東將綠茶葉完全氧化的雀舌紅茶——方言之名裡藏著蜂蜜、乾果與麥芽的柔和。",
         "90%",
         "150毫升配3公克",
         "1~2泡",
@@ -4881,7 +4881,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "일월담",
-        "타이완 야생차와 미얀마 아쌈의 교배 — 민트와 계피 향.",
+        "대만 야생차와 미얀마 아쌈을 교배한 일월담 홍옥 — 대엽종에서 민트·계피·육두구 향과 긴 여운이 납니다.",
         "95%",
         "200ml에 5g",
         "1~2회",
@@ -4895,7 +4895,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Sun Moon Lake",
-        "A cross of Taiwanese wild tea and Burmese assamica — mint and cinnamon.",
+        "Sun Moon Lake's Ruby, Taiwanese wild tea crossed with Burmese assamica — long-oxidised large leaf exhaling mint, cinnamon and nutmeg, long in finish.",
         "95%",
         "5 g to 200 ml",
         "1–2 infusions",
@@ -4909,7 +4909,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "日月潭",
-        "台湾野生茶与缅甸阿萨姆的杂交——薄荷与肉桂香。",
+        "台湾野生茶与缅甸阿萨姆杂交的日月潭红玉——久氧化的大叶散发薄荷、肉桂与肉豆蔻香，余韵悠长。",
         "95%",
         "200毫升配5克",
         "1~2泡",
@@ -4923,7 +4923,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "日月潭",
-        "台灣野生茶與緬甸阿薩姆的雜交——薄荷與肉桂香。",
+        "台灣野生茶與緬甸阿薩姆雜交的日月潭紅玉——久氧化的大葉散發薄荷、肉桂與肉豆蔻香，餘韻悠長。",
         "95%",
         "200毫升配5公克",
         "1~2泡",
@@ -4948,7 +4948,7 @@ window.TEAFaiData = (function () {
       ox: 100,
       ko: [
         "보이 생차",
-        "익지 않은 보이차 — 시간이 미생물과 함께 숙성시킵니다.",
+        "청대 공차로 바쳐진 윈난 보이 생차 — 압착해 오래 두면 말린 과일·꿀에서 대추·약재, 오래된 나무 향으로 익어갑니다.",
         "후발효 · 생차",
         "개완 100ml에 5g, 세차 1회",
         "8회 이상",
@@ -4962,7 +4962,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Sheng Pu-erh",
-        "Unripened pu-erh — time and microbes do the ageing.",
+        "Yunnan sheng pu-erh, once Qing tribute — pressed and aged, it ripens from dried fruit and honey toward dates, herbs and old wood.",
         "Post-fermented · raw",
         "5 g to 100 ml in a gaiwan; rinse once",
         "8 or more infusions",
@@ -4976,7 +4976,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "普洱生茶",
-        "未经握堆的生茶——时间与微生物一起陈化。",
+        "清代曾为贡茶的云南普洱生茶——压制久存，从干果蜜香渐变为枣香、药香与老木香。",
         "后发酵 · 生茶",
         "盖碗100毫升配5克，洗茶一次",
         "8泡以上",
@@ -4990,7 +4990,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "普洱生茶",
-        "未經渥堆的生茶——時間與微生物一起陳化。",
+        "清代曾為貢茶的雲南普洱生茶——壓製久存，從乾果蜜香漸變為棗香、藥香與老木香。",
         "後發酵 · 生茶",
         "蓋碗100毫升配5公克，洗茶一次",
         "8泡以上",
@@ -5014,7 +5014,7 @@ window.TEAFaiData = (function () {
       ox: 100,
       ko: [
         "보이 숙차",
-        "악퇴로 미리 익힌 보이차 — 바로 마실 수 있는 흙내음.",
+        "1973년 쿤밍차창이 개발한 악퇴로 미리 익힌 보이 숙차 — 기다림 없이 흙내음·대추·버섯의 부드러운 단맛을 냅니다.",
         "후발효 · 숙차",
         "개완 100ml에 5g, 세차 2회",
         "8회 이상",
@@ -5028,7 +5028,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Shou Pu-erh",
-        "Pu-erh ripened in advance — the earthy cup you can drink now.",
+        "Shou pu-erh ripened in advance by wo dui, developed in Kunming in 1973 — earth, dates and mushroom with a soft sweetness, no long wait.",
         "Post-fermented · ripe",
         "5 g to 100 ml; rinse twice",
         "8 or more infusions",
@@ -5042,7 +5042,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "普洱熟茶",
-        "握堆提前成熟的普洱——现在就能喝的陈香。",
+        "1973年昆明茶厂创渥堆提前陈熟的普洱熟茶——无需久等，即有泥土、红枣与菌香的柔和甜味。",
         "后发酵 · 熟茶",
         "盖碗100毫升配5克，洗茶两次",
         "8泡以上",
@@ -5056,7 +5056,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "普洱熟茶",
-        "渥堆提前成熟的普洱——現在就能喝的陳香。",
+        "1973年昆明茶廠創渥堆提前陳熟的普洱熟茶——無需久等，即有泥土、紅棗與菌香的柔和甜味。",
         "後發酵 · 熟茶",
         "蓋碗100毫升配5公克，洗茶兩次",
         "8泡以上",
@@ -5080,7 +5080,7 @@ window.TEAFaiData = (function () {
       ox: 100,
       ko: [
         "안화흑차",
-        "후난 안화의 압착 흑차 — 천량차로 대표됩니다.",
+        "명·청 변차의 본거지 안화의 천량차로 대표되는 흑차 — 소나무 연기로 천천히 말려 연기·대추·약재의 진한 맛이 납니다.",
         "후발효",
         "5g에 150ml",
         "6회 이상",
@@ -5094,7 +5094,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Anhua Dark Tea",
-        "Pressed dark tea from Anhua in Hunan, famous as the thousand-liang log.",
+        "Anhua dark tea, home of Ming–Qing border tea and famed for its thousand-liang logs — pine-smoke dried for smoke, dates and deep herbs.",
         "Post-fermented",
         "5 g to 150 ml",
         "6 or more infusions",
@@ -5108,7 +5108,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "安化黑茶",
-        "湖南安化的压制黑茶——以千两茶为代表。",
+        "明清边茶之乡安化的黑茶，以千两茶为代表——松烟慢烘，烟香、枣香与药香浓郁柔和。",
         "后发酵",
         "5克配150毫升",
         "6泡以上",
@@ -5122,7 +5122,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "安化黑茶",
-        "湖南安化的壓製黑茶——以千兩茶為代表。",
+        "明清邊茶之鄉安化的黑茶，以千兩茶為代表——松煙慢烘，煙香、棗香與藥香濃郁柔和。",
         "後發酵",
         "5公克配150毫升",
         "6泡以上",
@@ -5146,7 +5146,7 @@ window.TEAFaiData = (function () {
       ox: 100,
       ko: [
         "육보차",
-        "광시의 흑차 — 대나무 광주리에서 진화됩니다.",
+        "청대 24대 명차에 든 광시 육보차 — 대나무 광주리에서 진화되어 버섯·빈랑 향과 부드러운 단맛이 깊어집니다.",
         "후발효",
         "5g에 150ml",
         "6회 이상",
@@ -5160,7 +5160,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Liu Bao",
-        "Guangxi's dark tea, aged in bamboo baskets.",
+        "Guangxi's Liu Bao, listed among China's 24 famous teas in the Qing — aged in bamboo baskets for mushroom, betel nut and soft sweetness.",
         "Post-fermented",
         "5 g to 150 ml",
         "6 or more infusions",
@@ -5174,7 +5174,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "六堡茶",
-        "广西的黑茶，在竹篓里陈化。",
+        "清代入选中国二十四名茶的广西六堡茶——竹篓陈化，菌香与槟榔香中透着柔和甜味。",
         "后发酵",
         "5克配150毫升",
         "6泡以上",
@@ -5188,7 +5188,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "六堡茶",
-        "廣西的黑茶，在竹簍裡陳化。",
+        "清代入選中國二十四名茶的廣西六堡茶——竹簍陳化，菌香與檳榔香中透著柔和甜味。",
         "後發酵",
         "5公克配150毫升",
         "6泡以上",
@@ -5216,7 +5216,7 @@ window.TEAFaiData = (function () {
       ox: 100,
       ko: [
         "청태전",
-        "장흥의 동전 모양 발효차 — 한국의 흑차.",
+        "조선의 엽전 모양을 복원한 장흥 청태전, 한국의 흑차 — 찐 잎을 눌러 발효시켜 흙·약재·대추의 따뜻한 맛이 납니다.",
         "후발효",
         "한 조각(5g)에 200ml",
         "3회 이상",
@@ -5230,7 +5230,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Cheongtaejeon",
-        "A coin-shaped fermented tea from Jangheung — Korea's dark tea.",
+        "Cheongtaejeon, Korea's dark tea revived in Jangheung in Joseon's coin shape — steamed, pressed and fermented for warm earth, herbs and dates.",
         "Post-fermented",
         "One coin (5 g) to 200 ml",
         "3 or more infusions",
@@ -5244,7 +5244,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "青苔钱",
-        "长兴的铜钱形发酵茶——韩国的黑茶。",
+        "复原朝鲜铜钱形的长兴青苔钱，韩国的黑茶——蒸叶压制发酵，泥土、药材与红枣温暖柔和。",
         "后发酵",
         "一枚（5克）配200毫升",
         "3泡以上",
@@ -5258,7 +5258,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "青苔錢",
-        "長興的銅錢形發酵茶——韓國的黑茶。",
+        "復原朝鮮銅錢形的長興青苔錢，韓國的黑茶——蒸葉壓製發酵，泥土、藥材與紅棗溫暖柔和。",
         "後發酵",
         "一枚（5公克）配200毫升",
         "3泡以上",
@@ -5288,7 +5288,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "얼그레이",
-        "베르가못 향을 입힌 홍차. 이름은 상표가 아니라 200년의 산업사.",
+        "1830년대 그레이 백작의 전설을 품은 최초의 가향 홍차 — 칼라브리아 베르가못 향이 시트러스와 꽃 향으로 피어납니다.",
         "95%",
         "잉 1에 물 60 — 3g에 200ml",
         "1~2회",
@@ -5302,7 +5302,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Earl Grey",
-        "Black tea scented with bergamot — the name is not a trademark but 200 years of trade.",
+        "The original scented black tea, steeped in the 1830s Earl Grey legend — Calabrian bergamot blooming into citrus and flowers.",
         "95%",
         "1 part leaf to 60 water — 3 g to 200 ml",
         "1–2 infusions",
@@ -5316,7 +5316,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "伯爵茶",
-        "以佛手柑赋香的红茶。名字不是商标，而是两百年的产业史。",
+        "承载1830年代格雷伯爵传说的经典加香红茶——卡拉布里亚佛手柑绽放柑橘与花香。",
         "95%",
         "叶1对水60——3克配200毫升",
         "1~2泡",
@@ -5330,7 +5330,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "伯爵茶",
-        "以佛手柑賦香的紅茶。名字不是商標，而是兩百年的產業史。",
+        "承載1830年代格雷伯爵傳說的經典加香紅茶——卡拉布里亞佛手柑綻放柑橘與花香。",
         "95%",
         "葉1對水60——3公克配200毫升",
         "1~2泡",
@@ -5357,7 +5357,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "레이디 그레이",
-        "얼그레이에 레몬·오렌지 껍질과 꽃을 더한 부드러운 변주.",
+        "그레이 백작 부인의 이름을 딴 트와이닝의 변주 — 베르가못에 레몬·오렌지 껍질과 꽃이 더해져 단맛이 납니다.",
         "95%",
         "200ml에 3g",
         "1~2회",
@@ -5371,7 +5371,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lady Grey",
-        "Earl Grey with lemon and orange peel and flowers — a softer variation.",
+        "Twinings' softer variation named for the Countess Grey — bergamot joined by lemon and orange peel and flowers, with a light sweetness.",
         "95%",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -5385,7 +5385,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "仕女伯爵茶",
-        "在伯爵茶上再加柠檬、橙皮与花的柔和变奏。",
+        "以格雷伯爵夫人命名、川宁的柔和变奏——佛手柑配柠檬橙皮与花瓣，带淡淡甜味。",
         "95%",
         "200毫升配3克",
         "1~2泡",
@@ -5399,7 +5399,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "仕女伯爵茶",
-        "在伯爵茶上再加檸檬、橙皮與花的柔和變奏。",
+        "以格雷伯爵夫人命名、川寧的柔和變奏——佛手柑配檸檬橙皮與花瓣，帶淡淡甜味。",
         "95%",
         "200毫升配3公克",
         "1~2泡",
@@ -5427,7 +5427,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "잉글리쉬 브렉퍼스트",
-        "아쌈·실론·기문을 섞은 진한 아침 블렌드.",
+        "19세기 영국 아침 식탁에서 굳어진 진한 블렌드 — 아쌈·실론·기문이 몰트·꿀·말린 과일의 맛으로 우유를 잘 견딥니다.",
         "95%",
         "200ml에 4g",
         "1~2회",
@@ -5441,7 +5441,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "English Breakfast",
-        "A strong morning blend of Assam, Ceylon and Keemun.",
+        "The strong blend settled at 19th-century British breakfast tables — Assam, Ceylon and Keemun in malt, honey and dried fruit, standing up to milk.",
         "95%",
         "4 g to 200 ml",
         "1–2 infusions",
@@ -5455,7 +5455,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "英式早餐茶",
-        "阿萨姆、锡兰与祁门拼成的浓郁早晨茶。",
+        "19世纪英国早餐桌定型的浓郁拼配——阿萨姆、锡兰与祁门呈麦芽、蜂蜜与干果味，耐牛奶。",
         "95%",
         "200毫升配4克",
         "1~2泡",
@@ -5469,7 +5469,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "英式早餐茶",
-        "阿薩姆、錫蘭與祁門拼成的濃郁早晨茶。",
+        "19世紀英國早餐桌定型的濃郁拼配——阿薩姆、錫蘭與祁門呈麥芽、蜂蜜與乾果味，耐牛奶。",
         "95%",
         "200毫升配4公克",
         "1~2泡",
@@ -5497,7 +5497,7 @@ window.TEAFaiData = (function () {
       ox: 90,
       ko: [
         "자스민",
-        "밤에 핀 자스민을 녹차에 여러 번 겹쳐 향을 옮긴 차.",
+        "송대에 시작해 청대 푸젠에서 꽃핀 자스민차 — 밤꽃을 여러 번 겹쳐 달콤한 흰 꽃 향과 녹차 감칠맛이 어우러집니다.",
         "90% (녹차 베이스)",
         "200ml에 4g",
         "1~2회",
@@ -5511,7 +5511,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Jasmine Tea",
-        "Green tea layered again and again with jasmine picked at night.",
+        "Jasmine tea, begun in the Song and perfected in Qing Fujian — summer-night blossoms layered again and again over green tea's soft umami.",
         "90% (green base)",
         "4 g to 200 ml",
         "1–2 infusions",
@@ -5525,7 +5525,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "茉莉花茶",
-        "用夜里开的茉莉一层层窨进绿茶里的茶。",
+        "始于宋代、盛于清代福建的茉莉花茶——夏夜花香层层窨入，甜润白花香融绿茶鲜味。",
         "90%（绿茶基底）",
         "200毫升配4克",
         "1~2泡",
@@ -5539,7 +5539,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "茉莉花茶",
-        "用夜裡開的茉莉一層層窨進綠茶裡的茶。",
+        "始於宋代、盛於清代福建的茉莉花茶——夏夜花香層層窨入，甜潤白花香融綠茶鮮味。",
         "90%（綠茶基底）",
         "200毫升配4公克",
         "1~2泡",
@@ -5569,7 +5569,7 @@ window.TEAFaiData = (function () {
       ox: 95,
       ko: [
         "홍콩 블렌딩",
-        "실론을 주 베이스로 하는 홍콩 차찬텡의 시그니처 밀크티 블렌딩.",
+        "영국식 밀크티가 홍콩 차찬텡에서 다시 태어난 블렌딩 — 실론을 진하게 우려 진한 몰트와 연유의 단맛이 납니다.",
         "95%",
         "200ml에 8g, 연유는 취향껏",
         "1회",
@@ -5583,7 +5583,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Hong Kong Blending",
-        "The signature milk tea blend of a Hong Kong cha chaan teng, built mainly on a Ceylon base.",
+        "British milk tea reborn in Hong Kong's cha chaan tengs — a strong Ceylon-based brew with bold malt and the round sweetness of evaporated milk.",
         "95%",
         "8 g to 200 ml; milk to taste",
         "One brew",
@@ -5597,7 +5597,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "港式拼配茶",
-        "以锡兰为主要基底的香港茶餐厅招牌奶茶拼配。",
+        "英式奶茶在香港茶餐厅重生的拼配——锡兰基底浓泡，浓烈麦芽与淡奶的圆润甜味。",
         "95%",
         "200毫升配8克，淡奶按口味",
         "1次",
@@ -5611,7 +5611,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "港式拼配茶",
-        "以錫蘭為主要基底的香港茶餐廳招牌奶茶拼配。",
+        "英式奶茶在香港茶餐廳重生的拼配——錫蘭基底濃泡，濃烈麥芽與淡奶的圓潤甜味。",
         "95%",
         "200毫升配8公克，淡奶按口味",
         "1次",
@@ -5642,7 +5642,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "대추차",
-        "말린 대추를 졸여 만든 달콤한 차 — 겨울의 따뜻한 한 잔.",
+        "경산·보은으로 유명한 말린 대추를 졸여 만든 한국의 겨울 차 — 대추의 단맛과 살짝 탄 향, 부드러운 바디가 감쌉니다.",
         "무산화 · 카페인 없음",
         "대추 5~6개 또는 청 2큰술에 200ml",
         "1회 (청은 물만 더해 여러 번)",
@@ -5654,7 +5654,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Date Tea",
-        "Dried jujubes simmered sweet — a warm winter cup.",
+        "A Korean winter tea of simmered dried dates, famed from Gyeongsan and Boeun — date sweetness, a light scorched note and a soft body.",
         "None · caffeine-free",
         "5–6 dates or 2 spoons of cheong to 200 ml",
         "One brew (cheong can be topped up)",
@@ -5666,7 +5666,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "红枣茶",
-        "把干红枣熬成的甜茶——冬天的暖杯。",
+        "用庆山、报恩闻名的干红枣熬成的韩国冬日茶——枣甜、轻微焦香与柔和茶体。",
         "不发酵 · 无咖啡因",
         "红枣5~6颗或蜜渍2勺配200毫升",
         "1次（蜜渍可续水多次）",
@@ -5678,7 +5678,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "紅棗茶",
-        "把乾紅棗熬成的甜茶——冬天的暖杯。",
+        "用慶山、報恩聞名的乾紅棗熬成的韓國冬日茶——棗甜、輕微焦香與柔和茶體。",
         "不發酵 · 無咖啡因",
         "紅棗5~6顆或蜜漬2勺配200毫升",
         "1次（蜜漬可續水多次）",
@@ -5700,7 +5700,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "생강차",
-        "생강을 꿀에 절여 만든, 몸을 데우는 차.",
+        "생강을 얇게 썰어 꿀에 절인 한국·중국의 전통 절임차 — 알싸한 매운맛을 꿀의 단맛이 부드럽게 감쌉니다.",
         "무산화 · 카페인 없음",
         "청 2큰술에 200ml",
         "1회",
@@ -5712,7 +5712,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Ginger Tea",
-        "Ginger preserved in honey — a cup that warms you through.",
+        "A traditional preserve of thin-sliced ginger in honey, from Korea and China — clean peppery heat wrapped in honey sweetness.",
         "None · caffeine-free",
         "2 spoons of cheong to 200 ml",
         "One brew",
@@ -5724,7 +5724,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "生姜茶",
-        "生姜用蜂蜜腌成的暖身茶。",
+        "生姜薄片蜜渍的韩中传统茶——清爽辛辣被蜂蜜的甜味柔和包裹。",
         "不发酵 · 无咖啡因",
         "蜜渍2勺配200毫升",
         "1次",
@@ -5736,7 +5736,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "生薑茶",
-        "生薑用蜂蜜醃成的暖身茶。",
+        "生薑薄片蜜漬的韓中傳統茶——清爽辛辣被蜂蜜的甜味柔和包裹。",
         "不發酵 · 無咖啡因",
         "蜜漬2勺配200毫升",
         "1次",
@@ -5764,7 +5764,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "유자차",
-        "유자를 꿀에 절여 만든 향긋한 겨울 차.",
+        "고흥·완도의 늦가을 유자를 껍질째 꿀에 절인 겨울 차 — 감귤 껍질의 향과 산뜻한 산미가 입안을 깨웁니다.",
         "무산화 · 카페인 없음",
         "청 2큰술에 200ml",
         "1회",
@@ -5776,7 +5776,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Citron Tea",
-        "Citron preserved in honey — a fragrant winter cup.",
+        "A winter tea of late-autumn citron from Goheung and Wando, preserved peel and all in honey — citrus-peel aroma and clean acidity.",
         "None · caffeine-free",
         "2 spoons of cheong to 200 ml",
         "One brew",
@@ -5788,7 +5788,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "柚子茶",
-        "柚子用蜂蜜腌成的香甜蜜茶。",
+        "高兴、莞岛深秋柚子连皮蜜渍的冬日茶——柑橘皮香与清爽酸味唤醒味蕾。",
         "不发酵 · 无咖啡因",
         "蜜渍2勺配200毫升",
         "1次",
@@ -5800,7 +5800,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "柚子茶",
-        "柚子用蜂蜜醃成的香甜蜜茶。",
+        "高興、莞島深秋柚子連皮蜜漬的冬日茶——柑橘皮香與清爽酸味喚醒味蕾。",
         "不發酵 · 無咖啡因",
         "蜜漬2勺配200毫升",
         "1次",
@@ -5828,7 +5828,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "오미자차",
-        "다섯 가지 맛이 난다는 붉은 열매차 — 여름의 차.",
+        "문경·정선의 9월 붉은 열매 오미자차 — 신맛·단맛·쓴맛·짠맛·매운맛 다섯 맛이 한 잔에 겹쳐집니다.",
         "무산화 · 카페인 없음",
         "청 2큰술에 200ml, 냉수도 좋습니다",
         "1회",
@@ -5840,7 +5840,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Schisandra Tea",
-        "A red berry said to hold five flavours — a summer cup.",
+        "Schisandra tea from September-red berries of Mungyeong and Jeongseon — sour, sweet, bitter, salty and pungent layered in one cup.",
         "None · caffeine-free",
         "2 spoons of cheong to 200 ml; cold water works too",
         "One brew",
@@ -5852,7 +5852,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "五味子茶",
-        "据说有五种味道的红色果实茶——夏天的茶。",
+        "文庆、旌善九月红果五味子茶——酸、甜、苦、咸、辣五味在一杯中层层交叠。",
         "不发酵 · 无咖啡因",
         "蜜渍2勺配200毫升，冷水也可",
         "1次",
@@ -5864,7 +5864,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "五味子茶",
-        "據說有五種味道的紅色果實茶——夏天的茶。",
+        "文慶、旌善九月紅果五味子茶——酸、甜、苦、鹹、辣五味在一杯中層層交疊。",
         "不發酵 · 無咖啡因",
         "蜜漬2勺配200毫升，冷水也可",
         "1次",
@@ -5886,7 +5886,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "쌍화차",
-        "백작약·숙지황·황기·당귀·천궁 등 아홉 가지 약재를 달인 한방차 — 피로에 한 잔.",
+        "백작약·숙지황·황기·당귀 등 아홉 약재를 달인 전통 한방차 — 약재의 쓴맛과 단맛이 깊고 묵직하게 어우러집니다.",
         "무산화 · 카페인 없음",
         "한 팩(200ml)을 그대로",
         "1회",
@@ -5898,7 +5898,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Ssanghwa Tea",
-        "Nine medicinal herbs decocted — a cup for weariness.",
+        "A traditional Korean decoction of nine herbs, from peony and rehmannia to astragalus and angelica — deep, heavy, bitter and sweet at once.",
         "None · caffeine-free",
         "One 200 ml pack, as is",
         "One brew",
@@ -5910,7 +5910,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "双和茶",
-        "白芍、熟地、黄芪、当归、川芎等九味药材熬成的韩方茶——疲累时的一杯。",
+        "白芍、熟地、黄芪、当归等九味药材熬成的传统韩方茶——药材苦与甜深沉厚重地交融。",
         "不发酵 · 无咖啡因",
         "一包（200毫升）直接喝",
         "1次",
@@ -5922,7 +5922,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "雙和茶",
-        "白芍、熟地、黃芪、當歸、川芎等九味藥材熬成的韓方茶——疲累時的一杯。",
+        "白芍、熟地、黃芪、當歸等九味藥材熬成的傳統韓方茶——藥材苦與甜深沉厚重地交融。",
         "不發酵 · 無咖啡因",
         "一包（200毫升）直接喝",
         "1次",
@@ -5944,7 +5944,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "둥굴레차",
-        "둥굴레 뿌리를 볶아 만든 구수한 차 — 커피 대신.",
+        "가을에 캔 둥굴레 뿌리를 말려 볶은 구수한 뿌리차 — 볶은 곡물 같은 고소함과 옅은 단맛이 커피 대신 자리합니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "2회",
@@ -5956,7 +5956,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Solomon's Seal Tea",
-        "Roasted Solomon's seal root — the nutty cup in place of coffee.",
+        "Roasted Solomon's seal root, dug in autumn and dried — roasted-grain nuttiness and a light sweetness in place of coffee.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "2 infusions",
@@ -5968,7 +5968,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "玉竹茶",
-        "把玉竹根烘炒成的焙香茶——代替咖啡。",
+        "秋挖玉竹根晒干炒制的焙香根茶——炒谷物般的香气与淡淡甜味，代替咖啡的一杯。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "2泡",
@@ -5980,7 +5980,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "玉竹茶",
-        "把玉竹根烘炒成的焙香茶——代替咖啡。",
+        "秋挖玉竹根晒乾炒製的焙香根茶——炒穀物般的香氣與淡淡甜味，代替咖啡的一杯。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "2泡",
@@ -6002,7 +6002,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "메밀차",
-        "메밀을 볶아 우린 고소한 차 — 단맛이 오래 남습니다.",
+        "메밀알을 볶아 우린 한국·일본의 곡물차 — 볶은 곡물의 고소함에 메밀 특유의 옅은 쓴맛과 오래 남는 단맛이 겹칩니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "2회",
@@ -6014,7 +6014,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Buckwheat Tea",
-        "Roasted buckwheat with a long sweetness.",
+        "A grain tea of roasted buckwheat groats from Korea and Japan — toasted nuttiness, buckwheat's faint bitterness and a long sweetness.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "2 infusions",
@@ -6026,7 +6026,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "荞麦茶",
-        "炒过的荞麦泡出的焙香茶，甜味留得久。",
+        "炒荞麦粒冲泡的韩日谷物茶——炒谷香、荞麦的淡淡苦味与久留的甜味交叠。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "2泡",
@@ -6038,7 +6038,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "蕎麥茶",
-        "炒過的蕎麥泡出的焙香茶，甜味留得久。",
+        "炒蕎麥粒沖泡的韓日穀物茶——炒穀香、蕎麥的淡淡苦味與久留的甜味交疊。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "2泡",
@@ -6060,7 +6060,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "보리차",
-        "볶은 보리를 끓인, 물처럼 마시는 한국의 차.",
+        "겉보리를 볶아 끓여 물처럼 마시는 한국의 일상차 — 구수한 볶은 곡물 향과 깔끔한 뒷맛이 하루를 함께합니다.",
         "무산화 · 카페인 없음",
         "1L에 볶은 보리 20g",
         "1회 (끓여 계속 마심)",
@@ -6072,7 +6072,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Barley Tea",
-        "Boiled roasted barley — the tea Koreans drink like water.",
+        "Korea's everyday tea, roasted unhulled barley boiled and drunk like water — toasted grain aroma with a clean finish, all day long.",
         "None · caffeine-free",
         "20 g roasted barley to 1 L",
         "One boil, drunk through the day",
@@ -6084,7 +6084,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "麦茶",
-        "煮炒过的大麦，韩国人当水喝的茶。",
+        "炒大麦煮成、韩国人当水喝的日常茶——焙香谷物气息与干净回味，陪伴一整天。",
         "不发酵 · 无咖啡因",
         "1升水配炒大麦20克",
         "1次（煮后整天喝）",
@@ -6096,7 +6096,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "麥茶",
-        "煮炒過的大麥，韓國人當水喝的茶。",
+        "炒大麥煮成、韓國人當水喝的日常茶——焙香穀物氣息與乾淨回味，陪伴一整天。",
         "不發酵 · 無咖啡因",
         "1升水配炒大麥20公克",
         "1次（煮後整天喝）",
@@ -6118,7 +6118,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "현미차",
-        "볶은 현미를 끓인 구수한 차 — 밥을 차로.",
+        "겉겨를 남긴 현미를 볶아 끓인, 밥을 차로 바꾼 한 잔 — 누룽지 향과 옅은 단맛이 오래 끓일수록 깊어집니다.",
         "무산화 · 카페인 없음",
         "1L에 볶은 현미 20g",
         "1회",
@@ -6130,7 +6130,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Brown Rice Tea",
-        "Boiled roasted brown rice — rice turned into tea.",
+        "Brown rice with its bran, roasted and boiled — rice turned into tea, with scorched-rice aroma and a sweetness that deepens as it simmers.",
         "None · caffeine-free",
         "20 g roasted rice to 1 L",
         "One brew",
@@ -6142,7 +6142,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "玄米茶",
-        "煮炒过的糙米——把饭变成茶。",
+        "保留米糠的糙米炒后煮成，把饭变成茶——锅巴香与淡淡甜味，越煮越浓。",
         "不发酵 · 无咖啡因",
         "1升水配炒玄米20克",
         "1次",
@@ -6154,7 +6154,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "玄米茶",
-        "煮炒過的糙米——把飯變成茶。",
+        "保留米糠的糙米炒後煮成，把飯變成茶——鍋巴香與淡淡甜味，越煮越濃。",
         "不發酵 · 無咖啡因",
         "1升水配炒玄米20公克",
         "1次",
@@ -6176,7 +6176,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "감잎차",
-        "감나무 잎을 말려 만든 차 — 비타민 C가 많은 잎차.",
+        "초여름 감잎을 따 찌거나 말려 만든 한국의 잎차 — 옅은 풀 향과 단맛이 나고 떫음이 적어 부드럽게 넘어갑니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "2회",
@@ -6188,7 +6188,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Persimmon Leaf Tea",
-        "Dried persimmon leaf, rich in vitamin C.",
+        "A Korean leaf tea of early-summer persimmon leaves, steamed or dried — light grass and sweetness with little astringency.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "2 infusions",
@@ -6200,7 +6200,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "柿叶茶",
-        "用柿树叶制成的茶——维生素C丰富的叶茶。",
+        "初夏柿叶蒸或晒制成的韩国叶茶——淡淡草香与甜味，涩味少，口感柔和。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "2泡",
@@ -6212,7 +6212,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "柿葉茶",
-        "用柿樹葉製成的茶——維生素C豐富的葉茶。",
+        "初夏柿葉蒸或晒製成的韓國葉茶——淡淡草香與甜味，澀味少，口感柔和。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "2泡",
@@ -6234,7 +6234,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "뽕잎차",
-        "뽕나무 잎을 말려 볶은 차 — 부드러운 단맛.",
+        "늦봄·여름 뽕잎을 말려 볶은 한국·중국의 잎차 — 볶은 잎의 고소함과 옅은 단맛이 부드럽게 이어집니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "2회",
@@ -6246,7 +6246,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Mulberry Leaf Tea",
-        "Dried and roasted mulberry leaf with a soft sweetness.",
+        "A leaf tea of late-spring mulberry leaves, dried and roasted in Korea and China — roasted-leaf nuttiness and a light, soft sweetness.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "2 infusions",
@@ -6258,7 +6258,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "桑叶茶",
-        "桑叶晒干再炒，带柔和甜味。",
+        "晚春夏桑叶晒干炒制的韩中叶茶——炒叶的焙香与淡淡甜味柔和延续。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "2泡",
@@ -6270,7 +6270,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "桑葉茶",
-        "桑葉晒乾再炒，帶柔和甜味。",
+        "晚春夏桑葉晒乾炒製的韓中葉茶——炒葉的焙香與淡淡甜味柔和延續。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "2泡",
@@ -6292,7 +6292,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "연잎차",
-        "연잎을 말려 우린 향긋한 차 — 여름의 차.",
+        "여름 연못의 연잎을 말려 우린 향긋한 잎차 — 풀 향과 옅은 쓴맛이 청량하게 입안을 정리합니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g",
         "2회",
@@ -6304,7 +6304,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lotus Leaf Tea",
-        "Dried lotus leaf — a green summer cup.",
+        "A fragrant leaf tea of dried summer lotus leaves — green aroma and a faint bitterness with a cooling, clean finish.",
         "None · caffeine-free",
         "2 g to 200 ml",
         "2 infusions",
@@ -6316,7 +6316,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "荷叶茶",
-        "晒干的荷叶——夏天的一杯清茶。",
+        "夏日莲叶晒干冲泡的清香叶茶——草香与淡淡苦味，清凉爽口。",
         "不发酵 · 无咖啡因",
         "200毫升配2克",
         "2泡",
@@ -6328,7 +6328,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "荷葉茶",
-        "晒乾的荷葉——夏天的一杯清茶。",
+        "夏日蓮葉晒乾沖泡的清香葉茶——草香與淡淡苦味，清涼爽口。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克",
         "2泡",
@@ -6350,7 +6350,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "도라지차",
-        "도라지 뿌리를 말려 달인 차 — 전통적으로 목이 칼칼할 때 찾던 뿌리차.",
+        "가을 도라지 뿌리를 말려 달인 전통 뿌리차 — 옅은 쓴맛과 단맛, 뿌리 특유의 향이 깊게 우러납니다.",
         "무산화 · 카페인 없음",
         "200ml에 5g",
         "2회",
@@ -6362,7 +6362,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Balloon Flower Root Tea",
-        "Dried balloon-flower root, decocted — a root tea traditionally sought when the throat feels rough.",
+        "A traditional root tea of dried autumn balloon-flower root, decocted — light bitterness, sweetness and the root's own deep aroma.",
         "None · caffeine-free",
         "5 g to 200 ml",
         "2 infusions",
@@ -6374,7 +6374,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "桔梗茶",
-        "桔梗根晒干熬煮——传统上嗓子不适时喝的根茶。",
+        "秋桔梗根晒干熬煮的传统根茶——淡淡苦甜与根的独特香气深深渗出。",
         "不发酵 · 无咖啡因",
         "200毫升配5克",
         "2泡",
@@ -6386,7 +6386,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "桔梗茶",
-        "桔梗根晒乾熬煮——傳統上嗓子不適時喝的根茶。",
+        "秋桔梗根晒乾熬煮的傳統根茶——淡淡苦甜與根的獨特香氣深深滲出。",
         "不發酵 · 無咖啡因",
         "200毫升配5公克",
         "2泡",
@@ -6408,7 +6408,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "쑥차",
-        "봄 쑥을 말려 우린 향긋한 차 — 봄의 차.",
+        "3~4월 어린 쑥을 말려 우린 봄의 차 — 풀 향과 옅은 쓴맛이 따뜻하게 마실 때 향긋하게 피어납니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g",
         "2회",
@@ -6420,7 +6420,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Mugwort Tea",
-        "Spring mugwort dried — the cup of early spring.",
+        "The cup of spring: young March–April mugwort, dried and steeped — green aroma and a faint bitterness, fragrant when drunk warm.",
         "None · caffeine-free",
         "2 g to 200 ml",
         "2 infusions",
@@ -6432,7 +6432,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "艾草茶",
-        "春天艾草晒干——初春的一杯。",
+        "三四月嫩艾晒干的春天之茶——草香与淡淡苦味，温热饮用时香气绽放。",
         "不发酵 · 无咖啡因",
         "200毫升配2克",
         "2泡",
@@ -6444,7 +6444,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "艾草茶",
-        "春天艾草晒乾——初春的一杯。",
+        "三四月嫩艾晒乾的春天之茶——草香與淡淡苦味，溫熱飲用時香氣綻放。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克",
         "2泡",
@@ -6471,7 +6471,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "떡차",
-        "찐 잎을 눌러 만든 전통 병차 — 오래 두고 마십니다.",
+        "찐 잎을 절구에 찧어 판에 눌러 말린 전통 병차 — 오래 두고 조각을 부숴 끓이면 약재·대추·흙의 깊은 맛이 납니다.",
         "약한 후발효",
         "한 조각(5g)에 300ml",
         "3회 이상",
@@ -6483,7 +6483,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Tteokcha",
-        "Steamed leaf pressed into cakes — a tea kept for years.",
+        "A traditional Korean cake tea of steamed leaf pounded and pressed — kept for years, broken and simmered for deep herbs, dates and earth.",
         "Mild post-fermentation",
         "One piece (5 g) to 300 ml",
         "3 or more infusions",
@@ -6495,7 +6495,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "饼茶",
-        "蒸叶压成的茶饼——可存放多年。",
+        "蒸叶舂捣压模的传统饼茶——久存后掰块煮饮，药材、红枣与泥土的深厚味道。",
         "轻微后发酵",
         "一片（5克）配300毫升",
         "3泡以上",
@@ -6507,7 +6507,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "餅茶",
-        "蒸葉壓成的茶餅——可存放多年。",
+        "蒸葉舂搗壓模的傳統餅茶——久存後掰塊煮飲，藥材、紅棗與泥土的深厚味道。",
         "輕微後發酵",
         "一片（5公克）配300毫升",
         "3泡以上",
@@ -6529,7 +6529,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "캐모마일",
-        "사과와 꿀 향의 꽃차 — 잠들기 전 한 잔.",
+        "이집트·독일 등지에서 온 캐모마일 꽃을 말린 꽃차 — 사과·꿀·건초 향이 부드럽고 약간 달콤하게 피어납니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g (꽃 1작은술)",
         "1~2회",
@@ -6541,7 +6541,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Chamomile",
-        "Apple and honey in a flower — a cup before sleep.",
+        "A flower tea of dried chamomile from Egypt, Germany and beyond — apple, honey and hay, soft and faintly sweet.",
         "None · caffeine-free",
         "2 g (a teaspoon of flowers) to 200 ml",
         "1–2 infusions",
@@ -6553,7 +6553,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "洋甘菊",
-        "苹果与蜂蜜香的花茶——睡前一杯。",
+        "埃及、德国等地洋甘菊花晒干的花茶——苹果、蜂蜜与干草香，柔和微甜。",
         "不发酵 · 无咖啡因",
         "200毫升配2克（一小勺花）",
         "1~2泡",
@@ -6565,7 +6565,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "洋甘菊",
-        "蘋果與蜂蜜香的花茶——睡前一杯。",
+        "埃及、德國等地洋甘菊花晒乾的花茶——蘋果、蜂蜜與乾草香，柔和微甜。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克（一小勺花）",
         "1~2泡",
@@ -6587,7 +6587,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "페퍼민트",
-        "서늘한 민트 향의 허브차 — 식후에.",
+        "유럽·미국의 박하 잎을 말린 허브차 — 청량한 멘톨 향이 떫음 없이 서늘하게 입안을 씻어줍니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g",
         "1~2회",
@@ -6599,7 +6599,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Peppermint",
-        "Cool mint in a herb tea — for after eating.",
+        "A herb tea of dried mint leaf from Europe and America — cool menthol freshness with no astringency.",
         "None · caffeine-free",
         "2 g to 200 ml",
         "1–2 infusions",
@@ -6611,7 +6611,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "薄荷",
-        "清凉薄荷香的草本茶——饭后喝。",
+        "欧美薄荷叶晒干的草本茶——清凉薄荷醇香气，无涩味，爽口清新。",
         "不发酵 · 无咖啡因",
         "200毫升配2克",
         "1~2泡",
@@ -6623,7 +6623,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "薄荷",
-        "清涼薄荷香的草本茶——飯後喝。",
+        "歐美薄荷葉晒乾的草本茶——清涼薄荷醇香氣，無澀味，爽口清新。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克",
         "1~2泡",
@@ -6645,7 +6645,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "히비스커스",
-        "붉은 꽃받침의 신맛 — 아이스티로 가장 좋은 차.",
+        "로젤 꽃받침을 말린 붉은 차 — 새콤한 산미와 베리 향, 진한 붉은 수색이 차갑게 마실 때 더욱 빛납니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "1~2회",
@@ -6657,7 +6657,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Hibiscus",
-        "The sourness of red calyx — the best tea to drink iced.",
+        "A red tea of dried roselle calyces — tart berry acidity and a deep red liquor that shine brightest served cold.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "1–2 infusions",
@@ -6669,7 +6669,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "洛神花",
-        "红色花萼的酸——最适合做冰茶的茶。",
+        "洛神花萼晒干的红茶——酸爽莓果香与深红茶汤，冰饮更出彩。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "1~2泡",
@@ -6681,7 +6681,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "洛神花",
-        "紅色花萼的酸——最適合做冰茶的茶。",
+        "洛神花萼晒乾的紅茶——酸爽莓果香與深紅茶湯，冰飲更出彩。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "1~2泡",
@@ -6703,7 +6703,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "루이보스",
-        "남아공의 붉은 관목차 — 카페인 없이 우유와도 어울립니다.",
+        "남아공 세데르버흐의 붉은 관목, 침엽 잎을 발효시킨 차 — 바닐라·무화과·꿀의 부드러운 단맛이 우유와도 어울립니다.",
         "무산화 · 카페인 없음",
         "200ml에 3g",
         "2회",
@@ -6715,7 +6715,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Rooibos",
-        "South Africa's red bush tea — caffeine-free, and it takes milk.",
+        "South Africa's red bush from the Cederberg, its needle leaves fermented — vanilla, fig and honey sweetness that also takes milk.",
         "None · caffeine-free",
         "3 g to 200 ml",
         "2 infusions",
@@ -6727,7 +6727,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "路易波士",
-        "南非的红灌木茶——无咖啡因，也适合加奶。",
+        "南非塞德贝格红灌木，针叶发酵而成——香草、无花果与蜂蜜的柔和甜味，加奶也合。",
         "不发酵 · 无咖啡因",
         "200毫升配3克",
         "2泡",
@@ -6739,7 +6739,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "路易波士",
-        "南非的紅灌木茶——無咖啡因，也適合加奶。",
+        "南非塞德貝格紅灌木，針葉發酵而成——香草、無花果與蜂蜜的柔和甜味，加奶也合。",
         "不發酵 · 無咖啡因",
         "200毫升配3公克",
         "2泡",
@@ -6762,7 +6762,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "마테",
-        "남미의 카페인 잎차 — 호리병과 금속 빨대로 마십니다.",
+        "남미에서 호리병과 금속 빨대로 나눠 마시는 마테 — 풀·건초·옅은 연기의 쌉쌀한 여운이 이어집니다.",
         "무산화 · 카페인 있음",
         "200ml에 3g",
         "2~3회",
@@ -6774,7 +6774,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Yerba Mate",
-        "South America's caffeinated leaf — drunk from a gourd with a metal straw.",
+        "South America's mate, shared from a gourd through a metal straw — grass, hay and light smoke with a bitter finish.",
         "None · contains caffeine",
         "3 g to 200 ml",
         "2–3 infusions",
@@ -6786,7 +6786,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "马黛茶",
-        "南美的含咖啡因叶茶——用葫芦和金属吸管喝。",
+        "南美用葫芦与金属吸管分享的马黛茶——青草、干草与淡淡烟香，余味微苦。",
         "不发酵 · 含咖啡因",
         "200毫升配3克",
         "2~3泡",
@@ -6798,7 +6798,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "馬黛茶",
-        "南美的含咖啡因葉茶——用葫蘆和金屬吸管喝。",
+        "南美用葫蘆與金屬吸管分享的馬黛茶——青草、乾草與淡淡煙香，餘味微苦。",
         "不發酵 · 含咖啡因",
         "200毫升配3公克",
         "2~3泡",
@@ -6820,7 +6820,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "라벤더",
-        "프로방스의 보랏빛 꽃차 — 향이 강해 조금만.",
+        "프랑스 프로방스의 보랏빛 꽃을 말린 꽃차 — 라벤더·꿀·옅은 시트러스의 강한 향이라 조금만으로도 충분합니다.",
         "무산화 · 카페인 없음",
         "200ml에 1g",
         "1회",
@@ -6832,7 +6832,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lavender",
-        "Provence's purple flower — so fragrant that a little is enough.",
+        "A flower tea of Provence's purple lavender, dried — so perfumed with lavender, honey and light citrus that a little is enough.",
         "None · caffeine-free",
         "1 g to 200 ml",
         "One infusion",
@@ -6844,7 +6844,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "薰衣草",
-        "普罗旺斯的紫色花茶——香气强，少放为宜。",
+        "法国普罗旺斯紫色薰衣草晒干的花茶——薰衣草、蜂蜜与淡淡柑橘香浓烈，少放即可。",
         "不发酵 · 无咖啡因",
         "200毫升配1克",
         "1泡",
@@ -6856,7 +6856,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "薰衣草",
-        "普羅旺斯的紫色花茶——香氣強，少放為宜。",
+        "法國普羅旺斯紫色薰衣草晒乾的花茶——薰衣草、蜂蜜與淡淡柑橘香濃烈，少放即可。",
         "不發酵 · 無咖啡因",
         "200毫升配1公克",
         "1泡",
@@ -6878,7 +6878,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "레몬그라스",
-        "레몬 향의 풀차 — 동남아의 향신료 차.",
+        "태국·베트남의 레몬그라스 줄기와 잎을 말린 풀차 — 레몬·시트러스에 옅은 생강이 겹쳐 상쾌하게 피어납니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g",
         "2회",
@@ -6890,7 +6890,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Lemongrass",
-        "A lemon-scented grass — South-East Asia in a cup.",
+        "A grass tea of dried lemongrass stalks and leaves from Thailand and Vietnam — lemon and citrus over a hint of ginger, refreshing.",
         "None · caffeine-free",
         "2 g to 200 ml",
         "2 infusions",
@@ -6902,7 +6902,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "香茅",
-        "带着柠檬香的草茶——东南亚的味道。",
+        "泰国、越南柠檬草茎叶晒干的草茶——柠檬柑橘香叠着淡淡姜味，清新爽口。",
         "不发酵 · 无咖啡因",
         "200毫升配2克",
         "2泡",
@@ -6914,7 +6914,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "香茅",
-        "帶著檸檬香的草茶——東南亞的味道。",
+        "泰國、越南檸檬草莖葉晒乾的草茶——檸檬柑橘香疊著淡淡薑味，清新爽口。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克",
         "2泡",
@@ -6937,7 +6937,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "국화",
-        "가을 국화를 말려 우린 향긋한 꽃차.",
+        "항저우·황산과 한국의 노란 국화를 말린 가을 꽃차 — 청량한 약재 향과 옅은 단맛이 향긋하게 번집니다.",
         "무산화 · 카페인 없음",
         "200ml에 2g(꽃 3~4송이)",
         "2회",
@@ -6949,7 +6949,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Chrysanthemum Tea",
-        "Autumn chrysanthemum dried — a fragrant flower tea.",
+        "An autumn flower tea of yellow chrysanthemums from Hangzhou, Huangshan and Korea — a cool herbal note with a light sweetness.",
         "None · caffeine-free",
         "2 g (3–4 flowers) to 200 ml",
         "2 infusions",
@@ -6961,7 +6961,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "菊花茶",
-        "秋天菊花晒干——清香的花茶。",
+        "杭州、黄山与韩国黄菊晒干的秋日花茶——清凉药香与淡淡甜味，香气弥漫。",
         "不发酵 · 无咖啡因",
         "200毫升配2克（3~4朵）",
         "2泡",
@@ -6973,7 +6973,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "菊花茶",
-        "秋天菊花晒乾——清香的花茶。",
+        "杭州、黃山與韓國黃菊晒乾的秋日花茶——清涼藥香與淡淡甜味，香氣瀰漫。",
         "不發酵 · 無咖啡因",
         "200毫升配2公克（3~4朵）",
         "2泡",
@@ -7002,7 +7002,7 @@ window.TEAFaiData = (function () {
       ox: 0,
       ko: [
         "모과차",
-        "향이 강한 모과를 꿀에 절여 우린, 겨울 목을 위한 잔.",
+        "'나무에 열린 향기'라 불린 모과를 씨째 꿀에 절인 차 — 은은한 꽃향과 단맛 끝에 옅은 떫음이 남습니다.",
         "무산화 · 카페인 없음",
         "청 2큰술에 200ml",
         "1회",
@@ -7016,7 +7016,7 @@ window.TEAFaiData = (function () {
       ],
       en: [
         "Quince Tea",
-        "Quince preserved in honey — a winter cup for a scratchy throat.",
+        "Quince, once called 'fragrance borne on a tree', preserved seeds and all in honey — soft floral sweetness ending in faint astringency.",
         "None · caffeine-free",
         "2 spoons of cheong to 200 ml",
         "One brew",
@@ -7030,7 +7030,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-CN": [
         "木瓜茶",
-        "香气浓烈的木瓜用蜜腌成的一杯，为冬天的嗓子。",
+        "被称作“树上香气”的木瓜连籽蜜渍成茶——淡淡花香甜味，尾端微涩。",
         "不发酵 · 无咖啡因",
         "蜜渍2勺配200毫升",
         "1次",
@@ -7044,7 +7044,7 @@ window.TEAFaiData = (function () {
       ],
       "zh-TW": [
         "木瓜茶",
-        "香氣濃烈的木瓜用蜜醃成的一杯，為冬天的嗓子。",
+        "被稱作「樹上香氣」的木瓜連籽蜜漬成茶——淡淡花香甜味，尾端微澀。",
         "不發酵 · 無咖啡因",
         "蜜漬2勺配200毫升",
         "1次",
@@ -7695,7 +7695,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "죽엽청 (아미산)",
-      "oneLine": "대나무 잎처럼 곧게 편 잎 — 쓰촨의 봄을 일찍 담는 차.",
+      "oneLine": "1964년 아미산에서 시작된 죽엽청 — 청명 전 싹을 덖어 대나무 잎처럼 곧게 펴면 옅은 풀 향과 맑은 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -7711,7 +7711,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Zhu Ye Qing (Emei)",
-      "oneLine": "Flat blades like bamboo leaves — Sichuan's early spring in a cup.",
+      "oneLine": "Zhu Ye Qing, begun on Mount Emei in 1964 — pre-Qingming buds fired flat as bamboo leaves, with light grass aroma and clean sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -7727,7 +7727,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "竹叶青",
-      "oneLine": "形如竹叶的扁平芽叶——把四川的早春装进杯里。",
+      "oneLine": "1964年始于峨眉山的竹叶青——清明前嫩芽炒成竹叶般扁直，淡淡草香与清甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -7743,7 +7743,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "竹葉青",
-      "oneLine": "形如竹葉的扁平芽葉——把四川的早春裝進杯裡。",
+      "oneLine": "1964年始於峨眉山的竹葉青——清明前嫩芽炒成竹葉般扁直，淡淡草香與清甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -7810,7 +7810,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "은시옥로",
-      "oneLine": "수증기로 찌고 바늘처럼 비튼, 중국에서 드문 증청 녹차.",
+      "oneLine": "청대부터 이어진 후베이 은시의 증청 녹차 — 수증기로 찌고 바늘처럼 비틀어 감칠맛과 해조류 같은 향이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -7826,7 +7826,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Enshi Yulu",
-      "oneLine": "Steamed and twisted into needles — a rare steamed green in China.",
+      "oneLine": "Enshi Yulu, Hubei's steamed green since the Qing — steamed and twisted into needles for savoury umami and a seaweed edge.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -7842,7 +7842,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "恩施玉露",
-      "oneLine": "蒸汽杀青、揉成针形，中国少见的蒸青绿茶。",
+      "oneLine": "清代延续至今的湖北恩施蒸青绿茶——蒸汽杀青揉成针形，鲜味中带海藻气息。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -7858,7 +7858,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "恩施玉露",
-      "oneLine": "蒸汽殺青、揉成針形，中國少見的蒸青綠茶。",
+      "oneLine": "清代延續至今的湖北恩施蒸青綠茶——蒸汽殺青揉成針形，鮮味中帶海藻氣息。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -7926,7 +7926,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "안길백차",
-      "oneLine": "봄에 잎이 희게 뜨는 품종으로 만든, 이름은 백차지만 녹차인 차.",
+      "oneLine": "이름은 백차지만 녹차인 안길백차 — 봄에 희게 뜨는 백엽1호로 만들어 감칠맛이 두드러지고 떫음이 거의 없습니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -7942,7 +7942,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Anji Bai Cha",
-      "oneLine": "A green tea from a spring-pale cultivar, named white tea.",
+      "oneLine": "Anji Bai Cha, a green tea despite its 'white' name — from the spring-pale Baiye 1 cultivar, rich in umami with almost no astringency.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -7958,7 +7958,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "安吉白茶",
-      "oneLine": "用春季叶色发白的品种做成，名字叫白茶，其实是绿茶。",
+      "oneLine": "名为白茶实为绿茶的安吉白茶——春白的白叶一号制成，鲜味突出，几乎无涩。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -7974,7 +7974,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "安吉白茶",
-      "oneLine": "用春季葉色發白的品種做成，名字叫白茶，其實是綠茶。",
+      "oneLine": "名為白茶實為綠茶的安吉白茶——春白的白葉一號製成，鮮味突出，幾乎無澀。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8041,7 +8041,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "구고뇌",
-      "oneLine": "장시 오지의 안개 골짜기에서 나는, 난초 향의 가는 잎 녹차.",
+      "oneLine": "1915년 파나마 박람회 금상 기록이 전하는 구고뇌 — 장시 안개 골짜기 잎에서 난초 향과 부드러운 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8057,7 +8057,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Gougunao",
-      "oneLine": "Fine-leaf green tea with an orchid scent from a misty Jiangxi valley.",
+      "oneLine": "Gougunao, said to have won gold at the 1915 Panama exposition — fine leaves from a misty Jiangxi valley, orchid-scented and gently sweet.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8073,7 +8073,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "狗牯脑",
-      "oneLine": "江西深谷雾山里细条形的兰花香绿茶。",
+      "oneLine": "相传1915年巴拿马博览会获金奖的狗牯脑——江西雾谷细叶，兰花香与柔和甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8089,7 +8089,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "狗牯腦",
-      "oneLine": "江西深谷霧山裡細條形的蘭花香綠茶。",
+      "oneLine": "相傳1915年巴拿馬博覽會獲金獎的狗牯腦——江西霧谷細葉，蘭花香與柔和甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8156,7 +8156,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "무원명미",
-      "oneLine": "눈썹처럼 휘어진 잎, 장시 무원의 부드러운 녹차.",
+      "oneLine": "1958년 탄생해 전국 명차에 오른 무원명미 — 눈썹처럼 비튼 잎에서 부드러운 풀 향과 밤 같은 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8172,7 +8172,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Wuyuan Mingmei",
-      "oneLine": "Eyebrow-curved leaf — a gentle green from Wuyuan, Jiangxi.",
+      "oneLine": "Wuyuan Mingmei, created in 1958 and ranked among China's famous teas — eyebrow-curled leaves with soft grass and chestnut sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8188,7 +8188,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "婺源茗眉",
-      "oneLine": "眉形弯曲的叶片，江西婺源的柔和绿茶。",
+      "oneLine": "1958年创制、入选全国名茶的婺源茗眉——眉形卷叶，柔和草香与栗子甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8204,7 +8204,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "婺源茗眉",
-      "oneLine": "眉形彎曲的葉片，江西婺源的柔和綠茶。",
+      "oneLine": "1958年創製、入選全國名茶的婺源茗眉——眉形捲葉，柔和草香與栗子甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8271,7 +8271,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "몽정감로",
-      "oneLine": "몽정산에서 내려온, 곱게 꼬인 쓰촨의 명차.",
+      "oneLine": "당대부터 공차로 오른 몽정산의 유서 깊은 명차 — 세 번 덖고 세 번 비벼 곱게 말면 밤·콩의 고소함이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8287,7 +8287,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mengding Ganlu",
-      "oneLine": "A finely curled Sichuan classic from Mount Mengding.",
+      "oneLine": "Mengding Ganlu, tribute tea since the Tang — fired and rolled three times into a fine curl of chestnut and soy roastiness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8303,7 +8303,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "蒙顶甘露",
-      "oneLine": "四川蒙顶的细卷名茶。",
+      "oneLine": "唐代已为贡茶的蒙顶甘露——三炒三揉卷成细条，栗子与豆香的焙香甜润。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8319,7 +8319,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蒙頂甘露",
-      "oneLine": "四川蒙頂的細卷名茶。",
+      "oneLine": "唐代已為貢茶的蒙頂甘露——三炒三揉捲成細條，栗子與豆香的焙香甜潤。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8386,7 +8386,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "한중선호",
-      "oneLine": "중국 차 산지의 북쪽 끝, 긴 겨울을 견딘 두꺼운 봄잎.",
+      "oneLine": "중국 차 산지 북쪽 끝 한중의 선호 — 긴 겨울을 견딘 두꺼운 봄잎에서 풀·꽃 향과 오래 남는 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8402,7 +8402,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Hanzhong Xianhao",
-      "oneLine": "From the northern edge of Chinese tea country: thick spring leaf after a long winter.",
+      "oneLine": "Hanzhong Xianhao from the northern edge of China's tea country — thick spring leaf after a long winter, with grass, flowers and lasting sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8418,7 +8418,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "汉中仙毫",
-      "oneLine": "中国茶区北缘，熬过漫长冬季的厚实春叶。",
+      "oneLine": "中国茶区北缘的汉中仙毫——熬过长冬的厚实春叶，草香花香与久留的甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8434,7 +8434,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "漢中仙毫",
-      "oneLine": "中國茶區北緣，熬過漫長冬季的厚實春葉。",
+      "oneLine": "中國茶區北緣的漢中仙毫——熬過長冬的厚實春葉，草香花香與久留的甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8501,7 +8501,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "혜명",
-      "oneLine": "절 이름을 그대로 가진, 저장 산사의 봄잎.",
+      "oneLine": "저장 산사 혜명사의 이름이 그대로 차 이름이 된 혜명 — 여린 싹을 낮게 덖어 옅은 꽃·풀 향과 깨끗한 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8517,7 +8517,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Huiming Tea",
-      "oneLine": "Spring leaf from a Zhejiang mountain temple that gave the tea its name.",
+      "oneLine": "Huiming, named directly for the Zhejiang mountain temple where it began — tender buds fired low for faint flowers, grass and clean sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8533,7 +8533,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "惠明茶",
-      "oneLine": "以寺为名，浙江山寺边的春芽。",
+      "oneLine": "以浙江山寺惠明寺为名的惠明茶——嫩芽低温炒制，淡淡花草香与干净甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8549,7 +8549,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "惠明茶",
-      "oneLine": "以寺為名，浙江山寺邊的春芽。",
+      "oneLine": "以浙江山寺惠明寺為名的惠明茶——嫩芽低溫炒製，淡淡花草香與乾淨甜味。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8616,7 +8616,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "녹차 (보성)",
-      "oneLine": "한국에서 차밭이 가장 넓게 이어지는 곳, 보성의 봄잎.",
+      "oneLine": "한국에서 차밭이 가장 넓게 이어지는 보성의 녹차 — 봄부터 대작까지 이어 따 구수한 덖음 향과 단맛이 겹칩니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3~4회",
@@ -8632,7 +8632,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Green Tea (Boseong)",
-      "oneLine": "Korea's widest tea fields — spring leaf from Boseong.",
+      "oneLine": "Green tea from Boseong, Korea's widest tea fields — picked from spring through daejak, roasted and grassy with sweetness behind.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3–4 infusions",
@@ -8648,7 +8648,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "宝城绿茶",
-      "oneLine": "韩国茶田最连片之处，宝城的春叶。",
+      "oneLine": "韩国茶田最连片的宝城绿茶——从春采到大作，焙香与草香交叠，甜味随后。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3~4泡",
@@ -8664,7 +8664,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "寶城綠茶",
-      "oneLine": "韓國茶田最連片之處，寶城的春葉。",
+      "oneLine": "韓國茶田最連片的寶城綠茶——從春採到大作，焙香與草香交疊，甜味隨後。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3~4泡",
@@ -8731,7 +8731,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "벽라춘 (삼협)",
-      "oneLine": "대만에서 이어 온 중국식 녹차 — 달콤한 나선 잎.",
+      "oneLine": "장쑤 둥팅 벽라춘의 이름을 이어 대만 삼협이 지켜온 녹차 — 나선으로 만 잎에서 풋풀 향과 옅은 과일 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8747,7 +8747,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Biluochun (Sanxia)",
-      "oneLine": "Taiwan's Chinese-style green tea — sweet spiral leaf.",
+      "oneLine": "Sanxia's green tea, carrying Jiangsu Dongting Biluochun's name in Taiwan since the 1940s — spiral leaves with green-grass and faint fruit sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8763,7 +8763,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "三峡碧螺春",
-      "oneLine": "台湾延续的中国式绿茶，甜润的螺旋形叶片。",
+      "oneLine": "承江苏洞庭碧螺春之名、台湾三峡自1940年代延续的绿茶——螺旋叶带青草香与淡淡果甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8779,7 +8779,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "三峽碧螺春",
-      "oneLine": "臺灣延續的中國式綠茶，甜潤的螺旋形葉片。",
+      "oneLine": "承江蘇洞庭碧螺春之名、臺灣三峽自1940年代延續的綠茶——螺旋葉帶青草香與淡淡果甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8846,7 +8846,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "카부세",
-      "oneLine": "수확 전 짧게 가린 잎 — 센차와 옥로 사이의 감칠맛.",
+      "oneLine": "센차와 옥로 사이, 수확 전 1~2주만 가린 카부세 — 차광이 감칠맛을 올려 해조류 향과 단맛이 진하게 겹칩니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8862,7 +8862,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Kabusecha",
-      "oneLine": "Briefly shaded leaf — the umami between sencha and gyokuro.",
+      "oneLine": "Kabusecha, between sencha and gyokuro, shaded just one to two weeks — shading lifts umami, layering seaweed notes over deep sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8878,7 +8878,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "冠茶",
-      "oneLine": "采前短期遮光，介于煎茶与玉露之间的鲜味。",
+      "oneLine": "介于煎茶与玉露之间、采前仅遮光一两周的冠茶——遮光提升鲜味，海藻香与甜味浓郁交叠。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8894,7 +8894,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "冠茶",
-      "oneLine": "採前短期遮光，介於煎茶與玉露之間的鮮味。",
+      "oneLine": "介於煎茶與玉露之間、採前僅遮光一兩週的冠茶——遮光提升鮮味，海藻香與甜味濃郁交疊。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -8961,7 +8961,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "카마이리",
-      "oneLine": "일본에서 드물게 솥에 덖는 녹차 — 구수함이 남는 잎.",
+      "oneLine": "증청이 대세인 일본에서 드물게 솥에 덖는 규슈의 녹차 — 볶은 곡물의 고소함과 가벼운 단맛이 해조 향 없이 맑게 남습니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -8977,7 +8977,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Kamairicha",
-      "oneLine": "Japan's rare wok-fired green tea — toasty rather than seaweedy.",
+      "oneLine": "A rarity in steamed-tea Japan — Kyushu green tea fired in a wok, leaving roasted-grain toastiness and light sweetness with no seaweed note.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -8993,7 +8993,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "釜炒茶",
-      "oneLine": "日本少见的锅炒绿茶，偏炒香而非海藻气。",
+      "oneLine": "在以蒸青为主的日本难得一见的九州锅炒绿茶——炒谷物的焦香与轻甜清爽留存，没有海藻气。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9009,7 +9009,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "釜炒茶",
-      "oneLine": "日本少見的鍋炒綠茶，偏炒香而非海藻氣。",
+      "oneLine": "在以蒸青為主的日本難得一見的九州鍋炒綠茶——炒穀物的焦香與輕甜清爽留存，沒有海藻氣。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9076,7 +9076,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "대불용정",
-      "oneLine": "시후 용정보다 이르게 나오는, 눌러 편 저장의 녹차.",
+      "oneLine": "시후 용정보다 이르게 나는 저장 신창의 용정 — 손바닥으로 눌러 편 잎에서 볶은 콩의 고소함과 가벼운 단맛이 납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9092,7 +9092,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Dafo Longjing",
-      "oneLine": "An earlier, everyday Longjing-style leaf from Zhejiang.",
+      "oneLine": "A Longjing from Xinchang, Zhejiang, picked earlier than West Lake's — hand-pressed flat leaves giving roasted-bean toastiness and light sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9108,7 +9108,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大佛龙井",
-      "oneLine": "比西湖龙井上市更早的日常龙井。",
+      "oneLine": "比西湖龙井更早采摘的浙江新昌龙井——手掌压扁的叶片，带炒豆的焦香与轻甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9124,7 +9124,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大佛龍井",
-      "oneLine": "比西湖龍井上市更早的日常龍井。",
+      "oneLine": "比西湖龍井更早採摘的浙江新昌龍井——手掌壓扁的葉片，帶炒豆的焦香與輕甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9191,7 +9191,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "녹차 (노산)",
-      "oneLine": "중국 차 산지의 북쪽 끝, 바닷바람이 만든 두꺼운 잎.",
+      "oneLine": "중국 차 산지의 북쪽 끝, 바닷바람과 화강암이 키운 두꺼운 잎 — 구수한 볶음 향과 진한 단맛이 여러 번 우러납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9207,7 +9207,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Green Tea (Laoshan)",
-      "oneLine": "Northern edge of Chinese tea: thick leaf grown in sea wind.",
+      "oneLine": "From the northern edge of China's tea country, thick leaves grown in sea wind and granite soil — toasty roast and solid sweetness over many infusions.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9223,7 +9223,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "崂山绿茶",
-      "oneLine": "中国茶区北缘，海风养出的厚叶。",
+      "oneLine": "中国茶区北缘，海风与花岗岩养出的厚叶——醇厚的炒香与浓甜，耐泡多道。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9239,7 +9239,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "嶗山綠茶",
-      "oneLine": "中國茶區北緣，海風養出的厚葉。",
+      "oneLine": "中國茶區北緣，海風與花崗岩養出的厚葉——醇厚的炒香與濃甜，耐泡多道。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9306,7 +9306,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "신공예 백차",
-      "oneLine": "전통 백차에 가벼운 유념을 더해 향을 끌어올린 방식.",
+      "oneLine": "1968년 푸딩에서 가벼운 유념으로 향을 깨운 새 방식의 백차 — 부드러운 단맛에 꽃 향과 옅은 구운 향이 겹칩니다.",
       "oxidation": "약 20%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9322,7 +9322,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "New Craft White Tea",
-      "oneLine": "Traditional white with a light roll — more aroma, a little oxidation.",
+      "oneLine": "A new craft born in Fuding in 1968, its light roll waking the aroma — gentle white-tea sweetness layered with flowers and a faint toast.",
       "oxidation": "about 20%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9338,7 +9338,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "新工艺白茶",
-      "oneLine": "传统白茶加轻度揉捻，香气更外放。",
+      "oneLine": "1968年在福鼎以轻揉唤醒香气的新工艺白茶——柔和的甜味里叠着花香与淡淡的烘烤香。",
       "oxidation": "约20%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9354,7 +9354,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "新工藝白茶",
-      "oneLine": "傳統白茶加輕度揉捻，香氣更外放。",
+      "oneLine": "1968年在福鼎以輕揉喚醒香氣的新工藝白茶——柔和的甜味裡疊著花香與淡淡的烘烤香。",
       "oxidation": "約20%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9421,7 +9421,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "월광백",
-      "oneLine": "한 면은 희고 한 면은 검은 잎 — 윈난의 달빛 백차.",
+      "oneLine": "한 면은 희고 한 면은 검게 마르는 윈난 대엽종 백차 — 말린 과일과 꿀 같은 단맛이 연한 살구빛 수색에 부드럽게 번집니다.",
       "oxidation": "약 15%",
       "ratioNote": "150ml에 4g",
       "rounds": "4회",
@@ -9437,7 +9437,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Moonlight White",
-      "oneLine": "One side pale, one side dark — Yunnan's moonlight white tea.",
+      "oneLine": "A Yunnan large-leaf white tea that dries pale on one side, dark on the other — dried fruit and honey sweetness in a soft, pale-apricot liquor.",
       "oxidation": "about 15%",
       "ratioNote": "4 g to 150 ml",
       "rounds": "4 infusions",
@@ -9453,7 +9453,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "月光白",
-      "oneLine": "一面白一面黑，云南的月光白茶。",
+      "oneLine": "一面白一面黑干成的云南大叶种白茶——干果与蜂蜜般的甜，柔和地晕在浅杏色的汤色里。",
       "oxidation": "约15%",
       "ratioNote": "150毫升配4克",
       "rounds": "4泡",
@@ -9469,7 +9469,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "月光白",
-      "oneLine": "一面白一面黑，雲南的月光白茶。",
+      "oneLine": "一面白一面黑乾成的雲南大葉種白茶——乾果與蜂蜜般的甜，柔和地暈在淺杏色的湯色裡。",
       "oxidation": "約15%",
       "ratioNote": "150毫升配4克",
       "rounds": "4泡",
@@ -9536,7 +9536,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "능운백호",
-      "oneLine": "흰 솜털이 많은 잎으로 만든 광시의 백차.",
+      "oneLine": "흰 솜털이 두텁게 덮인 광시 링윈의 싹으로 만든 백차 — 부드러운 꽃 향과 옅은 풀 향, 가벼운 단맛이 맑게 이어집니다.",
       "oxidation": "약 10%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9552,7 +9552,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Lingyun Baihao",
-      "oneLine": "A downy-leaf white tea from Guangxi.",
+      "oneLine": "A white tea from Guangxi's Lingyun, made of buds thick with white down — soft flowers, a hint of grass and light sweetness, clean to the end.",
       "oxidation": "about 10%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9568,7 +9568,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "凌云白毫",
-      "oneLine": "白毫浓密的广西白茶。",
+      "oneLine": "用白毫厚密的广西凌云芽头做的白茶——柔和花香、淡淡青草气与轻甜，清净绵长。",
       "oxidation": "约10%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9584,7 +9584,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "凌雲白毫",
-      "oneLine": "白毫濃密的廣西白茶。",
+      "oneLine": "用白毫厚密的廣西凌雲芽頭做的白茶——柔和花香、淡淡青草氣與輕甜，清淨綿長。",
       "oxidation": "約10%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9651,7 +9651,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "북항모첨",
-      "oneLine": "둥팅호 서쪽 물가의 작은 황차 — 뭉쳐 두어 노랗게 익힌 잎.",
+      "oneLine": "둥팅호 서쪽 물가에서 덖은 뒤 뭉쳐 노랗게 익힌 작은 황차 — 부드러운 곡물 향과 단맛, 녹차보다 떫음이 적습니다.",
       "oxidation": "약 12%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9667,7 +9667,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Beigang Maojian",
-      "oneLine": "A small yellow tea from the west shore of Dongting Lake.",
+      "oneLine": "A small yellow tea from Dongting Lake's west shore, piled after firing to yellow itself — soft grain sweetness, less astringent than green tea.",
       "oxidation": "about 12%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9683,7 +9683,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "北港毛尖",
-      "oneLine": "洞庭湖西岸的小宗黄茶，趁热堆闷转黄。",
+      "oneLine": "洞庭湖西岸炒后堆闷自黄的小宗黄茶——柔和的谷物甜，比绿茶少了涩味。",
       "oxidation": "约12%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9699,7 +9699,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "北港毛尖",
-      "oneLine": "洞庭湖西岸的小宗黃茶，趁熱堆悶轉黃。",
+      "oneLine": "洞庭湖西岸炒後堆悶自黃的小宗黃茶——柔和的穀物甜，比綠茶少了澀味。",
       "oxidation": "約12%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9766,7 +9766,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "위산모첨",
-      "oneLine": "마지막에 연기를 살짝 쬐어, 황차에 옅은 솔 향이 남는 차.",
+      "oneLine": "마지막 건조에 솔 연기를 살짝 쬔 후난 위산의 황차 — 곡물의 단맛에 옅은 솔 향이 겹치고 떫음은 적게 남습니다.",
       "oxidation": "약 15%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9782,7 +9782,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Weishan Maojian",
-      "oneLine": "A yellow tea finished over smoke — a faint pine note in the leaf.",
+      "oneLine": "A Hunan yellow tea from Weishan, lightly kissed by pine smoke at the final dry — grain sweetness with a wisp of smoke and little astringency.",
       "oxidation": "about 15%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9798,7 +9798,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "沩山毛尖",
-      "oneLine": "最后略经烟熏，叶里带一点松烟香的黄茶。",
+      "oneLine": "最后干燥时轻熏松烟的湖南沩山黄茶——谷物甜里叠着淡淡松烟，涩味很少。",
       "oxidation": "约15%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9814,7 +9814,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "溈山毛尖",
-      "oneLine": "最後略經煙燻，葉裡帶一點松煙香的黃茶。",
+      "oneLine": "最後乾燥時輕燻松煙的湖南溈山黃茶——穀物甜裡疊著淡淡松煙，澀味很少。",
       "oxidation": "約15%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9881,7 +9881,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "평양황탕",
-      "oneLine": "민황을 짧게 잡아 색이 연한, 저장 남부의 황차.",
+      "oneLine": "청대에 공차로 올랐다는 저장 핑양의 황차, 민황을 짧게 잡은 차 — 부드러운 곡물 향과 옅은 꽃 향, 가벼운 단맛이 납니다.",
       "oxidation": "약 12%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -9897,7 +9897,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pingyang Huangtang",
-      "oneLine": "A pale southern-Zhejiang yellow tea with a short yellowing.",
+      "oneLine": "A Pingyang yellow tea recorded as Qing tribute, its yellowing kept short — soft grain, faint flowers and light sweetness, close to green.",
       "oxidation": "about 12%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -9913,7 +9913,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "平阳黄汤",
-      "oneLine": "闷黄时间短、色泽偏浅的浙南黄茶。",
+      "oneLine": "清代曾为贡茶的浙江平阳黄茶，闷黄时间短——柔和谷物香、淡淡花香与轻甜。",
       "oxidation": "约12%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9929,7 +9929,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "平陽黃湯",
-      "oneLine": "悶黃時間短、色澤偏淺的浙南黃茶。",
+      "oneLine": "清代曾為貢茶的浙江平陽黃茶，悶黃時間短——柔和穀物香、淡淡花香與輕甜。",
       "oxidation": "約12%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -9996,7 +9996,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "환서황대",
-      "oneLine": "잎이 크고 굵은 안후이의 대형 황차 — 끓여 마시는 차.",
+      "oneLine": "잎이 크고 굵어 냄비에 끓여 마시는 안후이 서부의 황차 — 구수한 볶음 향과 진한 단맛이 우유를 넣어도 남습니다.",
       "oxidation": "약 20%",
       "ratioNote": "200ml에 5g",
       "rounds": "3회",
@@ -10012,7 +10012,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Wanxi Huangda Tea",
-      "oneLine": "Western Anhui's coarse-leaf yellow tea — made to be boiled.",
+      "oneLine": "Western Anhui's big, coarse-leaf yellow tea, made to be boiled in a pot — toasty roast and strong sweetness that holds even with milk.",
       "oxidation": "about 20%",
       "ratioNote": "5 g to 200 ml",
       "rounds": "3 infusions",
@@ -10028,7 +10028,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "皖西黄大茶",
-      "oneLine": "皖西粗老叶做成的大宗黄茶，适合煮饮。",
+      "oneLine": "叶大粗老、适合锅煮的皖西黄大茶——醇厚炒香与浓甜，加了牛奶也还在。",
       "oxidation": "约20%",
       "ratioNote": "200毫升配5克",
       "rounds": "3泡",
@@ -10044,7 +10044,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "皖西黃大茶",
-      "oneLine": "皖西粗老葉做成的大宗黃茶，適合煮飲。",
+      "oneLine": "葉大粗老、適合鍋煮的皖西黃大茶——醇厚炒香與濃甜，加了牛奶也還在。",
       "oxidation": "約20%",
       "ratioNote": "200毫升配5克",
       "rounds": "3泡",
@@ -10112,7 +10112,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "원안녹원",
-      "oneLine": "청대 기록이 남은 후베이 황차 — 가늘게 꼰 잎.",
+      "oneLine": "청대 건륭 연간 기록이 남은 후베이 루위안사의 황차 — 가늘게 꼰 잎에서 부드러운 곡물·꽃 향과 깨끗한 단맛이 납니다.",
       "oxidation": "약 15%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -10128,7 +10128,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Yu'an Luyuan Tea",
-      "oneLine": "A Hubei yellow tea with Qing records and a fine rolled leaf.",
+      "oneLine": "A Hubei yellow tea from Luyuan Temple, recorded in the Qianlong era — fine rolled strands giving soft grain, flowers and a clean sweetness.",
       "oxidation": "about 15%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -10144,7 +10144,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "远安鹿苑茶",
-      "oneLine": "清代已有记载的湖北黄茶，条索细紧。",
+      "oneLine": "清代乾隆年间已有记载的湖北鹿苑黄茶——细紧的条索里有柔和的谷物与花香、干净的甜。",
       "oxidation": "约15%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -10160,7 +10160,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "遠安鹿苑茶",
-      "oneLine": "清代已有記載的湖北黃茶，條索細緊。",
+      "oneLine": "清代乾隆年間已有記載的湖北鹿苑黃茶——細緊的條索裡有柔和的穀物與花香、乾淨的甜。",
       "oxidation": "約15%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -10227,7 +10227,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "무이육계",
-      "oneLine": "계피 껍질을 닮은 향 — 무이 암차의 또 다른 기둥.",
+      "oneLine": "계피 향으로 이름 붙은 무이 암차의 대표 품종 — 숯불 배화를 거친 잎에서 계피·정향의 향과 진한 단맛이 길게 남습니다.",
       "oxidation": "약 50%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "8회 이상",
@@ -10243,7 +10243,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Wuyi Rougui",
-      "oneLine": "Cinnamon-bark aroma — the other pillar of Wuyi rock oolong.",
+      "oneLine": "The Wuyi rock tea named for cinnamon bark, charcoal-baked in rounds — cinnamon and clove spice over deep sweetness with a long finish.",
       "oxidation": "about 50%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "8+ infusions",
@@ -10259,7 +10259,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "武夷肉桂",
-      "oneLine": "似桂皮的辛香，武夷岩茶的另一根柱子。",
+      "oneLine": "以桂皮香得名的武夷岩茶代表品种，经炭焙——桂皮与丁香的辛香压着浓甜，余韵悠长。",
       "oxidation": "约50%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "8泡以上",
@@ -10275,7 +10275,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "武夷肉桂",
-      "oneLine": "似桂皮的辛香，武夷巖茶的另一根柱子。",
+      "oneLine": "以桂皮香得名的武夷巖茶代表品種，經炭焙——桂皮與丁香的辛香壓著濃甜，餘韻悠長。",
       "oxidation": "約50%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "8泡以上",
@@ -10343,7 +10343,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "무이수선",
-      "oneLine": "큰 잎과 깊은 배화 — 나무가 늙을수록 이끼 향이 짙어지는 차.",
+      "oneLine": "나무가 늙을수록 이끼 향이 깊어지는 무이산의 큰잎 우롱 — 난초 향에 목질·이끼 향이 겹치고 배화의 단맛이 길게 갑니다.",
       "oxidation": "약 50%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "9회 이상",
@@ -10359,7 +10359,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Wuyi Shuixian",
-      "oneLine": "Big leaf, deep bake — and the older the bush, the mossier the cup.",
+      "oneLine": "Wuyi's big-leaf oolong, mossier the older the bush grows — orchid over wood and moss, with a baked sweetness that lasts.",
       "oxidation": "about 50%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "9+ infusions",
@@ -10375,7 +10375,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "武夷水仙",
-      "oneLine": "叶大焙足，树越老苔藓气越深。",
+      "oneLine": "树越老苔藓气越深的武夷大叶乌龙——兰香叠着木质与苔藓气，焙火的甜绵长。",
       "oxidation": "约50%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "9泡以上",
@@ -10391,7 +10391,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "武夷水仙",
-      "oneLine": "葉大焙足，樹越老苔蘚氣越深。",
+      "oneLine": "樹越老苔蘚氣越深的武夷大葉烏龍——蘭香疊著木質與苔蘚氣，焙火的甜綿長。",
       "oxidation": "約50%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "9泡以上",
@@ -10459,7 +10459,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "고산우롱 (대우령)",
-      "oneLine": "해발 2,300m, 대만에서 가장 높은 차밭의 늦고 두꺼운 잎.",
+      "oneLine": "해발 2,300m 대만에서 가장 높은 차밭의 두꺼운 잎 — 맑은 꽃 향과 청량한 단맛이 연한 금빛 수색으로 떫음 없이 핍니다.",
       "oxidation": "약 20%",
       "ratioNote": "150ml에 6g",
       "rounds": "8회",
@@ -10475,7 +10475,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "High Mountain Oolong (Dayuling)",
-      "oneLine": "Above 2,300 m — Taiwan's highest tea, thick slow-grown leaf.",
+      "oneLine": "Thick, slow-grown leaf from Taiwan's highest tea ground at 2,300 m — clear flowers and cool sweetness in a pale gold liquor, almost no astringency.",
       "oxidation": "about 20%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "8 infusions",
@@ -10491,7 +10491,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大禹岭高山乌龙",
-      "oneLine": "海拔2300米以上，台湾最高茶区的厚叶。",
+      "oneLine": "海拔2300米台湾最高茶区的厚叶——清澈花香与清凉的甜，在浅金色汤色里绽开，几乎不涩。",
       "oxidation": "约20%",
       "ratioNote": "150毫升配6克",
       "rounds": "8泡",
@@ -10507,7 +10507,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大禹嶺高山烏龍",
-      "oneLine": "海拔2300米以上，臺灣最高茶區的厚葉。",
+      "oneLine": "海拔2300米臺灣最高茶區的厚葉——清澈花香與清涼的甜，在淺金色湯色裡綻開，幾乎不澀。",
       "oxidation": "約20%",
       "ratioNote": "150毫升配6克",
       "rounds": "8泡",
@@ -10575,7 +10575,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "고산우롱 (삼림계)",
-      "oneLine": "삼나무 숲 사이 차밭의 고산차 — 맑고 서늘한 향.",
+      "oneLine": "삼나무 숲과 안개 사이에 자리한 해발 1,600m의 고산차 — 맑은 꽃 향과 옅은 풀 향, 깨끗한 단맛이 서늘하게 남습니다.",
       "oxidation": "약 20%",
       "ratioNote": "150ml에 6g",
       "rounds": "7회",
@@ -10591,7 +10591,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "High Mountain Oolong (Shanlinxi)",
-      "oneLine": "High-mountain tea from cedar-forest plots — clean and cool.",
+      "oneLine": "High-mountain tea from plots among cedar forest and fog at 1,600 m — clear flowers, a little grass and clean sweetness, cool in the cup.",
       "oxidation": "about 20%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "7 infusions",
@@ -10607,7 +10607,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "杉林溪高山乌龙",
-      "oneLine": "柳杉林间茶田的高山茶，清冷干净。",
+      "oneLine": "柳杉林与云雾之间海拔1600米的高山茶——清澈花香、淡淡青草气与干净的甜，清凉留杯。",
       "oxidation": "约20%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -10623,7 +10623,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "杉林溪高山烏龍",
-      "oneLine": "柳杉林間茶田的高山茶，清冷乾淨。",
+      "oneLine": "柳杉林與雲霧之間海拔1600米的高山茶——清澈花香、淡淡青草氣與乾淨的甜，清涼留杯。",
       "oxidation": "約20%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -10691,7 +10691,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "고산우롱 (이산)",
-      "oneLine": "과수원 사이 해발 2,000m, 과일 향이 도는 고산차.",
+      "oneLine": "밤낮 온도차가 큰 해발 2,000m 과수원 사이의 고산차 — 잘 익은 과일·꽃 향과 부드러운 단맛이 우러납니다.",
       "oxidation": "약 20%",
       "ratioNote": "150ml에 6g",
       "rounds": "8회",
@@ -10707,7 +10707,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "High Mountain Oolong (Lishan)",
-      "oneLine": "Ripened-fruit high mountain tea from among the orchards at 2,000 m.",
+      "oneLine": "High-mountain tea grown among orchards at 2,000 m, where wide day-night swings thicken the leaf — ripe fruit, flowers and soft sweetness.",
       "oxidation": "about 20%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "8 infusions",
@@ -10723,7 +10723,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "梨山高山乌龙",
-      "oneLine": "果园之间海拔两千米，熟果香的高山茶。",
+      "oneLine": "昼夜温差大的海拔2000米果园间高山茶——熟果香与花香、柔和的甜，从厚叶里透出。",
       "oxidation": "约20%",
       "ratioNote": "150毫升配6克",
       "rounds": "8泡",
@@ -10739,7 +10739,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "梨山高山烏龍",
-      "oneLine": "果園之間海拔兩千米，熟果香的高山茶。",
+      "oneLine": "晝夜溫差大的海拔2000米果園間高山茶——熟果香與花香、柔和的甜，從厚葉裡透出。",
       "oxidation": "約20%",
       "ratioNote": "150毫升配6克",
       "rounds": "8泡",
@@ -10806,7 +10806,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "황금계",
-      "oneLine": "향이 하늘을 뚫는다는 별명을 가진, 안시의 가벼운 우롱.",
+      "oneLine": "향이 하늘을 뚫는다는 별명의 안시 황단 우롱 — 가볍게 산화한 잎에서 크림 같은 향과 꽃 향, 가벼운 단맛이 퍼집니다.",
       "oxidation": "약 35%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "6회",
@@ -10822,7 +10822,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Huang Jin Gui",
-      "oneLine": "Anxi's lighter oolong, nicknamed 'heaven-piercing fragrance'.",
+      "oneLine": "Anxi's Huangdan oolong, nicknamed 'heaven-piercing fragrance' — lightly oxidised leaf spreading a creamy aroma, flowers and light sweetness.",
       "oxidation": "about 35%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "6 infusions",
@@ -10838,7 +10838,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "黄金桂",
-      "oneLine": "香气高扬、号称“透天香”的安溪轻发酵乌龙。",
+      "oneLine": "号称“透天香”的安溪黄旦乌龙——轻发酵的叶片散出奶油般的香、花香与轻甜。",
       "oxidation": "约35%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "6泡",
@@ -10854,7 +10854,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "黃金桂",
-      "oneLine": "香氣高揚、號稱「透天香」的安溪輕發酵烏龍。",
+      "oneLine": "號稱「透天香」的安溪黃旦烏龍——輕發酵的葉片散出奶油般的香、花香與輕甜。",
       "oxidation": "約35%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "6泡",
@@ -10921,7 +10921,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "본산",
-      "oneLine": "철관음의 동생이라 불리는, 가볍고 깨끗한 안시 우롱.",
+      "oneLine": "철관음의 동생이라 불리는 가볍고 깨끗한 안시 우롱 — 옅은 난초 향과 풀 향, 가벼운 단맛이 부담 없이 이어집니다.",
       "oxidation": "약 35%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "7회",
@@ -10937,7 +10937,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Benshan Oolong",
-      "oneLine": "The lighter, cheaper Anxi oolong — Tieguanyin's younger sibling.",
+      "oneLine": "The lighter Anxi oolong called Tieguanyin's younger sibling — faint orchid and grass with light sweetness, easy from first sip to last.",
       "oxidation": "about 35%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "7 infusions",
@@ -10953,7 +10953,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "本山",
-      "oneLine": "铁观音的“弟弟”，安溪轻香型乌龙。",
+      "oneLine": "被称为铁观音“弟弟”的清爽安溪乌龙——淡淡的兰香与青草气、轻甜，轻松绵长。",
       "oxidation": "约35%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "7泡",
@@ -10969,7 +10969,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "本山",
-      "oneLine": "鐵觀音的「弟弟」，安溪輕香型烏龍。",
+      "oneLine": "被稱為鐵觀音「弟弟」的清爽安溪烏龍——淡淡的蘭香與青草氣、輕甜，輕鬆綿長。",
       "oxidation": "約35%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "7泡",
@@ -11036,7 +11036,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "영춘불수",
-      "oneLine": "손바닥만 한 잎에서 나오는 배 같은 향 — 푸젠 융춘의 차.",
+      "oneLine": "부처손을 닮은 큰 잎으로 만드는 푸젠 융춘의 우롱 — 배와 감 같은 달콤한 과일 향이 부드럽게 번지고 떫음은 적습니다.",
       "oxidation": "약 40%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "7회",
@@ -11052,7 +11052,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Yongchun Foshou",
-      "oneLine": "Pear-like sweetness from leaves as broad as a hand.",
+      "oneLine": "Yongchun's oolong, made from leaves as broad as a Buddha's-hand citron — sweet pear and persimmon fruit, soft-bodied with little astringency.",
       "oxidation": "about 40%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "7 infusions",
@@ -11068,7 +11068,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "永春佛手",
-      "oneLine": "叶片大如佛手，带梨子般甜香。",
+      "oneLine": "用佛手般大叶做的福建永春乌龙——梨与柿子般的甜果香柔和散开，几乎不涩。",
       "oxidation": "约40%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "7泡",
@@ -11084,7 +11084,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "永春佛手",
-      "oneLine": "葉片大如佛手，帶梨子般甜香。",
+      "oneLine": "用佛手般大葉做的福建永春烏龍——梨與柿子般的甜果香柔和散開，幾乎不澀。",
       "oxidation": "約40%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "7泡",
@@ -11151,7 +11151,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "철관음 (목책)",
-      "oneLine": "숯불에 오래 배화한 타이베이의 철관음 — 구운 과일 향.",
+      "oneLine": "19세기 말부터 타이베이 무자에서 숯불에 오래 배화한 철관음 — 구운 과일과 캐러멜의 진한 단맛 끝에 옅은 탄 향이 남습니다.",
       "oxidation": "약 45%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "8회",
@@ -11167,7 +11167,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tieguanyin (Muzha)",
-      "oneLine": "Long charcoal-baked Tieguanyin from Taipei — roasted fruit and caramel.",
+      "oneLine": "Muzha's Tieguanyin, charcoal-baked long and often since the late 19th century — roasted fruit and caramel sweetness with a light char at the end.",
       "oxidation": "about 45%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "8 infusions",
@@ -11183,7 +11183,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "木栅铁观音",
-      "oneLine": "台北木栅长时间炭焙的铁观音，带烤果与焦糖香。",
+      "oneLine": "19世纪末以来在台北木栅长时间炭焙的铁观音——烤果与焦糖的浓甜，末尾留一点炭香。",
       "oxidation": "约45%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "8泡",
@@ -11199,7 +11199,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "木柵鐵觀音",
-      "oneLine": "臺北木柵長時間炭焙的鐵觀音，帶烤果與焦糖香。",
+      "oneLine": "19世紀末以來在臺北木柵長時間炭焙的鐵觀音——烤果與焦糖的濃甜，末尾留一點炭香。",
       "oxidation": "約45%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "8泡",
@@ -11266,7 +11266,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "밀란향 단총",
-      "oneLine": "꿀과 난초가 겹치는, 봉황단총의 대표 향형.",
+      "oneLine": "봉황단총에서 가장 널리 퍼진 향형, 꿀과 난초가 겹치는 차 — 진한 몸통 위로 달콤한 향이 길게 여운을 남깁니다.",
       "oxidation": "약 45%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "10회 이상",
@@ -11282,7 +11282,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mi Lan Xiang Dancong",
-      "oneLine": "Honey over orchid — the most planted Phoenix dancong aroma.",
+      "oneLine": "The most widely planted Phoenix dancong aroma, honey laid over orchid — a full body carrying its sweet fragrance into a long finish.",
       "oxidation": "about 45%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "10+ infusions",
@@ -11298,7 +11298,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "蜜兰香单丛",
-      "oneLine": "蜜香叠兰香，凤凰单丛最常见的香型。",
+      "oneLine": "凤凰单丛里最常见的香型，蜜香叠着兰香——醇厚的茶身托着甜香，余韵悠长。",
       "oxidation": "约45%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "10泡以上",
@@ -11314,7 +11314,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蜜蘭香單叢",
-      "oneLine": "蜜香疊蘭香，鳳凰單叢最常見的香型。",
+      "oneLine": "鳳凰單叢裡最常見的香型，蜜香疊著蘭香——醇厚的茶身托著甜香，餘韻悠長。",
       "oxidation": "約45%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "10泡以上",
@@ -11381,7 +11381,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "압시 우롱",
-      "oneLine": "거친 이름 뒤에 은은한 꽃 향이 있는 봉황단총.",
+      "oneLine": "거친 이름과 달리 은화향이라 불리는 봉황단총 — 은방울꽃 같은 청량한 꽃 향과 산뜻한 단맛이 길게 이어집니다.",
       "oxidation": "약 45%",
       "ratioNote": "개완 110ml에 7g",
       "rounds": "10회 이상",
@@ -11397,7 +11397,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ya Shi Xiang",
-      "oneLine": "A rough name for a silvery, cool floral dancong.",
+      "oneLine": "A Phoenix dancong whose rough name hides a 'silver flower' aroma — cool lily-of-the-valley florals and bright sweetness, long in the finish.",
       "oxidation": "about 45%",
       "ratioNote": "7 g in a 110 ml gaiwan",
       "rounds": "10+ infusions",
@@ -11413,7 +11413,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "鸭屎香",
-      "oneLine": "名字粗俗，香却是清冷的银花香。",
+      "oneLine": "名字粗俗却别称“银花香”的凤凰单丛——铃兰般清凉的花香与明快的甜，绵长不散。",
       "oxidation": "约45%",
       "ratioNote": "110毫升盖碗配7克",
       "rounds": "10泡以上",
@@ -11429,7 +11429,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "鴨屎香",
-      "oneLine": "名字粗俗，香卻是清冷的銀花香。",
+      "oneLine": "名字粗俗卻別稱「銀花香」的鳳凰單叢——鈴蘭般清涼的花香與明快的甜，綿長不散。",
       "oxidation": "約45%",
       "ratioNote": "110毫升蓋碗配7克",
       "rounds": "10泡以上",
@@ -11496,7 +11496,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍수우롱",
-      "oneLine": "산화를 깊게 올린 대만의 옛 방식 — 붉은 수색의 우롱.",
+      "oneLine": "산화를 60% 안팎까지 올린 대만 옛 방식의 우롱 — 붉은 수색 위로 잘 익은 과일과 꿀, 구운 향이 홍차처럼 진하게 납니다.",
       "oxidation": "약 60%",
       "ratioNote": "150ml에 6g",
       "rounds": "7회",
@@ -11512,7 +11512,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Hong Shui Oolong",
-      "oneLine": "Taiwan's older deep-oxidised style — an oolong with red liquor.",
+      "oneLine": "Taiwan's older oolong style, oxidised to around 60% and baked — ripe fruit, honey and a baked note over a red liquor, nearly black-tea dark.",
       "oxidation": "about 60%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "7 infusions",
@@ -11528,7 +11528,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红水乌龙",
-      "oneLine": "深氧化的台湾传统乌龙，汤色近红。",
+      "oneLine": "氧化约六成的台湾传统乌龙——红色汤色上熟果、蜂蜜与烘烤香浓得近似红茶。",
       "oxidation": "约60%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -11544,7 +11544,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅水烏龍",
-      "oneLine": "深氧化的臺灣傳統烏龍，湯色近紅。",
+      "oneLine": "氧化約六成的臺灣傳統烏龍——紅色湯色上熟果、蜂蜜與烘烤香濃得近似紅茶。",
       "oxidation": "約60%",
       "ratioNote": "150毫升配6克",
       "rounds": "7泡",
@@ -11612,7 +11612,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "우롱 (도이매살롱)",
-      "oneLine": "대만 제법이 건너가 자리 잡은 태국 북부의 우롱.",
+      "oneLine": "대만의 제법과 묘목이 건너가 자리 잡은 태국 북부의 우롱 — 가벼운 꽃 향과 단맛이 대만 고산차보다 부드럽게 번집니다.",
       "oxidation": "약 25%",
       "ratioNote": "150ml에 6g",
       "rounds": "6회",
@@ -11628,7 +11628,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Oolong (Doi Mae Salong)",
-      "oneLine": "Thai highland oolong grown from Taiwanese methods and seedlings.",
+      "oneLine": "Northern Thailand's oolong, rooted in Taiwanese methods and seedlings — light flowers and sweetness, softer than Taiwan's high-mountain cups.",
       "oxidation": "about 25%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6 infusions",
@@ -11644,7 +11644,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "美斯乐乌龙",
-      "oneLine": "台湾工艺与茶苗在泰北落地生根的乌龙。",
+      "oneLine": "台湾工艺与茶苗在泰北扎根的乌龙——轻盈花香与甜，比台湾高山茶更柔和。",
       "oxidation": "约25%",
       "ratioNote": "150毫升配6克",
       "rounds": "6泡",
@@ -11660,7 +11660,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "美斯樂烏龍",
-      "oneLine": "臺灣工藝與茶苗在泰北落地生根的烏龍。",
+      "oneLine": "臺灣工藝與茶苗在泰北扎根的烏龍——輕盈花香與甜，比臺灣高山茶更柔和。",
       "oxidation": "約25%",
       "ratioNote": "150毫升配6克",
       "rounds": "6泡",
@@ -11728,7 +11728,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "우롱 (목쩌우)",
-      "oneLine": "프랑스가 차를 들여온 베트남 고원의 우롱.",
+      "oneLine": "프랑스가 차를 들여온 베트남 목쩌우 고원의 우롱 — 풀 향과 가벼운 꽃 향, 깨끗한 단맛이 대만 우롱보다 산뜻합니다.",
       "oxidation": "약 30%",
       "ratioNote": "150ml에 6g",
       "rounds": "5회",
@@ -11744,7 +11744,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Oolong (Moc Chau)",
-      "oneLine": "Vietnamese highland oolong from a plateau the French first planted.",
+      "oneLine": "Oolong from Vietnam's Moc Chau plateau, where the French first planted tea — grass, light flowers and clean sweetness, fresher than Taiwan's.",
       "oxidation": "about 30%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "5 infusions",
@@ -11760,7 +11760,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "木州乌龙",
-      "oneLine": "法国人最早引种、越南高原上的乌龙茶。",
+      "oneLine": "法国人最早引种的越南木州高原乌龙——青草气、轻花香与干净的甜，比台湾乌龙更清爽。",
       "oxidation": "约30%",
       "ratioNote": "150毫升配6克",
       "rounds": "5泡",
@@ -11776,7 +11776,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "木州烏龍",
-      "oneLine": "法國人最早引種、越南高原上的烏龍茶。",
+      "oneLine": "法國人最早引種的越南木州高原烏龍——青草氣、輕花香與乾淨的甜，比臺灣烏龍更清爽。",
       "oxidation": "約30%",
       "ratioNote": "150毫升配6克",
       "rounds": "5泡",
@@ -11843,7 +11843,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "정산소종 (무연)",
-      "oneLine": "연기 없이 만든 정산소종 — 꽃과 말린 과일이 그대로.",
+      "oneLine": "소나무 연기를 쐬지 않고 숯불로만 말린 정산소종 — 말린 과일과 꿀, 꽃 향이 연기 없이 깨끗하게 드러납니다.",
       "oxidation": "약 90%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -11859,7 +11859,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Zhengshan Xiaozhong (unsmoked)",
-      "oneLine": "The smoke-free branch — flowers and dried fruit left in plain view.",
+      "oneLine": "Zhengshan Xiaozhong dried over charcoal alone, with no pine smoke — dried fruit, honey and flowers showing cleanly in its place.",
       "oxidation": "about 90%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -11875,7 +11875,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "正山小种（无烟）",
-      "oneLine": "不熏烟的正山小种，花果香原样呈现。",
+      "oneLine": "只用炭火、不熏松烟的正山小种——干果、蜂蜜与花香干净地原样呈现。",
       "oxidation": "约90%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -11891,7 +11891,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "正山小種（無煙）",
-      "oneLine": "不燻煙的正山小種，花果香原樣呈現。",
+      "oneLine": "只用炭火、不燻松煙的正山小種——乾果、蜂蜜與花香乾淨地原樣呈現。",
       "oxidation": "約90%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -11959,7 +11959,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "영덕홍차 (광둥)",
-      "oneLine": "광둥 대엽종의 힘 — 진하고 밝은 홍차.",
+      "oneLine": "광둥 대엽종의 힘을 담은 영덕의 홍차 — 몰트와 꿀, 붉은 과일 향이 진한 수색에 우유를 넣어도 또렷이 남습니다.",
       "oxidation": "약 95%",
       "ratioNote": "200ml에 3g, 밀크티는 150ml에 5g",
       "rounds": "3회",
@@ -11975,7 +11975,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Tea (Yingde)",
-      "oneLine": "Guangdong large-leaf strength — dark and bright.",
+      "oneLine": "Yingde black tea built on Guangdong large-leaf strength — malt, honey and red fruit in a dark liquor that stays vivid with milk.",
       "oxidation": "about 95%",
       "ratioNote": "3 g to 200 ml; 5 g to 150 ml for milk tea",
       "rounds": "3 infusions",
@@ -11991,7 +11991,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "英德红茶",
-      "oneLine": "广东大叶种的力度，浓强明亮。",
+      "oneLine": "广东大叶种力度的英德红茶——麦芽、蜂蜜与红色果香在浓汤里，加牛奶也鲜明。",
       "oxidation": "约95%",
       "ratioNote": "200毫升配3克，奶茶用150毫升配5克",
       "rounds": "3泡",
@@ -12007,7 +12007,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "英德紅茶",
-      "oneLine": "廣東大葉種的力度，濃強明亮。",
+      "oneLine": "廣東大葉種力度的英德紅茶——麥芽、蜂蜜與紅色果香在濃湯裡，加牛奶也鮮明。",
       "oxidation": "約95%",
       "ratioNote": "200毫升配3克，奶茶用150毫升配5克",
       "rounds": "3泡",
@@ -12073,7 +12073,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "리제",
-      "oneLine": "작은 유리잔에 진하게 — 흑해 연안의 매일 차.",
+      "oneLine": "흑해 연안 리제가 키운 튀르키예의 매일 차 — 작은 유리잔에 진하게 우린 몰트와 구운 빵 향이 깊은 붉은 수색으로 찹니다.",
       "oxidation": "약 95%",
       "ratioNote": "150ml에 4g",
       "rounds": "2회",
@@ -12089,7 +12089,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Rize Cay",
-      "oneLine": "Strong tea in a small tulip glass — the Black Sea everyday cup.",
+      "oneLine": "Türkiye's everyday tea from Rize on the Black Sea — malt and baked bread brewed strong into a small tulip glass of deep red liquor.",
       "oxidation": "about 95%",
       "ratioNote": "4 g to 150 ml",
       "rounds": "2 infusions",
@@ -12105,7 +12105,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "里泽红茶",
-      "oneLine": "小郁金香杯里的浓红茶，黑海沿岸的日常。",
+      "oneLine": "黑海沿岸里泽出产的土耳其日常红茶——麦芽与烤面包香浓泡进小郁金香杯，深红满杯。",
       "oxidation": "约95%",
       "ratioNote": "150毫升配4克",
       "rounds": "2泡",
@@ -12121,7 +12121,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "裡澤紅茶",
-      "oneLine": "小鬱金香杯裡的濃紅茶，黑海沿岸的日常。",
+      "oneLine": "黑海沿岸里澤出產的土耳其日常紅茶——麥芽與烤麵包香濃泡進小鬱金香杯，深紅滿杯。",
       "oxidation": "約95%",
       "ratioNote": "150毫升配4克",
       "rounds": "2泡",
@@ -12188,7 +12188,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍차 (캐머런 하이랜드)",
-      "oneLine": "적도 고원의 차밭에서 나는 진하고 둥근 홍차.",
+      "oneLine": "1929년부터 이어진 말레이시아 고원 차밭의 홍차 — 몰트와 구운 향이 진한 수색으로 우러나 우유와 잘 어울립니다.",
       "oxidation": "약 95%",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -12204,7 +12204,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Tea (Cameron Highlands)",
-      "oneLine": "Strong, round tea from an equatorial highland estate.",
+      "oneLine": "Black tea from Malaysia's Cameron Highlands, where one estate has grown tea since 1929 — malt and toast in a dark liquor made for milk.",
       "oxidation": "about 95%",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -12220,7 +12220,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "金马伦高原红茶",
-      "oneLine": "赤道高原茶园的浓圆红茶。",
+      "oneLine": "马来西亚金马伦高原自1929年延续的茶园红茶——麦芽与烘烤香浓汤而出，与牛奶相配。",
       "oxidation": "约95%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12236,7 +12236,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "金馬倫高原紅茶",
-      "oneLine": "赤道高原茶園的濃圓紅茶。",
+      "oneLine": "馬來西亞金馬倫高原自1929年延續的茶園紅茶——麥芽與烘烤香濃湯而出，與牛奶相配。",
       "oxidation": "約95%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12302,7 +12302,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍차 (르완다)",
-      "oneLine": "동아프리카 고지대의 맑고 밝은 홍차.",
+      "oneLine": "안개 낀 해발 1,600m 고지대에서 천천히 자란 르완다 홍차 — 몰트에 밝은 산미가 겹치고 케냐 차보다 부드럽게 남습니다.",
       "oxidation": "약 95%",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -12318,7 +12318,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Tea (Rwanda)",
-      "oneLine": "Bright, clean black tea from East African highlands.",
+      "oneLine": "Rwandan black tea grown slowly in misty hills at 1,600 m — malt with a bright edge in a deep red liquor, softer than Kenyan tea.",
       "oxidation": "about 95%",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -12334,7 +12334,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "卢旺达红茶",
-      "oneLine": "东非高地明亮干净的红茶。",
+      "oneLine": "在海拔1600米云雾山地慢长的卢旺达红茶——麦芽带明亮的酸韵，深红汤色，比肯尼亚茶更柔和。",
       "oxidation": "约95%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12350,7 +12350,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "盧安達紅茶",
-      "oneLine": "東非高地明亮乾淨的紅茶。",
+      "oneLine": "在海拔1600米雲霧山地慢長的盧旺達紅茶——麥芽帶明亮的酸韻，深紅湯色，比肯亞茶更柔和。",
       "oxidation": "約95%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12416,7 +12416,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍차 (두아르)",
-      "oneLine": "다즐링과 아쌈 사이 평원의 진한 홍차.",
+      "oneLine": "다즐링과 아쌈 사이 평원에서 자란 진한 홍차 — 몰트와 구운 향, 적당한 떫음이 우유를 넣은 아침 잔에 잘 맞습니다.",
       "oxidation": "약 92%",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -12432,7 +12432,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Tea (Dooars)",
-      "oneLine": "The strong plain-grown tea between Darjeeling and Assam.",
+      "oneLine": "The strong plain-grown tea between Darjeeling and Assam — malt and toast with a fair grip, made for a milky breakfast cup.",
       "oxidation": "about 92%",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -12448,7 +12448,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "杜阿尔斯红茶",
-      "oneLine": "大吉岭与阿萨姆之间平原的浓强红茶。",
+      "oneLine": "大吉岭与阿萨姆之间平原的浓强红茶——麦芽与烘烤香、适度的涩，正合加奶的早餐杯。",
       "oxidation": "约92%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12464,7 +12464,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "杜阿爾斯紅茶",
-      "oneLine": "大吉嶺與阿薩姆之間平原的濃強紅茶。",
+      "oneLine": "大吉嶺與阿薩姆之間平原的濃強紅茶——麥芽與烘烤香、適度的澀，正合加奶的早餐杯。",
       "oxidation": "約92%",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -12531,7 +12531,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍차 (영덕)",
-      "oneLine": "동해 바람 맞은 소규모 차밭의 한국 홍차.",
+      "oneLine": "동해 바람 부는 영덕 소규모 차밭의 여름잎 홍차 — 몰트에 옅은 꽃 향과 부드러운 단맛이 하동 잭살보다 가볍게 남습니다.",
       "oxidation": "약 90%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -12547,7 +12547,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Tea (Yeongdeok)",
-      "oneLine": "A small Korean black tea from the east-coast hills.",
+      "oneLine": "A small-farm Korean black tea from Yeongdeok's east-coast hills, fully oxidised summer leaf — malt, a faint floral note and soft sweetness.",
       "oxidation": "about 90%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -12563,7 +12563,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "盈德红茶",
-      "oneLine": "东海海风里的小规模韩国红茶。",
+      "oneLine": "东海海风里小农茶园的夏叶韩国红茶——麦芽带淡淡花香与柔和的甜，比河东红茶更轻。",
       "oxidation": "约90%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -12579,7 +12579,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "盈德紅茶",
-      "oneLine": "東海海風裡的小規模韓國紅茶。",
+      "oneLine": "東海海風裡小農茶園的夏葉韓國紅茶——麥芽帶淡淡花香與柔和的甜，比河東紅茶更輕。",
       "oxidation": "約90%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -12646,7 +12646,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "복전차",
-      "oneLine": "차 벽돌 안에 피는 노란 ‘금화’ — 복전차의 표식.",
+      "oneLine": "벽돌 안에 노란 금화가 피는 복전차 — 버섯과 곡물 향, 부드럽고 둥근 단맛이 금화가 많을수록 더 순하게 번집니다.",
       "oxidation": "후발효",
       "ratioNote": "150ml에 5g, 세차 1회",
       "rounds": "8회",
@@ -12662,7 +12662,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Fu Brick Tea",
-      "oneLine": "Yellow 'golden flowers' inside the brick — the mark of Fu brick tea.",
+      "oneLine": "The brick tea with yellow 'golden flowers' blooming inside — mushroom, earth and grain over a soft, round sweetness, smoother the more flowers.",
       "oxidation": "post-fermented",
       "ratioNote": "5 g to 150 ml; rinse once",
       "rounds": "8 infusions",
@@ -12678,7 +12678,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "茯砖茶",
-      "oneLine": "砖内长出的黄色“金花”，茯砖茶的标志。",
+      "oneLine": "砖内开出黄色“金花”的茯砖茶——菌香、土香与谷物香托着柔和圆润的甜，金花越多越顺。",
       "oxidation": "后发酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -12694,7 +12694,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "茯磚茶",
-      "oneLine": "磚內長出的黃色「金花」，茯磚茶的標誌。",
+      "oneLine": "磚內開出黃色「金花」的茯磚茶——菌香、土香與穀物香托著柔和圓潤的甜，金花越多越順。",
       "oxidation": "後發酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -12761,7 +12761,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "천량차",
-      "oneLine": "대나무에 감아 압착한 긴 통차 — 필요할 때 잘라 마십니다.",
+      "oneLine": "대나무에 감아 압착한 천 냥짜리 긴 통차 — 잘라 우리면 대나무와 흙 향, 진한 단맛이 오래 묵을수록 부드러워집니다.",
       "oxidation": "후발효",
       "ratioNote": "150ml에 5g, 세차 1회",
       "rounds": "8회",
@@ -12777,7 +12777,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Qianliang Tea",
-      "oneLine": "A log of tea pressed in bamboo, cut as you need it.",
+      "oneLine": "A long log of tea pressed in bamboo, named for its old thousand-liang weight — cut and brewed, it gives bamboo, earth and deep sweetness, softer with age.",
       "oxidation": "post-fermented",
       "ratioNote": "5 g to 150 ml; rinse once",
       "rounds": "8 infusions",
@@ -12793,7 +12793,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "千两茶",
-      "oneLine": "竹篾压成的长柱茶，喝时锯取。",
+      "oneLine": "以旧时千两之名竹篾压成的长柱茶——锯下冲泡，竹香与土香、浓甜，越陈越柔和。",
       "oxidation": "后发酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -12809,7 +12809,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "千兩茶",
-      "oneLine": "竹篾壓成的長柱茶，喝時鋸取。",
+      "oneLine": "以舊時千兩之名竹篾壓成的長柱茶——鋸下沖泡，竹香與土香、濃甜，越陳越柔和。",
       "oxidation": "後發酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -12876,7 +12876,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "강전차",
-      "oneLine": "티베트로 가던 쓰촨의 압착차 — 버터(수유)와 소금을 더해 마시는 차.",
+      "oneLine": "티베트로 가던 쓰촨 야안의 단단한 압착 흑차 — 흙과 곡물 향, 진하고 거친 단맛이 버터와 만나면 부드러워집니다.",
       "oxidation": "후발효",
       "ratioNote": "150ml에 5g, 세차 1회",
       "rounds": "7회",
@@ -12892,7 +12892,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Kangzhuan Tea",
-      "oneLine": "Sichuan's pressed brick for Tibet — boiled with butter and salt there.",
+      "oneLine": "Ya'an's hard-pressed brick, once bound for Tibet — earth and grain with a strong, slightly rough sweetness that butter or milk softens.",
       "oxidation": "post-fermented",
       "ratioNote": "5 g to 150 ml; rinse once",
       "rounds": "7 infusions",
@@ -12908,7 +12908,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "康砖茶",
-      "oneLine": "销往西藏的四川紧压黑茶，当地加酥油加盐煮饮。",
+      "oneLine": "曾销往西藏的四川雅安紧压黑茶——土香与谷物香、浓而略粗的甜，遇酥油便柔和下来。",
       "oxidation": "后发酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "7泡",
@@ -12924,7 +12924,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "康磚茶",
-      "oneLine": "銷往西藏的四川緊壓黑茶，當地加酥油加鹽煮飲。",
+      "oneLine": "曾銷往西藏的四川雅安緊壓黑茶——土香與穀物香、濃而略粗的甜，遇酥油便柔和下來。",
       "oxidation": "後發酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "7泡",
@@ -12992,7 +12992,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "수유차",
-      "oneLine": "진하게 끓인 흑차에 버터와 소금 — 티베트의 하루.",
+      "oneLine": "압착 흑차를 진하게 끓여 버터와 소금을 젓는 티베트의 일상 차 — 버터의 고소함과 소금기, 흙 향이 몸을 데웁니다.",
       "oxidation": "후발효",
       "ratioNote": "물 500ml에 차 8g, 버터·소금은 취향껏",
       "rounds": "1회 (농축액을 나눠 마심)",
@@ -13008,7 +13008,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tibetan Butter Tea",
-      "oneLine": "Strong brick tea churned with butter and salt — a Tibetan day.",
+      "oneLine": "Tibet's everyday drink, brick tea boiled strong and churned with butter and salt — buttery richness and a salty edge over dark earth, warming through.",
       "oxidation": "post-fermented",
       "ratioNote": "8 g to 500 ml water; butter and salt to taste",
       "rounds": "1 brew, drunk as a concentrate",
@@ -13024,7 +13024,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "酥油茶",
-      "oneLine": "砖茶浓熬，加酥油与盐，西藏的一天。",
+      "oneLine": "砖茶浓熬后加酥油与盐打制的西藏日常茶——酥油的醇香与咸味压着黑茶的土香，暖身。",
       "oxidation": "后发酵",
       "ratioNote": "500毫升水配8克茶，酥油与盐随口味",
       "rounds": "煮1次，分次饮用",
@@ -13040,7 +13040,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "酥油茶",
-      "oneLine": "磚茶濃熬，加酥油與鹽，西藏的一天。",
+      "oneLine": "磚茶濃熬後加酥油與鹽打製的西藏日常茶——酥油的醇香與鹹味壓著黑茶的土香，暖身。",
       "oxidation": "後發酵",
       "ratioNote": "500毫升水配8克茶，酥油與鹽隨口味",
       "rounds": "煮1次，分次飲用",
@@ -13107,7 +13107,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "노청전",
-      "oneLine": "몽골과 러시아로 가던 후베이의 압착 흑차.",
+      "oneLine": "몽골과 러시아로 가던 후베이 자오리차오의 청전차 — 오래 묵힌 잎에서 흙과 곡물 향, 부드러운 단맛이 차분하게 납니다.",
       "oxidation": "후발효",
       "ratioNote": "150ml에 5g, 세차 1회",
       "rounds": "7회",
@@ -13123,7 +13123,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Lao Qingzhuan",
-      "oneLine": "Hubei's pressed dark tea that once travelled to Mongolia and Russia.",
+      "oneLine": "Hubei's green-brick tea from Zhaoliqiao, once traded to Mongolia and Russia — aged bricks giving earth, grain and a calm, soft sweetness.",
       "oxidation": "post-fermented",
       "ratioNote": "5 g to 150 ml; rinse once",
       "rounds": "7 infusions",
@@ -13139,7 +13139,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "老青砖",
-      "oneLine": "曾销往蒙古与俄罗斯的湖北紧压黑茶。",
+      "oneLine": "曾销往蒙古与俄罗斯的湖北赵李桥青砖茶——陈砖里土香与谷物香、柔和的甜，沉静而出。",
       "oxidation": "后发酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "7泡",
@@ -13155,7 +13155,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "老青磚",
-      "oneLine": "曾銷往蒙古與俄羅斯的湖北緊壓黑茶。",
+      "oneLine": "曾銷往蒙古與俄羅斯的湖北趙李橋青磚茶——陳磚裡土香與穀物香、柔和的甜，沉靜而出。",
       "oxidation": "後發酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "7泡",
@@ -13222,7 +13222,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "천첨",
-      "oneLine": "압착하지 않은 안화 흑차의 최상급 — 잎 모양이 살아 있습니다.",
+      "oneLine": "압착하지 않아 잎 모양이 살아 있는 안화 흑차의 최상급 — 연기와 흙 향, 대추 같은 단맛이 압착차보다 산뜻하게 납니다.",
       "oxidation": "후발효",
       "ratioNote": "150ml에 5g, 세차 1회",
       "rounds": "8회",
@@ -13238,7 +13238,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tianjian Tea",
-      "oneLine": "Top-grade Anhua dark tea, left loose — the leaf shape survives.",
+      "oneLine": "Anhua's top-grade dark tea, left loose so the leaf shape survives — smoke and earth with date-like sweetness, lighter and fresher than pressed tea.",
       "oxidation": "post-fermented",
       "ratioNote": "5 g to 150 ml; rinse once",
       "rounds": "8 infusions",
@@ -13254,7 +13254,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "天尖茶",
-      "oneLine": "不压制的安化黑茶上品，叶片完整。",
+      "oneLine": "不压制、叶片完整保留的安化黑茶上品——烟香与土香、枣子般的甜，比紧压茶更清爽。",
       "oxidation": "后发酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -13270,7 +13270,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "天尖茶",
-      "oneLine": "不壓制的安化黑茶上品，葉片完整。",
+      "oneLine": "不壓制、葉片完整保留的安化黑茶上品——煙香與土香、棗子般的甜，比緊壓茶更清爽。",
       "oxidation": "後發酵",
       "ratioNote": "150毫升配5克，洗茶一次",
       "rounds": "8泡",
@@ -13337,7 +13337,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "계화우롱",
-      "oneLine": "가을 계화 꽃 향을 차잎에 옮긴, 살구빛 단맛의 차.",
+      "oneLine": "가을 계화 꽃을 층층이 겹쳐 향을 옮긴 차 — 살구와 복숭아 같은 달콤한 꽃 향이 부드러운 단맛으로 번집니다.",
       "oxidation": "약 60% (베이스에 따름)",
       "ratioNote": "200ml에 3g",
       "rounds": "3회",
@@ -13353,7 +13353,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Osmanthus Tea",
-      "oneLine": "Autumn osmanthus layered into the leaf — apricot-sweet.",
+      "oneLine": "Tea scented by layering autumn osmanthus blossom into the leaf again and again — apricot and peach-like florals over soft sweetness.",
       "oxidation": "about 60% (depends on base)",
       "ratioNote": "3 g to 200 ml",
       "rounds": "3 infusions",
@@ -13369,7 +13369,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桂花茶",
-      "oneLine": "把秋桂的香窨进茶里，甜似杏子。",
+      "oneLine": "把秋桂层层窨进茶里的花茶——杏子与桃子般的甜花香，柔和地散开。",
       "oxidation": "约60%（随茶坯）",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13385,7 +13385,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桂花茶",
-      "oneLine": "把秋桂的香窨進茶裡，甜似杏子。",
+      "oneLine": "把秋桂層層窨進茶裡的花茶——杏子與桃子般的甜花香，柔和地散開。",
       "oxidation": "約60%（隨茶坯）",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13452,7 +13452,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "장미차",
-      "oneLine": "말린 장미 봉오리의 향 — 홍차에 얹으면 더 진해집니다.",
+      "oneLine": "말린 장미 봉오리를 홍차에 섞어 향을 더한 차 — 장미 향과 꿀 같은 단맛 뒤를 홍차의 몰트가 든든히 받칩니다.",
       "oxidation": "약 85% (홍차 베이스)",
       "ratioNote": "200ml에 3g",
       "rounds": "3회",
@@ -13468,7 +13468,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Rose Tea",
-      "oneLine": "Dried rose buds over black tea — deeper than the flower alone.",
+      "oneLine": "Dried rose buds blended into black tea — rose perfume and honeyed sweetness, with the tea's malt standing firmly behind.",
       "oxidation": "about 85% (black base)",
       "ratioNote": "3 g to 200 ml",
       "rounds": "3 infusions",
@@ -13484,7 +13484,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "玫瑰花茶",
-      "oneLine": "干玫瑰花蕾拼红茶，香比单花更厚。",
+      "oneLine": "干玫瑰花蕾拼进红茶的花茶——玫瑰香与蜂蜜般的甜，身后是红茶的麦芽托底。",
       "oxidation": "约85%（红茶坯）",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13500,7 +13500,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "玫瑰花茶",
-      "oneLine": "幹玫瑰花蕾拼紅茶，香比單花更厚。",
+      "oneLine": "乾玫瑰花蕾拼進紅茶的花茶——玫瑰香與蜂蜜般的甜，身後是紅茶的麥芽托底。",
       "oxidation": "約85%（紅茶坯）",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13567,7 +13567,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "여지홍차",
-      "oneLine": "여지의 향이 홍차 위에 얹힌, 광둥의 과일 홍차.",
+      "oneLine": "광둥 홍차에 여지 향을 입힌 과일 홍차 — 여지의 달콤한 향과 홍차의 몰트가 얼음을 넣어도 또렷이 남습니다.",
       "oxidation": "약 90%",
       "ratioNote": "200ml에 3g",
       "rounds": "3회",
@@ -13583,7 +13583,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Lychee Black Tea",
-      "oneLine": "Lychee laid over black tea — Guangdong's fruit cup.",
+      "oneLine": "Guangdong's fruit black tea, scented with lychee — the fruit's sweet perfume over malt, still clear even poured over ice.",
       "oxidation": "about 90%",
       "ratioNote": "3 g to 200 ml",
       "rounds": "3 infusions",
@@ -13599,7 +13599,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "荔枝红茶",
-      "oneLine": "荔枝香叠在红茶上，广东的果香茶。",
+      "oneLine": "广东红茶窨入荔枝香的果香茶——荔枝的甜香叠着麦芽，加冰也依然鲜明。",
       "oxidation": "约90%",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13615,7 +13615,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "荔枝紅茶",
-      "oneLine": "荔枝香疊在紅茶上，廣東的果香茶。",
+      "oneLine": "廣東紅茶窨入荔枝香的果香茶——荔枝的甜香疊著麥芽，加冰也依然鮮明。",
       "oxidation": "約90%",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -13680,7 +13680,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "차옌",
-      "oneLine": "진한 홍차에 연유와 얼음 — 태국 거리의 주황색 잔.",
+      "oneLine": "잘게 부순 홍차를 진하게 우려 연유와 얼음을 채운 태국의 차 — 진한 몰트와 크림 같은 단맛이 주황빛 잔에 찹니다.",
       "oxidation": "약 95%",
       "ratioNote": "150ml에 5g, 연유·설탕은 취향껏",
       "rounds": "1회",
@@ -13696,7 +13696,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cha Yen",
-      "oneLine": "Strong tea, condensed milk and ice — the orange glass of Thailand.",
+      "oneLine": "Thailand's orange street cup, finely broken black tea brewed strong with condensed milk over ice — deep malt and creamy sweetness.",
       "oxidation": "about 95%",
       "ratioNote": "5 g to 150 ml; condensed milk and sugar to taste",
       "rounds": "1 brew",
@@ -13712,7 +13712,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "泰式奶茶",
-      "oneLine": "浓茶加炼乳与冰，泰国街头的橘色一杯。",
+      "oneLine": "碎红茶浓泡加炼乳与冰的泰国街头茶——浓麦芽与奶油般的甜，盛满橘色一杯。",
       "oxidation": "约95%",
       "ratioNote": "150毫升配5克，炼乳与糖随口味",
       "rounds": "1次",
@@ -13728,7 +13728,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "泰式奶茶",
-      "oneLine": "濃茶加煉乳與冰，泰國街頭的橘色一杯。",
+      "oneLine": "碎紅茶濃泡加煉乳與冰的泰國街頭茶——濃麥芽與奶油般的甜，盛滿橘色一杯。",
       "oxidation": "約95%",
       "ratioNote": "150毫升配5克，煉乳與糖隨口味",
       "rounds": "1次",
@@ -13795,7 +13795,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "모로코 민트",
-      "oneLine": "중국 건차에 신선한 박하와 설탕 — 높이 부어 마시는 차.",
+      "oneLine": "중국 군피우더에 박하와 설탕을 넣고 높이 부어 거품 낸 마그레브의 차 — 박하의 청량함과 진한 단맛이 뜨거워도 상쾌합니다.",
       "oxidation": "약 5% (녹차 베이스)",
       "ratioNote": "200ml에 4g, 박하 한 줌·설탕은 취향껏",
       "rounds": "3회",
@@ -13811,7 +13811,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Maghrebi Mint Tea",
-      "oneLine": "Gunpowder green with fresh mint and sugar, poured from a height.",
+      "oneLine": "The Maghreb's mint tea, Chinese gunpowder poured from a height with fresh mint and sugar — cool mint over deep sweetness, refreshing even hot.",
       "oxidation": "about 5% (green base)",
       "ratioNote": "4 g to 200 ml; a handful of mint and sugar to taste",
       "rounds": "3 infusions",
@@ -13827,7 +13827,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "摩洛哥薄荷茶",
-      "oneLine": "中国珠茶加鲜薄荷与糖，高举冲注。",
+      "oneLine": "中国珠茶加鲜薄荷与糖、高举冲注出泡沫的马格里布茶——薄荷的清凉压着浓甜，热饮也爽口。",
       "oxidation": "约5%（绿茶坯）",
       "ratioNote": "200毫升配4克，薄荷一把、糖随口味",
       "rounds": "3泡",
@@ -13843,7 +13843,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "摩洛哥薄荷茶",
-      "oneLine": "中國珠茶加鮮薄荷與糖，高舉衝注。",
+      "oneLine": "中國珠茶加鮮薄荷與糖、高舉沖注出泡沫的馬格里布茶——薄荷的清涼壓著濃甜，熱飲也爽口。",
       "oxidation": "約5%（綠茶坯）",
       "ratioNote": "200毫升配4克，薄荷一把、糖隨口味",
       "rounds": "3泡",
@@ -13909,7 +13909,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "아일랜드 브렉퍼스트",
-      "oneLine": "아쌈을 앞세운, 아침을 위한 가장 진한 블렌드.",
+      "oneLine": "아쌈을 앞세워 아침 블렌드 중 가장 진하게 만든 차 — 깊은 몰트 향이 우유를 넣으면 크림 같은 질감으로 바뀝니다.",
       "oxidation": "약 95%",
       "ratioNote": "200ml에 4g",
       "rounds": "3회",
@@ -13925,7 +13925,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Irish Breakfast",
-      "oneLine": "Assam-forward — the strongest of the breakfast blends.",
+      "oneLine": "The strongest of the breakfast blends, weighted toward Assam — deep malt and colour that turn creamy the moment milk goes in.",
       "oxidation": "about 95%",
       "ratioNote": "4 g to 200 ml",
       "rounds": "3 infusions",
@@ -13941,7 +13941,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "爱尔兰早餐茶",
-      "oneLine": "阿萨姆为主，早餐拼配里最浓的一支。",
+      "oneLine": "以阿萨姆为主、早餐拼配里最浓的一支——深沉的麦芽香，加奶便成奶油质地。",
       "oxidation": "约95%",
       "ratioNote": "200毫升配4克",
       "rounds": "3泡",
@@ -13957,7 +13957,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "愛爾蘭早餐茶",
-      "oneLine": "阿薩姆為主，早餐拼配裡最濃的一支。",
+      "oneLine": "以阿薩姆為主、早餐拼配裡最濃的一支——深沉的麥芽香，加奶便成奶油質地。",
       "oxidation": "約95%",
       "ratioNote": "200毫升配4克",
       "rounds": "3泡",
@@ -14023,7 +14023,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "결명자차",
-      "oneLine": "볶은 씨의 구수함 — 카페인 없이 밤에 마시는 차.",
+      "oneLine": "볶은 결명자 씨를 우린 카페인 없는 밤의 차 — 볶은 곡물의 고소함과 옅은 쌉쌀함 끝에 약간의 단맛이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -14039,7 +14039,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cassia Seed Tea",
-      "oneLine": "Roasted seed sweetness — a caffeine-free evening cup.",
+      "oneLine": "A caffeine-free evening cup of roasted cassia seed — roasted-grain toastiness and a faint bitterness, closing with a little sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -14055,7 +14055,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "决明子茶",
-      "oneLine": "炒籽的焦香，不含咖啡因的夜间茶。",
+      "oneLine": "炒决明子泡出的无咖啡因夜茶——炒谷物的焦香与淡淡的苦，末尾回一点甜。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14071,7 +14071,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "決明子茶",
-      "oneLine": "炒籽的焦香，不含咖啡因的夜間茶。",
+      "oneLine": "炒決明子泡出的無咖啡因夜茶——炒穀物的焦香與淡淡的苦，末尾回一點甜。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14137,7 +14137,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "우엉차",
-      "oneLine": "볶은 우엉 뿌리의 구수한 단맛 — 카페인 없는 차.",
+      "oneLine": "우엉 뿌리를 말려 볶아 우린 카페인 없는 차 — 볶은 뿌리의 고소함과 은은한 단맛 끝에 약한 쌉쌀함이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -14153,7 +14153,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Burdock Tea",
-      "oneLine": "Roasted burdock root — sweet, earthy, caffeine-free.",
+      "oneLine": "Caffeine-free tea of burdock root, sliced, dried and roasted — roasted earthiness and quiet sweetness with a mild bitter end.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -14169,7 +14169,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "牛蒡茶",
-      "oneLine": "炒牛蒡根的焦甜，不含咖啡因。",
+      "oneLine": "牛蒡根切片晒干炒制的不含咖啡因茶——炒根的焦香与隐隐的甜，末尾带一点苦。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14185,7 +14185,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "牛蒡茶",
-      "oneLine": "炒牛蒡根的焦甜，不含咖啡因。",
+      "oneLine": "牛蒡根切片曬乾炒製的不含咖啡因茶——炒根的焦香與隱隱的甜，末尾帶一點苦。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14251,7 +14251,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "구기자차",
-      "oneLine": "말린 구기자 열매의 옅은 단맛 — 노랗게 우러나는 차.",
+      "oneLine": "청양과 닝샤가 이름난 말린 구기자를 우린 차 — 옅은 단맛과 말린 과일 향이 연한 노랑 수색으로 부드럽게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -14267,7 +14267,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Goji Berry Tea",
-      "oneLine": "Dried goji berries — pale sweetness, a yellow cup.",
+      "oneLine": "Dried goji berries from noted sources like Cheongyang and Ningxia, steeped plain — light sweetness and dried-fruit aroma in a pale yellow liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -14283,7 +14283,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "枸杞茶",
-      "oneLine": "干枸杞泡出的浅甜，汤色淡黄。",
+      "oneLine": "用清阳与宁夏等名产地干枸杞泡的茶——浅甜与干果香，柔和地浸出淡黄汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14299,7 +14299,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "枸杞茶",
-      "oneLine": "幹枸杞泡出的淺甜，湯色淡黃。",
+      "oneLine": "用清陽與寧夏等名產地乾枸杞泡的茶——淺甜與乾果香，柔和地浸出淡黃湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14365,7 +14365,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "산수유차",
-      "oneLine": "붉은 열매의 강한 신맛 — 꿀을 곁들이는 차.",
+      "oneLine": "구례와 산청의 붉은 산수유 열매를 말려 우린 차 — 강한 신맛과 옅은 쓴맛이 붉은 수색으로, 꿀을 더하면 부드러워집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -14381,7 +14381,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cornus Fruit Tea",
-      "oneLine": "Sharp red fruit — usually softened with honey.",
+      "oneLine": "Tea of dried red cornus fruit from Gurye and Sancheong — strong sourness and a little bitterness in a red liquor, softened by honey.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -14397,7 +14397,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "山茱萸茶",
-      "oneLine": "红色果实的强酸味，常配蜂蜜。",
+      "oneLine": "求礼与山清的红色山茱萸干果茶——强酸与淡淡的苦在红色汤色里，加蜂蜜便柔和。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14413,7 +14413,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "山茱萸茶",
-      "oneLine": "紅色果實的強酸味，常配蜂蜜。",
+      "oneLine": "求禮與山清的紅色山茱萸乾果茶——強酸與淡淡的苦在紅色湯色裡，加蜂蜜便柔和。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -14479,7 +14479,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "민들레차",
-      "oneLine": "봄 민들레의 쌉쌀함 — 뿌리를 볶으면 고소해집니다.",
+      "oneLine": "봄에 거둔 민들레 잎과 뿌리를 말려 우린 차 — 잎은 쌉쌀하고 풀 향이, 볶은 뿌리는 구수함과 옅은 단맛이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -14495,7 +14495,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Dandelion Tea",
-      "oneLine": "Spring dandelion's bitterness — and a nutty roasted root.",
+      "oneLine": "Spring-gathered dandelion, leaf and root dried for the cup — the leaf bitter and grassy, the roasted root toasty with light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -14511,7 +14511,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "蒲公英茶",
-      "oneLine": "春日蒲公英的苦，炒根则带焦香。",
+      "oneLine": "春天采收晒干的蒲公英叶与根——叶苦带青草气，炒根则焦香带浅甜。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -14527,7 +14527,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蒲公英茶",
-      "oneLine": "春日蒲公英的苦，炒根則帶焦香。",
+      "oneLine": "春天採收曬乾的蒲公英葉與根——葉苦帶青草氣，炒根則焦香帶淺甜。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -14593,7 +14593,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "옥수수수염차",
-      "oneLine": "옥수수를 삶은 물 같은 구수함 — 여름의 차.",
+      "oneLine": "옥수수 수염을 말려 볶아 우린 여름의 차 — 옥수수 삶은 물 같은 구수한 곡물 향과 옅은 단맛이 깔끔하게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -14609,7 +14609,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Corn Silk Tea",
-      "oneLine": "The comfort of corn-boiling water — a summer cup.",
+      "oneLine": "A summer cup of corn silk, dried and roasted — toasty grain like corn-boiling water, light sweetness and a clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -14625,7 +14625,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "玉米须茶",
-      "oneLine": "像煮玉米水一样的焦香，夏天的茶。",
+      "oneLine": "玉米须晒干炒制的夏日茶——像煮玉米水一样的谷物焦香与浅甜，收尾干净。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -14641,7 +14641,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "玉米須茶",
-      "oneLine": "像煮玉米水一樣的焦香，夏天的茶。",
+      "oneLine": "玉米鬚曬乾炒製的夏日茶——像煮玉米水一樣的穀物焦香與淺甜，收尾乾淨。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -14710,7 +14710,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "춘설",
-      "oneLine": "무등산 증심사 계곡의 야생 차밭에서 이른 봄에 딴 덖음 녹차.",
+      "oneLine": "화가 허백련이 이름 붙인 무등산 야생 차밭의 이른 봄 덖음차 — 봄눈 같은 풋향과 은은한 단맛이 맑게 피어납니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -14726,7 +14726,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Chunseol",
-      "oneLine": "A pan-fired green tea picked in early spring from wild bushes by the Jeungsimsa valley on Mt. Mudeung.",
+      "oneLine": "A pan-fired tea from the wild bushes of Mt. Mudeung, named by painter Heo Baek-ryeon — tender early-spring leaves bloom with a fresh green scent and gentle sweetness.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -14742,7 +14742,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "春雪",
-      "oneLine": "无等山证心寺溪谷野生茶园的早春炒青绿茶。",
+      "oneLine": "画家许百炼在无等山春雪轩命名的野生茶园炒青茶——早春嫩叶绽出如春雪般的清新香气与淡淡甘甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -14758,7 +14758,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "春雪",
-      "oneLine": "無等山證心寺溪谷野生茶園的早春炒青綠茶。",
+      "oneLine": "畫家許百煉在無等山春雪軒命名的野生茶園炒青茶——早春嫩葉綻出如春雪般的清新香氣與淡淡甘甜。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -14826,7 +14826,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "텐차",
-      "oneLine": "차광 재배한 잎을 증청해, 말차로 갈기 전의 원료가 되는 차.",
+      "oneLine": "말차로 갈기 전, 차광 재배해 증청한 원료 잎 — 진한 해조 향과 짙은 녹색 속에 깊은 감칠맛이 응축돼 있습니다.",
       "oxidation": "0%",
       "ratioNote": "100ml에 3g",
       "rounds": "3회",
@@ -14842,7 +14842,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tencha",
-      "oneLine": "Shaded, steamed leaf — the raw material that is milled into matcha.",
+      "oneLine": "Shaded, steamed leaf before it is stone-milled into matcha — deep umami condensed in a vivid green leaf with a seaweed edge.",
       "oxidation": "0%",
       "ratioNote": "3 g to 100 ml",
       "rounds": "3 infusions",
@@ -14858,7 +14858,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "碾茶",
-      "oneLine": "遮光栽培后蒸青干燥、磨成抹茶之前的原料茶。",
+      "oneLine": "遮光栽培蓄足鲜味、蒸青后磨成抹茶之前的原料茶——浓郁的海藻香与深绿色中凝聚着深厚的鲜味。",
       "oxidation": "0%",
       "ratioNote": "100毫升配3克",
       "rounds": "3泡",
@@ -14874,7 +14874,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "碾茶",
-      "oneLine": "遮光栽培後蒸青乾燥、磨成抹茶之前的原料茶。",
+      "oneLine": "遮光栽培蓄足鮮味、蒸青後磨成抹茶之前的原料茶——濃郁的海藻香與深綠色中凝聚著深厚的鮮味。",
       "oxidation": "0%",
       "ratioNote": "100毫升配3克",
       "rounds": "3泡",
@@ -14941,7 +14941,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "훈마츠",
-      "oneLine": "센차를 곱게 갈아 물에 타 마시는 가루녹차.",
+      "oneLine": "차광하지 않은 센차를 곱게 갈아 물에 풀어 잎째 마시는 가루차 — 풋향과 쌉쌀함이 진하게 그대로 전해집니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 1.5g",
       "rounds": "1회",
@@ -14957,7 +14957,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Funmatsu (Powdered Sencha)",
-      "oneLine": "Sencha ground to a powder and stirred straight into water.",
+      "oneLine": "Unshaded sencha ground fine and stirred straight into water, leaf and all — sencha's green scent and gentle bitterness delivered in full.",
       "oxidation": "0%",
       "ratioNote": "1.5 g to 150 ml",
       "rounds": "1 serving",
@@ -14973,7 +14973,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "粉末茶",
-      "oneLine": "把煎茶磨成粉、冲水即饮的粉末绿茶。",
+      "oneLine": "未遮光的煎茶磨成细粉、冲水连叶饮用的粉末茶——煎茶本真的清香与微苦浓郁而完整地呈现。",
       "oxidation": "0%",
       "ratioNote": "150毫升配1.5克",
       "rounds": "1次",
@@ -14989,7 +14989,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "粉末茶",
-      "oneLine": "把煎茶磨成粉、沖水即飲的粉末綠茶。",
+      "oneLine": "未遮光的煎茶磨成細粉、沖水連葉飲用的粉末茶——煎茶本真的清香與微苦濃郁而完整地呈現。",
       "oxidation": "0%",
       "ratioNote": "150毫升配1.5克",
       "rounds": "1次",
@@ -15057,7 +15057,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "코나차",
-      "oneLine": "교쿠로·센차를 만들 때 나온 부스러기 잎으로 만든 차.",
+      "oneLine": "교쿠로와 센차를 만들다 떨어진 싹과 잎 조각을 모은 차 — 빠르게 진하게 우러나 짙은 수색과 쌉쌀한 여운을 냅니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
       "rounds": "3회",
@@ -15073,7 +15073,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Konacha",
-      "oneLine": "A tea of the buds and fragments left over from making gyokuro and sencha.",
+      "oneLine": "The buds and fragments sifted out from making gyokuro and sencha — brewing fast and bold, with a dark liquor and a bitter edge.",
       "oxidation": "0%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "3 infusions",
@@ -15089,7 +15089,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "粉茶",
-      "oneLine": "用制作玉露、煎茶时筛出的碎叶制成的茶。",
+      "oneLine": "收集制作玉露与煎茶时筛出的芽叶碎片而成——冲泡迅速浓烈，汤色深浓，余韵带苦。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -15105,7 +15105,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "粉茶",
-      "oneLine": "用製作玉露、煎茶時篩出的碎葉製成的茶。",
+      "oneLine": "收集製作玉露與煎茶時篩出的芽葉碎片而成——沖泡迅速濃烈，湯色深濃，餘韻帶苦。",
       "oxidation": "0%",
       "ratioNote": "150毫升配3克",
       "rounds": "3泡",
@@ -15172,7 +15172,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "다즐링 화이트",
-      "oneLine": "다즐링 고산 다원의 여린 싹으로 만든, 머스캣 뉘앙스의 백차.",
+      "oneLine": "해발 1,000~2,000m 다즐링 다원의 싹을 그대로 말린 백차 — 은은한 꽃향과 머스캣, 맑은 단맛이 번집니다.",
       "oxidation": "약 8%",
       "ratioNote": "200ml에 2.5g",
       "rounds": "2회",
@@ -15188,7 +15188,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Darjeeling White Tea",
-      "oneLine": "A white tea of tender buds from Darjeeling's high gardens, with a muscatel hint.",
+      "oneLine": "Tender buds from Darjeeling gardens at 1,000–2,000 m, dried as they are with no rolling — soft florals, a muscatel hint and clean sweetness.",
       "oxidation": "About 8%",
       "ratioNote": "2.5 g to 200 ml",
       "rounds": "2 infusions",
@@ -15204,7 +15204,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大吉岭白茶",
-      "oneLine": "用大吉岭高山茶园的嫩芽制成、带麝香葡萄气息的白茶。",
+      "oneLine": "海拔1000~2000米大吉岭高山茶园的嫩芽，不揉捻直接干燥的白茶——淡雅花香、麝香葡萄气息与清澈甘甜徐徐展开。",
       "oxidation": "约8%",
       "ratioNote": "200毫升配2.5克",
       "rounds": "2泡",
@@ -15220,7 +15220,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大吉嶺白茶",
-      "oneLine": "用大吉嶺高山茶園的嫩芽製成、帶麝香葡萄氣息的白茶。",
+      "oneLine": "海拔1,000~2,000公尺大吉嶺高山茶園的嫩芽，不揉捻直接乾燥的白茶——淡雅花香、麝香葡萄氣息與清澈甘甜徐徐展開。",
       "oxidation": "約8%",
       "ratioNote": "200毫升配2.5克",
       "rounds": "2泡",
@@ -15289,7 +15289,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "고산우롱 (기래산)",
-      "oneLine": "해발 1,400~2,000m 기래산의 운무 속에서 자란 대만 고산 우롱.",
+      "oneLine": "해발 2,000m 넘는 기래산 운무에서 자란 대만 고산 우롱 — 맑은 꽃향과 크림 같은 부드러움, 시원한 단맛입니다.",
       "oxidation": "20%",
       "ratioNote": "150ml에 6g",
       "rounds": "6~7회",
@@ -15305,7 +15305,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Qilai High Mountain Oolong",
-      "oneLine": "A Taiwanese high-mountain oolong from Mt. Qilai, at 1,400–2,000 m.",
+      "oneLine": "A late-discovered Taiwanese high-mountain oolong from Mt. Qilai's clouds above 2,000 m — clear florals, creamy softness and a cool sweetness.",
       "oxidation": "20%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6–7 infusions",
@@ -15321,7 +15321,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "奇莱山高山乌龙",
-      "oneLine": "产自海拔1400~2000米奇莱山的台湾高山乌龙。",
+      "oneLine": "海拔逾2000米奇莱山云雾中生长、晚为人知的台湾高山乌龙——清澈花香、奶油般柔滑与清凉甘甜萦绕。",
       "oxidation": "20%",
       "ratioNote": "150毫升配6克",
       "rounds": "6~7泡",
@@ -15337,7 +15337,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "奇萊山高山烏龍",
-      "oneLine": "產自海拔1,400~2,000公尺奇萊山的台灣高山烏龍。",
+      "oneLine": "海拔逾2,000公尺奇萊山雲霧中生長、晚為人知的台灣高山烏龍——清澈花香、奶油般柔滑與清涼甘甜縈繞。",
       "oxidation": "20%",
       "ratioNote": "150毫升配6公克",
       "rounds": "6~7泡",
@@ -15406,7 +15406,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "밀향오룡",
-      "oneLine": "차잎벌레가 물어 꿀향이 밴 잎을 구형으로 만 대만 우롱.",
+      "oneLine": "차잎벌레가 물어 꿀향을 품은 잎을 구형으로 만 대만 우롱 — 꿀과 잘 익은 복숭아, 꽃향의 단맛이 길게 남습니다.",
       "oxidation": "50%",
       "ratioNote": "150ml에 6g",
       "rounds": "5~6회",
@@ -15422,7 +15422,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Honey-Scented Oolong",
-      "oneLine": "A Taiwanese ball-rolled oolong from leafhopper-bitten leaves, scented with honey.",
+      "oneLine": "A Taiwanese ball-rolled oolong from leafhopper-bitten leaves in unsprayed gardens — honey, ripe peach and flowers in a long sweetness.",
       "oxidation": "50%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "5–6 infusions",
@@ -15438,7 +15438,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "蜜香乌龙",
-      "oneLine": "用被小绿叶蝉咬过的叶子揉成球形的台湾乌龙。",
+      "oneLine": "无农药茶园里被小绿叶蝉咬过、自带蜜香的叶子揉成球形的台湾乌龙——蜂蜜、熟桃与花香的甘甜悠长留存。",
       "oxidation": "50%",
       "ratioNote": "150毫升配6克",
       "rounds": "5~6泡",
@@ -15454,7 +15454,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蜜香烏龍",
-      "oneLine": "用被小綠葉蟬咬過的葉子揉成球形的台灣烏龍。",
+      "oneLine": "無農藥茶園裡被小綠葉蟬咬過、自帶蜜香的葉子揉成球形的台灣烏龍——蜂蜜、熟桃與花香的甘甜悠長留存。",
       "oxidation": "50%",
       "ratioNote": "150毫升配6公克",
       "rounds": "5~6泡",
@@ -15523,7 +15523,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍오룡",
-      "oneLine": "홍차 가까이 발효시켜 구형으로 만 타이둥의 새 우롱.",
+      "oneLine": "2000년대 타이둥 루예에서 태어나 홍차 가까이 발효시킨 우롱 — 익은 과일과 꿀, 볶은 곡물 단맛이 붉게 돕니다.",
       "oxidation": "약 75%",
       "ratioNote": "150ml에 6g",
       "rounds": "6~7회",
@@ -15539,7 +15539,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Red Oolong",
-      "oneLine": "A new Taitung oolong oxidized nearly to black-tea level and rolled into balls.",
+      "oneLine": "A new oolong born in Luye, Taitung in the 2000s, oxidised nearly to black tea and ball-rolled — ripe fruit, honey and roasted grain in a red-amber liquor.",
       "oxidation": "about 75%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6–7 infusions",
@@ -15555,7 +15555,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红乌龙",
-      "oneLine": "发酵到接近红茶、揉成球形的台东新派乌龙。",
+      "oneLine": "2000年代诞生于台东鹿野、发酵接近红茶并揉成球形的新派乌龙——熟果、蜂蜜与炒谷物的甘甜透出红琥珀色汤色。",
       "oxidation": "约75%",
       "ratioNote": "150毫升配6克",
       "rounds": "6~7泡",
@@ -15571,7 +15571,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅烏龍",
-      "oneLine": "發酵到接近紅茶、揉成球形的台東新派烏龍。",
+      "oneLine": "2000年代誕生於台東鹿野、發酵接近紅茶並揉成球形的新派烏龍——熟果、蜂蜜與炒穀物的甘甜透出紅琥珀色湯色。",
       "oxidation": "約75%",
       "ratioNote": "150毫升配6公克",
       "rounds": "6~7泡",
@@ -15639,7 +15639,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "기란",
-      "oneLine": "난초 향을 이름에 단, 무이와 민남 양쪽의 품종 우롱.",
+      "oneLine": "난초 향을 이름에 단 품종으로 무이·민남 양식으로 만드는 우롱 — 난초와 허브 향에 가벼운 배화향과 단맛이 겹칩니다.",
       "oxidation": "45%",
       "ratioNote": "110ml에 7g",
       "rounds": "7~8회",
@@ -15655,7 +15655,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Qilan",
-      "oneLine": "An orchid-scented cultivar oolong made in both Wuyi and southern Fujian.",
+      "oneLine": "An orchid-named cultivar made in both Wuyi and southern Fujian styles — clean orchid and herb notes over light roast and sweetness.",
       "oxidation": "45%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "7–8 infusions",
@@ -15671,7 +15671,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "奇兰",
-      "oneLine": "以兰花香得名，武夷与闽南两地都产的品种乌龙。",
+      "oneLine": "以兰花香得名、在武夷与闽南两地以两种风格制作的品种乌龙——兰花与草本的清香叠着轻焙火香与甘甜。",
       "oxidation": "45%",
       "ratioNote": "110毫升配7克",
       "rounds": "7~8泡",
@@ -15687,7 +15687,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "奇蘭",
-      "oneLine": "以蘭花香得名，武夷與閩南兩地都產的品種烏龍。",
+      "oneLine": "以蘭花香得名、在武夷與閩南兩地以兩種風格製作的品種烏龍——蘭花與草本的清香疊著輕焙火香與甘甜。",
       "oxidation": "45%",
       "ratioNote": "110毫升配7公克",
       "rounds": "7~8泡",
@@ -15755,7 +15755,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "매점",
-      "oneLine": "매화 향이 난다고 전하는 푸젠의 고전 품종 우롱.",
+      "oneLine": "매화 향이 난다고 전하는 푸젠 고전 품종 우롱 — 매화 같은 꽃향과 가벼운 과일향, 부드러운 단맛을 냅니다.",
       "oxidation": "40%",
       "ratioNote": "110ml에 7g",
       "rounds": "6~7회",
@@ -15771,7 +15771,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Meizhan",
-      "oneLine": "A classic Fujian cultivar oolong said to smell of plum blossom.",
+      "oneLine": "A classic Fujian cultivar said to smell of plum blossom, also made into black and green teas — plum-blossom florals, light fruit and soft sweetness.",
       "oxidation": "40%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "6–7 infusions",
@@ -15787,7 +15787,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "梅占",
-      "oneLine": "相传带梅花香的福建老品种乌龙。",
+      "oneLine": "相传带梅花香的福建老品种，也可制成红茶与绿茶——梅花般的花香、轻盈果香与柔和甘甜。",
       "oxidation": "40%",
       "ratioNote": "110毫升配7克",
       "rounds": "6~7泡",
@@ -15803,7 +15803,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "梅占",
-      "oneLine": "相傳帶梅花香的福建老品種烏龍。",
+      "oneLine": "相傳帶梅花香的福建老品種，也可製成紅茶與綠茶——梅花般的花香、輕盈果香與柔和甘甜。",
       "oxidation": "40%",
       "ratioNote": "110毫升配7公克",
       "rounds": "6~7泡",
@@ -15871,7 +15871,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "철라한",
-      "oneLine": "무이 4대 명총, 약재 향이 도는 진하고 깊은 암차.",
+      "oneLine": "무이 4대 명총 중 오래된 품종으로 꼽히는 진한 암차 — 약재와 광물, 볶은 곡물 향에 묵직한 단맛이 남습니다.",
       "oxidation": "55%",
       "ratioNote": "110ml에 7g",
       "rounds": "7~8회",
@@ -15887,7 +15887,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tie Luo Han",
-      "oneLine": "One of Wuyi's four great mingcong — a deep rock tea with a medicinal edge.",
+      "oneLine": "Counted among the oldest of Wuyi's four great mingcong — medicinal herbs, minerals and roasted grain with a thick, weighty sweetness.",
       "oxidation": "55%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "7–8 infusions",
@@ -15903,7 +15903,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "铁罗汉",
-      "oneLine": "武夷四大名丛之一，带药香、滋味浓醇的岩茶。",
+      "oneLine": "武夷四大名丛中历史最悠久的品种之一，滋味浓醇的岩茶——药材、矿物与炒谷物香中，厚重的甘甜沉沉留存。",
       "oxidation": "55%",
       "ratioNote": "110毫升配7克",
       "rounds": "7~8泡",
@@ -15919,7 +15919,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "鐵羅漢",
-      "oneLine": "武夷四大名欉之一，帶藥香、滋味濃醇的岩茶。",
+      "oneLine": "武夷四大名欉中歷史最悠久的品種之一，滋味濃醇的岩茶——藥材、礦物與炒穀物香中，厚重的甘甜沉沉留存。",
       "oxidation": "55%",
       "ratioNote": "110毫升配7公克",
       "rounds": "7~8泡",
@@ -15987,7 +15987,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "백계관",
-      "oneLine": "연한 황백색 새싹이 특징인, 맑고 가벼운 무이 명총.",
+      "oneLine": "연한 황백색 새싹이 한눈에 띄어 배화를 가볍게 한 무이 명총 — 맑은 꽃향과 은은한 약향, 시원한 단맛이 돕니다.",
       "oxidation": "40%",
       "ratioNote": "110ml에 7g",
       "rounds": "6~7회",
@@ -16003,7 +16003,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bai Ji Guan",
-      "oneLine": "A light, clear Wuyi mingcong known for its pale yellow-white buds.",
+      "oneLine": "A Wuyi mingcong whose pale yellow-white buds stand out at a glance, lightly roasted to keep them — clear florals, a faint herbal note and cool sweetness.",
       "oxidation": "40%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "6–7 infusions",
@@ -16019,7 +16019,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "白鸡冠",
-      "oneLine": "芽叶呈淡黄白色、滋味清淡的武夷名丛。",
+      "oneLine": "芽叶淡黄白色、一眼可辨的武夷名丛，为护其嫩色而轻焙——清澈花香、淡淡药香与清凉甘甜盛在明亮的黄色汤色里。",
       "oxidation": "40%",
       "ratioNote": "110毫升配7克",
       "rounds": "6~7泡",
@@ -16035,7 +16035,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "白雞冠",
-      "oneLine": "芽葉呈淡黃白色、滋味清淡的武夷名欉。",
+      "oneLine": "芽葉淡黃白色、一眼可辨的武夷名欉，為護其嫩色而輕焙——清澈花香、淡淡藥香與清涼甘甜盛在明亮的黃色湯色裡。",
       "oxidation": "40%",
       "ratioNote": "110毫升配7公克",
       "rounds": "6~7泡",
@@ -16103,7 +16103,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "수금귀",
-      "oneLine": "거북 등껍질 전설을 가진, 부드럽고 단 무이 명총.",
+      "oneLine": "잎이 거북 등껍질을 닮았다는 전설을 가진 무이 명총 — 부드러운 꽃향과 배화향, 둥글고 단 맛이 온화합니다.",
       "oxidation": "50%",
       "ratioNote": "110ml에 7g",
       "rounds": "7~8회",
@@ -16119,7 +16119,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Shui Jin Gui",
-      "oneLine": "A gentle, sweet Wuyi mingcong named for a tortoise-shell legend.",
+      "oneLine": "A Wuyi mingcong named for a flood-washed bush patterned like a tortoise shell — soft florals and roast over a round, gentle sweetness.",
       "oxidation": "50%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "7–8 infusions",
@@ -16135,7 +16135,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "水金龟",
-      "oneLine": "源于龟壳传说的武夷名丛，滋味柔和甘甜。",
+      "oneLine": "源于洪水冲来、叶纹如龟壳传说的武夷名丛——柔和花香与焙火香中，圆润甘甜温和地舒展开来。",
       "oxidation": "50%",
       "ratioNote": "110毫升配7克",
       "rounds": "7~8泡",
@@ -16151,7 +16151,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "水金龜",
-      "oneLine": "源於龜殼傳說的武夷名欉，滋味柔和甘甜。",
+      "oneLine": "源於洪水沖來、葉紋如龜殼傳說的武夷名欉——柔和花香與焙火香中，圓潤甘甜溫和地舒展開來。",
       "oxidation": "50%",
       "ratioNote": "110毫升配7公克",
       "rounds": "7~8泡",
@@ -16219,7 +16219,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "반천요",
-      "oneLine": "절벽의 솔개 전설을 품은, 암운이 뚜렷한 무이 명총.",
+      "oneLine": "절벽 중간 허리에 자라는 나무에서 온 무이 명총 — 뚜렷한 암운과 배화향, 진한 단맛이 긴 여운으로 남습니다.",
       "oxidation": "50%",
       "ratioNote": "110ml에 7g",
       "rounds": "7~8회",
@@ -16235,7 +16235,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ban Tian Yao",
-      "oneLine": "A Wuyi mingcong from mid-cliff bushes, with a pronounced rock character.",
+      "oneLine": "A Wuyi mingcong from bushes at a cliff's waist, between sky and earth — pronounced rock character, roast and deep sweetness in a long finish.",
       "oxidation": "50%",
       "ratioNote": "7 g to 110 ml",
       "rounds": "7–8 infusions",
@@ -16251,7 +16251,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "半天腰",
-      "oneLine": "长在悬崖半腰的武夷名丛，岩韵分明。",
+      "oneLine": "长在悬崖半腰、天地之间的武夷名丛——分明的岩韵与焙火香、浓郁甘甜化作悠长余韵。",
       "oxidation": "50%",
       "ratioNote": "110毫升配7克",
       "rounds": "7~8泡",
@@ -16267,7 +16267,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "半天腰",
-      "oneLine": "長在懸崖半腰的武夷名欉，岩韻分明。",
+      "oneLine": "長在懸崖半腰、天地之間的武夷名欉——分明的岩韻與焙火香、濃郁甘甜化作悠長餘韻。",
       "oxidation": "50%",
       "ratioNote": "110毫升配7公克",
       "rounds": "7~8泡",
@@ -16335,7 +16335,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "장평수선",
-      "oneLine": "사각 떡 모양으로 압축해 종이에 싸는, 드문 압축형 우롱.",
+      "oneLine": "수선 잎을 사각 틀에 압축해 종이에 싸는 드문 압축형 우롱 — 난향과 청량한 풀 향, 맑은 단맛이 황금빛으로 돕니다.",
       "oxidation": "30%",
       "ratioNote": "150ml에 6g",
       "rounds": "6~7회",
@@ -16351,7 +16351,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Zhangping Shuixian",
-      "oneLine": "A rare pressed oolong — Shuixian leaf compressed into paper-wrapped squares.",
+      "oneLine": "A rare pressed oolong — Shuixian leaf set in square moulds and wrapped in paper — orchid and a cool green note with clear sweetness in bright gold.",
       "oxidation": "30%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6–7 infusions",
@@ -16367,7 +16367,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "漳平水仙",
-      "oneLine": "压成方形茶饼、包上纸的罕见压制乌龙。",
+      "oneLine": "将水仙叶压入方形模具、包上纸的罕见压制乌龙——兰香与清凉青草香、清澈甘甜透出明亮的金黄汤色。",
       "oxidation": "30%",
       "ratioNote": "150毫升配6克",
       "rounds": "6~7泡",
@@ -16383,7 +16383,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "漳平水仙",
-      "oneLine": "壓成方形茶餅、包上紙的罕見壓製烏龍。",
+      "oneLine": "將水仙葉壓入方形模具、包上紙的罕見壓製烏龍——蘭香與清涼青草香、清澈甘甜透出明亮的金黃湯色。",
       "oxidation": "30%",
       "ratioNote": "150毫升配6公克",
       "rounds": "6~7泡",
@@ -16451,7 +16451,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "운남 우롱",
-      "oneLine": "윈난 대엽종에 대만식 구형 제법을 입힌 우롱.",
+      "oneLine": "보이차 고향 윈난 대엽종에 대만식 구형 제법을 입힌 우롱 — 진한 맥아와 꿀 단맛 위에 꽃향이 피고 바디가 두껍습니다.",
       "oxidation": "30%",
       "ratioNote": "150ml에 6g",
       "rounds": "5~6회",
@@ -16467,7 +16467,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Yunnan Oolong",
-      "oneLine": "Yunnan large-leaf tea made in the Taiwanese ball-rolled oolong style.",
+      "oneLine": "Yunnan large-leaf tea from the home of pu'er, cloth-rolled into balls the Taiwanese way — deep malt and honey sweetness under florals, with a thick body.",
       "oxidation": "30%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "5–6 infusions",
@@ -16483,7 +16483,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "云南乌龙",
-      "oneLine": "用云南大叶种配台湾球形工艺做的乌龙。",
+      "oneLine": "普洱之乡的云南大叶种配上台湾球形工艺的乌龙——浓郁麦芽与蜂蜜甘甜之上花香绽放，汤体厚重。",
       "oxidation": "30%",
       "ratioNote": "150毫升配6克",
       "rounds": "5~6泡",
@@ -16499,7 +16499,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "雲南烏龍",
-      "oneLine": "用雲南大葉種配台灣球形工藝做的烏龍。",
+      "oneLine": "普洱之鄉的雲南大葉種配上台灣球形工藝的烏龍——濃郁麥芽與蜂蜜甘甜之上花香綻放，湯體厚重。",
       "oxidation": "30%",
       "ratioNote": "150毫升配6公克",
       "rounds": "5~6泡",
@@ -16566,7 +16566,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "다즐링 우롱",
-      "oneLine": "다즐링 다원에서 반발효로 만드는 우롱 스타일 차.",
+      "oneLine": "다즐링에서 홍차용 잎을 반발효로 멈춰 소량 만드는 우롱 — 머스캣과 살구, 꽃향이 맑은 황동색 수색에 번집니다.",
       "oxidation": "40%",
       "ratioNote": "150ml에 5g",
       "rounds": "4~5회",
@@ -16582,7 +16582,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Darjeeling Oolong",
-      "oneLine": "An oolong-style tea made by partial oxidation in Darjeeling gardens.",
+      "oneLine": "A small-lot Darjeeling style, black-tea leaf stopped at partial oxidation — muscatel grape, apricot and flowers, light and clear in a bright brass liquor.",
       "oxidation": "40%",
       "ratioNote": "5 g to 150 ml",
       "rounds": "4–5 infusions",
@@ -16598,7 +16598,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大吉岭乌龙",
-      "oneLine": "大吉岭茶园以半发酵方式做的乌龙风格茶。",
+      "oneLine": "大吉岭茶园将红茶用叶停在半发酵、少量制作的乌龙——麝香葡萄、杏子与花香轻盈清澈，透出明亮的黄铜色汤色。",
       "oxidation": "40%",
       "ratioNote": "150毫升配5克",
       "rounds": "4~5泡",
@@ -16614,7 +16614,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大吉嶺烏龍",
-      "oneLine": "大吉嶺茶園以半發酵方式做的烏龍風格茶。",
+      "oneLine": "大吉嶺茶園將紅茶用葉停在半發酵、少量製作的烏龍——麝香葡萄、杏子與花香輕盈清澈，透出明亮的黃銅色湯色。",
       "oxidation": "40%",
       "ratioNote": "150毫升配5公克",
       "rounds": "4~5泡",
@@ -16683,7 +16683,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "황지향 단총",
-      "oneLine": "치자꽃 같은 달콤한 향이 또렷한 봉황단총 향형.",
+      "oneLine": "꽃을 섞지 않아도 잎에서 치자꽃 향이 나는 단일 나무 단총 — 치자와 익은 과일의 달콤한 향에 맑은 여운이 따릅니다.",
       "oxidation": "약 40%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "9회 안팎",
@@ -16699,7 +16699,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Huangzhi Xiang Dancong",
-      "oneLine": "A Phoenix dancong with a clear, sweet gardenia-like scent.",
+      "oneLine": "A single-bush Phoenix dancong whose gardenia scent comes from the leaf itself, never added flowers — sweet gardenia and ripe fruit with a clean finish.",
       "oxidation": "about 40%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 9 infusions",
@@ -16715,7 +16715,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "黄枝香单丛",
-      "oneLine": "香气似栀子花、清甜分明的凤凰单丛香型。",
+      "oneLine": "不掺花、栀子香出自茶叶本身的凤凰单丛单株茶——栀子与熟果的甜香伴着清澈余韵。",
       "oxidation": "约40%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "9泡左右",
@@ -16731,7 +16731,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "黃枝香單叢",
-      "oneLine": "香氣似梔子花、清甜分明的鳳凰單叢香型。",
+      "oneLine": "不摻花、梔子香出自茶葉本身的鳳凰單叢單株茶——梔子與熟果的甜香伴著清澈餘韻。",
       "oxidation": "約40%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "9泡左右",
@@ -16800,7 +16800,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "행인향 단총",
-      "oneLine": "볶은 아몬드 같은 고소함이 감도는 봉황단총 향형.",
+      "oneLine": "단일 나무 잎으로 만들어 볶은 아몬드 향을 이름에 단 단총 — 구운 견과 고소함이 쌉싸래함을 지나 단맛으로 넘어갑니다.",
       "oxidation": "약 45%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "8회 안팎",
@@ -16816,7 +16816,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Xingren Xiang Dancong",
-      "oneLine": "A Phoenix dancong with a toasty roasted-almond aroma.",
+      "oneLine": "A single-bush Phoenix dancong named for roasted almond — toasted nuts turn from a brief bitter edge to sweetness in a smooth swallow.",
       "oxidation": "about 45%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 8 infusions",
@@ -16832,7 +16832,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "杏仁香单丛",
-      "oneLine": "带炒杏仁坚果香的凤凰单丛香型。",
+      "oneLine": "只用单株茶叶制成、以炒杏仁香得名的凤凰单丛——烘烤坚果的醇香由微苦转为甘甜，入喉顺滑。",
       "oxidation": "约45%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "8泡左右",
@@ -16848,7 +16848,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "杏仁香單叢",
-      "oneLine": "帶炒杏仁堅果香的鳳凰單叢香型。",
+      "oneLine": "只用單株茶葉製成、以炒杏仁香得名的鳳凰單叢——烘烤堅果的醇香由微苦轉為甘甜，入喉順滑。",
       "oxidation": "約45%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "8泡左右",
@@ -16917,7 +16917,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "육계향 단총",
-      "oneLine": "계피 같은 따뜻한 향신 향이 도는 봉황단총 향형.",
+      "oneLine": "무이 육계와 달리 계피 향이 저절로 나는 봉황단총 — 따뜻한 향신 향과 구수함이 진한 몸통에 길게 깃듭니다.",
       "oxidation": "약 50%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "9회 안팎",
@@ -16933,7 +16933,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Rougui Xiang Dancong",
-      "oneLine": "A Phoenix dancong with a warm, cinnamon-like spice note.",
+      "oneLine": "A Phoenix dancong with a natural cinnamon note, unrelated to Wuyi's Rougui cultivar — warm spice and light roast in a full body with a long finish.",
       "oxidation": "about 50%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 9 infusions",
@@ -16949,7 +16949,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "肉桂香单丛",
-      "oneLine": "带肉桂暖香的凤凰单丛香型。",
+      "oneLine": "与武夷肉桂产地品种皆不同、肉桂香出自天然的凤凰单丛——温暖辛香与淡淡焙香沉在浓厚汤体中，余韵悠长。",
       "oxidation": "约50%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "9泡左右",
@@ -16965,7 +16965,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "肉桂香單叢",
-      "oneLine": "帶肉桂暖香的鳳凰單叢香型。",
+      "oneLine": "與武夷肉桂產地品種皆不同、肉桂香出自天然的鳳凰單叢——溫暖辛香與淡淡焙香沉在濃厚湯體中，餘韻悠長。",
       "oxidation": "約50%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "9泡左右",
@@ -17034,7 +17034,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "계화향 단총",
-      "oneLine": "금목서 꽃 같은 향이 찻잎에서 저절로 나는 봉황단총 향형.",
+      "oneLine": "계화꽃을 섞지 않아도 금목서 향이 잎에서 나는 천연 향형 단총 — 달콤한 꽃향에 살구 향이 겹치고 여운이 맑습니다.",
       "oxidation": "약 35%",
       "ratioNote": "개완 120ml에 5g",
       "rounds": "8회 안팎",
@@ -17050,7 +17050,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Guihua Xiang Dancong",
-      "oneLine": "A Phoenix dancong whose osmanthus scent comes from the leaf itself.",
+      "oneLine": "A natural aroma type whose osmanthus scent is in the leaf itself, unlike flower-blended oolongs — sweet blossom over apricot, with a clean finish.",
       "oxidation": "about 35%",
       "ratioNote": "5 g in a 120 ml gaiwan",
       "rounds": "around 8 infusions",
@@ -17066,7 +17066,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桂花香单丛",
-      "oneLine": "桂花香出自茶叶本身的凤凰单丛香型。",
+      "oneLine": "不同于掺桂花窨制的拼配茶，桂花香出自茶叶本身的天然香型单丛——甜美花香叠着杏子香，余韵清澈。",
       "oxidation": "约35%",
       "ratioNote": "120毫升盖碗配5克",
       "rounds": "8泡左右",
@@ -17082,7 +17082,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桂花香單叢",
-      "oneLine": "桂花香出自茶葉本身的鳳凰單叢香型。",
+      "oneLine": "不同於摻桂花窨製的拼配茶，桂花香出自茶葉本身的天然香型單叢——甜美花香疊著杏子香，餘韻清澈。",
       "oxidation": "約35%",
       "ratioNote": "120毫升蓋碗配5克",
       "rounds": "8泡左右",
@@ -17151,7 +17151,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "지란향 단총",
-      "oneLine": "지란 난초 같은 우아한 향, 고급으로 꼽히는 봉황단총 향형.",
+      "oneLine": "단총 중 고급으로 꼽히는 지란 난초 향의 단일 나무 차 — 청아한 난초 향과 섬세한 단맛이 길고 깨끗하게 이어집니다.",
       "oxidation": "약 40%",
       "ratioNote": "개완 120ml에 5g",
       "rounds": "10회 안팎",
@@ -17167,7 +17167,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Zhilan Xiang Dancong",
-      "oneLine": "An elegant orchid-scented dancong, ranked among the finer aroma types.",
+      "oneLine": "A single-bush dancong ranked among the finer aroma types for its zhilan orchid scent — refined orchid aroma, delicate sweetness, a long clean finish.",
       "oxidation": "about 40%",
       "ratioNote": "5 g in a 120 ml gaiwan",
       "rounds": "around 10 infusions",
@@ -17183,7 +17183,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "芝兰香单丛",
-      "oneLine": "香似芝兰、清雅高洁的凤凰单丛上品香型。",
+      "oneLine": "在单丛香型中亦属上品的芝兰香单株茶——清雅兰香澄澈舒展，细腻甘甜绵长延续。",
       "oxidation": "约40%",
       "ratioNote": "120毫升盖碗配5克",
       "rounds": "10泡左右",
@@ -17199,7 +17199,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "芝蘭香單叢",
-      "oneLine": "香似芝蘭、清雅高潔的鳳凰單叢上品香型。",
+      "oneLine": "在單叢香型中亦屬上品的芝蘭香單株茶——清雅蘭香澄澈舒展，細膩甘甜綿長延續。",
       "oxidation": "約40%",
       "ratioNote": "120毫升蓋碗配5克",
       "rounds": "10泡左右",
@@ -17268,7 +17268,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "야래향 단총",
-      "oneLine": "밤꽃처럼 달콤한 향이 짙게 감도는 봉황단총 향형.",
+      "oneLine": "밤꽃처럼 달콤한 향이 유난히 짙게 감도는 봉황단총 — 밤꽃 향과 꿀 같은 여운에도 뒷맛은 맑게 떨어집니다.",
       "oxidation": "약 40%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "9회 안팎",
@@ -17284,7 +17284,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Yelai Xiang Dancong",
-      "oneLine": "A Phoenix dancong with a dense, sweet night-flower scent.",
+      "oneLine": "A Phoenix dancong with a sweetness as dense as the night-blooming yelai flower — night-blossom aroma and a honeyed finish, yet a clean aftertaste.",
       "oxidation": "about 40%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 9 infusions",
@@ -17300,7 +17300,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "夜来香单丛",
-      "oneLine": "甜香浓郁如夜来香的凤凰单丛香型。",
+      "oneLine": "甜香如夜里愈发浓郁的夜来香般格外浓烈的凤凰单丛——夜花香与蜜般余韵之下，尾韵依然清澈。",
       "oxidation": "约40%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "9泡左右",
@@ -17316,7 +17316,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "夜來香單叢",
-      "oneLine": "甜香濃郁如夜來香的鳳凰單叢香型。",
+      "oneLine": "甜香如夜裡愈發濃郁的夜來香般格外濃烈的鳳凰單叢——夜花香與蜜般餘韻之下，尾韻依然清澈。",
       "oxidation": "約40%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "9泡左右",
@@ -17385,7 +17385,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "통천향 단총",
-      "oneLine": "향이 하늘까지 솟는다고 할 만큼 높고 강한 봉황단총 향형.",
+      "oneLine": "향이 하늘에 닿는다고 할 만큼 높고 강하게 솟는 단총 — 첫 포부터 꽃향이 치고 오르고 상쾌한 맛이 맑게 남습니다.",
       "oxidation": "약 35%",
       "ratioNote": "개완 120ml에 5g",
       "rounds": "10회 안팎",
@@ -17401,7 +17401,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tongtian Xiang Dancong",
-      "oneLine": "A Phoenix dancong whose aroma rises high and strong — 'reaching the sky'.",
+      "oneLine": "A Phoenix dancong named 'reaching the sky' for an aroma that rises high and strong — florals surge from the first infusion, bright and crisp, with a clean finish.",
       "oxidation": "about 35%",
       "ratioNote": "5 g in a 120 ml gaiwan",
       "rounds": "around 10 infusions",
@@ -17417,7 +17417,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "通天香单丛",
-      "oneLine": "香气高扬冲天的凤凰单丛香型。",
+      "oneLine": "香气高扬、仿佛直冲云天的凤凰单丛香型——第一泡花香便汹涌而上，滋味明朗清爽，余韵清澈。",
       "oxidation": "约35%",
       "ratioNote": "120毫升盖碗配5克",
       "rounds": "10泡左右",
@@ -17433,7 +17433,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "通天香單叢",
-      "oneLine": "香氣高揚衝天的鳳凰單叢香型。",
+      "oneLine": "香氣高揚、彷彿直衝雲天的鳳凰單叢香型——第一泡花香便洶湧而上，滋味明朗清爽，餘韻清澈。",
       "oxidation": "約35%",
       "ratioNote": "120毫升蓋碗配5克",
       "rounds": "10泡左右",
@@ -17502,7 +17502,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "유화향 단총",
-      "oneLine": "유자꽃 같은 상큼한 꽃향의 봉황단총 향형.",
+      "oneLine": "봄 유자꽃 같은 상큼한 향에서 이름이 온 봉황단총 — 유자꽃과 감귤꽃 향, 가벼운 몸통과 또렷한 단맛이 어울립니다.",
       "oxidation": "약 35%",
       "ratioNote": "개완 120ml에 5g",
       "rounds": "8회 안팎",
@@ -17518,7 +17518,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Youhua Xiang Dancong",
-      "oneLine": "A Phoenix dancong with a fresh pomelo-blossom scent.",
+      "oneLine": "A Phoenix dancong named for the fresh scent of spring pomelo blossom — pomelo and citrus flowers over a light body and a distinct, clean sweetness.",
       "oxidation": "about 35%",
       "ratioNote": "5 g in a 120 ml gaiwan",
       "rounds": "around 8 infusions",
@@ -17534,7 +17534,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "柚花香单丛",
-      "oneLine": "香似柚花、清新爽朗的凤凰单丛香型。",
+      "oneLine": "以春日柚花般清新香气得名的凤凰单丛香型——柚花与柑橘花香配上轻盈汤体与分明甘甜，清澈相融。",
       "oxidation": "约35%",
       "ratioNote": "120毫升盖碗配5克",
       "rounds": "8泡左右",
@@ -17550,7 +17550,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "柚花香單叢",
-      "oneLine": "香似柚花、清新爽朗的鳳凰單叢香型。",
+      "oneLine": "以春日柚花般清新香氣得名的鳳凰單叢香型——柚花與柑橘花香配上輕盈湯體與分明甘甜，清澈相融。",
       "oxidation": "約35%",
       "ratioNote": "120毫升蓋碗配5克",
       "rounds": "8泡左右",
@@ -17620,7 +17620,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "송종 단총",
-      "oneLine": "송대부터 이어졌다고 전하는 노수 계통의 봉황단총.",
+      "oneLine": "송대부터 이어졌다고 전하는 오동 고지의 노수 계통 단총 — 깊은 꽃향 아래 묵직한 단맛과 진한 몸통이 깁니다.",
       "oxidation": "약 45%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "10회 안팎",
@@ -17636,7 +17636,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Song Zhong Dancong",
-      "oneLine": "An old-bush dancong lineage said to reach back to the Song dynasty.",
+      "oneLine": "An old-bush Phoenix dancong from Wudong's heights, said to descend from Song-dynasty plantings — deep florals over weighty sweetness and a long finish.",
       "oxidation": "about 45%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 10 infusions",
@@ -17652,7 +17652,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "宋种单丛",
-      "oneLine": "相传源自宋代的老丛系凤凰单丛。",
+      "oneLine": "相传源自宋代的乌岽高地老丛系凤凰单丛——深沉花香之下，厚重甘甜与浓强汤体化作悠长余韵。",
       "oxidation": "约45%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "10泡左右",
@@ -17668,7 +17668,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "宋種單叢",
-      "oneLine": "相傳源自宋代的老叢系鳳凰單叢。",
+      "oneLine": "相傳源自宋代的烏崬高地老叢系鳳凰單叢——深沉花香之下，厚重甘甜與濃強湯體化作悠長餘韻。",
       "oxidation": "約45%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "10泡左右",
@@ -17737,7 +17737,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "팔선 단총",
-      "oneLine": "잎이 크고 부드러운, 여덟 신선 전설을 이름에 단 봉황단총.",
+      "oneLine": "여덟 신선 전설을 이름에 단, 잎이 크고 부드러운 단총 — 맑은 꽃향에 넉넉히 우러나는 순한 단맛이 고르게 갑니다.",
       "oxidation": "약 40%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "9회 안팎",
@@ -17753,7 +17753,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Baxian Dancong",
-      "oneLine": "A large, soft-leaved dancong named for the Eight Immortals.",
+      "oneLine": "A large, soft-leaved Phoenix dancong named for the Eight Immortals — soft, clear florals and a generous, even sweetness from the big leaves.",
       "oxidation": "about 40%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 9 infusions",
@@ -17769,7 +17769,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "八仙单丛",
-      "oneLine": "叶片大而柔软、名字源于八仙传说的凤凰单丛。",
+      "oneLine": "名字源于八仙传说、叶片大而柔软的凤凰单丛——柔和清澈的花香中，大叶慷慨释放出均匀温顺的甘甜。",
       "oxidation": "约40%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "9泡左右",
@@ -17785,7 +17785,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "八仙單叢",
-      "oneLine": "葉片大而柔軟、名字源於八仙傳說的鳳凰單叢。",
+      "oneLine": "名字源於八仙傳說、葉片大而柔軟的鳳凰單叢——柔和清澈的花香中，大葉慷慨釋放出均勻溫順的甘甜。",
       "oxidation": "約40%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "9泡左右",
@@ -17854,7 +17854,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "대오엽 단총",
-      "oneLine": "잎이 크고 짙은 오엽 계통, 진한 향과 강한 바디의 봉황단총.",
+      "oneLine": "잎이 크고 짙은 오엽 계통으로 진하게 우르면 얼음에도 향이 남는 단총 — 진한 꽃향과 묵직한 몸통, 강한 회감입니다.",
       "oxidation": "약 50%",
       "ratioNote": "개완 120ml에 6g",
       "rounds": "10회 안팎",
@@ -17870,7 +17870,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Da Wu Ye Dancong",
-      "oneLine": "A big, dark-leaved dancong line with strong aroma and body.",
+      "oneLine": "A big, dark-leaved dancong line that holds its aroma even over ice when brewed thick — dense florals, heavy body, a strong sweet return after bitterness.",
       "oxidation": "about 50%",
       "ratioNote": "6 g in a 120 ml gaiwan",
       "rounds": "around 10 infusions",
@@ -17886,7 +17886,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大乌叶单丛",
-      "oneLine": "叶片大而色深、香浓体强的凤凰单丛品系。",
+      "oneLine": "叶片大而色深的乌叶品系，浓泡后加冰香气也不散——浓烈花香与厚重汤体，苦后强劲回甘。",
       "oxidation": "约50%",
       "ratioNote": "120毫升盖碗配6克",
       "rounds": "10泡左右",
@@ -17902,7 +17902,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大烏葉單叢",
-      "oneLine": "葉片大而色深、香濃體強的鳳凰單叢品系。",
+      "oneLine": "葉片大而色深的烏葉品系，濃泡後加冰香氣也不散——濃烈花香與厚重湯體，苦後強勁回甘。",
       "oxidation": "約50%",
       "ratioNote": "120毫升蓋碗配6克",
       "rounds": "10泡左右",
@@ -17971,7 +17971,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "아삼 우롱",
-      "oneLine": "아삼 대엽종에 우롱 제법을 입힌 차 — 몰트감 위에 우롱의 향.",
+      "oneLine": "브라마푸트라 유역 대엽종을 반발효에서 멈춘 새 스타일 우롱 — 몰트와 꿀, 구운 곡물에 우롱 꽃향이 겹칩니다.",
       "oxidation": "약 40%",
       "ratioNote": "150ml에 5g",
       "rounds": "5회",
@@ -17987,7 +17987,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Assam Oolong",
-      "oneLine": "Assamica leaf made as oolong — malt under an oolong aroma.",
+      "oneLine": "A newer style from Assam's Brahmaputra gardens, black-tea leaf stopped at half oxidation — malt, honey and roasted grain layered with oolong florals.",
       "oxidation": "About 40%",
       "ratioNote": "5 g to 150 ml",
       "rounds": "5 infusions",
@@ -18003,7 +18003,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "阿萨姆乌龙",
-      "oneLine": "阿萨姆大叶种按乌龙工艺制作——麦芽香里带乌龙的香气。",
+      "oneLine": "布拉马普特拉河流域的红茶大叶种停在半发酵的新派乌龙——麦芽、蜂蜜与炒谷物叠着乌龙花香，汤体厚重。",
       "oxidation": "约40%",
       "ratioNote": "150毫升配5克",
       "rounds": "5泡",
@@ -18019,7 +18019,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "阿薩姆烏龍",
-      "oneLine": "阿薩姆大葉種按烏龍工藝製作——麥芽香裡帶烏龍的香氣。",
+      "oneLine": "布拉馬普特拉河流域的紅茶大葉種停在半發酵的新派烏龍——麥芽、蜂蜜與炒穀物疊著烏龍花香，湯體厚重。",
       "oxidation": "約40%",
       "ratioNote": "150毫升配5公克",
       "rounds": "5泡",
@@ -18087,7 +18087,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "실론 우롱",
-      "oneLine": "스리랑카 고산 잎을 반발효로 — 실론의 맑은 향에 우롱의 꽃향.",
+      "oneLine": "우바 등 고산 다원에서 홍차와 함께 소량 만드는 실론 우롱 — 맑은 감귤·꽃 향과 가벼운 꿀맛이 산뜻하게 남습니다.",
       "oxidation": "약 30%",
       "ratioNote": "150ml에 5g",
       "rounds": "5회",
@@ -18103,7 +18103,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ceylon Oolong",
-      "oneLine": "High-grown Sri Lankan leaf, half oxidised — Ceylon brightness with oolong flowers.",
+      "oneLine": "A small-lot oolong made alongside black tea in Uva and other gardens near 1,200 m — clear citrus and flowers with light honey over a bright frame.",
       "oxidation": "About 30%",
       "ratioNote": "5 g to 150 ml",
       "rounds": "5 infusions",
@@ -18119,7 +18119,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "锡兰乌龙",
-      "oneLine": "斯里兰卡高山叶半发酵——锡兰的清亮里带乌龙花香。",
+      "oneLine": "在乌瓦等海拔约1200米高山茶园与红茶一同少量生产的锡兰乌龙——清澈柑橘花香与轻盈蜜味，留下爽朗骨架。",
       "oxidation": "约30%",
       "ratioNote": "150毫升配5克",
       "rounds": "5泡",
@@ -18135,7 +18135,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "錫蘭烏龍",
-      "oneLine": "斯里蘭卡高山葉半發酵——錫蘭的清亮裡帶烏龍花香。",
+      "oneLine": "在烏瓦等海拔約1,200公尺高山茶園與紅茶一同少量生產的錫蘭烏龍——清澈柑橘花香與輕盈蜜味，留下爽朗骨架。",
       "oxidation": "約30%",
       "ratioNote": "150毫升配5公克",
       "rounds": "5泡",
@@ -18205,7 +18205,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "루비 우롱",
-      "oneLine": "태국 고산의 진하게 배화한 구형 우롱 — 루비빛 수색과 건과일의 단맛.",
+      "oneLine": "도이매살롱 고산에서 대만식으로 만들고 붉은 수색에서 이름을 얻은 우롱 — 건과일 단맛과 구운 견과의 고소함입니다.",
       "oxidation": "약 50%",
       "ratioNote": "150ml에 6g",
       "rounds": "6회",
@@ -18221,7 +18221,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ruby Oolong",
-      "oneLine": "A dark-roasted ball oolong from Thailand's highlands — ruby liquor, dried-fruit sweetness.",
+      "oneLine": "A heavily roasted ball oolong made with Taiwanese craft around Doi Mae Salong, named for its red liquor — dried plum and raisin sweetness with roasted nuts.",
       "oxidation": "About 50%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6 infusions",
@@ -18237,7 +18237,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红宝石乌龙",
-      "oneLine": "泰国高山重焙火的球形乌龙——红宝石汤色与干果甜。",
+      "oneLine": "在湄沙龙高山以台湾工艺制作、因红色汤色得名的重焙乌龙——干梅子与葡萄干的甜香伴着烘烤坚果的醇香。",
       "oxidation": "约50%",
       "ratioNote": "150毫升配6克",
       "rounds": "6泡",
@@ -18253,7 +18253,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅寶石烏龍",
-      "oneLine": "泰國高山重焙火的球形烏龍——紅寶石湯色與乾果甜。",
+      "oneLine": "在湄沙龍高山以台灣工藝製作、因紅色湯色得名的重焙烏龍——乾梅子與葡萄乾的甜香伴著烘烤堅果的醇香。",
       "oxidation": "約50%",
       "ratioNote": "150毫升配6公克",
       "rounds": "6泡",
@@ -18322,7 +18322,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "제주화산암차",
-      "oneLine": "제주 화산토에서 기른 잎의 한국 우롱 — 미네랄감 도는 맑은 맛.",
+      "oneLine": "현무암 화산토와 해풍이 기른 제주 잎의 반발효 우롱 — 맑은 꽃향과 풀 향에 미네랄감과 깔끔한 단맛이 어우러집니다.",
       "oxidation": "약 30%",
       "ratioNote": "150ml에 5g",
       "rounds": "5회",
@@ -18338,7 +18338,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Jeju Volcanic Rock Tea",
-      "oneLine": "Korean oolong from Jeju's volcanic fields — a clean cup with a mineral edge.",
+      "oneLine": "A half-oxidised oolong from Jeju leaf raised on basalt soil, sea wind and wide day–night swings — clean flowers and grass with a mineral edge and neat sweetness.",
       "oxidation": "About 30%",
       "ratioNote": "5 g to 150 ml",
       "rounds": "5 infusions",
@@ -18354,7 +18354,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "济州火山岩茶",
-      "oneLine": "济州火山土茶园的韩国乌龙——带矿物感的清爽滋味。",
+      "oneLine": "玄武岩火山土、海风与大昼夜温差养育的济州叶半发酵乌龙——清澈花香草香交融着矿物感与干净甘甜。",
       "oxidation": "约30%",
       "ratioNote": "150毫升配5克",
       "rounds": "5泡",
@@ -18370,7 +18370,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "濟州火山岩茶",
-      "oneLine": "濟州火山土茶園的韓國烏龍——帶礦物感的清爽滋味。",
+      "oneLine": "玄武岩火山土、海風與大晝夜溫差養育的濟州葉半發酵烏龍——清澈花香草香交融著礦物感與乾淨甘甜。",
       "oxidation": "約30%",
       "ratioNote": "150毫升配5公克",
       "rounds": "5泡",
@@ -18439,7 +18439,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "청우롱",
-      "oneLine": "한국 산지에서 대만식으로 가볍게 발효한 우롱 — 맑은 꽃향의 청차.",
+      "oneLine": "제주·보성·하동에서 대만식 경발효로 만드는 한국 청차 — 맑은 난초와 풀꽃 향, 가벼운 단맛이 산뜻하게 섭니다.",
       "oxidation": "약 20%",
       "ratioNote": "150ml에 6g",
       "rounds": "6회",
@@ -18455,7 +18455,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cheong Oolong",
-      "oneLine": "Taiwanese-style light oolong made in Korea — a clear, floral qingcha.",
+      "oneLine": "Taiwanese-style light-oxidation qingcha made from Korean leaf in Jeju, Boseong and Hadong — clear orchid and meadow flowers, fresh between green tea and oolong.",
       "oxidation": "About 20%",
       "ratioNote": "6 g to 150 ml",
       "rounds": "6 infusions",
@@ -18471,7 +18471,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "青乌龙",
-      "oneLine": "韩国产地按台湾方式轻发酵的乌龙——花香清亮的青茶。",
+      "oneLine": "济州、宝城、河东等韩国产地以台湾轻发酵方式制作的青茶——清澈兰花与野花香、轻盈甘甜，爽朗地立于绿茶与乌龙之间。",
       "oxidation": "约20%",
       "ratioNote": "150毫升配6克",
       "rounds": "6泡",
@@ -18487,7 +18487,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "青烏龍",
-      "oneLine": "韓國產地按台灣方式輕發酵的烏龍——花香清亮的青茶。",
+      "oneLine": "濟州、寶城、河東等韓國產地以台灣輕發酵方式製作的青茶——清澈蘭花與野花香、輕盈甘甜，爽朗地立於綠茶與烏龍之間。",
       "oxidation": "約20%",
       "ratioNote": "150毫升配6公克",
       "rounds": "6泡",
@@ -18557,7 +18557,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "천홍",
-      "oneLine": "쓰촨 이빈의 공부홍차 — 장미 향과 진한 바디, 뒤에 오는 단맛.",
+      "oneLine": "기문·전홍과 나란히 서는 쓰촨 이빈의 공부홍차 — 장미 향과 진한 바디 뒤에 단맛이 밀려옵니다.",
       "oxidation": "90%",
       "ratioNote": "150ml에 3g",
       "rounds": "1~2회",
@@ -18573,7 +18573,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Chuanhong",
-      "oneLine": "Sichuan's gongfu black tea from Yibin — rose aroma, a full body, sweetness that follows.",
+      "oneLine": "Sichuan's gongfu black tea from Yibin, standing with Keemun and Dianhong, its all-bud Jinya the flagship — rose aroma and a full body, then rolling sweetness.",
       "oxidation": "90%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "1–2 infusions",
@@ -18589,7 +18589,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "川红",
-      "oneLine": "四川宜宾的工夫红茶——玫瑰香、浓厚汤体与随后的回甘。",
+      "oneLine": "与祁门、滇红并列的四川宜宾工夫红茶，以全芽金芽为代表等级——玫瑰香与浓厚汤体之后，甘甜滚滚而来。",
       "oxidation": "90%",
       "ratioNote": "150毫升配3克",
       "rounds": "1~2泡",
@@ -18605,7 +18605,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "川紅",
-      "oneLine": "四川宜賓的工夫紅茶——玫瑰香、濃厚湯體與隨後的回甘。",
+      "oneLine": "與祁門、滇紅並列的四川宜賓工夫紅茶，以全芽金芽為代表等級——玫瑰香與濃厚湯體之後，甘甜滾滾而來。",
       "oxidation": "90%",
       "ratioNote": "150毫升配3公克",
       "rounds": "1~2泡",
@@ -18673,7 +18673,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "구곡홍매",
-      "oneLine": "항저우의 홍차 — 용정과 같은 잎에서 나는 카카오 같은 단맛.",
+      "oneLine": "용정과 같은 계통 잎을 홍차로 만든 항저우의 또 다른 얼굴 — 카카오 뉘앙스와 말린 과일 단맛, 부드러운 꽃향입니다.",
       "oxidation": "약 85%",
       "ratioNote": "150ml에 3g",
       "rounds": "1~2회",
@@ -18689,7 +18689,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Jiuqu Hongmei",
-      "oneLine": "Hangzhou's black tea — a cacao-like sweetness from the same leaf family as Longjing.",
+      "oneLine": "Hangzhou's other face — Longjing-family leaf made into black tea, named for its red-plum shape — a cacao note, dried-fruit sweetness and soft flowers.",
       "oxidation": "About 85%",
       "ratioNote": "3 g to 150 ml",
       "rounds": "1–2 infusions",
@@ -18705,7 +18705,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "九曲红梅",
-      "oneLine": "杭州的红茶——与龙井同源的叶，带可可般的甜。",
+      "oneLine": "与西湖龙井同源的叶制成的红茶，杭州的另一面——可可般的韵味、干果甘甜与柔和花香徐徐展开。",
       "oxidation": "约85%",
       "ratioNote": "150毫升配3克",
       "rounds": "1~2泡",
@@ -18721,7 +18721,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "九曲紅梅",
-      "oneLine": "杭州的紅茶——與龍井同源的葉，帶可可般的甜。",
+      "oneLine": "與西湖龍井同源的葉製成的紅茶，杭州的另一面——可可般的韻味、乾果甘甜與柔和花香徐徐展開。",
       "oxidation": "約85%",
       "ratioNote": "150毫升配3公克",
       "rounds": "1~2泡",
@@ -18789,7 +18789,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "미전차",
-      "oneLine": "홍차 가루를 벽돌처럼 찍어 굳힌 후베이의 긴압 홍차 — 오래 두고 마시는 일상차.",
+      "oneLine": "홍차 가루를 쪄 벽돌처럼 굳힌 후베이 긴압 홍차 — 진한 몰트와 구수한 흙내음이 우유나 소금과도 어울립니다.",
       "oxidation": "95%",
       "ratioNote": "300ml에 5g (덩어리를 부숴서)",
       "rounds": "1~2회",
@@ -18805,7 +18805,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mizhuan",
-      "oneLine": "Hubei black-tea dust pressed into a brick — a keep-for-years everyday tea.",
+      "oneLine": "Hubei black-tea dust steamed and pressed into a brick to keep for years — strong malt and earthy savouriness that takes milk or salt as well.",
       "oxidation": "95%",
       "ratioNote": "5 g (broken from the brick) to 300 ml",
       "rounds": "1–2 infusions",
@@ -18821,7 +18821,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "米砖茶",
-      "oneLine": "红茶末压成砖的湖北紧压红茶——能久存的日常茶。",
+      "oneLine": "红茶末蒸后压成砖的湖北紧压红茶，可久存——浓烈麦芽香与醇厚土香，加牛奶或盐也相宜。",
       "oxidation": "95%",
       "ratioNote": "300毫升配5克（从砖上掰下）",
       "rounds": "1~2泡",
@@ -18837,7 +18837,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "米磚茶",
-      "oneLine": "紅茶末壓成磚的湖北緊壓紅茶——能久存的日常茶。",
+      "oneLine": "紅茶末蒸後壓成磚的湖北緊壓紅茶，可久存——濃烈麥芽香與醇厚土香，加牛奶或鹽也相宜。",
       "oxidation": "95%",
       "ratioNote": "300毫升配5公克（從磚上掰下）",
       "rounds": "1~2泡",
@@ -18907,7 +18907,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍운",
-      "oneLine": "일월담의 대차21호 — 유자 향과 꽃향, 새콤달콤한 홍차.",
+      "oneLine": "아삼종과 기문종을 교잡한 대차21호 일월담 홍차 — 유자 향과 꽃향, 새콤달콤한 과일 맛이 홍옥과 다릅니다.",
       "oxidation": "95%",
       "ratioNote": "200ml에 5g",
       "rounds": "1~2회",
@@ -18923,7 +18923,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Hong Yun",
-      "oneLine": "Sun Moon Lake's TTES No.21 — pomelo and flowers, sweet-and-sour black tea.",
+      "oneLine": "Sun Moon Lake black tea from Hong Yun (TTES No.21), an assamica × Keemun cross — pomelo and flowers in a sweet-sour fruit line distinct from Hong Yu.",
       "oxidation": "95%",
       "ratioNote": "5 g to 200 ml",
       "rounds": "1–2 infusions",
@@ -18939,7 +18939,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红韵",
-      "oneLine": "日月潭的台茶21号——柚香与花香，酸甜的红茶。",
+      "oneLine": "阿萨姆种与祁门种杂交的台茶21号制成的日月潭红茶——柚香与花香、酸甜果味，与红玉走出不同的脉络。",
       "oxidation": "95%",
       "ratioNote": "200毫升配5克",
       "rounds": "1~2泡",
@@ -18955,7 +18955,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅韻",
-      "oneLine": "日月潭的台茶21號——柚香與花香，酸甜的紅茶。",
+      "oneLine": "阿薩姆種與祁門種雜交的台茶21號製成的日月潭紅茶——柚香與花香、酸甜果味，與紅玉走出不同的脈絡。",
       "oxidation": "95%",
       "ratioNote": "200毫升配5公克",
       "rounds": "1~2泡",
@@ -19025,7 +19025,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "자아산차",
-      "oneLine": "대만 자생 산차의 자색 싹으로 만드는 홍차 — 적고 귀한 일월담의 또 다른 얼굴.",
+      "oneLine": "대만 자생 산차의 자줏빛 싹으로 만든 귀한 일월담 홍차 — 야생 꿀과 허브, 말린 과일 단맛이 거칠고 길게 남습니다.",
       "oxidation": "약 90%",
       "ratioNote": "200ml에 3g",
       "rounds": "3회",
@@ -19041,7 +19041,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ziya Shancha",
-      "oneLine": "Black tea from the purple buds of Taiwan's native mountain tea — Sun Moon Lake's rarer face.",
+      "oneLine": "A prized, small-output Sun Moon Lake black tea from the purple buds of native Taiwanese mountain tea — wild honey, herbs and dried fruit, rough and long.",
       "oxidation": "About 90%",
       "ratioNote": "3 g to 200 ml",
       "rounds": "3 infusions",
@@ -19057,7 +19057,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "紫芽山茶",
-      "oneLine": "台湾原生山茶的紫芽红茶——日月潭产量稀少的另一面。",
+      "oneLine": "采自台湾原生山茶紫芽、产量稀少而珍贵的日月潭红茶——野蜂蜜、草本与干果的深沉甘甜，粗犷而悠长。",
       "oxidation": "约90%",
       "ratioNote": "200毫升配3克",
       "rounds": "3泡",
@@ -19073,7 +19073,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紫芽山茶",
-      "oneLine": "台灣原生山茶的紫芽紅茶——日月潭產量稀少的另一面。",
+      "oneLine": "採自台灣原生山茶紫芽、產量稀少而珍貴的日月潭紅茶——野蜂蜜、草本與乾果的深沉甘甜，粗獷而悠長。",
       "oxidation": "約90%",
       "ratioNote": "200毫升配3公克",
       "rounds": "3泡",
@@ -19103,7 +19103,7 @@ window.TEAFaiData = (function () {
       "keep": "Sealed and cool — the scent fades fast; finish within two to three months of opening.",
       "keywords": "jasmine dragon pearls oolong Taiwan scented",
       "name": "Jasmine Dragon Pearls Oolong",
-      "oneLine": "Lightly oxidised oolong rolled into pearls and scented with jasmine.",
+      "oneLine": "Jasmine dragon pearls are usually green-based; Taiwan's rare version rolls an oolong base — clear jasmine and gentle sweetness in a pale cream liquor.",
       "origin": "Produced in Taiwan from lightly oxidised oolong rolled into pearls.",
       "oxidation": "About 20%",
       "pairing": "It pairs well with dim sum, light desserts and fresh fruit. The clear jasmine floral and gentle sweetness bring out the dim sum's delicacy, and its impression is as light as its pale cream liquor. The scent is delicate, so avoid heavy food, which overwhelms it.",
@@ -19125,7 +19125,7 @@ window.TEAFaiData = (function () {
       "keep": "향이 날아가기 쉬워 밀봉해 서늘하게, 개봉 후 두세 달 안에 드세요.",
       "keywords": "자스민 용주 우롱 말리 대만 구슬차",
       "name": "자스민 용주",
-      "oneLine": "가볍게 산화시킨 우롱을 구슬처럼 말아 자스민 향을 입힌 차.",
+      "oneLine": "녹차 소차가 흔한 자스민 용주를 우롱으로 말아 만든 대만 차 — 맑은 자스민 향과 단맛이 옅은 크림빛 수색에 돕니다.",
       "origin": "대만에서 생산됩니다. 가볍게 산화시킨 우롱 찻잎을 구슬처럼 말아 만듭니다.",
       "oxidation": "약 20%",
       "pairing": "딤섬과 가벼운 디저트, 신선한 과일과 잘 어울립니다. 맑은 자스민 꽃향과 부드러운 단맛이 딤섬의 담백한 맛을 살려 주고, 옅은 크림빛 수색처럼 인상도 가볍습니다. 향이 섬세해 진한 음식과는 부딪히니 피하세요.",
@@ -19180,7 +19180,7 @@ window.TEAFaiData = (function () {
       "keep": "花香易散，密封阴凉保存，开封后两三个月内喝完。",
       "keywords": "茉莉龙珠 乌龙 台湾 窨花",
       "name": "茉莉龙珠乌龙",
-      "oneLine": "轻发酵乌龙揉成龙珠，再窨入茉莉花香。",
+      "oneLine": "茉莉龙珠通常以绿茶为底，台湾版罕见地改用乌龙揉制——清澈茉莉香与柔和甘甜浮在淡奶油色汤色中。",
       "origin": "产于台湾，以轻发酵乌龙揉成龙珠。",
       "oxidation": "约20%",
       "pairing": "与点心、清淡甜点和新鲜水果都很搭配。清澈的茉莉花香与温和甘甜衬托点心的精致，印象如其淡奶油色茶汤般轻盈。香气细腻，因此避免厚重食物，会压倒它。",
@@ -19196,7 +19196,7 @@ window.TEAFaiData = (function () {
       "keep": "花香易散，密封陰涼保存，開封後兩三個月內喝完。",
       "keywords": "茉莉龍珠 烏龍 臺灣 窨花",
       "name": "茉莉龍珠烏龍",
-      "oneLine": "輕發酵烏龍揉成龍珠，再窨入茉莉花香。",
+      "oneLine": "茉莉龍珠通常以綠茶為底，台灣版罕見地改用烏龍揉製——清澈茉莉香與柔和甘甜浮在淡奶油色湯色中。",
       "origin": "產於臺灣，以輕發酵烏龍揉成龍珠。",
       "oxidation": "約20%",
       "pairing": "很適合搭配點心、清淡甜點和新鮮水果。清澈的茉莉花香與溫和甜味能帶出點心的細緻,印象如同它淡奶油色的茶湯一樣輕盈。香氣細緻,因此請避免厚重的食物,以免壓過它。",
@@ -19257,7 +19257,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "가지차",
-      "oneLine": "가지를 말려 볶아 우린, 구수하고 담백한 채소차.",
+      "oneLine": "여름 가지를 얇게 썰어 말리고 볶아 저장하던 민간 채소차 — 구수한 볶은 향과 담백한 맛이 깔끔하게 떨어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -19273,7 +19273,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Eggplant Tea",
-      "oneLine": "Dried, roasted eggplant steeped — toasty and mild.",
+      "oneLine": "A folk vegetable tea of summer eggplant sliced thin, dried and roasted for keeping — toasty roast aroma and a mild taste with a clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -19289,7 +19289,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "茄子茶",
-      "oneLine": "茄子晒干炒制后冲泡，焦香清淡的蔬菜茶。",
+      "oneLine": "将夏季蔬菜茄子切薄片晒干炒制、储藏饮用的民间蔬菜茶——醇香的炒香与清淡滋味，收尾干净。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -19305,7 +19305,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "茄子茶",
-      "oneLine": "茄子曬乾炒製後沖泡，焦香清淡的蔬菜茶。",
+      "oneLine": "將夏季蔬菜茄子切薄片曬乾炒製、儲藏飲用的民間蔬菜茶——醇香的炒香與清淡滋味，收尾乾淨。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -19371,7 +19371,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "감초차",
-      "oneLine": "감초 뿌리를 달인, 설탕 없이도 단맛이 나는 차.",
+      "oneLine": "한방에 두루 쓰인 감초 뿌리를 달여 설탕 없이도 단맛이 또렷한 차 — 자연 단맛과 은은한 흙 향이 부드럽게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회 (달임)",
@@ -19387,7 +19387,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Licorice Root Tea",
-      "oneLine": "Licorice root decocted — sweet with no sugar at all.",
+      "oneLine": "Licorice root, a staple of herbal prescriptions, decocted at home — distinctly sweet with no sugar, its natural sweetness and faint earthiness finishing soft.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 decoction",
@@ -19403,7 +19403,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "甘草茶",
-      "oneLine": "甘草根煎煮的茶，不加糖也甜。",
+      "oneLine": "煎煮广泛用于中药处方的甘草根，不加糖也甜味分明——天然甘甜与淡淡土香柔和留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -19419,7 +19419,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "甘草茶",
-      "oneLine": "甘草根煎煮的茶，不加糖也甜。",
+      "oneLine": "煎煮廣泛用於中藥處方的甘草根，不加糖也甜味分明——天然甘甜與淡淡土香柔和留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -19485,7 +19485,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "개암차",
-      "oneLine": "개암나무 열매를 볶아 우린, 견과처럼 고소한 차.",
+      "oneLine": "산 개암나무 열매를 저장해 볶아 우린 민간 견과차 — 고소한 견과 향과 은은한 단맛이 부드러운 바디에 담깁니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -19501,7 +19501,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Hazel Tea",
-      "oneLine": "Roasted Korean hazelnuts steeped — warmly nutty.",
+      "oneLine": "A folk tea of foraged Korean hazelnuts kept and roasted for the cup — toasty nut aroma and gentle sweetness in a soft body.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -19517,7 +19517,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "榛子茶",
-      "oneLine": "榛子炒制后冲泡，坚果般的香气。",
+      "oneLine": "将山中榛子储藏起来、炒后冲泡的民间坚果茶——醇香的坚果香与淡淡甘甜盛在柔和汤体里。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -19533,7 +19533,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "榛子茶",
-      "oneLine": "榛子炒製後沖泡，堅果般的香氣。",
+      "oneLine": "將山中榛子儲藏起來、炒後沖泡的民間堅果茶——醇香的堅果香與淡淡甘甜盛在柔和湯體裡。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -19598,7 +19598,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "계지차",
-      "oneLine": "계피나무 어린 가지 계지를 달인, 향이 가벼운 차.",
+      "oneLine": "계피보다 향이 가벼운 계피나무 어린 가지 계지를 달인 차 — 부드러운 계피 향과 은은한 단맛이 따뜻하게 전합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회 (달임)",
@@ -19614,7 +19614,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cinnamon Twig Tea",
-      "oneLine": "Young cinnamon twigs decocted — a lighter cinnamon cup.",
+      "oneLine": "Young cinnamon twigs decocted — a lighter cup than the bark, with soft cinnamon aroma, gentle sweetness and a warming feel.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 decoction",
@@ -19630,7 +19630,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桂枝茶",
-      "oneLine": "桂枝煎煮的茶，香气比桂皮轻柔。",
+      "oneLine": "煎煮比桂皮香气更轻柔的桂枝茶——柔和的肉桂香与淡淡甘甜，传递温暖之感。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -19646,7 +19646,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桂枝茶",
-      "oneLine": "桂枝煎煮的茶，香氣比桂皮輕柔。",
+      "oneLine": "煎煮比桂皮香氣更輕柔的桂枝茶——柔和的肉桂香與淡淡甘甜，傳遞溫暖之感。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -19713,7 +19713,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "계피차",
-      "oneLine": "계피 껍질을 우린, 맵싸하고 달콤한 향의 차.",
+      "oneLine": "수정과로 익숙한 계피 껍질을 단독으로 달인 차 — 맵싸하고 달콤한 향이 따뜻하고 진한 바디로 퍼집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -19729,7 +19729,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cinnamon Tea",
-      "oneLine": "Cinnamon bark steeped — spicy, sweet and warming.",
+      "oneLine": "The cinnamon bark familiar from sujeonggwa, decocted on its own — a spicy-sweet aroma in a warm, fairly full body.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -19745,7 +19745,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桂皮茶",
-      "oneLine": "桂皮冲泡的茶，辛甜温暖的香气。",
+      "oneLine": "将水正果中熟悉的桂皮单独煎煮冲泡的茶——辛甜的香料香在温暖浓厚的汤体中舒展。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -19761,7 +19761,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桂皮茶",
-      "oneLine": "桂皮沖泡的茶，辛甜溫暖的香氣。",
+      "oneLine": "將水正果中熟悉的桂皮單獨煎煮沖泡的茶——辛甜的香料香在溫暖濃厚的湯體中舒展。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -19827,7 +19827,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "고삼차",
-      "oneLine": "고삼 뿌리를 달인, 쓴맛이 강한 약재차.",
+      "oneLine": "이름처럼 쓴맛이 강해 한방에서 오래 쓴 고삼 뿌리를 달인 차 — 또렷한 쓴맛과 흙 향이 마른 뒷맛으로 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 3g",
       "rounds": "1회 (달임)",
@@ -19843,7 +19843,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sophora Root Tea",
-      "oneLine": "Sophora root decocted — an unapologetically bitter herbal tea.",
+      "oneLine": "Sophora root, long used in herbal medicine and decocted in small amounts — an unapologetically bitter cup with earthy notes and a dry finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 300 ml",
       "rounds": "1 decoction",
@@ -19859,7 +19859,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "苦参茶",
-      "oneLine": "苦参根煎煮的茶，苦味很重。",
+      "oneLine": "如其名苦味强烈、长久用于中药的苦参根少量煎煮的药茶——分明的苦味与土香留下干爽余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配3克",
       "rounds": "1煎",
@@ -19875,7 +19875,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "苦參茶",
-      "oneLine": "苦參根煎煮的茶，苦味很重。",
+      "oneLine": "如其名苦味強烈、長久用於中藥的苦參根少量煎煮的藥茶——分明的苦味與土香留下乾爽餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配3克",
       "rounds": "1煎",
@@ -19942,7 +19942,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "곽향차",
-      "oneLine": "배초향 잎을 말려 우린, 향이 또렷한 허브차.",
+      "oneLine": "깻잎과 민트를 섞은 듯한 향의 자생 허브 배초향 잎을 말린 차 — 또렷한 향과 옅은 단맛이 시원하게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -19958,7 +19958,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Korean Mint Tea",
-      "oneLine": "Dried Korean mint leaves — a vividly aromatic herb tea.",
+      "oneLine": "A native Korean herb whose leaves smell between perilla and mint, dried and steeped — vivid aroma, light sweetness and a cooling finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -19974,7 +19974,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "藿香茶",
-      "oneLine": "排草香叶晒干冲泡，香气鲜明的草本茶。",
+      "oneLine": "香气介于紫苏与薄荷之间的韩国原生草本排草香叶晒干冲泡——鲜明香气与淡淡甘甜，余韵清凉。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -19990,7 +19990,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "藿香茶",
-      "oneLine": "排草香葉曬乾沖泡，香氣鮮明的草本茶。",
+      "oneLine": "香氣介於紫蘇與薄荷之間的韓國原生草本排草香葉曬乾沖泡——鮮明香氣與淡淡甘甜，餘韻清涼。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20057,7 +20057,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "귤피차",
-      "oneLine": "귤 껍질을 말려 볶아 우린, 상큼한 향의 차.",
+      "oneLine": "겨울 귤 껍질을 말려 볶아 두었다 우린 민간차 — 상큼한 귤 향과 옅은 단맛이 가벼운 뒷맛으로 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -20073,7 +20073,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tangerine Peel Tea",
-      "oneLine": "Dried, roasted tangerine peel — bright and citrusy.",
+      "oneLine": "A folk tea of winter tangerine peels saved, dried and roasted — bright citrus aroma and light sweetness in a clean, light finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -20089,7 +20089,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "橘皮茶",
-      "oneLine": "橘皮晒干炒制后冲泡，清新的柑橘香茶。",
+      "oneLine": "将冬天吃剩的橘皮晒干炒制保存后冲泡的民间茶——清新的柑橘香与淡淡甘甜，余韵轻盈。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20105,7 +20105,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "橘皮茶",
-      "oneLine": "橘皮曬乾炒製後沖泡，清新的柑橘香茶。",
+      "oneLine": "將冬天吃剩的橘皮曬乾炒製保存後沖泡的民間茶——清新的柑橘香與淡淡甘甜，餘韻輕盈。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20172,7 +20172,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "귤화차",
-      "oneLine": "귤꽃을 말려 우린, 화사한 꽃향의 차.",
+      "oneLine": "꽃이 귀해 소량씩 말려 두었다 마시는 봄 귤꽃의 꽃차 — 귤을 닮은 화사한 꽃향과 옅은 단맛이 맑은 수색에 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -20188,7 +20188,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Tangerine Blossom Tea",
-      "oneLine": "Dried tangerine blossoms — a bright floral cup.",
+      "oneLine": "Spring tangerine blossoms, few enough to be dried only in small batches — a bright floral echo of the fruit with light sweetness and clear liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -20204,7 +20204,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "橘花茶",
-      "oneLine": "橘花晒干冲泡，明亮花香的花茶。",
+      "oneLine": "花量稀少、只能少量晒干保存的春日橘花茶——明亮的花香呼应着果香，淡淡甘甜浮在清澈汤色中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -20220,7 +20220,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "橘花茶",
-      "oneLine": "橘花曬乾沖泡，明亮花香的花茶。",
+      "oneLine": "花量稀少、只能少量曬乾保存的春日橘花茶——明亮的花香呼應著果香，淡淡甘甜浮在清澈湯色中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -20286,7 +20286,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "길경차",
-      "oneLine": "도라지 뿌리인 길경을 달인, 쌉쌀한 뿌리차.",
+      "oneLine": "도라지 뿌리를 말린 약재 길경을 달인 뿌리차 — 쌉쌀한 뿌리 향과 옅은 단맛이 마른 뒷맛을 남깁니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회 (달임)",
@@ -20302,7 +20302,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Platycodon Root Tea",
-      "oneLine": "Balloon-flower root (gilgyeong) decocted — bittersweet and earthy.",
+      "oneLine": "Balloon-flower root under its medicine name gilgyeong, decocted — the same root as doraji tea, with bittersweet root aroma and a dry finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 decoction",
@@ -20318,7 +20318,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桔梗茶",
-      "oneLine": "桔梗根煎煮的茶，微苦的根茶。",
+      "oneLine": "桔梗是桔梗根晒干的药材名，煎煮而成的根茶与桔梗茶同源——微苦的根香与淡淡甘甜留下干爽余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -20334,7 +20334,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桔梗茶",
-      "oneLine": "桔梗根煎煮的茶，微苦的根茶。",
+      "oneLine": "桔梗是桔梗根曬乾的藥材名，煎煮而成的根茶與桔梗茶同源——微苦的根香與淡淡甘甜留下乾爽餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -20401,7 +20401,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "꿀풀",
-      "oneLine": "꿀풀 꽃이삭을 말려 우린, 담백한 들꽃차.",
+      "oneLine": "여름 들판의 꿀풀 꽃이삭을 말려 우린 민간 들꽃차 — 담백한 풀·꽃 향과 옅은 단맛이 깔끔하게 마무리됩니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -20417,7 +20417,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Self-heal Tea",
-      "oneLine": "Dried self-heal flower spikes — a plain meadow-flower tea.",
+      "oneLine": "A folk meadow tea of self-heal flower spikes, a common summer field plant dried for keeping — plain green-floral aroma, light sweetness, a clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -20433,7 +20433,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "夏枯草茶",
-      "oneLine": "夏枯草花穗晒干冲泡，清淡的野花茶。",
+      "oneLine": "将夏季野地常见的夏枯草花穗晒干保存后冲泡的民间野花茶——清淡的草花香与淡淡甘甜，收尾干净。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20449,7 +20449,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "夏枯草茶",
-      "oneLine": "夏枯草花穗曬乾沖泡，清淡的野花茶。",
+      "oneLine": "將夏季野地常見的夏枯草花穗曬乾保存後沖泡的民間野花茶——清淡的草花香與淡淡甘甜，收尾乾淨。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20516,7 +20516,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "냉이차",
-      "oneLine": "봄나물 냉이를 말려 우린, 흙 내음 나는 풀차.",
+      "oneLine": "나물로 먹고 남은 냉이를 말려 두던 민간의 봄차 — 잎과 뿌리에서 특유의 풀 향과 옅은 단맛, 담백한 뒷맛이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -20532,7 +20532,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Shepherd's Purse Tea",
-      "oneLine": "Dried shepherd's purse — an earthy spring-green tea.",
+      "oneLine": "A folk spring tea of shepherd's purse left over from the namul pot, dried and kept — its leaves and roots give a green aroma, light sweetness and a plain finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -20548,7 +20548,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "荠菜茶",
-      "oneLine": "荠菜晒干冲泡，带泥土气的野菜茶。",
+      "oneLine": "把吃剩的春季野菜荠菜晒干留存的民间春茶——叶与根散发荠菜特有的青草香、淡淡甜味与清淡余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20564,7 +20564,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "薺菜茶",
-      "oneLine": "薺菜曬乾沖泡，帶泥土氣的野菜茶。",
+      "oneLine": "把吃剩的春季野菜薺菜曬乾留存的民間春茶——葉與根散發薺菜特有的青草香、淡淡甜味與清淡餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -20629,7 +20629,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "냉차",
-      "oneLine": "대용차를 끓여 식혀 차갑게 마시는, 여름의 방식.",
+      "oneLine": "대용차를 끓여 식혀 물처럼 마시는 여름의 방식 — 재료 본연의 구수함이 차가울 때 더 깔끔하게 느껴집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "500ml에 10g",
       "rounds": "1회 (식혀 마심)",
@@ -20645,7 +20645,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cold Herbal Tea",
-      "oneLine": "Herbal tea boiled, cooled and served cold — the summer way.",
+      "oneLine": "Korea's summer way of drinking — grain and herbal teas boiled, cooled and kept cold like water, their own toastiness tasting cleaner when chilled.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 500 ml",
       "rounds": "1 batch, served chilled",
@@ -20661,7 +20661,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "冷茶",
-      "oneLine": "代用茶煮好放凉后冷饮，夏天的方式。",
+      "oneLine": "把代用茶煮好放凉、冷藏后像水一样饮用的夏日方式——食材本身的焦香在冰凉时更显干净利落。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "500毫升配10克",
       "rounds": "1次（放凉饮用）",
@@ -20677,7 +20677,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "冷茶",
-      "oneLine": "代用茶煮好放涼後冷飲，夏天的方式。",
+      "oneLine": "把代用茶煮好放涼、冷藏後像水一樣飲用的夏日方式——食材本身的焦香在冰涼時更顯乾淨俐落。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "500毫升配10克",
       "rounds": "1次（放涼飲用）",
@@ -20743,7 +20743,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "노각차",
-      "oneLine": "늙은 오이 노각을 말려 볶아 우린, 담백한 여름차.",
+      "oneLine": "여름 끝물 노랗게 익은 오이를 저장해 마시던 민간차 — 말리고 볶은 노각에서 담백한 구수함과 옅은 단맛이 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -20759,7 +20759,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Aged Cucumber Tea",
-      "oneLine": "Dried, roasted aged cucumber — a plain summer tea.",
+      "oneLine": "A folk tea that saved the last yellow-ripened summer cucumbers — sliced, dried and roasted nogak brews plain toastiness with a light, clean sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -20775,7 +20775,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "老瓜茶",
-      "oneLine": "老黄瓜晒干炒制后冲泡，清淡的夏季茶。",
+      "oneLine": "把夏末黄熟的老黄瓜留存下来饮用的民间茶——切片晒干炒制的老黄瓜，泡出清淡焦香与淡淡甜味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -20791,7 +20791,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "老瓜茶",
-      "oneLine": "老黃瓜曬乾炒製後沖泡，清淡的夏季茶。",
+      "oneLine": "把夏末黃熟的老黃瓜留存下來飲用的民間茶——切片曬乾炒製的老黃瓜，泡出清淡焦香與淡淡甜味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -20857,7 +20857,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "녹두차",
-      "oneLine": "녹두를 볶아 끓인, 구수하고 담백한 곡물차.",
+      "oneLine": "녹두 삶은 물을 마시던 습관에서 온 곡물차 — 볶아 끓인 녹두에서 구수한 콩 향과 옅은 단맛, 담백한 뒷맛이 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "500ml에 10g",
       "rounds": "1회 (끓임)",
@@ -20873,7 +20873,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mung Bean Tea",
-      "oneLine": "Roasted mung beans boiled — a plain, toasty grain tea.",
+      "oneLine": "Born from drinking the water mung beans were cooked in — roasted and boiled, the beans give a toasty aroma, light sweetness and a plain finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 500 ml",
       "rounds": "1 boil",
@@ -20889,7 +20889,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "绿豆茶",
-      "oneLine": "绿豆炒制后煮成，朴素的谷物茶。",
+      "oneLine": "源于饮用煮绿豆之水的习惯的谷物茶——炒后煮出的绿豆，带焦香豆香、淡淡甜味与清淡余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "500毫升配10克",
       "rounds": "1煮",
@@ -20905,7 +20905,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "綠豆茶",
-      "oneLine": "綠豆炒製後煮成，樸素的穀物茶。",
+      "oneLine": "源於飲用煮綠豆之水的習慣的穀物茶——炒後煮出的綠豆，帶焦香豆香、淡淡甜味與清淡餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "500毫升配10克",
       "rounds": "1煮",
@@ -20972,7 +20972,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "다시마차",
-      "oneLine": "다시마를 우린, 감칠맛이 은은한 바다차.",
+      "oneLine": "국물 내던 다시마를 그대로 우려 마시는 바다의 차 — 은은한 감칠맛과 바다 향, 옅은 짠맛이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -20988,7 +20988,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Kelp Tea",
-      "oneLine": "Steeped kelp — a gentle, savory sea tea.",
+      "oneLine": "The soup-stock kelp itself, simply steeped and drunk — dried kelp opens into soft umami, a sea-breeze aroma and a hint of salt.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -21004,7 +21004,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "昆布茶",
-      "oneLine": "昆布冲泡的茶，带淡淡海味鲜香。",
+      "oneLine": "把熬汤的昆布直接冲泡饮用的海之茶——干昆布散发淡淡鲜味、海风香气与一丝咸味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -21020,7 +21020,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "昆布茶",
-      "oneLine": "昆布沖泡的茶，帶淡淡海味鮮香。",
+      "oneLine": "把熬湯的昆布直接沖泡飲用的海之茶——乾昆布散發淡淡鮮味、海風香氣與一絲鹹味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -21086,7 +21086,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "당귀차",
-      "oneLine": "당귀 뿌리를 달인, 향이 진한 약재차.",
+      "oneLine": "한방에서 오래 쓴 당귀를 대추와 함께 달이던 차 — 진한 약재 향과 은은한 단맛, 따뜻한 바디가 느껴집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회 (달임)",
@@ -21102,7 +21102,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Angelica Root Tea",
-      "oneLine": "Angelica root decocted — a deep herbal cup.",
+      "oneLine": "Angelica long used in herbal medicine, decocted at home with jujube — the dried root gives a deep herbal aroma, gentle sweetness and a warm body.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 decoction",
@@ -21118,7 +21118,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "当归茶",
-      "oneLine": "当归根煎煮的茶，药香浓郁。",
+      "oneLine": "把汉方中久用的当归在家与红枣同煎的茶——干根散发浓郁药香、淡淡甜味与温暖醇厚感。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -21134,7 +21134,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "當歸茶",
-      "oneLine": "當歸根煎煮的茶，藥香濃郁。",
+      "oneLine": "把漢方中久用的當歸在家與紅棗同煎的茶——乾根散發濃郁藥香、淡淡甜味與溫暖醇厚感。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -21201,7 +21201,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "당근차",
-      "oneLine": "당근을 말려 볶아 우린, 은은하게 단 채소차.",
+      "oneLine": "채소를 말려 차로 마시던 민간 방식의 하나 — 말리고 볶은 당근에서 은은한 단맛과 옅은 흙 향이 깔끔하게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -21217,7 +21217,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Carrot Tea",
-      "oneLine": "Dried, roasted carrot — a gently sweet vegetable tea.",
+      "oneLine": "One of the folk ways of turning dried vegetables into tea — sliced, dried and roasted carrot leaves a gentle sweetness and faint earthiness, clean at the finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -21233,7 +21233,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "胡萝卜茶",
-      "oneLine": "胡萝卜晒干炒制后冲泡，淡淡甜味的蔬菜茶。",
+      "oneLine": "把蔬菜晒干泡茶的民间方式之一——切薄晒干炒制的胡萝卜，留下淡淡甜味与一丝土香，余韵干净。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -21249,7 +21249,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "胡蘿蔔茶",
-      "oneLine": "胡蘿蔔曬乾炒製後沖泡，淡淡甜味的蔬菜茶。",
+      "oneLine": "把蔬菜曬乾泡茶的民間方式之一——切薄曬乾炒製的胡蘿蔔，留下淡淡甜味與一絲土香，餘韻乾淨。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -21316,7 +21316,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "대나무차",
-      "oneLine": "대나무 잎을 말려 우린, 시원하고 담백한 잎차.",
+      "oneLine": "담양 같은 대나무 산지에서 잎을 말려 마셔 온 죽엽차 — 담백한 풀 향과 옅은 단맛, 시원한 뒷맛이 흐릅니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -21332,7 +21332,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bamboo Leaf Tea",
-      "oneLine": "Dried bamboo leaves — a cooling, plain leaf tea.",
+      "oneLine": "Jukyeop tea, drunk in bamboo country like Damyang where the leaves are dried — plain green aroma, light sweetness and a cooling finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -21348,7 +21348,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "竹叶茶",
-      "oneLine": "竹叶晒干冲泡，清凉清淡的叶茶。",
+      "oneLine": "在潭阳等竹产地把竹叶晒干饮用的竹叶茶——竹叶散发清淡青草香、淡淡甜味与清凉余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -21364,7 +21364,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "竹葉茶",
-      "oneLine": "竹葉曬乾沖泡，清涼清淡的葉茶。",
+      "oneLine": "在潭陽等竹產地把竹葉曬乾飲用的竹葉茶——竹葉散發清淡青草香、淡淡甜味與清涼餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -21430,7 +21430,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "대파차",
-      "oneLine": "대파 흰 부분과 뿌리를 달인, 민간의 따뜻한 차.",
+      "oneLine": "몸이 으슬으슬할 때 집에서 달여 마시던 민간차 — 대파 흰 줄기와 뿌리에서 은은한 파 향과 옅은 단맛이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 10g",
       "rounds": "1회 (달임)",
@@ -21446,7 +21446,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Welsh Onion Tea",
-      "oneLine": "Korean leek whites and roots decocted — a warming folk tea.",
+      "oneLine": "A home decoction long made when a chill came on — leek whites and roots give a gentle onion aroma, light sweetness and a warming finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 300 ml",
       "rounds": "1 decoction",
@@ -21462,7 +21462,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大葱茶",
-      "oneLine": "大葱白茎与根煎煮的民间暖茶。",
+      "oneLine": "身体发冷时在家煎煮的民间茶——大葱白茎与根散发淡淡葱香、淡淡甜味与温暖余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配10克",
       "rounds": "1煎",
@@ -21478,7 +21478,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大蔥茶",
-      "oneLine": "大蔥白莖與根煎煮的民間暖茶。",
+      "oneLine": "身體發冷時在家煎煮的民間茶——大蔥白莖與根散發淡淡蔥香、淡淡甜味與溫暖餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配10克",
       "rounds": "1煎",
@@ -21544,7 +21544,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "더덕차",
-      "oneLine": "더덕 뿌리를 달인, 쌉쌀하고 구수한 뿌리차.",
+      "oneLine": "산에서 나는 뿌리나물 더덕을 말려 두었다 달인 차 — 도라지 닮은 쌉쌀한 향에 구수한 단맛과 따뜻한 바디가 겹칩니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회 (달임)",
@@ -21560,7 +21560,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Deodeok Root Tea",
-      "oneLine": "Deodeok root decocted — bittersweet and toasty.",
+      "oneLine": "Mountain deodeok root, dried and kept for decocting — a bittersweet aroma like balloon-flower root, layered with toasty sweetness and a warm body.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 decoction",
@@ -21576,7 +21576,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "沙参茶",
-      "oneLine": "沙参根煎煮的茶，微苦而香。",
+      "oneLine": "把山中根菜沙参晒干留存煎煮的茶——近似桔梗的微苦香气，叠加焦香甜味与温暖醇厚感。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -21592,7 +21592,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "沙參茶",
-      "oneLine": "沙參根煎煮的茶，微苦而香。",
+      "oneLine": "把山中根菜沙參曬乾留存煎煮的茶——近似桔梗的微苦香氣，疊加焦香甜味與溫暖醇厚感。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1煎",
@@ -21658,7 +21658,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "도화차",
-      "oneLine": "복숭아꽃을 말려 우린, 봄빛처럼 옅은 꽃차.",
+      "oneLine": "봄 복숭아꽃을 말려 두어 사철 내내 마시는 꽃차 — 은은한 꽃향과 옅은 단맛, 옅은 분홍빛 수색이 피어납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -21674,7 +21674,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Peach Blossom Tea",
-      "oneLine": "Dried peach blossoms steeped pale pink — a spring flower tea.",
+      "oneLine": "Spring peach blossoms dried to drink all year — shade-dried flowers bloom into a soft floral scent, light sweetness and a pale pink liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -21690,7 +21690,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桃花茶",
-      "oneLine": "干桃花冲泡，淡粉如春光的花茶。",
+      "oneLine": "把春日桃花晒干留存、全年饮用的花茶——阴干的花朵绽放淡淡花香、淡淡甜味与淡粉色汤色。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -21706,7 +21706,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桃花茶",
-      "oneLine": "乾桃花沖泡，淡粉如春光的花茶。",
+      "oneLine": "把春日桃花曬乾留存、全年飲用的花茶——陰乾的花朵綻放淡淡花香、淡淡甜味與淡粉色湯色。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -21771,7 +21771,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "동백차",
-      "oneLine": "겨울에 피는 동백꽃을 말려 우린 꽃차.",
+      "oneLine": "제주와 남해안의 겨울 동백을 말려 즐기는 꽃차 — 은은한 꽃향과 옅은 단맛, 옅은 노란빛 수색이 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -21787,7 +21787,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Camellia Flower Tea",
-      "oneLine": "Winter camellia blossoms, dried and steeped.",
+      "oneLine": "Winter camellias from Jeju and the southern coast, dried for tea — shade-dried blossoms give a soft floral scent, light sweetness and a pale yellow liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -21803,7 +21803,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "冬柏茶",
-      "oneLine": "冬天的山茶花晒干冲泡的花茶。",
+      "oneLine": "把济州与南海岸的冬日山茶花晒干享用的花茶——阴干花朵泡出淡淡花香、淡淡甜味与淡黄色汤色。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -21819,7 +21819,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "冬柏茶",
-      "oneLine": "冬天的山茶花曬乾沖泡的花茶。",
+      "oneLine": "把濟州與南海岸的冬日山茶花曬乾享用的花茶——陰乾花朵泡出淡淡花香、淡淡甜味與淡黃色湯色。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -21883,7 +21883,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "동아차",
-      "oneLine": "동아를 꿀이나 설탕에 재어 달인, 진한 단맛의 전통차.",
+      "oneLine": "동아를 꿀이나 설탕에 재어 달이는 여름의 전통차 — 진한 단맛과 동아 특유의 부드러운 향이 옅은 갈색 수색에 담깁니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 20g",
       "rounds": "1회",
@@ -21899,7 +21899,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Winter Melon Tea",
-      "oneLine": "Winter melon steeped in honey or sugar and simmered — a rich, sweet traditional tea.",
+      "oneLine": "A traditional summer tea of winter melon macerated in honey or sugar and simmered — deep sweetness and the melon's soft scent in a light brown liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "20 g to 300 ml",
       "rounds": "1 infusion",
@@ -21915,7 +21915,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "冬瓜茶",
-      "oneLine": "冬瓜用蜜或糖腌后煮出，甜味浓厚的传统茶。",
+      "oneLine": "把冬瓜用蜜或糖腌后煎煮的夏日传统茶——浓厚甜味与冬瓜特有的柔和香气，盛在浅褐色汤色中。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配20克",
       "rounds": "1泡",
@@ -21931,7 +21931,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "冬瓜茶",
-      "oneLine": "冬瓜用蜜或糖醃後煮出，甜味濃厚的傳統茶。",
+      "oneLine": "把冬瓜用蜜或糖醃後煎煮的夏日傳統茶——濃厚甜味與冬瓜特有的柔和香氣，盛在淺褐色湯色中。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配20公克",
       "rounds": "1泡",
@@ -21997,7 +21997,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "돼지감자차",
-      "oneLine": "돼지감자를 볶아 우린, 구수하고 옅게 단맛 도는 차.",
+      "oneLine": "볶을수록 구수해 물처럼 마시기 좋은 가을 뿌리차 — 말리고 볶은 돼지감자에서 구수한 향과 옅은 단맛이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -22013,7 +22013,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Jerusalem Artichoke Tea",
-      "oneLine": "Roasted Jerusalem artichoke — toasty, faintly sweet.",
+      "oneLine": "An autumn tuber tea that grows toastier the deeper it roasts, easy to drink like water — sliced, dried and roasted, it leaves a toasty scent, light sweetness and a clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -22029,7 +22029,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "菊芋茶",
-      "oneLine": "菊芋炒后冲泡，焦香里带淡淡甜味。",
+      "oneLine": "越炒越香、可像水一样饮用的秋日根茶——切薄晒干炒制的菊芋，留下焦香、淡淡甜味与干净余韵。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -22045,7 +22045,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "菊芋茶",
-      "oneLine": "菊芋炒後沖泡，焦香裡帶淡淡甜味。",
+      "oneLine": "越炒越香、可像水一樣飲用的秋日根茶——切薄曬乾炒製的菊芋，留下焦香、淡淡甜味與乾淨餘韻。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -22109,7 +22109,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "두충차",
-      "oneLine": "두충나무 껍질을 달인, 묵직하고 쌉싸름한 약차.",
+      "oneLine": "껍질을 벗기면 고무 같은 실이 엉기는 두충나무의 약차 — 달인 껍질에서 쌉싸름하고 묵직한 맛과 나무 향이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -22125,7 +22125,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Eucommia Bark Tea",
-      "oneLine": "Eucommia bark simmered — weighty and bitter-edged.",
+      "oneLine": "Tea of the eucommia tree, whose peeled bark stretches into rubbery threads — cut and simmered, it tastes bitter-edged and weighty, with a quiet woody scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -22141,7 +22141,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "杜仲茶",
-      "oneLine": "杜仲树皮煮出，厚重微苦的药茶。",
+      "oneLine": "剥皮时会拉出橡胶般丝线的杜仲树药茶——切碎煎煮的树皮，带微苦厚重之味与淡淡木香。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -22157,7 +22157,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "杜仲茶",
-      "oneLine": "杜仲樹皮煮出，厚重微苦的藥茶。",
+      "oneLine": "剝皮時會拉出橡膠般絲線的杜仲樹藥茶——切碎煎煮的樹皮，帶微苦厚重之味與淡淡木香。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -22220,7 +22220,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "두향차",
-      "oneLine": "향이 진한 두향 잎을 말려 우린 약초차.",
+      "oneLine": "향이 짙어 소량만 우려도 충분한 산지의 약초차 — 그늘에 말린 잎에서 짙은 풀 향과 쌉싸름한 뒷맛이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -22236,7 +22236,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Duhyang Tea",
-      "oneLine": "Strongly scented duhyang leaves, dried and steeped.",
+      "oneLine": "A mountain herb tea so fragrant a little is enough — shade-dried duhyang leaves spread a dense green scent with a bitter-edged finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -22252,7 +22252,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "杜香茶",
-      "oneLine": "香气浓的杜香叶晒干冲泡的草药茶。",
+      "oneLine": "香气浓郁、少量冲泡便已足够的山地草药茶——阴干的杜香叶散发浓郁青草香与微苦余韵。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -22268,7 +22268,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "杜香茶",
-      "oneLine": "香氣濃的杜香葉曬乾沖泡的草藥茶。",
+      "oneLine": "香氣濃郁、少量沖泡便已足夠的山地草藥茶——陰乾的杜香葉散發濃郁青草香與微苦餘韻。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -22332,7 +22332,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "들깨차",
-      "oneLine": "들깨를 볶아 갈아 끓인, 고소함이 진한 차.",
+      "oneLine": "가을 들깨를 볶아 갈아 끓이는 고소한 씨앗차 — 볶은 씨앗에서 진한 깨 향과 부드럽고 진한 맛이 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "1회",
@@ -22348,7 +22348,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Perilla Seed Tea",
-      "oneLine": "Roasted perilla seeds, ground and boiled — deeply nutty.",
+      "oneLine": "Autumn perilla seeds roasted, ground and boiled — the roasted seeds steep out a deep, nutty, sesame-like scent, soft and full in the mouth.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "1 infusion",
@@ -22364,7 +22364,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "紫苏茶",
-      "oneLine": "紫苏籽炒后磨碎煮出，香味浓郁的茶。",
+      "oneLine": "把秋季收获的紫苏籽炒后磨碎煮出的香浓种子茶——炒籽浸出浓郁芝麻般香气，口感柔和醇厚。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "1泡",
@@ -22380,7 +22380,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紫蘇茶",
-      "oneLine": "紫蘇籽炒後磨碎煮出，香味濃郁的茶。",
+      "oneLine": "把秋季收穫的紫蘇籽炒後磨碎煮出的香濃種子茶——炒籽浸出濃郁芝麻般香氣，口感柔和醇厚。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "1泡",
@@ -22445,7 +22445,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "딸기차",
-      "oneLine": "말린 딸기를 우린, 새콤달콤한 과일차.",
+      "oneLine": "제철 딸기를 말려 두어 사철 내내 즐기는 과일차 — 새콤달콤한 딸기 향과 옅은 분홍빛 수색이 피어납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -22461,7 +22461,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Strawberry Tea",
-      "oneLine": "Dried strawberries steeped sweet-tart.",
+      "oneLine": "In-season strawberries dried to enjoy all year — thin-sliced and dried, they open into a sweet-tart scent and a pale pink liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -22477,7 +22477,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "草莓茶",
-      "oneLine": "干草莓冲泡，酸甜的果茶。",
+      "oneLine": "把应季草莓晒干留存、全年享用的果茶——切薄晒干的草莓，绽放酸甜香气与淡粉色汤色。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -22493,7 +22493,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "草莓茶",
-      "oneLine": "乾草莓沖泡，酸甜的果茶。",
+      "oneLine": "把應季草莓曬乾留存、全年享用的果茶——切薄曬乾的草莓，綻放酸甜香氣與淡粉色湯色。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -22557,7 +22557,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "땅콩차",
-      "oneLine": "땅콩을 볶아 끓인, 고소하고 든든한 차.",
+      "oneLine": "고소함이 진해 아침 대용으로도 좋은 든든한 차 — 볶아 갈아 끓인 땅콩에서 고소한 향과 진한 맛이 채워집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "1회",
@@ -22573,7 +22573,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Peanut Tea",
-      "oneLine": "Roasted peanuts boiled — nutty and filling.",
+      "oneLine": "Rich and nutty enough to stand in for breakfast — autumn peanuts roasted, ground and boiled fill the cup with a nutty scent, soft and full.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "1 infusion",
@@ -22589,7 +22589,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "花生茶",
-      "oneLine": "花生炒后煮出，香浓顶饱的茶。",
+      "oneLine": "香浓醇厚、足以代早餐的饱腹茶——秋季花生炒后磨碎煮出，充满坚果香与柔和醇厚的味道。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "1泡",
@@ -22605,7 +22605,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "花生茶",
-      "oneLine": "花生炒後煮出，香濃頂飽的茶。",
+      "oneLine": "香濃醇厚、足以代早餐的飽腹茶——秋季花生炒後磨碎煮出，充滿堅果香與柔和醇厚的味道。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "1泡",
@@ -22669,7 +22669,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "레몬차",
-      "oneLine": "레몬청을 따뜻한 물에 탄, 상큼한 단맛의 차.",
+      "oneLine": "레몬을 설탕에 재어 만든 청을 물에 타는 차 — 상큼한 레몬 향과 달콤함이 옅은 노란빛 수색에 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 청 20g",
       "rounds": "1회",
@@ -22685,7 +22685,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Lemon Tea",
-      "oneLine": "Lemon cheong stirred into warm water — bright and sweet.",
+      "oneLine": "A home-and-café tea of lemon cheong stirred into water — lemons macerated in sugar give a bright lemon scent and sweetness in a pale yellow liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "20 g cheong to 200 ml",
       "rounds": "1 infusion",
@@ -22701,7 +22701,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "柠檬茶",
-      "oneLine": "柠檬青兑入温水，清爽带甜的茶。",
+      "oneLine": "把柠檬用糖腌成的青兑入水中的家庭与咖啡馆之茶——清爽柠檬香与甜味，晕染在淡黄色汤色中。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配青20克",
       "rounds": "1泡",
@@ -22717,7 +22717,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "檸檬茶",
-      "oneLine": "檸檬青兌入溫水，清爽帶甜的茶。",
+      "oneLine": "把檸檬用糖醃成的青兌入水中的家庭與咖啡館之茶——清爽檸檬香與甜味，暈染在淡黃色湯色中。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配青20公克",
       "rounds": "1泡",
@@ -22779,7 +22779,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "마늘차",
-      "oneLine": "마늘을 구워 달인, 알싸함이 누그러진 차.",
+      "oneLine": "구우면 알싸함이 줄고 단맛이 도는 마늘의 변신 — 구워 달이면 구운 단맛이 앞에 서고 알싸함은 부드러워집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 10g",
       "rounds": "1회",
@@ -22795,7 +22795,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Garlic Tea",
-      "oneLine": "Roasted garlic simmered — the bite mellowed out.",
+      "oneLine": "Garlic transformed by roasting, its bite fading as sweetness rises — roasted and simmered, it brings roasted sweetness forward and softens the raw edge.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 300 ml",
       "rounds": "1 infusion",
@@ -22811,7 +22811,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "大蒜茶",
-      "oneLine": "大蒜烤后煮出，辣味变柔和的茶。",
+      "oneLine": "经烤制后辣味减退、甜味浮现的大蒜之变——烤后煎煮的新蒜，烤甜味在前，辛辣变得柔和。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配10克",
       "rounds": "1泡",
@@ -22827,7 +22827,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "大蒜茶",
-      "oneLine": "大蒜烤後煮出，辣味變柔和的茶。",
+      "oneLine": "經烤製後辣味減退、甜味浮現的大蒜之變——烤後煎煮的新蒜，烤甜味在前，辛辣變得柔和。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配10公克",
       "rounds": "1泡",
@@ -22891,7 +22891,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "마름차",
-      "oneLine": "마름 열매를 말려 달인, 담백한 전통차.",
+      "oneLine": "연못의 마름 열매를 가을에 거둬 말린 전통차 — 달인 열매에서 담백하고 옅은 단맛과 부드러운 뒷맛이 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -22907,7 +22907,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Water Caltrop Tea",
-      "oneLine": "Dried water caltrop fruit simmered — mild and plain.",
+      "oneLine": "A traditional tea of pond-grown water caltrop gathered in autumn and dried — simmered, the fruit gives a plain, mild sweetness and a soft finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -22923,7 +22923,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "菱角茶",
-      "oneLine": "菱角晒干煮出，味道清淡的传统茶。",
+      "oneLine": "把池塘菱角在秋季采收晒干的传统茶——晒干煎煮的果实，带清淡微甜与柔和余韵。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -22939,7 +22939,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "菱角茶",
-      "oneLine": "菱角曬乾煮出，味道清淡的傳統茶。",
+      "oneLine": "把池塘菱角在秋季採收曬乾的傳統茶——曬乾煎煮的果實，帶清淡微甜與柔和餘韻。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -23004,7 +23004,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "매실차",
-      "oneLine": "매실청을 물에 탄, 새콤달콤한 한국의 차.",
+      "oneLine": "초여름 청매를 설탕에 재어 만든 청을 물에 타는 차 — 새콤한 첫맛이 달콤한 끝맛으로 이어지는 황금빛 수색입니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 청 20g",
       "rounds": "1회",
@@ -23020,7 +23020,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Green Plum Tea",
-      "oneLine": "Maesil cheong stirred into water — sweet-tart, a Korean classic.",
+      "oneLine": "A Korean classic of early-summer green-plum cheong stirred into water — a tart first note runs into a sweet finish, in a pale gold liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "20 g cheong to 200 ml",
       "rounds": "1 infusion",
@@ -23036,7 +23036,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "青梅茶",
-      "oneLine": "梅青兑水，酸甜的韩国茶。",
+      "oneLine": "把初夏青梅用糖腌成的青兑入水中的韩国茶——酸爽初味接续甘甜收尾，汤色呈淡金色。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配青20克",
       "rounds": "1泡",
@@ -23052,7 +23052,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "青梅茶",
-      "oneLine": "梅青兌水，酸甜的韓國茶。",
+      "oneLine": "把初夏青梅用糖醃成的青兌入水中的韓國茶——酸爽初味接續甘甜收尾，湯色呈淡金色。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配青20公克",
       "rounds": "1泡",
@@ -23117,7 +23117,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "매화차",
-      "oneLine": "이른 봄 매화를 말려 우린, 맑은 향의 꽃차.",
+      "oneLine": "이른 봄 짧게 피어 향이 맑고 귀한 매화의 꽃차 — 그늘에 말린 꽃봉오리에서 맑고 은은한 꽃향과 옅은 단맛이 피어납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -23133,7 +23133,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Plum Blossom Tea",
-      "oneLine": "Early-spring plum blossoms dried — a clear-scented flower tea.",
+      "oneLine": "Plum blossom, brief in early spring and prized for its clear scent — shade-dried buds open into a quiet floral aroma and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -23149,7 +23149,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "梅花茶",
-      "oneLine": "早春梅花晒干，清香的花茶。",
+      "oneLine": "早春短暂绽放、香气清澈而珍贵的梅花茶——阴干的花苞绽放清雅花香与淡淡甜味。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -23165,7 +23165,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "梅花茶",
-      "oneLine": "早春梅花曬乾，清香的花茶。",
+      "oneLine": "早春短暫綻放、香氣清澈而珍貴的梅花茶——陰乾的花苞綻放清雅花香與淡淡甜味。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -23230,7 +23230,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "머위차",
-      "oneLine": "머위 잎을 말려 덖은, 쌉싸름하고 구수한 차.",
+      "oneLine": "봄나물 머위를 말려 두어 사철 내내 마시는 차 — 말려 덖은 잎에서 쌉싸름한 풀 향과 구수한 뒷맛이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -23246,7 +23246,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Butterbur Tea",
-      "oneLine": "Butterbur leaves dried and pan-fired — bitter-edged and toasty.",
+      "oneLine": "Spring butterbur dried down for the whole year — dried and pan-fired leaves spread a bitter green scent with a toasty finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -23262,7 +23262,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "款冬茶",
-      "oneLine": "款冬叶晒干炒制，微苦带焦香的茶。",
+      "oneLine": "把春季野菜款冬叶晒干留存、全年饮用的茶——晒干炒制的叶散发微苦青草香与焦香余韵。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -23278,7 +23278,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "款冬茶",
-      "oneLine": "款冬葉曬乾炒製，微苦帶焦香的茶。",
+      "oneLine": "把春季野菜款冬葉曬乾留存、全年飲用的茶——曬乾炒製的葉散發微苦青草香與焦香餘韻。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -23344,7 +23344,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "목련차",
-      "oneLine": "목련 꽃봉오리를 말려 우린, 향이 맑은 꽃차.",
+      "oneLine": "'신이'라 불러 오래 써 온 목련 꽃봉오리의 꽃차 — 피기 전에 따 말린 봉오리에서 맑고 시원한 꽃향이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -23360,7 +23360,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Magnolia Tea",
-      "oneLine": "Magnolia buds dried — a clear, cool-scented flower tea.",
+      "oneLine": "Magnolia buds, called sini and used for centuries — picked before opening and shade-dried, they give a clear, cool floral scent and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -23376,7 +23376,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "木兰茶",
-      "oneLine": "木兰花苞晒干，清凉香气的花茶。",
+      "oneLine": "被称为“辛夷”、自古沿用的木兰花苞茶——未开时采摘阴干的花苞，散发清澈凉爽的花香与淡淡甜味。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -23392,7 +23392,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "木蘭茶",
-      "oneLine": "木蘭花苞曬乾，清涼香氣的花茶。",
+      "oneLine": "被稱為「辛夷」、自古沿用的木蘭花苞茶——未開時採摘陰乾的花苞，散發清澈涼爽的花香與淡淡甜味。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -23454,7 +23454,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "목향차",
-      "oneLine": "목향 뿌리를 달인, 향이 깊고 쌉싸름한 약차.",
+      "oneLine": "향이 강한 약재라 소량으로도 향이 깊은 목향의 약차 — 잘게 썰어 달인 뿌리에서 깊은 나무 향과 쌉싸름한 맛이 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -23470,7 +23470,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Costus Root Tea",
-      "oneLine": "Costus root simmered — deep-scented and bitter-edged.",
+      "oneLine": "Costus, a potent herb whose scent runs deep in small amounts — the root, cut small and simmered, gives a deep woody aroma and a bitter edge.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -23486,7 +23486,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "木香茶",
-      "oneLine": "木香根煮出，香深微苦的药茶。",
+      "oneLine": "香气强劲、少量便香深的木香药茶——切碎煎煮的根，浸出深沉木香与微苦之味。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -23502,7 +23502,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "木香茶",
-      "oneLine": "木香根煮出，香深微苦的藥茶。",
+      "oneLine": "香氣強勁、少量便香深的木香藥茶——切碎煎煮的根，浸出深沉木香與微苦之味。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -23568,7 +23568,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "무잎차",
-      "oneLine": "무잎을 말려 우린, 구수하고 담백한 차.",
+      "oneLine": "시래기로 먹던 무잎을 말려 차로도 마시던 잎차 — 말린 잎에서 구수한 풀 향과 담백한 맛이 부드럽게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -23584,7 +23584,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Radish Leaf Tea",
-      "oneLine": "Dried radish leaves — toasty and plain.",
+      "oneLine": "The siraegi radish leaf, dried for tea as well as the pot — dried leaves steep out a toasty green scent and a plain, mild taste.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -23600,7 +23600,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "萝卜叶茶",
-      "oneLine": "萝卜叶晒干冲泡，焦香清淡的茶。",
+      "oneLine": "把做干菜的萝卜叶晒干也当茶饮的叶茶——干叶泡出焦香青草香与清淡味道。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -23616,7 +23616,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蘿蔔葉茶",
-      "oneLine": "蘿蔔葉曬乾沖泡，焦香清淡的茶。",
+      "oneLine": "把做乾菜的蘿蔔葉曬乾也當茶飲的葉茶——乾葉泡出焦香青草香與清淡味道。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -23680,7 +23680,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "방풍차",
-      "oneLine": "방풍 뿌리를 달인, 은은한 흙 향의 약차.",
+      "oneLine": "잎은 나물로 먹는 방풍의 뿌리를 말려 쓰는 약차 — 달인 뿌리에서 은은한 흙 향과 옅은 단맛이 부드럽게 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -23696,7 +23696,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bangpung Tea",
-      "oneLine": "Bangpung root simmered — a quiet, earthy herbal tea.",
+      "oneLine": "Tea of bangpung root, from a plant whose leaves are eaten as a green — cut and simmered, it gives a quiet earthy scent, light sweetness and a soft finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -23712,7 +23712,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "防风茶",
-      "oneLine": "防风根煮出，淡淡土香的药茶。",
+      "oneLine": "把叶子作野菜食用的防风之根晒干使用的药茶——切碎煎煮的根，带淡淡土香、微甜与柔和余韵。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -23728,7 +23728,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "防風茶",
-      "oneLine": "防風根煮出，淡淡土香的藥茶。",
+      "oneLine": "把葉子作野菜食用的防風之根曬乾使用的藥茶——切碎煎煮的根，帶淡淡土香、微甜與柔和餘韻。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -23792,7 +23792,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "버섯차",
-      "oneLine": "말린 버섯을 달인, 감칠맛이 도는 차.",
+      "oneLine": "말리면 감칠맛이 진해져 국물처럼 마시기 좋은 버섯차 — 말린 표고 등을 달이면 깊은 감칠맛과 은은한 버섯 향이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -23808,7 +23808,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mushroom Tea",
-      "oneLine": "Dried mushrooms simmered — a savory, umami cup.",
+      "oneLine": "Dried mushrooms, their umami deepened until the cup drinks almost like a light broth — simmered shiitake and kin give deep savoriness and a quiet mushroom scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -23824,7 +23824,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "蘑菇茶",
-      "oneLine": "干蘑菇煮出，带鲜味的茶。",
+      "oneLine": "晒干后鲜味变浓、可如汤般饮用的蘑菇茶——干香菇等煮出深厚鲜味与淡淡菌香。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -23840,7 +23840,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蘑菇茶",
-      "oneLine": "乾蘑菇煮出，帶鮮味的茶。",
+      "oneLine": "曬乾後鮮味變濃、可如湯般飲用的蘑菇茶——乾香菇等煮出深厚鮮味與淡淡菌香。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -23905,7 +23905,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "벚꽃차",
-      "oneLine": "벚꽃을 말리거나 절여 우린, 봄 향기 가득한 꽃차.",
+      "oneLine": "물 위에서 꽃이 펴지는 모습까지 볼거리인 봄의 꽃차 — 말리거나 소금에 절인 벚꽃에서 은은한 꽃향과 옅은 단맛이 피어납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -23921,7 +23921,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cherry Blossom Tea",
-      "oneLine": "Cherry blossoms dried or pickled — spring in a cup.",
+      "oneLine": "A spring flower tea where the blossom opening on the water is half the pleasure — dried or salt-pickled, it gives a soft floral scent and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -23937,7 +23937,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "樱花茶",
-      "oneLine": "樱花晒干或腌制冲泡，满是春意的花茶。",
+      "oneLine": "花在水面绽放的姿态同样赏心悦目的春日花茶——晒干或盐腌的樱花，绽放淡淡花香与淡淡甜味。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -23953,7 +23953,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "櫻花茶",
-      "oneLine": "櫻花曬乾或醃製沖泡，滿是春意的花茶。",
+      "oneLine": "花在水面綻放的姿態同樣賞心悅目的春日花茶——曬乾或鹽醃的櫻花，綻放淡淡花香與淡淡甜味。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -24017,7 +24017,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "복령차",
-      "oneLine": "복령을 달인, 맛이 담백하고 부드러운 약차.",
+      "oneLine": "소나무 뿌리 근처에서 자라는 복령을 달인 약차 — 담백하고 부드러운 맛이 거의 향 없이 조용히 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "300ml에 5g",
       "rounds": "1회",
@@ -24033,7 +24033,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Poria Tea",
-      "oneLine": "Poria simmered — plain, soft and nearly scentless.",
+      "oneLine": "Poria from beside pine roots, so plain it blends easily with other herbs — cut and simmered, it tastes mild and soft, with almost no scent of its own.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 300 ml",
       "rounds": "1 infusion",
@@ -24049,7 +24049,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "茯苓茶",
-      "oneLine": "茯苓煮出，味道清淡柔和的药茶。",
+      "oneLine": "生于松树根旁、味道清淡而易与其他药材搭配的茯苓茶——切碎煎煮，味道清淡柔和，几乎无香。",
       "oxidation": "不发酵 · 无咖啡因",
       "ratioNote": "300毫升配5克",
       "rounds": "1泡",
@@ -24065,7 +24065,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "茯苓茶",
-      "oneLine": "茯苓煮出，味道清淡柔和的藥茶。",
+      "oneLine": "生於松樹根旁、味道清淡而易與其他藥材搭配的茯苓茶——切碎煎煮，味道清淡柔和，幾乎無香。",
       "oxidation": "不發酵 · 無咖啡因",
       "ratioNote": "300毫升配5公克",
       "rounds": "1泡",
@@ -24131,7 +24131,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "복숭아차",
-      "oneLine": "말린 복숭아를 우린, 달콤한 과일 향의 차.",
+      "oneLine": "여름 복숭아를 말려 두어 사철 내내 마시는 과일차 — 부드러운 복숭아 향과 달콤함, 옅은 산미가 담깁니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24147,7 +24147,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Peach Tea",
-      "oneLine": "Dried peach slices steeped sweet and fruity.",
+      "oneLine": "Summer peaches dried to drink through the year — softer in aroma than fresh fruit, their sweetness and light tart edge held in a pale gold liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24163,7 +24163,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桃子茶",
-      "oneLine": "干桃片泡出的清甜果香茶。",
+      "oneLine": "把夏日桃子晒干留存、全年饮用的果茶——比鲜果更柔和的香气与甜味、淡淡酸味，盛在淡黄色汤色中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24179,7 +24179,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桃子茶",
-      "oneLine": "乾桃片泡出的清甜果香茶。",
+      "oneLine": "把夏日桃子曬乾留存、全年飲用的果茶——比鮮果更柔和的香氣與甜味、淡淡酸味，盛在淡黃色湯色中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24246,7 +24246,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "비트차",
-      "oneLine": "붉은 비트를 말려 우린, 흙 내음과 단맛의 차.",
+      "oneLine": "가정에서 말려 마시기 시작한 붉은 채소차 — 말린 비트에서 흙 내음 섞인 단맛과 루비빛 수색이 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24262,7 +24262,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Beetroot Tea",
-      "oneLine": "Dried beet slices — earthy, sweet, deep red.",
+      "oneLine": "A red vegetable tea that spread as a home brew once beets were widely grown in Korea — thin-sliced and dried, it gives earthy sweetness and a ruby-red liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24278,7 +24278,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "甜菜根茶",
-      "oneLine": "干甜菜根泡出泥土香与甜味。",
+      "oneLine": "随甜菜在韩国广泛种植而在家庭中流传的红色蔬菜茶——切薄晒干的甜菜，泡出带土香的甜味与红宝石色汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24294,7 +24294,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "甜菜根茶",
-      "oneLine": "乾甜菜根泡出泥土香與甜味。",
+      "oneLine": "隨甜菜在韓國廣泛種植而在家庭中流傳的紅色蔬菜茶——切薄曬乾的甜菜，泡出帶土香的甜味與紅寶石色湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24360,7 +24360,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "비파차",
-      "oneLine": "비파나무 잎을 말려 우린, 부드럽고 담백한 차.",
+      "oneLine": "잎 뒷면 잔털 제거가 손질의 핵심인 남부 해안의 잎차 — 말린 비파 잎에서 담백한 풀 향과 맑은 수색이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -24376,7 +24376,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Loquat Leaf Tea",
-      "oneLine": "Dried loquat leaves — mild, smooth, understated.",
+      "oneLine": "A southern-coast leaf tea whose key step is removing the fuzz from the leaf back — thick dried loquat leaves give quiet herbal notes, light sweetness and a clear liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -24392,7 +24392,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "枇杷叶茶",
-      "oneLine": "枇杷叶晒干泡出，柔和清淡。",
+      "oneLine": "以去除叶背细毛为关键工序的南海岸叶茶——厚实的枇杷叶晒干冲泡，带清淡草香、微甜与清澈汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -24408,7 +24408,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "枇杷葉茶",
-      "oneLine": "枇杷葉曬乾泡出，柔和清淡。",
+      "oneLine": "以去除葉背細毛為關鍵工序的南海岸葉茶——厚實的枇杷葉曬乾沖泡，帶清淡草香、微甜與清澈湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -24475,7 +24475,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "사과차",
-      "oneLine": "말린 사과를 우린, 새콤달콤한 과일차.",
+      "oneLine": "가을 사과를 말려 두고 겨울까지 마시는 과일차 — 껍질째 말린 사과에서 새콤달콤함이 옅은 노란 수색에 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24491,7 +24491,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Apple Tea",
-      "oneLine": "Dried apple slices — sweet, tart, fragrant.",
+      "oneLine": "Autumn apples dried and kept for winter drinking — sliced thin with the peel on, they give sweet-tart fruit and a soft aroma in a pale gold liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24507,7 +24507,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "苹果茶",
-      "oneLine": "干苹果片泡出酸甜果香。",
+      "oneLine": "把秋季苹果晒干留存、饮至冬日的果茶——带皮切薄晒干的苹果，酸甜与淡淡香气晕染在淡黄色汤色中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24523,7 +24523,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蘋果茶",
-      "oneLine": "乾蘋果片泡出酸甜果香。",
+      "oneLine": "把秋季蘋果曬乾留存、飲至冬日的果茶——帶皮切薄曬乾的蘋果，酸甜與淡淡香氣暈染在淡黃色湯色中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24589,7 +24589,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "산약차",
-      "oneLine": "마(산약)를 말려 달인, 담백하고 부드러운 차.",
+      "oneLine": "식재료와 약재로 오래 쓰인 산약, 말차와는 다른 차 — 말려 달이면 담백한 뿌리 향과 옅은 전분 단맛이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24605,7 +24605,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Chinese Yam Tea",
-      "oneLine": "Dried yam slices decocted — mild and smooth.",
+      "oneLine": "Chinese yam, long both food and herbal material — and not matcha — sliced, dried and decocted for a quiet root aroma and a faint starchy sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24621,7 +24621,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "山药茶",
-      "oneLine": "山药干片煮出，清淡柔和。",
+      "oneLine": "自古兼作食材与药材的山药，与抹茶并非同物——切薄晒干煎煮，带清淡根香与淡淡淀粉甜味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24637,7 +24637,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "山藥茶",
-      "oneLine": "山藥乾片煮出，清淡柔和。",
+      "oneLine": "自古兼作食材與藥材的山藥，與抹茶並非同物——切薄曬乾煎煮，帶清淡根香與淡淡澱粉甜味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24703,7 +24703,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "상지차",
-      "oneLine": "뽕나무 어린 가지를 말려 달인, 담백한 나무 향의 차.",
+      "oneLine": "뽕나무 부위마다 쓰임이 달랐고 가지 상지도 그 하나 — 뽕잎과 다른 부위를 달이면 담백한 나무 향이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24719,7 +24719,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mulberry Twig Tea",
-      "oneLine": "Young mulberry twigs decocted — quiet and woody.",
+      "oneLine": "Every part of the mulberry had its own name and use, and the twig sangji was one — a different part from the leaf, cut, dried and decocted for a mild woody aroma and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24735,7 +24735,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桑枝茶",
-      "oneLine": "桑树嫩枝煎煮，清淡木香。",
+      "oneLine": "桑树各部位各有名称与用途，嫩枝桑枝便是其一——与桑叶茶取材不同，切碎晒干煎煮，带清淡木香与微甜。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24751,7 +24751,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桑枝茶",
-      "oneLine": "桑樹嫩枝煎煮，清淡木香。",
+      "oneLine": "桑樹各部位各有名稱與用途，嫩枝桑枝便是其一——與桑葉茶取材不同，切碎曬乾煎煮，帶清淡木香與微甜。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24817,7 +24817,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "새삼차",
-      "oneLine": "새삼 씨(토사자)를 달인, 고소하고 담백한 차.",
+      "oneLine": "다른 식물을 감고 자라는 새삼의 씨, 토사자로 기록돼 온 차 — 달이면 고소한 씨앗 향과 담백한 맛이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24833,7 +24833,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Dodder Seed Tea",
-      "oneLine": "Dodder seeds decocted — nutty and mild.",
+      "oneLine": "Seeds of dodder, the vine that twines over other plants, long recorded as tosaja — small and hard, they suit decocting, giving a nutty seed aroma and a mild, plain taste.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24849,7 +24849,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "菟丝子茶",
-      "oneLine": "菟丝子煎煮，香而清淡。",
+      "oneLine": "缠绕他株而生的菟丝之籽，自古以菟丝子之名记载——籽小而硬，宜煎煮，带香浓种子香与清淡味道。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24865,7 +24865,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "菟絲子茶",
-      "oneLine": "菟絲子煎煮，香而清淡。",
+      "oneLine": "纏繞他株而生的菟絲之籽，自古以菟絲子之名記載——籽小而硬，宜煎煮，帶香濃種子香與清淡味道。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24931,7 +24931,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "석류차",
-      "oneLine": "말린 석류를 우린, 새콤달콤하고 붉은 차.",
+      "oneLine": "남부에서 흔한 정원수였던 석류의 열매와 껍질을 말린 과일차 — 말려 우리면 새콤달콤한 맛이 루비빛 수색으로 붉게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -24947,7 +24947,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pomegranate Tea",
-      "oneLine": "Dried pomegranate — sweet-tart and ruby red.",
+      "oneLine": "Fruit and peel of the pomegranate, a familiar southern garden tree, dried for tea — steeped, its sweet-tart taste brews out into a ruby-red liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -24963,7 +24963,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "石榴茶",
-      "oneLine": "干石榴泡出酸甜与红艳汤色。",
+      "oneLine": "把南部常见庭院树石榴的果实与果皮晒干的果茶——冲泡后酸甜之味化作红宝石色汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -24979,7 +24979,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "石榴茶",
-      "oneLine": "乾石榴泡出酸甜與紅豔湯色。",
+      "oneLine": "把南部常見庭院樹石榴的果實與果皮曬乾的果茶——沖泡後酸甜之味化作紅寶石色湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25045,7 +25045,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "설차",
-      "oneLine": "고산의 지의류(송라)를 말려 우린, 맑고 담백한 차.",
+      "oneLine": "눈처럼 희게 자라 설차라 불리는 고산의 차 — 송라를 말려 우리면 아주 옅은 풀 향과 거의 투명한 수색이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -25061,7 +25061,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Seolcha (Snow Tea)",
-      "oneLine": "Dried mountain lichen — pale, delicate, quiet.",
+      "oneLine": "Seolcha, named for its snow-pale growth and gathered only in small amounts where the air is clean — dried high-mountain usnea gives very light herbal notes and a nearly clear liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -25077,7 +25077,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "雪茶",
-      "oneLine": "高山地衣（松萝）晒干泡出，清淡近乎透明。",
+      "oneLine": "因雪白生长而得名、只生于洁净之地而采量稀少的雪茶——高山松萝晒干冲泡，带极淡草香与近乎透明的汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -25093,7 +25093,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "雪茶",
-      "oneLine": "高山地衣（松蘿）曬乾泡出，清淡近乎透明。",
+      "oneLine": "因雪白生長而得名、只生於潔淨之地而採量稀少的雪茶——高山松蘿曬乾沖泡，帶極淡草香與近乎透明的湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -25159,7 +25159,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "소태차",
-      "oneLine": "소태 열매를 우린, '소태처럼 쓰다'는 말이 있을 만큼 쓴 차.",
+      "oneLine": "'소태처럼 쓰다'는 말이 있을 만큼 쓴맛으로 이름난 민간차 — 강한 쓴맛 뒤 옅은 단맛이 진한 갈색 수색에 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -25175,7 +25175,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sotae Tea",
-      "oneLine": "Famously bitter — the tea behind the saying 'bitter as sotae'.",
+      "oneLine": "The folk tea behind the saying 'bitter as sotae' — dried fruit and leaves give a strong bitterness with a faint sweet tail, in a deep brown liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -25191,7 +25191,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "苏苔茶",
-      "oneLine": "苦味出名的民间茶，韩语有“苦如苏苔”之说。",
+      "oneLine": "苦到留下“苦如苏苔”俗语的民间茶——晒干的果实与叶，强苦之后留一丝微甜，汤色深褐。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -25207,7 +25207,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蘇苔茶",
-      "oneLine": "苦味出名的民間茶，韓語有「苦如蘇苔」之說。",
+      "oneLine": "苦到留下「苦如蘇苔」俗語的民間茶——曬乾的果實與葉，強苦之後留一絲微甜，湯色深褐。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -25273,7 +25273,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "속단차",
-      "oneLine": "속단 뿌리를 달인, 흙 내음과 옅은 단맛의 차.",
+      "oneLine": "본초서에 오래 기록된 속단의 뿌리를 달인 민간차 — 흙 내음 섞인 뿌리 향과 옅은 단맛, 살짝 쓴 뒷맛이 이어집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -25289,7 +25289,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sokdan Tea",
-      "oneLine": "Decocted sokdan root — earthy with a light sweetness.",
+      "oneLine": "A folk decoction of sokdan root, long recorded in herbal texts — sliced, dried and simmered, it gives an earthy root aroma, light sweetness and a slightly bitter tail.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -25305,7 +25305,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "续断茶",
-      "oneLine": "续断根煎煮，土香带微甜。",
+      "oneLine": "把本草书中久有记载的续断根煎煮的民间茶——切片晒干煎煮，带土香根香、微甜与略苦余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25321,7 +25321,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "續斷茶",
-      "oneLine": "續斷根煎煮，土香帶微甜。",
+      "oneLine": "把本草書中久有記載的續斷根煎煮的民間茶——切片曬乾煎煮，帶土香根香、微甜與略苦餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25387,7 +25387,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "솔잎차",
-      "oneLine": "어린 솔잎을 우린, 상쾌한 소나무 향의 차.",
+      "oneLine": "송진을 빼는 손질이 맛을 좌우하는 솔잎차 — 어린 솔잎에서 상쾌한 솔 향과 깔끔한 맛이 옅은 노란 수색에 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -25403,7 +25403,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pine Needle Tea",
-      "oneLine": "Young pine needles — brisk, resinous, refreshing.",
+      "oneLine": "Pine needle tea, where drawing out the resin makes or breaks the flavour — young needles prepared and dried give a fresh pine aroma and clean taste in a pale gold liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -25419,7 +25419,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "松针茶",
-      "oneLine": "松针泡出清爽的松香。",
+      "oneLine": "去松脂的工序决定味道的松针茶——嫩松针处理晒干冲泡，清爽松香与干净味道晕染在淡黄色汤色中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -25435,7 +25435,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "松針茶",
-      "oneLine": "松針泡出清爽的松香。",
+      "oneLine": "去松脂的工序決定味道的松針茶——嫩松針處理曬乾沖泡，清爽松香與乾淨味道暈染在淡黃色湯色中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -25500,7 +25500,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "송화차",
-      "oneLine": "소나무 꽃가루(송화)를 따뜻한 물에 풀어 마시는 차.",
+      "oneLine": "봄 한철에만 채취하는 송화를 물에 풀어 타 마시는 차 — 은은한 솔 향과 부드러운 단맛, 노란빛 수색이 됩니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "1회",
@@ -25516,7 +25516,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pine Pollen Tea",
-      "oneLine": "Pine pollen whisked into warm water — soft and golden.",
+      "oneLine": "Pine pollen gathered only in spring, once used in sweets and honey drinks alike — stirred into water rather than steeped, it gives a gentle pine aroma, soft sweetness and a yellow liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "1 infusion",
@@ -25532,7 +25532,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "松花茶",
-      "oneLine": "松花粉调入温水，柔和金黄。",
+      "oneLine": "只在春季采收、也用于茶食与蜜水的松花粉调饮之茶——不泡而调入水中，带淡淡松香、柔和甜味与黄色汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "1泡",
@@ -25548,7 +25548,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "松花茶",
-      "oneLine": "松花粉調入溫水，柔和金黃。",
+      "oneLine": "只在春季採收、也用於茶食與蜜水的松花粉調飲之茶——不泡而調入水中，帶淡淡松香、柔和甜味與黃色湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "1泡",
@@ -25614,7 +25614,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "수박차",
-      "oneLine": "수박 껍질의 흰 부분을 말려 우린, 시원하고 깔끔한 여름 차.",
+      "oneLine": "수박 껍질을 버리지 않고 활용한 여름차 — 껍질 흰 부분을 말려 우리면 깔끔한 옅은 단맛과 투명한 수색이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -25630,7 +25630,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Watermelon Rind Tea",
-      "oneLine": "Dried watermelon rind — clean, faintly sweet, a summer cup.",
+      "oneLine": "A summer tea born from using the whole melon, most often drunk cold — dried white rind gives a clean, very light sweetness and a nearly clear liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -25646,7 +25646,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "西瓜皮茶",
-      "oneLine": "西瓜皮白瓤晒干泡出，清爽的夏茶。",
+      "oneLine": "源于不浪费西瓜皮的夏日茶、多冷饮——瓜皮白瓤晒干冲泡，带干净的淡淡甜味与近乎透明的汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25662,7 +25662,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "西瓜皮茶",
-      "oneLine": "西瓜皮白瓤曬乾泡出，清爽的夏茶。",
+      "oneLine": "源於不浪費西瓜皮的夏日茶、多冷飲——瓜皮白瓤曬乾沖泡，帶乾淨的淡淡甜味與近乎透明的湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25728,7 +25728,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "수수차",
-      "oneLine": "수수 알곡을 볶아 우린, 보리차처럼 구수한 곡물차.",
+      "oneLine": "밥·떡·술에 두루 쓰인 수수를 볶아 우린 곡물차 — 보리차 닮은 구수한 향과 옅은 단맛이 붉은빛 갈색 수색에 담깁니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -25744,7 +25744,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sorghum Tea",
-      "oneLine": "Roasted sorghum grains — toasty like barley tea.",
+      "oneLine": "Sorghum, a grain that served rice cakes, food and drink alike, roasted and brewed — the grains give a barley-tea toastiness and light sweetness in a reddish-brown liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -25760,7 +25760,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "高粱茶",
-      "oneLine": "炒高粱粒泡出，如大麦茶般焦香。",
+      "oneLine": "把用于饭、糕、酒的高粱炒后冲泡的谷物茶——炒粒带近似大麦茶的焦香与微甜，盛在泛红的褐色汤色中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25776,7 +25776,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "高粱茶",
-      "oneLine": "炒高粱粒泡出，如大麥茶般焦香。",
+      "oneLine": "把用於飯、糕、酒的高粱炒後沖泡的穀物茶——炒粒帶近似大麥茶的焦香與微甜，盛在泛紅的褐色湯色中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25841,7 +25841,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "시호차",
-      "oneLine": "시호 뿌리를 달인, 흙 내음과 쓴맛의 차.",
+      "oneLine": "본초서에 오래 기록된 시호의 뿌리를 달인 민간차 — 썰어 말려 달이면 흙 내음 섞인 뿌리 향과 또렷한 쓴맛이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -25857,7 +25857,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bupleurum Root Tea",
-      "oneLine": "Decocted bupleurum root — earthy and bitter.",
+      "oneLine": "A folk decoction of bupleurum root, long recorded in herbal texts — sliced, dried and simmered, it spreads an earthy root aroma with a clear bitterness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -25873,7 +25873,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "柴胡茶",
-      "oneLine": "柴胡根煎煮，土香而苦。",
+      "oneLine": "把本草书中久有记载的柴胡根煎煮的民间茶——切片晒干煎煮，散发带土香的根香与分明的苦味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25889,7 +25889,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "柴胡茶",
-      "oneLine": "柴胡根煎煮，土香而苦。",
+      "oneLine": "把本草書中久有記載的柴胡根煎煮的民間茶——切片曬乾煎煮，散發帶土香的根香與分明的苦味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -25955,7 +25955,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "아욱차",
-      "oneLine": "아욱 잎을 말려 우린, 부드럽고 순한 차.",
+      "oneLine": "국으로 흔한 채소 아욱이 차로도 쓰인 경우 — 말린 어린 잎에서 부드러운 풀 향과 옅은 단맛, 매끄러운 질감이 납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -25971,7 +25971,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mallow Tea",
-      "oneLine": "Dried mallow leaves — smooth, gentle, mild.",
+      "oneLine": "Mallow, a familiar soup vegetable, turned tea — young leaves from every kitchen garden, dried and steeped, give soft herbal notes, light sweetness and a slightly silky texture.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -25987,7 +25987,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "冬葵茶",
-      "oneLine": "冬葵叶晒干泡出，柔滑温和。",
+      "oneLine": "常入汤的冬葵也被用作茶的例子——家家种植的冬葵嫩叶晒干冲泡，带柔和草香、微甜与略滑的质地。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26003,7 +26003,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "冬葵茶",
-      "oneLine": "冬葵葉曬乾泡出，柔滑溫和。",
+      "oneLine": "常入湯的冬葵也被用作茶的例子——家家種植的冬葵嫩葉曬乾沖泡，帶柔和草香、微甜與略滑的質地。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26069,7 +26069,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "앵두차",
-      "oneLine": "말린 앵두를 우린, 새콤달콤하고 붉은 차.",
+      "oneLine": "마당에 흔한 과일나무였던 앵두를 말려 마시던 과일차 — 말린 열매를 우리면 새콤달콤한 맛이 옅은 붉은 수색으로 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -26085,7 +26085,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Nanking Cherry Tea",
-      "oneLine": "Dried Korean cherries — sweet-tart and rosy.",
+      "oneLine": "A fruit tea of aengdu, once a familiar yard tree, dried for drinking — steeped, the fruit gives a sweet-tart taste in a pale red liquor.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -26101,7 +26101,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "毛樱桃茶",
-      "oneLine": "干毛樱桃泡出酸甜与淡红汤色。",
+      "oneLine": "把庭院常见的毛樱桃晒干饮用的果茶——干果冲泡，酸甜之味化作淡红色汤色。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -26117,7 +26117,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "毛櫻桃茶",
-      "oneLine": "乾毛櫻桃泡出酸甜與淡紅湯色。",
+      "oneLine": "把庭院常見的毛櫻桃曬乾飲用的果茶——乾果沖泡，酸甜之味化作淡紅色湯色。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -26182,7 +26182,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "양파차",
-      "oneLine": "양파 껍질을 말려 우린, 은은한 양파 향의 차.",
+      "oneLine": "속살이 아닌 겉껍질만 모아 말린, 버릴 것 없는 가정식 차 — 호박색 수색에 은은한 양파 향과 옅은 단맛이 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -26198,7 +26198,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Onion Peel Tea",
-      "oneLine": "Dried onion skins — a gentle onion aroma, amber liquor.",
+      "oneLine": "A thrifty household tea made only from dried onion skins, not the flesh — amber liquor with a soft onion aroma and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -26214,7 +26214,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "洋葱皮茶",
-      "oneLine": "洋葱皮晒干泡出，淡淡葱香。",
+      "oneLine": "只用外皮不用葱肉、晒干而成的家常茶——琥珀色汤色中，淡淡葱香与微甜柔和散开。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26230,7 +26230,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "洋蔥皮茶",
-      "oneLine": "洋蔥皮曬乾泡出，淡淡蔥香。",
+      "oneLine": "只用外皮不用蔥肉、曬乾而成的家常茶——琥珀色湯色中，淡淡蔥香與微甜柔和散開。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26296,7 +26296,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "여주차",
-      "oneLine": "여주를 말려 우린, 또렷하게 쓴맛이 도는 차.",
+      "oneLine": "남부와 제주에서 얇게 썰어 말린 여름 여주의 차 — 또렷한 쓴맛 뒤에 구수함이 남고, 볶으면 쓴맛이 부드러워집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -26312,7 +26312,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bitter Melon Tea",
-      "oneLine": "Dried bitter melon — cleanly, assertively bitter.",
+      "oneLine": "Summer bitter melon from the south and Jeju, sliced thin and dried — a clear bitterness with a toasty tail, softened when roasted.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -26328,7 +26328,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "苦瓜茶",
-      "oneLine": "干苦瓜泡出，苦味分明。",
+      "oneLine": "南部与济州的夏日苦瓜切薄晒干而成——苦味分明，后有焦香余味，炒过后苦味更为柔和。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26344,7 +26344,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "苦瓜茶",
-      "oneLine": "乾苦瓜泡出，苦味分明。",
+      "oneLine": "南部與濟州的夏日苦瓜切薄曬乾而成——苦味分明，後有焦香餘味，炒過後苦味更為柔和。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -26410,7 +26410,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "연근차",
-      "oneLine": "연근을 말려 볶아 달인, 구수하고 부드러운 차.",
+      "oneLine": "연잎이 아닌 연근을 얇게 썰어 말리고 볶아 달인 차 — 구수한 볶은 향 속에 옅은 전분 단맛이 포근하게 감돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -26426,7 +26426,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Lotus Root Tea",
-      "oneLine": "Roasted lotus root slices — toasty and comforting.",
+      "oneLine": "Not the leaf but the root — lotus root sliced, dried, roasted and decocted, with a toasty aroma and faint starchy sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -26442,7 +26442,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "莲藕茶",
-      "oneLine": "莲藕干片炒后煎煮，焦香柔和。",
+      "oneLine": "用的不是莲叶而是莲藕，切薄晒干炒后煎煮——焦香之中，淡淡的淀粉甜味温暖环绕。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -26458,7 +26458,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "蓮藕茶",
-      "oneLine": "蓮藕乾片炒後煎煮，焦香柔和。",
+      "oneLine": "用的不是蓮葉而是蓮藕，切薄曬乾炒後煎煮——焦香之中，淡淡的澱粉甜味溫暖環繞。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -26524,7 +26524,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "영지차",
-      "oneLine": "영지버섯을 달인, 쓴맛이 또렷한 버섯 차.",
+      "oneLine": "예부터 불로초로 귀하게 여긴 영지를 얇게 썰어 달인 차 — 진한 갈색 수색에 강한 쓴맛과 나무·흙 내음이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "500ml에 10g",
       "rounds": "2회",
@@ -26540,7 +26540,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Reishi Mushroom Tea",
-      "oneLine": "A decoction of reishi mushroom with a distinctly bitter taste.",
+      "oneLine": "Reishi, long prized as a herb of longevity, thin-sliced and simmered — deep brown liquor, strong bitterness and woody, earthy notes.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 500 ml",
       "rounds": "2 decoctions",
@@ -26556,7 +26556,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "灵芝茶",
-      "oneLine": "用灵芝煎煮的茶，苦味鲜明。",
+      "oneLine": "自古被珍视如不老草的灵芝切薄煎煮——深褐汤色中，浓烈苦味与木香、土香沉稳留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "500毫升配10克",
       "rounds": "2煎",
@@ -26572,7 +26572,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "靈芝茶",
-      "oneLine": "用靈芝煎煮的茶，苦味鮮明。",
+      "oneLine": "自古被珍視如不老草的靈芝切薄煎煮——深褐湯色中，濃烈苦味與木香、土香沉穩留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "500毫升配10公克",
       "rounds": "2煎",
@@ -26639,7 +26639,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "오디차",
-      "oneLine": "말린 오디를 우린, 보랏빛이 도는 달콤한 열매 차.",
+      "oneLine": "초여름 검게 익은 오디를 말려 우린, 뽕잎차와는 다른 열매 차 — 보랏빛 수색에 달콤함과 옅은 신맛, 베리 향이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "2회",
@@ -26655,7 +26655,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Mulberry Fruit Tea",
-      "oneLine": "Dried mulberry fruit steeped sweet and purple.",
+      "oneLine": "Mulberries ripened black in early summer, dried and steeped — a fruit tea distinct from mulberry leaf, sweet and lightly tart in pale purple.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "2 infusions",
@@ -26671,7 +26671,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "桑葚茶",
-      "oneLine": "晒干的桑葚冲泡，带紫色的甜果茶。",
+      "oneLine": "初夏熟黑的桑葚晒干冲泡，不同于桑叶茶的果茶——淡紫汤色中，甜味、微酸与莓香交融。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "2泡",
@@ -26687,7 +26687,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "桑葚茶",
-      "oneLine": "曬乾的桑葚沖泡，帶紫色的甜果茶。",
+      "oneLine": "初夏熟黑的桑葚曬乾沖泡，不同於桑葉茶的果茶——淡紫湯色中，甜味、微酸與莓香交融。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "2泡",
@@ -26753,7 +26753,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "오이차",
-      "oneLine": "말린 오이를 우린, 청량한 풀 향의 가벼운 차.",
+      "oneLine": "여름 오이를 얇게 썰어 말려, 뜨거운 물에도 향이 또렷한 차 — 연둣빛 수색에 청량한 풀 향과 옅은 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -26769,7 +26769,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Cucumber Tea",
-      "oneLine": "Dried cucumber steeped light and cooling.",
+      "oneLine": "Summer cucumber sliced thin and dried, keeping its scent even in hot water — clear pale-green liquor, cool green aroma and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -26785,7 +26785,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "黄瓜茶",
-      "oneLine": "干黄瓜冲泡，清凉草香的轻茶。",
+      "oneLine": "夏日黄瓜切薄晒干，热水冲泡香气依然分明——清透淡绿汤色中，清凉草香与微甜轻盈浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -26801,7 +26801,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "黃瓜茶",
-      "oneLine": "乾黃瓜沖泡，清涼草香的輕茶。",
+      "oneLine": "夏日黃瓜切薄曬乾，熱水沖泡香氣依然分明——清透淡綠湯色中，清涼草香與微甜輕盈浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -26867,7 +26867,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "옥수수차",
-      "oneLine": "볶은 옥수수 알갱이를 끓인, 팝콘처럼 구수한 차.",
+      "oneLine": "수염차가 아닌 알갱이를 볶아 끓여 더 진한 옥수수차 — 노란 수색에 팝콘 같은 볶은 곡물 향과 옅은 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "2회",
@@ -26883,7 +26883,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Roasted Corn Tea",
-      "oneLine": "Roasted corn kernels brewed toasty as popcorn.",
+      "oneLine": "Kernels, not silk — roasted corn simmered for a deeper cup, golden liquor with popcorn-like roasted grain and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "2 infusions",
@@ -26899,7 +26899,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "玉米茶",
-      "oneLine": "炒玉米粒煮成，像爆米花一样焦香。",
+      "oneLine": "不用玉米须而用炒过的玉米粒煮成、味道更浓——金黄汤色中，爆米花般的炒谷香与微甜醇厚可口。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "2泡",
@@ -26915,7 +26915,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "玉米茶",
-      "oneLine": "炒玉米粒煮成，像爆米花一樣焦香。",
+      "oneLine": "不用玉米鬚而用炒過的玉米粒煮成、味道更濃——金黃湯色中，爆米花般的炒穀香與微甜醇厚可口。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "2泡",
@@ -26981,7 +26981,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "와송차",
-      "oneLine": "바위에서 자라는 와송을 말려 우린, 옅게 신맛 도는 차.",
+      "oneLine": "기와와 바위 위에서 소나무처럼 자라는 다육식물 와송의 차 — 맑은 수색에 옅은 신맛과 풀 향이 산뜻하게 번집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -26997,7 +26997,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Wasong (Rock Pine) Tea",
-      "oneLine": "Dried wasong steeped light and faintly tart.",
+      "oneLine": "Wasong, the pine-like succulent of roof tiles and rocks, dried and steeped — clear liquor with light tartness and a green scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -27013,7 +27013,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "瓦松茶",
-      "oneLine": "晒干的瓦松冲泡，带淡淡酸味。",
+      "oneLine": "在瓦片与岩石上如松般生长的多肉植物瓦松——清澈汤色中，淡酸与草香清新散开。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -27029,7 +27029,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "瓦松茶",
-      "oneLine": "曬乾的瓦松沖泡，帶淡淡酸味。",
+      "oneLine": "在瓦片與岩石上如松般生長的多肉植物瓦松——清澈湯色中，淡酸與草香清新散開。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -27095,7 +27095,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "우슬차",
-      "oneLine": "쇠무릎 뿌리를 달인, 구수하고 묵직한 뿌리 차.",
+      "oneLine": "뿌리 마디가 소 무릎을 닮아 우슬이라 불리는 쇠무릎 뿌리의 차 — 갈색 수색에 구수한 흙 내음과 옅은 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -27111,7 +27111,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Achyranthes Root Tea",
-      "oneLine": "A decoction of achyranthes root — earthy and full.",
+      "oneLine": "Achyranthes root, named useul for joints like an ox's knee, decocted — deep brown liquor, earthy toastiness and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 decoctions",
@@ -27127,7 +27127,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "牛膝茶",
-      "oneLine": "牛膝根煎煮，醇厚朴实的根茶。",
+      "oneLine": "根节如牛膝而得名的牛膝根茶——深褐汤色中，醇厚的土香与微甜沉稳有分量。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2煎",
@@ -27143,7 +27143,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "牛膝茶",
-      "oneLine": "牛膝根煎煮，醇厚樸實的根茶。",
+      "oneLine": "根節如牛膝而得名的牛膝根茶——深褐湯色中，醇厚的土香與微甜沉穩有份量。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2煎",
@@ -27209,7 +27209,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "울금차",
-      "oneLine": "노란 수색과 흙 내음이 또렷한 울금 차.",
+      "oneLine": "진도가 이름난 산지, 카레의 노란빛을 내는 그 울금의 차 — 진한 노란 수색에 흙 내음과 매콤한 끝맛이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -27225,7 +27225,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Turmeric Tea",
-      "oneLine": "Turmeric tea with a golden color and earthy bite.",
+      "oneLine": "Turmeric from famed Jindo, the plant that colours curry yellow — deep yellow liquor with an earthy scent and peppery finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -27241,7 +27241,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "郁金茶",
-      "oneLine": "汤色金黄、土香分明的郁金茶。",
+      "oneLine": "产自名产地珍岛、为咖喱染上黄色的郁金——浓黄汤色中，土香与辛辣尾韵分明留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -27257,7 +27257,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "鬱金茶",
-      "oneLine": "湯色金黃、土香分明的鬱金茶。",
+      "oneLine": "產自名產地珍島、為咖哩染上黃色的鬱金——濃黃湯色中，土香與辛辣尾韻分明留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -27323,7 +27323,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "원지차",
-      "oneLine": "원지 뿌리를 달인, 쌉쌀하고 구수한 약재 차.",
+      "oneLine": "가늘고 긴 뿌리의 심지를 빼고 말려 달이는 한방 약재 원지의 차 — 갈색 수색에 쌉쌀한 첫맛과 구수한 뒷맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -27339,7 +27339,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Polygala Root Tea",
-      "oneLine": "A decoction of polygala root — bittersweet and toasty.",
+      "oneLine": "Polygala root, cored and dried from slender herbal roots, decocted — pale brown liquor, bitter first taste and a toasty finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 decoctions",
@@ -27355,7 +27355,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "远志茶",
-      "oneLine": "远志根煎煮，苦中带香的药材茶。",
+      "oneLine": "细长根去芯晒干煎煮的韩方药材远志——淡褐汤色中，微苦的初味接上醇香的余味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2煎",
@@ -27371,7 +27371,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "遠志茶",
-      "oneLine": "遠志根煎煮，苦中帶香的藥材茶。",
+      "oneLine": "細長根去芯曬乾煎煮的韓方藥材遠志——淡褐湯色中，微苦的初味接上醇香的餘味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2煎",
@@ -27438,7 +27438,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "율무차",
-      "oneLine": "볶은 율무의 고소함이 걸쭉하게 우러나는 곡물 차.",
+      "oneLine": "자판기 율무차로 널리 알려진, 곡물처럼 든든한 볶은 율무의 차 — 고소한 곡물 향과 옅은 단맛이 걸쭉하게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "2회",
@@ -27454,7 +27454,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Job's Tears Tea",
-      "oneLine": "Roasted Job's tears — nutty, thick and filling.",
+      "oneLine": "Roasted Job's tears, famous as vending-machine yulmu tea and filling as a grain — nutty scent and light sweetness in a thick cup.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "2 infusions",
@@ -27470,7 +27470,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "薏苡茶",
-      "oneLine": "炒薏苡的焦香浓稠，是谷物茶。",
+      "oneLine": "以自动贩卖机薏米茶闻名、如谷物般饱足的炒薏苡茶——醇香谷物香与微甜浓稠溶出。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "2泡",
@@ -27486,7 +27486,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "薏苡茶",
-      "oneLine": "炒薏苡的焦香濃稠，是穀物茶。",
+      "oneLine": "以自動販賣機薏米茶聞名、如穀物般飽足的炒薏苡茶——醇香穀物香與微甜濃稠溶出。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "2泡",
@@ -27553,7 +27553,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "으름차",
-      "oneLine": "으름덩굴을 말려 우린, 옅은 단맛의 산골 차.",
+      "oneLine": "가을에 벌어지는 열매로 이름난 으름덩굴을 말린 산골 차 — 맑은 수색에 옅은 단맛과 풀 향이 은은하게 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -27569,7 +27569,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Akebia Tea",
-      "oneLine": "Dried akebia vine steeped light and mildly sweet.",
+      "oneLine": "Stems and fruit of the akebia vine, famed for its split-open autumn fruit, dried — clear liquor with light sweetness and green scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -27585,7 +27585,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "木通茶",
-      "oneLine": "木通藤晒干冲泡，带淡甜的山茶。",
+      "oneLine": "以秋日裂开的果实闻名的木通藤，其茎与果晒干而成的山间茶——清澈汤色中，微甜与草香淡淡浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -27601,7 +27601,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "木通茶",
-      "oneLine": "木通藤曬乾沖泡，帶淡甜的山茶。",
+      "oneLine": "以秋日裂開的果實聞名的木通藤，其莖與果曬乾而成的山間茶——清澈湯色中，微甜與草香淡淡浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -27667,7 +27667,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "은행차",
-      "oneLine": "은행잎을 말리고 덖어 우린, 쌉쌀한 잎차.",
+      "oneLine": "열매가 아닌, 가을에 노랗게 물든 은행잎을 말리고 덖어 우린 잎차 — 노란빛 수색에 옅은 풀 향과 쌉쌀한 뒷맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -27683,7 +27683,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ginkgo Leaf Tea",
-      "oneLine": "Dried, pan-fired ginkgo leaves — a bittersweet leaf tea.",
+      "oneLine": "Not the nut but the leaf — autumn-yellow ginkgo leaves dried and pan-fired, pale yellow liquor with a light green scent and bittersweet finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -27699,7 +27699,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "银杏茶",
-      "oneLine": "银杏叶晒干炒制，微苦的叶茶。",
+      "oneLine": "用的不是果实，而是秋日变黄的银杏叶，晒干炒制——淡黄汤色中，清淡草香与微苦余味浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -27715,7 +27715,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "銀杏茶",
-      "oneLine": "銀杏葉曬乾炒製，微苦的葉茶。",
+      "oneLine": "用的不是果實，而是秋日變黃的銀杏葉，曬乾炒製——淡黃湯色中，清淡草香與微苦餘味浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -27782,7 +27782,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "인동차",
-      "oneLine": "인동덩굴 꽃봉오리를 우린, 은은한 꽃향의 차.",
+      "oneLine": "겨울을 견뎌 인동이라 불리고 꽃봉오리는 금은화로 쓰는 덩굴의 차 — 맑은 수색에 은은한 꽃향과 옅은 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -27798,7 +27798,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Honeysuckle Tea",
-      "oneLine": "Honeysuckle buds steeped soft and floral.",
+      "oneLine": "Honeysuckle, the 'winter-enduring' vine whose buds serve as the herb geumeunhwa — clear liquor with gentle floral scent and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -27814,7 +27814,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "忍冬茶",
-      "oneLine": "忍冬花蕾冲泡，花香淡淡的茶。",
+      "oneLine": "因耐冬而得名、花蕾以金银花入药的忍冬藤茶——清澈汤色中，淡淡花香与微甜散开。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -27830,7 +27830,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "忍冬茶",
-      "oneLine": "忍冬花蕾沖泡，花香淡淡的茶。",
+      "oneLine": "因耐冬而得名、花蕾以金銀花入藥的忍冬藤茶——清澈湯色中，淡淡花香與微甜散開。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -27897,7 +27897,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "인삼차",
-      "oneLine": "인삼을 달인, 쌉쌀한 단맛과 흙 내음의 차.",
+      "oneLine": "금산·풍기 산지의 인삼을 얇게 썰어 말려 달인 차 — 옅은 황갈색 수색에 쌉쌀한 단맛과 흙 내음이 깊게 어우러집니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -27913,7 +27913,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Ginseng Tea",
-      "oneLine": "Decocted ginseng — bittersweet and earthy.",
+      "oneLine": "Ginseng from Geumsan and Punggi, sliced thin, dried and decocted — pale amber liquor with bittersweet taste and earthy depth.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -27929,7 +27929,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "人参茶",
-      "oneLine": "人参煎煮，苦甜带土香的茶。",
+      "oneLine": "金山、丰基产地的人参切薄晒干煎煮——淡黄褐汤色中，苦甜与土香深深交融。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -27945,7 +27945,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "人參茶",
-      "oneLine": "人參煎煮，苦甜帶土香的茶。",
+      "oneLine": "金山、豐基產地的人參切薄曬乾煎煮——淡黃褐湯色中，苦甜與土香深深交融。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -28011,7 +28011,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "잇꽃차",
-      "oneLine": "홍화 꽃잎을 우린, 주황빛이 도는 꽃차.",
+      "oneLine": "예부터 붉은 염료와 약재로 쓴 홍화 꽃잎을 말려 우린 꽃차 — 노란빛에서 주황빛으로 도는 수색에 옅은 꽃향이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -28027,7 +28027,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Safflower Tea",
-      "oneLine": "Safflower petals steeped to an orange glow.",
+      "oneLine": "Safflower petals, from a flower long used as red dye and herbal material, dried and steeped — yellow turning to orange, lightly floral.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -28043,7 +28043,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红花茶",
-      "oneLine": "红花花瓣冲泡，橙色花茶。",
+      "oneLine": "自古作红色染料与药材的红花花瓣晒干冲泡——汤色由黄转橙，淡淡花香浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -28059,7 +28059,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅花茶",
-      "oneLine": "紅花花瓣沖泡，橙色花茶。",
+      "oneLine": "自古作紅色染料與藥材的紅花花瓣曬乾沖泡——湯色由黃轉橙，淡淡花香浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -28124,7 +28124,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "자두차",
-      "oneLine": "자두청을 타서 마시는, 새콤달콤한 여름 과일차.",
+      "oneLine": "여름 자두가 한창일 때 설탕에 절여 두고 사계절 즐기는 청의 차 — 붉은빛 수색에 새콤달콤한 자두 향이 싱그럽습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 청 2큰술",
       "rounds": "1회",
@@ -28140,7 +28140,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Plum Tea",
-      "oneLine": "Plum syrup in water — a sweet-tart summer fruit tea.",
+      "oneLine": "Summer plums preserved in sugar at their peak and enjoyed all year — reddish liquor with a fresh, sweet-tart plum scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 tbsp syrup to 200 ml",
       "rounds": "1 serving",
@@ -28156,7 +28156,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "李子茶",
-      "oneLine": "李子青冲水，酸甜的夏日果茶。",
+      "oneLine": "盛夏李子当季时以糖腌制、四季享用的果酱茶——红润汤色中，酸甜的李子香清新怡人。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配青2勺",
       "rounds": "1次",
@@ -28172,7 +28172,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "李子茶",
-      "oneLine": "李子青沖水，酸甜的夏日果茶。",
+      "oneLine": "盛夏李子當季時以糖醃製、四季享用的果醬茶——紅潤湯色中，酸甜的李子香清新怡人。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配青2匙",
       "rounds": "1次",
@@ -28237,7 +28237,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "자몽차",
-      "oneLine": "자몽청을 탄, 쌉쌀하고 상큼한 과일차.",
+      "oneLine": "유자차 방식을 자몽에 응용한 한국 카페식 과일청 차 — 연한 분홍빛 수색에 상큼한 신맛과 쌉쌀한 끝맛이 또렷합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 청 2큰술",
       "rounds": "1회",
@@ -28253,7 +28253,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Grapefruit Tea",
-      "oneLine": "Grapefruit syrup in water — citrusy with a bitter snap.",
+      "oneLine": "The yuja-cheong method applied to grapefruit in Korean cafés — pale pink liquor, bright tartness and a distinctly bitter finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 tbsp syrup to 200 ml",
       "rounds": "1 serving",
@@ -28269,7 +28269,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "葡萄柚茶",
-      "oneLine": "葡萄柚青冲水，清爽带微苦的果茶。",
+      "oneLine": "将柚子茶做法用于葡萄柚的韩国咖啡馆式果酱茶——淡粉汤色中，清爽酸味与微苦尾韵分明。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配青2勺",
       "rounds": "1次",
@@ -28285,7 +28285,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "葡萄柚茶",
-      "oneLine": "葡萄柚青沖水，清爽帶微苦的果茶。",
+      "oneLine": "將柚子茶做法用於葡萄柚的韓國咖啡館式果醬茶——淡粉湯色中，清爽酸味與微苦尾韻分明。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配青2匙",
       "rounds": "1次",
@@ -28352,7 +28352,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "자색옥수수차",
-      "oneLine": "자색 옥수수를 끓인, 짙은 보랏빛의 이국적인 차.",
+      "oneLine": "페루 안데스 고지의 자색 옥수수를 말려 끓인 이국적인 차 — 짙은 보랏빛 수색에 옅은 단맛과 베리 향, 구수함이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 10g",
       "rounds": "2회",
@@ -28368,7 +28368,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Purple Corn Tea",
-      "oneLine": "Purple corn simmered deep violet — an Andean cup.",
+      "oneLine": "Purple corn from the Peruvian Andes, dried and simmered — deep violet liquor with light sweetness, a berry note and toasty grain.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g to 200 ml",
       "rounds": "2 infusions",
@@ -28384,7 +28384,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "紫玉米茶",
-      "oneLine": "紫玉米煮成深紫色，来自安第斯的茶。",
+      "oneLine": "秘鲁安第斯高原的紫玉米晒干煮成、充满异国风情——深紫汤色中，微甜、莓香与谷物焦香交融。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配10克",
       "rounds": "2泡",
@@ -28400,7 +28400,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紫玉米茶",
-      "oneLine": "紫玉米煮成深紫色，來自安第斯的茶。",
+      "oneLine": "秘魯安第斯高原的紫玉米曬乾煮成、充滿異國風情——深紫湯色中，微甜、莓香與穀物焦香交融。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配10公克",
       "rounds": "2泡",
@@ -28467,7 +28467,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "자소차",
-      "oneLine": "자소 잎을 우린, 독특한 향과 자줏빛의 차.",
+      "oneLine": "깻잎과 같은 꿀풀과, 잎 뒷면이 자줏빛인 자소를 말려 우린 차 — 자줏빛 수색에 자소 특유의 향과 옅은 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -28483,7 +28483,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Perilla Leaf Tea",
-      "oneLine": "Perilla leaves steeped aromatic and purple-tinged.",
+      "oneLine": "Purple perilla, a mint-family cousin of Korean perilla with purple-backed leaves, dried and steeped — purple-tinged liquor, distinctive scent, light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -28499,7 +28499,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "紫苏茶",
-      "oneLine": "紫苏叶冲泡，香气独特带紫色。",
+      "oneLine": "与苏叶同属唇形科、叶背呈紫色的紫苏晒干冲泡——带紫汤色中，紫苏特有香气与微甜浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -28515,7 +28515,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紫蘇茶",
-      "oneLine": "紫蘇葉沖泡，香氣獨特帶紫色。",
+      "oneLine": "與蘇葉同屬唇形科、葉背呈紫色的紫蘇曬乾沖泡——帶紫湯色中，紫蘇特有香氣與微甜浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3公克",
       "rounds": "2泡",
@@ -28582,7 +28582,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "작두콩차",
-      "oneLine": "볶은 작두콩의 구수함이 물처럼 맑게 우러나는 차.",
+      "oneLine": "칼처럼 긴 꼬투리를 맺는 작두콩을 썰어 볶아 끓인 차 — 맑은 수색에 구수한 콩 향과 옅은 단맛이 맑게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -28598,7 +28598,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sword Bean Tea",
-      "oneLine": "Roasted sword beans brewed clear and nutty.",
+      "oneLine": "Sword beans from long knife-like pods, sliced, roasted and brewed — clear liquor with a nutty bean scent and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -28614,7 +28614,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "刀豆茶",
-      "oneLine": "炒刀豆煮成，清亮带豆香。",
+      "oneLine": "结着刀般长豆荚的刀豆切片炒后煮成——清澈汤色中，醇厚豆香与微甜清亮溶出。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -28630,7 +28630,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "刀豆茶",
-      "oneLine": "炒刀豆煮成，清亮帶豆香。",
+      "oneLine": "結著刀般長豆莢的刀豆切片炒後煮成——清澈湯色中，醇厚豆香與微甜清亮溶出。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -28697,7 +28697,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "작약차",
-      "oneLine": "작약 꽃잎을 우린, 은은하고 우아한 꽃차.",
+      "oneLine": "뿌리는 약재로 쓰고 탐스러운 꽃은 꽃차로 즐기는 작약의 차 — 맑은 수색에 꽃잎이 피어나며 은은한 꽃향이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 2g",
       "rounds": "2회",
@@ -28713,7 +28713,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Peony Tea",
-      "oneLine": "Peony petals steeped soft and elegant.",
+      "oneLine": "Peony, its root an old herbal material and its lush blossoms a flower tea — petals opening in clear liquor, gentle floral scent and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g to 200 ml",
       "rounds": "2 infusions",
@@ -28729,7 +28729,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "芍药茶",
-      "oneLine": "芍药花瓣冲泡，淡雅的花茶。",
+      "oneLine": "根作药材久用、丰盈花朵作花茶的芍药——清澈汤色中花瓣绽放，淡淡花香与微甜浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配2克",
       "rounds": "2泡",
@@ -28745,7 +28745,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "芍藥茶",
-      "oneLine": "芍藥花瓣沖泡，淡雅的花茶。",
+      "oneLine": "根作藥材久用、豐盈花朵作花茶的芍藥——清澈湯色中花瓣綻放，淡淡花香與微甜浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配2公克",
       "rounds": "2泡",
@@ -28812,7 +28812,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "잔대차",
-      "oneLine": "잔대 뿌리를 달인, 도라지 닮은 구수한 단맛의 차.",
+      "oneLine": "모래땅에서 자라 사삼이라 불리는, 도라지 닮은 잔대 뿌리의 차 — 갈색 수색에 구수한 단맛과 흙 내음이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -28828,7 +28828,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Adenophora Root Tea",
-      "oneLine": "A decoction of adenophora root — toasty-sweet like balloon flower.",
+      "oneLine": "Adenophora root, called 'sand ginseng' and kin to balloon flower, decocted — pale brown liquor with toasty sweetness and earthy scent.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 decoctions",
@@ -28844,7 +28844,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "沙参茶",
-      "oneLine": "沙参根煎煮，像桔梗一样醇甜。",
+      "oneLine": "生于沙土、称沙参、与桔梗相近的沙参根煎煮——淡褐汤色中，醇甜与土香交融。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2煎",
@@ -28860,7 +28860,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "沙參茶",
-      "oneLine": "沙參根煎煮，像桔梗一樣醇甜。",
+      "oneLine": "生於沙土、稱沙參、與桔梗相近的沙參根煎煮——淡褐湯色中，醇甜與土香交融。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2煎",
@@ -28926,7 +28926,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "죽순차",
-      "oneLine": "말린 죽순을 볶아 우린, 담백하고 구수한 차.",
+      "oneLine": "대나무 산지 담양의 봄 죽순을 썰어 말리고 볶아 우린 차 — 맑은 수색에 담백한 풀 향과 볶은 구수함이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -28942,7 +28942,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Bamboo Shoot Tea",
-      "oneLine": "Dried bamboo shoots roasted — plain and toasty.",
+      "oneLine": "Spring bamboo shoots from Damyang, sliced, dried and roasted — clear liquor with a plain green scent and calm roasted depth.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -28958,7 +28958,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "竹笋茶",
-      "oneLine": "干竹笋炒后冲泡，清淡焦香。",
+      "oneLine": "竹乡潭阳的春笋切片晒干炒后冲泡——清澈汤色中，清淡草香与炒香沉稳浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -28974,7 +28974,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "竹筍茶",
-      "oneLine": "乾竹筍炒後沖泡，清淡焦香。",
+      "oneLine": "竹鄉潭陽的春筍切片曬乾炒後沖泡——清澈湯色中，清淡草香與炒香沉穩浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2泡",
@@ -29041,7 +29041,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "지황차",
-      "oneLine": "지황을 달인, 숙지황은 진한 단맛이 도는 약재 차.",
+      "oneLine": "아홉 번 찌고 말려 검고 진하게 단 숙지황으로도 달이는 약재 차 — 진한 단맛과 묵직한 향이 깊게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29057,7 +29057,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Rehmannia Tea",
-      "oneLine": "A decoction of rehmannia — the steamed root turns richly sweet.",
+      "oneLine": "Rehmannia decocted — as sukjihwang, steamed and dried nine times until black, it turns deeply sweet and weighty; raw, it is bitter and cooling.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 decoctions",
@@ -29073,7 +29073,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "地黄茶",
-      "oneLine": "地黄煎煮，熟地黄甜味浓厚的药材茶。",
+      "oneLine": "九蒸九晒至黑而浓甜的熟地黄也可煎煮的药材茶——熟地甜厚沉香，生地则微苦清凉。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2煎",
@@ -29089,7 +29089,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "地黃茶",
-      "oneLine": "地黃煎煮，熟地黃甜味濃厚的藥材茶。",
+      "oneLine": "九蒸九曬至黑而濃甜的熟地黃也可煎煮的藥材茶——熟地甜厚沉香，生地則微苦清涼。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5公克",
       "rounds": "2煎",
@@ -29156,7 +29156,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "참깨차",
-      "oneLine": "볶은 참깨를 갈아 우린, 고소함이 진한 차.",
+      "oneLine": "참깨를 볶아 곱게 빻아 뜨거운 물에 풀어 우린 차 — 볶은 깨의 진한 고소함과 기름진 부드러움이 가득합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29172,7 +29172,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sesame Tea",
-      "oneLine": "Ground roasted sesame — a rich, nutty cup.",
+      "oneLine": "Sesame roasted and ground fine, whisked into hot water — deep roasted nuttiness, a soft oily body and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29188,7 +29188,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "芝麻茶",
-      "oneLine": "炒芝麻磨成粉冲泡，香气浓郁。",
+      "oneLine": "芝麻炒后磨细、溶入热水冲泡——炒芝麻的浓郁焦香、油润柔和与微甜满溢杯中。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29204,7 +29204,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "芝麻茶",
-      "oneLine": "炒芝麻磨成粉沖泡，香氣濃郁。",
+      "oneLine": "芝麻炒後磨細、溶入熱水沖泡——炒芝麻的濃郁焦香、油潤柔和與微甜滿溢杯中。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29271,7 +29271,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "참외차",
-      "oneLine": "참외를 말려 우린, 은은하게 달고 시원한 여름 차.",
+      "oneLine": "여름 과일 참외를 얇게 썰어 말려 우린, 차갑게도 좋은 과일차 — 참외의 옅은 단맛과 멜론 같은 향이 맑게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29287,7 +29287,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Oriental Melon Tea",
-      "oneLine": "Dried Korean melon steeped light and sweet — a summer cup.",
+      "oneLine": "Summer oriental melon sliced thin and dried, good cold as well — gentle melon sweetness and aroma with a clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29303,7 +29303,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "香瓜茶",
-      "oneLine": "甜瓜干冲泡，清甜爽口的夏日茶。",
+      "oneLine": "夏日甜瓜切薄晒干冲泡、冷饮亦佳的果茶——甜瓜的淡淡甜味与蜜瓜般香气清澈留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29319,7 +29319,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "香瓜茶",
-      "oneLine": "甜瓜乾沖泡，清甜爽口的夏日茶。",
+      "oneLine": "夏日甜瓜切薄曬乾沖泡、冷飲亦佳的果茶——甜瓜的淡淡甜味與蜜瓜般香氣清澈留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29386,7 +29386,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "창포차",
-      "oneLine": "창포를 달인, 단오의 향이 남은 향기로운 차.",
+      "oneLine": "단옷날 창포물 풍습과 함께 마셔 온, 냇가 창포를 달인 차 — 시원한 풀 향과 약간의 매운 향이 맑게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29402,7 +29402,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sweet Flag Tea",
-      "oneLine": "Decocted sweet flag — the scent of the Dano festival.",
+      "oneLine": "Sweet flag root and leaf decocted, a tea of the Dano festival's sweet-flag water custom — cool green aroma, slight spice, clean finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29418,7 +29418,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "菖蒲茶",
-      "oneLine": "菖蒲煎煮，带着端午气息的香茶。",
+      "oneLine": "与端午菖蒲水习俗一同饮用、溪边菖蒲根与叶煎煮的茶——清凉草香与微微辛香清澈留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29434,7 +29434,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "菖蒲茶",
-      "oneLine": "菖蒲煎煮，帶著端午氣息的香茶。",
+      "oneLine": "與端午菖蒲水習俗一同飲用、溪邊菖蒲根與葉煎煮的茶——清涼草香與微微辛香清澈留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29500,7 +29500,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "청귤차",
-      "oneLine": "덜 익은 제주 청귤을 재운 청 — 새콤함이 또렷한 차.",
+      "oneLine": "익은 귤차보다 신맛이 또렷한, 덜 익은 제주 청귤을 재운 청의 차 — 또렷한 신맛과 껍질 향 뒤에 단맛이 옵니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 청귤청 2~3큰술",
       "rounds": "1회",
@@ -29516,7 +29516,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Green Tangerine Tea",
-      "oneLine": "Unripe Jeju tangerines in syrup — a sharply citrus cup.",
+      "oneLine": "Unripe Jeju green tangerines sugared into a preserve, sharper than ripe-tangerine tea — bright acidity and peel aroma, then sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2–3 tbsp preserve to 200 ml",
       "rounds": "1 cup",
@@ -29532,7 +29532,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "青橘茶",
-      "oneLine": "未熟的济州青橘做成果酱，清爽酸香。",
+      "oneLine": "比熟橘茶酸味更分明、未熟济州青橘以糖腌制的果酱茶——鲜明酸味与橘皮香之后，甜味随之而来。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜饯",
       "rounds": "1杯",
@@ -29548,7 +29548,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "青橘茶",
-      "oneLine": "未熟的濟州青橘做成果醬，清爽酸香。",
+      "oneLine": "比熟橘茶酸味更分明、未熟濟州青橘以糖醃製的果醬茶——鮮明酸味與橘皮香之後，甜味隨之而來。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜餞",
       "rounds": "1杯",
@@ -29615,7 +29615,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "치자차",
-      "oneLine": "치자 열매를 달인, 노란 수색과 옅은 쓴맛의 차.",
+      "oneLine": "단무지에 노란 색을 내던 그 치자 열매를 말려 달인 차 — 맑은 노란 수색에 옅은 쓴맛과 흙 향이 차분하게 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29631,7 +29631,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Gardenia Fruit Tea",
-      "oneLine": "Decocted gardenia fruit — a yellow cup with a gentle bitterness.",
+      "oneLine": "Gardenia fruit, the same that colours pickled radish yellow, dried and decocted — clear yellow liquor, mild bitterness and an earthy note.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29647,7 +29647,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "栀子茶",
-      "oneLine": "栀子果煎煮，汤色金黄、微苦。",
+      "oneLine": "为腌萝卜染上黄色的那颗栀子果，晒干煎煮——清澈金黄汤色中，淡苦与土香沉稳浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29663,7 +29663,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "梔子茶",
-      "oneLine": "梔子果煎煮，湯色金黃、微苦。",
+      "oneLine": "為醃蘿蔔染上黃色的那顆梔子果，曬乾煎煮——清澈金黃湯色中，淡苦與土香沉穩浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29730,7 +29730,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "치커리차",
-      "oneLine": "치커리 뿌리를 볶아 우린, 커피를 닮은 구수한 쓴맛의 차.",
+      "oneLine": "프랑스를 비롯한 유럽에서 커피 대용으로 마셔 온 치커리 뿌리를 볶은 차 — 볶은 쓴맛과 흙 향, 커피 같은 여운이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29746,7 +29746,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Chicory Root Tea",
-      "oneLine": "Roasted chicory root — a coffee-like, caffeine-free cup.",
+      "oneLine": "Chicory root roasted, long drunk in France and Europe as a coffee substitute — roasted bitterness, earthiness and a coffee-like finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29762,7 +29762,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "菊苣茶",
-      "oneLine": "炒菊苣根冲泡，像咖啡一样苦香。",
+      "oneLine": "在法国等欧洲作咖啡代用品饮用的菊苣根炒制而成——炒根的苦味与土香，留下咖啡般的余韵。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29778,7 +29778,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "菊苣茶",
-      "oneLine": "炒菊苣根沖泡，像咖啡一樣苦香。",
+      "oneLine": "在法國等歐洲作咖啡代用品飲用的菊苣根炒製而成——炒根的苦味與土香，留下咖啡般的餘韻。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -29844,7 +29844,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "탱자차",
-      "oneLine": "탱자를 재운 청 — 신맛 뒤에 쌉쌀함이 남는 차.",
+      "oneLine": "울타리로 심던 탱자의, 생으로는 먹기 힘든 열매를 청으로 만든 겨울 차 — 강한 신맛 뒤에 쌉쌀함과 껍질 향이 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 탱자청 2~3큰술",
       "rounds": "1회",
@@ -29860,7 +29860,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Trifoliate Orange Tea",
-      "oneLine": "Preserved trifoliate orange — sour first, bitter after.",
+      "oneLine": "Trifoliate orange from the thorny hedge tree, too sour fresh and so preserved — a winter tea, strongly sour then bitter with citrus-peel aroma.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2–3 tbsp preserve to 200 ml",
       "rounds": "1 cup",
@@ -29876,7 +29876,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "枳实茶",
-      "oneLine": "枳实果酱冲调，先酸后微苦。",
+      "oneLine": "篱笆枳树上生食难入口的果实做成果酱的冬日茶——强烈酸味之后，微苦与柑橘皮香留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜饯",
       "rounds": "1杯",
@@ -29892,7 +29892,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "枳實茶",
-      "oneLine": "枳實果醬沖調，先酸後微苦。",
+      "oneLine": "籬笆枳樹上生食難入口的果實做成果醬的冬日茶——強烈酸味之後，微苦與柑橘皮香留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜餞",
       "rounds": "1杯",
@@ -29959,7 +29959,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "토란차",
-      "oneLine": "토란을 말려 달인, 부드럽고 구수한 뿌리차.",
+      "oneLine": "가을 식재료 토란을 썰어 말려 달인 뿌리차 — 부드러운 전분감과 구수함, 옅은 단맛이 포근하게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -29975,7 +29975,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Taro Tea",
-      "oneLine": "Dried taro decocted — a soft, starchy root tea.",
+      "oneLine": "Taro, an autumn staple, sliced, dried and decocted — a soft starchy body, gentle nuttiness and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -29991,7 +29991,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "芋头茶",
-      "oneLine": "芋头干煎煮，柔和粉糯的根茶。",
+      "oneLine": "秋季食材芋头切片晒干煎煮的根茶——柔和的粉糯感、醇香与微甜温暖溶出。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30007,7 +30007,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "芋頭茶",
-      "oneLine": "芋頭乾煎煮，柔和粉糯的根茶。",
+      "oneLine": "秋季食材芋頭切片曬乾煎煮的根茶——柔和的粉糯感、醇香與微甜溫暖溶出。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30073,7 +30073,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "파인애플차",
-      "oneLine": "파인애플을 재운 청 — 열대 과일의 단맛이 진한 차.",
+      "oneLine": "열대 과일 파인애플을 설탕에 재운 청의 차, 차가운 에이드로도 좋은 차 — 진한 단맛과 파인애플 향 뒤에 산미가 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 파인애플청 2~3큰술",
       "rounds": "1회",
@@ -30089,7 +30089,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pineapple Tea",
-      "oneLine": "Preserved pineapple — a richly sweet tropical cup.",
+      "oneLine": "Pineapple sugared into a preserve for hot water, lovely cold as an ade too — deep sweetness and pineapple aroma with a tart edge.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2–3 tbsp preserve to 200 ml",
       "rounds": "1 cup",
@@ -30105,7 +30105,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "凤梨茶",
-      "oneLine": "凤梨果酱冲调，热带水果的浓甜。",
+      "oneLine": "热带水果凤梨以糖腌成果酱冲调、冷饮作气泡饮亦佳——浓甜与凤梨香之后，酸味留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜饯",
       "rounds": "1杯",
@@ -30121,7 +30121,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "鳳梨茶",
-      "oneLine": "鳳梨果醬沖調，熱帶水果的濃甜。",
+      "oneLine": "熱帶水果鳳梨以糖醃成果醬沖調、冷飲作氣泡飲亦佳——濃甜與鳳梨香之後，酸味留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜餞",
       "rounds": "1杯",
@@ -30188,7 +30188,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "팥차",
-      "oneLine": "팥을 볶아 우린, 구수하고 담백한 곡물차.",
+      "oneLine": "팥을 볶아 우린 곡물차, 끓이면 색이 진하고 맛이 깊어지는 차 — 볶은 곡물의 구수함과 담백함, 옅은 단맛이 차분합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -30204,7 +30204,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Red Bean Tea",
-      "oneLine": "Roasted azuki beans — a plain, nutty grain tea.",
+      "oneLine": "Roasted azuki beans brewed as a grain tea, deeper and darker when boiled — roasted nuttiness, a plain body and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -30220,7 +30220,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "小豆茶",
-      "oneLine": "炒红豆冲泡，焦香朴实的谷物茶。",
+      "oneLine": "红豆炒后冲泡的谷物茶，煮则色浓味深——炒谷物的醇香与朴实、微甜沉稳怡人。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30236,7 +30236,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "小豆茶",
-      "oneLine": "炒紅豆沖泡，焦香樸實的穀物茶。",
+      "oneLine": "紅豆炒後沖泡的穀物茶，煮則色濃味深——炒穀物的醇香與樸實、微甜沉穩怡人。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30302,7 +30302,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "포도차",
-      "oneLine": "포도를 재운 청 — 달콤하고 향긋한 과일차.",
+      "oneLine": "포도를 설탕에 재운 청을 타 마시는, 껍질이 색을 깊게 하는 과일차 — 포도의 단맛과 향, 옅은 산미가 향긋하게 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 포도청 2~3큰술",
       "rounds": "1회",
@@ -30318,7 +30318,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Grape Tea",
-      "oneLine": "Preserved grapes — a sweet, fragrant fruit tea.",
+      "oneLine": "Grapes sugared into a preserve, their skins deepening the colour — grape sweetness and aroma with a light tartness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2–3 tbsp preserve to 200 ml",
       "rounds": "1 cup",
@@ -30334,7 +30334,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "葡萄茶",
-      "oneLine": "葡萄果酱冲调，香甜的果茶。",
+      "oneLine": "葡萄以糖腌成果酱冲调、果皮使颜色更深的果茶——葡萄的甜味与香气、淡淡酸味芬芳浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜饯",
       "rounds": "1杯",
@@ -30350,7 +30350,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "葡萄茶",
-      "oneLine": "葡萄果醬沖調，香甜的果茶。",
+      "oneLine": "葡萄以糖醃成果醬沖調、果皮使顏色更深的果茶——葡萄的甜味與香氣、淡淡酸味芬芳浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜餞",
       "rounds": "1杯",
@@ -30416,7 +30416,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "한라봉차",
-      "oneLine": "제주 한라봉을 재운 청 — 진한 감귤 향의 겨울 차.",
+      "oneLine": "한라산 이름을 딴 제주 한라봉을 재운 청의 겨울 차 — 귤차보다 진한 감귤 향과 둥근 단맛, 부드러운 산미가 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 한라봉청 2~3큰술",
       "rounds": "1회",
@@ -30432,7 +30432,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Hallabong Tea",
-      "oneLine": "Preserved Jeju hallabong — a deep citrus winter tea.",
+      "oneLine": "Jeju hallabong, named for Mt. Halla, sugared into a preserve — a winter tea deeper than tangerine tea, with rich citrus aroma and rounded sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2–3 tbsp preserve to 200 ml",
       "rounds": "1 cup",
@@ -30448,7 +30448,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "汉拿峰茶",
-      "oneLine": "济州汉拿峰柑橘果酱，柑橘香浓的冬日茶。",
+      "oneLine": "以汉拿山得名的济州汉拿峰柑橘以糖腌成果酱的冬日茶——比普通橘茶更浓的柑橘香、圆润甜味与柔和酸味。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜饯",
       "rounds": "1杯",
@@ -30464,7 +30464,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "漢拿峰茶",
-      "oneLine": "濟州漢拿峰柑橘果醬，柑橘香濃的冬日茶。",
+      "oneLine": "以漢拿山得名的濟州漢拿峰柑橘以糖醃成果醬的冬日茶——比普通橘茶更濃的柑橘香、圓潤甜味與柔和酸味。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配2~3勺蜜餞",
       "rounds": "1杯",
@@ -30531,7 +30531,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "해바라기차",
-      "oneLine": "해바라기 씨를 볶아 우린, 고소한 씨앗차.",
+      "oneLine": "해바라기 씨를 볶아 우린, 단단한 씨는 끓일 때 맛이 더 나는 차 — 볶은 씨앗의 고소함과 옅은 기름진 단맛이 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 5g",
       "rounds": "2회",
@@ -30547,7 +30547,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Sunflower Seed Tea",
-      "oneLine": "Roasted sunflower seeds — a nutty seed tea.",
+      "oneLine": "Roasted sunflower seeds steeped, their hard shells giving more when boiled — roasted-seed nuttiness with a light oily sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g to 200 ml",
       "rounds": "2 infusions",
@@ -30563,7 +30563,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "葵花籽茶",
-      "oneLine": "炒葵花籽冲泡，焦香的种子茶。",
+      "oneLine": "葵花籽炒后冲泡，坚硬的籽煮时味道更出——炒籽的焦香与淡淡油润甜味柔和怡人。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30579,7 +30579,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "葵花籽茶",
-      "oneLine": "炒葵花籽沖泡，焦香的種子茶。",
+      "oneLine": "葵花籽炒後沖泡，堅硬的籽煮時味道更出——炒籽的焦香與淡淡油潤甜味柔和怡人。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配5克",
       "rounds": "2泡",
@@ -30646,7 +30646,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "허브차",
-      "oneLine": "말린 허브 잎과 꽃을 우린 차를 통틀어 부르는 이름.",
+      "oneLine": "민트·캐모마일·레몬밤 같은 말린 허브 잎과 꽃을 우린 차의 통칭 — 카페인 없이, 허브마다 풀 향과 꽃 향이 다릅니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -30662,7 +30662,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Herb Tea",
-      "oneLine": "A general name for teas brewed from dried herb leaves and flowers.",
+      "oneLine": "A blanket name for infusions of dried herb leaves and flowers — mint, chamomile, lemon balm — caffeine-free, each herb with its own green and floral notes.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -30678,7 +30678,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "草本茶",
-      "oneLine": "干香草叶与花冲泡的茶，统称草本茶。",
+      "oneLine": "薄荷、洋甘菊、柠檬香蜂草等干香草叶与花冲泡的茶之统称——不用茶叶、无咖啡因，每种香草草香花香各异。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -30694,7 +30694,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "草本茶",
-      "oneLine": "乾香草葉與花沖泡的茶，統稱草本茶。",
+      "oneLine": "薄荷、洋甘菊、檸檬香蜂草等乾香草葉與花沖泡的茶之統稱——不用茶葉、無咖啡因，每種香草草香花香各異。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -30761,7 +30761,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "헛개나무차",
-      "oneLine": "헛개나무 열매를 달인, 은은하게 단 나무 열매차.",
+      "oneLine": "오래전부터 집에서 달여 마시고 술 마신 다음 날 찾던 헛개나무 열매의 차 — 은은한 단맛과 나무 향이 부드럽게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 300ml에 헛개 열매 10g",
       "rounds": "1회 (달여서)",
@@ -30777,7 +30777,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Oriental Raisin Tree Tea",
-      "oneLine": "Decocted raisin-tree fruit — a gently sweet woody tea.",
+      "oneLine": "Raisin-tree fruit long decocted at home in Korea, often sought the morning after drinking — gentle sweetness, a woody note and a soft finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g fruit to 300 ml",
       "rounds": "1 decoction",
@@ -30793,7 +30793,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "枳椇茶",
-      "oneLine": "枳椇果煎煮，微甜的木果茶。",
+      "oneLine": "自古在家煎煮、饮酒次日清晨常饮的枳椇果茶——淡淡甜味与木香，余味柔和留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "300毫升水配枳椇果10克",
       "rounds": "1次（煎煮）",
@@ -30809,7 +30809,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "枳椇茶",
-      "oneLine": "枳椇果煎煮，微甜的木果茶。",
+      "oneLine": "自古在家煎煮、飲酒次日清晨常飲的枳椇果茶——淡淡甜味與木香，餘味柔和留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "300毫升水配枳椇果10克",
       "rounds": "1次（煎煮）",
@@ -30876,7 +30876,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "형개차",
-      "oneLine": "형개 잎과 꽃이삭을 우린, 박하처럼 시원한 풀 향의 차.",
+      "oneLine": "한방 약재로 써 온 형개의 잎과 꽃이삭을 말려 가볍게 우린 차 — 박하 같은 시원함과 풀 향, 옅은 매운맛이 산뜻합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 3g",
       "rounds": "2회",
@@ -30892,7 +30892,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Schizonepeta Tea",
-      "oneLine": "Schizonepeta spikes steeped — a minty-cool herbal cup.",
+      "oneLine": "Schizonepeta leaf and flower spike, a long-used herbal material, dried for a light tea — mint-like coolness, green aroma and slight spice.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "3 g to 200 ml",
       "rounds": "2 infusions",
@@ -30908,7 +30908,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "荆芥茶",
-      "oneLine": "荆芥叶与花穗冲泡，清凉如薄荷的草茶。",
+      "oneLine": "作韩方药材久用的荆芥叶与花穗晒干轻泡——薄荷般的清凉、草香与淡淡辛味清新怡人。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -30924,7 +30924,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "荊芥茶",
-      "oneLine": "荊芥葉與花穗沖泡，清涼如薄荷的草茶。",
+      "oneLine": "作韓方藥材久用的荊芥葉與花穗曬乾輕泡——薄荷般的清涼、草香與淡淡辛味清新怡人。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配3克",
       "rounds": "2泡",
@@ -30990,7 +30990,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "호두차",
-      "oneLine": "호두를 갈아 우린, 진하고 고소한 견과차.",
+      "oneLine": "호두를 갈아 뜨거운 물에 탄, 대추·생강과 달이기도 하는 견과차 — 진한 고소함과 기름진 부드러움이 가득합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 간 호두 10g",
       "rounds": "1회",
@@ -31006,7 +31006,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Walnut Tea",
-      "oneLine": "Ground walnuts whisked in — a rich, nutty cup.",
+      "oneLine": "Ground walnut whisked into hot water, sometimes decocted with jujube and ginger — deep nuttiness, oily softness and light sweetness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g ground walnut to 200 ml",
       "rounds": "1 cup",
@@ -31022,7 +31022,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "核桃茶",
-      "oneLine": "核桃磨碎冲调，浓郁焦香的坚果茶。",
+      "oneLine": "核桃磨碎冲入热水、有时与大枣生姜同煎的坚果茶——浓郁焦香、油润柔和与微甜满溢。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配核桃粉10克",
       "rounds": "1杯",
@@ -31038,7 +31038,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "核桃茶",
-      "oneLine": "核桃磨碎沖調，濃郁焦香的堅果茶。",
+      "oneLine": "核桃磨碎沖入熱水、有時與大棗生薑同煎的堅果茶——濃郁焦香、油潤柔和與微甜滿溢。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配核桃粉10克",
       "rounds": "1杯",
@@ -31105,7 +31105,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "호박차",
-      "oneLine": "늙은 호박을 말려 달인, 달고 부드러운 차.",
+      "oneLine": "겨울 식재료인 늙은 호박을 썰어 말려 두었다가 달이는 차 — 호박 본연의 단맛과 부드러운 전분감이 포근하게 우러납니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "200ml에 말린 호박 10g",
       "rounds": "2회",
@@ -31121,7 +31121,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Pumpkin Tea",
-      "oneLine": "Dried ripe pumpkin decocted — a sweet, soft cup.",
+      "oneLine": "Ripe pumpkin, a winter staple, sliced and dried for the store cupboard, then decocted — natural pumpkin sweetness with a soft starchy body.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "10 g dried pumpkin to 200 ml",
       "rounds": "2 infusions",
@@ -31137,7 +31137,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "南瓜茶",
-      "oneLine": "老南瓜干煎煮，香甜柔和。",
+      "oneLine": "冬季食材老南瓜切片晒干存下煎煮的茶——南瓜天然的甜味与柔和粉糯感温暖溶出。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升配南瓜干10克",
       "rounds": "2泡",
@@ -31153,7 +31153,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "南瓜茶",
-      "oneLine": "老南瓜乾煎煮，香甜柔和。",
+      "oneLine": "冬季食材老南瓜切片曬乾存下煎煮的茶——南瓜天然的甜味與柔和粉糯感溫暖溶出。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升配南瓜乾10克",
       "rounds": "2泡",
@@ -31219,7 +31219,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "홍삼차",
-      "oneLine": "인삼을 찌고 말린 홍삼을 달인, 쌉쌀하고 진한 차.",
+      "oneLine": "인삼을 증기로 찌고 말려 붉어진 홍삼을 달인 차 — 쌉쌀함 뒤에 오는 단맛과 흙 향이 진한 여운으로 길게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 홍삼 절편 5g",
       "rounds": "1회 (달여서)",
@@ -31235,7 +31235,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Red Ginseng Tea",
-      "oneLine": "Steamed, dried ginseng decocted — a bittersweet, deep cup.",
+      "oneLine": "Red ginseng — ginseng steamed and dried until reddish — decocted: bitterness first, then sweetness and earth in a long, deep finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g slices to 200 ml",
       "rounds": "1 decoction",
@@ -31251,7 +31251,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "红参茶",
-      "oneLine": "人参蒸制晒干成红参，煎煮后苦中回甘。",
+      "oneLine": "人参蒸制晒干至发红的红参煎煮而成——微苦之后，甜味与土香以浓厚余韵长长留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配红参片5克",
       "rounds": "1次（煎煮）",
@@ -31267,7 +31267,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "紅蔘茶",
-      "oneLine": "人蔘蒸製曬乾成紅蔘，煎煮後苦中回甘。",
+      "oneLine": "人蔘蒸製曬乾至發紅的紅蔘煎煮而成——微苦之後，甜味與土香以濃厚餘韻長長留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配紅蔘片5克",
       "rounds": "1次（煎煮）",
@@ -31333,7 +31333,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "황기차",
-      "oneLine": "황기 뿌리를 달인, 은은하게 단 약초차.",
+      "oneLine": "삼계탕에 넣던 그 황기의 뿌리만 말려 달인 약초차 — 은은한 단맛과 콩 같은 구수함, 부드러운 흙 향이 차분히 돕니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 황기 5g",
       "rounds": "1회 (달여서)",
@@ -31349,7 +31349,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Astragalus Tea",
-      "oneLine": "Decocted astragalus root — a mildly sweet herbal cup.",
+      "oneLine": "Astragalus root, familiar from samgyetang, dried and decocted on its own — mild sweetness, bean-like nuttiness and soft earthiness.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g root to 200 ml",
       "rounds": "1 decoction",
@@ -31365,7 +31365,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "黄芪茶",
-      "oneLine": "黄芪根煎煮，微甜的药草茶。",
+      "oneLine": "参鸡汤中那味黄芪，只取其根晒干煎煮的药草茶——淡淡甜味、豆般醇香与柔和土香沉稳浮动。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配黄芪5克",
       "rounds": "1次（煎煮）",
@@ -31381,7 +31381,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "黃芪茶",
-      "oneLine": "黃芪根煎煮，微甜的藥草茶。",
+      "oneLine": "蔘雞湯中那味黃芪，只取其根曬乾煎煮的藥草茶——淡淡甜味、豆般醇香與柔和土香沉穩浮動。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配黃芪5克",
       "rounds": "1次（煎煮）",
@@ -31447,7 +31447,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "후박차",
-      "oneLine": "후박나무 껍질을 달인, 쌉쌀하고 향이 깊은 차.",
+      "oneLine": "한방에서 약재로 써 온 후박나무 껍질을 말려 달인 차 — 쌉쌀함과 깊은 나무 향, 약간의 매운 여운이 진하게 남습니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 후박 5g",
       "rounds": "1회 (달여서)",
@@ -31463,7 +31463,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Magnolia Bark Tea",
-      "oneLine": "Decocted magnolia bark — a bitter, deeply aromatic cup.",
+      "oneLine": "Magnolia bark, a long-used herbal material, dried and decocted — bitterness, deep woody aroma and a slight spicy finish.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "5 g bark to 200 ml",
       "rounds": "1 decoction",
@@ -31479,7 +31479,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "厚朴茶",
-      "oneLine": "厚朴树皮煎煮，苦而香深。",
+      "oneLine": "作韩方药材久用的厚朴树皮晒干煎煮——微苦与深沉木香、微微辛辣的余韵浓厚留存。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配厚朴5克",
       "rounds": "1次（煎煮）",
@@ -31495,7 +31495,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "厚朴茶",
-      "oneLine": "厚朴樹皮煎煮，苦而香深。",
+      "oneLine": "作韓方藥材久用的厚朴樹皮曬乾煎煮——微苦與深沉木香、微微辛辣的餘韻濃厚留存。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配厚朴5克",
       "rounds": "1次（煎煮）",
@@ -31561,7 +31561,7 @@ window.TEAFaiData = (function () {
     },
     "ko": {
       "name": "후추차",
-      "oneLine": "후추를 넣고 끓인, 알싸하게 매운 향신료 차.",
+      "oneLine": "후추를 빻아 물에 끓인, 꿀을 더해 작고 진하게 마시기도 하는 향신료 차 — 알싸한 매운맛과 향신료 향이 짧고 또렷합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "ratioNote": "물 200ml에 후추 2g (약 1작은술)",
       "rounds": "1회",
@@ -31577,7 +31577,7 @@ window.TEAFaiData = (function () {
     },
     "en": {
       "name": "Black Pepper Tea",
-      "oneLine": "Boiled black pepper — a pungent spice tea.",
+      "oneLine": "Ground black pepper boiled in water, drunk in small strong cups sometimes with honey — pungent heat and spice aroma, short and sharp.",
       "oxidation": "none · caffeine-free",
       "ratioNote": "2 g pepper (about 1 tsp) to 200 ml",
       "rounds": "1 cup",
@@ -31593,7 +31593,7 @@ window.TEAFaiData = (function () {
     },
     "zh-CN": {
       "name": "胡椒茶",
-      "oneLine": "胡椒煮水，辛辣的香料茶。",
+      "oneLine": "胡椒磨碎煮水、有时加蜂蜜小杯浓饮的香料茶——辛辣的刺激与香料香短促而分明。",
       "oxidation": "不发酵·无咖啡因",
       "ratioNote": "200毫升水配胡椒2克（约1小匙）",
       "rounds": "1杯",
@@ -31609,7 +31609,7 @@ window.TEAFaiData = (function () {
     },
     "zh-TW": {
       "name": "胡椒茶",
-      "oneLine": "胡椒煮水，辛辣的香料茶。",
+      "oneLine": "胡椒磨碎煮水、有時加蜂蜜小杯濃飲的香料茶——辛辣的刺激與香料香短促而分明。",
       "oxidation": "不發酵·無咖啡因",
       "ratioNote": "200毫升水配胡椒2克（約1小匙）",
       "rounds": "1杯",
@@ -31635,7 +31635,7 @@ window.TEAFaiData = (function () {
       "keep": "Keep herbs sealed, cool and dry; refrigerate the decoction and drink within a few days.",
       "keywords": "sipjeon daebotang shiquan dabu tang korean herbal tonic decoction ginseng astragalus",
       "name": "Sipjeon Daebotang",
-      "oneLine": "A classic tonic decoction of ten herbs — ginseng, angelica, astragalus and more — simmered together; a winter health drink alongside ssanghwa.",
+      "oneLine": "A classic ten-herb formula of Song-dynasty origin — Sagunja and Samul herbs plus astragalus and cinnamon — bittersweet, softened by liquorice and warm cinnamon.",
       "origin": "A formula of Song-dynasty origin, long used in Korean herbal practice; sold as herb sets or ready pouches at herbal shops and clinics.",
       "oxidation": "None · caffeine-free",
       "pairing": "Traditionally it is warmed on cold days and served with traditional sweets such as rice cakes, yakgwa and dried persimmon. The herbs' bitterness is softened by the liquorice and the sweets, while the cinnamon's warm spice blends in, but its heavy aroma sits oddly with light food like salads.",
@@ -31657,7 +31657,7 @@ window.TEAFaiData = (function () {
       "keep": "약재는 밀봉해 서늘하고 건조한 곳에, 달인 탕은 냉장 보관하고 사나흘 안에 마십니다.",
       "keywords": "십전대보탕 십전대보 한방차 보양탕 쌍화탕 약재 인삼 황기 당귀",
       "name": "십전대보탕",
-      "oneLine": "인삼·당귀·황기 등 열 가지 약재를 한데 달인 대표 보양탕 — 쌍화탕과 함께 겨울에 찾는 한방 음료.",
+      "oneLine": "송대 처방에서 유래한 열 가지 약재의 대표 탕 — 약재의 쌉쌀함에 감초의 은은한 단맛과 계피의 따뜻한 향이 감돕니다.",
       "origin": "중국 송대 처방에서 유래해 한국 한방에서 널리 쓰이는 탕. 약재상·한의원에서 약재 묶음이나 파우치로 구합니다.",
       "oxidation": "무산화 · 카페인 없음",
       "pairing": "추운 날 따뜻하게 데워 떡·약과·곶감 같은 전통 간식과 곁들이는 전통이 있습니다. 약재의 쌉쌀함을 감초의 단맛과 간식의 단맛이 함께 눌러 주고 계피의 따뜻한 향이 어우러지지만, 가벼운 샐러드 같은 음식과는 묵직한 향이 어긋납니다.",
@@ -31709,7 +31709,7 @@ window.TEAFaiData = (function () {
       "keep": "药材密封置于阴凉干燥处；煎好的汤冷藏，数日内饮完。",
       "keywords": "十全大补汤 韩方茶 补汤 双和汤 药材 人参 黄芪 当归",
       "name": "十全大补汤",
-      "oneLine": "人参、当归、黄芪等十味药材同煎的代表补汤——与双和汤并列的冬季韩方饮品。",
+      "oneLine": "源自宋代处方、四君子汤与四物汤再加黄芪肉桂的十味药材代表补汤——药材微苦中，甘草甜味与肉桂香环绕。",
       "origin": "源于中国宋代处方，在韩国韩方中广泛使用；在药材店、韩医院可买到药材包或成品袋装。",
       "oxidation": "不发酵 · 无咖啡因",
       "pairing": "传统上在寒冷的日子温热后，与米糕、药果、柿饼等传统甜点一起上桌。草本的苦味被甘草与甜点柔和下来，肉桂温暖的香料感融入其中，但它厚重的香气与沙拉等清淡食物放在一起会显得别扭。",
@@ -31725,7 +31725,7 @@ window.TEAFaiData = (function () {
       "keep": "藥材密封置於陰涼乾燥處；煎好的湯冷藏，數日內飲完。",
       "keywords": "十全大補湯 韓方茶 補湯 雙和湯 藥材 人參 黃芪 當歸",
       "name": "十全大補湯",
-      "oneLine": "人參、當歸、黃芪等十味藥材同煎的代表補湯——與雙和湯並列的冬季韓方飲品。",
+      "oneLine": "源自宋代處方、四君子湯與四物湯再加黃芪肉桂的十味藥材代表補湯——藥材微苦中，甘草甜味與肉桂香環繞。",
       "origin": "源於中國宋代處方，在韓國韓方中廣泛使用；在藥材店、韓醫院可買到藥材包或成品袋裝。",
       "oxidation": "不發酵 · 無咖啡因",
       "pairing": "傳統上在寒冷天溫熱飲用，配年糕、藥菓、柿餅等傳統甜點。藥草的苦味被甘草與甜點柔和化，肉桂溫暖的辛香融入其中；但它厚重的香氣與沙拉等清淡食物同席會顯得格格不入。",
