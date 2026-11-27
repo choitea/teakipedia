@@ -1,4 +1,4 @@
-/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (12개 언어) */
+/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (13개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -217,6 +217,24 @@ window.TEAFaiCulture = [
      "h": "Günümüzde günlük darye",
      "p": "Bugün sadeleştirilmiş günlük darye yaygın olarak uygulanıyor. Evde ya da bir çay evinde tek demlik ve birkaç fincanla insanlar çayı sakinlik ve sohbet zamanı olarak paylaşıyor. Yeni başlıyorsanız, yalnızca su sıcaklığına ve demleme süresine dikkat etmeniz iyi bir fincan için yeterlidir."
     }
+   ],
+   "si": [
+    {
+     "h": "චාරියේ, තේ පුද කරන චාරිත්‍රයක්",
+     "p": "චාරියේ (차례) නම් කොරියානු මුතුන් මිත්තන්ගේ චාරිත්‍රය, මුතුන් මිත්තන්ට තේ පිළිගැන්වීමේ සිරිතෙන් ආරම්භ වූ බව බොහෝ දෙනා පැහැදිලි කරති. ගෝරියෝ සහ ජොසොන් යුගවල විහාරස්ථාන, රජ මාලිගා සහ විද්වත් නිවසවල, අමුත්තන් පිළිගැනීමේදී සහ මුතුන් මිත්තන්ට ගෞරව කිරීමේදී තේ ඉතා සැලකිල්ලෙන් සකස් කරන ලදී. තේ කිසිවිටෙකත් හුදු පානයක් පමණක් නොවීය; එය කෙනෙකුගේ හදවත ප්‍රකාශ කිරීමේ ක්‍රමයක් විය."
+    },
+    {
+     "h": "දාරියේ මූලික ක්‍රියාවලිය",
+     "p": "පළමුව, ජලය උණු කර, උණු වතුරෙන් තේ බඳුන සහ කෝප්ප උණුසුම් කරන්න. උණුසුම් කළ බඳුනට තේ දළු දමා, නිවැරදි උෂ්ණත්වයේ ජලය වත් කර, තේ පෙරෙන්නට හරින්න. වත් කරන විට, සෑම කෝප්පයකම එක හා සමාන තද බවක් ලැබෙන පරිදි කෝප්ප අතර කුඩා ප්‍රමාණ මාරුවෙන් මාරුවට වත් කරන්න."
+    },
+    {
+     "h": "ආගන්තුක සත්කාරයේ ආත්මය",
+     "p": "දාරියේ හදවත තාක්ෂණය නොව ආකල්පයයි. සත්කාරකයා අමුත්තා වාඩි වීමට පෙර සියල්ල සූදානම් කර, අත් දෙකෙන්ම කෝප්පය පිළිගන්වයි. අමුත්තා පානය කරන අතරතුර, සත්කාරකයා අඩුවෙන් කතා කර නිහඬව අවධානයෙන් සිටින අතර, එවිට අමුත්තාට සුවඳ සහ රසය කෙරෙහි අවධානය යොමු කළ හැකිය."
+    },
+    {
+     "h": "අද එදිනෙදා දාරියේ",
+     "p": "අද වන විට, සරල කළ එදිනෙදා දාරියේ පුළුල් ලෙස භාවිතා වේ. නිවසේ හෝ තේ නිවසක තේ බඳුනක් සහ කෝප්ප කිහිපයක් සමඟ, මිනිසුන් සන්සුන්භාවය සහ සංවාදය සඳහා ගත කරන කාලයක් ලෙස තේ බෙදා ගනිති. ඔබ ආරම්භකයෙකු නම්, ජලයේ උෂ්ණත්වය සහ පෙරන කාලය ගැන සැලකිලිමත් වීම හොඳ කෝප්පයක් පිළිගැන්වීමට ප්‍රමාණවත්ය."
+    }
    ]
   },
   "cat": "ceremony",
@@ -238,7 +256,8 @@ window.TEAFaiCulture = [
    "vi": "Ở Hàn Quốc, trà và lễ nghi từ lâu đã là một: từ chỉ nghi lễ cúng tổ tiên, charye, theo nghĩa đen có nghĩa là 'lễ trà'. Bài viết này giới thiệu trình tự của darye thường ngày, từ đun nước đến dâng chén trà bằng cả hai tay.",
    "ar": "في كوريا، كان الشاي والآداب شيئًا واحدًا منذ زمن طويل: فكلمة «تشارييه» التي تُطلق على طقس تكريم الأسلاف تعني حرفيًا «طقس الشاي». يأخذك هذا المقال عبر خطوات الدارييه اليومية، من غلي الماء إلى تقديم الكوب بكلتا اليدين.",
    "ind": "Di Korea, teh dan etiket sejak lama menyatu: kata untuk upacara leluhur, charye, secara harfiah berarti 'ritual teh.' Artikel ini menelusuri alur darye sehari-hari, dari mendidihkan air hingga menyuguhkan cangkir dengan kedua tangan.",
-   "tur": "Kore'de çay ile görgü kuralları uzun zamandır iç içedir: atalar için düzenlenen törene verilen ad olan charye, kelime anlamıyla 'çay töreni' demektir. Bu yazı, suyu kaynatmaktan fincanı iki elle sunmaya kadar günlük darye'nin akışını adım adım anlatıyor."
+   "tur": "Kore'de çay ile görgü kuralları uzun zamandır iç içedir: atalar için düzenlenen törene verilen ad olan charye, kelime anlamıyla 'çay töreni' demektir. Bu yazı, suyu kaynatmaktan fincanı iki elle sunmaya kadar günlük darye'nin akışını adım adım anlatıyor.",
+   "si": "කොරියාවේදී තේ සහ ආචාර ධර්ම දිගු කලක් එකක් වී තිබේ: මුතුන් මිත්තන්ට පුද පූජා කරන චාරිත්‍රයට කියන 'චාරියේ' යන වචනයේ තේරුම වචනානුසාරයෙන්ම 'තේ චාරිත්‍රය' යන්නයි. මෙම ලිපියෙන් ජලය උණු කිරීමේ සිට අත් දෙකෙන්ම කෝප්පය පිළිගැන්වීම දක්වා එදිනෙදා දාරියේ ක්‍රියාවලිය විස්තර කෙරේ."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -252,7 +271,8 @@ window.TEAFaiCulture = [
    "vi": "Darye Hàn Quốc — Lễ nghi dâng trà",
    "ar": "الدارييه الكورية — آداب تقديم الشاي",
    "ind": "Darye Korea — Etiket Menyajikan Teh",
-   "tur": "Kore Darye'si — Çay Sunma Âdâbı"
+   "tur": "Kore Darye'si — Çay Sunma Âdâbı",
+   "si": "කොරියානු දාරියේ — තේ පිළිගැන්වීමේ ආචාර ධර්ම"
   }
  },
  {
@@ -424,6 +444,20 @@ window.TEAFaiCulture = [
      "h": "Küçük kaplar, koyu çay, çok tur",
      "p": "Gongfu demlemesinde avuç içi büyüklüğünde bir demlik ya da gaiwan bol yaprakla doldurulur, kısa süre demlenir ve bu işlem beş ya da daha çok kez tekrarlanır. Her demlemede koku ve tat hafifçe değişir; bu değişimi tur tur tatmak, tarzın keyfidir."
     }
+   ],
+   "si": [
+    {
+     "h": "ගොංෆු තේ නිජබිම",
+     "p": "ගොංෆු තේ (工夫茶) ගුවැංඩොං හි චාඕජෝ සහ දකුණු ෆුජියන් හි මින්නන් ප්‍රදේශයේ වර්ධනය විය. චිං රාජවංශයේ වාර්තා දැනටමත් චාඕජෝ ගොංෆු තේ විස්තර කරන අතර, මෙම විලාසය චීනය සහ තායිවානය පුරා තේ සිරිත්වලට දැඩි ලෙස බලපා ඇත."
+    },
+    {
+     "h": "'ගොංෆු' යනු කාලය සහ සැලකිල්ලයි",
+     "p": "මෙහිදී, ගොංෆු යන්නෙන් සටන් කලාව අදහස් නොවේ. එයින් අදහස් කරන්නේ යමක් සඳහා කාලය සහ කුසලතාව කැප කිරීමයි. එම නාමය සෑම පියවරකටම දක්වන සැලකිල්ල පිළිබිඹු කරයි: හොඳ දළු තෝරා ගැනීම, ජලය රත් කිරීම, සහ කෙටි, නැවත නැවත වාරවලින් පෙරීම."
+    },
+    {
+     "h": "කුඩා භාජන, තද තේ, බොහෝ වට",
+     "p": "ගොංෆු පෙරීමේදී අත්ල ප්‍රමාණයේ තේ බඳුනක් හෝ ගයිවානයක් තේ දළුවලින් ත්‍යාගශීලීව පුරවා, කෙටියෙන් පෙරා, පස් වතාවක් හෝ ඊට වැඩි වාර ගණනක් නැවත නැවත කරයි. සෑම වාරයක්ම සුවඳ සහ රසයෙන් තරමක් වෙනස් වන අතර, වටයෙන් වටයට එම වෙනස රස විඳීම මෙම විලාසයේ සතුටයි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -445,7 +479,8 @@ window.TEAFaiCulture = [
    "vi": "Ra đời ở Triều Châu và miền nam Phúc Kiến, trà công phu pha trà đậm trong chiếc ấm nhỏ xíu hoặc gaiwan và chia sẻ qua nhiều lần pha ngắn. Hãy tìm hiểu chén công đạo và chén ngửi hương dùng để làm gì, và vì sao 'công phu' có nghĩa là thời gian và sự chăm chút.",
    "ar": "وُلد شاي غونغ فو في تشاوتشو وجنوب فوجيان، وهو يحضّر شايًا قويًا في إبريق صغير أو غايوان ويتشاركه عبر نقعات قصيرة كثيرة. تعرّف على ما يفعله إبريق العدالة وكوب الرائحة، ولماذا تعني كلمة «غونغ فو» الوقت والعناية.",
    "ind": "Lahir di Chaozhou dan Fujian selatan, teh gongfu menyeduh teh pekat dalam teko kecil atau gaiwan dan membaginya dalam banyak seduhan singkat. Pelajari fungsi teko keadilan dan cangkir aroma, serta mengapa 'gongfu' berarti waktu dan kepedulian.",
-   "tur": "Chaozhou ve güney Fujian'da doğan gongfu çayı, minik bir demlikte ya da gaiwan'da koyu çay demler ve birçok kısa demleme boyunca paylaşır. Eşitlik sürahisi ile koku fincanının ne işe yaradığını ve 'gongfu'nun neden zaman ve özen anlamına geldiğini öğrenin."
+   "tur": "Chaozhou ve güney Fujian'da doğan gongfu çayı, minik bir demlikte ya da gaiwan'da koyu çay demler ve birçok kısa demleme boyunca paylaşır. Eşitlik sürahisi ile koku fincanının ne işe yaradığını ve 'gongfu'nun neden zaman ve özen anlamına geldiğini öğrenin.",
+   "si": "චාඕජෝ සහ දකුණු ෆුජියන් ප්‍රදේශවල උපන් ගොංෆු තේ, කුඩා බඳුනක හෝ ගයිවානයක තද තේ පෙරා, කෙටි වාර බොහෝ ගණනක් පුරා බෙදා ගනියි. සාධාරණත්ව පිචරය සහ සුවඳ කෝප්පය කරන්නේ කුමක්ද, සහ 'ගොංෆු' යන්නෙන් අදහස් කරන්නේ කාලය සහ සැලකිල්ල ඇයි දැයි ඉගෙන ගන්න."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -459,7 +494,8 @@ window.TEAFaiCulture = [
    "vi": "Trà Công Phu Trung Quốc — Ấm nhỏ, nhiều lần pha",
    "ar": "شاي غونغ فو الصيني — أباريق صغيرة ونقعات كثيرة",
    "ind": "Teh Gongfu Tiongkok — Teko Kecil, Banyak Seduhan",
-   "tur": "Çin Gongfu Çayı — Küçük Demlikler, Çok Demleme"
+   "tur": "Çin Gongfu Çayı — Küçük Demlikler, Çok Demleme",
+   "si": "චීන ගොංෆු තේ — කුඩා බඳුන්, බොහෝ වාර ගණනක් පෙරීම"
   }
  },
  {
@@ -679,6 +715,24 @@ window.TEAFaiCulture = [
      "h": "Misafirler için temel görgü kuralları",
      "p": "Kâseyi alan misafir hafifçe eğilir, ardından süslü ön yüzünden içmemek için kâseyi avucunda hafifçe çevirir. İçtikten sonra misafir kenarını siler, kâseye hayranlıkla bakar ve ev sahibine teşekkür eder. Bu basit akışı bilmek, ilk deneyim için fazlasıyla yeterlidir."
     }
+   ],
+   "si": [
+    {
+     "h": "භාජනයක මච්චා ගැසීම",
+     "p": "සදෝවේදී, කුඩු කළ මච්චා තේ භාජනයකට (චාවන්) දමා, උණු වතුර එක් කර, උණ බම්බු ගසනයකින් (චාසෙන්) පෙන නගින තුරු තේ ගසනු ලැබේ. සත්කාරකයා සෑම අමුත්තෙකු ඉදිරියේම තේ සකස් කරන අතර, මච්චාහි තිත්ත රසය සමතුලිත කිරීමට පළමුව සෘතුමය පැණි රස කෑමක් පිළිගන්වනු ලැබේ."
+    },
+    {
+     "h": "සෙන් නො රික්යු සහ වබි",
+     "p": "16 වන සියවසේ තේ ආචාර්ය සෙන් නො රික්යු, සරල බව සහ අසම්පූර්ණත්වය තුළ අලංකාරය සොයා ගන්නා වබි තේ විලාසය පරිපූර්ණ කළ බව සැලකේ. අලංකාර උපකරණ වෙනුවට, ඔහු ගැමි භාජන සහ කුඩා තේ කාමර අගය කළ අතර, සදෝ මානසික විනයෙහි මාර්ගයක් ලෙස හැඩ ගැසුණි."
+    },
+    {
+     "h": "ඉචි-ගෝ ඉචි-ඒ",
+     "p": "අගය කරන ලද වාක්‍ය ඛණ්ඩය ඉචි-ගෝ ඉචි-ඒ (一期一會) යන්නෙන් අදහස් කරන්නේ මෙම හමුවීම ජීවිත කාලයකට එක් වරක් පමණක් සිදුවන බවයි. සත්කාරකයා කිසිදා නැවත සිදු නොවන අවස්ථාවකට පූර්ණ සැලකිල්ල යොමු කරන අතර, අමුත්තා එම සැලකිල්ල කෘතඥතාවයෙන් පිළිගෙන, එම එක් භාජනය රස විඳියි."
+    },
+    {
+     "h": "අමුත්තන් සඳහා මූලික ආචාර ධර්ම",
+     "p": "භාජනය ලැබුණු විට, අමුත්තා සැහැල්ලුවෙන් ආචාර කර, පසුව එහි අලංකාර ඉදිරිපසින් පානය නොකිරීමට අත්ල මත භාජනය තරමක් හරවයි. පානය අවසන් කළ පසු, අමුත්තා කට පිස දමා, භාජනය අගය කර, සත්කාරකයාට ස්තූති කරයි. මෙම සරල ක්‍රියාවලිය දැන ගැනීම පළමු අත්දැකීමක් සඳහා ඕනෑ තරම්ය."
+    }
    ]
   },
   "cat": "ceremony",
@@ -699,7 +753,8 @@ window.TEAFaiCulture = [
    "vi": "Trong sadō của Nhật Bản, matcha được đánh trong bát trà và dâng cho từng vị khách. Bài viết này giới thiệu thẩm mỹ wabi của Sen no Rikyū, tinh thần ichi-go ichi-e và những phép tắc cơ bản dành cho khách mới bắt đầu.",
    "ar": "في السادو اليابانية، يُخفق الماتشا في وعاء شاي ويُقدَّم لكل ضيف. يقدّم هذا المقال جمالية الوابي عند سين نو ريكيو، وروح «إيتشي-غو إيتشي-إيه»، وآداب الضيف الأساسية للمبتدئين.",
    "ind": "Dalam sadō Jepang, matcha dikocok dalam mangkuk teh dan disajikan kepada setiap tamu. Artikel ini memperkenalkan estetika wabi Sen no Rikyū, semangat ichi-go ichi-e, dan tata krama dasar tamu untuk pemula.",
-   "tur": "Japon sadō'sunda matcha bir çay kâsesinde çırpılır ve her misafire sunulur. Bu yazı, Sen no Rikyū'nun wabi estetiğini, ichi-go ichi-e ruhunu ve yeni başlayanlar için temel misafir görgü kurallarını tanıtıyor."
+   "tur": "Japon sadō'sunda matcha bir çay kâsesinde çırpılır ve her misafire sunulur. Bu yazı, Sen no Rikyū'nun wabi estetiğini, ichi-go ichi-e ruhunu ve yeni başlayanlar için temel misafir görgü kurallarını tanıtıyor.",
+   "si": "ජපන් සදෝවේදී, මච්චා තේ භාජනයක ගසා සෑම අමුත්තෙකුටම පිළිගන්වනු ලැබේ. මෙම ලිපියෙන් සෙන් නො රික්යුගේ වබි සෞන්දර්යය, ඉචි-ගෝ ඉචි-ඒ හි ආත්මය, සහ ආරම්භකයින් සඳහා මූලික අමුත්තන්ගේ ආචාර ධර්ම හඳුන්වා දෙයි."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -713,7 +768,8 @@ window.TEAFaiCulture = [
    "vi": "Sadō Nhật Bản — Một chén trà, một lần gặp gỡ",
    "ar": "السادو اليابانية — كوب واحد ولقاء واحد",
    "ind": "Sadō Jepang — Satu Cangkir, Satu Pertemuan",
-   "tur": "Japon Sadō'su — Bir Fincan, Bir Buluşma"
+   "tur": "Japon Sadō'su — Bir Fincan, Bir Buluşma",
+   "si": "ජපන් සදෝ — එක් කෝප්පයක්, එක් හමුවීමක්"
   }
  },
  {
@@ -933,6 +989,24 @@ window.TEAFaiCulture = [
      "h": "Küçük zisha demlik, yoğun yudumlar",
      "p": "Hem laoren cha hem de çay sanatı, bol yaprakla doldurulmuş küçük bir zisha toprak demlik kullanır ve kısa, tekrarlanan demlemelerle demler. Fincanlar miniktir ama her yudum yoğundur; tadın demlemeler boyunca nasıl değiştiğini paylaşmak, Tayvan oolong'unun keyfidir."
     }
+   ],
+   "si": [
+    {
+     "h": "ලාඕරෙන් චා, සෙමින් බෙදා ගන්නා තේ",
+     "p": "ලාඕරෙන් චා (老人茶, 'වැඩිහිටියන්ගේ තේ') යනු වැඩිහිටියන් ගස් යට හෝ වහල දාර යට රැස් වී කුඩා බඳුනක තද ඌලොං පෙරා සෙමින් බෙදා ගැනීමේ එදිනෙදා සිරිත විය. 'වැඩිහිටියන්' යන වචනය ආකල්පයක් ගෙන එයි: තේ කිසිවිටෙකත් ඉක්මන් නොකෙරේ."
+    },
+    {
+     "h": "තේ-කලා නිවස තුළට",
+     "p": "1970 සහ 1980 දශකවල තායිවානයේ ආර්ථිකය වර්ධනය වන විට, තේ සඳහා කැප වූ තේ නිවස — චායිගුවාන් — වැඩි වූ අතර, ලාඕරෙන් චා ක්‍රමය විධිමත් 'තේ කලාවක්' ලෙස පිරිපහදු කරන ලදී. අද මෙම තේ නිවස යනු අමුත්තන් බොහෝ විට තායිවාන ඌලොං අත්දකින ස්ථානයි."
+    },
+    {
+     "h": "සුවඳ කෝප්පය සමඟ පළමුව සුවඳ",
+     "p": "තායිවාන තේ කලාව රසයට පෙර සුවඳ රස විඳීම සඳහා ප්‍රසිද්ධය. පෙරන ලද තේ පළමුව උස සුවඳ කෝප්පයකට (වෙන්ෂියැංබේයි) වත් කර, පසුව පානය කරන කෝප්පයට මාරු කරනු ලැබේ; ඉන්පසු අමුත්තා හිස් වූ සුවඳ කෝප්පය ඔසවා ඉතිරි වූ සුවඳ ආඝ්‍රාණය කරයි — ඌලොංහි පොහොසත් සුවඳ සම්පූර්ණයෙන්ම රස විඳීම සඳහා වූ උපක්‍රමයකි."
+    },
+    {
+     "h": "කුඩා ජිෂා බඳුන, සාන්ද්‍රිත උගුරු",
+     "p": "ලාඕරෙන් චා සහ තේ කලාව යන දෙකම කුඩා ජිෂා මැටි බඳුනක් තේ දළුවලින් ත්‍යාගශීලීව පුරවා, කෙටි නැවත නැවත වාරවලින් පෙරනු ලැබේ. කෝප්ප කුඩා වුවත් සෑම උගුරක්ම සාන්ද්‍රිත වන අතර, වාර පුරා රසය වෙනස් වන ආකාරය බෙදා ගැනීම තායිවාන ඌලොංහි සතුටයි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -954,7 +1028,8 @@ window.TEAFaiCulture = [
    "vi": "Ở Đài Loan, các bậc cao niên từng tụ họp để chia sẻ trà ô long đậm từ những chiếc ấm đất nhỏ xíu — một phong tục gọi là laoren cha, sau này phát triển thành các trà nghệ quán ngày nay. Hãy khám phá nghi thức ưu tiên hương thơm bằng chén ngửi hương.",
    "ar": "في تايوان، كان كبار السن يجتمعون يومًا ليتشاركوا أولونغ قويًا من أباريق طينية صغيرة — عادة تسمى لاورين تشا نمت لتصبح بيوت فن الشاي اليوم. اكتشف طقس تقديم الرائحة أولًا باستخدام كوب العبير.",
    "ind": "Di Taiwan, para tetua dulu berkumpul untuk berbagi oolong pekat dari teko tanah liat kecil — kebiasaan yang disebut laoren cha yang tumbuh menjadi rumah seni teh masa kini. Temukan ritual mengutamakan aroma dengan cangkir penghirup aroma.",
-   "tur": "Tayvan'da yaşlılar bir zamanlar minik toprak demliklerde koyu oolong paylaşmak için toplanırdı — laoren cha denen bu gelenek, günümüzün çay sanatı evlerine dönüştü. Koku fincanıyla önce kokuyu tatmaya dayanan ritüeli keşfedin."
+   "tur": "Tayvan'da yaşlılar bir zamanlar minik toprak demliklerde koyu oolong paylaşmak için toplanırdı — laoren cha denen bu gelenek, günümüzün çay sanatı evlerine dönüştü. Koku fincanıyla önce kokuyu tatmaya dayanan ritüeli keşfedin.",
+   "si": "තායිවානයේදී, වැඩිහිටියන් වරක් කුඩා මැටි බඳුන්වලින් තද ඌලොං බෙදා ගැනීමට රැස් වූහ — ලාඕරෙන් චා නම් සිරිත අද තේ-කලා නිවස බවට වර්ධනය විය. සුවඳ කෝප්පය භාවිතා කරමින් සුවඳට ප්‍රමුඛතාව දෙන චාරිත්‍රය සොයා ගන්න."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -968,7 +1043,8 @@ window.TEAFaiCulture = [
    "vi": "Trà nghệ Đài Loan — Từ Laoren Cha đến trà quán",
    "ar": "فن الشاي التايواني — من لاورين تشا إلى بيت الشاي",
    "ind": "Seni Teh Taiwan — Dari Laoren Cha hingga Kedai Teh",
-   "tur": "Tayvan Çay Sanatı — Laoren Cha'dan Çay Evine"
+   "tur": "Tayvan Çay Sanatı — Laoren Cha'dan Çay Evine",
+   "si": "තායිවාන තේ කලාව — ලාඕරෙන් චා සිට තේ නිවස දක්වා"
   }
  },
  {
@@ -1236,6 +1312,28 @@ window.TEAFaiCulture = [
      "h": "Paylaşılan masalar ve neşeli kalabalık",
      "p": "Öğle saatinde yabancılarla masa paylaşmak — dap toi (搭枱) — son derece normaldir. Siparişler kısaltmalarla seslenilir, yemekler dakikalar içinde gelir ve kimse uzun kalmaz. İlk başta telaşlı gelebilir, ama o hız ve neşeli gürültü, Hong Kongluların her gün keyif aldığı sahnenin ta kendisidir."
     }
+   ],
+   "si": [
+    {
+     "h": "චා චාන් තෙන් යනු කුමක්ද?",
+     "p": "චා චාන් තෙන් යනු හොංකොංහි සෑම කොනකම දක්නට ලැබෙන එදිනෙදා ආපනශාලාවයි. එය අයිස් කළ පාන සහ සරල බටහිර කෑම විකුණන බිං සුට් (冰室) නම් කඩවලින් වර්ධනය වූ අතර, දෙවන ලෝක යුද්ධයෙන් පසු හොංකොං විලාසයෙන් නැවත සාදන ලද වේගවත්, ලාභදායී බටහිර ආහාර සඳහා ස්ථානය බවට පත්විය. උදේ ආහාරයට ටෝස්ට් සහ කිරි තේ, දිවා ආහාරයට බැදපු නූඩ්ල්ස් — එය මේසයක් මත පිළිගන්වන හොංකොංහි එදිනෙදා ජීවිතයයි."
+    },
+    {
+     "h": "සේද-මේස් කිරි තේ",
+     "p": "චා චාන් තෙන්හි මුහුණත හොංකොං කිරි තේය. කළු තේ වර්ග කිහිපයක් මිශ්‍ර කර තදින් පෙරා, පසුව මේසයක් මෙන් පෙනෙන දිගු රෙදි බෑගයක් හරහා නැවත නැවත පෙරා, තේ සේද මෙන් සිනිඳු කරයි. උකු කළ කිරි හෝ ඝන කළ කිරි එයට සාරය සහ පොහොසත්කම ලබා දෙන අතර, පෙරන බෑගය නිසා එයට 'සේද-මේස් කිරි තේ' (絲襪奶茶) යන අනුනාමය ලැබුණි."
+    },
+    {
+     "h": "යුවාන්යැං සහ අයිස් කළ ලෙමන් තේ",
+     "p": "ජීවිත කාලය පුරාම යුගල වන මැන්ඩරින් තාරාවන්ගේ නමින් නම් කළ කෝපි සහ කිරි තේ මිශ්‍රණයක් වන යුවාන්යැං (鴛鴦), ආපනශාලාවේ අනෙක් අත්සන පානයයි. අයිස් කළ ලෙමන් තේ (凍檸茶) — ලෙමන් පෙති සමඟ අයිස් මත කළු තේ — ද එලෙසම අත්‍යවශ්‍යයි. යුෂ මුදා හැර රසය සකස් කිරීමට ඔබේ පිදුරු ගොටුවෙන් ලෙමන් ඇනීම හොංකොං චාරිත්‍රයේ කොටසකි."
+    },
+    {
+     "h": "ඔබේ තේ සමඟ කෑමට ගත යුතු දේ",
+     "p": "අන්නාසි බන් (菠蘿包) තුළ කිසිම අන්නාසි අඩංගු නොවේ; එහි කැඩෙන පිට පොත්ත හුදෙක් අන්නාසි ගෙඩියකට සමාන වන අතර, ඇතුළත සීතල බටර් පෙත්තක් සමඟ පිළිගන්වන විට එය ආදරණීය බෝ ලෝ යාඕ බවට පත්වේ. හොංකොං විලාසයේ ප්‍රංශ ටෝස්ට් (西多士), ගැඹුරට බැද සිරප්වලින් පොඟවා, සහ හැම් සමඟ මැකරෝනි සුප් උදේ ආහාරයේ නිත්‍ය අංගයන්ය. අවන්හලෙන් ගත් පැණි රස සහ උණුසුම් දෙයක් සමඟ තද කිරි තේ යනු සම්භාව්‍ය චා චාන් තෙන් යුගලනයයි."
+    },
+    {
+     "h": "බෙදා ගත් මේස සහ ප්‍රීතිමත් කලබලය",
+     "p": "දිවා ආහාර වේලාවේදී, ආගන්තුකයන් සමඟ මේසයක් බෙදා ගැනීම — දප් තෝයි (搭枱) — සම්පූර්ණයෙන්ම සාමාන්‍ය දෙයකි. ඇණවුම් කෙටි යෙදුම්වලින් කෑ ගසා කියනු ලැබේ, කෑම මිනිත්තු කිහිපයකින් ළඟා වේ, කිසිවෙකු වැඩි වේලාවක් රැඳී නොසිටියි. මුලදී එය කලබලකාරී ලෙස හැඟෙන්නට පුළුවන, නමුත් එම වේගය සහ ප්‍රීතිමත් ඝෝෂාව හරියටම හොංකොං වැසියන් සෑම දිනකම භුක්ති විඳින දර්ශනයයි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1256,7 +1354,8 @@ window.TEAFaiCulture = [
    "vi": "Trà sữa đậm, yuanyang cà phê-trà và bánh dứa tại các quán ăn cha chaan teng của Hồng Kông — một giới thiệu nhanh và sôi động về văn hóa trà của thành phố.",
    "ar": "شاي حليب قوي، ويوانيانغ من القهوة والشاي، وكعك الأناناس في مطاعم تشا تشان تينغ في هونغ كونغ — مقدمة سريعة وحيوية لثقافة الشاي في المدينة.",
    "ind": "Teh susu pekat, yuanyang kopi-teh, dan roti nanas di kedai cha chaan teng Hong Kong — pengantar yang cepat dan meriah tentang budaya teh kota ini.",
-   "tur": "Hong Kong'un cha chaan teng lokantalarında koyu sütlü çay, kahve-çay karışımı yuanyang ve ananaslı çörekler — şehrin çay kültürüne hızlı ve canlı bir giriş."
+   "tur": "Hong Kong'un cha chaan teng lokantalarında koyu sütlü çay, kahve-çay karışımı yuanyang ve ananaslı çörekler — şehrin çay kültürüne hızlı ve canlı bir giriş.",
+   "si": "හොංකොංහි චා චාන් තෙන් ආපනශාලාවල තද කිරි තේ, කෝපි-තේ යුවාන්යැං සහ අන්නාසි බන් — නගරයේ තේ සංස්කෘතියට වේගවත්, ජීවමාන හැඳින්වීමක්."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -1270,7 +1369,8 @@ window.TEAFaiCulture = [
    "vi": "Cha Chaan Teng Hồng Kông và Trà Sữa",
    "ar": "تشا تشان تينغ في هونغ كونغ وشاي الحليب",
    "ind": "Cha Chaan Teng Hong Kong dan Teh Susu",
-   "tur": "Hong Kong Cha Chaan Teng'i ve Sütlü Çay"
+   "tur": "Hong Kong Cha Chaan Teng'i ve Sütlü Çay",
+   "si": "හොංකොං චා චාන් තෙන් සහ කිරි තේ"
   }
  },
  {
@@ -1490,6 +1590,24 @@ window.TEAFaiCulture = [
      "h": "Gündelik çay molası",
      "p": "Resmî ikindi çayından ayrı olarak kısa çay molası, Britanya gündelik hayatına işlemiştir. İşe ara verip sütlü bir kupa poşet çay içmek, dinlenme zamanının geldiğinin küçük bir işaretidir. Bir ziyaretçiye önce bir fincan çay sunmak da Britanya misafirperverliğinin temel bir jestidir."
     }
+   ],
+   "si": [
+    {
+     "h": "දහවල් තේ ආරම්භ වූ ආකාරය",
+     "p": "19 වන සියවසේ මැද භාගයේ බ්‍රිතාන්‍යයේ, දිවා ආහාරය සහ ප්‍රමාද රාත්‍රී ආහාරය අතර සැහැල්ලු ආහාර සමඟ තේ පානය කිරීමේ සිරිත වංශවත් සමාජය පුරා පැතිර ගිය අතර, මෙය දහවල් තේවල මූලාරම්භය බව කියනු ලැබේ. කළු තේ තේ බඳුනක තදින් පෙරා, කෝප්පවලට වත් කර, රසය අනුව කිරි සහ සීනි සමඟ නිම කරනු ලැබේ. මෙම කිරි සහිත, ශක්තිමත් පෙරීම බ්‍රිතාන්‍යයේ අත්සන තේ පානය කිරීමේ ක්‍රමය බවට පත්විය."
+    },
+    {
+     "h": "තට්ටු තුන, පිළිවෙළින්",
+     "p": "හෝටල් සහ තේ කාමරවලදී, දහවල් තේ සාමාන්‍යයෙන් තට්ටු තුනේ ස්ටෑන්ඩ් එකකින් පැමිණේ. සාමාන්‍ය පිළිවෙළ වන්නේ පහළ තට්ටුවේ පිපිඤ්ඤා වැනි රසැති සැන්ඩ්විච්වලින් ආරම්භ කිරීම, මැද තට්ටුවේ උකු ක්‍රීම් සහ ජෑම් සමඟ ස්කෝන් වෙත යාම, සහ ඉහළ තට්ටුවේ කේක් සහ කුඩා පේස්ට්‍රිවලින් අවසන් කිරීමයි. ස්කෝනයකට පළමුව ක්‍රීම් ද ජෑම් ද යන්නේ කුමක්ද යන්න එයම මිත්‍රශීලී ප්‍රාදේශීය තරඟයකි."
+    },
+    {
+     "h": "පළමුව කිරි ද, තේ ද?",
+     "p": "කිරි කෝප්පයට තේ වලට පෙර දැමිය යුතුද පසුව දැමිය යුතුද යන්න ගැන බ්‍රිතාන්‍යයේ දිගු කලක් පවතින, සුහදශීලී වාදයක් තිබේ. පළමුව කිරි දැමීම සියුම් පෝසිලේන් කෝප්ප උණු තේවල කම්පනයෙන් ආරක්ෂා කළ බව කියනු ලැබේ. කිසිම ක්‍රමයක් වැරදි නැත; සෑම නිවසකටම තමන්ගේම පුරුද්දක් ඇත."
+    },
+    {
+     "h": "එදිනෙදා තේ විවේකය",
+     "p": "විධිමත් දහවල් තේවලින් වෙන්ව, කෙටි තේ විවේකය එදිනෙදා බ්‍රිතාන්‍ය ජීවිතයට බැඳී ඇත. කිරි සමඟ බෑග් කළ තේ මග් එකක් සඳහා වැඩ නතර කිරීම විවේක ගැනීමට කාලය පැමිණ ඇති බවට කුඩා සංඥාවකි. අමුත්තෙකුට පළමුව තේ කෝප්පයක් පිළිගැන්වීම ද බ්‍රිතාන්‍ය ආගන්තුක සත්කාරයේ මූලික අභිනයකි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1511,7 +1629,8 @@ window.TEAFaiCulture = [
    "vi": "Trà đen đậm pha trong ấm, dùng với sữa và đường, cùng nghi thức ba tầng gồm bánh sandwich, scone và bánh ngọt — cộng thêm giờ nghỉ uống trà thường ngày.",
    "ar": "شاي أسود قوي يُحضَّر في إبريق ويُقدَّم مع الحليب والسكر، وطقس المستويات الثلاثة من السندويشات والسكونز والكعك — إضافة إلى استراحة الشاي اليومية.",
    "ind": "Teh hitam pekat yang diseduh dalam teko, disajikan dengan susu dan gula, serta ritual tiga tingkat berisi roti lapis, skon, dan kue — ditambah jeda teh sehari-hari.",
-   "tur": "Demlikte koyu demlenmiş siyah çay; süt ve şekerle servis edilir — sandviçler, scone'lar ve keklerden oluşan üç katlı ritüel ve gündelik çay molası."
+   "tur": "Demlikte koyu demlenmiş siyah çay; süt ve şekerle servis edilir — sandviçler, scone'lar ve keklerden oluşan üç katlı ritüel ve gündelik çay molası.",
+   "si": "බඳුනක පෙරන ලද තද කළු තේ, කිරි සහ සීනි සමඟ පිළිගන්වනු ලැබේ, සහ සැන්ඩ්විච්, ස්කෝන් සහ කේක්වල තට්ටු තුනේ චාරිත්‍රය — සහ එදිනෙදා තේ විවේකය ද සමඟ."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -1525,7 +1644,8 @@ window.TEAFaiCulture = [
    "vi": "Trà Chiều Anh Quốc",
    "ar": "شاي ما بعد الظهيرة البريطاني",
    "ind": "Teh Sore ala Inggris",
-   "tur": "Britanya İkindi Çayı"
+   "tur": "Britanya İkindi Çayı",
+   "si": "බ්‍රිතාන්‍ය දහවල් තේ"
   }
  },
  {
@@ -1745,6 +1865,24 @@ window.TEAFaiCulture = [
      "h": "Günü taşıyan bir içecek",
      "p": "Sabahı açan ilk fincandan iş molalarına ve misafir ağırlamaya kadar chai, günün ritminin içinde oturur. Birine chai sunmak, Hindistan'da misafirperverliğin en gündelik ifadesidir. Güçlü ve tatlı; tek bir yudum sizi uyandırır ve sohbetleri başlatır — Hint yaşamının merkezinde bir içecek."
     }
+   ],
+   "si": [
+    {
+     "h": "පෙරීමෙන් නොව, උණු කිරීමෙන් සාදනු ලැබේ",
+     "p": "මසාලා චායි සාදනු ලබන්නේ උණු වතුරේ දළු පෙරීමෙන් නොවේ. ඒ වෙනුවට, කළු තේ, සීනි සහ කුළුබඩු බඳුනක ජලය සහ කිරි සමඟ එකට උණු කරනු ලැබේ. එය සිමර් වන විට, කුළුබඩු සුවඳ සහ තේවල ශක්තිය කිරිවලට උරා ගෙන, පැණි රස, පූර්ණ සාරවත් කෝප්පයක් නිපදවයි. සෑම නිවසකම සහ කඩයකම තමන්ගේම තරමක් වෙනස් කුළුබඩු මිශ්‍රණයක් සහ තමන්ගේම රසයක් ඇත."
+    },
+    {
+     "h": "මසාලා: කුළුබඩු මිශ්‍රණය",
+     "p": "\"මසාලා\" යන්නෙන් සරලවම අදහස් කරන්නේ කුළුබඩු මිශ්‍රණයක් වන අතර, චායි සඳහා බොහෝ විට භාවිතා කරන ඒවා වන්නේ එනසාල්, ඉඟුරු, කුරුඳු, කරාබුනැටි සහ කළු ගම්මිරිස් ය. මෙම උණුසුම් කුළුබඩු පොහොසත් කිරි සමඟ හමු වී හෘදයාංගම සහ සැනසිලිදායක බවක් දැනෙන පානයක් ලබා දෙයි. යමෙකුට සෙම්ප්‍රතිශ්‍යාව ඇති විට බොහෝ පවුල් ඉඟුරු වැඩි චායි සාදති."
+    },
+    {
+     "h": "වීදියේ චායිවාලා",
+     "p": "ඉන්දියාව පුරා වීදිවල සහ දුම්රිය ස්ථානවල, ඔබ යන ඕනෑම තැනක කුඩා බඳුන්වල චායි උණු කරන චායිවාලාවරුන් ඔබට හමුවනු ඇත. චායි කුඩා වීදුරුවල හෝ ඉවත දැමිය හැකි මැටි කෝප්පවල පිළිගන්වනු ලැබෙන අතර, මිනිසුන් දිනකට කිහිප වතාවක් නැගී සිට කෝප්පයක් අවසන් කිරීමට නතර වෙති. ඉන්දියානු ක්‍රමය වන්නේ කුඩා ප්‍රමාණ, නිතර නිතර යන්නයි."
+    },
+    {
+     "h": "දවස ගෙන යන පානයක්",
+     "p": "උදෑසන විවෘත කරන පළමු කෝප්පයේ සිට වැඩ විවේක සහ අමුත්තන් පිළිගැනීම දක්වා, චායි දවසේ රිද්මය තුළ පවතී. යමෙකුට චායි පිළිගැන්වීම ඉන්දියාවේ ආගන්තුක සත්කාරයේ වඩාත්ම එදිනෙදා ප්‍රකාශනයයි. තද සහ පැණි රස, එක් උගුරක් ඔබව අවදි කර සංවාද ආරම්භ කරයි — ඉන්දියානු ජීවිතයේ කේන්ද්‍රයේ ඇති පානයකි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1766,7 +1904,8 @@ window.TEAFaiCulture = [
    "vi": "Thức uống được yêu thích của Ấn Độ: trà đen đun sôi cùng sữa, đường và các gia vị như bạch đậu khấu và gừng, được các chaiwala ven đường phục vụ trong những chiếc cốc nhỏ suốt cả ngày.",
    "ar": "مشروب الهند المحبوب: شاي أسود يُغلى مع الحليب والسكر وتوابل مثل الهيل والزنجبيل، ويُقدَّم في أكواب صغيرة لدى باعة التشاي على الأرصفة طوال اليوم.",
    "ind": "Minuman tercinta India: teh hitam yang direbus bersama susu, gula, dan rempah seperti kapulaga dan jahe, disajikan dalam cangkir kecil oleh chaiwala di pinggir jalan sepanjang hari.",
-   "tur": "Hindistan'ın sevilen içeceği: siyah çayın süt, şeker ve kakule ile zencefil gibi baharatlarla kaynatılması; sokaktaki chaiwala'lar tarafından gün boyu küçük fincanlarda servis edilir."
+   "tur": "Hindistan'ın sevilen içeceği: siyah çayın süt, şeker ve kakule ile zencefil gibi baharatlarla kaynatılması; sokaktaki chaiwala'lar tarafından gün boyu küçük fincanlarda servis edilir.",
+   "si": "ඉන්දියාවේ ආදරණීය පානය: එනසාල් සහ ඉඟුරු වැනි කුළුබඩු සමඟ කිරි, සීනි සමඟ උණු කරන ලද කළු තේ, දවස පුරාම වීදි අයිනේ චායිවාලාවරුන් විසින් කුඩා කෝප්පවලින් පිළිගන්වනු ලැබේ."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -1780,7 +1919,8 @@ window.TEAFaiCulture = [
    "vi": "Masala Chai của Ấn Độ",
    "ar": "تشاي الماسالا الهندي",
    "ind": "Masala Chai India",
-   "tur": "Hindistan'ın Masala Chai'si"
+   "tur": "Hindistan'ın Masala Chai'si",
+   "si": "ඉන්දියාවේ මසාලා චායි"
   }
  },
  {
@@ -2000,6 +2140,24 @@ window.TEAFaiCulture = [
      "h": "Misafirperverliğin simgesi",
      "p": "Bir dükkânda bir şey satın alırken de, bir ofisi ziyaret ederken de, birinin evine ilk kez giderken de önce bir bardak çay belirir. Çay sunmak, en temel karşılamadır ve sohbetin başlamasının işaretidir — insanları birbirine bağlayan küçük, sıcak bir bardak."
     }
+   ],
+   "si": [
+    {
+     "h": "චායිදන්ලික්: තට්ටු දෙකක තේ බඳුනක්",
+     "p": "තුර්කි තේ සාදනු ලබන්නේ චායිදන්ලික් එකක වන අතර, එය එක මත එක තැබූ කේතල යුගලයකි. පහළ බඳුනේ ජලය උණු වේ; එහි කොටසක් කුඩා ඉහළ බඳුනේ දළු තෙත් කරන අතර, එය පසුව වාෂ්පයේ සෙමින් පෙරී තද සාන්ද්‍රණයක් බවට පත්වේ. සාන්ද්‍රණය වීදුරුවකට වත් කර පහළ බඳුනේ උණු වතුරෙන් පුරවනු ලැබෙන අතර, එවිට සෑම පානය කරන්නෙකුටම තම රසය අනුව තද බව සකස් කළ හැකිය."
+    },
+    {
+     "h": "අඬු නැති ටියුලිප් වීදුරු",
+     "p": "තේ අඬු නැති කුඩා වීදුරු කෝප්පවල පිළිගන්වනු ලැබේ. ඒවායේ ඇඹරුණු, ටියුලිප් වැනි හැඩය තේවල ගැඹුරු රතු පැහැය පෙන්වන අතර, තුනී වීදුරුව තොල්වලට හැපෙනසුලු බවක් දැනේ. සීනි සාමාන්‍යයෙන් ඔබට කලවම් කිරීමට නොව පැත්තෙන් කැට ලෙස පැමිණෙන අතර, පිඟානක් සහ කුඩා හැන්දක් සමඟය."
+    },
+    {
+     "h": "ලෝකයේ වැඩිම තේ බොන ජාතිය",
+     "p": "තුර්කියේ ඒක පුද්ගල තේ පරිභෝජනය ලෝකයේ වැඩිම රටවල් අතරට ගණන් ගැනේ. කළු මුහුදු වෙරළේ රිසේ ප්‍රදේශය එහි වඩාත්ම ප්‍රසිද්ධ වගා ප්‍රදේශය වන අතර නිවසේ පානය කරන තේවලින් බොහෝ ප්‍රමාණයක් සපයයි. බොහෝ නිවසවල කේතලය උදේ ආහාරයේ සිට රාත්‍රී ප්‍රමාද වන තුරු උදුන මත රැඳී සිටියි."
+    },
+    {
+     "h": "ආගන්තුක සත්කාරයේ සංකේතයක්",
+     "p": "ඔබ කඩයක යමක් මිලදී ගත්තත්, කාර්යාලයකට ගියත්, හෝ පළමු වරට යමෙකුගේ නිවසට පැමිණියත්, පළමුව තේ වීදුරුවක් දිස් වේ. තේ පිළිගැන්වීම වඩාත්ම මූලික පිළිගැනීම වන අතර සංවාදය ආරම්භ කිරීමට සංඥාවයි — මිනිසුන් සම්බන්ධ කරන කුඩා, උණුසුම් වීදුරුවකි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2020,7 +2178,8 @@ window.TEAFaiCulture = [
    "vi": "Trà pha đậm trong çaydanlık xếp chồng, điều chỉnh bằng nước nóng, và phục vụ với đường viên trong ly tulip không quai — lòng hiếu khách ở đất nước có mức tiêu thụ trà bình quân đầu người cao nhất thế giới.",
    "ar": "شاي يُحضَّر قويًا في تشاي دانليك متراكب، ويُضبط بالماء الساخن، ويُقدَّم مع مكعبات السكر في أكواب زجاجية على شكل زهرة التوليب بلا مقابض — ضيافة في بلد لديه أعلى استهلاك للشاي للفرد في العالم.",
    "ind": "Teh yang diseduh pekat dalam çaydanlık bertumpuk, disesuaikan dengan air panas, dan disajikan dengan gula batu dalam gelas tulip tanpa pegangan — keramahtamahan di negara dengan konsumsi teh per orang tertinggi di dunia.",
-   "tur": "Üst üste konmuş çaydanlıkta koyu demlenen, sıcak suyla ayarlanan ve sapsız lale bardaklarda küp şekerle servis edilen çay — kişi başına çay tüketiminde dünyada ilk sıralarda yer alan bir ülkede misafirperverlik."
+   "tur": "Üst üste konmuş çaydanlıkta koyu demlenen, sıcak suyla ayarlanan ve sapsız lale bardaklarda küp şekerle servis edilen çay — kişi başına çay tüketiminde dünyada ilk sıralarda yer alan bir ülkede misafirperverlik.",
+   "si": "එක මත එක තැබූ චායිදන්ලික් එකක තදින් පෙරා, උණු වතුරෙන් සකස් කර, අඬු නැති ටියුලිප් වීදුරුවල සීනි කැට සමඟ පිළිගන්වන තේ — ඒක පුද්ගල තේ පරිභෝජනය ලෝකයේ වැඩිම රටක ආගන්තුක සත්කාරය."
   },
   "title": {
    "en": "Turkish Çay",
@@ -2034,7 +2193,8 @@ window.TEAFaiCulture = [
    "vi": "Çay Thổ Nhĩ Kỳ",
    "ar": "الشاي التركي (تشاي)",
    "ind": "Çay Turki",
-   "tur": "Türkiye'nin Çayı"
+   "tur": "Türkiye'nin Çayı",
+   "si": "තුර්කි චායි"
   }
  },
  {
@@ -2254,6 +2414,24 @@ window.TEAFaiCulture = [
      "h": "Gün boyu misafirperverlik",
      "p": "Atay yalnızca misafirler için değil, aile yemeklerinde, dükkânlarda pazarlık sırasında ve arkadaşlarla uzun sohbetlerde de ortaya çıkar. Çay genellikle evin reisi ya da ev sahibi tarafından hazırlanıp dökülür; çünkü bunu kendiniz yapmak bir saygı işaretidir. Fas'ta bir demlik çay, içeri girip dinlenmeye bir davettir."
     }
+   ],
+   "si": [
+    {
+     "h": "මින්ට් සහ සීනි සමඟ කොළ තේ",
+     "p": "මොරොක්කෝ අටායි සාමාන්‍යයෙන් පදනම ලෙස චීන ගන්පවුඩර් කොළ තේ භාවිතා කර සාදනු ලබන අතර, බඳුනේ නැවුම් මින්ට් කොළ සහ ත්‍යාගශීලී සීනි ප්‍රමාණයක් සමඟ පෙරනු ලැබේ. රසය සීතල මින්ට් සුවඳ සහ තද පැණි රසයේ යුගලනයක් වන අතර, ආහාර සමඟ හෝ පසුව ප්‍රබෝධයක් ලෙස පානය කරනු ලැබේ. එය කුඩා, අලංකාර කළ වීදුරුවල පිළිගන්වනු ලැබේ."
+    },
+    {
+     "h": "උසින් වත් කිරීම සහ පෙන",
+     "p": "අටායි වත් කරනු ලබන්නේ බඳුන වීදුරුවට ඉහළින් තබා, තුනී ධාරාවකින් ය. මෙය තේවලට වාතය මිශ්‍ර කර සිහින් පෙනක් උඩින් තැන්පත් වන අතර, හොඳ පෙනක් යනු හොඳින් සාදන ලද බඳුනක සලකුණයි. උසින් වත් කිරීම එයම අමුත්තා සඳහා කුඩා රංගනයකි — සැලකිල්ලේ ප්‍රකාශනයකි."
+    },
+    {
+     "h": "අමුත්තා සඳහා වීදුරු තුනක්",
+     "p": "අමුත්තෙකුට තේ වීදුරු තුනක් දක්වා පිළිගැන්වීමේ සිරිත සඳහා මොරොක්කෝව ප්‍රසිද්ධය. තේ පානය කරමින් ගත කරන කාලය පිළිගැනීමට ලක් වෙමින් ගත කරන කාලය වන බැවින්, එක් වීදුරුවක් අවසන් කර වහාම පිටත් වීමෙන් චාරිත්‍රයේ අරමුණ මග හැරෙන්නට පුළුවන. කියමනක් වීදුරු තුනට අර්ථයන් සම්බන්ධ කරයි — ජීවිතය මෙන් මෘදු බව, ආදරය මෙන් ශක්තිය, මරණය මෙන් තිත්ත බව."
+    },
+    {
+     "h": "දවස පුරාම ආගන්තුක සත්කාරය",
+     "p": "අටායි අමුත්තන් සඳහා පමණක් නොව පවුලේ ආහාරවලදී, කඩවල කේවල් කිරීමේදී, සහ මිතුරන් සමඟ දිගු සංවාදවලදී ද දිස් වේ. තේ සාමාන්‍යයෙන් සකස් කර වත් කරනු ලබන්නේ නිවසේ ප්‍රධානියා හෝ සත්කාරකයා විසින් වන අතර, එය ඔබ විසින්ම කිරීම ගෞරවයේ සලකුණක් වන බැවිනි. මොරොක්කෝවේ, තේ බඳුනක් යනු ඇතුළට පැමිණ විවේක ගැනීමට ආරාධනයකි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2274,7 +2452,8 @@ window.TEAFaiCulture = [
    "vi": "Trà xanh với bạc hà tươi và đường, rót từ trên cao để tạo lớp bọt — nghi thức chào đón của Maroc, nổi tiếng với ba ly trà mời khách.",
    "ar": "شاي أخضر مع نعناع طازج وسكر، يُسكب من ارتفاع لرفع رغوة — طقس الترحيب المغربي، المشهور بالأكواب الثلاثة المقدمة للضيف.",
    "ind": "Teh hijau dengan mint segar dan gula, dituang dari ketinggian untuk membangkitkan busa — ritual penyambutan Maroko, terkenal dengan tiga gelas yang ditawarkan kepada tamu.",
-   "tur": "Taze nane ve şekerle, köpük yükseltmek için yüksekten dökülen yeşil çay — bir misafire sunulan üç bardakla ünlü, Fas'ın karşılama ritüeli."
+   "tur": "Taze nane ve şekerle, köpük yükseltmek için yüksekten dökülen yeşil çay — bir misafire sunulan üç bardakla ünlü, Fas'ın karşılama ritüeli.",
+   "si": "නැවුම් මින්ට් සහ සීනි සමඟ කොළ තේ, පෙන නැගීමට උසකින් වත් කරනු ලැබේ — අමුත්තෙකුට පිළිගන්වන වීදුරු තුන සඳහා ප්‍රසිද්ධ මොරොක්කෝවේ පිළිගැනීමේ චාරිත්‍රය."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -2288,7 +2467,8 @@ window.TEAFaiCulture = [
    "vi": "Atay Maroc",
    "ar": "الأتاي المغربي",
    "ind": "Atay Maroko",
-   "tur": "Fas Atay'ı"
+   "tur": "Fas Atay'ı",
+   "si": "මොරොක්කෝ අටායි"
   }
  },
  {
@@ -2508,6 +2688,24 @@ window.TEAFaiCulture = [
      "h": "Raylar üzerinde semaver",
      "p": "Rusya kadar geniş bir ülkede uzun mesafe trenleri hayatın bir parçasıydı ve çay onların yoldaşıydı. Trenlerde çay, podstakannik denen metal tutacaklara oturtulmuş bardaklarda servis edilirdi; böylece vagon sallanırken içecek dökülmezdi — bu görüntü ikonik hale geldi. Bugün bile bir bardak sıcak çay, Rusya'nın uzun demiryolu yolculuklarında yolcuları rahatlatır."
     }
+   ],
+   "si": [
+    {
+     "h": "සමෝවාරය: තමාම නටන කේතලයක්",
+     "p": "සමෝවාරය යනු ජලය නටවා උණුසුම්ව තබා ගන්නා ලෝහ භාජනයකි; එහි නමේම රුසියානු භාෂාවෙන් 'තමාම නටනවා' යන අර්ථය 담 වී ඇත. සම්ප්‍රදායිකව එය දැව හෝ අඟුරු වලින් රත් කළ අතර, අද විදුලි වර්ග සුලභය. මේසය මැද සමෝවාරයක් තබා ගෙන, පවුලේ අය සහ අමුත්තන් එය වටා රැස් වී, තේ බොමින් දිගු වේලාවක් ගත කළහ."
+    },
+    {
+     "h": "Zavarka: තද සාන්ද්‍රණය, තනුක කරලා",
+     "p": "රුසියානු ක්‍රමය ආරම්භ වන්නේ zavarka වලිනි — තේ කොළ කුඩා භාජනයක ඉතා තදින් නිවා සාන්ද්‍රණයක් සාදා ගැනීමෙනි. පිළිගන්වන විට, කෝප්පයකට zavarka ස්වල්පයක් දමා, සමෝවාරයෙන් උණු ජලය පුරවා, ඔබේ රසයට අනුව තද ගතිය සකස් කර ගන්න. එක් වරක් නිවා ගත් විට, බොහෝ දෙනෙකුට පැය ගණනාවක් තිස්සේ, තම තමන් කැමති තද ගතියෙන් තේ රස විඳිය හැකිය."
+    },
+    {
+     "h": "ජෑම්, සහ දත් අතර සීනි",
+     "p": "රුසියානුවන් සම්ප්‍රදායිකව තේ සමඟ ජෑම් (varenye) හැන්දක් ගනිති, නැතහොත් එය තේ එකට මිශ්‍ර කරති. පැරණි සිරිතක් වූයේ සීනි කැටයක් දත් අතර තබා ගෙන, එමගින් තේ උරා බොමින්, පැණි රසය ටිකෙන් ටික ඇතුළු වීමට ඉඩ දීමයි. තිත්ත සහ පැණි රසය කුඩා ප්‍රමාණවලින් එකට රස විඳීම — සීතල රටක් විසින් හැඩ ගැසුණු තේ සංස්කෘතියකි."
+    },
+    {
+     "h": "දුම්රිය මාර්ගයේ සමෝවාරය",
+     "p": "රුසියාව තරම් විශාල රටක, දිගු දුර දුම්රිය ජීවිතයේ කොටසක් වූ අතර, තේ ඒවායේ සහකාරිය විය. දුම්රියවල, තේ පිළිගැන්වූයේ podstakannik නම් ලෝහ රඳවනයන්හි තැබූ වීදුරු වලිනි, එවිට මැදිරිය සෙලවෙන විට බීම නොවැගිරේ — එය සංකේතාත්මක රූපයක් බවට පත් වූ දසුනකි. අද පවා, උණු තේ වීදුරුවක් රුසියාවේ දිගු දුම්රිය ගමන්වල මගීන් සනසයි."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2528,7 +2726,8 @@ window.TEAFaiCulture = [
    "vi": "Nước luôn sôi trong samovar, nước cốt trà đặc zavarka được pha loãng theo khẩu vị — cách uống trà của người Nga, với mứt ăn kèm, viên đường ngậm giữa hai hàm răng, và chiếc samovar đồng hành trên những chuyến tàu dài.",
    "ar": "ماء يبقى يغلي في ساموفار، ومركز زافاركا قوي يُخفف حسب الذوق — طريقة روسيا في الشاي، مع المربى على الجانب، ومكعبات سكر بين الأسنان، والساموفار رفيق رحلات القطارات الطويلة.",
    "ind": "Air yang terus mendidih dalam samovar, konsentrat zavarka pekat yang diencerkan sesuai selera — cara minum teh Rusia, dengan selai di samping, gula batu di antara gigi, dan samovar sebagai pendamping perjalanan kereta yang panjang.",
-   "tur": "Semaverde kaynar halde tutulan su, damak zevkine göre seyreltilen koyu zavarka demi — yanında reçel, dişlerin arasında şeker küpleri ve uzun tren yolculuklarının yoldaşı semaverle Rusya'nın çay tarzı."
+   "tur": "Semaverde kaynar halde tutulan su, damak zevkine göre seyreltilen koyu zavarka demi — yanında reçel, dişlerin arasında şeker küpleri ve uzun tren yolculuklarının yoldaşı semaverle Rusya'nın çay tarzı.",
+   "si": "සමෝවාරයක ජලය නටමින් තබා ගෙන, තද zavarka සාන්ද්‍රණයක් රස අනුව තනුක කර බීම — ජෑම් පැත්තෙන් තබා ගෙන, සීනි කැට දත් අතර තබා ගෙන, සහ දිගු දුම්රිය ගමන්වල සහකාරියක් වූ සමෝවාරය සමඟ රුසියාවේ තේ බොන ආකාරය."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -2542,7 +2741,8 @@ window.TEAFaiCulture = [
    "vi": "Chiếc Samovar của Nga",
    "ar": "الساموفار الروسي",
    "ind": "Samovar Rusia",
-   "tur": "Rusya'nın Semaveri"
+   "tur": "Rusya'nın Semaveri",
+   "si": "රුසියාවේ සමෝවාරය"
   }
  },
  {
@@ -2561,7 +2761,8 @@ window.TEAFaiCulture = [
    "vi": "Cách Dùng Gaiwan — Pha Trà với Nắp, Chén và Đĩa",
    "ar": "كيفية استخدام الغايوان — التحضير بغطاء ووعاء وصحن",
    "ind": "Cara Menggunakan Gaiwan — Menyeduh dengan Tutup, Mangkuk, dan Tatakan",
-   "tur": "Gaiwan Nasıl Kullanılır — Kapak, Kâse ve Tabakla Demleme"
+   "tur": "Gaiwan Nasıl Kullanılır — Kapak, Kâse ve Tabakla Demleme",
+   "si": "ගයිවාන් එකක් භාවිතා කරන ආකාරය — පියනක්, බඳුනක් සහ පීරිසියක් සමඟ තේ නිවීම"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -2575,7 +2776,8 @@ window.TEAFaiCulture = [
    "vi": "Gaiwan — gồm nắp, chén và đĩa — là dụng cụ cơ bản nhất trong trà đạo Trung Hoa. Từ cách cầm đến cách xử lý khi quá nóng, bài viết này hướng dẫn người mới dùng qua từng bước.",
    "ar": "الغايوان — غطاء ووعاء وصحن — هو أبسط أواني الشاي الصينية. من كيفية إمساكه إلى ما تفعله عندما يبدو ساخنًا جدًا، يأخذ هذا الدليل المستخدمين لأول مرة عبر كل خطوة.",
    "ind": "Gaiwan — tutup, mangkuk, dan tatakan — adalah wadah paling dasar dalam teh Tiongkok. Dari cara memegangnya hingga apa yang dilakukan saat terasa terlalu panas, panduan ini menuntun pengguna pertama kali melalui setiap langkah.",
-   "tur": "Gaiwan — bir kapak, bir kâse ve bir tabak — Çin çayının en temel kabıdır. Nasıl tutulacağından, elinizi yaktığında ne yapacağınıza kadar bu rehber, ilk kez kullananları her adımda yönlendiriyor."
+   "tur": "Gaiwan — bir kapak, bir kâse ve bir tabak — Çin çayının en temel kabıdır. Nasıl tutulacağından, elinizi yaktığında ne yapacağınıza kadar bu rehber, ilk kez kullananları her adımda yönlendiriyor.",
+   "si": "ගයිවාන් — පියන, බඳුන සහ පීරිසිය — චීන තේ වල මූලිකම භාජනයයි. එය අල්ලන ආකාරයේ සිට, එය අධිකව රත් වූ විට කළ යුතු දේ දක්වා, මෙම මාර්ගෝපදේශය පළමු වරට භාවිතා කරන්නන් සෑම පියවරක් හරහාම රැගෙන යයි."
   },
   "body": {
    "ko": [
@@ -2841,6 +3043,28 @@ window.TEAFaiCulture = [
      "h": "Neden yeni başlayanlara uygun",
      "p": "Gaiwanın yıkanması basittir ve kapağı açabildiğiniz için yaprakların demlenirken açılışını izleyebilirsiniz. Demleme süresini özgürce kontrol edersiniz; bu da her çayın tatlı noktasını bulmayı kolaylaştırır. Ayrıca ucuzdur, bu yüzden ilk çay gereci olarak sıkça önerilir."
     }
+   ],
+   "si": [
+    {
+     "h": "කොටස් තුන — ස්වර්ගය, මිනිසුන්, පොළොව",
+     "p": "ගයිවාන් එකක කොටස් තුනක් ඇත: පියනක්, බඳුනක් සහ පීරිසියක්. සම්ප්‍රදායිකව පියන ස්වර්ගයටත්, පීරිසිය පොළොවටත්, ඒ අතර ඇති බඳුන මිනිසුන්ටත් සමාන කළ නිසා, එය සමහර විට 'කුසලතා තුනේ බඳුන' ලෙස හැඳින්වේ. පියන සුවඳ ද රඳවා ගනී, එබැවින් තේ නිවා ගත් පසු එය ඔසවා පියනේ ඇතුළු පැත්තේ සුවඳ බැලීම ගයිවාන් එකක් භාවිතා කිරීමේ කුඩා සතුටකි."
+    },
+    {
+     "h": "තේ නිවීම, පියවරෙන් පියවර",
+     "p": "පළමුව ගයිවාන් එක උණු ජලයෙන් රත් කර, ඒ ජලය ඉවත දමා, තේ කොළ දමන්න. අලුත් ජලය වත් කර, පියනෙන් වසා, තේ ටික වේලාවක් නිවෙන්නට හරින්න; ඉන්පසු පියනේ දාරයෙන් මතුපිට ඇති පෙණ ඉවත් කරන්න. තේ කොළ ප්‍රමාණය තේ වර්ගය අනුව වෙනස් වේ, නමුත් ගයිවාන් එකෙන් තුනෙන් එකක් පමණ පිරවීම ආරම්භ කිරීමට හොඳ තැනකි."
+    },
+    {
+     "h": "වත් කිරීම — පියනේ හිඩැසයි වැදගත් වන්නේ",
+     "p": "තේ ගලා යාමට කුඩා හිඩැසක් විවෘත වන පරිදි පියන මදක් ඇල කරන්න. ඔබේ මාපටැඟිල්ල සහ මැද ඇඟිල්ල අතර බඳුනේ දාරය අල්ලා, දබරැඟිල්ලෙන් පියනේ මුදුන මෘදුව තද කර එය තබා ගන්න. මැණික් කටුව ඇල කළ විට දියරය පමණක් වත් වන අතර, පියන කොළ රඳවා ගනී. හිඩැස අධිකව විශාල නම් කොළ ද පිටතට එන බැවින්, මුලදී එය පටුව තබා ගන්න."
+    },
+    {
+     "h": "එය අධිකව රත් වූ විට",
+     "p": "ගයිවාන් එක අල්ලන්නට බැරි තරම් රත් වී ඇත්නම්, සාමාන්‍යයෙන් ඔබ එය අධිකව පුරවා ඇත. දහයෙන් අටක් පමණ පමණක් පුරවන්න, තවමත් රත් නම්, පීරිසියෙන් එය ඔසවා ගෙනයන්න. දාරය මදක් පිටතට පැතිරෙන ගයිවාන් එකක් ඔබේ ඇඟිලි ස්පර්ශ වන තැන සිසිල්ව පවතින බැවින්, එය ආරම්භකයින්ට හිතකාමී තේරීමකි."
+    },
+    {
+     "h": "එය ආරම්භකයින්ට සුදුසු ඇයි",
+     "p": "ගයිවාන් එකක් සේදීම සරලය, තවද පියන විවෘත කළ හැකි නිසා තේ නිවෙන විට කොළ දිග හැරෙන ආකාරය ඔබට බලා සිටිය හැකිය. නිවෙන වේලාව ඔබට නිදහසේ පාලනය කළ හැකි බැවින්, එක් එක් තේ වල රසවත්ම තැන සොයා ගැනීම පහසුය. එය මිල අඩු ද වන අතර, එය බොහෝ විට පළමු තේ භාජනය ලෙස නිර්දේශ වන්නේ එබැවිනි."
+    }
    ]
   },
   "related": [
@@ -2864,7 +3088,8 @@ window.TEAFaiCulture = [
    "vi": "Chọn Ấm và Chén — Chất Liệu Làm Thay Đổi Hương Vị",
    "ar": "اختيار إبريق الشاي والأكواب — كيف تغيّر المادة المذاق",
    "ind": "Memilih Teko dan Cangkir — Bagaimana Bahan Mengubah Rasa",
-   "tur": "Demlik ve Fincan Seçimi — Malzeme Tadı Nasıl Değiştirir"
+   "tur": "Demlik ve Fincan Seçimi — Malzeme Tadı Nasıl Değiştirir",
+   "si": "තේ භාජනයක් සහ කෝප්ප තෝරා ගැනීම — ද්‍රව්‍යය රසය වෙනස් කරන ආකාරය"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -2878,7 +3103,8 @@ window.TEAFaiCulture = [
    "vi": "Sứ, thủy tinh, đất tử sa Nghi Hưng, sắt — mỗi chất liệu trà cụ hợp với những loại trà khác nhau. Bài viết này giải thích kích thước và hình dáng ảnh hưởng đến hương vị ra sao, và gợi ý một bộ đầu tiên hợp lý cho người mới.",
    "ar": "الخزف والزجاج وطين ييشينغ والحديد — كل مادة من مواد أدوات الشاي تناسب أنواع شاي مختلفة. يشرح هذا الدليل كيف يؤثر الحجم والشكل في النكهة، ويقترح مجموعة أولى معقولة للمبتدئين.",
    "ind": "Porselen, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh cocok untuk teh yang berbeda. Panduan ini menjelaskan bagaimana ukuran dan bentuk memengaruhi rasa, dan menyarankan set pertama yang masuk akal untuk pemula.",
-   "tur": "Porselen, cam, Yixing kili, demir — her çay gereci malzemesi farklı çaylara uyar. Bu rehber, boyut ve şeklin lezzeti nasıl etkilediğini açıklıyor ve yeni başlayanlar için mantıklı bir ilk set öneriyor."
+   "tur": "Porselen, cam, Yixing kili, demir — her çay gereci malzemesi farklı çaylara uyar. Bu rehber, boyut ve şeklin lezzeti nasıl etkilediğini açıklıyor ve yeni başlayanlar için mantıklı bir ilk set öneriyor.",
+   "si": "පෝසිලේන්, වීදුරු, යිෂිං මැටි, යකඩ — සෑම තේ භාජන ද්‍රව්‍යයක්ම විවිධ තේ වලට ගැලපේ. ප්‍රමාණය සහ හැඩය රසයට බලපාන ආකාරය මෙම මාර්ගෝපදේශය පැහැදිලි කරන අතර, ආරම්භකයින් සඳහා සාධාරණ පළමු කට්ටලයක් යෝජනා කරයි."
   },
   "body": {
    "ko": [
@@ -3144,6 +3370,28 @@ window.TEAFaiCulture = [
      "h": "Mantıklı bir ilk set",
      "p": "Yaklaşık 100–150 ml'lik bir porselen gaiwan ya da küçük porselen demlik ve iki fincanla başlayın. Nötr malzeme her çayı olduğu gibi gösterir ve bakımı kolaydır. İlginiz arttıkça, Yixing gibi tek bir çay ailesine ayrılmış bir demlik eklemek keyfin bir parçası haline gelir."
     }
+   ],
+   "si": [
+    {
+     "h": "ද්‍රව්‍ය, පළමු කොටස — පෝසිලේන් සහ වීදුරු",
+     "p": "පෝසිලේන් වල සිදුරු නැති සිනිඳු මතුපිටක් ඇති බැවින් එය සුවඳ අවශෝෂණය නොකරයි, එබැවින් එක් භාජනයකින් රසයන් ඉදිරියට ගෙන නොගොස් විවිධ තේ වර්ග රැසක් පිළිගැන්විය හැකිය. සියල්ලෙන් ටික ටික නිවන ආරම්භකයින් සඳහා එය ආරක්ෂිතම තේරීම වන්නේ එබැවිනි. වීදුරු වලින් තේ දියරයේ වර්ණය සහ කොළ දිග හැරෙන ආකාරය බලා සිටිය හැකිය — කොළ තේ සහ මල් තේ සඳහා අලංකාරය — නමුත් එය තාපය ඉක්මනින් නැති කර ගන්නා බැවින්, තේ ඉක්මනින් සිසිල් වේ."
+    },
+    {
+     "h": "ද්‍රව්‍ය, දෙවන කොටස — යිෂිං මැටි සහ යකඩ",
+     "p": "යිෂිං (zisha) මැටි වල තේ වල සුවඳ ක්‍රමයෙන් ඇතුළු කර ගන්නා සියුම් සිදුරු ඇති අතර, හොඳින් භාවිතා කළ භාජනයක් කාලයත් සමඟ එක් තේ පවුලක රසය වටකුරු කරන බව කියැවේ. එය සුවඳ අවශෝෂණය කරන බැවින්, එක් භාජනයක් උදාහරණයක් ලෙස ඌලොං සඳහා පමණක් වැනි එක් තේ පවුලක් සඳහා වෙන් කිරීම වඩාත් සුදුසුය. යකඩ කේතල ජලය නැටවීමට භාවිතා කරයි; ඒවා තාපය හොඳින් රඳවා ගන්නා අතර, ජලයට මෘදු ගතියක් දෙන බවට බොහෝ විට ප්‍රශංසා ලබයි."
+    },
+    {
+     "h": "ප්‍රමාණය සහ හැඩය රසයට බලපාන ආකාරය",
+     "p": "කුඩා භාජනයක් කොළ-ජල අනුපාතය ඉහළින් තබා සුවඳ සාන්ද්‍රණය කරයි, එය ගොංෆු නිවීමේ බොහෝ කෙටි නිවීම් වලට ගැලපේ. විශාල භාජනයක් බෙදා ගැනීම සඳහා එකවර බොහෝ ප්‍රමාණයක් නිවයි. එසේම තුණ්ඩය පිරිසිදුව වත් කර නවතින බවත්, පියන හොඳින් ගැලපෙන බවත් පරීක්ෂා කරන්න — මේවා ද්‍රව්‍යය තරම්ම වැදගත්ය."
+    },
+    {
+     "h": "කෝප්ප තෝරා ගැනීම",
+     "p": "කුඩා, සිහින් බිත්ති ඇති කෝප්ප සුවඳ රැස් කරන අතර එක් එක් උගුරේ උෂ්ණත්වය ඔබට දැනෙන්නට සලස්වයි. සුදු ඇතුළු පැත්තක් තේ වල සැබෑ වර්ණය පෙන්වන අතර, එය තේ වර්ගයක් හඳුනා ගැනීමේ සතුටට එක් වේ. ගොංෆු කට්ටල සමහර විට උස සුවඳ කෝප්පයක් රස බැලීමේ කෝප්පයක් සමඟ යුගල කරයි, නමුත් ඔබ ආරම්භ කරන විට එක් කෝප්පයක් හොඳටම ප්‍රමාණවත්ය."
+    },
+    {
+     "h": "සාධාරණ පළමු කට්ටලයක්",
+     "p": "මිලි ලීටර් 100–150 ක් පමණ වන පෝසිලේන් ගයිවාන් එකකින් හෝ කුඩා පෝසිලේන් භාජනයකින් සහ කෝප්ප දෙකකින් ආරම්භ කරන්න. මධ්‍යස්ථ ද්‍රව්‍යය සෑම තේ වර්ගයක්ම එය ඇති ආකාරයෙන්ම පෙන්වන අතර, රැකබලා ගැනීම පහසුය. ඔබේ උනන්දුව වැඩි වන විට, එක් තේ පවුලක් සඳහා යිෂිං වැනි වෙන් කළ භාජනයක් එක් කිරීම සතුටේ කොටසක් බවට පත් වේ."
+    }
    ]
   },
   "related": []
@@ -3164,7 +3412,8 @@ window.TEAFaiCulture = [
    "vi": "Bộ Trà Công Phu — Tên Gọi và Vai Trò của Từng Dụng Cụ",
    "ar": "مجموعة شاي غونغ فو — أسماء كل أداة وأدوارها",
    "ind": "Set Teh Gongfu — Nama dan Peran Setiap Alat",
-   "tur": "Gongfu Çay Seti — Her Aletin Adı ve Görevi"
+   "tur": "Gongfu Çay Seti — Her Aletin Adı ve Görevi",
+   "si": "ගොංෆු තේ කට්ටලය — එක් එක් මෙවලමේ නම් සහ කාර්යයන්"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -3178,7 +3427,8 @@ window.TEAFaiCulture = [
    "vi": "Khay trà, chén tống, chén ngửi hương và chén thưởng trà, trà hà và kim trà — bài viết này giải thích từng dụng cụ trên bàn trà công phu và cho thấy cách bày một bộ đơn giản tại nhà.",
    "ar": "صينية الشاي وإبريق العدالة وكوب الرائحة وكوب التذوق وحامل الشاي وإبرة الشاي — يشرح هذا الدليل كل أداة على طاولة شاي غونغ فو ويوضح كيفية تجميع نسخة بسيطة في البيت.",
    "ind": "Nampan teh, teko keadilan, cangkir aroma dan cangkir cicip, tempat teh dan jarum teh — panduan ini menjelaskan setiap alat di meja teh gongfu dan menunjukkan cara menyusun versi sederhana di rumah.",
-   "tur": "Çay tepsisi, adalet sürahisi, aroma fincanı ve tadım fincanı, çay tutacağı ve çay iğnesi — bu rehber, gongfu çay masasındaki her aleti açıklıyor ve evde basit bir düzenin nasıl kurulacağını gösteriyor."
+   "tur": "Çay tepsisi, adalet sürahisi, aroma fincanı ve tadım fincanı, çay tutacağı ve çay iğnesi — bu rehber, gongfu çay masasındaki her aleti açıklıyor ve evde basit bir düzenin nasıl kurulacağını gösteriyor.",
+   "si": "තේ තැටිය, සාධාරණත්ව කේතලය, සුවඳ කෝප්පය සහ රස බැලීමේ කෝප්පය, තේ රඳවනය සහ තේ ඉදිකටුව — මෙම මාර්ගෝපදේශය ගොංෆු තේ මේසයේ ඇති සෑම මෙවලමක්ම පැහැදිලි කරන අතර, නිවසේදී සරල ආකාරයක් එකලස් කරන ආකාරය පෙන්වයි."
   },
   "body": {
    "ko": [
@@ -3348,6 +3598,20 @@ window.TEAFaiCulture = [
      "h": "Yaprakları işlemek için aletler",
      "p": "Çay tutacağı (chahe), kuru yaprakları misafirlere sunmak ve demliğe yönlendirmek için kullanılan küçük, kepçe biçimli bir tabaktır; çay kaşığı (chaze) ise yaprakları ölçüp taşır. Çay iğnesi, ağza sıkışan yaprakları temizler; maşa ise yaprakları ve sıcak fincanları tutmak için kullanılır. Her alet küçüktür ama birlikte masayı düzenli ve telaşsız tutarlar."
     }
+   ],
+   "si": [
+    {
+     "h": "තේ තැටිය සහ සාධාරණත්ව කේතලය",
+     "p": "තේ තැටිය (chapan) යනු සියල්ල තබා ඇති පුවරුව වන අතර, තේ භාජන මත වත් කරන ජලය පහළ ජලාශයකට බැස යන පරිදි ජලය බැස යාමේ පද්ධතියක් සමඟ සාදා ඇත. එමඟින් ඔබ වාඩි වී සිටින තැනදීම භාජන රත් කර සේදිය හැකිය. සාධාරණත්ව කේතලය (gongdaobei) යනු නිවා ගත් තේ පළමුව ලබා ගන්නා කුඩා කේතලයක් වන අතර, එය කෝප්ප අතර බෙදීමට පෙර එහි තද ගතිය ඒකාකාර කරයි, එවිට පළමුව වත් කරන කෝප්පය අන්තිම කෝප්පය මෙන්ම රසවත් වේ."
+    },
+    {
+     "h": "සුවඳ කෝප්පය සහ රස බැලීමේ කෝප්පය",
+     "p": "සුවඳ කෝප්පය උස, පටු කෝප්පයකි: තේ පළමුව එයට වත් කර, ඉන්පසු රස බැලීමේ කෝප්පයට මාරු කරන අතර, හිස් සුවඳ කෝප්පයේ ඉතිරි වූ සුවඳ ඔබ ආඝ්‍රාණය කරයි. රස බැලීමේ කෝප්පය ඔබ සැබවින්ම බොන කෝප්පයයි. තායිවානයේ ජනප්‍රිය වූ මෙම යුගලනය, ඌලොං තේ වල ස්ථරගත සුවඳ අගය කිරීමට හොඳ ක්‍රමයකි."
+    },
+    {
+     "h": "කොළ හැසිරවීම සඳහා මෙවලම්",
+     "p": "තේ රඳවනයක් (chahe) යනු වියළි කොළ අමුත්තන්ට ඉදිරිපත් කිරීමට සහ ඒවා භාජනයට යොමු කිරීමට ඇති කුඩා හැන්දක හැඩැති තැටියක් වන අතර, තේ හැන්දක් (chaze) කොළ මැනීමට සහ ගෙනයාමට යොදා ගනී. තේ ඉදිකටුවක් තුණ්ඩයක සිර වූ කොළ ඉවත් කරන අතර, අඬු කොළ සහ උණු කෝප්ප හැසිරවීමට භාවිතා කරයි. සෑම මෙවලමක්ම කුඩා වුවත්, ඒවා එකට මේසය පිළිවෙලට සහ ඉක්මන් නොවී තබා ගනී."
+    }
    ]
   },
   "related": [
@@ -3370,7 +3634,8 @@ window.TEAFaiCulture = [
    "vi": "Sáu Loại Trà — Một Lá Trà, Nhiều Loại Trà",
    "ar": "أنواع الشاي الستة — ورقة واحدة وشايات كثيرة",
    "ind": "Enam Jenis Teh — Satu Daun, Banyak Teh",
-   "tur": "Altı Çay Türü — Bir Yaprak, Birçok Çay"
+   "tur": "Altı Çay Türü — Bir Yaprak, Birçok Çay",
+   "si": "තේ වර්ග හය — එක් කොළයක්, තේ වර්ග බොහොමයක්"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -3384,7 +3649,8 @@ window.TEAFaiCulture = [
    "vi": "Từ trà xanh đến hắc trà, mọi loại trà thực thụ đều bắt đầu từ lá của cùng một cây trà. Bài viết này giải thích quá trình oxy hóa và chế biến chia chúng thành sáu loại ra sao — và vì sao các loại đồ uống thảo mộc, nói một cách nghiêm ngặt, không phải là trà.",
    "ar": "من الشاي الأخضر إلى الشاي الداكن، كل شاي حقيقي يبدأ كورقة من نبتة الشاي نفسها. يشرح هذا المقال كيف تقسمها الأكسدة والمعالجة إلى ستة أنواع — ولماذا لا تُعد المشروبات العشبية، بالمعنى الدقيق، شايًا.",
    "ind": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun dari tanaman teh yang sama. Artikel ini menjelaskan bagaimana oksidasi dan pengolahan membaginya menjadi enam jenis — dan mengapa seduhan herbal, secara ketat, bukanlah teh.",
-   "tur": "Yeşil çaydan siyah çaya, her gerçek çay aynı çay bitkisinin yaprağından başlar. Bu yazı, oksidasyon ve işlemenin çayları nasıl altı türe ayırdığını — ve bitkisel demlemelerin, tam anlamıyla, neden çay olmadığını açıklıyor."
+   "tur": "Yeşil çaydan siyah çaya, her gerçek çay aynı çay bitkisinin yaprağından başlar. Bu yazı, oksidasyon ve işlemenin çayları nasıl altı türe ayırdığını — ve bitkisel demlemelerin, tam anlamıyla, neden çay olmadığını açıklıyor.",
+   "si": "කොළ තේ සිට අඳුරු තේ දක්වා, සෑම සැබෑ තේ වර්ගයක්ම එකම තේ ශාකයේ කොළයකින් ආරම්භ වේ. ඔක්සිකරණය සහ සැකසීම ඒවා වර්ග හයකට බෙදන ආකාරය — සහ ශාකසාර නිවීම්, නිශ්චිතවම, තේ නොවන්නේ ඇයිද යන්න මෙම ලිපිය පැහැදිලි කරයි."
   },
   "body": {
    "ko": [
@@ -4238,6 +4504,77 @@ window.TEAFaiCulture = [
       "Oksidasyon Yok · kafeinsiz · Su 90~100℃ · Yaprak · su 3 g / 200 ml · İlk dem 5 dk"
      ]
     }
+   ],
+   "si": [
+    {
+     "h": "සියල්ල එකම ශාකයෙන්",
+     "p": "මුළුමනින්ම වෙනස් ලෙස පෙනෙන තේ — කොළ තේ, කළු තේ, ඌලොං — සියල්ල ආරම්භ වන්නේ එකම තැනිනි: එක් විශේෂයක, Camellia sinensis, කොළ වලින්. ප්‍රභේදය, පස සහ නෙළන කාලය යන සියල්ල රසය හැඩ ගස්වන නමුත්, කොළයක් කුමන තේ වර්ගයක් බවට පත් වේද යන්න තීරණය කරන්නේ ප්‍රධාන වශයෙන් නෙළීමෙන් පසු එය සකසන ආකාරයයි."
+    },
+    {
+     "h": "ඔක්සිකරණයයි යතුර",
+     "p": "කොළයක් නෙළූ විගස, එහි ඇතුළත ඇති සංයෝග වාතය සමඟ ප්‍රතික්‍රියා කරන විට ඔක්සිකරණය ආරම්භ වේ. කොළ තේ වාෂ්ප කිරීමෙන් හෝ තැටියක බැදීමෙන් මෙය කලින් නවත්වන අතර, එහි නැවුම්, කොළ පැහැති ස්වභාවය රඳවා ගනී; කළු තේ රෝල් කර සම්පූර්ණයෙන් ඔක්සිකරණය කරන අතර, එයට රතු-දුඹුරු වර්ණයක් සහ ගැඹුරු රසයක් ලබා දෙයි. ඌලොං ඒ අතර කොතැනක හෝ නවතින අතර, එය අර්ධ වශයෙන් ඔක්සිකරණය වූ ලෙස හැඳින්වෙන්නේ එබැවිනි."
+    },
+    {
+     "h": "වර්ග හය එක බැල්මකින්",
+     "p": "සුදු තේ අවම වශයෙන් සකසන ලද්දකි — තරුණ අංකුර සරලව මැලවී වියළන බැවින්, එය මදක් පමණක් ඔක්සිකරණය වේ. කහ තේ කොළ තේ මෙන් බොහෝ දුරට සාදන නමුත් තෙත් කොළ ගොඩ ගැසීමේ පියවරක් එක් කරන අතර, එය රසය මෘදු කරයි. අඳුරු තේ එය සාදා ගත් පසු ක්ෂුද්‍රජීවී පශ්චාත්-පැසවීමකට භාජනය වන අතර, පු-අර් (pu'er) එයට වඩාත් ප්‍රසිද්ධ උදාහරණයයි. එකට ගත් විට, වර්ග හය නම් කොළ, සුදු, කහ, ඌලොං, කළු සහ අඳුරු තේය."
+    },
+    {
+     "h": "ශාකසාර බීම 'තේ' නොවන්නේ ඇයි",
+     "p": "තේ ලෙස හැඳින්වෙන බොහෝ එදිනෙදා බීම — බාර්ලි තේ, රූයිබොස්, කැමොමයිල් — වල තේ ශාක කොළ කිසිවක් අඩංගු නොවේ. නිශ්චිතවම ඒවා ශාකසාර නිවීම් හෝ ටිසේන් (tisanes) වන අතර, සැබෑ තේ වලින් වෙනම කාණ්ඩයකි. එය ඒවායේ රසය පිළිබඳ විනිශ්චයක් නොව, අමුද්‍රව්‍ය වල වෙනසක් පමණක් වන අතර, ලේබලය පරීක්ෂා කිරීම තේ ලෝකය පැහැදිලි කරන හොඳ පුරුද්දකි."
+    },
+    {
+     "h": "සෑම පවුලක්ම එක බැල්මකින්",
+     "p": "විශ්වකෝෂයේ එක් එක් පවුලේ මුදුනේ වරක් පෙන්වූ යොමු අගයන්, මෙහි රැස් කර ඇත: සෑම පවුලක් සඳහාම ඔක්සිකරණය, ජල උෂ්ණත්වය, කොළ-ජල අනුපාතය සහ පළමු නිවීමේ වේලාව."
+    },
+    {
+     "h": "කොළ තේ",
+     "p": [
+      "සියල්ල තීරණය වන්නේ නෙළීමෙන් පැය 24 ක් ඇතුළතයි — කාලය සමඟ තරගයක්.",
+      "ඔක්සිකරණය 0% · ජලය 70~80℃ · තේ කොළ · ජලය 2~3g / 200ml · පළමු නිවීම විනාඩි 1 තත්පර 30"
+     ]
+    },
+    {
+     "h": "ඌලොං තේ",
+     "p": [
+      "අර්ධ-ඔක්සිකරණයේ කලාව: ඔබට අවශ්‍ය නිශ්චිත තැනදීම නැවැත්වීම.",
+      "ඔක්සිකරණය 15–70% · ජලය 90~95℃ · තේ කොළ · ජලය 5~7g / 200ml · පළමු නිවීම තත්පර 45"
+     ]
+    },
+    {
+     "h": "කළු තේ",
+     "p": [
+      "සම්පූර්ණයෙන් ඔක්සිකරණය විය. රතු වර්ණය සහ කිරි රැගෙන යාමට ඇති ශක්තිය පැමිණෙන්නේ මෙතැනිනි.",
+      "ඔක්සිකරණය 80–95% · ජලය 95~100℃ · තේ කොළ · ජලය 3~5g / 200ml · පළමු නිවීම විනාඩි 3"
+     ]
+    },
+    {
+     "h": "අඳුරු තේ · පු-අර්",
+     "p": [
+      "මෙහි කාලය කල් තබා ගැනීමේ කාලයක් නොවේ; එය අමුද්‍රව්‍යයකි.",
+      "ඔක්සිකරණය පශ්චාත්-පැසවූ · ජලය 100℃ · තේ කොළ · ජලය 5g / 100ml · පළමු නිවීම තත්පර 20"
+     ]
+    },
+    {
+     "h": "සුදු තේ",
+     "p": [
+      "මැලවීම සහ වියළීම — ඇත්තේ එපමණයි, එබැවින් කොළයේ ගුණාත්මකභාවය ස්පර්ශ නොවී පෙන්වයි.",
+      "ඔක්සිකරණය 5–10% · ජලය 80~90℃ · තේ කොළ · ජලය 3~4g / 200ml · පළමු නිවීම විනාඩි 2"
+     ]
+    },
+    {
+     "h": "කහ තේ",
+     "p": [
+      "එක් අමතර පියවරක් — මුද්‍රා තැබූ කහ වීම — තේ පවුල් හයෙන් මෘදුම පැණි රසය ලබා දෙන අතර, ඒවායින් දුර්ලභම එකයි.",
+      "ඔක්සිකරණය 10–20% · ජලය 80~85℃ · තේ කොළ · ජලය 3g / 200ml · පළමු නිවීම විනාඩි 1 තත්පර 30"
+     ]
+    },
+    {
+     "h": "එදිනෙදා සහ ශාකසාර තේ",
+     "p": [
+      "තේ පඳුර වෙනුවට බැදපු හෝ වියළූ ධාන්‍ය, මුල් සහ පලතුරු, සහ මල් සහ කොළ ඒවා ඇති ආකාරයෙන්ම නිවා ගැනීම — කැෆේන් රහිත, සැමවිටම අත ළඟ.",
+      "ඔක්සිකරණය නැත · කැෆේන් රහිත · ජලය 90~100℃ · තේ කොළ · ජලය 3g / 200ml · පළමු නිවීම විනාඩි 5"
+     ]
+    }
    ]
   },
   "related": []
@@ -4258,7 +4595,8 @@ window.TEAFaiCulture = [
    "vi": "Nhiệt Độ Nước và Thời Gian Ngâm — Những Điều Cơ Bản",
    "ar": "درجة حرارة الماء ووقت النقع — الأساسيات",
    "ind": "Suhu Air dan Waktu Seduh — Dasar-dasarnya",
-   "tur": "Su Sıcaklığı ve Demleme Süresi — Temeller"
+   "tur": "Su Sıcaklığı ve Demleme Süresi — Temeller",
+   "si": "ජල උෂ්ණත්වය සහ නිවෙන වේලාව — මූලික කරුණු"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -4272,7 +4610,8 @@ window.TEAFaiCulture = [
    "vi": "Cùng một loại trà có thể có vị hoàn toàn khác nhau tùy thuộc vào nhiệt độ nước và thời gian ngâm. Bài viết này trình bày nhiệt độ khuyến nghị theo từng loại trà, vì sao nước quá nóng làm trà đắng, cách làm nguội nước bằng bình làm nguội, và cách kéo dài thời gian cho mỗi lần ngâm lại.",
    "ar": "يمكن أن يختلف مذاق الشاي نفسه تمامًا بحسب درجة حرارة الماء ووقت النقع. يغطي هذا الدليل درجات الحرارة الموصى بها حسب نوع الشاي، ولماذا يجعل الماء الساخن جدًا الشاي مرًا، وكيفية تبريد الماء بإبريق تبريد، وكيفية إطالة كل إعادة نقع.",
    "ind": "Teh yang sama bisa terasa sama sekali berbeda tergantung suhu air dan waktu seduh. Panduan ini mencakup suhu yang disarankan menurut jenis teh, mengapa air yang terlalu panas membuat teh pahit, cara mendinginkan air dengan teko pendingin, dan cara memperpanjang setiap seduhan ulang.",
-   "tur": "Aynı çay, su sıcaklığına ve demleme süresine bağlı olarak tamamen farklı tat verebilir. Bu rehber, çay türüne göre önerilen sıcaklıkları, çok sıcak suyun çayı neden acılaştırdığını, soğutma sürahisiyle suyun nasıl soğutulacağını ve her yeniden demde sürenin nasıl uzatılacağını anlatıyor."
+   "tur": "Aynı çay, su sıcaklığına ve demleme süresine bağlı olarak tamamen farklı tat verebilir. Bu rehber, çay türüne göre önerilen sıcaklıkları, çok sıcak suyun çayı neden acılaştırdığını, soğutma sürahisiyle suyun nasıl soğutulacağını ve her yeniden demde sürenin nasıl uzatılacağını anlatıyor.",
+   "si": "එකම තේ වර්ගය ජල උෂ්ණත්වය සහ නිවෙන වේලාව අනුව සම්පූර්ණයෙන්ම වෙනස් රසයක් ගත හැකිය. මෙම මාර්ගෝපදේශය තේ වර්ගය අනුව නිර්දේශිත උෂ්ණත්ව, අධිකව රත් වූ ජලය තේ තිත්ත කරන්නේ ඇයි, සිසිලන කේතලයකින් ජලය සිසිල් කරන ආකාරය, සහ එක් එක් නැවත නිවීම දිගු කරන ආකාරය ආවරණය කරයි."
   },
   "body": {
    "ko": [
@@ -4490,6 +4829,24 @@ window.TEAFaiCulture = [
      "h": "Demleme süresinin kuralı",
      "p": "Kısa başlayın — her çay, çok uzun demlenirse acı ve sert olur. Birkaç kez demlenen çaylarda her dem bir öncekinden daha az öz çıkarır; bu yüzden süreyi her turda biraz, yaklaşık on ila yirmi saniye uzatın. Bir fincan çok koyu gelirse süreyi kısaltın; zayıf gelirse uzatın — kendi ölçünüzü bulursunuz."
     }
+   ],
+   "si": [
+    {
+     "h": "උෂ්ණත්වය රසය වෙනස් කරන්නේ ඇයි",
+     "p": "ජලය උණුසුම් වන තරමට, කොළ වල සංයෝග වේගයෙන් සහ සම්පූර්ණයෙන් දිය වේ. විශේෂයෙන් තිත්ත සහ කහට සංඝටක ඉතා උණු ජලයේ පහසුවෙන් පිටතට එන බැවින්, තරුණ කොළ වලින් සාදන ලද තේ වර්ගයක් මත නටන ජලය වත් කිරීම පැණි රසය සහ උමාමි රසයට පෙර තිත්ත බව ඉදිරියට ගෙන එයි. අධිකව සිසිල් ජලයට ප්‍රතිවිරුද්ධ ගැටලුව ඇත: සුවඳ සහ රසය ඇතුළතම සිර වී පවතින අතර කෝප්පය රස නැති ලෙස දැනේ."
+    },
+    {
+     "h": "තේ වර්ගය අනුව නිර්දේශිත උෂ්ණත්ව",
+     "p": "තරුණ කොළ වලින් සාදන ලද කොළ තේ සාමාන්‍යයෙන් 70–80°C දී නිවන අතර, වඩාත් සියුම් කොළ තේ බොහෝ විට ඊටත් වඩා සිසිල් ජලය ඉල්ලා සිටියි. සුදු සහ කහ තේ 80–90°C ට ගැලපෙන අතර, ඌලොං 90°C ක් පමණ සහ ඊට ඉහළ උණු ජලයේ වඩාත් හොඳින් විවෘත වේ. කළු සහ අඳුරු තේ වල වඩාත් දැඩි, වඩාත් ඔක්සිකරණය වූ කොළ ඇති අතර, ඒවායේ හොඳම රසය ලබා ගැනීමට 95–100°C, නැටීමට ආසන්න ජලය අවශ්‍ය වේ."
+    },
+    {
+     "h": "කේතලයකින් ජලය සිසිල් කිරීම",
+     "p": "අලුතින් නටවූ ජලය සිසිලන කේතලයකට හෝ හිස් භාජනයකට වත් කිරීම එක් එක් මාරු කිරීමකදී එහි උෂ්ණත්වය දළ වශයෙන් අංශක දහයකින් අඩු කරයි. උෂ්ණත්වමානයක් නොමැතිව, ඔබට මාරු කිරීම් ගණන අනුව සකස් කළ හැකිය, නැතහොත් පියන ඉවත් කර ජලය ටික වේලාවක් තිබෙන්නට හැරිය හැකිය. කොළ තේ සඳහා, ආරක්ෂිත අනුපිළිවෙල නම් පළමුව ජලය සිසිල් කර, ඉන්පසු එය කොළ මත වත් කිරීමයි."
+    },
+    {
+     "h": "නිවෙන වේලාව සඳහා රීතිය",
+     "p": "කෙටියෙන් ආරම්භ කරන්න — ඕනෑම තේ වර්ගයක් අධික වේලාවක් නිවුණොත් තිත්ත සහ සැර වේ. කිහිප වරක් නිවන තේ සඳහා, එක් එක් නිවීම පෙර එකට වඩා අඩුවෙන් උරා ගන්නා බැවින්, සෑම වටයකදීම වේලාව තත්පර දහයක් හෝ විස්සක් පමණින් ටිකෙන් ටික දිගු කරන්න. කෝප්පයක් අධිකව තද නම්, වේලාව කෙටි කරන්න; අධිකව දුර්වල නම්, එය දිගු කරන්න, එවිට ඔබේම ප්‍රමිතිය ඔබ සොයා ගනු ඇත."
+    }
    ]
   },
   "related": []
@@ -4510,7 +4867,8 @@ window.TEAFaiCulture = [
    "vi": "Caffeine và Theanine — Sự Tỉnh Táo Bình Thản của Trà",
    "ar": "الكافيين والثيانين — يقظة الشاي الهادئة",
    "ind": "Kafein dan Teanin — Kewaspadaan Tenang dari Teh",
-   "tur": "Kafein ve Teanin — Çayın Sakin Uyanıklığı"
+   "tur": "Kafein ve Teanin — Çayın Sakin Uyanıklığı",
+   "si": "කැෆේන් සහ තියානීන් — තේ වල සන්සුන් සුපරීක්ෂාකාරී බව"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -4524,7 +4882,8 @@ window.TEAFaiCulture = [
    "vi": "Trà cũng chứa caffeine, nhưng thường ít hơn cà phê, và axit amin theanine làm dịu tác dụng của nó. Bài viết này giải thích loại trà nào chứa nhiều caffeine hơn, nên uống gì vào buổi tối, và sự thật về lần ngâm đầu tiên.",
    "ar": "يحتوي الشاي على الكافيين أيضًا، لكن عادة أقل من القهوة، وحمض الثيانين الأميني يخفف من تأثيره. يشرح هذا المقال أي الشايات تحمل كافيين أكثر، وماذا تشرب في المساء، وحقيقة النقعة الأولى.",
    "ind": "Teh juga mengandung kafein, tetapi biasanya lebih sedikit dari kopi, dan asam amino teanin melunakkan efeknya. Artikel ini menjelaskan teh mana yang mengandung lebih banyak kafein, apa yang diminum di malam hari, dan kebenaran tentang seduhan pertama.",
-   "tur": "Çay da kafein içerir ama genellikle kahveden azdır ve teanin adlı amino asit onun etkisini yumuşatır. Bu yazı, hangi çayların daha çok kafein taşıdığını, akşam ne içileceğini ve ilk dem hakkındaki gerçeği açıklıyor."
+   "tur": "Çay da kafein içerir ama genellikle kahveden azdır ve teanin adlı amino asit onun etkisini yumuşatır. Bu yazı, hangi çayların daha çok kafein taşıdığını, akşam ne içileceğini ve ilk dem hakkındaki gerçeği açıklıyor.",
+   "si": "තේ වල ද කැෆේන් අඩංගු වේ, නමුත් සාමාන්‍යයෙන් කෝපි වලට වඩා අඩුවෙන්, සහ ඇමයිනෝ අම්ලය තියානීන් එහි බලපෑම මෘදු කරයි. මෙම ලිපිය කුමන තේ වල වැඩි කැෆේන් ඇත්ද, සවසට බොන්නේ කුමක්ද, සහ පළමු නිවීම පිළිබඳ සත්‍යය පැහැදිලි කරයි."
   },
   "body": {
    "ko": [
@@ -4790,6 +5149,28 @@ window.TEAFaiCulture = [
      "h": "İlk dem efsanesi",
      "p": "İlk demi dökmenin kafeinin çoğunu uzaklaştırdığı iddiası bir abartıdır. Kafein tek bir durulamayla yıkanıp gitmez; birçok dem boyunca çözünmeye devam eder. Yaprakları durulamak esas olarak tozu yıkamak ve yaprakları uyandırmak içindir — çayınızı kafeinsizleştirmenin güvenilir bir yolu değildir."
     }
+   ],
+   "si": [
+    {
+     "h": "ඔව්, තේ වල කැෆේන් තිබේ",
+     "p": "තේ වල කැෆේන් අඩංගු වේ, නමුත් තේ කෝප්පයක සාමාන්‍යයෙන් කෝපි කෝප්පයකට වඩා අඩු ප්‍රමාණයක් ඇත. ප්‍රමාණය තේ වර්ගය සහ එය නිවන ආකාරය අනුව පුළුල් ලෙස වෙනස් වේ — තදින් නිවූ කෝප්පයක් සහ සැහැල්ලුවෙන් නිවූ කෝප්පයක් බොහෝ සෙයින් වෙනස් විය හැකිය. එබැවින් 'තේ වල කැෆේන් නැත' යන්න නිවැරදි නොවේ; 'බොහෝ විට කෝපි වලට වඩා මෘදුය' යන්න සත්‍යයට සමීපය."
+    },
+    {
+     "h": "තියානීන් වෙනස ඇති කරයි",
+     "p": "තේ වල තියානීන් නම් ඇමයිනෝ අම්ලයක් ද අඩංගු වන අතර, එය කැෆේන් වල උත්තේජක බලපෑම මෘදු කරයි. බොහෝ දෙනෙකුට කෝපි සමඟ මෙන් තියුණු ලෙස කැළඹීමට වඩා තේ පානයෙන් පසු සන්සුන්ව අවධානය යොමු වූ බවක් දැනෙන්නේ එබැවිනි. තියානීන් රසවත් උමාමි රසයේ ප්‍රභවයක් ද වන බැවින්, තියානීන් බහුල තේ — සියුම් සෙවණේ වගා කළ කොළ තේ වැනි — වඩාත් ගැඹුරු රසයක් ද ගැනීමට නැඹුරු වේ."
+    },
+    {
+     "h": "කුමන තේ වල වැඩි කැෆේන් ඇත්ද",
+     "p": "කැෆේන් තරුණ අංකුර සහ තරුණ කොළ වල වැඩි වීමට නැඹුරු වන බැවින්, අංකුර බහුල තේ සහ සම්පූර්ණ කොළ කුඩක් ලෙස පරිභෝජනය කරන මැචා, සාපේක්ෂව එයින් වැඩි ප්‍රමාණයක් ලබා දෙයි. කඳන් හෝ රළු කොළ වලින් සාදන ලද තේ, සහ බැදපු තේ, අඩු ප්‍රමාණයක් ගැනීමට නැඹුරු වේ. එකම තේ වර්ගය උණුසුම් ජලයේ වැඩි වේලාවක් නිවුණු විට ද වැඩි කැෆේන් නිකුත් කරයි."
+    },
+    {
+     "h": "හොඳ සවස් තේරීම්",
+     "p": "ඔබ කැෆේන් වලට සංවේදී නම්, හෝජිචා — බැදපු, සහ කැෆේන් අඩු — සැබෑ තේ අතර හොඳ සවස් තේරීමකි. බාර්ලි තේ, රූයිබොස්, කැමොමයිල් සහ වෙනත් ශාකසාර නිවීම් වල කැෆේන් කිසිවක් අඩංගු නොවන අතර, රාත්‍රියේදී පහසු තේරීම් වේ. ඔබට තවමත් සැබෑ තේ අවශ්‍ය නම්, එය සැහැල්ලුවෙන් සහ කුඩාවට නිවා, නින්දට පැය කිහිපයක් ඉතිරි කරන්න."
+    },
+    {
+     "h": "පළමු නිවීම පිළිබඳ මිථ්‍යාව",
+     "p": "පළමු නිවීම ඉවත දැමීමෙන් කැෆේන් වලින් වැඩි කොටසක් ඉවත් වන බවට වන ප්‍රකාශය අතිශයෝක්තියකි. කැෆේන් එක් සේදීමකින් සෝදා නොයයි; එය බොහෝ නිවීම් හරහා දිය වෙමින් පවතී. කොළ සේදීම ප්‍රධාන වශයෙන් දූවිලි සෝදා හැරීමට සහ කොළ අවදි කිරීමටයි — ඔබේ තේ කැෆේන් රහිත කිරීමට විශ්වාසදායක ක්‍රමයක් නොවේ."
+    }
    ]
   },
   "related": [
@@ -4812,7 +5193,8 @@ window.TEAFaiCulture = [
    "vi": "Cách Bảo Quản Trà — Tránh Xa Năm Thứ",
    "ar": "كيفية تخزين الشاي — أبعده عن خمسة أشياء",
    "ind": "Cara Menyimpan Teh — Jauhkan dari Lima Hal",
-   "tur": "Çay Nasıl Saklanır — Beş Şeyden Uzak Tutun"
+   "tur": "Çay Nasıl Saklanır — Beş Şeyden Uzak Tutun",
+   "si": "තේ ගබඩා කරන ආකාරය — දේවල් පහකින් ඈත් කර තබන්න"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -4826,7 +5208,8 @@ window.TEAFaiCulture = [
    "vi": "Trà rất nhạy cảm trước ánh sáng, độ ẩm, không khí, mùi lạ và nhiệt. Bài viết này trình bày các quy tắc cơ bản để giữ trà tươi, cách chọn hộp kín, những điều cần lưu ý khi bảo quản lạnh, và cảm nhận về thời gian giữ của từng loại trà.",
    "ar": "الشاي هش أمام الضوء والرطوبة والهواء والروائح والحرارة. يغطي هذا الدليل القواعد الأساسية للحفاظ على الشاي طازجًا، وكيفية اختيار وعاء محكم الإغلاق، وما يجب الانتباه له مع التبريد، وإحساسًا بمدة بقاء كل نوع.",
    "ind": "Teh rapuh menghadapi cahaya, kelembapan, udara, bau, dan panas. Panduan ini mencakup aturan dasar menjaga teh tetap segar, cara memilih wadah kedap udara, hal yang perlu diperhatikan dengan pendinginan, dan gambaran berapa lama setiap jenis bertahan.",
-   "tur": "Çay; ışık, nem, hava, kokular ve ısı karşısında hassastır. Bu rehber, çayı taze tutmanın temel kurallarını, hava geçirmez bir kabın nasıl seçileceğini, buzdolabında saklarken nelere dikkat edileceğini ve her türün ne kadar dayandığına dair bir fikir veriyor."
+   "tur": "Çay; ışık, nem, hava, kokular ve ısı karşısında hassastır. Bu rehber, çayı taze tutmanın temel kurallarını, hava geçirmez bir kabın nasıl seçileceğini, buzdolabında saklarken nelere dikkat edileceğini ve her türün ne kadar dayandığına dair bir fikir veriyor.",
+   "si": "ආලෝකය, තෙතමනය, වාතය, ගන්ධයන් සහ තාපය හමුවේ තේ බිඳෙනසුලුය. මෙම මාර්ගෝපදේශය තේ නැවුම්ව තබා ගැනීමේ මූලික රීති, වාතය නොයන බඳුනක් තෝරා ගන්නා ආකාරය, ශීතකරණයේ තැබීමේදී සැලකිලිමත් විය යුතු දේ, සහ එක් එක් වර්ගය කොපමණ කාලයක් තබා ගත හැකිද යන්න පිළිබඳ හැඟීමක් ආවරණය කරයි."
   },
   "body": {
    "ko": [
@@ -5043,6 +5426,24 @@ window.TEAFaiCulture = [
     {
      "h": "Her tür ne kadar dayanır",
      "p": "Yeşil çay çabuk değişir; bu yüzden açıldıktan sonra birkaç ay içinde bitirmek en iyisidir. Siyah çay (black) daha dayanıklıdır ve bir iki yıl iyi saklanır. Daha çok kavrulmuş oolonglar, daha yeşil olanlardan daha uzun dayanır. Pu'er gibi siyah çaylar (dark) istisnadır: oda sıcaklığında, biraz hava akışıyla yıllar içinde nasıl değiştiklerinin tadı çıkarılır; bu yüzden onlar için hava geçirmez bir mühürden çok havalandırma önemlidir."
+    }
+   ],
+   "si": [
+    {
+     "h": "තේ අකමැති දේවල් පහක්",
+     "p": "ආලෝකය තේ වර්ගයක වර්ණය සහ සුවඳ මැකී යවන අතර, තෙතමනය පුස් සහ අප්‍රසන්න රසයන්ට ආරාධනා කරයි. වාතය සමඟ ස්පර්ශය ඔක්සිකරණය ඉදිරියට ගෙන ගොස් නැවුම් සුවඳ සොරා ගන්නා අතර, වියළි කොළ අවට ගන්ධයන් ඉතා පහසුවෙන් අවශෝෂණය කරන බැවින් කුළුබඩු හෝ කෝපි අසල තේ ගබඩා කිරීම එය දූෂණය කරයි. ඉහළ උෂ්ණත්ව ද සුවඳ වේගයෙන් මැකී යවයි."
+    },
+    {
+     "h": "බඳුන සහ ස්ථානය — මූලික කරුණු",
+     "p": "සාමාන්‍ය රීතිය නම් සිසිල්, වියළි තැනක තබා ඇති පාරාන්ධ, වාතය නොයන බඳුනකි. තේ කුඩා බඳුන් වලට බෙදීමෙන් අදහස් වන්නේ ප්‍රධාන තොගය අඩු වාර ගණනක් විවෘත කරන බවයි, එබැවින් එය වැඩි කාලයක් සුවඳවත්ව පවතී. මුළුතැන්ගෙවල් උෂ්ණත්වය සහ ආර්ද්‍රතාවයෙන් උච්චාවචනය වන අතර ආහාර සුවඳින් පිරී ඇති බැවින්, වෙනත් කාමරයක අල්මාරියක් ඔබේ තේ සඳහා වඩාත් හොඳ නිවසකි."
+    },
+    {
+     "h": "ඔබ ශීතකරණයේ තබන්නේ නම්, ප්‍රවේශම් වන්න",
+     "p": "මුද්‍රාව සැබවින්ම වාතය නොයන තාක්, කොළ තේ සහ සියුම් ඌලොං ශීතකරණයේ වැඩි කාලයක් ඒවායේ නැවුම් බව රඳවා ගනී. නමුත් ඔබ සිසිල් තේ වහාම විවෘත කළහොත්, වාතයේ තෙතමනය කොළ මත ඝනීභවනය වන බැවින්, එය විවෘත කිරීමට පෙර බඳුන කාමර උෂ්ණත්වයට පැමිණීමට ඉඩ දෙන්න. විවෘත කළ පසු, තේ ශීතකරණය සහ රාක්කය අතර එහා මෙහා ගෙනයාමෙන් වළකින්න — එය සිසිල්ව තබා සාධාරණ ලෙස ඉක්මනින් අවසන් කරන්න."
+    },
+    {
+     "h": "එක් එක් වර්ගය කොපමණ කාලයක් තබා ගත හැකිද",
+     "p": "කොළ තේ ඉක්මනින් වෙනස් වන බැවින්, එය විවෘත කිරීමෙන් මාස කිහිපයක් ඇතුළත අවසන් කිරීම වඩාත් සුදුසුය; කළු තේ වඩාත් දැඩි වන අතර වසරක් හෝ දෙකක් හොඳින් තබා ගනී. වඩාත් තදින් බැදපු ඌලොං කොළ පැහැති ඒවාට වඩා වැඩි කාලයක් ගබඩා වේ. පු-අර් වැනි අඳුරු තේ ව්‍යතිරේකයයි: ඒවා වායු ප්‍රවාහයක් සමඟ කාමර උෂ්ණත්වයේදී වසර ගණනාවක් තිස්සේ වෙනස් වන ආකාරය වෙනුවෙන් රස විඳිනු ලබන බැවින්, වාතය නොයන මුද්‍රාවකට වඩා වාතාශ්‍රය වැදගත් වේ."
     }
    ]
   },
@@ -5265,6 +5666,24 @@ window.TEAFaiCulture = [
      "h": "Diğer kategoriler ve yaklaşan tören",
      "p": "Best of Matcha, Japonya'dan Furukawa Seicha'nın organik SAMIDORI toz çayına; Best of Botanicals ise ABD'den Seven Teahouse'un Orchid Frost sarı çayına gitti. Ödül töreni 22 Ocak 2027'de Fortnum & Mason'ın Londra'daki amiral mağazasında yapılacak; ertesi gün altın madalyalı çayların tadımı izleyecek."
     }
+   ],
+   "si": [
+    {
+     "h": "The Leafies යනු කුමක්ද?",
+     "p": "The Leafies යනු බ්‍රිතාන්‍ය තේ අධ්‍යාපන ආයතනයක් වන UK Tea Academy විසින් 2022 දී ආරම්භ කරන ලද ජාත්‍යන්තර තේ තරගයකි. සෑම වසරකම, ලොව පුරා සිට තේ සිය ගණනක් ඇතුළත් කරන අතර, විවිධ කර්මාන්ත සහ සංස්කෘතික පසුබිම් වලින් පැමිණි වෘත්තීය විනිසුරුවරුන්ගේ මණ්ඩලයක් අන්ධ රස බැලීමේ වට කිහිපයක් හරහා ජයග්‍රාහකයින් තෝරා ගනී. බ්‍රිතාන්‍ය සුඛෝපභෝගී සිල්ලර වෙළෙන්දා Fortnum & Mason මෙම සම්මාන සමඟ හවුල් වන අතර, ජයග්‍රාහී තේ වලට එහි රාක්කවල හෝ එහි දහවල් තේ මෙනුවේ ස්ථානයක් හිමි විය හැකිය."
+    },
+    {
+     "h": "Best in Show 2026 — ජපානයේ වාෂ්ප කළ කොළ තේ වර්ගයක්",
+     "p": "මෙවර ඉහළම ගෞරවය, Best in Show, ජපානයේ කගෝෂිමා හි Horiguchi Seicha (Wakoen) විසින් සාදන ලද Kodama 'Special Edition' වාෂ්ප කළ කොළ තේ වර්ගයට හිමි විය. වාෂ්ප කිරීම ජපන් කොළ තේ සාදන ආකාරයේ ලාක්ෂණික ක්‍රමයයි: කොළ තැටි තාපයෙන් නොව වාෂ්පයෙන් සවි කරන අතර, එය ඒවායේ කොළ සුවඳ සහ රසවත් ගැඹුර විශේෂයෙන්ම විචිත්‍රවත්ව තබා ගනී."
+    },
+    {
+     "h": "තායිවානයේ කළු තේ ඉදිරියට පැමිණේ",
+     "p": "Best of Black Teas ත්‍යාගය තායිවානයේ Fusensen විසින් සාදන ලද Mi Ying Black Tea වර්ගයට හිමි විය. 1985 දී තායිනාන් හි ආරම්භ කරන ලද මෙම සමාගම, නැගෙනහිර තායිවානයේ හුවාලියන් හි වගා කළ කොළ වලින් මෙම පැණි සුවඳැති කළු තේ වර්ගය නිර්මාණය කළේය. තායිවාන තේ Best of Retail Teas සම්මානය ද බෙදා ගත් අතර, තායිවානය මෙවර සම්මාන උළෙලේදී රන් පදක්කම් 7 ක්, රිදී පදක්කම් 22 ක් සහ ලෝකඩ පදක්කම් 26 ක් දිනා ගත්තේය. තායිවාන කළු තේ වර්ගයක් මෙම කාණ්ඩයේ ඉහළම ත්‍යාගය පළමුව දිනා ගත්තේ 2024 දී වන අතර, 2025 දී තායිවාන තේ වර්ගයක් Best in Show ත්‍යාගයම දිනා ගැනීමට ඉදිරියට ගියේය — තවමත් ශක්තිමත්ව පවතින ජයග්‍රාහී ගමනකි."
+    },
+    {
+     "h": "වෙනත් කාණ්ඩ, සහ ඉදිරියේ ඇති උත්සවය",
+     "p": "Best of Matcha ත්‍යාගය ජපානයේ Furukawa Seicha හි කාබනික SAMIDORI කුඩු තේ වර්ගයට හිමි වූ අතර, Best of Botanicals ත්‍යාගය ඇමරිකා එක්සත් ජනපදයේ Seven Teahouse හි Orchid Frost කහ තේ වර්ගයට හිමි විය. සම්මාන උත්සවය 2027 ජනවාරි 22 වන දින ලන්ඩනයේ Fortnum & Mason හි ප්‍රධාන වෙළඳසැලේදී පැවැත්වෙන අතර, ඊට පසුදා රන් පදක්කම් ලැබූ තේ රස බැලීමක් පැවැත්වේ."
+    }
    ]
   },
   "cat": "basics",
@@ -5286,7 +5705,8 @@ window.TEAFaiCulture = [
    "vi": "Kết quả của The Leafies 2026, giải thưởng trà quốc tế do UK Tea Academy tổ chức, đã được công bố. Giải thưởng cao nhất thuộc về một loại trà xanh hấp từ Kagoshima, Nhật Bản, giải trà đen thuộc về một loại trà đen thơm mùi mật ong từ Taiwan — và Taiwan giành tổng cộng 55 huy chương, trong đó có bảy huy chương vàng.",
    "ar": "صدرت نتائج ذا ليفيز 2026، جوائز الشاي الدولية التي تديرها أكاديمية الشاي في المملكة المتحدة. ذهبت الجائزة الكبرى إلى شاي أخضر مبخر من كاغوشيما في اليابان، وجائزة الشاي الأسود إلى شاي أسود برائحة العسل من تايوان — وحصدت تايوان 55 ميدالية في المجموع، منها سبع ذهبيات.",
    "ind": "Hasil The Leafies 2026 telah diumumkan, penghargaan teh internasional yang diselenggarakan oleh UK Tea Academy. Penghargaan tertinggi diraih teh hijau kukus dari Kagoshima, Jepang, hadiah teh hitam diraih teh hitam beraroma madu dari Taiwan — dan Taiwan menyapu 55 medali seluruhnya, termasuk tujuh emas.",
-   "tur": "UK Tea Academy tarafından düzenlenen uluslararası çay ödülleri The Leafies 2026'nın sonuçları açıklandı. En büyük onur, Japonya'nın Kagoshima kentinden buharda pişirilmiş bir yeşil çaya gitti; siyah çay ödülü, Tayvan'dan bal kokulu bir siyah çaya — ve Tayvan, yedisi altın olmak üzere toplam 55 madalya topladı."
+   "tur": "UK Tea Academy tarafından düzenlenen uluslararası çay ödülleri The Leafies 2026'nın sonuçları açıklandı. En büyük onur, Japonya'nın Kagoshima kentinden buharda pişirilmiş bir yeşil çaya gitti; siyah çay ödülü, Tayvan'dan bal kokulu bir siyah çaya — ve Tayvan, yedisi altın olmak üzere toplam 55 madalya topladı.",
+   "si": "UK Tea Academy විසින් පවත්වාගෙන යනු ලබන ජාත්‍යන්තර තේ සම්මාන වන The Leafies 2026 සඳහා ප්‍රතිඵල ප්‍රකාශයට පත් වී ඇත. ඉහළම ගෞරවය ජපානයේ කගෝෂිමා වල වාෂ්ප කළ කොළ තේ වර්ගයකට හිමි වූ අතර, කළු තේ ත්‍යාගය තායිවානයේ පැණි සුවඳැති කළු තේ වර්ගයකට හිමි විය — තවද රන් පදක්කම් හතක් ඇතුළුව, තායිවානය සමස්තයක් ලෙස පදක්කම් 55 ක් දිනා ගත්තේය."
   },
   "title": {
    "en": "The Leafies 2026 — The World's Teas of the Year",
@@ -5300,7 +5720,8 @@ window.TEAFaiCulture = [
    "vi": "The Leafies 2026 — Những loại trà của năm trên thế giới",
    "ar": "ذا ليفيز 2026 — أفضل شايات العالم لهذا العام",
    "ind": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini",
-   "tur": "The Leafies 2026 — Dünyanın Yılın Çayları"
+   "tur": "The Leafies 2026 — Dünyanın Yılın Çayları",
+   "si": "The Leafies 2026 — ලෝකයේ වසරේ තේ"
   }
  }
 ];
