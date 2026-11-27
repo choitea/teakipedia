@@ -7444,7 +7444,6 @@ window.TEAFaiData = (function () {
     "herb-astragalus": ["none", 0, 0],
     "herb-balloonflower": ["none", 0, 0],
     "herb-bamboo": ["none", 0, 0],
-    "herb-bamboo-shoot": ["none", 0, 0],
     "herb-bangpung": ["none", 0, 0],
     "herb-barley": ["none", 0, 0],
     "herb-beet": ["none", 0, 0],
@@ -7474,7 +7473,6 @@ window.TEAFaiData = (function () {
     "herb-cuscuta": ["none", 0, 0],
     "herb-dandelion": ["none", 0, 0],
     "herb-deodeok": ["none", 0, 0],
-    "herb-duhyang": ["none", 0, 0],
     "herb-dunggulle": ["none", 0, 0],
     "herb-eggplant": ["none", 0, 0],
     "herb-eucommia": ["none", 0, 0],
@@ -7485,12 +7483,9 @@ window.TEAFaiData = (function () {
     "herb-ginseng": ["none", 0, 0],
     "herb-grape": ["none", 0, 0],
     "herb-grapefruit": ["none", 0, 0],
-    "herb-green-onion": ["none", 0, 0],
     "herb-greentangerine": ["none", 0, 0],
     "herb-gugija": ["none", 0, 0],
     "herb-hallabong": ["none", 0, 0],
-    "herb-hazel": ["none", 0, 0],
-    "herb-herbtea": ["none", 0, 0],
     "herb-hibiscus": ["none", 0, 0],
     "herb-honeysuckle": ["none", 0, 0],
     "herb-jerusalemartichoke": ["none", 0, 0],
@@ -7505,29 +7500,22 @@ window.TEAFaiData = (function () {
     "herb-maesil": ["none", 0, 0],
     "herb-magnolia": ["none", 0, 0],
     "herb-magnolia-bark": ["none", 0, 0],
-    "herb-mallow": ["none", 0, 0],
     "herb-mate": ["mid", 30, 50],
     "herb-mugwort": ["none", 0, 0],
     "herb-mulberry": ["none", 0, 0],
     "herb-mulberry-fruit": ["none", 0, 0],
     "herb-mulberry-twig": ["none", 0, 0],
     "herb-mungbean": ["none", 0, 0],
-    "herb-mushroom": ["none", 0, 0],
-    "herb-naengcha": ["none", 0, 0],
     "herb-onion": ["none", 0, 0],
-    "herb-orientalmelon": ["none", 0, 0],
     "herb-peach": ["none", 0, 0],
     "herb-peachblossom": ["none", 0, 0],
-    "herb-peanut": ["none", 0, 0],
     "herb-peony": ["none", 0, 0],
-    "herb-pepper": ["none", 0, 0],
     "herb-peppermint": ["none", 0, 0],
     "herb-perilla": ["none", 0, 0],
     "herb-persimmon": ["none", 0, 0],
     "herb-pineapple": ["none", 0, 0],
     "herb-pineneedle": ["none", 0, 0],
     "herb-pinepollen": ["none", 0, 0],
-    "herb-platycodon": ["none", 0, 0],
     "herb-plum": ["none", 0, 0],
     "herb-plumblossom": ["none", 0, 0],
     "herb-polygala": ["none", 0, 0],
@@ -7536,7 +7524,6 @@ window.TEAFaiData = (function () {
     "herb-pumpkin": ["none", 0, 0],
     "herb-purple-corn": ["none", 0, 0],
     "herb-purple-perilla": ["none", 0, 0],
-    "herb-radishleaf": ["none", 0, 0],
     "herb-raisintree": ["none", 0, 0],
     "herb-redbean": ["none", 0, 0],
     "herb-redginseng": ["none", 0, 0],
@@ -7553,21 +7540,16 @@ window.TEAFaiData = (function () {
     "herb-sokdan": ["none", 0, 0],
     "herb-sophora": ["none", 0, 0],
     "herb-sorghum": ["none", 0, 0],
-    "herb-sotae": ["none", 0, 0],
     "herb-ssanghwa": ["none", 0, 0],
     "herb-strawberry": ["none", 0, 0],
-    "herb-sunflower": ["none", 0, 0],
     "herb-swordbean": ["none", 0, 0],
     "herb-tangerine-blossom": ["none", 0, 0],
     "herb-tangerine-peel": ["none", 0, 0],
-    "herb-taro": ["none", 0, 0],
     "herb-trifoliateorange": ["none", 0, 0],
     "herb-tteokcha": ["mid", 20, 40],
     "herb-turmeric": ["none", 0, 0],
     "herb-walnut": ["none", 0, 0],
     "herb-wasong": ["none", 0, 0],
-    "herb-watercaltrop": ["none", 0, 0],
-    "herb-watermelon": ["none", 0, 0],
     "herb-waxgourd": ["none", 0, 0],
     "herb-yam": ["none", 0, 0],
     "oolong-alishan": ["mid", 25, 45],
@@ -7638,7 +7620,22 @@ window.TEAFaiData = (function () {
     "yellow-wanxi-huangdacha": ["mid", 20, 40],
     "yellow-weishan-maojian": ["mid", 20, 40],
     "yellow-wenzhou-huangtang": ["low", 15, 30],
-    "yellow-yuanan-luyuan": ["mid", 20, 40]
+    "yellow-yuanan-luyuan": ["mid", 20, 40],
+    "herb-lemonbalm": ["none", 0, 0],
+    "herb-rosemary": ["none", 0, 0],
+    "herb-basil": ["none", 0, 0],
+    "herb-thyme": ["none", 0, 0],
+    "herb-tulsi": ["none", 0, 0],
+    "herb-fennel": ["none", 0, 0],
+    "herb-anise": ["none", 0, 0],
+    "herb-marigold": ["none", 0, 0],
+    "herb-sage": ["none", 0, 0],
+    "herb-lemonverbena": ["none", 0, 0],
+    "herb-cardamom": ["none", 0, 0],
+    "herb-clove": ["none", 0, 0],
+    "herb-staranise": ["none", 0, 0],
+    "herb-saffron": ["none", 0, 0],
+    "herb-fenugreek": ["none", 0, 0]
   };
 
   /* ── BEGIN generated: research ── */
@@ -19436,120 +19433,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-hazel",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "榛",
-    "sub": "Hazel Tea",
-    "alias": [
-      "榛子茶",
-      "개암나무차"
-    ],
-    "hz": "榛子茶",
-    "hs": "榛子茶",
-    "rom": "Gaeam-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-roast b-medium k-sweet r-clean s-hot p-dessert c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "개암나무 열매인 개암을 볶아 우린 차로, 견과류 같은 고소함이 납니다.",
-        "산에서 나는 열매를 저장해 두고 볶아 마시던 민간 차입니다."
-      ],
-      "en": [
-        "Hazelnuts from the Korean hazel, roasted and steeped — properly nutty.",
-        "A folk tea of foraged nuts, kept and roasted for the cup."
-      ],
-      "zh-CN": [
-        "榛子炒制后冲泡，有坚果的香气。",
-        "把山里的榛子存起来、炒来喝的民间茶。"
-      ],
-      "zh-TW": [
-        "榛子炒製後沖泡，有堅果的香氣。",
-        "把山裡的榛子存起來、炒來喝的民間茶。"
-      ]
-    },
-    "ko": {
-      "name": "개암차",
-      "oneLine": "산 개암나무 열매를 저장해 볶아 우린 민간 견과차 — 고소한 견과 향과 은은한 단맛이 부드러운 바디에 담깁니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분씩 두 번. 잘게 부수면 향이 더 납니다.",
-      "origin": "한국 전역의 산지. 개암나무 열매를 말려 볶아 씁니다.",
-      "process": "개암을 말려 볶은 뒤 뜨거운 물에 우립니다.",
-      "story": "가을 산에서 주운 개암을 저장해 두고 볶아 마시던 민간 차입니다.",
-      "flavor": "고소한 견과 향과 은은한 단맛, 부드러운 바디.",
-      "pairing": "고소한 견과 향과 부드러운 바디가 인절미·절편 같은 떡과 잘 어울리고, 구운 과자 같은 간식과도 결이 맞습니다. 견과 향이 떡의 담백함을 살려 줍니다. 매운 음식과는 고소함이 묻혀 어울리기 어렵습니다.",
-      "brewTip": "볶은 개암을 살짝 빻아 우리면 더 진합니다.",
-      "keep": "밀봉해 건조하게. 기름기가 있어 서늘하게 둡니다.",
-      "keywords": "개암차 개암나무 견과 고소한차"
-    },
-    "en": {
-      "name": "Hazel Tea",
-      "oneLine": "A folk tea of foraged Korean hazelnuts kept and roasted for the cup — toasty nut aroma and gentle sweetness in a soft body.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C, five minutes twice; crushing the nuts first deepens it.",
-      "origin": "Mountain areas across Korea; hazelnuts dried and roasted.",
-      "process": "Nuts dried, roasted, then steeped in hot water.",
-      "story": "A folk tea of autumn-gathered hazelnuts, stored and roasted for drinking.",
-      "flavor": "Toasty nut aroma, gentle sweetness, soft body.",
-      "pairing": "Its toasty nut aroma and soft body pair well with rice cakes like injeolmi and jeolpyeon, and match baked snacks too. The nutty scent lifts the cakes' plainness. Spicy food buries its nuttiness, making it a hard match.",
-      "brewTip": "Lightly crush the roasted nuts before steeping.",
-      "keep": "Sealed, dry and cool — the nut oils prefer it.",
-      "keywords": "hazel tea gaeam nutty Korea"
-    },
-    "zh-CN": {
-      "name": "榛子茶",
-      "oneLine": "将山中榛子储藏起来、炒后冲泡的民间坚果茶——醇香的坚果香与淡淡甘甜盛在柔和汤体里。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟，两泡。碾碎一点更香。",
-      "origin": "韩国各地山区，榛子晒干炒制。",
-      "process": "榛子晒干炒后热水冲泡。",
-      "story": "把秋天山里捡的榛子存起来炒着喝的民间茶。",
-      "flavor": "坚果焦香、微甜，口感柔和。",
-      "pairing": "烘焙的坚果香气与柔和体感与豆粉年糕、印花米糕等米糕很搭配，也配烘焙小吃。坚果香提升米糕的朴素。辛辣食物会掩埋它的坚果香，很难搭配。",
-      "brewTip": "炒过的榛子略碾碎再泡更浓。",
-      "keep": "密封干燥阴凉。",
-      "keywords": "榛子茶 坚果 韩国"
-    },
-    "zh-TW": {
-      "name": "榛子茶",
-      "oneLine": "將山中榛子儲藏起來、炒後沖泡的民間堅果茶——醇香的堅果香與淡淡甘甜盛在柔和湯體裡。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘，兩泡。碾碎一點更香。",
-      "origin": "韓國各地山區，榛子曬乾炒製。",
-      "process": "榛子曬乾炒後熱水沖泡。",
-      "story": "把秋天山裡撿的榛子存起來炒著喝的民間茶。",
-      "flavor": "堅果焦香、微甜，口感柔和。",
-      "pairing": "焦香的堅果香氣與柔和茶身，與黃豆粉年糕、切片年糕等年糕很搭，配烘烤點心也合。堅果香能提升年糕的樸實感。辛辣食物會掩蓋它的堅果香，較難搭配。",
-      "brewTip": "炒過的榛子略碾碎再泡更濃。",
-      "keep": "密封乾燥陰涼。",
-      "keywords": "榛子茶 堅果 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-cinnamon-twig",
     "group": "everyday",
     "kind": "tea",
@@ -20237,120 +20120,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-platycodon",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "桔",
-    "sub": "Platycodon Root Tea",
-    "alias": [
-      "桔梗",
-      "길경뿌리차",
-      "桔梗茶"
-    ],
-    "hz": "桔梗茶",
-    "hs": "桔梗茶",
-    "rom": "Gilgyeong-cha",
-    "temp": 100,
-    "tempRange": "100℃",
-    "leaf": "5g",
-    "water": "300ml",
-    "steeps": [
-      600
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-night a-herb b-medium k-crisp r-clean s-hot c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "길경은 도라지 뿌리를 말린 약재 이름으로, 그것을 달인 차입니다.",
-        "재료는 도라지차와 같고, 약재명을 붙여 부르는 쪽입니다."
-      ],
-      "en": [
-        "Gilgyeong is the herbal name for dried balloon-flower root, decocted as tea.",
-        "The same root as doraji tea, under its medicine name."
-      ],
-      "zh-CN": [
-        "桔梗是桔梗根晒干的药材名，把它煎来当茶。",
-        "与桔梗茶是同一种材料，只是用药材名来叫。"
-      ],
-      "zh-TW": [
-        "桔梗是桔梗根曬乾的藥材名，把它煎來當茶。",
-        "與桔梗茶是同一種材料，只是用藥材名來叫。"
-      ]
-    },
-    "ko": {
-      "name": "길경차",
-      "oneLine": "도라지 뿌리를 말린 약재 길경을 달인 뿌리차 — 쌉쌀한 뿌리 향과 옅은 단맛이 마른 뒷맛을 남깁니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "300ml에 5g",
-      "rounds": "1회 (달임)",
-      "steepBasis": "100도에서 10분 달입니다. 물을 넉넉히 잡으면 부드럽습니다.",
-      "origin": "한국 전역. 도라지의 뿌리를 말린 길경을 씁니다.",
-      "process": "말린 길경을 물에 넣고 달여 우립니다.",
-      "story": "길경은 도라지 뿌리의 약재 이름으로, 달여서 차로 마셔 왔습니다.",
-      "flavor": "쌉쌀한 뿌리 향과 옅은 단맛, 마른 뒷맛.",
-      "pairing": "쌉쌀한 뿌리 향이 기름진 식사 뒤에 마시면 입안을 마른 느낌으로 정리해 줍니다. 대추와 함께 달이면 쓴맛이 부드러워져 곶감 같은 단 간식과도 어울립니다. 매운 음식과는 쌉쌀함이 겹칠 수 있습니다.",
-      "brewTip": "대추나 감초를 조금 넣으면 쌉쌀함이 부드러워집니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "길경차 도라지뿌리桔梗 약재차"
-    },
-    "en": {
-      "name": "Platycodon Root Tea",
-      "oneLine": "Balloon-flower root under its medicine name gilgyeong, decocted — the same root as doraji tea, with bittersweet root aroma and a dry finish.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 300 ml",
-      "rounds": "1 decoction",
-      "steepBasis": "Simmer 10 minutes at 100 °C; more water keeps it gentler.",
-      "origin": "Across Korea; dried balloon-flower root, sold as gilgyeong.",
-      "process": "Dried root simmered in water and strained.",
-      "story": "Gilgyeong is the medicine name of the doraji root, long decocted as tea.",
-      "flavor": "Bittersweet root aroma, light sweetness, a dry finish.",
-      "pairing": "Its bittersweet root aroma tidies the palate with a dry feel after a rich meal. Decocted with jujube, the bitterness softens and it suits sweet snacks like dried persimmon. With spicy food, the bitterness can stack up.",
-      "brewTip": "A little jujube or licorice softens the bitterness.",
-      "keep": "Sealed and dry.",
-      "keywords": "platycodon root tea gilgyeong doraji herbal"
-    },
-    "zh-CN": {
-      "name": "桔梗茶",
-      "oneLine": "桔梗是桔梗根晒干的药材名，煎煮而成的根茶与桔梗茶同源——微苦的根香与淡淡甘甜留下干爽余韵。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "300毫升配5克",
-      "rounds": "1煎",
-      "steepBasis": "100度煎10分钟。水多一点更柔和。",
-      "origin": "韩国全境，用晒干的桔梗根（桔梗）。",
-      "process": "干桔梗入水煎煮后饮用。",
-      "story": "桔梗是桔梗根的药材名，一直煎来当茶喝。",
-      "flavor": "微苦的根香、淡甜，收尾干爽。",
-      "pairing": "苦甜的根茎香气在一顿丰盛餐食后以干爽感收拾味觉。与红枣一起煎煮，苦味柔和，也适合柿饼等甜味小吃。配辛辣食物时，苦味会叠加。",
-      "brewTip": "加一点大枣或甘草，苦味更柔和。",
-      "keep": "密封干燥。",
-      "keywords": "桔梗茶 桔梗根 药材茶"
-    },
-    "zh-TW": {
-      "name": "桔梗茶",
-      "oneLine": "桔梗是桔梗根曬乾的藥材名，煎煮而成的根茶與桔梗茶同源——微苦的根香與淡淡甘甜留下乾爽餘韻。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "300毫升配5克",
-      "rounds": "1煎",
-      "steepBasis": "100度煎10分鐘。水多一點更柔和。",
-      "origin": "韓國全境，用曬乾的桔梗根（桔梗）。",
-      "process": "乾桔梗入水煎煮後飲用。",
-      "story": "桔梗是桔梗根的藥材名，一直煎來當茶喝。",
-      "flavor": "微苦的根香、淡甜，收尾乾爽。",
-      "pairing": "苦甜的根部香氣，以乾爽的口感在豐盛餐食後收拾味蕾。與大棗一起煎煮，苦味變柔和，也適合柿餅等甜點心。配辛辣食物時，苦味會疊加。",
-      "brewTip": "加一點大棗或甘草，苦味更柔和。",
-      "keep": "密封乾燥。",
-      "keywords": "桔梗茶 桔梗根 藥材茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-selfheal",
     "group": "everyday",
     "kind": "tea",
@@ -20577,119 +20346,6 @@ window.TEAFaiData = (function () {
       "brewTip": "連根曬乾的香氣更濃。",
       "keep": "密封乾燥。",
       "keywords": "薺菜茶 春季野菜 民間茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-naengcha",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "冷",
-    "sub": "Cold Herbal Tea",
-    "alias": [
-      "冷茶",
-      "아이스 대용차"
-    ],
-    "hz": "冷茶",
-    "hs": "冷茶",
-    "rom": "Naengcha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "10g",
-    "water": "500ml",
-    "steeps": [
-      600
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-roast b-light k-sweet r-clean s-iced p-meal c-none m-refresh",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "보리차·옥수수차 같은 대용차를 끓여 식힌 뒤 차갑게 마시는 여름철 방식입니다.",
-        "끓여서 충분히 식힌 뒤 냉장해 두고 물처럼 마십니다."
-      ],
-      "en": [
-        "Grain and herbal teas such as barley or corn tea, boiled, cooled and drunk cold — a summer way of drinking.",
-        "Boiled, fully cooled, then kept in the fridge and drunk like water."
-      ],
-      "zh-CN": [
-        "把大麦茶、玉米茶等代用茶煮好放凉后冷饮的夏季方式。",
-        "煮好充分放凉后冷藏，像水一样喝。"
-      ],
-      "zh-TW": [
-        "把大麥茶、玉米茶等代用茶煮好放涼後冷飲的夏季方式。",
-        "煮好充分放涼後冷藏，像水一樣喝。"
-      ]
-    },
-    "ko": {
-      "name": "냉차",
-      "oneLine": "대용차를 끓여 식혀 물처럼 마시는 여름의 방식 — 재료 본연의 구수함이 차가울 때 더 깔끔하게 느껴집니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "500ml에 10g",
-      "rounds": "1회 (식혀 마심)",
-      "steepBasis": "95도 이상에서 10분 끓이거나 우린 뒤, 충분히 식혀 냉장합니다.",
-      "origin": "한국 전역의 여름철 음용 방식. 보리·옥수수 등 대용차를 식혀 마십니다.",
-      "process": "대용차를 끓인 뒤 식혀 냉장 보관하며 마십니다.",
-      "story": "곡물차를 끓여 두었다가 차갑게 마시던 여름의 생활 방식에서 온 이름입니다.",
-      "flavor": "재료 본연의 구수함이 차갑게 마시면 더 깔끔하게 느껴집니다.",
-      "pairing": "차갑게 마실 때 더 깔끔한 구수함이 떡볶이·매운 닭발 같은 매운 음식의 열기를 식혀 줍니다. 여름철 비빔국수 같은 식사와도 잘 어울립니다. 따뜻한 음식과는 온도가 어긋나 따로 즐기는 게 좋습니다.",
-      "brewTip": "완전히 식힌 뒤 냉장해야 맛이 변하지 않습니다.",
-      "keep": "냉장 보관하고 이틀 안에 마십니다.",
-      "keywords": "냉차 아이스티 여름 대용차 냉장"
-    },
-    "en": {
-      "name": "Cold Herbal Tea",
-      "oneLine": "Korea's summer way of drinking — grain and herbal teas boiled, cooled and kept cold like water, their own toastiness tasting cleaner when chilled.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "10 g to 500 ml",
-      "rounds": "1 batch, served chilled",
-      "steepBasis": "Boil or steep 10 minutes, then cool fully and refrigerate.",
-      "origin": "A summer drinking custom across Korea; barley, corn and other substitutes served cold.",
-      "process": "The tea is boiled, cooled, and kept cold in the fridge.",
-      "story": "From the summer habit of boiling grain tea ahead and drinking it cold.",
-      "flavor": "The ingredient's own toastiness tastes cleaner when cold.",
-      "pairing": "Its toastiness, cleaner when cold, cools the heat of spicy food like tteokbokki and spicy chicken feet. It also pairs well with summer meals like bibim noodles. With hot food the temperatures are at odds, so enjoy it separately.",
-      "brewTip": "Cool it completely before refrigerating to keep the taste true.",
-      "keep": "Refrigerated; drink within two days.",
-      "keywords": "cold tea naengcha iced summer Korea"
-    },
-    "zh-CN": {
-      "name": "冷茶",
-      "oneLine": "把代用茶煮好放凉、冷藏后像水一样饮用的夏日方式——食材本身的焦香在冰凉时更显干净利落。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "500毫升配10克",
-      "rounds": "1次（放凉饮用）",
-      "steepBasis": "95度以上煮或泡10分钟，充分放凉后冷藏。",
-      "origin": "韩国夏季的饮用方式，大麦、玉米等代用茶放凉喝。",
-      "process": "代用茶煮好放凉，冷藏保存饮用。",
-      "story": "源于把谷物茶煮好、夏天冷着喝的生活方式。",
-      "flavor": "材料本身的焦香，冷饮更清爽。",
-      "pairing": "冰镇时更清爽的烘焙香能冷却辣炒年糕、辣鸡爪等辛辣食物的热感。也与拌面等夏日餐食很搭配。与热食同享时温度相冲，请分开享用。",
-      "brewTip": "完全放凉后再冷藏，味道不变。",
-      "keep": "冷藏，两天内喝完。",
-      "keywords": "冷茶 冰茶 夏季 代用茶"
-    },
-    "zh-TW": {
-      "name": "冷茶",
-      "oneLine": "把代用茶煮好放涼、冷藏後像水一樣飲用的夏日方式——食材本身的焦香在冰涼時更顯乾淨俐落。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "500毫升配10克",
-      "rounds": "1次（放涼飲用）",
-      "steepBasis": "95度以上煮或泡10分鐘，充分放涼後冷藏。",
-      "origin": "韓國夏季的飲用方式，大麥、玉米等代用茶放涼喝。",
-      "process": "代用茶煮好放涼，冷藏保存飲用。",
-      "story": "源於把穀物茶煮好、夏天冷著喝的生活方式。",
-      "flavor": "材料本身的焦香，冷飲更清爽。",
-      "pairing": "冷飲時更乾淨的焦香，能冷卻辣炒年糕、辣雞爪等辛辣食物的熱氣。也與拌冷麵等夏季餐食很搭。與熱食溫度相衝，建議分開享用。",
-      "brewTip": "完全放涼後再冷藏，味道不變。",
-      "keep": "冷藏，兩天內喝完。",
-      "keywords": "冷茶 冰茶 夏季 代用茶"
     },
     "originCountryCode": "kr"
   },
@@ -21381,120 +21037,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-green-onion",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "蔥",
-    "sub": "Welsh Onion Tea",
-    "alias": [
-      "파뿌리차",
-      "大蔥",
-      "大蔥茶"
-    ],
-    "hz": "大蔥茶",
-    "hs": "大葱茶",
-    "rom": "Daepa-cha",
-    "temp": 100,
-    "tempRange": "100℃",
-    "leaf": "10g",
-    "water": "300ml",
-    "steeps": [
-      600
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-night a-herb b-medium k-crisp r-clean s-hot c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "대파의 흰 부분과 뿌리를 달인 민간 차로, 파 향이 은은하게 납니다.",
-        "예부터 집에서 몸이 으슬으슬할 때 달여 마시던 방식입니다."
-      ],
-      "en": [
-        "The white part and roots of Korean leek, decocted — a gentle onion aroma.",
-        "A home decoction long made when feeling a chill coming on."
-      ],
-      "zh-CN": [
-        "把大葱的白茎与根煎煮的民间茶，带淡淡葱香。",
-        "是从前在家觉得发冷时煎来喝的方式。"
-      ],
-      "zh-TW": [
-        "把大蔥的白莖與根煎煮的民間茶，帶淡淡蔥香。",
-        "是從前在家覺得發冷時煎來喝的方式。"
-      ]
-    },
-    "ko": {
-      "name": "대파차",
-      "oneLine": "몸이 으슬으슬할 때 집에서 달여 마시던 민간차 — 대파 흰 줄기와 뿌리에서 은은한 파 향과 옅은 단맛이 납니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "300ml에 10g",
-      "rounds": "1회 (달임)",
-      "steepBasis": "100도에서 10분 달입니다. 생강을 넣으면 향이 깊어집니다.",
-      "origin": "한국 전역. 대파의 흰 줄기와 뿌리를 씁니다.",
-      "process": "대파를 깨끗이 씻어 물에 넣고 달여 우립니다.",
-      "story": "집에서 몸이 으슬으슬할 때 달여 마시던 민간 방식입니다.",
-      "flavor": "은은한 파 향과 옅은 단맛, 따뜻한 뒷맛.",
-      "pairing": "은은한 파 향과 따뜻한 뒷맛이 추운 날 수제비나 칼국수 같은 따뜻한 음식과 잘 어울립니다. 밤 시간에 곶감 같은 간식과 함께해도 좋습니다. 시원한 음식과는 온도의 결이 달라 따로 즐기세요.",
-      "brewTip": "파뿌리의 흙을 잘 씻어 내고 쓰세요.",
-      "keep": "달인 차는 냉장해 그날 마십니다.",
-      "keywords": "대파차 파뿌리 민간차 생강"
-    },
-    "en": {
-      "name": "Welsh Onion Tea",
-      "oneLine": "A home decoction long made when a chill came on — leek whites and roots give a gentle onion aroma, light sweetness and a warming finish.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "10 g to 300 ml",
-      "rounds": "1 decoction",
-      "steepBasis": "Simmer 10 minutes at 100 °C; ginger deepens the aroma.",
-      "origin": "Across Korea; the white stalk and roots of daepa leek.",
-      "process": "Leek washed, then simmered in water and strained.",
-      "story": "A home decoction made when a chill was coming on.",
-      "flavor": "Gentle onion aroma, light sweetness, a warming finish.",
-      "pairing": "Its gentle onion aroma and warming finish pair well with warm food like sujebi and knife-cut noodles on a cold day. In the evening it also goes nicely with snacks like dried persimmon. Cool dishes run on a different temperature track, so enjoy it separately.",
-      "brewTip": "Wash the soil from the roots well before use.",
-      "keep": "Refrigerate the decoction and drink it the same day.",
-      "keywords": "welsh onion tea daepa leek folk Korea"
-    },
-    "zh-CN": {
-      "name": "大葱茶",
-      "oneLine": "身体发冷时在家煎煮的民间茶——大葱白茎与根散发淡淡葱香、淡淡甜味与温暖余韵。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "300毫升配10克",
-      "rounds": "1煎",
-      "steepBasis": "100度煎10分钟。加生姜香气更深。",
-      "origin": "韩国全境，用大葱的白茎与根。",
-      "process": "大葱洗净后入水煎煮。",
-      "story": "是从前在家觉得发冷时煎来喝的民间方式。",
-      "flavor": "淡淡葱香、微甜，收尾温暖。",
-      "pairing": "温和的葱香与温暖收尾与面疙瘩汤、刀切面等寒冷日子的热食很搭配。晚间也与柿饼等小吃相宜。清凉的菜肴走的是不同的温度路线，请分开享用。",
-      "brewTip": "葱根的泥土要洗干净。",
-      "keep": "煎好的茶冷藏，当天喝完。",
-      "keywords": "大葱茶 葱根 民间茶"
-    },
-    "zh-TW": {
-      "name": "大蔥茶",
-      "oneLine": "身體發冷時在家煎煮的民間茶——大蔥白莖與根散發淡淡蔥香、淡淡甜味與溫暖餘韻。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "300毫升配10克",
-      "rounds": "1煎",
-      "steepBasis": "100度煎10分鐘。加生薑香氣更深。",
-      "origin": "韓國全境，用大蔥的白莖與根。",
-      "process": "大蔥洗淨後入水煎煮。",
-      "story": "是從前在家覺得發冷時煎來喝的民間方式。",
-      "flavor": "淡淡蔥香、微甜，收尾溫暖。",
-      "pairing": "溫和的蔥香與暖和的收尾，與冷天裡的麵疙瘩湯、刀削麵等熱食很搭。晚間配柿餅等點心也不錯。冰涼料理溫度路線不同，建議分開享用。",
-      "brewTip": "蔥根的泥土要洗乾淨。",
-      "keep": "煎好的茶冷藏，當天喝完。",
-      "keywords": "大蔥茶 蔥根 民間茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-deodeok",
     "group": "everyday",
     "kind": "tea",
@@ -22174,117 +21716,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-duhyang",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "香",
-    "sub": "Duhyang Tea",
-    "alias": [],
-    "hz": "杜香茶",
-    "hs": "杜香茶",
-    "rom": "Duhyang-cha",
-    "temp": 90,
-    "tempRange": "85~95℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      180,
-      180
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-herb b-light r-clean s-hot p-solo c-none m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "두향 잎을 그늘에서 말려 우린 약초차입니다.",
-        "향이 짙어 소량만 우려도 향이 충분합니다."
-      ],
-      "en": [
-        "Duhyang leaves shade-dried and steeped.",
-        "So fragrant that a little goes a long way."
-      ],
-      "zh-CN": [
-        "杜香叶阴干后冲泡的草药茶。",
-        "香气浓，少量就够香。"
-      ],
-      "zh-TW": [
-        "杜香葉陰乾後沖泡的草藥茶。",
-        "香氣濃，少量就夠香。"
-      ]
-    },
-    "ko": {
-      "name": "두향차",
-      "oneLine": "향이 짙어 소량만 우려도 충분한 산지의 약초차 — 그늘에 말린 잎에서 짙은 풀 향과 쌉싸름한 뒷맛이 번집니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "90도에서 3분씩 두 번. 향이 강해 짧게 우려도 충분합니다.",
-      "origin": "한국의 산지. 향이 강한 두향 잎을 말려 씁니다.",
-      "process": "잎을 그늘에서 말려 뜨거운 물에 우립니다.",
-      "story": "두향은 향이 짙어 예부터 약초로 써 왔고, 잎을 차로도 마셨습니다.",
-      "flavor": "짙은 풀 향과 쌉싸름한 뒷맛.",
-      "pairing": "짙은 풀 향과 쌉싸름한 뒷맛이 삼겹살 같은 기름진 음식 뒤에 마시면 느끼함을 씻어 줍니다. 향이 강해 진한 양념 음식과도 균형이 맞습니다. 섬세한 꽃향 디저트와는 향이 부딪힐 수 있습니다.",
-      "brewTip": "향이 강해 처음에는 짧게 우려 보세요.",
-      "keep": "밀봉해 서늘하고 건조하게.",
-      "keywords": "두향차 약초차 전통차"
-    },
-    "en": {
-      "name": "Duhyang Tea",
-      "oneLine": "A mountain herb tea so fragrant a little is enough — shade-dried duhyang leaves spread a dense green scent with a bitter-edged finish.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "90 °C, three minutes each, twice; the scent is strong even brewed short.",
-      "origin": "Korean mountains; the fragrant leaves dried.",
-      "process": "Leaves shade-dried, then steeped in hot water.",
-      "story": "Prized for its deep scent, duhyang has long served as an herb and a tea.",
-      "flavor": "Dense green scent with a bitter edge at the finish.",
-      "pairing": "Its dense green scent and bitter finish wash away greasiness after rich food like pork belly. The strong aroma also balances heavily seasoned dishes. Delicate floral desserts can clash with its scent.",
-      "brewTip": "Brew it short the first time — the scent is strong.",
-      "keep": "Sealed, cool and dry.",
-      "keywords": "duhyang tea herbal Korea mountains"
-    },
-    "zh-CN": {
-      "name": "杜香茶",
-      "oneLine": "香气浓郁、少量冲泡便已足够的山地草药茶——阴干的杜香叶散发浓郁青草香与微苦余韵。",
-      "oxidation": "不发酵 · 无咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡3分钟，共两泡。香气浓，泡短也够。",
-      "origin": "韩国山地，香气强的杜香叶晒干使用。",
-      "process": "叶阴干后用热水冲泡。",
-      "story": "杜香香气浓，自古作药草，叶也泡茶。",
-      "flavor": "浓郁的草香，余味微苦。",
-      "pairing": "浓密的青绿香气与苦味收尾能在五花肉等丰盛食物之后洗去油腻。强烈的香气也能平衡调味浓重的菜肴。精致的花香甜点可能与它的香气相冲。",
-      "brewTip": "香气强，第一次先泡短一点。",
-      "keep": "密封阴凉干燥。",
-      "keywords": "杜香茶 草药茶 韩国"
-    },
-    "zh-TW": {
-      "name": "杜香茶",
-      "oneLine": "香氣濃郁、少量沖泡便已足夠的山地草藥茶——陰乾的杜香葉散發濃郁青草香與微苦餘韻。",
-      "oxidation": "不發酵 · 無咖啡因",
-      "ratioNote": "200毫升配3公克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡3分鐘，共兩泡。香氣濃，泡短也夠。",
-      "origin": "韓國山地，香氣強的杜香葉曬乾使用。",
-      "process": "葉陰乾後用熱水沖泡。",
-      "story": "杜香香氣濃，自古作藥草，葉也泡茶。",
-      "flavor": "濃郁的草香，餘味微苦。",
-      "pairing": "濃密的青綠香氣與苦味收尾，能在五花肉等豐盛食物後洗去油膩。強烈的香氣也能平衡重口味料理。香氣細緻的花香甜點可能與它的香氣相衝。",
-      "brewTip": "香氣強，第一次先泡短一點。",
-      "keep": "密封陰涼乾燥。",
-      "keywords": "杜香茶 草藥茶 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-perilla",
     "group": "everyday",
     "kind": "tea",
@@ -22510,118 +21941,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-peanut",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "落",
-    "sub": "Peanut Tea",
-    "alias": [
-      "낙화생차"
-    ],
-    "hz": "花生茶",
-    "hs": "花生茶",
-    "rom": "Ttangkong-cha",
-    "temp": 100,
-    "tempRange": "95~100℃",
-    "leaf": "10g",
-    "water": "200ml",
-    "steeps": [
-      300
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-morning a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "땅콩을 볶아 갈아 끓인 차입니다.",
-        "고소함이 진해 아침 대용으로도 좋습니다."
-      ],
-      "en": [
-        "Peanuts roasted, ground and boiled.",
-        "Rich and nutty enough to stand in for breakfast."
-      ],
-      "zh-CN": [
-        "花生炒后磨碎煮成的茶。",
-        "香浓顶饱，可代早餐。"
-      ],
-      "zh-TW": [
-        "花生炒後磨碎煮成的茶。",
-        "香濃頂飽，可代早餐。"
-      ]
-    },
-    "ko": {
-      "name": "땅콩차",
-      "oneLine": "고소함이 진해 아침 대용으로도 좋은 든든한 차 — 볶아 갈아 끓인 땅콩에서 고소한 향과 진한 맛이 채워집니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 10g",
-      "rounds": "1회",
-      "steepBasis": "볶은 땅콩을 갈아 물을 붓고 5분 끓입니다.",
-      "origin": "한국 전역. 가을에 수확한 땅콩을 볶아 씁니다.",
-      "process": "땅콩을 볶아 갈아 물을 붓고 끓입니다.",
-      "story": "땅콩은 간식과 요리에 널리 쓰이며, 볶아 차로 끓여 마시기도 합니다.",
-      "flavor": "고소한 땅콩 향과 부드럽고 진한 맛.",
-      "pairing": "고소한 땅콩 향과 진한 맛이 찹쌀떡·인절미 같은 떡과 잘 어울리고, 아침에 간단한 간식과 함께 마시면 든든합니다. 부드러운 바디가 떡의 식감과 결이 맞습니다. 가벼운 음식과는 차가 무겁게 느껴질 수 있습니다.",
-      "brewTip": "우유를 조금 섞어도 잘 어울립니다.",
-      "keep": "밀봉해 서늘하고 건조하게.",
-      "keywords": "땅콩차 낙화생 고소한차"
-    },
-    "en": {
-      "name": "Peanut Tea",
-      "oneLine": "Rich and nutty enough to stand in for breakfast — autumn peanuts roasted, ground and boiled fill the cup with a nutty scent, soft and full.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "10 g to 200 ml",
-      "rounds": "1 infusion",
-      "steepBasis": "Grind the roasted peanuts, add water and boil five minutes.",
-      "origin": "Across Korea; autumn peanuts, roasted.",
-      "process": "Peanuts roasted, ground, then boiled with water.",
-      "story": "A snack and cooking staple, peanuts are also roasted into a tea.",
-      "flavor": "Nutty peanut scent, soft and full in the mouth.",
-      "pairing": "Its nutty peanut scent and full taste pair well with rice cakes like glutinous rice cake and injeolmi, and with a simple snack in the morning it feels substantial. The soft body matches the cakes' texture. With light food, the tea can feel heavy.",
-      "brewTip": "A splash of milk suits it well.",
-      "keep": "Sealed, cool and dry.",
-      "keywords": "peanut tea nutty Korea roasted"
-    },
-    "zh-CN": {
-      "name": "花生茶",
-      "oneLine": "香浓醇厚、足以代早餐的饱腹茶——秋季花生炒后磨碎煮出，充满坚果香与柔和醇厚的味道。",
-      "oxidation": "不发酵 · 无咖啡因",
-      "ratioNote": "200毫升配10克",
-      "rounds": "1泡",
-      "steepBasis": "炒花生磨碎，加水煮5分钟。",
-      "origin": "韩国各地，秋天收的花生炒制使用。",
-      "process": "花生炒后磨碎，加水煮。",
-      "story": "花生常作零食与食材，也炒来煮茶。",
-      "flavor": "浓郁的花生香，口感柔和厚实。",
-      "pairing": "坚果般的花生香气与饱满味道与糯米糕、豆粉年糕等米糕很搭配，清晨配一份简单小吃也很扎实。柔和的体感与米糕的质地相配。配清淡食物时，茶会显得厚重。",
-      "brewTip": "加一点牛奶也合。",
-      "keep": "密封阴凉干燥。",
-      "keywords": "花生茶 香浓 韩国"
-    },
-    "zh-TW": {
-      "name": "花生茶",
-      "oneLine": "香濃醇厚、足以代早餐的飽腹茶——秋季花生炒後磨碎煮出，充滿堅果香與柔和醇厚的味道。",
-      "oxidation": "不發酵 · 無咖啡因",
-      "ratioNote": "200毫升配10公克",
-      "rounds": "1泡",
-      "steepBasis": "炒花生磨碎，加水煮5分鐘。",
-      "origin": "韓國各地，秋天收的花生炒製使用。",
-      "process": "花生炒後磨碎，加水煮。",
-      "story": "花生常作零食與食材，也炒來煮茶。",
-      "flavor": "濃郁的花生香，口感柔和厚實。",
-      "pairing": "堅果般的花生香氣與厚實滋味，與糯米年糕、黃豆粉年糕等年糕很搭；早晨配簡單點心也扎實。柔和的茶身與年糕的質地相配。配清淡食物時，茶會顯得沉重。",
-      "brewTip": "加一點牛奶也合。",
-      "keep": "密封陰涼乾燥。",
-      "keywords": "花生茶 香濃 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-lemon",
     "group": "everyday",
     "kind": "tea",
@@ -22840,118 +22159,6 @@ window.TEAFaiData = (function () {
       "brewTip": "和蜂蜜或大棗一起煮更好入口。",
       "keep": "密封陰涼乾燥。",
       "keywords": "大蒜茶 烤蒜 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-watercaltrop",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "菱",
-    "sub": "Water Caltrop Tea",
-    "alias": [
-      "능실차"
-    ],
-    "hz": "菱角茶",
-    "hs": "菱角茶",
-    "rom": "Mareum-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "5g",
-    "water": "300ml",
-    "steeps": [
-      600
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-herb b-light k-sweet r-clean s-hot p-solo c-none m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "마름 열매를 말려 달인 전통차입니다.",
-        "연못에서 자라는 마름의 열매를 가을에 거둬 말립니다."
-      ],
-      "en": [
-        "Dried water caltrop fruit, simmered.",
-        "Autumn fruit from pond-grown caltrop, dried for tea."
-      ],
-      "zh-CN": [
-        "菱角晒干煮成的传统茶。",
-        "池塘菱角秋天采收晒干。"
-      ],
-      "zh-TW": [
-        "菱角曬乾煮成的傳統茶。",
-        "池塘菱角秋天採收曬乾。"
-      ]
-    },
-    "ko": {
-      "name": "마름차",
-      "oneLine": "연못의 마름 열매를 가을에 거둬 말린 전통차 — 달인 열매에서 담백하고 옅은 단맛과 부드러운 뒷맛이 이어집니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "300ml에 5g",
-      "rounds": "1회",
-      "steepBasis": "95도 안팎의 물에 10분쯤 달입니다.",
-      "origin": "한국의 연못과 저수지. 가을에 딴 마름 열매를 말려 씁니다.",
-      "process": "열매를 말려 물에 넣고 10분쯤 달입니다.",
-      "story": "마름은 물에서 자라는 식물로, 열매를 삶아 먹거나 말려 차로 썼습니다.",
-      "flavor": "담백하고 옅은 단맛, 부드러운 뒷맛.",
-      "pairing": "담백하고 부드러운 맛이 식후 한 잔으로 부담이 없고, 절편이나 인절미 같은 떡과도 무난하게 어울립니다. 맛이 순해 어떤 음식 곁에서도 튀지 않습니다. 양념이 강한 음식과는 담백함이 묻힐 수 있습니다.",
-      "brewTip": "껍질째 달이면 맛이 더 우러납니다.",
-      "keep": "밀봉해 서늘하고 건조하게.",
-      "keywords": "마름차 능실 전통차"
-    },
-    "en": {
-      "name": "Water Caltrop Tea",
-      "oneLine": "A traditional tea of pond-grown water caltrop gathered in autumn and dried — simmered, the fruit gives a plain, mild sweetness and a soft finish.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 300 ml",
-      "rounds": "1 infusion",
-      "steepBasis": "Simmer about ten minutes in water near 95 °C.",
-      "origin": "Korean ponds and reservoirs; autumn fruit, dried.",
-      "process": "Fruit dried, then simmered in water about ten minutes.",
-      "story": "An aquatic plant whose fruit was boiled for food or dried for tea.",
-      "flavor": "Plain and mild with a light sweetness and a soft finish.",
-      "pairing": "Its plain, soft taste is an easy after-meal cup and goes smoothly with rice cakes like jeolpyeon and injeolmi. Mild as it is, it never stands out beside any food. Strongly seasoned dishes can bury its mildness.",
-      "brewTip": "Simmered in the shell, the flavor deepens.",
-      "keep": "Sealed, cool and dry.",
-      "keywords": "water caltrop tea mareum Korea traditional"
-    },
-    "zh-CN": {
-      "name": "菱角茶",
-      "oneLine": "把池塘菱角在秋季采收晒干的传统茶——晒干煎煮的果实，带清淡微甜与柔和余韵。",
-      "oxidation": "不发酵 · 无咖啡因",
-      "ratioNote": "300毫升配5克",
-      "rounds": "1泡",
-      "steepBasis": "95度左右的水煮10分钟。",
-      "origin": "韩国的池塘与水库，秋天的菱角晒干使用。",
-      "process": "果实晒干，加水煮10分钟左右。",
-      "story": "菱是水生植物，果实煮来吃，也晒干泡茶。",
-      "flavor": "清淡微甜，余味柔和。",
-      "pairing": "朴素柔和的味道是轻松的饭后一杯，与印花米糕、豆粉年糕等米糕顺畅相配。温和如它，在任何食物旁都不突出。调味浓重的菜可能掩埋它的温和。",
-      "brewTip": "带壳煮味道更出。",
-      "keep": "密封阴凉干燥。",
-      "keywords": "菱角茶 传统茶 韩国"
-    },
-    "zh-TW": {
-      "name": "菱角茶",
-      "oneLine": "把池塘菱角在秋季採收曬乾的傳統茶——曬乾煎煮的果實，帶清淡微甜與柔和餘韻。",
-      "oxidation": "不發酵 · 無咖啡因",
-      "ratioNote": "300毫升配5公克",
-      "rounds": "1泡",
-      "steepBasis": "95度左右的水煮10分鐘。",
-      "origin": "韓國的池塘與水庫，秋天的菱角曬乾使用。",
-      "process": "果實曬乾，加水煮10分鐘左右。",
-      "story": "菱是水生植物，果實煮來吃，也曬乾泡茶。",
-      "flavor": "清淡微甜，餘味柔和。",
-      "pairing": "樸實柔和的滋味，是輕鬆的餐後一杯，與切片年糕、黃豆粉年糕等年糕順口相配。如此溫和，配任何食物都不突出。重口味料理可能掩蓋它的溫和。",
-      "brewTip": "帶殼煮味道更出。",
-      "keep": "密封陰涼乾燥。",
-      "keywords": "菱角茶 傳統茶 韓國"
     },
     "originCountryCode": "kr"
   },
@@ -23519,120 +22726,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-radishleaf",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "葉",
-    "sub": "Radish Leaf Tea",
-    "alias": [
-      "무청차",
-      "시래기차"
-    ],
-    "hz": "蘿蔔葉茶",
-    "hs": "萝卜叶茶",
-    "rom": "Muip-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-grass a-herb b-light r-clean s-hot p-meal c-none m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "무잎을 말려 우린 차입니다.",
-        "시래기로 먹던 잎을 말려 차로도 마셨습니다."
-      ],
-      "en": [
-        "Dried radish leaves, steeped.",
-        "The siraegi leaf, dried down for tea as well."
-      ],
-      "zh-CN": [
-        "萝卜叶晒干后冲泡。",
-        "做干菜的叶，也晒干泡茶。"
-      ],
-      "zh-TW": [
-        "蘿蔔葉曬乾後沖泡。",
-        "做乾菜的葉，也曬乾泡茶。"
-      ]
-    },
-    "ko": {
-      "name": "무잎차",
-      "oneLine": "시래기로 먹던 무잎을 말려 차로도 마시던 잎차 — 말린 잎에서 구수한 풀 향과 담백한 맛이 부드럽게 우러납니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분씩 두 번. 달이면 더 구수합니다.",
-      "origin": "한국 전역. 무를 거둘 때 나온 잎을 말려 씁니다.",
-      "process": "무잎을 말려 뜨거운 물에 우리거나 약불에 달입니다.",
-      "story": "무잎은 시래기로 먹어 온 재료로, 말려 차로 마시기도 했습니다.",
-      "flavor": "구수한 풀 향과 담백한 맛.",
-      "pairing": "구수한 풀 향과 담백한 맛이 비빔밥·김밥 같은 밥 요리와 잘 어울리고, 나물 반찬 위주의 식사 곁에도 무난합니다. 맛이 순해 식사를 방해하지 않습니다. 진한 단맛의 디저트와는 구수함이 어긋날 수 있습니다.",
-      "brewTip": "5분. 달이면 더 구수합니다.",
-      "keep": "밀봉해 서늘하고 건조하게.",
-      "keywords": "무잎차 무청 시래기"
-    },
-    "en": {
-      "name": "Radish Leaf Tea",
-      "oneLine": "The siraegi radish leaf, dried for tea as well as the pot — dried leaves steep out a toasty green scent and a plain, mild taste.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C, five minutes each, twice; simmering makes it toastier.",
-      "origin": "Across Korea; leaves from the radish harvest, dried.",
-      "process": "Leaves dried, then steeped in hot water or simmered gently.",
-      "story": "Radish leaves, eaten as siraegi greens, were also dried for tea.",
-      "flavor": "Toasty green scent and a plain, mild taste.",
-      "pairing": "Its toasty green scent and plain taste pair well with rice dishes like bibimbap and gimbap, and sit easily beside meals of seasoned greens. The mild taste never interrupts the meal. Richly sweet desserts can sit at odds with its toastiness.",
-      "brewTip": "Five minutes; simmer for more toastiness.",
-      "keep": "Sealed, cool and dry.",
-      "keywords": "radish leaf tea siraegi Korea"
-    },
-    "zh-CN": {
-      "name": "萝卜叶茶",
-      "oneLine": "把做干菜的萝卜叶晒干也当茶饮的叶茶——干叶泡出焦香青草香与清淡味道。",
-      "oxidation": "不发酵 · 无咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟，共两泡。煮更香。",
-      "origin": "韩国各地，收萝卜时的叶子晒干使用。",
-      "process": "叶晒干用热水冲泡，或小火煮。",
-      "story": "萝卜叶本是做干菜的食材，也晒干泡茶。",
-      "flavor": "焦香的草味，清淡。",
-      "pairing": "烘焙的青绿香气与朴素味道与拌饭、紫菜包饭等米饭类食物很搭配，放在拌野菜餐食旁也轻松。温和的味道不会打断用餐。甜味浓郁的甜点可能与它的烘焙香不协调。",
-      "brewTip": "5分钟，煮更香。",
-      "keep": "密封阴凉干燥。",
-      "keywords": "萝卜叶茶 干菜 韩国"
-    },
-    "zh-TW": {
-      "name": "蘿蔔葉茶",
-      "oneLine": "把做乾菜的蘿蔔葉曬乾也當茶飲的葉茶——乾葉泡出焦香青草香與清淡味道。",
-      "oxidation": "不發酵 · 無咖啡因",
-      "ratioNote": "200毫升配3公克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘，共兩泡。煮更香。",
-      "origin": "韓國各地，收蘿蔔時的葉子曬乾使用。",
-      "process": "葉曬乾用熱水沖泡，或小火煮。",
-      "story": "蘿蔔葉本是做乾菜的食材，也曬乾泡茶。",
-      "flavor": "焦香的草味，清淡。",
-      "pairing": "焦香的青綠香氣與樸實滋味，與拌飯、海苔飯捲等米食很搭，配涼拌野菜餐食也輕鬆。溫和的滋味不會打擾一餐。甜味濃郁的甜點可能與它的焦香不合。",
-      "brewTip": "5分鐘，煮更香。",
-      "keep": "密封陰涼乾燥。",
-      "keywords": "蘿蔔葉茶 乾菜 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-bangpung",
     "group": "everyday",
     "kind": "tea",
@@ -23741,118 +22834,6 @@ window.TEAFaiData = (function () {
       "brewTip": "煮夠時間味道才出得來。",
       "keep": "密封陰涼乾燥。",
       "keywords": "防風茶 根茶 藥茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-mushroom",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "菌",
-    "sub": "Mushroom Tea",
-    "alias": [
-      "표고차"
-    ],
-    "hz": "蘑菇茶",
-    "hs": "蘑菇茶",
-    "rom": "Beoseot-cha",
-    "temp": 100,
-    "tempRange": "95~100℃",
-    "leaf": "5g",
-    "water": "300ml",
-    "steeps": [
-      900
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-night a-herb b-medium r-clean s-hot p-solo c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "말린 버섯을 달인 차입니다.",
-        "말리면 감칠맛이 진해져 국물처럼 마시기 좋습니다."
-      ],
-      "en": [
-        "Dried mushrooms, simmered.",
-        "Drying deepens the umami — almost a light broth."
-      ],
-      "zh-CN": [
-        "干蘑菇煮成的茶。",
-        "晒干鲜味更浓，像清汤。"
-      ],
-      "zh-TW": [
-        "乾蘑菇煮成的茶。",
-        "曬乾鮮味更濃，像清湯。"
-      ]
-    },
-    "ko": {
-      "name": "버섯차",
-      "oneLine": "말리면 감칠맛이 진해져 국물처럼 마시기 좋은 버섯차 — 말린 표고 등을 달이면 깊은 감칠맛과 은은한 버섯 향이 번집니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "300ml에 5g",
-      "rounds": "1회",
-      "steepBasis": "끓는 물에 15분쯤 달입니다.",
-      "origin": "한국 전역. 표고 등 식용 버섯을 말려 씁니다.",
-      "process": "말린 버섯을 물에 넣고 15분쯤 달입니다.",
-      "story": "버섯을 말리면 감칠맛이 진해져, 국물 재료이자 차로도 써 왔습니다.",
-      "flavor": "깊은 감칠맛과 은은한 버섯 향.",
-      "pairing": "식전에 한 잔으로 입맛을 돋우기 좋고, 맑은 국·두부찜·채소 샐러드·버섯볶음 같은 담백한 음식과 잘 어울립니다. 깊은 감칠맛이 가벼운 식사의 맛을 받쳐 주며, 마늘·고추장처럼 향이 강한 양념 요리와는 향이 부딪혀 피하는 편이 좋습니다.",
-      "brewTip": "달인 뒤 건더기는 요리에 써도 좋습니다.",
-      "keep": "밀봉해 서늘하고 건조하게.",
-      "keywords": "버섯차 표고 감칠맛"
-    },
-    "en": {
-      "name": "Mushroom Tea",
-      "oneLine": "Dried mushrooms, their umami deepened until the cup drinks almost like a light broth — simmered shiitake and kin give deep savoriness and a quiet mushroom scent.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 300 ml",
-      "rounds": "1 infusion",
-      "steepBasis": "Simmer about fifteen minutes in boiling water.",
-      "origin": "Across Korea; edible mushrooms such as shiitake, dried.",
-      "process": "Dried mushrooms simmered in water about fifteen minutes.",
-      "story": "Drying deepens mushroom umami; they serve as both stock and tea.",
-      "flavor": "Deep umami with a quiet mushroom scent.",
-      "pairing": "A cup before the meal whets the appetite, and it pairs well with plain dishes such as clear soup, steamed tofu, vegetable salad and sautéed mushrooms. Its deep umami supports light food, but strongly seasoned dishes with garlic or gochujang clash with its scent, so avoid those.",
-      "brewTip": "The simmered mushrooms can go into cooking afterwards.",
-      "keep": "Sealed, cool and dry.",
-      "keywords": "mushroom tea shiitake umami Korea"
-    },
-    "zh-CN": {
-      "name": "蘑菇茶",
-      "oneLine": "晒干后鲜味变浓、可如汤般饮用的蘑菇茶——干香菇等煮出深厚鲜味与淡淡菌香。",
-      "oxidation": "不发酵 · 无咖啡因",
-      "ratioNote": "300毫升配5克",
-      "rounds": "1泡",
-      "steepBasis": "沸水煮15分钟左右。",
-      "origin": "韩国各地，香菇等食用菌晒干使用。",
-      "process": "干蘑菇加水煮15分钟左右。",
-      "story": "蘑菇晒干鲜味更浓，既作汤料也泡茶。",
-      "flavor": "深厚的鲜味与淡淡菌香。",
-      "pairing": "餐前一杯能唤起食欲，与清汤、蒸豆腐、蔬菜沙拉、炒蘑菇等朴素菜肴很搭配。深厚的鲜味支撑清淡食物，但大蒜或辣椒酱调味浓重的菜会与它的香气相冲，请避免。",
-      "brewTip": "煮过的蘑菇还能入菜。",
-      "keep": "密封阴凉干燥。",
-      "keywords": "蘑菇茶 香菇 鲜味 韩国"
-    },
-    "zh-TW": {
-      "name": "蘑菇茶",
-      "oneLine": "曬乾後鮮味變濃、可如湯般飲用的蘑菇茶——乾香菇等煮出深厚鮮味與淡淡菌香。",
-      "oxidation": "不發酵 · 無咖啡因",
-      "ratioNote": "300毫升配5公克",
-      "rounds": "1泡",
-      "steepBasis": "沸水煮15分鐘左右。",
-      "origin": "韓國各地，香菇等食用菌曬乾使用。",
-      "process": "乾蘑菇加水煮15分鐘左右。",
-      "story": "蘑菇曬乾鮮味更濃，既作湯料也泡茶。",
-      "flavor": "深厚的鮮味與淡淡菌香。",
-      "pairing": "餐前一杯能喚起食慾，與清湯、蒸豆腐、蔬菜沙拉、炒蘑菇等樸實料理很搭。深沉的鮮味能襯托清淡食物，但大蒜或辣椒醬調味的重口味料理會與它的香氣相衝，應避免。",
-      "brewTip": "煮過的蘑菇還能入菜。",
-      "keep": "密封陰涼乾燥。",
-      "keywords": "蘑菇茶 香菇 鮮味 韓國"
     },
     "originCountryCode": "kr"
   },
@@ -25110,120 +24091,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-sotae",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "蘇",
-    "sub": "Sotae Tea",
-    "alias": [
-      "소태나무차",
-      "소태열매차"
-    ],
-    "hz": "蘇苔茶",
-    "hs": "苏苔茶",
-    "rom": "Sotae-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-morning a-herb b-light k-crisp r-clean s-hot w-quick p-solo c-none m-refresh",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "소태나무 열매와 잎을 말려 우린 차로, 강한 쓴맛이 특징입니다.",
-        "'소태처럼 쓰다'는 관용구가 있을 만큼 쓴맛으로 이름난 민간 차입니다."
-      ],
-      "en": [
-        "Dried sotae fruit and leaves; defined by its strong bitterness.",
-        "The Korean saying 'bitter as sotae' comes from this fruit — the tea keeps that reputation."
-      ],
-      "zh-CN": [
-        "苏苔果与叶晒干冲泡，特点是强烈的苦味。",
-        "韩语“苦如苏苔”的俗语正源于此果。"
-      ],
-      "zh-TW": [
-        "蘇苔果與葉曬乾沖泡，特點是強烈的苦味。",
-        "韓語「苦如蘇苔」的俗語正源於此果。"
-      ]
-    },
-    "ko": {
-      "name": "소태차",
-      "oneLine": "'소태처럼 쓰다'는 말이 있을 만큼 쓴맛으로 이름난 민간차 — 강한 쓴맛 뒤 옅은 단맛이 진한 갈색 수색에 남습니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 3분. 진하면 물을 더합니다.",
-      "origin": "한국 전역. 소태나무의 열매와 잎을 말려 씁니다.",
-      "process": "열매와 잎을 말린 뒤 뜨거운 물에 우립니다.",
-      "story": "너무 써서 생긴 관용구 '소태처럼 쓰다'의 그 소태입니다. 쓴맛을 즐기는 민간 차로 전해집니다.",
-      "flavor": "강한 쓴맛 뒤에 남는 옅은 단맛. 진한 갈색 수색.",
-      "pairing": "식후에 조금씩 마시는 차로, 곁들인다면 꿀떡·약과·곶감처럼 단맛이 또렷한 간식이 어울립니다. 강한 쓴맛을 단 간식이 눌러 주고 뒷맛의 옅은 단맛과 이어져 균형이 맞지만, 담백한 음식과 함께 마시면 쓴맛만 도드라져 부담스럽습니다.",
-      "brewTip": "처음에는 연하게 2~3분만 우려 맛을 봅니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "소태차 소태나무 쓴차 민간차"
-    },
-    "en": {
-      "name": "Sotae Tea",
-      "oneLine": "The folk tea behind the saying 'bitter as sotae' — dried fruit and leaves give a strong bitterness with a faint sweet tail, in a deep brown liquor.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C for 3 minutes; dilute if too strong.",
-      "origin": "Korea; the fruit and leaves of the sotae tree (border privet), dried.",
-      "process": "Fruit and leaves dried, then steeped in hot water.",
-      "story": "The sotae of the Korean idiom 'bitter as sotae'; a folk tea for those who enjoy bitterness.",
-      "flavor": "Strong bitterness with a faint sweet tail; deep brown liquor.",
-      "pairing": "Sip it little by little after a meal, ideally with a distinctly sweet snack such as honey rice cakes, yakgwa or dried persimmon. The sweetness presses down the strong bitterness and meets its faint sweet tail for balance, but with plain food the bitterness stands alone and overwhelms.",
-      "brewTip": "Start light — two to three minutes — and adjust.",
-      "keep": "Sealed and dry.",
-      "keywords": "sotae tea bitter folk tea privet"
-    },
-    "zh-CN": {
-      "name": "苏苔茶",
-      "oneLine": "苦到留下“苦如苏苔”俗语的民间茶——晒干的果实与叶，强苦之后留一丝微甜，汤色深褐。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡3分钟，太浓可加水。",
-      "origin": "韩国全境，苏苔树果与叶晒干。",
-      "process": "果与叶晒干后热水冲泡。",
-      "story": "韩语俗语“苦如苏苔”即指此物，为嗜苦者的民间茶。",
-      "flavor": "苦味强，后有微甜，汤色深褐。",
-      "pairing": "饭后一点点慢慢喝，最好配蜂蜜年糕、药果或柿饼等明确甜味的小吃。甜味压住强烈的苦味，与它淡淡的甜尾相平衡，但配朴素食物时，苦味会独自站立、压倒一切。",
-      "brewTip": "先淡泡两三分钟试味。",
-      "keep": "密封干燥。",
-      "keywords": "苏苔茶 苦茶 民间茶"
-    },
-    "zh-TW": {
-      "name": "蘇苔茶",
-      "oneLine": "苦到留下「苦如蘇苔」俗語的民間茶——曬乾的果實與葉，強苦之後留一絲微甜，湯色深褐。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡3分鐘，太濃可加水。",
-      "origin": "韓國全境，蘇苔樹果與葉曬乾。",
-      "process": "果與葉曬乾後熱水沖泡。",
-      "story": "韓語俗語「苦如蘇苔」即指此物，為嗜苦者的民間茶。",
-      "flavor": "苦味強，後有微甜，湯色深褐。",
-      "pairing": "餐後小口慢慢喝，最好配蜂蜜年糕、藥菓或柿餅等甜味明確的點心。甜味壓住強烈的苦味，並與它淡淡的甘甜尾韻取得平衡；但配樸實食物時，苦味會獨自突出、壓倒一切。",
-      "brewTip": "先淡泡兩三分鐘試味。",
-      "keep": "密封乾燥。",
-      "keywords": "蘇苔茶 苦茶 民間茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-sokdan",
     "group": "everyday",
     "kind": "tea",
@@ -25565,120 +24432,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-watermelon",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "瓜",
-    "sub": "Watermelon Rind Tea",
-    "alias": [
-      "수박껍질차",
-      "수박피차"
-    ],
-    "hz": "西瓜皮茶",
-    "hs": "西瓜皮茶",
-    "rom": "Subak-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "수박 껍질의 흰 부분을 말려 우린 여름 차입니다.",
-        "수박 껍질을 버리지 않고 활용한 데서 비롯된 차로, 차갑게 마시는 경우가 많습니다."
-      ],
-      "en": [
-        "A summer tea of dried white watermelon rind.",
-        "It began as a way to use the whole melon; most often drunk cold."
-      ],
-      "zh-CN": [
-        "西瓜皮白瓤晒干冲泡的夏茶。",
-        "源于物尽其用，多冷饮。"
-      ],
-      "zh-TW": [
-        "西瓜皮白瓤曬乾沖泡的夏茶。",
-        "源於物盡其用，多冷飲。"
-      ]
-    },
-    "ko": {
-      "name": "수박차",
-      "oneLine": "수박 껍질을 버리지 않고 활용한 여름차 — 껍질 흰 부분을 말려 우리면 깔끔한 옅은 단맛과 투명한 수색이 납니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분. 냉침해도 깔끔합니다.",
-      "origin": "한국 전역. 수박 껍질의 흰 부분을 얇게 썰어 말려 씁니다.",
-      "process": "껍질의 흰 부분을 썰어 말린 뒤 뜨거운 물에 우립니다.",
-      "story": "수박을 먹고 남은 껍질을 버리지 않고 말려 마시던 여름의 지혜에서 비롯됐습니다.",
-      "flavor": "깔끔하고 옅은 단맛. 거의 투명한 수색.",
-      "pairing": "더운 날 얼음을 넣어 마시면 여름 과일·냉국·가벼운 샐러드와 잘 어울리고 식후 입가심으로도 좋습니다. 깔끔하고 옅은 단맛이 어떤 음식에도 부담을 주지 않고 시원하게 넘어가지만, 진한 국물 요리와 함께 마시면 맛이 너무 희미하게 느껴집니다.",
-      "brewTip": "차갑게 식혀 마시면 청량감이 좋습니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "수박차 수박껍질 여름 시원한차"
-    },
-    "en": {
-      "name": "Watermelon Rind Tea",
-      "oneLine": "A summer tea born from using the whole melon, most often drunk cold — dried white rind gives a clean, very light sweetness and a nearly clear liquor.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C for 5 minutes; cold-brewing stays clean.",
-      "origin": "Korea; the white part of watermelon rind, sliced and dried.",
-      "process": "Rind sliced, dried, then steeped in hot water.",
-      "story": "Born of not wasting the rind after eating the melon in summer.",
-      "flavor": "Clean, very light sweetness; nearly clear liquor.",
-      "pairing": "On a hot day, served over ice, it goes well with summer fruit, chilled soups and light salads, and works as an after-meal refresher. Its clean, faint sweetness adds no weight to any food and slips down coolly, but next to a rich broth dish it tastes almost like water.",
-      "brewTip": "Chilled, it is at its most refreshing.",
-      "keep": "Sealed and dry.",
-      "keywords": "watermelon rind tea summer Korean"
-    },
-    "zh-CN": {
-      "name": "西瓜皮茶",
-      "oneLine": "源于不浪费西瓜皮的夏日茶、多冷饮——瓜皮白瓤晒干冲泡，带干净的淡淡甜味与近乎透明的汤色。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟，冷泡亦清爽。",
-      "origin": "韩国全境，西瓜皮白瓤切片晒干。",
-      "process": "瓜皮切片晒干后热水冲泡。",
-      "story": "源于吃完西瓜不浪费瓜皮、晒干饮用的夏日智慧。",
-      "flavor": "清爽，微甜，汤色近乎透明。",
-      "pairing": "炎热的日子加冰饮用，与夏日水果、冷汤和清淡沙拉很搭配，也可作饭后清爽一杯。清净淡淡的甘甜不给任何食物添重量，凉凉地滑下喉咙，但在浓郁的汤菜旁，它尝起来几乎像水。",
-      "brewTip": "冷饮清凉感更佳。",
-      "keep": "密封干燥。",
-      "keywords": "西瓜皮茶 夏季 清爽"
-    },
-    "zh-TW": {
-      "name": "西瓜皮茶",
-      "oneLine": "源於不浪費西瓜皮的夏日茶、多冷飲——瓜皮白瓤曬乾沖泡，帶乾淨的淡淡甜味與近乎透明的湯色。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘，冷泡亦清爽。",
-      "origin": "韓國全境，西瓜皮白瓤切片曬乾。",
-      "process": "瓜皮切片曬乾後熱水沖泡。",
-      "story": "源於吃完西瓜不浪費瓜皮、曬乾飲用的夏日智慧。",
-      "flavor": "清爽，微甜，湯色近乎透明。",
-      "pairing": "炎熱天加冰飲用，與夏季水果、冷湯和清淡沙拉很搭，也適合作為餐後清爽一杯。乾淨淡淡的甜味不為任何食物增添重量，清涼滑順；但配濃郁的湯水料理時，味道幾乎像水。",
-      "brewTip": "冷飲清涼感更佳。",
-      "keep": "密封乾燥。",
-      "keywords": "西瓜皮茶 夏季 清爽"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-sorghum",
     "group": "everyday",
     "kind": "tea",
@@ -25902,120 +24655,6 @@ window.TEAFaiData = (function () {
       "brewTip": "苦味強，先淡煎試味。",
       "keep": "密封乾燥。",
       "keywords": "柴胡茶 柴胡根 草藥茶"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-mallow",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "葵",
-    "sub": "Mallow Tea",
-    "alias": [
-      "아욱잎차",
-      "동규차"
-    ],
-    "hz": "冬葵茶",
-    "hs": "冬葵茶",
-    "rom": "Auk-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-herb a-grass b-light k-sweet r-clean s-hot w-quick p-meal c-none m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "아욱의 어린 잎을 말려 우린 차입니다. 국으로 흔한 채소가 차로도 쓰인 경우입니다.",
-        "아욱은 집집마다 기르던 채소로, 잎을 말려 마시는 풍습이 전해집니다."
-      ],
-      "en": [
-        "Young mallow leaves, dried and steeped — a soup vegetable turned tea.",
-        "Mallow grew in every kitchen garden; drying its leaves for tea was a household habit."
-      ],
-      "zh-CN": [
-        "冬葵嫩叶晒干冲泡，汤菜亦作茶。",
-        "冬葵是家家种植的蔬菜，干叶泡茶为家常习惯。"
-      ],
-      "zh-TW": [
-        "冬葵嫩葉曬乾沖泡，湯菜亦作茶。",
-        "冬葵是家家種植的蔬菜，乾葉泡茶為家常習慣。"
-      ]
-    },
-    "ko": {
-      "name": "아욱차",
-      "oneLine": "국으로 흔한 채소 아욱이 차로도 쓰인 경우 — 말린 어린 잎에서 부드러운 풀 향과 옅은 단맛, 매끄러운 질감이 납니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분.",
-      "origin": "한국 전역. 아욱의 어린 잎을 채취해 말려 씁니다.",
-      "process": "잎을 깨끗이 씻어 말린 뒤 뜨거운 물에 우립니다.",
-      "story": "아욱은 국과 나물로 흔한 채소였고, 그 잎을 말린 차도 가정에서 마셔 왔습니다.",
-      "flavor": "부드러운 풀 향과 옅은 단맛. 살짝 매끄러운 질감.",
-      "pairing": "아욱국·된장국·죽 같은 부드러운 국물 음식과 잘 어울리고 아침 식사에 곁들이기 좋습니다. 매끄러운 질감과 옅은 단맛이 국물의 부드러움과 이어져 목 넘김이 편안하지만, 바삭한 튀김과는 질감이 어긋나 따로 즐기는 편이 낫습니다.",
-      "brewTip": "5분가량 우리면 부드럽게 우러납니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "아욱차 아욱잎 채소차 부드러운차"
-    },
-    "en": {
-      "name": "Mallow Tea",
-      "oneLine": "Mallow, a familiar soup vegetable, turned tea — young leaves from every kitchen garden, dried and steeped, give soft herbal notes, light sweetness and a slightly silky texture.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C for 5 minutes.",
-      "origin": "Korea; young leaves of mallow (auk), gathered and dried.",
-      "process": "Leaves washed, dried, then steeped in hot water.",
-      "story": "Mallow was a soup-and-greens staple; its dried leaves also became a home tea.",
-      "flavor": "Soft herbal notes, light sweetness, a slightly silky texture.",
-      "pairing": "It goes well with soft, soupy dishes such as mallow soup, soybean-paste soup and porridge, and suits the breakfast table. Its silky texture and light sweetness continue the softness of the broth for an easy swallow, but it sits oddly against crisp fried food.",
-      "brewTip": "About five minutes for a smooth cup.",
-      "keep": "Sealed and dry.",
-      "keywords": "mallow tea auk leaf tea"
-    },
-    "zh-CN": {
-      "name": "冬葵茶",
-      "oneLine": "常入汤的冬葵也被用作茶的例子——家家种植的冬葵嫩叶晒干冲泡，带柔和草香、微甜与略滑的质地。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟。",
-      "origin": "韩国全境，采冬葵嫩叶晒干。",
-      "process": "叶洗净晒干后热水冲泡。",
-      "story": "冬葵是常见的汤菜，其干叶亦为家庭茶。",
-      "flavor": "柔和草香，微甜，质地略滑。",
-      "pairing": "与锦葵汤、大酱汤、粥等柔软的汤菜很搭配，适合早餐桌。丝滑的质地与淡淡甘甜延续汤的柔软，容易吞咽，但与酥脆的炸物放在一起会显得别扭。",
-      "brewTip": "泡约五分钟，口感柔滑。",
-      "keep": "密封干燥。",
-      "keywords": "冬葵茶 冬葵叶 蔬菜茶"
-    },
-    "zh-TW": {
-      "name": "冬葵茶",
-      "oneLine": "常入湯的冬葵也被用作茶的例子——家家種植的冬葵嫩葉曬乾沖泡，帶柔和草香、微甜與略滑的質地。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘。",
-      "origin": "韓國全境，採冬葵嫩葉曬乾。",
-      "process": "葉洗淨曬乾後熱水沖泡。",
-      "story": "冬葵是常見的湯菜，其乾葉亦為家庭茶。",
-      "flavor": "柔和草香，微甜，質地略滑。",
-      "pairing": "與葵菜湯、大醬湯、粥等柔軟的湯水料理很搭，也適合早餐桌。絲滑的質地與淡淡甜味延續湯水的柔軟，吞嚥輕鬆；但與酥脆的炸物同席時會顯得格格不入。",
-      "brewTip": "泡約五分鐘，口感柔滑。",
-      "keep": "密封乾燥。",
-      "keywords": "冬葵茶 冬葵葉 蔬菜茶"
     },
     "originCountryCode": "kr"
   },
@@ -28877,120 +27516,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-bamboo-shoot",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "筍",
-    "sub": "Bamboo Shoot Tea",
-    "alias": [
-      "죽순잎차",
-      "담양죽순차"
-    ],
-    "hz": "竹筍茶",
-    "hs": "竹笋茶",
-    "rom": "Juksun-cha",
-    "temp": 90,
-    "tempRange": "85~95℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-grass a-roast b-light r-clean s-hot w-quick p-meal c-none m-refresh",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "어린 죽순을 썰어 말리고 볶아 우린 차입니다.",
-        "전남 담양이 대나무와 죽순 산지로 이름났고, 제철 죽순을 말려 두고 마십니다."
-      ],
-      "en": [
-        "Young bamboo shoots sliced, dried, roasted and steeped.",
-        "Damyang is famed for bamboo and its shoots; the seasonal shoots are dried for later cups."
-      ],
-      "zh-CN": [
-        "嫩竹笋切片晒干炒后冲泡的茶。",
-        "全罗南道潭阳以竹与竹笋闻名，把时令竹笋晒干保存饮用。"
-      ],
-      "zh-TW": [
-        "嫩竹筍切片曬乾炒後沖泡的茶。",
-        "全羅南道潭陽以竹與竹筍聞名，把時令竹筍曬乾保存飲用。"
-      ]
-    },
-    "ko": {
-      "name": "죽순차",
-      "oneLine": "대나무 산지 담양의 봄 죽순을 썰어 말리고 볶아 우린 차 — 맑은 수색에 담백한 풀 향과 볶은 구수함이 돕니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "90도에서 5분. 끓이면 구수함이 올라옵니다.",
-      "origin": "전남 담양 등 대나무 산지. 봄 죽순을 말려 씁니다.",
-      "process": "죽순을 삶아 썰어 말린 뒤 볶아 우립니다.",
-      "story": "제철에만 나는 죽순을 말려 두는 저장 방식이 차로 이어졌습니다.",
-      "flavor": "담백한 풀 향과 볶은 구수함, 맑은 수색.",
-      "pairing": "죽순볶음·나물·맑은 탕 같은 담백한 음식과 잘 어울리고 평범한 식사에 곁들이기 좋습니다. 담백한 풀 향에 볶은 구수함이 더해져 자극 없는 반찬과 결이 맞지만, 진한 양념 요리와 함께 마시면 맑은 맛이 묻혀 버립니다.",
-      "brewTip": "말린 죽순은 먼저 살짝 헹궈 쓰면 맛이 맑습니다.",
-      "keep": "밀봉해 건조하게.",
-      "keywords": "죽순차 담양 대나무 竹筍"
-    },
-    "en": {
-      "name": "Bamboo Shoot Tea",
-      "oneLine": "Spring bamboo shoots from Damyang, sliced, dried and roasted — clear liquor with a plain green scent and calm roasted depth.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "90 °C for 5 minutes; simmering brings out the roast.",
-      "origin": "Bamboo regions such as Damyang; spring shoots, dried.",
-      "process": "Shoots boiled, sliced, dried, roasted, then steeped.",
-      "story": "Drying the brief spring shoot harvest carried into a tea.",
-      "flavor": "Plain green scent, roasted depth, clear liquor.",
-      "pairing": "It goes well with plain dishes such as stir-fried bamboo shoots, seasoned greens and clear broths, and sits easily beside an ordinary meal. Its mild green scent with a roasted depth matches gentle side dishes, but beside heavily seasoned food its clarity is buried.",
-      "brewTip": "Rinse dried shoots briefly first for a cleaner taste.",
-      "keep": "Sealed and dry.",
-      "keywords": "bamboo shoot tea juksun damyang"
-    },
-    "zh-CN": {
-      "name": "竹笋茶",
-      "oneLine": "竹乡潭阳的春笋切片晒干炒后冲泡——清澈汤色中，清淡草香与炒香沉稳浮动。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡5分钟，煮更香。",
-      "origin": "潭阳等竹产地，春季竹笋晒干。",
-      "process": "竹笋煮后切片晒干炒制冲泡。",
-      "story": "把短季的竹笋晒干保存，延续成茶。",
-      "flavor": "清淡草香与焦香，汤色清亮。",
-      "pairing": "与炒竹笋、拌野菜、清汤等朴素菜肴很搭配，放在普通餐食旁也轻松。温和的青绿香气带着烤制的深度，与温和的配菜相配，但在调味浓重的食物旁，它的清澈会被掩埋。",
-      "brewTip": "干竹笋先轻洗再泡，味道更干净。",
-      "keep": "密封干燥。",
-      "keywords": "竹笋茶 竹笋 潭阳"
-    },
-    "zh-TW": {
-      "name": "竹筍茶",
-      "oneLine": "竹鄉潭陽的春筍切片曬乾炒後沖泡——清澈湯色中，清淡草香與炒香沉穩浮動。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5公克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡5分鐘，煮更香。",
-      "origin": "潭陽等竹產地，春季竹筍曬乾。",
-      "process": "竹筍煮後切片曬乾炒製沖泡。",
-      "story": "把短季的竹筍曬乾保存，延續成茶。",
-      "flavor": "清淡草香與焦香，湯色清亮。",
-      "pairing": "與炒竹筍、涼拌野菜、清湯等樸實料理很搭，配普通餐食也輕鬆。溫和的青綠香氣帶著烘烤深度，與溫和的配菜相配；但配重口味食物時，它的清澈會被掩蓋。",
-      "brewTip": "乾竹筍先輕洗再泡，味道更乾淨。",
-      "keep": "密封乾燥。",
-      "keywords": "竹筍茶 竹筍 潭陽"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-rehmannia",
     "group": "everyday",
     "kind": "tea",
@@ -29217,121 +27742,6 @@ window.TEAFaiData = (function () {
       "brewTip": "粉末會沉澱，邊攪拌邊喝。",
       "keep": "密封陰涼，油脂易氧化。",
       "keywords": "芝麻茶 韓國 香濃"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-orientalmelon",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "瓜",
-    "sub": "Oriental Melon Tea",
-    "alias": [
-      "참외",
-      "참외청차",
-      "香瓜"
-    ],
-    "hz": "香瓜茶",
-    "hs": "香瓜茶",
-    "rom": "Chamoe-cha",
-    "temp": 90,
-    "tempRange": "85~95℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      240,
-      240
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "참외를 얇게 썰어 말려 우린 과일차입니다. 단맛이 옅고 맑습니다.",
-        "말린 참외를 4분 이상 우리고, 차갑게 마셔도 좋습니다."
-      ],
-      "en": [
-        "Thin-sliced oriental melon, dried and steeped; a lightly sweet fruit tea.",
-        "Dry the slices well so they keep; steep four minutes or more."
-      ],
-      "zh-CN": [
-        "甜瓜切薄片晒干后冲泡，清甜的果茶。",
-        "瓜片晒干易保存，冲泡四分钟以上。"
-      ],
-      "zh-TW": [
-        "甜瓜切薄片曬乾後沖泡，清甜的果茶。",
-        "瓜片曬乾易保存，沖泡四分鐘以上。"
-      ]
-    },
-    "ko": {
-      "name": "참외차",
-      "oneLine": "여름 과일 참외를 얇게 썰어 말려 우린, 차갑게도 좋은 과일차 — 참외의 옅은 단맛과 멜론 같은 향이 맑게 남습니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "90도에서 4분. 차갑게 식혀 마셔도 좋습니다.",
-      "origin": "한국 전역. 여름 과일인 참외를 얇게 썰어 말려 씁니다.",
-      "process": "참외를 얇게 썰어 말린 뒤 뜨거운 물에 우립니다.",
-      "story": "참외는 여름철 대표 과일로, 남은 참외를 말려 차로 우려 마시기도 했습니다.",
-      "flavor": "참외의 옅은 단맛과 멜론 같은 향, 맑은 뒷맛.",
-      "pairing": "여름철 식후에 과일 화채·젤리·가벼운 샐러드와 곁들이면 시원하고, 단독으로 마셔도 부담이 없습니다. 참외의 옅은 단맛과 맑은 뒷맛이 더운 날의 입안을 산뜻하게 정리해 주지만, 진한 국물 요리와는 맑은 맛이 묻혀 버립니다.",
-      "brewTip": "차갑게 식혀 마시면 단맛이 더 맑게 느껴집니다.",
-      "keep": "말린 참외는 밀봉해 건조하게.",
-      "keywords": "참외차 참외 여름 과일차"
-    },
-    "en": {
-      "name": "Oriental Melon Tea",
-      "oneLine": "Summer oriental melon sliced thin and dried, good cold as well — gentle melon sweetness and aroma with a clean finish.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "90 °C for 4 minutes; also good chilled.",
-      "origin": "Across Korea; the summer melon is sliced and dried.",
-      "process": "Melon sliced thin, dried, then steeped in hot water.",
-      "story": "The oriental melon is a summer staple in Korea; surplus melons were dried for tea.",
-      "flavor": "Gentle melon sweetness and a clean finish.",
-      "pairing": "After a summer meal it is refreshing with fruit punch, jelly or a light salad, and easy on its own too. The melon's gentle sweetness and clean finish freshen the mouth on a hot day, but beside a rich broth dish its clarity disappears.",
-      "brewTip": "Chilled, the sweetness tastes even cleaner.",
-      "keep": "Keep the dried melon sealed and dry.",
-      "keywords": "oriental melon tea chamoe Korea summer"
-    },
-    "zh-CN": {
-      "name": "香瓜茶",
-      "oneLine": "夏日甜瓜切薄晒干冲泡、冷饮亦佳的果茶——甜瓜的淡淡甜味与蜜瓜般香气清澈留存。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡4分钟，放凉也好喝。",
-      "origin": "韩国全境，用晒干的甜瓜片。",
-      "process": "甜瓜切薄片晒干后热水冲泡。",
-      "story": "甜瓜是韩国夏季代表水果，多余的会晒干泡茶。",
-      "flavor": "淡淡的瓜甜与清爽收尾。",
-      "pairing": "夏日餐后与水果宾治、果冻或清淡沙拉同享很清爽，单独饮用也轻松。甜瓜温和的甘甜与清爽收尾在炎热的日子让口腔清新，但在浓郁的汤菜旁，它的清澈会消失。",
-      "brewTip": "放凉或冰镇后甜味更清。",
-      "keep": "瓜干密封干燥保存。",
-      "keywords": "香瓜茶 甜瓜 韩国 夏季"
-    },
-    "zh-TW": {
-      "name": "香瓜茶",
-      "oneLine": "夏日甜瓜切薄曬乾沖泡、冷飲亦佳的果茶——甜瓜的淡淡甜味與蜜瓜般香氣清澈留存。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡4分鐘，放涼也好喝。",
-      "origin": "韓國全境，用曬乾的甜瓜片。",
-      "process": "甜瓜切薄片曬乾後熱水沖泡。",
-      "story": "甜瓜是韓國夏季代表水果，多餘的會曬乾泡茶。",
-      "flavor": "淡淡的瓜甜與清爽收尾。",
-      "pairing": "夏季餐後配水果賓治、果凍或清淡沙拉很清爽，單獨喝也輕鬆。香瓜溫和的甜味與乾淨收尾，能在炎熱天讓口腔清新；但配濃郁的湯水料理時，它的清澈會消失。",
-      "brewTip": "放涼或冰鎮後甜味更清。",
-      "keep": "瓜乾密封乾燥保存。",
-      "keywords": "香瓜茶 甜瓜 韓國 夏季"
     },
     "originCountryCode": "kr"
   },
@@ -29909,121 +28319,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-taro",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "芋",
-    "sub": "Taro Tea",
-    "alias": [
-      "토란",
-      "土卵",
-      "토란대"
-    ],
-    "hz": "芋頭茶",
-    "hs": "芋头茶",
-    "rom": "Toran-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "토란을 썰어 말려 달인 차입니다. 부드럽고 구수합니다.",
-        "가을 식재료인 토란을 말려 두었다가 달여 마시는 뿌리차입니다."
-      ],
-      "en": [
-        "Sliced taro dried and decocted; soft and mildly sweet.",
-        "A root tea from an autumn staple, thickening slightly as it boils."
-      ],
-      "zh-CN": [
-        "芋头切片晒干煎煮，柔和粉糯。",
-        "秋季食材芋头晒干收存，煎煮成根茶。"
-      ],
-      "zh-TW": [
-        "芋頭切片曬乾煎煮，柔和粉糯。",
-        "秋季食材芋頭曬乾收存，煎煮成根茶。"
-      ]
-    },
-    "ko": {
-      "name": "토란차",
-      "oneLine": "가을 식재료 토란을 썰어 말려 달인 뿌리차 — 부드러운 전분감과 구수함, 옅은 단맛이 포근하게 우러납니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분. 끓이면 전분이 풀려 걸쭉해집니다.",
-      "origin": "한국 전역. 토란을 썰어 말려 씁니다.",
-      "process": "토란을 썰어 말린 뒤 달이거나 볶아 우립니다.",
-      "story": "토란은 추석 무렵 국으로 먹던 식재료로, 말려 두면 차로도 달여 마셨습니다.",
-      "flavor": "부드러운 전분감과 구수함, 옅은 단맛.",
-      "pairing": "가을철 식사에 토란국·구운 떡·밤 같은 제철 간식과 곁들이면 잘 어울립니다. 부드러운 전분감과 구수함이 뿌리채소 요리의 담백함과 이어져 포근한 한 잔이 되지만, 새콤한 과일과는 전분감이 겉돌아 따로 마시는 게 좋습니다.",
-      "brewTip": "끓이면 전분이 풀려 걸쭉해지니 취향에 따라 시간을 조절합니다.",
-      "keep": "말린 토란은 밀봉해 건조하게.",
-      "keywords": "토란차 토란 뿌리차 구수한차"
-    },
-    "en": {
-      "name": "Taro Tea",
-      "oneLine": "Taro, an autumn staple, sliced, dried and decocted — a soft starchy body, gentle nuttiness and light sweetness.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C for 5 minutes; boiling releases starch and thickens it.",
-      "origin": "Across Korea; taro sliced and dried.",
-      "process": "Taro sliced, dried, then decocted or roasted and steeped.",
-      "story": "Taro is an autumn soup ingredient in Korea; dried, it was also boiled as tea.",
-      "flavor": "Soft starchy body, nuttiness, light sweetness.",
-      "pairing": "Beside an autumn meal it goes well with taro soup, grilled rice cakes or chestnuts. Its soft starchy body and nuttiness continue the plainness of root-vegetable dishes for a cozy cup, but with tart fruit the starchiness floats apart, so drink it separately.",
-      "brewTip": "Boiling releases starch and thickens it; adjust the time.",
-      "keep": "Keep dried taro sealed and dry.",
-      "keywords": "taro tea toran Korea root"
-    },
-    "zh-CN": {
-      "name": "芋头茶",
-      "oneLine": "秋季食材芋头切片晒干煎煮的根茶——柔和的粉糯感、醇香与微甜温暖溶出。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟，煮会出淀粉变稠。",
-      "origin": "韩国全境，用切片晒干的芋头。",
-      "process": "芋头切片晒干后煎煮，或炒后冲泡。",
-      "story": "芋头是秋季汤食材料，晒干后也煎茶。",
-      "flavor": "粉糯柔和、焦香，微甜。",
-      "pairing": "在秋日餐食旁，与芋头汤、烤米糕或栗子很搭配。柔和的淀粉体感与坚果香延续根茎类菜肴的朴素，是一杯温馨的茶，但与酸味水果同享时，淀粉感会飘散开来，请分开饮用。",
-      "brewTip": "煮会出淀粉变稠，按口味调时间。",
-      "keep": "芋头干密封干燥。",
-      "keywords": "芋头茶 芋头 韩国"
-    },
-    "zh-TW": {
-      "name": "芋頭茶",
-      "oneLine": "秋季食材芋頭切片曬乾煎煮的根茶——柔和的粉糯感、醇香與微甜溫暖溶出。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘，煮會出澱粉變稠。",
-      "origin": "韓國全境，用切片曬乾的芋頭。",
-      "process": "芋頭切片曬乾後煎煮，或炒後沖泡。",
-      "story": "芋頭是秋季湯食材料，曬乾後也煎茶。",
-      "flavor": "粉糯柔和、焦香，微甜。",
-      "pairing": "秋季餐食旁，配芋頭湯、烤年糕或栗子很搭。柔和的澱粉茶身與堅果香延續根莖類料理的樸實，是溫馨的一杯；但配酸味水果時，澱粉感會飄散分離，建議分開喝。",
-      "brewTip": "煮會出澱粉變稠，按口味調時間。",
-      "keep": "芋頭乾密封乾燥。",
-      "keywords": "芋頭茶 芋頭 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "id": "herb-pineapple",
     "group": "everyday",
     "kind": "tea",
@@ -30477,236 +28772,6 @@ window.TEAFaiData = (function () {
       "brewTip": "連皮醃的蜜餞香濃，注意分量。",
       "keep": "蜜餞冷藏。",
       "keywords": "漢拿峰茶 濟州 柑橘"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-sunflower",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "葵",
-    "sub": "Sunflower Seed Tea",
-    "alias": [
-      "해바라기",
-      "해바라기씨",
-      "葵花籽"
-    ],
-    "hz": "葵花籽茶",
-    "hs": "葵花籽茶",
-    "rom": "Haebaragi-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "5g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon a-roast b-light k-sweet r-clean s-hot p-meal c-none m-cozy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "해바라기 씨를 볶아 우린 차입니다. 고소하고 부드럽습니다.",
-        "단단한 씨는 우리는 것보다 끓일 때 맛이 더 납니다."
-      ],
-      "en": [
-        "Roasted sunflower seeds steeped in hot water; nutty and mild.",
-        "Boiling draws more from the hard seeds than steeping."
-      ],
-      "zh-CN": [
-        "葵花籽炒后冲泡，焦香柔和。",
-        "硬种子煮比泡更出味。"
-      ],
-      "zh-TW": [
-        "葵花籽炒後沖泡，焦香柔和。",
-        "硬種子煮比泡更出味。"
-      ]
-    },
-    "ko": {
-      "name": "해바라기차",
-      "oneLine": "해바라기 씨를 볶아 우린, 단단한 씨는 끓일 때 맛이 더 나는 차 — 볶은 씨앗의 고소함과 옅은 기름진 단맛이 돕니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 5g",
-      "rounds": "2회",
-      "steepBasis": "95도에서 5분. 껍질째 볶은 씨는 끓이면 맛이 더 납니다.",
-      "origin": "한국 전역. 해바라기 씨를 볶아 씁니다.",
-      "process": "해바라기 씨를 볶은 뒤 뜨거운 물에 우립니다.",
-      "story": "해바라기 씨는 간식으로 먹던 씨앗으로, 볶아 차로 우려 마시기도 합니다.",
-      "flavor": "볶은 씨앗의 고소함과 옅은 기름진 단맛.",
-      "pairing": "간식으로 견과류·떡·구운 빵과 곁들이기 좋고 겨울철 식후에도 든든합니다. 볶은 씨앗의 고소함과 옅은 기름진 단맛이 구운 간식의 풍미와 이어져 포만감이 있지만, 새콤한 과일과는 기름진 맛이 겉돌아 따로 즐기는 게 좋습니다.",
-      "brewTip": "껍질째 볶은 씨는 끓이면 맛이 더 납니다.",
-      "keep": "밀봉해 서늘하게. 기름 성분의 산패에 주의합니다.",
-      "keywords": "해바라기차 해바라기씨 씨앗차 고소한차"
-    },
-    "en": {
-      "name": "Sunflower Seed Tea",
-      "oneLine": "Roasted sunflower seeds steeped, their hard shells giving more when boiled — roasted-seed nuttiness with a light oily sweetness.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "5 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "95 °C for 5 minutes; seeds roasted in the shell give more when boiled.",
-      "origin": "Across Korea; sunflower seeds roasted.",
-      "process": "Seeds roasted, then steeped in hot water.",
-      "story": "Sunflower seeds are a familiar snack in Korea; roasted, they also brew as tea.",
-      "flavor": "Roasted-seed nuttiness with a light oily sweetness.",
-      "pairing": "As a snack companion it goes well with nuts, rice cakes and toasted bread, and after a winter meal it feels substantial. The roasted seed's nuttiness and light oily sweetness continue the flavor of baked snacks satisfyingly, but with tart fruit the oiliness floats apart.",
-      "brewTip": "Seeds roasted in the shell give more when boiled.",
-      "keep": "Sealed and cool; mind the oils.",
-      "keywords": "sunflower seed tea haebaragi Korea nutty"
-    },
-    "zh-CN": {
-      "name": "葵花籽茶",
-      "oneLine": "葵花籽炒后冲泡，坚硬的籽煮时味道更出——炒籽的焦香与淡淡油润甜味柔和怡人。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分钟，带壳炒的籽煮更出味。",
-      "origin": "韩国全境，用炒葵花籽。",
-      "process": "葵花籽炒后热水冲泡。",
-      "story": "葵花籽是常见零食，炒后也泡茶。",
-      "flavor": "炒种子的焦香与微油甜。",
-      "pairing": "作为小吃伴侣，与坚果、米糕和烤面包很搭配，冬日餐后也觉得扎实。烤种子的坚果香与淡淡油润甘甜令人满足地延续烘焙小吃的风味，但与酸味水果同享时，油润感会飘散开来。",
-      "brewTip": "带壳炒的籽煮更出味。",
-      "keep": "密封阴凉，注意油脂氧化。",
-      "keywords": "葵花籽茶 向日葵 韩国"
-    },
-    "zh-TW": {
-      "name": "葵花籽茶",
-      "oneLine": "葵花籽炒後沖泡，堅硬的籽煮時味道更出——炒籽的焦香與淡淡油潤甜味柔和怡人。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配5克",
-      "rounds": "2泡",
-      "steepBasis": "95度泡5分鐘，帶殼炒的籽煮更出味。",
-      "origin": "韓國全境，用炒葵花籽。",
-      "process": "葵花籽炒後熱水沖泡。",
-      "story": "葵花籽是常見零食，炒後也泡茶。",
-      "flavor": "炒種子的焦香與微油甜。",
-      "pairing": "作為點心夥伴，與堅果、年糕和烤吐司很搭，冬季餐後也扎實。烤種子的堅果香與淡淡油潤甜味，令人滿足地延續烘烤點心的風味；但配酸味水果時，油潤感會飄散分離。",
-      "brewTip": "帶殼炒的籽煮更出味。",
-      "keep": "密封陰涼，注意油脂氧化。",
-      "keywords": "葵花籽茶 向日葵 韓國"
-    },
-    "originCountryCode": "kr"
-  },
-  {
-    "id": "herb-herbtea",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "草",
-    "sub": "Herb Tea",
-    "alias": [
-      "허브티",
-      "草本茶",
-      "허브"
-    ],
-    "hz": "草本茶",
-    "hs": "草本茶",
-    "rom": "Heobeu-cha",
-    "temp": 90,
-    "tempRange": "85~95℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      300,
-      300
-    ],
-    "maxSteep": 2,
-    "oxidationValue": 0,
-    "traits": "t-afternoon t-night a-herb a-floral b-light k-sweet r-clean s-hot s-iced p-solo c-none m-calm",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "민트·캐모마일·레몬밤 같은 말린 허브를 우린 차를 통틀어 부릅니다.",
-        "찻잎이 아닌 식물을 우린 것이라 카페인이 없고, 허브마다 우리는 법이 다릅니다."
-      ],
-      "en": [
-        "A blanket term for infusions of dried herbs — mint, chamomile, lemon balm and more.",
-        "Unlike true tea, herb teas are caffeine-free and each herb brews differently."
-      ],
-      "zh-CN": [
-        "薄荷、洋甘菊、香蜂草等干香草冲泡的茶，统称草本茶。",
-        "不是茶叶，所以不含咖啡因，每种香草泡法不同。"
-      ],
-      "zh-TW": [
-        "薄荷、洋甘菊、香蜂草等乾香草沖泡的茶，統稱草本茶。",
-        "不是茶葉，所以不含咖啡因，每種香草泡法不同。"
-      ]
-    },
-    "ko": {
-      "name": "허브차",
-      "oneLine": "민트·캐모마일·레몬밤 같은 말린 허브 잎과 꽃을 우린 차의 통칭 — 카페인 없이, 허브마다 풀 향과 꽃 향이 다릅니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "200ml에 3g",
-      "rounds": "2회",
-      "steepBasis": "90도에서 5분. 향이 날아가지 않게 뚜껑을 덮고 우립니다.",
-      "origin": "세계 각지. 민트, 캐모마일, 레몬밤 같은 허브를 말려 씁니다.",
-      "process": "허브의 잎과 꽃을 말려 뜨거운 물에 우립니다.",
-      "story": "허브를 말려 차로 마시는 습관은 유럽과 아시아 곳곳에서 오래 이어졌습니다.",
-      "flavor": "허브 종류에 따라 다릅니다. 풀 향과 꽃 향이 중심입니다.",
-      "pairing": "식후나 밤 시간에 가벼운 쿠키·비스킷·과일과 곁들이기 좋고, 디저트 차로도 무난합니다. 풀 향과 꽃 향이 중심이라 자극이 적어 대부분의 간식과 부딪히지 않지만, 향이 강한 양념 요리와 함께 마시면 허브 향이 묻혀 버립니다.",
-      "brewTip": "허브마다 적정 시간이 달라 향이 날아가지 않게 5분 안팎으로 우립니다.",
-      "keep": "밀봉해 건조하게. 향이 쉽게 날아갑니다.",
-      "keywords": "허브차 허브티 민트 캐모마일 무카페인"
-    },
-    "en": {
-      "name": "Herb Tea",
-      "oneLine": "A blanket name for infusions of dried herb leaves and flowers — mint, chamomile, lemon balm — caffeine-free, each herb with its own green and floral notes.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "2 infusions",
-      "steepBasis": "90 °C for 5 minutes, covered so the aroma stays.",
-      "origin": "Worldwide; mint, chamomile, lemon balm and other herbs, dried.",
-      "process": "Leaves and flowers of herbs dried and steeped.",
-      "story": "Brewing dried herbs is an old habit across Europe and Asia alike.",
-      "flavor": "Varies by herb; green and floral notes lead.",
-      "pairing": "After a meal or in the evening it goes well with light cookies, biscuits and fruit, and works as a dessert tea too. Led by green and floral notes, it is gentle enough to clash with almost no snack, but beside strongly seasoned food the herbal aroma is lost.",
-      "brewTip": "Each herb differs; around five minutes keeps the aroma in.",
-      "keep": "Sealed and dry — the aroma fades fast.",
-      "keywords": "herb tea herbal tisane mint chamomile"
-    },
-    "zh-CN": {
-      "name": "草本茶",
-      "oneLine": "薄荷、洋甘菊、柠檬香蜂草等干香草叶与花冲泡的茶之统称——不用茶叶、无咖啡因，每种香草草香花香各异。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡5分钟，加盖保香。",
-      "origin": "世界各地，用薄荷、洋甘菊、香蜂草等香草晒干。",
-      "process": "香草的叶与花晒干后热水冲泡。",
-      "story": "晒干香草泡茶的习惯在欧洲与亚洲都流传已久。",
-      "flavor": "随香草种类而异，以草香与花香为主。",
-      "pairing": "饭后或晚间与清淡的曲奇、饼干和水果很搭配，也可作甜点茶。以青绿与花香为主导，温和到几乎不与任何小吃相冲，但在调味强烈的食物旁，草本香气会消失。",
-      "brewTip": "香草各异，五分钟左右以免香气散失。",
-      "keep": "密封干燥，香气易散。",
-      "keywords": "草本茶 香草 薄荷 洋甘菊"
-    },
-    "zh-TW": {
-      "name": "草本茶",
-      "oneLine": "薄荷、洋甘菊、檸檬香蜂草等乾香草葉與花沖泡的茶之統稱——不用茶葉、無咖啡因，每種香草草香花香各異。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升配3克",
-      "rounds": "2泡",
-      "steepBasis": "90度泡5分鐘，加蓋保香。",
-      "origin": "世界各地，用薄荷、洋甘菊、香蜂草等香草曬乾。",
-      "process": "香草的葉與花曬乾後熱水沖泡。",
-      "story": "曬乾香草泡茶的習慣在歐洲與亞洲都流傳已久。",
-      "flavor": "隨香草種類而異，以草香與花香為主。",
-      "pairing": "餐後或晚間，與清淡餅乾、脆餅和水果很搭，也適合作為甜點茶。以青綠與花香調為主，溫和得幾乎不與任何點心相衝；但配重口味食物時，藥草香氣會消失。",
-      "brewTip": "香草各異，五分鐘左右以免香氣散失。",
-      "keep": "密封乾燥，香氣易散。",
-      "keywords": "草本茶 香草 薄荷 洋甘菊"
     },
     "originCountryCode": "kr"
   },
@@ -31512,120 +29577,6 @@ window.TEAFaiData = (function () {
     "originCountryCode": "kr"
   },
   {
-    "id": "herb-pepper",
-    "group": "everyday",
-    "kind": "tea",
-    "hanja": "椒",
-    "sub": "Black Pepper Tea",
-    "alias": [
-      "후추",
-      "胡椒",
-      "흑후추"
-    ],
-    "hz": "胡椒茶",
-    "hs": "胡椒茶",
-    "rom": "Huchu-cha",
-    "temp": 95,
-    "tempRange": "90~100℃",
-    "leaf": "2g",
-    "water": "200ml",
-    "steeps": [
-      300
-    ],
-    "maxSteep": 1,
-    "oxidationValue": 0,
-    "traits": "t-morning t-afternoon a-herb b-light k-crisp r-clean s-hot p-meal c-none m-energy",
-    "originCountry": {
-      "ko": "한국",
-      "en": "South Korea",
-      "zh-CN": "韩国",
-      "zh-TW": "韓國"
-    },
-    "x": {
-      "ko": [
-        "후추를 빻아 물에 끓인 차입니다. 알싸하게 맵습니다.",
-        "꿀을 더해 작고 진하게 마시기도 하는 향신료 차입니다."
-      ],
-      "en": [
-        "Ground black pepper boiled in water; hot and pungent.",
-        "A spice tea drunk in small, strong cups, sometimes with honey."
-      ],
-      "zh-CN": [
-        "胡椒磨碎入水煮，辛辣浓烈。",
-        "加蜂蜜小杯浓饮的香料茶。"
-      ],
-      "zh-TW": [
-        "胡椒磨碎入水煮，辛辣濃烈。",
-        "加蜂蜜小杯濃飲的香料茶。"
-      ]
-    },
-    "ko": {
-      "name": "후추차",
-      "oneLine": "후추를 빻아 물에 끓인, 꿀을 더해 작고 진하게 마시기도 하는 향신료 차 — 알싸한 매운맛과 향신료 향이 짧고 또렷합니다.",
-      "oxidation": "무산화 · 카페인 없음",
-      "ratioNote": "물 200ml에 후추 2g (약 1작은술)",
-      "rounds": "1회",
-      "steepBasis": "빻은 후추를 물에 넣고 5분 끓입니다.",
-      "origin": "한국. 열대 작물인 후추 열매를 말려 빻아 씁니다.",
-      "process": "후추를 빻아 뜨거운 물에 넣고 끓입니다.",
-      "story": "후추는 귀한 향신료로 약처럼 쓰이던 시절이 있었고, 끓여 차로도 마셨습니다.",
-      "flavor": "알싸한 매운맛과 향신료 향, 짧고 또렷한 여운.",
-      "pairing": "겨울철 식사에 곁들이거나 꿀을 타서 마시면 잘 어울리고, 구운 고기나 스튜 같은 든든한 음식과 좋습니다. 알싸한 매운맛과 향신료 향이 기름진 음식 사이에서 입안을 또렷하게 깨워 주지만, 섬세한 디저트와는 매운맛이 모든 향을 덮어 버립니다.",
-      "brewTip": "양이 많으면 지나치게 매우니 조금씩 조절합니다.",
-      "keep": "밀봉해 건조하게. 향이 쉽게 날아갑니다.",
-      "keywords": "후추차 후추 향신료 매운차"
-    },
-    "en": {
-      "name": "Black Pepper Tea",
-      "oneLine": "Ground black pepper boiled in water, drunk in small strong cups sometimes with honey — pungent heat and spice aroma, short and sharp.",
-      "oxidation": "none · caffeine-free",
-      "ratioNote": "2 g pepper (about 1 tsp) to 200 ml",
-      "rounds": "1 cup",
-      "steepBasis": "Boil ground pepper in water for 5 minutes.",
-      "origin": "Korea; the tropical peppercorn, dried and ground.",
-      "process": "Pepper ground and boiled in hot water.",
-      "story": "Pepper was once a precious spice treated almost as medicine; it was also boiled as tea.",
-      "flavor": "Pungent heat, spice aroma, a short sharp finish.",
-      "pairing": "Serve it with a winter meal or with a little honey, alongside hearty food like grilled meat or stew. Its pungent heat and spice aroma wake the palate between bites of rich food, but with a delicate dessert the heat covers every other scent.",
-      "brewTip": "A little goes far; adjust the amount carefully.",
-      "keep": "Sealed and dry — the aroma fades.",
-      "keywords": "black pepper tea huchu spice"
-    },
-    "zh-CN": {
-      "name": "胡椒茶",
-      "oneLine": "胡椒磨碎煮水、有时加蜂蜜小杯浓饮的香料茶——辛辣的刺激与香料香短促而分明。",
-      "oxidation": "不发酵·无咖啡因",
-      "ratioNote": "200毫升水配胡椒2克（约1小匙）",
-      "rounds": "1杯",
-      "steepBasis": "胡椒粉入水煮5分钟。",
-      "origin": "韩国，用晒干磨碎的胡椒果。",
-      "process": "胡椒磨碎后入热水煮。",
-      "story": "胡椒曾是珍贵香料，也煮水作茶饮。",
-      "flavor": "辛辣、香料香，余韵短而明。",
-      "pairing": "随冬日餐食上桌，或加一点蜂蜜，配烤肉、炖菜等扎实食物。它辛辣的热感与香料香气在丰盛食物的间隙唤醒味觉，但配精致甜点时，辣味会盖住其他所有香气。",
-      "brewTip": "量多太辣，少量调节。",
-      "keep": "密封干燥，香气易散。",
-      "keywords": "胡椒茶 胡椒 香料"
-    },
-    "zh-TW": {
-      "name": "胡椒茶",
-      "oneLine": "胡椒磨碎煮水、有時加蜂蜜小杯濃飲的香料茶——辛辣的刺激與香料香短促而分明。",
-      "oxidation": "不發酵·無咖啡因",
-      "ratioNote": "200毫升水配胡椒2克（約1小匙）",
-      "rounds": "1杯",
-      "steepBasis": "胡椒粉入水煮5分鐘。",
-      "origin": "韓國，用曬乾磨碎的胡椒果。",
-      "process": "胡椒磨碎後入熱水煮。",
-      "story": "胡椒曾是珍貴香料，也煮水作茶飲。",
-      "flavor": "辛辣、香料香，餘韻短而明。",
-      "pairing": "配冬季餐食，或加一點蜂蜜，與烤肉或燉菜等扎實食物一起供應。辛辣的熱感與香料香氣在豐盛食物之間喚醒味蕾；但配精緻甜點時，辣味會蓋過所有其他香氣。",
-      "brewTip": "量多太辣，少量調節。",
-      "keep": "密封乾燥，香氣易散。",
-      "keywords": "胡椒茶 胡椒 香料"
-    },
-    "originCountryCode": "kr"
-  },
-  {
     "alias": [
       "십전대보"
     ],
@@ -31735,6 +29686,1716 @@ window.TEAFaiData = (function () {
       "steepBasis": "沸水小火煎40分鐘至1小時。",
       "story": "名字意為'十味齊全、大補'。載於宋代醫書《太平惠民和劑局方》，在韓國作為冬季補養飲品與雙和湯齊名。"
     }
+  },
+  {
+    "id": "herb-lemonbalm",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "蜂",
+    "sub": "Lemon Balm",
+    "alias": [
+      "향봉초",
+      "香蜂草"
+    ],
+    "hz": "香蜂草",
+    "hs": "香蜂草",
+    "rom": "Lemon Balm",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon t-night a-herb a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-solo c-none m-calm",
+    "originCountry": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國"
+    },
+    "x": {
+      "ko": [
+        "레몬밤 잎을 말려 우린 차입니다.",
+        "이름 멜리사는 그리스어로 꿀벌이라는 뜻으로, 꽃이 꿀벌을 부르는 풀이라 붙었습니다."
+      ],
+      "en": [
+        "Dried lemon balm leaves, steeped.",
+        "Melissa is Greek for honeybee — the flowers draw bees, and the name stuck."
+      ],
+      "zh-CN": [
+        "柠檬香蜂草叶晒干冲泡。",
+        "Melissa在希腊语里是蜜蜂的意思，因花朵招蜂而得名。"
+      ],
+      "zh-TW": [
+        "檸檬香蜂草葉曬乾沖泡。",
+        "Melissa在希臘語裡是蜜蜂的意思，因花朵招蜂而得名。"
+      ]
+    },
+    "ko": {
+      "name": "레몬밤",
+      "oneLine": "지중해 연안이 고향인 꿀풀과 허브 레몬밤 — 잎을 비비면 레몬 향이 터지고, 잔에서는 부드러운 시트러스와 단맛이 번집니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 5분.",
+      "origin": "지중해 연안 원산, 프랑스 등 유럽에서 널리 재배합니다. 잎을 말려 씁니다.",
+      "process": "잎을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "학명 멜리사는 그리스어로 꿀벌이라는 뜻입니다. 유럽에서는 오래전부터 정원 허브이자 차로 길러 왔습니다.",
+      "flavor": "레몬을 닮은 시트러스 향과 옅은 단맛, 부드러운 풀 내음.",
+      "pairing": "레몬 타르트·허브 샐러드·가벼운 생선 요리와 잘 어울립니다. 부드러운 시트러스 향이 산뜻한 음식의 향을 해치지 않고 받쳐 주고, 옅은 단맛이 신맛의 끝을 둥글게 감쌉니다. 진한 초콜릿 디저트와는 섬세한 향이 묻히니 따로 즐기세요.",
+      "brewTip": "말린 잎은 손으로 살짝 비벼 넣으면 향이 더 잘 우러납니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "레몬밤 멜리사 허브차 레몬향"
+    },
+    "en": {
+      "name": "Lemon Balm",
+      "oneLine": "Lemon balm, a mint-family herb from the Mediterranean shore — rub a leaf and lemon bursts out; in the cup, soft citrus and light sweetness.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 5 minutes.",
+      "origin": "Native to the Mediterranean shore, widely grown in France and across Europe; the leaves are dried.",
+      "process": "Leaves picked, shade-dried, then steeped in hot water.",
+      "story": "Its Latin name Melissa is Greek for honeybee. European gardens have grown it for tea for centuries.",
+      "flavor": "Lemon-like citrus, light sweetness and a soft green note.",
+      "pairing": "Lemon tarts, herb salads and light fish dishes suit it. Its soft citrus lifts fresh food without crowding it, and the light sweetness rounds off sharp edges. With rich chocolate desserts the delicate aroma gets buried, so enjoy it separately.",
+      "brewTip": "Crumble dried leaves lightly between your fingers to release more aroma.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "lemon balm melissa herbal tea citrus"
+    },
+    "zh-CN": {
+      "name": "香蜂草",
+      "oneLine": "来自地中海沿岸的唇形科香草柠檬香蜂草——揉一揉叶子柠檬香迸发，杯中是柔和的柑橘与淡淡甘甜。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分钟。",
+      "origin": "原产地中海沿岸，在法国等欧洲各地广泛栽培，叶片晒干使用。",
+      "process": "采叶阴干后用热水冲泡。",
+      "story": "学名Melissa在希腊语中是蜜蜂的意思，欧洲庭院种它泡茶已有数百年。",
+      "flavor": "柠檬般的柑橘香、淡淡甘甜与柔和的青草气。",
+      "pairing": "适合柠檬塔、香草沙拉和清淡的鱼料理。柔和的柑橘香能衬托清爽食物而不喧宾夺主，淡淡甘甜把酸味的收尾裹得圆润。浓郁的巧克力甜点会盖住它细腻的香气，请分开享用。",
+      "brewTip": "干叶用手指轻轻揉碎再泡，香气更足。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "香蜂草 柠檬香蜂草 花草茶"
+    },
+    "zh-TW": {
+      "name": "香蜂草",
+      "oneLine": "來自地中海沿岸的唇形科香草檸檬香蜂草——揉一揉葉子檸檬香迸發，杯中是柔和的柑橘與淡淡甘甜。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分鐘。",
+      "origin": "原產地中海沿岸，在法國等歐洲各地廣泛栽培，葉片曬乾使用。",
+      "process": "採葉陰乾後用熱水沖泡。",
+      "story": "學名Melissa在希臘語中是蜜蜂的意思，歐洲庭院種它泡茶已有數百年。",
+      "flavor": "檸檬般的柑橘香、淡淡甘甜與柔和的青草氣。",
+      "pairing": "適合檸檬塔、香草沙拉和清淡的魚料理。柔和的柑橘香能襯托清爽食物而不喧賓奪主，淡淡甘甜把酸味的收尾裹得圓潤。濃郁的巧克力甜點會蓋住它細膩的香氣，請分開享用。",
+      "brewTip": "乾葉用手指輕輕揉碎再泡，香氣更足。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "香蜂草 檸檬香蜂草 花草茶"
+    },
+    "originCountryCode": "fr"
+  },
+  {
+    "id": "herb-rosemary",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "迷",
+    "sub": "Rosemary",
+    "alias": [
+      "미질향",
+      "迷迭香"
+    ],
+    "hz": "迷迭香",
+    "hs": "迷迭香",
+    "rom": "Rosemary",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-morning t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-refresh",
+    "originCountry": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國"
+    },
+    "x": {
+      "ko": [
+        "로즈마리 바늘잎을 말려 우린 차입니다.",
+        "이름은 라틴어 로스 마리누스, '바다의 이슬'에서 왔습니다."
+      ],
+      "en": [
+        "Dried rosemary needles, steeped.",
+        "The name comes from Latin ros marinus — dew of the sea."
+      ],
+      "zh-CN": [
+        "迷迭香针叶晒干冲泡。",
+        "名字来自拉丁语ros marinus，意为海之露水。"
+      ],
+      "zh-TW": [
+        "迷迭香針葉曬乾沖泡。",
+        "名字來自拉丁語ros marinus，意為海之露水。"
+      ]
+    },
+    "ko": {
+      "name": "로즈마리",
+      "oneLine": "지중해 바닷가 절벽에서 자라는 로즈마리 — 바늘잎을 우리면 솔잎 닮은 청량한 향과 쌉싸래한 여운이 또렷하게 살아납니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 5분.",
+      "origin": "지중해 연안 원산, 프랑스 프로방스 등에서 재배합니다. 바늘잎을 말려 씁니다.",
+      "process": "잎을 따 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "이름은 라틴어로 '바다의 이슬'이라는 뜻입니다. 지중해 요리에서 고기와 감자를 받쳐 온 허브입니다.",
+      "flavor": "솔잎·유칼립투스를 닮은 청량한 향과 쌉싸래한 끝맛.",
+      "pairing": "구운 닭고기·로스트 포테이토·포카치아 같은 지중해 요리와 잘 어울립니다. 청량한 향이 기름진 음식의 느끼함을 또렷하게 끊어 주고, 쌉싸래한 여운이 입안을 개운하게 합니다. 달콤한 디저트와는 향의 결이 달라 따로 즐기는 게 좋습니다.",
+      "brewTip": "향이 강하니 처음에는 짧게 우리고 농도를 맞추세요.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "로즈마리 미질향 허브차 프로방스"
+    },
+    "en": {
+      "name": "Rosemary",
+      "oneLine": "Rosemary from Mediterranean sea cliffs — steep the needles and a pine-like freshness rises, with a bracing bitter edge.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 5 minutes.",
+      "origin": "Native to the Mediterranean coast, grown in Provence, France and beyond; the needle leaves are dried.",
+      "process": "Leaves picked, dried, then steeped in hot water.",
+      "story": "The name means dew of the sea in Latin. It has backed meat and potatoes across Mediterranean kitchens for centuries.",
+      "flavor": "Pine and eucalyptus freshness with a bracing bitter finish.",
+      "pairing": "Roast chicken, roast potatoes and focaccia suit it. Its freshness cuts cleanly through rich food, and the bitter edge leaves the palate clean. Sweet desserts run on a different track, so enjoy it separately.",
+      "brewTip": "It is strong — start with a short steep and adjust.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "rosemary provence herbal tea pine"
+    },
+    "zh-CN": {
+      "name": "迷迭香",
+      "oneLine": "生长在地中海海边悬崖的迷迭香——针叶冲泡后，松针般的清凉香与微苦的余韵鲜明地浮现。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分钟。",
+      "origin": "原产地中海沿岸，在法国普罗旺斯等地栽培，针叶晒干使用。",
+      "process": "采叶晒干后用热水冲泡。",
+      "story": "名字在拉丁语中意为海之露水，几个世纪以来是地中海厨房里肉类与土豆的搭档。",
+      "flavor": "松针与桉叶般的清凉香，收尾微苦。",
+      "pairing": "适合烤鸡、烤土豆和佛卡夏等地中海料理。清凉的香气利落地切开油腻，微苦的余韵让口腔清爽。甜味甜点走的是另一条路线，请分开享用。",
+      "brewTip": "香气浓，先短泡再调整浓度。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "迷迭香 普罗旺斯 花草茶"
+    },
+    "zh-TW": {
+      "name": "迷迭香",
+      "oneLine": "生長在地中海海邊懸崖的迷迭香——針葉沖泡後，松針般的清涼香與微苦的餘韻鮮明地浮現。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分鐘。",
+      "origin": "原產地中海沿岸，在法國普羅旺斯等地栽培，針葉曬乾使用。",
+      "process": "採葉曬乾後用熱水沖泡。",
+      "story": "名字在拉丁語中意為海之露水，幾個世紀以來是地中海廚房裡肉類與土豆的搭檔。",
+      "flavor": "松針與桉葉般的清涼香，收尾微苦。",
+      "pairing": "適合烤雞、烤土豆和佛卡夏等地中海料理。清涼的香氣俐落地切開油膩，微苦的餘韻讓口腔清爽。甜味甜點走的是另一條路線，請分開享用。",
+      "brewTip": "香氣濃，先短泡再調整濃度。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "迷迭香 普羅旺斯 花草茶"
+    },
+    "originCountryCode": "fr"
+  },
+  {
+    "id": "herb-basil",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "羅",
+    "sub": "Sweet Basil",
+    "alias": [
+      "나륵",
+      "羅勒"
+    ],
+    "hz": "羅勒",
+    "hs": "罗勒",
+    "rom": "Sweet Basil",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      240,
+      240
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
+    "originCountry": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度"
+    },
+    "x": {
+      "ko": [
+        "스위트바질 잎을 말려 우린 차입니다.",
+        "이탈리아 요리의 바질과 같은 종으로, 차로는 잎을 말려 향을 가둡니다."
+      ],
+      "en": [
+        "Dried sweet basil leaves, steeped.",
+        "The same species as Italian cooking basil; for tea the leaves are dried to hold the aroma."
+      ],
+      "zh-CN": [
+        "甜罗勒叶晒干冲泡。",
+        "与意大利料理的罗勒同种，做茶时晒干以留住香气。"
+      ],
+      "zh-TW": [
+        "甜羅勒葉曬乾沖泡。",
+        "與義大利料理的羅勒同種，做茶時曬乾以留住香氣。"
+      ]
+    },
+    "ko": {
+      "name": "바질",
+      "oneLine": "인도가 고향인 스위트바질 — 정향을 닮은 달콤한 향신 향이 따뜻한 물에서 피어나고, 끝에는 옅은 단맛이 남는 잎차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 4분.",
+      "origin": "인도 원산으로 지금은 전 세계에서 재배합니다. 잎을 말려 씁니다.",
+      "process": "잎을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "이탈리아 요리의 페스토로 익숙한 바로 그 바질입니다. 잎을 말리면 향이 차용으로도 잘 살아납니다.",
+      "flavor": "정향·아니스를 닮은 달콤한 향신 향과 옅은 단맛.",
+      "pairing": "토마토 샐러드·카프레제·파스타 같은 이탈리아 요리와 잘 어울립니다. 달콤한 향신 향이 토마토의 산미와 자연스럽게 이어지고, 옅은 단맛이 입맛을 부드럽게 정리합니다. 강한 훈연 향의 음식과는 섬세한 향이 묻히니 피하세요.",
+      "brewTip": "끓는 물을 한 김 식혀 부으면 향이 덜 날아갑니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "바질 스위트바질 나륵 허브차"
+    },
+    "en": {
+      "name": "Sweet Basil",
+      "oneLine": "Sweet basil, born in India — a clove-like sweet spice aroma blooms in hot water, leaving a light sweetness.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 4 minutes.",
+      "origin": "Native to India, now grown worldwide; the leaves are dried.",
+      "process": "Leaves picked, shade-dried, then steeped in hot water.",
+      "story": "This is the very basil of Italian pesto. Dried, its aroma survives well enough for the teapot.",
+      "flavor": "A sweet spice note like clove and anise, with light sweetness.",
+      "pairing": "Tomato salad, caprese and pasta suit it. Its sweet spice note flows naturally into tomato acidity, and the light sweetness settles the palate. Strongly smoked food buries its delicate aroma, so keep them apart.",
+      "brewTip": "Let boiling water rest a moment before pouring so the aroma stays.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "basil sweet basil herbal tea pesto"
+    },
+    "zh-CN": {
+      "name": "罗勒",
+      "oneLine": "原产印度的甜罗勒——丁香般的甜香料气息在热水中绽放，收尾留下一丝甘甜的叶茶。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡4分钟。",
+      "origin": "原产印度，如今世界各地栽培，叶片晒干使用。",
+      "process": "采叶阴干后用热水冲泡。",
+      "story": "这正是意大利青酱用的罗勒，晒干后香气也足够泡茶。",
+      "flavor": "丁香与茴香般的甜香料气息，带淡淡甘甜。",
+      "pairing": "适合番茄沙拉、卡普雷塞和意面等意大利料理。甜香料气息与番茄的酸味自然衔接，淡淡甘甜柔和地收尾。烟熏味重的食物会盖住它细腻的香气，请避开。",
+      "brewTip": "沸水稍放一会儿再冲，香气不易散。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "罗勒 甜罗勒 花草茶"
+    },
+    "zh-TW": {
+      "name": "羅勒",
+      "oneLine": "原產印度的甜羅勒——丁香般的甜香料氣息在熱水中綻放，收尾留下一絲甘甜的葉茶。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡4分鐘。",
+      "origin": "原產印度，如今世界各地栽培，葉片曬乾使用。",
+      "process": "採葉陰乾後用熱水沖泡。",
+      "story": "這正是義大利青醬用的羅勒，曬乾後香氣也足夠泡茶。",
+      "flavor": "丁香與茴香般的甜香料氣息，帶淡淡甘甜。",
+      "pairing": "適合番茄沙拉、卡普雷塞和義大利麵等義大利料理。甜香料氣息與番茄的酸味自然銜接，淡淡甘甜柔和地收尾。煙燻味重的食物會蓋住它細膩的香氣，請避開。",
+      "brewTip": "沸水稍放一會兒再沖，香氣不易散。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "羅勒 甜羅勒 花草茶"
+    },
+    "originCountryCode": "in"
+  },
+  {
+    "id": "herb-thyme",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "百",
+    "sub": "Thyme",
+    "alias": [
+      "백리향",
+      "百里香"
+    ],
+    "hz": "百里香",
+    "hs": "百里香",
+    "rom": "Thyme",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-refresh",
+    "originCountry": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國"
+    },
+    "x": {
+      "ko": [
+        "타임 잔가지를 말려 우린 차입니다.",
+        "한국의 백리향과 같은 타임속 식물로, 향이 멀리 간다고 백리향이라 불렀습니다."
+      ],
+      "en": [
+        "Dried thyme sprigs, steeped.",
+        "A Thymus cousin of Korea's baekrihyang — named for a scent said to travel a hundred ri."
+      ],
+      "zh-CN": [
+        "百里香小枝晒干冲泡。",
+        "与韩国百里香同属，因香飘百里而得名。"
+      ],
+      "zh-TW": [
+        "百里香小枝曬乾沖泡。",
+        "與韓國百里香同屬，因香飄百里而得名。"
+      ]
+    },
+    "ko": {
+      "name": "타임",
+      "oneLine": "지중해 바위틈의 작은 잎 타임, 한국 이름 백리향 — 향이 백 리를 간다는 그 풀을 우리면 알싸하고 따뜻한 향이 퍼집니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 5분.",
+      "origin": "지중해 연안 원산, 프랑스 등에서 재배합니다. 잔가지와 잎을 말려 씁니다.",
+      "process": "잔가지를 잘라 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "한국 자생종 백리향과 같은 속으로, 향이 백 리까지 간다는 뜻에서 이름이 붙었습니다. 프랑스 요리의 부케 가르니 단골입니다.",
+      "flavor": "알싸하고 따뜻한 허브 향, 끝에 옅은 민트 같은 청량감.",
+      "pairing": "수프·스튜·구운 채소와 잘 어울립니다. 알싸한 허브 향이 국물 요리의 깊은 맛과 자연스럽게 겹치고, 청량한 끝이 느끼함을 정리합니다. 섬세한 생선회와는 향이 앞서니 따로 즐기세요.",
+      "brewTip": "뚜껑을 덮고 우리면 향이 덜 달아납니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "타임 백리향 허브차 부케가르니"
+    },
+    "en": {
+      "name": "Thyme",
+      "oneLine": "Thyme from Mediterranean rock crevices — Korea calls it baekrihyang, the herb whose scent travels a hundred ri; steeped, it spreads a warm, peppery aroma.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 5 minutes.",
+      "origin": "Native to the Mediterranean coast, grown in France and beyond; sprigs and leaves are dried.",
+      "process": "Sprigs cut, dried, then steeped in hot water.",
+      "story": "A cousin of Korea's native baekrihyang, named for a scent said to travel a hundred ri. A regular in the French bouquet garni.",
+      "flavor": "A warm, peppery herb aroma with a faint minty freshness at the end.",
+      "pairing": "Soups, stews and roast vegetables suit it. Its peppery aroma layers naturally into brothy dishes, and the fresh finish tidies up richness. Delicate sashimi is outrun by its scent, so enjoy them apart.",
+      "brewTip": "Steep with the lid on so the aroma stays in the cup.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "thyme baekrihyang herbal tea bouquet garni"
+    },
+    "zh-CN": {
+      "name": "百里香",
+      "oneLine": "地中海岩缝里的百里香——香飘百里的那株小草，冲泡后散开辛香而温暖的草本气息。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分钟。",
+      "origin": "原产地中海沿岸，在法国等地栽培，小枝与叶晒干使用。",
+      "process": "剪下小枝晒干后用热水冲泡。",
+      "story": "与韩国原生百里香同属，因香飘百里得名，也是法式香草束的常客。",
+      "flavor": "辛香温暖的草本气，收尾带淡淡薄荷般的清凉。",
+      "pairing": "适合汤、炖菜和烤蔬菜。辛香的草本气与汤菜的醇厚自然叠合，清凉的收尾收拾油腻。精致的生鱼片会被它的香气抢先，请分开享用。",
+      "brewTip": "盖上盖子泡，香气不易跑。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "百里香 麝香草 花草茶"
+    },
+    "zh-TW": {
+      "name": "百里香",
+      "oneLine": "地中海岩縫裡的百里香——香飄百里的那株小草，沖泡後散開辛香而溫暖的草本氣息。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分鐘。",
+      "origin": "原產地中海沿岸，在法國等地栽培，小枝與葉曬乾使用。",
+      "process": "剪下小枝曬乾後用熱水沖泡。",
+      "story": "與韓國原生百里香同屬，因香飄百里得名，也是法式香草束的常客。",
+      "flavor": "辛香溫暖的草本氣，收尾帶淡淡薄荷般的清涼。",
+      "pairing": "適合湯、燉菜和烤蔬菜。辛香的草本氣與湯菜的醇厚自然疊合，清涼的收尾收拾油膩。精緻的生魚片會被它的香氣搶先，請分開享用。",
+      "brewTip": "蓋上蓋子泡，香氣不易跑。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "百里香 麝香草 花草茶"
+    },
+    "originCountryCode": "fr"
+  },
+  {
+    "id": "herb-tulsi",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "聖",
+    "sub": "Tulsi (Holy Basil)",
+    "alias": [
+      "홀리바질",
+      "聖羅勒"
+    ],
+    "hz": "聖羅勒",
+    "hs": "圣罗勒",
+    "rom": "Tulsi",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-solo c-none m-calm",
+    "originCountry": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度"
+    },
+    "x": {
+      "ko": [
+        "툴시 잎을 말려 우린 차입니다.",
+        "인도에서는 집집마다 툴시를 기르며 아침마다 잎차로 마셔 왔습니다."
+      ],
+      "en": [
+        "Dried tulsi leaves, steeped.",
+        "Across India, households grow tulsi and drink the leaf as a morning tea."
+      ],
+      "zh-CN": [
+        "圣罗勒叶晒干冲泡。",
+        "在印度，家家户户种圣罗勒，清晨摘叶泡茶。"
+      ],
+      "zh-TW": [
+        "聖羅勒葉曬乾沖泡。",
+        "在印度，家家戶戶種聖羅勒，清晨摘葉泡茶。"
+      ]
+    },
+    "ko": {
+      "name": "툴시",
+      "oneLine": "인도에서 신성하게 여기는 홀리바질 툴시 — 바질보다 깊고 후추처럼 알싸한 향에 옅은 단맛이 겹쳐 차분하게 가라앉는 잎차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "인도 전역에서 재배합니다. 잎을 말려 씁니다.",
+      "process": "잎을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "힌두교에서 신성한 식물로 여겨 집집마다 화분을 기릅니다. 아유르베다에서도 오래 써 온 잎입니다.",
+      "flavor": "정향·후추를 닮은 알싸한 향과 옅은 단맛, 따뜻한 풀 내음.",
+      "pairing": "인도식 커리·달(렌틸 수프)·사모사와 잘 어울립니다. 알싸한 향이 향신료 요리와 같은 결로 이어지고, 옅은 단맛이 매운맛의 끝을 부드럽게 받습니다. 섬세한 초밥과는 향이 앞서니 따로 즐기세요.",
+      "brewTip": "뚜껑을 덮어 향을 잡고 우리세요.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "툴시 홀리바질 아유르베다 허브차"
+    },
+    "en": {
+      "name": "Tulsi (Holy Basil)",
+      "oneLine": "Tulsi, India's sacred holy basil — deeper than sweet basil, peppery and warm, with a light sweetness that settles calmly.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Grown across India; the leaves are dried.",
+      "process": "Leaves picked, shade-dried, then steeped in hot water.",
+      "story": "Sacred in Hindu tradition, kept in a pot at household doors, and used in Ayurveda for centuries.",
+      "flavor": "A peppery, clove-like warmth with light sweetness and a green note.",
+      "pairing": "Indian curries, dal and samosas suit it. Its peppery warmth runs in the same direction as spiced food, and the light sweetness cushions the heat at the finish. Delicate sushi is outrun by its aroma, so enjoy them apart.",
+      "brewTip": "Steep covered to hold the aroma.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "tulsi holy basil ayurveda herbal tea"
+    },
+    "zh-CN": {
+      "name": "圣罗勒",
+      "oneLine": "在印度被视为神圣的圣罗勒图尔西——比甜罗勒更深沉，胡椒般的辛香叠着淡淡甘甜，沉稳收尾的叶茶。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "印度各地栽培，叶片晒干使用。",
+      "process": "采叶阴干后用热水冲泡。",
+      "story": "在印度教传统中被视为圣草，家家户户在门口种一盆，阿育吠陀也用了几个世纪。",
+      "flavor": "丁香与胡椒般的辛香、淡淡甘甜与温暖的青草气。",
+      "pairing": "适合印度咖喱、扁豆汤和萨莫萨。辛香的温暖与香料料理同向而行，淡淡甘甜柔和地托住辣味的收尾。精致的寿司会被它的香气抢先，请分开享用。",
+      "brewTip": "盖盖冲泡，留住香气。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "圣罗勒 图尔西 阿育吠陀 花草茶"
+    },
+    "zh-TW": {
+      "name": "聖羅勒",
+      "oneLine": "在印度被視為神聖的聖羅勒圖爾西——比甜羅勒更深沉，胡椒般的辛香疊著淡淡甘甜，沉穩收尾的葉茶。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "印度各地栽培，葉片曬乾使用。",
+      "process": "採葉陰乾後用熱水沖泡。",
+      "story": "在印度教傳統中被視為聖草，家家戶戶在門口種一盆，阿育吠陀也用了幾個世紀。",
+      "flavor": "丁香與胡椒般的辛香、淡淡甘甜與溫暖的青草氣。",
+      "pairing": "適合印度咖哩、扁豆湯和薩莫薩。辛香的溫暖與香料料理同向而行，淡淡甘甜柔和地托住辣味的收尾。精緻的壽司會被它的香氣搶先，請分開享用。",
+      "brewTip": "蓋蓋沖泡，留住香氣。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "聖羅勒 圖爾西 阿育吠陀 花草茶"
+    },
+    "originCountryCode": "in"
+  },
+  {
+    "id": "herb-fennel",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "茴",
+    "sub": "Fennel",
+    "alias": [
+      "회향",
+      "茴香"
+    ],
+    "hz": "小茴香",
+    "hs": "小茴香",
+    "rom": "Fennel",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "3g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-light k-sweet r-clean s-hot w-quick p-meal c-none m-calm",
+    "originCountry": {
+      "ko": "이집트",
+      "en": "Egypt",
+      "zh-CN": "埃及",
+      "zh-TW": "埃及"
+    },
+    "x": {
+      "ko": [
+        "펜넬 씨앗을 살짝 으깨 우린 차입니다.",
+        "인도 식당에서는 식후에 펜넬 씨앗을 그대로 내놓기도 합니다."
+      ],
+      "en": [
+        "Fennel seeds, lightly crushed and steeped.",
+        "Indian restaurants often serve the seeds themselves after a meal."
+      ],
+      "zh-CN": [
+        "茴香籽轻轻碾碎后冲泡。",
+        "印度餐厅常在饭后直接端上茴香籽。"
+      ],
+      "zh-TW": [
+        "茴香籽輕輕碾碎後沖泡。",
+        "印度餐廳常在飯後直接端上茴香籽。"
+      ]
+    },
+    "ko": {
+      "name": "펜넬",
+      "oneLine": "지중해에서 온 펜넬 씨앗, 한자로 회향 — 아니스를 닮은 달콤한 향이 입안을 부드럽게 감싸는 씨앗차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 3g",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "지중해 원산, 이집트 등에서 재배합니다. 잘 익은 씨앗을 말려 씁니다.",
+      "process": "씨앗을 말린 뒤 살짝 으깨 뜨거운 물에 우립니다.",
+      "story": "고대 이집트와 로마에서도 쓴 오래된 씨앗입니다. 인도에서는 식후 입가심으로 씨앗을 그대로 씹기도 합니다.",
+      "flavor": "아니스·감초를 닮은 달콤한 향과 부드러운 풀 내음.",
+      "pairing": "기름진 생선구이·돼지고기 요리 뒤 한 잔으로 잘 어울립니다. 달콤한 향이 식후 입안을 부드럽게 정리하고, 씨앗차 특유의 가벼움이 느끼함을 덜어 줍니다. 진한 커피와는 향이 겹쳐 따로 즐기세요.",
+      "brewTip": "씨앗을 살짝 으깨면 향이 훨씬 진해집니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "펜넬 회향 씨앗차 소회향"
+    },
+    "en": {
+      "name": "Fennel",
+      "oneLine": "Fennel seeds from the Mediterranean — huixiang in Chinese — an anise-like sweetness that wraps the palate softly.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "3 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Native to the Mediterranean, grown in Egypt and beyond; ripe seeds are dried.",
+      "process": "Seeds dried, lightly crushed, then steeped in hot water.",
+      "story": "Used since ancient Egypt and Rome. In India the seeds are chewed after meals as a palate freshener.",
+      "flavor": "Anise and liquorice sweetness with a soft green note.",
+      "pairing": "A cup after grilled oily fish or pork suits it. Its sweet aroma tidies the palate gently, and the lightness of a seed tea lifts the richness. Strong coffee overlaps its aroma, so enjoy them apart.",
+      "brewTip": "Crush the seeds lightly for a much fuller aroma.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "fennel seeds huixiang seed tea"
+    },
+    "zh-CN": {
+      "name": "小茴香",
+      "oneLine": "来自地中海的茴香籽——丁香般的甜香柔和地包裹口腔的种子茶。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配3克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "原产地中海，在埃及等地栽培，成熟的籽晒干使用。",
+      "process": "籽晒干后轻轻碾碎，用热水冲泡。",
+      "story": "古埃及与罗马时代就在用的老种子，印度人饭后也会直接嚼籽清口。",
+      "flavor": "茴香与甘草般的甜香，带柔和的青草气。",
+      "pairing": "适合油腻的烤鱼或猪肉之后来一杯。甜香柔和地收拾饭后的口腔，种子茶的轻盈减轻油腻感。浓咖啡会与它的香气重叠，请分开享用。",
+      "brewTip": "籽轻轻碾碎，香气浓得多。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "小茴香 茴香籽 种子茶"
+    },
+    "zh-TW": {
+      "name": "小茴香",
+      "oneLine": "來自地中海的茴香籽——丁香般的甜香柔和地包裹口腔的種子茶。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配3公克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "原產地中海，在埃及等地栽培，成熟的籽曬乾使用。",
+      "process": "籽曬乾後輕輕碾碎，用熱水沖泡。",
+      "story": "古埃及與羅馬時代就在用的老種子，印度人飯後也會直接嚼籽清口。",
+      "flavor": "茴香與甘草般的甜香，帶柔和的青草氣。",
+      "pairing": "適合油膩的烤魚或豬肉之後來一杯。甜香柔和地收拾飯後的口腔，種子茶的輕盈減輕油膩感。濃咖啡會與它的香氣重疊，請分開享用。",
+      "brewTip": "籽輕輕碾碎，香氣濃得多。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "小茴香 茴香籽 種子茶"
+    },
+    "originCountryCode": "eg"
+  },
+  {
+    "id": "herb-anise",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "芹",
+    "sub": "Anise",
+    "alias": [
+      "아니스씨드",
+      "茴芹"
+    ],
+    "hz": "茴芹",
+    "hs": "茴芹",
+    "rom": "Anise",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon t-night a-herb b-light k-sweet r-clean s-hot w-quick p-dessert c-none m-calm",
+    "originCountry": {
+      "ko": "이집트",
+      "en": "Egypt",
+      "zh-CN": "埃及",
+      "zh-TW": "埃及"
+    },
+    "x": {
+      "ko": [
+        "아니스 씨앗을 우린 차입니다.",
+        "팔각과는 다른 식물로, 씨앗의 달콤한 향만 서로 닮았습니다."
+      ],
+      "en": [
+        "Anise seeds, steeped.",
+        "A different plant from star anise — only the sweet scent of the seeds resembles it."
+      ],
+      "zh-CN": [
+        "茴芹籽冲泡成的茶。",
+        "与八角是不同的植物，只是籽的甜香相似。"
+      ],
+      "zh-TW": [
+        "茴芹籽沖泡成的茶。",
+        "與八角是不同的植物，只是籽的甜香相似。"
+      ]
+    },
+    "ko": {
+      "name": "아니스",
+      "oneLine": "이집트 나일 강변의 작은 씨앗 아니스 — 현지에서 '얀순'이라 부르는 이 차는 감초처럼 달콤한 향이 부드럽게 번집니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "지중해 동부와 이집트에서 재배합니다. 작은 씨앗을 말려 씁니다.",
+      "process": "씨앗을 말린 뒤 살짝 으깨 뜨거운 물에 우립니다.",
+      "story": "이집트에서는 아니스차를 '얀순'이라 부르며 일상적으로 마십니다. 팔각과는 다른 식물이지만 달콤한 향의 성분이 닮았습니다.",
+      "flavor": "감초처럼 달콤한 향과 부드럽고 따뜻한 끝맛.",
+      "pairing": "바클라바·날짜야자·견과 디저트와 잘 어울립니다. 감초 같은 단향이 중동식 디저트의 꿀 단맛과 자연스럽게 이어지고, 부드러운 끝이 입안을 편안하게 합니다. 매운 음식과는 단향이 튀어 따로 즐기세요.",
+      "brewTip": "씨앗을 살짝 으깨고 뚜껑을 덮어 우리세요.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "아니스 얀순 씨앗차 이집트"
+    },
+    "en": {
+      "name": "Anise",
+      "oneLine": "Anise, a small seed from Egypt's Nile banks — called yansoon at home, its liquorice-sweet aroma spreads softly.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Grown in the eastern Mediterranean and Egypt; the small seeds are dried.",
+      "process": "Seeds dried, lightly crushed, then steeped in hot water.",
+      "story": "In Egypt anise tea is called yansoon and drunk every day. A different plant from star anise, though the sweet scent compound is shared.",
+      "flavor": "Liquorice-like sweetness with a soft, warm finish.",
+      "pairing": "Baklava, dates and nut desserts suit it. Its liquorice sweetness flows into the honeyed sweetness of Middle Eastern desserts, and the soft finish rests the palate. Spicy food makes its sweetness jump out, so enjoy them apart.",
+      "brewTip": "Crush the seeds lightly and steep covered.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "anise yansoon seed tea egypt"
+    },
+    "zh-CN": {
+      "name": "茴芹",
+      "oneLine": "埃及尼罗河畔的小种子茴芹——当地人叫它yansoon，甘草般的甜香柔和地弥漫开来。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "在地中海东部与埃及栽培，小小的籽晒干使用。",
+      "process": "籽晒干后轻轻碾碎，用热水冲泡。",
+      "story": "在埃及，茴芹茶叫yansoon，是日常饮品。它与八角是不同的植物，只是甜香成分相似。",
+      "flavor": "甘草般的甜香，收尾柔和温暖。",
+      "pairing": "适合巴克拉瓦、椰枣和坚果甜点。甘草般的甜香与中东甜点的蜜甜自然衔接，柔和的收尾让口腔舒适。辛辣食物会让它的甜香跳出来，请分开享用。",
+      "brewTip": "籽轻轻碾碎，盖盖冲泡。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "茴芹 yansoon 种子茶 埃及"
+    },
+    "zh-TW": {
+      "name": "茴芹",
+      "oneLine": "埃及尼羅河畔的小種子茴芹——當地人叫它yansoon，甘草般的甜香柔和地彌漫開來。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "在地中海東部與埃及栽培，小小的籽曬乾使用。",
+      "process": "籽曬乾後輕輕碾碎，用熱水沖泡。",
+      "story": "在埃及，茴芹茶叫yansoon，是日常飲品。它與八角是不同的植物，只是甜香成分相似。",
+      "flavor": "甘草般的甜香，收尾柔和溫暖。",
+      "pairing": "適合巴克拉瓦、椰棗和堅果甜點。甘草般的甜香與中東甜點的蜜甜自然銜接，柔和的收尾讓口腔舒適。辛辣食物會讓它的甜香跳出來，請分開享用。",
+      "brewTip": "籽輕輕碾碎，蓋蓋沖泡。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "茴芹 yansoon 種子茶 埃及"
+    },
+    "originCountryCode": "eg"
+  },
+  {
+    "id": "herb-marigold",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "萬",
+    "sub": "Marigold",
+    "alias": [
+      "만수국",
+      "萬壽菊"
+    ],
+    "hz": "萬壽菊",
+    "hs": "万寿菊",
+    "rom": "Marigold",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      240,
+      240
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
+    "originCountry": {
+      "ko": "멕시코",
+      "en": "Mexico",
+      "zh-CN": "墨西哥",
+      "zh-TW": "墨西哥"
+    },
+    "x": {
+      "ko": [
+        "마리골드 꽃잎을 말려 우린 차입니다.",
+        "멕시코에서는 셈파수칠이라 부르며 죽은 자의 날 제단을 장식합니다."
+      ],
+      "en": [
+        "Dried marigold petals, steeped.",
+        "In Mexico it is cempasúchil, the flower that decks altars on the Day of the Dead."
+      ],
+      "zh-CN": [
+        "万寿菊花瓣晒干冲泡。",
+        "在墨西哥叫cempasúchil，是亡灵节祭坛上的花。"
+      ],
+      "zh-TW": [
+        "萬壽菊花瓣曬乾沖泡。",
+        "在墨西哥叫cempasúchil，是亡靈節祭壇上的花。"
+      ]
+    },
+    "ko": {
+      "name": "마리골드",
+      "oneLine": "멕시코 죽은 자의 날을 밝히는 금빛 꽃 마리골드 — 꽃잎을 우리면 꿀처럼 달콤하고 따뜻한 꽃 향이 잔에 가득 찹니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g(꽃 2~3송이)",
+      "rounds": "2회",
+      "steepBasis": "90도에서 4분.",
+      "origin": "멕시코 원산입니다. 꽃을 통째로 말려 씁니다.",
+      "process": "꽃을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "멕시코에서는 셈파수칠이라 부르며, 죽은 자의 날에 제단과 묘지를 금빛으로 장식하는 꽃입니다.",
+      "flavor": "꿀처럼 달콤한 꽃 향과 옅은 과일 향, 황금빛 수색.",
+      "pairing": "옥수수 디저트·호박 파이·꿀 케이크와 잘 어울립니다. 달콤한 꽃 향이 구수한 디저트의 단맛과 부드럽게 겹치고, 황금빛 수색이 식탁의 분위기까지 밝힙니다. 강한 향신료 요리와는 꽃 향이 묻히니 따로 즐기세요.",
+      "brewTip": "꽃이 물을 머금고 피어나는 모습을 유리잔으로 즐기세요.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "마리골드 만수국 셈파수칠 꽃차 멕시코"
+    },
+    "en": {
+      "name": "Marigold",
+      "oneLine": "Marigold, the golden flower of Mexico's Day of the Dead — steep the petals for a honey-sweet, warm floral cup.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g (2–3 flowers) to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 4 minutes.",
+      "origin": "Native to Mexico; whole flowers are dried.",
+      "process": "Flowers picked, shade-dried, then steeped in hot water.",
+      "story": "Called cempasúchil in Mexico, it gilds altars and graves on the Day of the Dead.",
+      "flavor": "Honey-sweet floral aroma, a hint of fruit, golden liquor.",
+      "pairing": "Corn desserts, pumpkin pie and honey cake suit it. Its sweet floral note layers softly over toasty desserts, and the golden liquor brightens the table. Strongly spiced food buries the floral scent, so enjoy them apart.",
+      "brewTip": "Use a glass and watch the flowers open as they drink the water.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "marigold cempasuchil flower tea mexico"
+    },
+    "zh-CN": {
+      "name": "万寿菊",
+      "oneLine": "点亮墨西哥亡灵节的金色花朵万寿菊——花瓣冲泡后，蜜糖般甘甜温暖的花香盈满杯中。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克(2~3朵花)",
+      "rounds": "2泡",
+      "steepBasis": "90度泡4分钟。",
+      "origin": "原产墨西哥，整朵花晒干使用。",
+      "process": "采花阴干后用热水冲泡。",
+      "story": "在墨西哥叫cempasúchil，亡灵节时把祭坛与墓地装点成金色。",
+      "flavor": "蜜糖般的甜花香与淡淡果香，汤色金黄。",
+      "pairing": "适合玉米甜点、南瓜派和蜂蜜蛋糕。甜花香与焦香甜点的甜味柔和叠合，金黄的汤色也点亮餐桌。香料味重的料理会盖住花香，请分开享用。",
+      "brewTip": "用玻璃杯看花朵吸水绽放。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "万寿菊 花茶 墨西哥"
+    },
+    "zh-TW": {
+      "name": "萬壽菊",
+      "oneLine": "點亮墨西哥亡靈節的金色花朵萬壽菊——花瓣沖泡後，蜜糖般甘甜溫暖的花香盈滿杯中。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克(2~3朵花)",
+      "rounds": "2泡",
+      "steepBasis": "90度泡4分鐘。",
+      "origin": "原產墨西哥，整朵花曬乾使用。",
+      "process": "採花陰乾後用熱水沖泡。",
+      "story": "在墨西哥叫cempasúchil，亡靈節時把祭壇與墓地裝點成金色。",
+      "flavor": "蜜糖般的甜花香與淡淡果香，湯色金黃。",
+      "pairing": "適合玉米甜點、南瓜派和蜂蜜蛋糕。甜花香與焦香甜點的甜味柔和疊合，金黃的湯色也點亮餐桌。香料味重的料理會蓋住花香，請分開享用。",
+      "brewTip": "用玻璃杯看花朵吸水綻放。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "萬壽菊 花茶 墨西哥"
+    },
+    "originCountryCode": "mx"
+  },
+  {
+    "id": "herb-sage",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "鼠",
+    "sub": "Sage",
+    "alias": [
+      "아다차이",
+      "鼠尾草"
+    ],
+    "hz": "鼠尾草",
+    "hs": "鼠尾草",
+    "rom": "Sage",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-calm",
+    "originCountry": {
+      "ko": "튀르키예",
+      "en": "Türkiye",
+      "zh-CN": "土耳其",
+      "zh-TW": "土耳其"
+    },
+    "x": {
+      "ko": [
+        "세이지 잎을 말려 우린 차입니다.",
+        "튀르키예에서는 아다차이라 부르며 찻집에서 유리잔에 내어 줍니다."
+      ],
+      "en": [
+        "Dried sage leaves, steeped.",
+        "In Türkiye it is adaçayı, served in tea glasses at tea houses."
+      ],
+      "zh-CN": [
+        "鼠尾草叶晒干冲泡。",
+        "在土耳其叫adaçayı，茶馆里用玻璃杯端上。"
+      ],
+      "zh-TW": [
+        "鼠尾草葉曬乾沖泡。",
+        "在土耳其叫adaçayı，茶館裡用玻璃杯端上。"
+      ]
+    },
+    "ko": {
+      "name": "세이지",
+      "oneLine": "튀르키예 사람들이 '아다차이'라 부르는 세이지 — 은빛 잎을 우리면 흙 내음과 민트를 닮은 청량감이 함께 번지는 잎차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 5분.",
+      "origin": "지중해 원산, 튀르키예에서 차로 널리 마십니다. 잎을 말려 씁니다.",
+      "process": "잎을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "튀르키예에서는 세이지차를 아다차이라 부르며, 홍차만큼 일상적으로 유리잔에 마십니다.",
+      "flavor": "흙 내음과 유칼립투스를 닮은 청량감, 옅은 쌉싸래함.",
+      "pairing": "구운 양고기·병아리콩 요리·튀르키예식 아침 식사와 잘 어울립니다. 청량한 허브 향이 기름진 음식의 무게를 덜고, 옅은 쌉싸래함이 입안을 정리합니다. 달콤한 디저트와는 향의 결이 달라 따로 즐기세요.",
+      "brewTip": "너무 오래 우리면 쌉싸래해지니 5분을 지키세요.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "세이지 아다차이 튀르키예 허브차"
+    },
+    "en": {
+      "name": "Sage",
+      "oneLine": "Sage — Türkiye drinks it as adaçayı — silvery leaves that steep into earthy depth with a mint-like freshness.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 5 minutes.",
+      "origin": "Native to the Mediterranean, drunk widely as tea in Türkiye; the leaves are dried.",
+      "process": "Leaves picked, shade-dried, then steeped in hot water.",
+      "story": "In Türkiye sage tea is adaçayı, an everyday glass alongside black tea.",
+      "flavor": "Earthy depth, eucalyptus-like freshness and a light bitter edge.",
+      "pairing": "Grilled lamb, chickpea dishes and a Turkish breakfast suit it. Its fresh herb note lifts rich food, and the light bitterness tidies the palate. Sweet desserts run on a different track, so enjoy them apart.",
+      "brewTip": "Keep to five minutes — longer turns it bitter.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "sage adacayi turkiye herbal tea"
+    },
+    "zh-CN": {
+      "name": "鼠尾草",
+      "oneLine": "土耳其人叫它adaçayı的鼠尾草——银色的叶子冲泡后，泥土气息与薄荷般的清凉一同弥漫的叶茶。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分钟。",
+      "origin": "原产地中海，在土耳其作为茶广泛饮用，叶片晒干使用。",
+      "process": "采叶阴干后用热水冲泡。",
+      "story": "在土耳其，鼠尾草茶叫adaçayı，和红茶一样日常，用玻璃杯喝。",
+      "flavor": "泥土气息、桉叶般的清凉与淡淡的苦。",
+      "pairing": "适合烤羊肉、鹰嘴豆料理和土耳其式早餐。清凉的草本香减轻油腻食物的厚重，淡淡的苦收拾口腔。甜味甜点走另一条路线，请分开享用。",
+      "brewTip": "泡太久会苦，守住5分钟。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "鼠尾草 adacayi 土耳其 花草茶"
+    },
+    "zh-TW": {
+      "name": "鼠尾草",
+      "oneLine": "土耳其人叫它adaçayı的鼠尾草——銀色的葉子沖泡後，泥土氣息與薄荷般的清涼一同彌漫的葉茶。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分鐘。",
+      "origin": "原產地中海，在土耳其作為茶廣泛飲用，葉片曬乾使用。",
+      "process": "採葉陰乾後用熱水沖泡。",
+      "story": "在土耳其，鼠尾草茶叫adaçayı，和紅茶一樣日常，用玻璃杯喝。",
+      "flavor": "泥土氣息、桉葉般的清涼與淡淡的苦。",
+      "pairing": "適合烤羊肉、鷹嘴豆料理和土耳其式早餐。清涼的草本香減輕油膩食物的厚重，淡淡的苦收拾口腔。甜味甜點走另一條路線，請分開享用。",
+      "brewTip": "泡太久會苦，守住5分鐘。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "鼠尾草 adacayi 土耳其 花草茶"
+    },
+    "originCountryCode": "tr"
+  },
+  {
+    "id": "herb-lemonverbena",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "檸",
+    "sub": "Lemon Verbena",
+    "alias": [
+      "버베나",
+      "檸檬馬鞭草"
+    ],
+    "hz": "檸檬馬鞭草",
+    "hs": "柠檬马鞭草",
+    "rom": "Lemon Verbena",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon t-night a-fruit a-herb b-light k-sweet r-clean s-hot s-iced w-quick p-solo c-none m-calm",
+    "originCountry": {
+      "ko": "아르헨티나",
+      "en": "Argentina",
+      "zh-CN": "阿根廷",
+      "zh-TW": "阿根廷"
+    },
+    "x": {
+      "ko": [
+        "레몬버베나 잎을 말려 우린 차입니다.",
+        "프랑스에서는 베르벤느라 부르며 식후 차로 사랑받습니다."
+      ],
+      "en": [
+        "Dried lemon verbena leaves, steeped.",
+        "In France it is verveine, a beloved after-dinner cup."
+      ],
+      "zh-CN": [
+        "柠檬马鞭草叶晒干冲泡。",
+        "在法国叫verveine，是受欢迎的饭后茶。"
+      ],
+      "zh-TW": [
+        "檸檬馬鞭草葉曬乾沖泡。",
+        "在法國叫verveine，是受歡迎的飯後茶。"
+      ]
+    },
+    "ko": {
+      "name": "레몬버베나",
+      "oneLine": "남아메리카가 고향인 레몬버베나 — 말린 잎에서도 레몬 사탕 같은 향이 진하게 남아, 밤 한 잔으로 사랑받는 허브입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 5분.",
+      "origin": "남아메리카 원산, 아르헨티나 등에서 자랍니다. 잎을 말려 씁니다.",
+      "process": "잎을 따 그늘에서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "18세기에 유럽으로 건너가 프랑스에서는 베르벤느라는 이름의 식후 차로 자리 잡았습니다.",
+      "flavor": "레몬 사탕처럼 진한 시트러스 향과 옅은 단맛.",
+      "pairing": "마들렌·레몬 케이크·과일 샐러드와 잘 어울립니다. 진한 시트러스 향이 버터 디저트의 무게를 가볍게 끊고, 옅은 단맛이 산미와 부드럽게 이어집니다. 진한 매운 음식과는 섬세한 향이 묻히니 따로 즐기세요.",
+      "brewTip": "뚜껑을 덮고 우리면 레몬 향이 잔에 남습니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "레몬버베나 베르벤느 허브차 레몬향"
+    },
+    "en": {
+      "name": "Lemon Verbena",
+      "oneLine": "Lemon verbena from South America — even dried, the leaves keep a lemon-drop intensity; a beloved evening cup.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 5 minutes.",
+      "origin": "Native to South America, grown in Argentina and beyond; the leaves are dried.",
+      "process": "Leaves picked, shade-dried, then steeped in hot water.",
+      "story": "It crossed to Europe in the 18th century and settled in France as verveine, the after-dinner tea.",
+      "flavor": "Intense lemon-drop citrus with light sweetness.",
+      "pairing": "Madeleines, lemon cake and fruit salad suit it. Its strong citrus cuts lightly through buttery desserts, and the light sweetness flows into their acidity. Strongly spicy food buries its delicate aroma, so enjoy them apart.",
+      "brewTip": "Steep covered so the lemon aroma stays in the cup.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "lemon verbena verveine herbal tea citrus"
+    },
+    "zh-CN": {
+      "name": "柠檬马鞭草",
+      "oneLine": "原产南美洲的柠檬马鞭草——干叶也留着柠檬糖般浓郁的香气，是备受喜爱的晚间一杯。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分钟。",
+      "origin": "原产南美洲，在阿根廷等地生长，叶片晒干使用。",
+      "process": "采叶阴干后用热水冲泡。",
+      "story": "18世纪传入欧洲，在法国以verveine之名成为饭后茶。",
+      "flavor": "柠檬糖般浓郁的柑橘香与淡淡甘甜。",
+      "pairing": "适合玛德琳、柠檬蛋糕和水果沙拉。浓郁的柑橘香轻盈地切开黄油甜点的厚重，淡淡甘甜与酸味柔和衔接。重辣食物会盖住它细腻的香气，请分开享用。",
+      "brewTip": "盖盖冲泡，柠檬香留在杯中。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "柠檬马鞭草 verveine 花草茶"
+    },
+    "zh-TW": {
+      "name": "檸檬馬鞭草",
+      "oneLine": "原產南美洲的檸檬馬鞭草——乾葉也留著檸檬糖般濃郁的香氣，是備受喜愛的晚間一杯。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡5分鐘。",
+      "origin": "原產南美洲，在阿根廷等地生長，葉片曬乾使用。",
+      "process": "採葉陰乾後用熱水沖泡。",
+      "story": "18世紀傳入歐洲，在法國以verveine之名成為飯後茶。",
+      "flavor": "檸檬糖般濃郁的柑橘香與淡淡甘甜。",
+      "pairing": "適合瑪德琳、檸檬蛋糕和水果沙拉。濃郁的柑橘香輕盈地切開黃油甜點的厚重，淡淡甘甜與酸味柔和銜接。重辣食物會蓋住它細膩的香氣，請分開享用。",
+      "brewTip": "蓋蓋沖泡，檸檬香留在杯中。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "檸檬馬鞭草 verveine 花草茶"
+    },
+    "originCountryCode": "ar"
+  },
+  {
+    "id": "herb-cardamom",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "豆",
+    "sub": "Green Cardamom",
+    "alias": [
+      "카다몬",
+      "小豆蔻"
+    ],
+    "hz": "小豆蔻",
+    "hs": "小豆蔻",
+    "rom": "Cardamom",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "3g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-refresh",
+    "originCountry": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度"
+    },
+    "x": {
+      "ko": [
+        "그린카다멈 꼬투리를 으깨 우린 차입니다.",
+        "아랍 커피와 인도 짜이에도 같은 꼬투리가 들어갑니다."
+      ],
+      "en": [
+        "Green cardamom pods, crushed and steeped.",
+        "The same pods go into Arabic coffee and Indian chai."
+      ],
+      "zh-CN": [
+        "绿豆蔻荚碾碎后冲泡。",
+        "阿拉伯咖啡与印度奶茶里也放同样的荚。"
+      ],
+      "zh-TW": [
+        "綠豆蔻莢碾碎後沖泡。",
+        "阿拉伯咖啡與印度奶茶裡也放同樣的莢。"
+      ]
+    },
+    "ko": {
+      "name": "카다멈",
+      "oneLine": "인도와 과테말라의 그린카다멈 — '향신료의 여왕'이라 불리는 꼬투리를 깨면 화사하고 시원한 향이 단번에 피어납니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 3g(꼬투리 4~5개)",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "인도 말라바르 해안 원산, 과테말라도 큰 산지입니다. 꼬투리를 말려 씁니다.",
+      "process": "꼬투리를 말린 뒤 살짝 으깨 뜨거운 물에 우립니다.",
+      "story": "사프란·바닐라와 함께 값비싼 향신료로 꼽힙니다. 아랍 커피와 북유럽 빵, 인도 짜이에 두루 들어갑니다.",
+      "flavor": "유칼립투스처럼 시원하고 화사한 향, 옅은 단맛.",
+      "pairing": "짜이·아랍 커피처럼 향신료 음료와 같은 결로 어울리고, 시나몬 롤·버터 쿠키와도 잘 맞습니다. 화사한 향이 달콤한 빵의 버터 향을 밝게 띄워 줍니다. 섬세한 녹차와는 향이 겹쳐 따로 즐기세요.",
+      "brewTip": "꼬투리를 으깨야 속 씨앗의 향이 나옵니다.",
+      "keep": "꼬투리째 밀봉해 건조하게.",
+      "keywords": "카다멈 카다몬 향신료 여왕 짜이"
+    },
+    "en": {
+      "name": "Green Cardamom",
+      "oneLine": "Green cardamom from India and Guatemala — crack the pod of the 'queen of spices' and a bright, cool aroma blooms at once.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "3 g (4–5 pods) to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Native to India's Malabar Coast, with Guatemala a major grower; the pods are dried.",
+      "process": "Pods dried, lightly crushed, then steeped in hot water.",
+      "story": "Counted among the priciest spices with saffron and vanilla. It seasons Arabic coffee, Nordic buns and Indian chai.",
+      "flavor": "A cool, bright eucalyptus-like aroma with light sweetness.",
+      "pairing": "It runs in the same direction as spiced drinks like chai and Arabic coffee, and suits cinnamon rolls and butter cookies. Its bright aroma lifts the butter note of sweet bakes. Delicate green teas clash with its scent, so enjoy them apart.",
+      "brewTip": "Crush the pods — the aroma lives in the seeds inside.",
+      "keep": "Sealed whole pods, dry.",
+      "keywords": "cardamom queen of spices chai pod tea"
+    },
+    "zh-CN": {
+      "name": "小豆蔻",
+      "oneLine": "来自印度与危地马拉的绿豆蔻——敲开有香料女王之称的豆荚，华丽清凉的香气瞬间绽放。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配3克(4~5个荚)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "原产印度马拉巴尔海岸，危地马拉也是大产地，豆荚晒干使用。",
+      "process": "豆荚晒干后轻轻碾碎，用热水冲泡。",
+      "story": "与藏红花、香草并列的高价香料，用于阿拉伯咖啡、北欧面包和印度奶茶。",
+      "flavor": "桉叶般清凉华丽的香气，带淡淡甘甜。",
+      "pairing": "与奶茶、阿拉伯咖啡等香料饮品同调，也适合肉桂卷和黄油饼干。华丽的香气把甜面包的黄油香衬得明亮。精致的绿茶会与它的香气重叠，请分开享用。",
+      "brewTip": "要碾碎豆荚，里面籽的香气才会出来。",
+      "keep": "整荚密封干燥。",
+      "keywords": "小豆蔻 豆蔻 香料女王"
+    },
+    "zh-TW": {
+      "name": "小豆蔻",
+      "oneLine": "來自印度與瓜地馬拉的綠豆蔻——敲開有香料女王之稱的豆莢，華麗清涼的香氣瞬間綻放。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配3公克(4~5個莢)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "原產印度馬拉巴爾海岸，瓜地馬拉也是大產地，豆莢曬乾使用。",
+      "process": "豆莢曬乾後輕輕碾碎，用熱水沖泡。",
+      "story": "與藏紅花、香草並列的高價香料，用於阿拉伯咖啡、北歐麵包和印度奶茶。",
+      "flavor": "桉葉般清涼華麗的香氣，帶淡淡甘甜。",
+      "pairing": "與奶茶、阿拉伯咖啡等香料飲品同調，也適合肉桂捲和黃油餅乾。華麗的香氣把甜麵包的黃油香襯得明亮。精緻的綠茶會與它的香氣重疊，請分開享用。",
+      "brewTip": "要碾碎豆莢，裡面籽的香氣才會出來。",
+      "keep": "整莢密封乾燥。",
+      "keywords": "小豆蔻 豆蔻 香料女王"
+    },
+    "originCountryCode": "in"
+  },
+  {
+    "id": "herb-clove",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "丁",
+    "sub": "Clove",
+    "alias": [
+      "클로브",
+      "丁香"
+    ],
+    "hz": "丁香",
+    "hs": "丁香",
+    "rom": "Clove",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "1g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-cozy",
+    "originCountry": {
+      "ko": "인도네시아",
+      "en": "Indonesia",
+      "zh-CN": "印度尼西亚",
+      "zh-TW": "印度尼西亞"
+    },
+    "x": {
+      "ko": [
+        "정향 꽃봉오리를 말려 우린 차입니다.",
+        "향 하나가 강해 다른 허브와 섞어 쓰는 일도 많습니다."
+      ],
+      "en": [
+        "Dried clove flower buds, steeped.",
+        "Its scent is so strong that it is often blended with other herbs."
+      ],
+      "zh-CN": [
+        "丁香花蕾晒干冲泡。",
+        "香气极强，常与其他香草混合使用。"
+      ],
+      "zh-TW": [
+        "丁香花蕾曬乾沖泡。",
+        "香氣極強，常與其他香草混合使用。"
+      ]
+    },
+    "ko": {
+      "name": "정향",
+      "oneLine": "인도네시아 향신료 제도의 꽃봉오리 정향 — 작게 말린 봉오리 몇 알이 알싸하고 따뜻한 향으로 잔 전체를 가득 채웁니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 1g(봉오리 3~4알)",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "인도네시아 말루쿠 제도 원산입니다. 피지 않은 꽃봉오리를 말려 씁니다.",
+      "process": "꽃봉오리를 따 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "말루쿠 제도는 한때 '향신료 제도'라 불리며 정향과 육두구의 고향으로 유럽 상인들을 끌어들였습니다.",
+      "flavor": "알싸하고 따뜻한 향, 끝에 남는 옅은 단맛과 얼얼함.",
+      "pairing": "뱅쇼·글뤼바인 같은 겨울 향신료 음료와 잘 어울리고, 사과 파이·햄 요리와도 결이 맞습니다. 따뜻한 향이 과일의 단맛을 깊게 받쳐 줍니다. 섬세한 허브차와는 향이 앞서니 단독으로 즐기세요.",
+      "brewTip": "향이 강하니 3~4알이면 충분합니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "정향 클로브 향신료제도 말루쿠"
+    },
+    "en": {
+      "name": "Clove",
+      "oneLine": "Clove, the flower bud of Indonesia's Spice Islands — a few small dried buds fill the whole cup with warm, penetrating aroma.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "1 g (3–4 buds) to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Native to Indonesia's Maluku Islands; unopened flower buds are dried.",
+      "process": "Buds picked, dried, then steeped in hot water.",
+      "story": "The Maluku Islands were once called the Spice Islands, drawing European traders as the home of cloves and nutmeg.",
+      "flavor": "A warm, penetrating aroma with light sweetness and a tingling finish.",
+      "pairing": "Winter spiced drinks like mulled wine suit it, as do apple pie and ham. Its warm aroma deepens the sweetness of fruit. Delicate herbal teas are outrun by its scent, so enjoy it on its own.",
+      "brewTip": "It is strong — three or four buds are plenty.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "clove spice islands maluku bud tea"
+    },
+    "zh-CN": {
+      "name": "丁香",
+      "oneLine": "印度尼西亚香料群岛的花蕾丁香——几粒小小的干蕾，就以辛香温暖的气息盈满整杯。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配1克(3~4粒蕾)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "原产印度尼西亚马鲁古群岛，未开的花蕾晒干使用。",
+      "process": "采下花蕾晒干后用热水冲泡。",
+      "story": "马鲁古群岛曾被称为香料群岛，是丁香与肉豆蔻的故乡，引来欧洲商人。",
+      "flavor": "辛香温暖，收尾带淡淡甘甜与微微的麻。",
+      "pairing": "适合热红酒等冬季香料饮品，也与苹果派、火腿料理同调。温暖的香气把水果的甜味托得更深。精致的花草茶会被它的香气抢先，请单独享用。",
+      "brewTip": "香气强，3~4粒就够。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "丁香 香料群岛 马鲁古"
+    },
+    "zh-TW": {
+      "name": "丁香",
+      "oneLine": "印度尼西亞香料群島的花蕾丁香——幾粒小小的乾蕾，就以辛香溫暖的氣息盈滿整杯。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配1公克(3~4粒蕾)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "原產印度尼西亞馬魯古群島，未開的花蕾曬乾使用。",
+      "process": "採下花蕾曬乾後用熱水沖泡。",
+      "story": "馬魯古群島曾被稱為香料群島，是丁香與肉豆蔻的故鄉，引來歐洲商人。",
+      "flavor": "辛香溫暖，收尾帶淡淡甘甜與微微的麻。",
+      "pairing": "適合熱紅酒等冬季香料飲品，也與蘋果派、火腿料理同調。溫暖的香氣把水果的甜味托得更深。精緻的花草茶會被它的香氣搶先，請單獨享用。",
+      "brewTip": "香氣強，3~4粒就夠。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "丁香 香料群島 馬魯古"
+    },
+    "originCountryCode": "idn"
+  },
+  {
+    "id": "herb-staranise",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "八",
+    "sub": "Star Anise",
+    "alias": [
+      "스타아니스",
+      "팔각회향",
+      "八角"
+    ],
+    "hz": "八角",
+    "hs": "八角",
+    "rom": "Star Anise",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
+    "originCountry": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國"
+    },
+    "x": {
+      "ko": [
+        "팔각 열매를 말려 우린 차입니다.",
+        "베트남 쌀국수와 중국 오향분의 핵심 향신료이기도 합니다."
+      ],
+      "en": [
+        "Dried star anise fruit, steeped.",
+        "Also the key spice of Vietnamese pho and Chinese five-spice."
+      ],
+      "zh-CN": [
+        "八角果实晒干冲泡。",
+        "也是越南河粉与五香粉的核心香料。"
+      ],
+      "zh-TW": [
+        "八角果實曬乾沖泡。",
+        "也是越南河粉與五香粉的核心香料。"
+      ]
+    },
+    "ko": {
+      "name": "팔각",
+      "oneLine": "중국 남부의 별 모양 열매 팔각 — 여덟 갈래 껍질 속에 감초처럼 달콤한 향을 품어, 아시아 요리와 차에 두루 씁니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g(별 1~2개)",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분.",
+      "origin": "중국 남부 광시·윈난 일대 원산입니다. 별 모양 열매를 말려 씁니다.",
+      "process": "열매를 따 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "오향분의 한 축이자 베트남 쌀국수 국물의 향을 내는 재료입니다. 아니스와는 다른 식물이지만 달콤한 향 성분을 나눕니다.",
+      "flavor": "감초·아니스를 닮은 달콤한 향과 따뜻한 여운.",
+      "pairing": "족발·동파육 같은 진한 고기 요리와 잘 어울립니다. 달콤한 향이 기름진 고기의 무게를 부드럽게 감싸고, 따뜻한 여운이 입안을 정리합니다. 가벼운 샐러드와는 향이 앞서니 따로 즐기세요.",
+      "brewTip": "별 하나를 반으로 깨 넣으면 향이 빨리 우러납니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "팔각 스타아니스 오향분 향신료"
+    },
+    "en": {
+      "name": "Star Anise",
+      "oneLine": "Star anise from southern China — eight pointed pods holding a liquorice-sweet aroma, used across Asian kitchens and the teapot.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g (1–2 stars) to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for 5 minutes.",
+      "origin": "Native to Guangxi and Yunnan in southern China; the star-shaped fruit is dried.",
+      "process": "Fruit picked, dried, then steeped in hot water.",
+      "story": "A pillar of five-spice powder and the scent behind Vietnamese pho broth. A different plant from anise, sharing the same sweet scent compound.",
+      "flavor": "Liquorice and anise sweetness with a warm finish.",
+      "pairing": "Rich meat dishes like braised pork suit it. Its sweet aroma wraps the weight of fatty meat softly, and the warm finish tidies the palate. Light salads are outrun by its scent, so enjoy them apart.",
+      "brewTip": "Break a star in half so the aroma comes out faster.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "star anise five spice pho spice tea"
+    },
+    "zh-CN": {
+      "name": "八角",
+      "oneLine": "中国南部的星形果实八角——八瓣果壳里藏着甘草般的甜香，遍布亚洲料理与茶席。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克(1~2颗星)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分钟。",
+      "origin": "原产中国南部广西、云南一带，星形果实晒干使用。",
+      "process": "采果晒干后用热水冲泡。",
+      "story": "是五香粉的一柱，也是越南河粉汤香的来源。与茴芹是不同的植物，却共享同一种甜香成分。",
+      "flavor": "甘草与茴香般的甜香，收尾温暖。",
+      "pairing": "适合猪脚、东坡肉等浓味肉菜。甜香柔和地包裹油腻肉类的厚重，温暖的余韵收拾口腔。清淡的沙拉会被它的香气抢先，请分开享用。",
+      "brewTip": "把一颗星掰开，香气出得更快。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "八角 大料 五香粉 香料"
+    },
+    "zh-TW": {
+      "name": "八角",
+      "oneLine": "中國南部的星形果實八角——八瓣果殼裡藏著甘草般的甜香，遍布亞洲料理與茶席。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克(1~2顆星)",
+      "rounds": "2泡",
+      "steepBasis": "95度泡5分鐘。",
+      "origin": "原產中國南部廣西、雲南一帶，星形果實曬乾使用。",
+      "process": "採果曬乾後用熱水沖泡。",
+      "story": "是五香粉的一柱，也是越南河粉湯香的來源。與茴芹是不同的植物，卻共享同一種甜香成分。",
+      "flavor": "甘草與茴香般的甜香，收尾溫暖。",
+      "pairing": "適合豬腳、東坡肉等濃味肉菜。甜香柔和地包裹油膩肉類的厚重，溫暖的餘韻收拾口腔。清淡的沙拉會被它的香氣搶先，請分開享用。",
+      "brewTip": "把一顆星掰開，香氣出得更快。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "八角 大料 五香粉 香料"
+    },
+    "originCountryCode": "cn"
+  },
+  {
+    "id": "herb-saffron",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "藏",
+    "sub": "Saffron",
+    "alias": [
+      "번홍화",
+      "藏紅花"
+    ],
+    "hz": "藏紅花",
+    "hs": "藏红花",
+    "rom": "Saffron",
+    "temp": 80,
+    "tempRange": "75~85℃",
+    "leaf": "0.1g",
+    "water": "200ml",
+    "steeps": [
+      600
+    ],
+    "maxSteep": 1,
+    "oxidationValue": 0,
+    "traits": "t-afternoon t-night a-floral b-light k-sweet r-clean s-hot w-quick p-dessert c-none m-calm",
+    "originCountry": {
+      "ko": "이란",
+      "en": "Iran",
+      "zh-CN": "伊朗",
+      "zh-TW": "伊朗"
+    },
+    "x": {
+      "ko": [
+        "사프란 암술을 우린 차입니다.",
+        "꽃 한 송이에서 암술 세 개만 얻을 수 있어 손으로 하나하나 뜯습니다."
+      ],
+      "en": [
+        "Saffron stigmas, steeped.",
+        "Each flower yields only three stigmas, picked by hand one by one."
+      ],
+      "zh-CN": [
+        "藏红花柱头冲泡。",
+        "每朵花只有三根柱头，全靠手工逐一摘取。"
+      ],
+      "zh-TW": [
+        "藏紅花柱頭沖泡。",
+        "每朵花只有三根柱頭，全靠手工逐一摘取。"
+      ]
+    },
+    "ko": {
+      "name": "사프란",
+      "oneLine": "보라색 크로커스 꽃의 암술만 모은 사프란 — 실 몇 올이 황금빛 수색과 꿀 같은 향을 내는, 무게로 가장 비싼 향신료입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 0.1g(실 10~15올)",
+      "rounds": "1회",
+      "steepBasis": "80도에서 10분.",
+      "origin": "이란이 세계 최대 산지입니다. 크로커스 꽃의 암술을 말려 씁니다.",
+      "process": "꽃에서 암술만 뜯어 말린 뒤 따뜻한 물에 우립니다.",
+      "story": "꽃 한 송이에서 암술이 세 개만 나와 전부 손으로 수확합니다. 페르시아에서는 밥과 차에 두루 써 온 귀한 향신료입니다.",
+      "flavor": "꿀처럼 달콤하고 은은한 꽃 향, 황금빛 수색.",
+      "pairing": "페르시아식 밥·리소토·바닐라 아이스크림과 잘 어울립니다. 은은한 꽃 향과 꿀 같은 단맛이 곡물 요리의 고소함을 황금빛으로 감쌉니다. 강한 향신료 요리와는 섬세한 향이 묻히니 따로 즐기세요.",
+      "brewTip": "너무 뜨거운 물은 향을 날리니 80도 안팎이 좋습니다.",
+      "keep": "밀봉해 빛이 없는 서늘한 곳에.",
+      "keywords": "사프란 번홍화 크로커스 이란 향신료"
+    },
+    "en": {
+      "name": "Saffron",
+      "oneLine": "Saffron, the stigmas of the purple crocus — a few threads give golden liquor and honeyed aroma; the priciest spice by weight.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "0.1 g (10–15 threads) to 200 ml",
+      "rounds": "1 infusion",
+      "steepBasis": "80 °C for 10 minutes.",
+      "origin": "Iran is the world's largest producer; the crocus stigmas are dried.",
+      "process": "Stigmas picked from the flowers, dried, then steeped in warm water.",
+      "story": "Each flower gives only three stigmas, all harvested by hand. In Persia it has long seasoned both rice and tea.",
+      "flavor": "Honeyed sweetness, a delicate floral note, golden liquor.",
+      "pairing": "Persian rice, risotto and vanilla ice cream suit it. Its delicate floral note and honeyed sweetness wrap grain dishes in gold. Strongly spiced food buries its fine aroma, so enjoy them apart.",
+      "brewTip": "Water that is too hot drives off the aroma — stay near 80 °C.",
+      "keep": "Sealed, cool and away from light.",
+      "keywords": "saffron crocus iran spice tea"
+    },
+    "zh-CN": {
+      "name": "藏红花",
+      "oneLine": "紫色番红花的柱头藏红花——几根细丝就染出金黄汤色与蜜香，是按重量计最贵的香料。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配0.1克(10~15根丝)",
+      "rounds": "1泡",
+      "steepBasis": "80度泡10分钟。",
+      "origin": "伊朗是世界最大产地，番红花的柱头晒干使用。",
+      "process": "从花中摘下柱头晒干，用温水冲泡。",
+      "story": "每朵花只有三根柱头，全靠手工采收。在波斯，它长久以来既入饭也入茶。",
+      "flavor": "蜜糖般的甘甜、细腻花香与金黄汤色。",
+      "pairing": "适合波斯米饭、烩饭和香草冰淇淋。细腻的花香与蜜甜把谷物料理裹上一层金色。香料味重的料理会盖住它精细的香气，请分开享用。",
+      "brewTip": "水太烫会赶走香气，80度左右最好。",
+      "keep": "密封、阴凉避光。",
+      "keywords": "藏红花 番红花 伊朗 香料"
+    },
+    "zh-TW": {
+      "name": "藏紅花",
+      "oneLine": "紫色番紅花的柱頭藏紅花——幾根細絲就染出金黃湯色與蜜香，是按重量計最貴的香料。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配0.1公克(10~15根絲)",
+      "rounds": "1泡",
+      "steepBasis": "80度泡10分鐘。",
+      "origin": "伊朗是世界最大產地，番紅花的柱頭曬乾使用。",
+      "process": "從花中摘下柱頭曬乾，用溫水沖泡。",
+      "story": "每朵花只有三根柱頭，全靠手工採收。在波斯，它長久以來既入飯也入茶。",
+      "flavor": "蜜糖般的甘甜、細膩花香與金黃湯色。",
+      "pairing": "適合波斯米飯、燉飯和香草冰淇淋。細膩的花香與蜜甜把穀物料理裹上一層金色。香料味重的料理會蓋住它精細的香氣，請分開享用。",
+      "brewTip": "水太燙會趕走香氣，80度左右最好。",
+      "keep": "密封、陰涼避光。",
+      "keywords": "藏紅花 番紅花 伊朗 香料"
+    },
+    "originCountryCode": "ir"
+  },
+  {
+    "id": "herb-fenugreek",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "胡",
+    "sub": "Fenugreek",
+    "alias": [
+      "메티",
+      "胡蘆巴"
+    ],
+    "hz": "胡蘆巴",
+    "hs": "胡芦巴",
+    "rom": "Fenugreek",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "3g",
+    "water": "200ml",
+    "steeps": [
+      300,
+      300
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-morning t-afternoon a-roast a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
+    "originCountry": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度"
+    },
+    "x": {
+      "ko": [
+        "호로파 씨앗을 볶아 끓인 차입니다.",
+        "이집트에서는 헬바라 부르며 같은 씨앗차를 마십니다."
+      ],
+      "en": [
+        "Fenugreek seeds, toasted and simmered.",
+        "In Egypt the same seed tea is called helba."
+      ],
+      "zh-CN": [
+        "胡芦巴籽炒香后煮成的茶。",
+        "在埃及，同样的种子茶叫helba。"
+      ],
+      "zh-TW": [
+        "胡蘆巴籽炒香後煮成的茶。",
+        "在埃及，同樣的種子茶叫helba。"
+      ]
+    },
+    "ko": {
+      "name": "호로파",
+      "oneLine": "인도의 호로파 씨앗, 메티 — 볶으면 메이플시럽 같은 달콤한 향이 나고, 쓴맛 뒤에 고소함이 남는 씨앗차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 3g",
+      "rounds": "2회",
+      "steepBasis": "95도에서 5분 끓입니다.",
+      "origin": "인도 등에서 재배합니다. 작고 단단한 씨앗을 말려 씁니다.",
+      "process": "씨앗을 살짝 볶은 뒤 물에 끓여 냅니다.",
+      "story": "인도 요리에서는 메티라 부르는 단골 향신료이고, 이집트에서는 헬바라는 이름의 씨앗차로 마십니다.",
+      "flavor": "메이플시럽 같은 달콤한 향, 앞선 쓴맛과 고소한 여운.",
+      "pairing": "카레·렌틸 요리·난과 잘 어울립니다. 달콤하고 고소한 향이 향신료 요리와 같은 결로 이어지고, 쓴맛이 기름진 음식의 끝을 정리합니다. 섬세한 디저트와는 쓴맛이 튀어 따로 즐기세요.",
+      "brewTip": "볶아서 끓이면 쓴맛이 줄고 향이 진해집니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "호로파 메티 헬바 씨앗차 인도"
+    },
+    "en": {
+      "name": "Fenugreek",
+      "oneLine": "Fenugreek seeds — India's methi — toasted, they smell like maple syrup; a seed tea with bitterness first and a nutty finish.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "3 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "Simmer 5 minutes at 95 °C.",
+      "origin": "Grown in India and beyond; the small hard seeds are dried.",
+      "process": "Seeds lightly toasted, then simmered in water.",
+      "story": "A staple spice in Indian kitchens as methi, and drunk in Egypt as a seed tea called helba.",
+      "flavor": "Maple-syrup sweetness, bitterness up front and a nutty finish.",
+      "pairing": "Curries, lentil dishes and naan suit it. Its sweet, nutty aroma runs with spiced food, and the bitterness tidies a rich finish. Delicate desserts clash with the bitterness, so enjoy them apart.",
+      "brewTip": "Toasting before simmering softens the bitterness and deepens the aroma.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "fenugreek methi helba seed tea"
+    },
+    "zh-CN": {
+      "name": "胡芦巴",
+      "oneLine": "印度的胡芦巴籽methi——炒过后有枫糖浆般的甜香，先苦后香的种子茶。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配3克",
+      "rounds": "2泡",
+      "steepBasis": "95度煮5分钟。",
+      "origin": "在印度等地栽培，小而硬的籽晒干使用。",
+      "process": "籽轻轻炒香后入水煮出。",
+      "story": "在印度厨房叫methi，是常客香料；在埃及则叫helba，作为种子茶饮用。",
+      "flavor": "枫糖浆般的甜香，先苦后坚果香的余韵。",
+      "pairing": "适合咖喱、扁豆料理和馕。甜而坚果的香气与香料料理同向，苦味收拾油腻的收尾。精致甜点会与苦味相冲，请分开享用。",
+      "brewTip": "先炒再煮，苦味减、香气浓。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "胡芦巴 methi helba 种子茶"
+    },
+    "zh-TW": {
+      "name": "胡蘆巴",
+      "oneLine": "印度的胡蘆巴籽methi——炒過後有楓糖漿般的甜香，先苦後香的種子茶。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配3公克",
+      "rounds": "2泡",
+      "steepBasis": "95度煮5分鐘。",
+      "origin": "在印度等地栽培，小而硬的籽曬乾使用。",
+      "process": "籽輕輕炒香後入水煮出。",
+      "story": "在印度廚房叫methi，是常客香料；在埃及則叫helba，作為種子茶飲用。",
+      "flavor": "楓糖漿般的甜香，先苦後堅果香的餘韻。",
+      "pairing": "適合咖哩、扁豆料理和饢。甜而堅果的香氣與香料料理同向，苦味收拾油膩的收尾。精緻甜點會與苦味相衝，請分開享用。",
+      "brewTip": "先炒再煮，苦味減、香氣濃。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "胡蘆巴 methi helba 種子茶"
+    },
+    "originCountryCode": "in"
   }
 ];
   TEAS = TEAS.concat(EXTRA_TEAS);
@@ -31745,19 +31406,15 @@ window.TEAFaiData = (function () {
   "green-enshi-yulu": "t-morning t-afternoon a-grass a-herb b-light k-sweet r-clean s-hot w-quick p-meal c-mid m-calm",
     "herb-sipjeondaebotang": "t-night a-roast a-herb b-full k-sweet k-grain s-hot w-quick c-none m-cozy m-calm",
     "herb-sesame": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot p-meal c-none m-cozy",
-    "herb-orientalmelon": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-calamus": "t-morning t-afternoon a-herb b-light k-crisp r-clean s-hot p-solo c-none m-refresh",
     "herb-greentangerine": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-gardenia": "t-afternoon a-herb b-light k-crisp r-clean s-hot p-meal c-none m-calm",
     "herb-chicory": "t-morning a-roast b-medium k-crisp r-clean s-hot s-milk p-meal c-none m-energy",
     "herb-trifoliateorange": "t-afternoon a-fruit a-herb b-light k-crisp r-clean s-hot s-iced p-dessert c-none m-refresh",
-    "herb-taro": "t-afternoon a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
     "herb-pineapple": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-redbean": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot p-meal c-none m-calm",
     "herb-grape": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-hallabong": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
-    "herb-sunflower": "t-afternoon a-roast b-light k-sweet r-clean s-hot p-meal c-none m-cozy",
-    "herb-herbtea": "t-afternoon t-night a-herb a-floral b-light k-sweet r-clean s-hot s-iced p-solo c-none m-calm",
     "herb-raisintree": "t-morning a-herb b-medium k-sweet r-clean s-hot p-meal c-none m-calm",
     "herb-schizonepeta": "t-afternoon a-herb b-light k-crisp r-clean s-hot p-solo c-none m-refresh",
     "herb-walnut": "t-morning t-afternoon a-roast b-full k-sweet r-clean s-hot p-meal c-none m-cozy",
@@ -31765,7 +31422,6 @@ window.TEAFaiData = (function () {
     "herb-redginseng": "t-morning a-herb b-medium k-sweet r-clean s-hot p-solo c-none m-energy",
     "herb-astragalus": "t-morning a-herb b-light k-sweet r-clean s-hot p-meal c-none m-calm",
     "herb-magnolia-bark": "t-afternoon a-herb b-medium k-crisp r-clean s-hot p-meal c-none m-calm",
-    "herb-pepper": "t-morning t-afternoon a-herb b-light k-crisp r-clean s-hot p-meal c-none m-energy",
     "herb-reishi": "t-night a-herb b-medium r-clean s-hot w-quick p-solo c-none m-calm",
     "herb-mulberry-fruit": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
     "herb-cucumber": "t-afternoon a-grass b-light k-crisp r-clean s-hot s-iced w-quick p-solo c-none m-refresh",
@@ -31787,7 +31443,6 @@ window.TEAFaiData = (function () {
     "herb-swordbean": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
     "herb-peony": "t-afternoon a-floral b-light k-sweet r-clean s-hot w-quick p-dessert p-solo c-none m-calm",
     "herb-adenophora": "t-afternoon a-herb a-roast b-medium k-sweet r-clean s-hot w-quick p-solo c-none m-calm",
-    "herb-bamboo-shoot": "t-afternoon a-grass a-roast b-light r-clean s-hot w-quick p-meal c-none m-refresh",
     "herb-rehmannia": "t-night a-herb b-medium k-sweet r-clean s-hot w-quick p-solo c-none m-cozy",
     "herb-peach": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
     "herb-beet": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-cozy",
@@ -31798,14 +31453,11 @@ window.TEAFaiData = (function () {
     "herb-cuscuta": "t-morning a-herb b-light k-sweet r-clean s-hot w-quick p-solo c-none m-calm",
     "herb-pomegranate": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
     "herb-seolcha": "t-afternoon a-herb b-light k-crisp r-clean s-hot w-quick p-solo c-none m-calm",
-    "herb-sotae": "t-morning a-herb b-light k-crisp r-clean s-hot w-quick p-solo c-none m-refresh",
     "herb-sokdan": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
     "herb-pineneedle": "t-morning t-afternoon a-herb b-light k-crisp r-clean s-hot s-iced w-quick p-solo c-none m-refresh",
     "herb-pinepollen": "t-morning t-afternoon a-floral b-light k-sweet r-clean s-hot w-quick p-solo c-none m-calm",
-    "herb-watermelon": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
     "herb-sorghum": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
     "herb-bupleurum": "t-morning a-herb b-light k-crisp r-clean s-hot w-quick p-solo c-none m-calm",
-    "herb-mallow": "t-afternoon a-herb a-grass b-light k-sweet r-clean s-hot w-quick p-meal c-none m-calm",
     "herb-cherry": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
     "herb-onion": "t-morning t-afternoon a-herb b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
     "herb-bittermelon": "t-afternoon a-herb b-light k-crisp r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
@@ -31815,43 +31467,34 @@ window.TEAFaiData = (function () {
     "herb-waxgourd": "t-afternoon a-fruit b-medium k-sweet r-clean s-hot s-iced p-dessert c-none m-cozy",
     "herb-jerusalemartichoke": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-eucommia": "t-morning t-night a-herb b-medium r-clean s-hot p-solo c-none m-calm",
-    "herb-duhyang": "t-afternoon a-herb b-light r-clean s-hot p-solo c-none m-calm",
     "herb-perilla": "t-morning t-afternoon a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
     "herb-strawberry": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
-    "herb-peanut": "t-morning a-roast b-medium k-sweet r-clean s-hot p-meal c-none m-cozy",
     "herb-lemon": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-garlic": "t-morning a-herb b-medium r-clean s-hot p-meal c-none m-energy",
-    "herb-watercaltrop": "t-afternoon a-herb b-light k-sweet r-clean s-hot p-solo c-none m-calm",
     "herb-maesil": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-plumblossom": "t-morning t-afternoon a-floral b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
     "herb-butterbur": "t-afternoon a-herb b-light r-clean s-hot p-meal c-none m-calm",
     "herb-magnolia": "t-afternoon a-floral b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
     "herb-costus": "t-night a-herb b-medium r-clean s-hot p-solo c-none m-calm",
-    "herb-radishleaf": "t-afternoon a-grass a-herb b-light r-clean s-hot p-meal c-none m-calm",
     "herb-bangpung": "t-morning a-herb b-medium r-clean s-hot p-solo c-none m-calm",
-    "herb-mushroom": "t-night a-herb b-medium r-clean s-hot p-solo c-none m-cozy",
     "herb-cherryblossom": "t-afternoon a-floral b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
     "herb-poria": "t-morning t-night a-herb b-light r-clean s-hot p-solo c-none m-calm",
     "herb-eggplant": "t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-licorice": "t-afternoon t-night a-herb b-medium k-sweet r-clean s-hot p-solo c-none m-calm",
-    "herb-hazel": "t-afternoon a-roast b-medium k-sweet r-clean s-hot p-dessert c-none m-cozy",
     "herb-cinnamon-twig": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot c-none m-cozy",
     "herb-cinnamon": "t-afternoon t-night a-herb b-medium k-sweet r-clean s-hot s-iced p-dessert c-none m-cozy",
     "herb-sophora": "t-morning a-herb b-medium k-crisp r-clean s-hot c-none m-calm",
     "herb-agastache": "t-afternoon a-herb a-floral b-light k-crisp r-clean s-hot s-iced c-none m-refresh",
     "herb-tangerine-peel": "t-afternoon a-fruit b-light k-sweet r-clean s-hot s-iced p-dessert c-none m-refresh",
     "herb-tangerine-blossom": "t-afternoon a-floral b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
-    "herb-platycodon": "t-night a-herb b-medium k-crisp r-clean s-hot c-none m-cozy",
     "herb-selfheal": "t-afternoon a-herb a-floral b-light k-sweet r-clean s-hot c-none m-calm",
     "herb-shepherdspurse": "t-morning t-afternoon a-grass a-herb b-light k-sweet r-clean s-hot p-meal c-none m-refresh",
-    "herb-naengcha": "t-afternoon a-roast b-light k-sweet r-clean s-iced p-meal c-none m-refresh",
     "herb-aged-cucumber": "t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-mungbean": "t-morning t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-kelp": "t-afternoon a-herb b-light k-sweet r-clean s-hot p-meal c-none m-calm",
     "herb-angelica": "t-night a-herb b-medium k-sweet r-clean s-hot c-none m-cozy",
     "herb-carrot": "t-afternoon a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
     "herb-bamboo": "t-morning t-afternoon a-grass b-light k-crisp r-clean s-hot s-iced c-none m-refresh",
-    "herb-green-onion": "t-night a-herb b-medium k-crisp r-clean s-hot c-none m-cozy",
     "herb-deodeok": "t-night a-herb b-medium k-sweet r-clean s-hot c-none m-cozy",
     "oolong-jasmine": "t-afternoon a-floral b-light k-sweet r-clean s-hot w-gongfu p-solo c-mid m-calm",
     "oolong-assam": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-hot s-milk w-gongfu p-meal c-high m-energy",
@@ -31950,7 +31593,22 @@ window.TEAFaiData = (function () {
   "herb-gugija": "t-morning t-afternoon t-night a-fruit a-herb b-light k-sweet r-clean s-hot p-dessert c-none m-calm",
   "herb-cornus": "t-morning t-afternoon a-fruit a-herb b-medium k-crisp r-clean s-hot p-dessert c-none m-cozy",
   "herb-dandelion": "t-morning t-afternoon a-herb a-roast b-light k-crisp r-clean s-hot p-meal c-none m-refresh",
-  "herb-cornsilk": "t-morning t-afternoon a-roast a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh"
+  "herb-cornsilk": "t-morning t-afternoon a-roast a-roast b-light k-sweet r-clean s-hot s-iced p-meal c-none m-refresh",
+  "herb-lemonbalm": "t-afternoon t-night a-herb a-fruit b-light k-sweet r-clean s-hot s-iced w-quick p-solo c-none m-calm",
+  "herb-rosemary": "t-morning t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-refresh",
+  "herb-basil": "t-afternoon a-herb b-light k-sweet r-clean s-hot s-iced w-quick p-meal c-none m-refresh",
+  "herb-thyme": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-refresh",
+  "herb-tulsi": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-solo c-none m-calm",
+  "herb-fennel": "t-afternoon a-herb b-light k-sweet r-clean s-hot w-quick p-meal c-none m-calm",
+  "herb-anise": "t-afternoon t-night a-herb b-light k-sweet r-clean s-hot w-quick p-dessert c-none m-calm",
+  "herb-marigold": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
+  "herb-sage": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-calm",
+  "herb-lemonverbena": "t-afternoon t-night a-fruit a-herb b-light k-sweet r-clean s-hot s-iced w-quick p-solo c-none m-calm",
+  "herb-cardamom": "t-morning t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-refresh",
+  "herb-clove": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-cozy",
+  "herb-staranise": "t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
+  "herb-saffron": "t-afternoon t-night a-floral b-light k-sweet r-clean s-hot w-quick p-dessert c-none m-calm",
+  "herb-fenugreek": "t-morning t-afternoon a-roast a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy"
 });
 
   /* ── 162종 실물 사진 (tea_fai_research/tea_photos_map.json) ──
@@ -32708,14 +32366,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-orientalmelon":   {
-    "f": "herb-orientalmelon.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-calamus":   {
     "f": "herb-calamus.jpg",
     "m": "family",
@@ -32756,14 +32406,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-taro":   {
-    "f": "herb-taro.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-pineapple":   {
     "f": "herb-pineapple.jpg",
     "m": "family",
@@ -32790,22 +32432,6 @@ window.TEAFaiData = (function () {
   },
   "herb-hallabong":   {
     "f": "herb-hallabong.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-sunflower":   {
-    "f": "herb-sunflower.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-herbtea":   {
-    "f": "herb-herbtea.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -32862,14 +32488,6 @@ window.TEAFaiData = (function () {
   },
   "herb-magnolia-bark":   {
     "f": "herb-magnolia-bark.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-pepper":   {
-    "f": "herb-pepper.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33044,14 +32662,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-bamboo-shoot":   {
-    "f": "herb-bamboo-shoot.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-rehmannia":   {
     "f": "herb-rehmannia.jpg",
     "m": "family",
@@ -33132,14 +32742,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-sotae":   {
-    "f": "herb-sotae.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-sokdan":   {
     "f": "herb-sokdan.jpg",
     "m": "family",
@@ -33164,14 +32766,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-watermelon":   {
-    "f": "herb-watermelon.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-sorghum":   {
     "f": "herb-sorghum.jpg",
     "m": "family",
@@ -33182,14 +32776,6 @@ window.TEAFaiData = (function () {
   },
   "herb-bupleurum":   {
     "f": "herb-bupleurum.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-mallow":   {
-    "f": "herb-mallow.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33268,14 +32854,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-duhyang":   {
-    "f": "herb-duhyang.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-perilla":   {
     "f": "herb-perilla.jpg",
     "m": "family",
@@ -33292,14 +32870,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-peanut":   {
-    "f": "herb-peanut.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-lemon":   {
     "f": "herb-lemon.jpg",
     "m": "family",
@@ -33310,14 +32880,6 @@ window.TEAFaiData = (function () {
   },
   "herb-garlic":   {
     "f": "herb-garlic.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-watercaltrop":   {
-    "f": "herb-watercaltrop.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33364,24 +32926,8 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-radishleaf":   {
-    "f": "herb-radishleaf.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-bangpung":   {
     "f": "herb-bangpung.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-mushroom":   {
-    "f": "herb-mushroom.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33414,14 +32960,6 @@ window.TEAFaiData = (function () {
   },
   "herb-licorice":   {
     "f": "herb-licorice.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-hazel":   {
-    "f": "herb-hazel.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33476,14 +33014,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": ""
   },
-  "herb-platycodon":   {
-    "f": "herb-platycodon.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
   "herb-selfheal":   {
     "f": "herb-selfheal.jpg",
     "m": "family",
@@ -33494,14 +33024,6 @@ window.TEAFaiData = (function () {
   },
   "herb-shepherdspurse":   {
     "f": "herb-shepherdspurse.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-naengcha":   {
-    "f": "herb-naengcha.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -33551,14 +33073,6 @@ window.TEAFaiData = (function () {
   },
   "herb-bamboo":   {
     "f": "herb-bamboo.jpg",
-    "m": "family",
-    "cr": "",
-    "lic": "",
-    "lu": "",
-    "pg": ""
-  },
-  "herb-green-onion":   {
-    "f": "herb-green-onion.jpg",
     "m": "family",
     "cr": "",
     "lic": "",
@@ -34356,6 +33870,126 @@ window.TEAFaiData = (function () {
     "lic": "",
     "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
     "pg": ""
+  },
+  "herb-lemonbalm": {
+    "f": "herb-lemonbalm.jpg",
+    "m": "family",
+    "cr": "Alex Abair / Wikimedia Commons",
+    "lic": "CC BY 4.0",
+    "lu": "https://creativecommons.org/licenses/by/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Melissa_officinalis_298706390.jpg"
+  },
+  "herb-rosemary": {
+    "f": "herb-rosemary.jpg",
+    "m": "family",
+    "cr": "User:Fir0002 / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0",
+    "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "pg": "https://commons.wikimedia.org/wiki/File:Rosemary_white_bg.jpg"
+  },
+  "herb-basil": {
+    "f": "herb-basil.jpg",
+    "m": "family",
+    "cr": "CosyCobra / Wikimedia Commons",
+    "lic": "CC BY-SA 4.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_apex_leaves_01.jpg"
+  },
+  "herb-thyme": {
+    "f": "herb-thyme.jpg",
+    "m": "exact",
+    "cr": "Wikimedia Commons",
+    "lic": "CC BY-SA 1.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/1.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Thyme-spice.jpg"
+  },
+  "herb-tulsi": {
+    "f": "herb-tulsi.jpg",
+    "m": "family",
+    "cr": "Vengolis / Wikimedia Commons",
+    "lic": "CC BY-SA 4.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Ocimum_tenuiflorum_5725.jpg"
+  },
+  "herb-fennel": {
+    "f": "herb-fennel.jpg",
+    "m": "exact",
+    "cr": "Holly Cheng / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0",
+    "lu": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "pg": "https://commons.wikimedia.org/wiki/File:Fennel_seed.jpg"
+  },
+  "herb-anise": {
+    "f": "herb-anise.jpg",
+    "m": "exact",
+    "cr": "User:Ben_pcc. / Wikimedia Commons",
+    "lic": "Public domain",
+    "lu": "",
+    "pg": "https://commons.wikimedia.org/wiki/File:AniseSeeds.jpg"
+  },
+  "herb-marigold": {
+    "f": "herb-marigold.jpg",
+    "m": "exact",
+    "cr": "Joydeep / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Tagetes_erecta_26122014_(2).jpg"
+  },
+  "herb-sage": {
+    "f": "herb-sage.jpg",
+    "m": "family",
+    "cr": "https://www.flickr.com/people/iesmgb/ / Wikimedia Commons",
+    "lic": "CC BY-SA 2.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/2.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Salvia_officinalis._Sarxa.jpg"
+  },
+  "herb-lemonverbena": {
+    "f": "herb-lemonverbena.jpg",
+    "m": "family",
+    "cr": "H. Zell / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Aloysia_citriodora_002.jpg"
+  },
+  "herb-cardamom": {
+    "f": "herb-cardamom.jpg",
+    "m": "exact",
+    "cr": "Augustus Binu : flickr / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/3.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:100_Cardamom_pods.jpg"
+  },
+  "herb-clove": {
+    "f": "herb-clove.jpg",
+    "m": "exact",
+    "cr": "Rillke / Wikimedia Commons",
+    "lic": "CC BY-SA 3.0 de",
+    "lu": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "pg": "https://commons.wikimedia.org/wiki/File:Cariophylli_flos_-_Myrtaceae_245049.jpg"
+  },
+  "herb-staranise": {
+    "f": "herb-staranise.jpg",
+    "m": "exact",
+    "cr": "Sanjay Acharya / Wikimedia Commons",
+    "lic": "CC BY-SA 4.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Dried_Star_Anise_Fruit_Seeds.jpg"
+  },
+  "herb-saffron": {
+    "f": "herb-saffron.jpg",
+    "m": "exact",
+    "cr": "Hubertl / Wikimedia Commons",
+    "lic": "CC BY-SA 4.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg"
+  },
+  "herb-fenugreek": {
+    "f": "herb-fenugreek.jpg",
+    "m": "exact",
+    "cr": "சந்திரகலா / Wikimedia Commons",
+    "lic": "CC BY-SA 4.0",
+    "lu": "https://creativecommons.org/licenses/by-sa/4.0",
+    "pg": "https://commons.wikimedia.org/wiki/File:Fenugreek_Seeds_01.jpg"
   }
 };
 
@@ -35207,15 +34841,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-orientalmelon":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-calamus":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35261,15 +34886,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-taro":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-pineapple":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35298,24 +34914,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-hallabong":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-sunflower":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-herbtea":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -35379,15 +34977,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-magnolia-bark":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-pepper":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -35585,15 +35174,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-bamboo-shoot":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-rehmannia":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35684,15 +35264,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-sotae":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-sokdan":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35720,15 +35291,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-watermelon":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-sorghum":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35739,15 +35301,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-bupleurum":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-mallow":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -35837,15 +35390,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-duhyang":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-perilla":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35864,15 +35408,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-peanut":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-lemon":   {
     "ko": "한국",
     "en": "South Korea",
@@ -35883,15 +35418,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-garlic":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-watercaltrop":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -35945,25 +35471,7 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-radishleaf":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-bangpung":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-mushroom":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -36000,15 +35508,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-licorice":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-hazel":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -36071,15 +35570,6 @@ window.TEAFaiData = (function () {
     "ja": "韓国",
     "code": "kr"
   },
-  "herb-platycodon":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
   "herb-selfheal":   {
     "ko": "한국",
     "en": "South Korea",
@@ -36090,15 +35580,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-shepherdspurse":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-naengcha":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -36154,15 +35635,6 @@ window.TEAFaiData = (function () {
     "code": "kr"
   },
   "herb-bamboo":   {
-    "ko": "한국",
-    "en": "South Korea",
-    "zh-CN": "韩国",
-    "zh-TW": "韓國",
-    "yue": "韓國",
-    "ja": "韓国",
-    "code": "kr"
-  },
-  "herb-green-onion":   {
     "ko": "한국",
     "en": "South Korea",
     "zh-CN": "韩国",
@@ -37061,6 +36533,141 @@ window.TEAFaiData = (function () {
     "yue": "韓國",
     "ja": "韓国",
     "code": "kr"
+  },
+  "herb-lemonbalm": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國",
+      "yue": "法國",
+      "ja": "フランス",
+      "code": "fr"
+  },
+  "herb-rosemary": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國",
+      "yue": "法國",
+      "ja": "フランス",
+      "code": "fr"
+  },
+  "herb-basil": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度",
+      "yue": "印度",
+      "ja": "インド",
+      "code": "in"
+  },
+  "herb-thyme": {
+      "ko": "프랑스",
+      "en": "France",
+      "zh-CN": "法国",
+      "zh-TW": "法國",
+      "yue": "法國",
+      "ja": "フランス",
+      "code": "fr"
+  },
+  "herb-tulsi": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度",
+      "yue": "印度",
+      "ja": "インド",
+      "code": "in"
+  },
+  "herb-fennel": {
+      "ko": "이집트",
+      "en": "Egypt",
+      "zh-CN": "埃及",
+      "zh-TW": "埃及",
+      "yue": "埃及",
+      "ja": "エジプト",
+      "code": "eg"
+  },
+  "herb-anise": {
+      "ko": "이집트",
+      "en": "Egypt",
+      "zh-CN": "埃及",
+      "zh-TW": "埃及",
+      "yue": "埃及",
+      "ja": "エジプト",
+      "code": "eg"
+  },
+  "herb-marigold": {
+      "ko": "멕시코",
+      "en": "Mexico",
+      "zh-CN": "墨西哥",
+      "zh-TW": "墨西哥",
+      "yue": "墨西哥",
+      "ja": "メキシコ",
+      "code": "mx"
+  },
+  "herb-sage": {
+      "ko": "튀르키예",
+      "en": "Türkiye",
+      "zh-CN": "土耳其",
+      "zh-TW": "土耳其",
+      "yue": "土耳其",
+      "ja": "トルコ",
+      "code": "tr"
+  },
+  "herb-lemonverbena": {
+      "ko": "아르헨티나",
+      "en": "Argentina",
+      "zh-CN": "阿根廷",
+      "zh-TW": "阿根廷",
+      "yue": "阿根廷",
+      "ja": "アルゼンチン",
+      "code": "ar"
+  },
+  "herb-cardamom": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度",
+      "yue": "印度",
+      "ja": "インド",
+      "code": "in"
+  },
+  "herb-clove": {
+      "ko": "인도네시아",
+      "en": "Indonesia",
+      "zh-CN": "印度尼西亚",
+      "zh-TW": "印度尼西亞",
+      "yue": "印度尼西亞",
+      "ja": "インドネシア",
+      "code": "idn"
+  },
+  "herb-staranise": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國",
+      "yue": "中國",
+      "ja": "中国",
+      "code": "cn"
+  },
+  "herb-saffron": {
+      "ko": "이란",
+      "en": "Iran",
+      "zh-CN": "伊朗",
+      "zh-TW": "伊朗",
+      "yue": "伊朗",
+      "ja": "イラン",
+      "code": "ir"
+  },
+  "herb-fenugreek": {
+      "ko": "인도",
+      "en": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度",
+      "yue": "印度",
+      "ja": "インド",
+      "code": "in"
   }
 };
   /* ── END generated: research ── */
@@ -37326,7 +36933,7 @@ window.TEAFaiData = (function () {
     var langName = function (key) {
       return raw && raw[key] && raw[key].name ? raw[key].name : "";
     };
-    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "lk": "si", "ar": "es", "pe": "es", "fr": "fr", "np": "ne", "my": "ms" };
+    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "lk": "si", "ar": "es", "pe": "es", "fr": "fr", "np": "ne", "my": "ms", "mx": "es", "idn": "ms" };
     if (byLang[code]) {
       var ln = langName(byLang[code]);
       if (ln) return ln;
