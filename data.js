@@ -3658,6 +3658,24 @@ window.TEAFaiData = (function () {
       ]
     },
     {
+      id: "black-assam-ctc",
+      group: "black",
+      alias: ["아쌈CTC", "아삼 CTC"],
+      h: "碎",
+      hz: "阿薩姆",
+      hs: "阿萨姆",
+      rom: "Assam CTC",
+      sub: "Assam CTC",
+      t: 100,
+      l: "3g",
+      s: [120, 180],
+      ox: 95,
+      ko: ["아쌈 CTC", "잘게 부순 잎이 내는 빠르고 진한 힘 — 차이와 티백의 주인공.", "95%", "150ml에 3g, 스트레이트는 200ml에 3g", "1~2회", "100도에서 2분. 길게 우리면 떫어집니다.", "인도 아쌈, 브라마푸트라강 유역의 평원 다원. 아쌈 생산량의 대부분이 CTC로 가공됩니다.", "위조 → CTC(부수고·찢고·말기) → 산화 → 건조. 롤러가 잎을 과립처럼 잘게 부숴 짧은 시간에 진하게 우러납니다.", "1930년 아쌈의 아뭉구리 다원에서 윌리엄 맥커처의 감독 아래 첫 CTC 기계가 가동된 것이 시작입니다. 지금은 인도·아프리카 홍차의 표준 방식입니다.", "강한 몰트와 산뜻한 떫음, 진한 붉은빛. 오서독스 아쌈보다 거칠지만 우유·설탕·향신료를 이겨 냅니다.", "마살라 차이, 밀크티, 클로티드 크림을 올린 스콘, 진한 초콜릿 디저트가 잘 어울립니다. 빠르고 진하게 우러나는 힘이 우유와 향신료 속에서도 중심을 잡아 줍니다. 아주 섬세한 디저트는 강한 떫음에 눌리기 쉬워요.", "100도에서 2분을 넘기지 마세요. 우유를 넣을 땐 150ml에 3g으로 진하게 우려야 우유에 지지 않습니다."],
+      en: ["Assam CTC", "Crushed leaf that brews fast and strong — the star of chai and tea bags.", "95%", "3 g to 150 ml; 3 g to 200 ml straight", "1–2 infusions", "100 °C for 2 minutes — longer turns bitter.", "The plains estates of Assam, India, along the Brahmaputra. Most of Assam's output is made as CTC.", "Withering → CTC (crush, tear, curl) → oxidation → drying. Rollers shred the leaf into granules that colour the cup in moments.", "The first CTC machine entered service in 1930 at the Amgoorie estate in Assam, under William McKercher. It is now the standard method for Indian and African black tea.", "Bold malt and brisk astringency with a deep red liquor; rougher than orthodox Assam, but it stands up to milk, sugar and spice.", "Masala chai, milk tea, scones with clotted cream and rich chocolate desserts all work well. Its fast, strong extraction holds its centre through milk and spice. Very delicate desserts are easily pressed down by its briskness.", "Keep it under 2 minutes at 100 °C. For milk, brew strong — 3 g to 150 ml — so it does not fade."],
+      "zh-CN": ["阿萨姆CTC", "碎叶出汤快而浓——印度奶茶与茶包的主角。", "95%", "150毫升配3克，直饮200毫升配3克", "1~2泡", "100度泡2分钟，久泡会苦。", "印度阿萨姆，布拉马普特拉河流域的平原茶园。阿萨姆产量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·卷曲） → 发酵 → 干燥。滚筒把叶片碾成小颗粒，片刻就出浓色。", "1930年，阿萨姆Amgoorie茶园在William McKercher监督下让第一台CTC机投入使用。如今它已是印度与非洲红茶的标准工艺。", "强麦芽与爽利的涩，汤色深红。比传统阿萨姆粗犷，但顶得住牛奶、糖与香料。", "玛萨拉奶茶、奶茶、司康配凝脂奶油和浓郁巧克力甜点都很合适。它出汤快而有力，在牛奶与香料中也能站稳中心。味道细腻的甜点容易被它的爽涩压住。", "100度不要超过2分钟。加奶时用150毫升配3克，泡浓一些才不会被牛奶冲淡。"],
+      "zh-TW": ["阿薩姆CTC", "碎葉出湯快而濃——印度奶茶與茶包的主角。", "95%", "150毫升配3公克，直飲200毫升配3公克", "1~2泡", "100度泡2分鐘，久泡會苦。", "印度阿薩姆，布拉馬普特拉河流域的平原茶園。阿薩姆產量的大部分都做成CTC。", "萎凋 → CTC（碾碎·撕裂·捲曲） → 發酵 → 乾燥。滾筒把葉片碾成小顆粒，片刻就出濃色。", "1930年，阿薩姆Amgoorie茶園在William McKercher監督下讓第一台CTC機投入使用。如今它已是印度與非洲紅茶的標準工藝。", "強麥芽與爽利的澀，湯色深紅。比傳統阿薩姆粗獷，但頂得住牛奶、糖與香料。", "瑪薩拉奶茶、奶茶、司康配凝脂奶油和濃郁巧克力甜點都很合適。它出湯快而有力，在牛奶與香料中也能站穩中心。味道細膩的甜點容易被它的爽澀壓住。", "100度不要超過2分鐘。加奶時用150毫升配3公克，泡濃一些才不會被牛奶沖淡。"]
+    },
+    {
       id: "black-nilgiri",
       group: "black",
       h: "藍",
@@ -7248,6 +7266,7 @@ window.TEAFaiData = (function () {
     /* 홍차 */
     "black-darjeeling-first": "t-morning t-afternoon a-floral b-light k-crisp r-clean s-hot s-iced w-quick p-dessert c-high m-refresh",
     "black-assam": "t-morning a-malt b-full k-sweet s-milk s-hot w-quick p-meal p-dessert c-high m-energy",
+    "black-assam-ctc": "t-morning a-malt b-full k-sweet s-milk s-hot w-quick p-meal c-high m-energy",
     "black-nilgiri": "t-morning t-afternoon a-herb a-malt b-light k-crisp r-clean s-hot s-iced w-quick c-high m-refresh",
     "black-nuwaraeliya": "t-morning a-floral a-herb b-light k-crisp r-clean s-hot s-iced w-quick c-high m-refresh",
     "black-udapussellawa": "t-afternoon a-floral b-medium k-crisp s-hot w-quick c-high m-calm",
@@ -7315,6 +7334,7 @@ window.TEAFaiData = (function () {
      잎째 섭취하거나 농축해 마시는 차는 실제 섭취량에 맞게 단계를 조정했다. */
   var CAFFEINE = {
     "black-assam": ["high", 40, 70],
+    "black-assam-ctc": ["high", 40, 70],
     "black-cameron": ["high", 40, 70],
     "black-chuanhong": ["high", 40, 70],
     "black-darjeeling-first": ["high", 40, 70],
@@ -32226,6 +32246,14 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": "ippr_z2C$qAzdH3FAzdH3Fpo_z&e3Btij6k_z&e3Bv54AzdH3Fr6AzdH3FF65gptj6-Nwp76ws-P6517vpf-O62wgtv-Fwt6-T6w1j-Affw4-Tjw-Ttrry-G5s1jg-FOP-8m-5z-9cn-2AzdH3Fn8daa"
   },
+  "black-assam-ctc": {
+    "f": "black-assam-ctc.jpg",
+    "m": "exact",
+    "cr": "USAGI-WRP",
+    "lic": "CC BY",
+    "lu": "",
+    "pg": "https://commons.wikimedia.org/wiki/File:Assam_CTC_Hanamizuki_2009.JPG"
+  },
   "black-nilgiri": {
     "f": "black-nilgiri.jpg",
     "m": "family",
@@ -34652,6 +34680,15 @@ window.TEAFaiData = (function () {
     "code": "in"
   },
   "black-assam": {
+    "ko": "인도",
+    "en": "India",
+    "zh-CN": "印度",
+    "zh-TW": "印度",
+    "yue": "印度",
+    "ja": "インド",
+    "code": "in"
+  },
+  "black-assam-ctc": {
     "ko": "인도",
     "en": "India",
     "zh-CN": "印度",
