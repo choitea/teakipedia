@@ -1148,7 +1148,7 @@ window.TEAFaiData = (function () {
       kind: "tea",
       hanja: "玉",
       sub: "Gyokuro",
-      alias: ["옥로"],
+      alias: ["옥로", "교쿠로"],
       hz: "玉露",
       hs: "玉露",
       rom: "Gyokuro",
@@ -1178,7 +1178,7 @@ window.TEAFaiData = (function () {
       maxSteep: 3,
       oxidationValue: 0,
       ko: {
-        name: "교쿠로",
+        name: "교쿠로차",
         oneLine: "20일 넘게 차광해 만든 '옥 같은 이슬' — 짙은 녹색 바늘잎에서 된장·다시마 같은 감칠맛이 크림처럼 퍼집니다.",
         oxidation: "0%",
         ratioNote: "40ml에 5g, 아주 적은 물에 많은 잎",
@@ -2129,7 +2129,7 @@ window.TEAFaiData = (function () {
     {
       id: "green-hojicha",
       group: "green",
-      alias: ["호지차"],
+      alias: ["호지차", "호지"],
       h: "焙",
       hz: "焙じ茶",
       hs: "焙茶",
@@ -2142,7 +2142,7 @@ window.TEAFaiData = (function () {
       s: [30, 20, 30],
       ox: 0,
       ko: [
-        "호지",
+        "호지차",
         "1920년대 교토에서 시작된 센차의 강한 볶음 — 200도 열이 볶은 곡물·카라멜·나무 향을 내고 쓴맛은 사라집니다.",
         "0%",
         "130ml에 3g",
@@ -2201,7 +2201,7 @@ window.TEAFaiData = (function () {
     {
       id: "green-genmaicha",
       group: "green",
-      alias: ["겐마이차"],
+      alias: ["겐마이차", "겐마이"],
       h: "玄",
       hz: "玄米茶",
       hs: "玄米茶",
@@ -2214,7 +2214,7 @@ window.TEAFaiData = (function () {
       s: [30, 20, 30],
       ox: 0,
       ko: [
-        "겐마이",
+        "겐마이차",
         "에도 서민이 차를 아끼려 볶은 현미를 섞은 차 — 누룽지·팝콘 고소함 아래 센차의 풀 향이 깔립니다.",
         "0%",
         "130ml에 3g (현미 포함)",
@@ -8798,7 +8798,8 @@ window.TEAFaiData = (function () {
     "sub": "Kabusecha",
     "alias": [
       "카부세차",
-      "관차"
+      "관차",
+      "카부세"
     ],
     "hz": "冠茶",
     "hs": "冠茶",
@@ -8840,7 +8841,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "카부세",
+      "name": "카부세차",
       "oneLine": "센차와 옥로 사이, 수확 전 1~2주만 가린 카부세 — 차광이 감칠맛을 올려 해조류 향과 단맛이 진하게 겹칩니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
@@ -8913,7 +8914,8 @@ window.TEAFaiData = (function () {
     "sub": "Kamairicha",
     "alias": [
       "카마이리차",
-      "솥덖음 일본차"
+      "솥덖음 일본차",
+      "카마이리"
     ],
     "hz": "釜炒茶",
     "hs": "釜炒茶",
@@ -8955,7 +8957,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "카마이리",
+      "name": "카마이리차",
       "oneLine": "증청이 대세인 일본에서 드물게 솥에 덖는 규슈의 녹차 — 볶은 곡물의 고소함과 가벼운 단맛이 해조 향 없이 맑게 남습니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 3g",
@@ -14894,6 +14896,7 @@ window.TEAFaiData = (function () {
     "alias": [
       "훈마츠차",
       "분말차",
+      "훈마츠",
       "분말 센차",
       "粉末茶"
     ],
@@ -14935,7 +14938,7 @@ window.TEAFaiData = (function () {
       ]
     },
     "ko": {
-      "name": "훈마츠",
+      "name": "훈마츠차",
       "oneLine": "차광하지 않은 센차를 곱게 갈아 물에 풀어 잎째 마시는 가루차 — 풋향과 쌉쌀함이 진하게 그대로 전해집니다.",
       "oxidation": "0%",
       "ratioNote": "150ml에 1.5g",
