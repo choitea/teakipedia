@@ -7315,7 +7315,6 @@ window.TEAFaiData = (function () {
     "blend-lychee": ["mid", 30, 55],
     "blend-masala": ["high", 40, 70],
     "blend-moroccan-mint": ["mid", 20, 40],
-    "blend-rose": ["mid", 30, 55],
     "blend-thaitea": ["high", 40, 70],
     "dark-anhua": ["mid", 30, 50],
     "dark-cheongtaejeon": ["mid", 30, 50],
@@ -7513,7 +7512,10 @@ window.TEAFaiData = (function () {
     "herb-clove": ["none", 0, 0],
     "herb-staranise": ["none", 0, 0],
     "herb-saffron": ["none", 0, 0],
-    "herb-fenugreek": ["none", 0, 0]
+    "herb-fenugreek": ["none", 0, 0],
+    "herb-rose": ["none", 0, 0],
+    "herb-butterflypea": ["none", 0, 0],
+    "herb-osmanthus": ["none", 0, 0],
   };
 
   /* ── BEGIN generated: research ── */
@@ -13275,121 +13277,6 @@ window.TEAFaiData = (function () {
       "brewTip": "85度，沸水會衝散花香只剩澀。",
       "keep": "密封陰涼，開封後花香易散。",
       "keywords": "桂花茶 桂林 窨制 花茶"
-    },
-    "originCountryCode": "cn"
-  },
-  {
-    "id": "blend-rose",
-    "group": "black",
-    "kind": "tea",
-    "hanja": "玫",
-    "sub": "Rose Tea",
-    "alias": [
-      "장미차",
-      "매괴홍차"
-    ],
-    "hz": "玫瑰花茶",
-    "hs": "玫瑰花茶",
-    "rom": "Meigui Cha",
-    "temp": 90,
-    "tempRange": "85~95℃",
-    "leaf": "3g",
-    "water": "200ml",
-    "steeps": [
-      150,
-      90,
-      120
-    ],
-    "maxSteep": 3,
-    "oxidationValue": 85,
-    "traits": "t-afternoon t-night a-floral a-fruit b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
-    "originCountry": {
-      "ko": "중국",
-      "en": "China",
-      "zh-CN": "中国",
-      "zh-TW": "中國"
-    },
-    "x": {
-      "ko": [
-        "말린 장미 꽃봉오리를 홍차나 녹차에 섞거나, 꽃만 우려 마시기도 합니다.",
-        "차잎과 말린 꽃을 섞어 두거나, 진한 차에 장미 향을 입혀 만듭니다."
-      ],
-      "en": [
-        "Dried rose buds are blended with black or green tea — or brewed on their own.",
-        "Leaf and dried blossom are blended, or a strong tea is scented with rose."
-      ],
-      "zh-CN": [
-        "干玫瑰花蕾与红茶或绿茶拼配，也可单用花冲泡。",
-        "茶坯与干花拼合，或以浓茶窨玫瑰香。"
-      ],
-      "zh-TW": [
-        "幹玫瑰花蕾與紅茶或綠茶拼配，也可單用花衝泡。",
-        "茶坯與乾花拼合，或以濃茶窨玫瑰香。"
-      ]
-    },
-    "ko": {
-      "name": "장미차",
-      "oneLine": "말린 장미 봉오리를 홍차에 섞어 향을 더한 차 — 장미 향과 꿀 같은 단맛 뒤를 홍차의 몰트가 든든히 받칩니다.",
-      "oxidation": "약 85% (홍차 베이스)",
-      "ratioNote": "200ml에 3g",
-      "rounds": "3회",
-      "steepBasis": "90도에서 2분 30초, 2포 1분 30초. 꽃만 우리면 3분.",
-      "origin": "중국·이란 등. 홍차 베이스는 인도·스리랑카 차를 씁니다.",
-      "process": "말린 장미 봉오리를 홍차잎과 섞거나 차에 향을 입힙니다.",
-      "story": "장미는 중동과 중국에서 오래 차에 섞어 온 꽃입니다.",
-      "flavor": "장미 향과 꿀 같은 단맛, 홍차의 몰트가 뒤를 받칩니다.",
-      "pairing": "초콜릿, 구운 견과, 딸기 같은 과일 디저트, 장미 마카롱이 어울립니다. 장미 향과 꿀 같은 단맛이 초콜릿의 깊이와 어우러지고 몰트가 뒤를 받쳐 향이 가볍게 날아가지 않습니다. 매운 음식은 장미 향을 흐트러뜨리니 피하세요.",
-      "brewTip": "90도에서 2분 30초. 꽃이 많으면 향이 비누처럼 느껴질 수 있어 짧게.",
-      "keep": "밀봉해 서늘하게. 꽃잎 색이 바래면 향도 줄어듭니다.",
-      "keywords": "장미차 매괴홍차 로즈티 꽃차"
-    },
-    "en": {
-      "name": "Rose Tea",
-      "oneLine": "Dried rose buds blended into black tea — rose perfume and honeyed sweetness, with the tea's malt standing firmly behind.",
-      "oxidation": "about 85% (black base)",
-      "ratioNote": "3 g to 200 ml",
-      "rounds": "3 infusions",
-      "steepBasis": "90 °C: 2½ minutes, then 1½; 3 minutes if brewing buds alone.",
-      "origin": "China and Iran; the base tea comes from India and Sri Lanka.",
-      "process": "Dried rose buds blended with black leaf, or the tea scented with rose.",
-      "story": "Rose has been blended into tea in the Middle East and China for centuries.",
-      "flavor": "Rose and honey sweetness with malt behind.",
-      "pairing": "Chocolate, roasted nuts, fruit desserts like strawberries and rose macarons pair well. Rose aroma and honey sweetness meet chocolate's depth, with malt behind so the fragrance stays grounded. Spicy food would scatter the rose.",
-      "brewTip": "2½ minutes at 90 °C; too many petals turns it soapy, so keep it short.",
-      "keep": "Sealed and cool; faded petals mean faded scent.",
-      "keywords": "rose tea meigui scented black tea"
-    },
-    "zh-CN": {
-      "name": "玫瑰花茶",
-      "oneLine": "干玫瑰花蕾拼进红茶的花茶——玫瑰香与蜂蜜般的甜，身后是红茶的麦芽托底。",
-      "oxidation": "约85%（红茶坯）",
-      "ratioNote": "200毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "90度泡2分30秒，第二泡1分30秒；单冲花则3分钟。",
-      "origin": "中国、伊朗等地，茶坯多用印度、斯里兰卡红茶。",
-      "process": "干玫瑰花蕾与红茶拼合，或以浓茶窨玫瑰香。",
-      "story": "玫瑰入茶在中东与中国都有长久历史。",
-      "flavor": "玫瑰香与蜜甜，后段是红茶的麦芽味。",
-      "pairing": "巧克力、烤坚果、草莓等水果甜点和玫瑰马卡龙搭配得很好。玫瑰香气与蜂蜜甘甜遇上巧克力的深度，麦芽在后让芬芳扎根。辛辣食物会打散玫瑰香。",
-      "brewTip": "90度两分半，花多易显皂感，宜短泡。",
-      "keep": "密封阴凉，花色褪则香减。",
-      "keywords": "玫瑰花茶 玫瑰红茶 花茶"
-    },
-    "zh-TW": {
-      "name": "玫瑰花茶",
-      "oneLine": "乾玫瑰花蕾拼進紅茶的花茶——玫瑰香與蜂蜜般的甜，身後是紅茶的麥芽托底。",
-      "oxidation": "約85%（紅茶坯）",
-      "ratioNote": "200毫升配3克",
-      "rounds": "3泡",
-      "steepBasis": "90度泡2分30秒，第二泡1分30秒；單衝花則3分鐘。",
-      "origin": "中國、伊朗等地，茶坯多用印度、斯裡蘭卡紅茶。",
-      "process": "幹玫瑰花蕾與紅茶拼合，或以濃茶窨玫瑰香。",
-      "story": "玫瑰入茶在中東與中國都有長久歷史。",
-      "flavor": "玫瑰香與蜜甜，後段是紅茶的麥芽味。",
-      "pairing": "巧克力、烘烤堅果、草莓等水果甜點和玫瑰馬卡龍搭配起來很好。玫瑰香與蜂蜜甜味遇上巧克力的深度,麥芽在後方讓芬芳保持扎實。辛辣食物會打散玫瑰香。",
-      "brewTip": "90度兩分半，花多易顯皂感，宜短泡。",
-      "keep": "密封陰涼，花色褪則香減。",
-      "keywords": "玫瑰花茶 玫瑰紅茶 花茶"
     },
     "originCountryCode": "cn"
   },
@@ -25012,7 +24899,353 @@ window.TEAFaiData = (function () {
       "keywords": "胡蘆巴 methi helba 種子茶"
     },
     "originCountryCode": "in"
+  },
+  {
+    "id": "herb-rose",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "玫",
+    "sub": "Rose Bud Tea",
+    "alias": [
+      "장미꽃차",
+      "매괴화",
+      "玫瑰花"
+    ],
+    "hz": "玫瑰花茶",
+    "hs": "玫瑰花茶",
+    "rom": "Meigui",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "4g",
+    "water": "200ml",
+    "steeps": [
+      150,
+      150
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon t-night a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-calm",
+    "originCountry": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國"
+    },
+    "x": {
+      "ko": [
+        "말린 장미 꽃봉오리를 우려 마시는 꽃차입니다.",
+        "중국 산둥성 평음현은 봉오리가 크고 향이 진한 장미 산지로 유명합니다."
+      ],
+      "en": [
+        "Dried rose buds, steeped as a flower tea.",
+        "Pingyin in Shandong, China is famed for its large, fragrant rose buds."
+      ],
+      "zh-CN": [
+        "晒干的玫瑰花苞冲泡的花茶。",
+        "中国山东平阴以花苞大、香气浓的玫瑰闻名。"
+      ],
+      "zh-TW": [
+        "曬乾的玫瑰花苞沖泡的花茶。",
+        "中國山東平陰以花苞大、香氣濃的玫瑰聞名。"
+      ]
+    },
+    "ko": {
+      "name": "장미차",
+      "oneLine": "중국 산둥 평음이 산지로 유명한 장미 봉오리차 — 말린 봉오리를 우리면 진한 장미 향과 옅은 단맛이 화사하게 피어납니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 4g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 2~3분.",
+      "origin": "중국 산둥성 평음현이 장미 산지로 유명합니다. 꽃봉오리를 말려 씁니다.",
+      "process": "꽃봉오리를 따서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "중국에서는 오래전부터 장미 봉오리를 말려 차로 마셔 왔습니다. 평음의 장미는 봉오리가 크고 향이 진해 으뜸으로 꼽힙니다.",
+      "flavor": "진한 장미 꽃향과 옅은 단맛, 부드러운 꽃잎의 여운.",
+      "pairing": "딸기 디저트·마카롱·가벼운 케이크와 잘 어울립니다. 화사한 꽃향이 달콤한 디저트의 향과 같은 결로 이어지고, 옅은 단맛이 크림의 무거움을 가볍게 정리합니다. 짭짤하고 진한 음식과는 꽃향이 묻히니 따로 즐기세요.",
+      "brewTip": "유리 다관에 우리면 봉오리가 천천히 펼쳐지는 모습까지 즐길 수 있습니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "장미차 장미꽃차 매괴화 꽃차 평음"
+    },
+    "en": {
+      "name": "Rose Bud Tea",
+      "oneLine": "Rose buds from Pingyin, Shandong — steep the dried buds and a rich rose aroma blooms, with a light sweetness.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "4 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 2–3 minutes.",
+      "origin": "Pingyin County in Shandong, China is a famed rose-growing area; the buds are dried.",
+      "process": "Buds picked, dried, then steeped in hot water.",
+      "story": "China has long dried rose buds for tea. Pingyin roses, large-budded and deeply fragrant, are counted the finest.",
+      "flavor": "A rich rose aroma, light sweetness and a soft petal finish.",
+      "pairing": "Strawberry desserts, macarons and light cakes suit it. Its bright floral scent runs in the same direction as sweet desserts, and the light sweetness lifts the weight of cream. Salty, heavy food buries the rose aroma, so enjoy it apart.",
+      "brewTip": "Steep in a glass pot to watch the buds slowly unfold.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "rose bud tea meigui flower tea Pingyin"
+    },
+    "zh-CN": {
+      "name": "玫瑰花茶",
+      "oneLine": "产自中国山东平阴的玫瑰花苞茶——干花苞冲泡后，浓郁的玫瑰香与淡淡甘甜华丽绽放。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配4克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡2~3分钟。",
+      "origin": "中国山东省平阴县是著名的玫瑰产地，花苞晒干使用。",
+      "process": "采下花苞晒干后用热水冲泡。",
+      "story": "中国自古就把玫瑰花苞晒干泡茶，平阴玫瑰花苞大、香气浓，被列为上品。",
+      "flavor": "浓郁的玫瑰花香、淡淡甘甜与柔和的花瓣余韵。",
+      "pairing": "适合草莓甜点、马卡龙和轻盈的蛋糕。明亮的花香与甜点的香气同向而行，淡淡甘甜把奶油的厚重轻轻收拾。咸而浓重的食物会掩埋玫瑰香，请分开享用。",
+      "brewTip": "用玻璃壶冲泡，还能欣赏花苞慢慢舒展的样子。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "玫瑰花茶 玫瑰 花茶 平阴"
+    },
+    "zh-TW": {
+      "name": "玫瑰花茶",
+      "oneLine": "產自中國山東平陰的玫瑰花苞茶——乾花苞沖泡後，濃郁的玫瑰香與淡淡甘甜華麗綻放。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配4公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡2~3分鐘。",
+      "origin": "中國山東省平陰縣是著名的玫瑰產地，花苞曬乾使用。",
+      "process": "採下花苞曬乾後用熱水沖泡。",
+      "story": "中國自古就把玫瑰花苞曬乾泡茶，平陰玫瑰花苞大、香氣濃，被列為上品。",
+      "flavor": "濃郁的玫瑰花香、淡淡甘甜與柔和的花瓣餘韻。",
+      "pairing": "適合草莓甜點、馬卡龍和輕盈的蛋糕。明亮的花香與甜點的香氣同向而行，淡淡甘甜把奶油的厚重輕輕收拾。鹹而濃重的食物會掩埋玫瑰香，請分開享用。",
+      "brewTip": "用玻璃壺沖泡，還能欣賞花苞慢慢舒展的樣子。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "玫瑰花茶 玫瑰 花茶 平陰"
+    },
+    "originCountryCode": "cn"
+  },
+  {
+    "id": "herb-butterflypea",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "蝶",
+    "sub": "Butterfly Pea",
+    "alias": [
+      "나비완두차",
+      "접두화",
+      "蝶豆花"
+    ],
+    "hz": "蝶豆花茶",
+    "hs": "蝶豆花茶",
+    "rom": "Butterfly Pea",
+    "temp": 95,
+    "tempRange": "90~100℃",
+    "leaf": "5~6송이",
+    "water": "200ml",
+    "steeps": [
+      180,
+      180
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
+    "originCountry": {
+      "ko": "태국",
+      "en": "Thailand",
+      "zh-CN": "泰国",
+      "zh-TW": "泰國"
+    },
+    "x": {
+      "ko": [
+        "나비완두의 파란 꽃을 말려 우린 꽃차입니다.",
+        "안토시아닌이 우러나 수색이 파랗고, 레몬즙을 넣으면 보라색으로 변합니다."
+      ],
+      "en": [
+        "The blue flowers of the butterfly pea, dried and steeped.",
+        "Anthocyanins turn the liquor blue; a squeeze of lemon shifts it to purple."
+      ],
+      "zh-CN": [
+        "蝶豆的蓝花晒干冲泡的花茶。",
+        "花青素溶出后茶汤呈蓝色，加入柠檬汁会变成紫色。"
+      ],
+      "zh-TW": [
+        "蝶豆的藍花曬乾沖泡的花茶。",
+        "花青素溶出後茶湯呈藍色，加入檸檬汁會變成紫色。"
+      ]
+    },
+    "ko": {
+      "name": "버터플라이피",
+      "oneLine": "태국 등 동남아의 나비완두 꽃 버터플라이피 — 안토시아닌이 우러나 잔이 파랗게 물들고, 레몬즙을 넣으면 보라색으로 변하는 꽃차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 꽃 5~6송이",
+      "rounds": "2회",
+      "steepBasis": "95도에서 3분 안팎.",
+      "origin": "태국 등 동남아시아에서 널리 재배합니다. 파란 꽃을 말려 씁니다.",
+      "process": "꽃을 따서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "동남아에서는 음료와 디저트, 밥까지 파랗게 물들이는 식재료로 써 왔습니다. 산성도에 따라 색이 달라, 레몬을 넣는 색 변화 음료로도 유명합니다.",
+      "flavor": "옅은 풀 향과 부드럽고 은은한 맛. 향미보다 색이 주인공인 차입니다.",
+      "pairing": "레몬즙을 더해 색 변화를 즐기거나, 코코넛 디저트·열대과일과 잘 어울립니다. 은은한 맛이 디저트의 단맛을 해치지 않고, 파란 수색이 식탁에 포인트가 됩니다. 진한 향의 음식과는 색의 재미가 묻히니 가벼운 자리에서 즐기세요.",
+      "brewTip": "레몬즙 몇 방울을 넣으면 파란색이 보라색으로 변합니다. 두 번째 우림은 색이 옅어집니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "버터플라이피 나비완두 접두화 꽃차 파란차"
+    },
+    "en": {
+      "name": "Butterfly Pea",
+      "oneLine": "Butterfly pea flowers from Thailand and Southeast Asia — anthocyanins dye the cup blue, and a squeeze of lemon turns it purple.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "5–6 flowers to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "95 °C for about 3 minutes.",
+      "origin": "Widely grown in Thailand and across Southeast Asia; the blue flowers are dried.",
+      "process": "Flowers picked, dried, then steeped in hot water.",
+      "story": "Southeast Asian kitchens have long used it to tint drinks, desserts and even rice blue. Because the colour answers to acidity, it is famous as a colour-changing drink with lemon.",
+      "flavor": "A faint green note and a soft, quiet taste — the colour, not the flavour, is the star.",
+      "pairing": "Add lemon juice and enjoy the colour change, or pair it with coconut desserts and tropical fruit. Its quiet taste never fights a dessert's sweetness, and the blue liquor brightens the table. Strongly flavoured food buries the fun of the colour, so keep the setting light.",
+      "brewTip": "A few drops of lemon juice turn blue to purple. The second steep runs paler.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "butterfly pea blue tea anchan flower tea Thailand"
+    },
+    "zh-CN": {
+      "name": "蝶豆花茶",
+      "oneLine": "来自泰国等东南亚的蝶豆花——花青素溶出把茶杯染成蓝色，加入柠檬汁又会变成紫色。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配5~6朵花",
+      "rounds": "2泡",
+      "steepBasis": "95度泡3分钟左右。",
+      "origin": "在泰国等东南亚广泛栽培，蓝花晒干使用。",
+      "process": "采花晒干后用热水冲泡。",
+      "story": "东南亚一直把它当作给饮料、甜点甚至米饭染蓝的食材。因颜色随酸碱变化，也是有名的柠檬变色饮料。",
+      "flavor": "淡淡的青草气与柔和清淡的味道，颜色比风味更抢眼的茶。",
+      "pairing": "加柠檬汁欣赏变色，或配椰子甜点与热带水果。清淡的味道不抢甜点的甜，蓝色茶汤为餐桌添彩。风味浓重的食物会掩盖变色的乐趣，请在轻松的场合享用。",
+      "brewTip": "滴几滴柠檬汁，蓝色就会变成紫色。第二泡颜色会变淡。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "蝶豆花 蓝花茶 变色 花茶 泰国"
+    },
+    "zh-TW": {
+      "name": "蝶豆花茶",
+      "oneLine": "來自泰國等東南亞的蝶豆花——花青素溶出把茶杯染成藍色，加入檸檬汁又會變成紫色。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配5~6朵花",
+      "rounds": "2泡",
+      "steepBasis": "95度泡3分鐘左右。",
+      "origin": "在泰國等東南亞廣泛栽培，藍花曬乾使用。",
+      "process": "採花曬乾後用熱水沖泡。",
+      "story": "東南亞一直把它當作給飲料、甜點甚至米飯染藍的食材。因顏色隨酸鹼變化，也是有名的檸檬變色飲料。",
+      "flavor": "淡淡的青草氣與柔和清淡的味道，顏色比風味更搶眼的茶。",
+      "pairing": "加檸檬汁欣賞變色，或配椰子甜點與熱帶水果。清淡的味道不搶甜點的甜，藍色茶湯為餐桌添彩。風味濃重的食物會掩蓋變色的樂趣，請在輕鬆的場合享用。",
+      "brewTip": "滴幾滴檸檬汁，藍色就會變成紫色。第二泡顏色會變淡。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "蝶豆花 藍花茶 變色 花茶 泰國"
+    },
+    "originCountryCode": "th"
+  },
+  {
+    "id": "herb-osmanthus",
+    "group": "everyday",
+    "kind": "tea",
+    "hanja": "桂",
+    "sub": "Osmanthus Tea",
+    "alias": [
+      "금계화",
+      "목서차",
+      "桂花"
+    ],
+    "hz": "桂花茶",
+    "hs": "桂花茶",
+    "rom": "Guihua",
+    "temp": 90,
+    "tempRange": "85~95℃",
+    "leaf": "2g",
+    "water": "200ml",
+    "steeps": [
+      150,
+      150
+    ],
+    "maxSteep": 2,
+    "oxidationValue": 0,
+    "traits": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-calm",
+    "originCountry": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國"
+    },
+    "x": {
+      "ko": [
+        "금목서 꽃을 말려 우린 순수한 꽃차입니다.",
+        "중국 구이린은 '계화나무 숲'이라는 이름 그대로 계화로 유명한 도시입니다."
+      ],
+      "en": [
+        "Golden osmanthus flowers, dried and steeped on their own.",
+        "Guilin in China takes its name from its osmanthus woods — the city is famed for the flower."
+      ],
+      "zh-CN": [
+        "金桂花晒干后单独冲泡的纯花茶。",
+        "中国桂林正如其名'桂树之林'，以桂花闻名。"
+      ],
+      "zh-TW": [
+        "金桂花曬乾後單獨沖泡的純花茶。",
+        "中國桂林正如其名'桂樹之林'，以桂花聞名。"
+      ]
+    },
+    "ko": {
+      "name": "계화차",
+      "oneLine": "중국 구이린을 유명하게 만든 금목서 꽃 계화 — 작은 꽃에서 살구를 닮은 달콤한 향이 진하게 퍼지는 꽃차입니다.",
+      "oxidation": "무산화 · 카페인 없음",
+      "ratioNote": "200ml에 2g",
+      "rounds": "2회",
+      "steepBasis": "90도에서 2~3분.",
+      "origin": "중국 광시 구이린이 계화로 유명합니다. 금목서 꽃을 말려 씁니다.",
+      "process": "꽃을 따서 말린 뒤 뜨거운 물에 우립니다.",
+      "story": "구이린이라는 지명 자체가 '계화나무 숲'에서 왔습니다. 찻잎에 계화 향을 입힌 계화우롱과는 달리, 이 항목은 꽃만 우린 순수한 꽃차입니다.",
+      "flavor": "살구·복숭아를 닮은 달콤한 꽃향과 꿀 같은 단맛.",
+      "pairing": "찹쌀떡·약과 같은 전통 다과와 잘 어울립니다. 달콤한 꽃향이 떡의 은은한 단맛과 같은 결로 이어지고, 꿀 같은 여운이 입안을 부드럽게 감쌉니다. 짭짤한 음식과는 꽃향이 겹치지 않으니 디저트 자리에 두세요.",
+      "brewTip": "꽃이 작아 차 거름망에 넣고 우리면 깔끔합니다.",
+      "keep": "밀봉해 서늘하고 건조하게.",
+      "keywords": "계화차 금목서 계화 구이린 꽃차"
+    },
+    "en": {
+      "name": "Osmanthus Tea",
+      "oneLine": "Osmanthus, the golden flower that made Guilin famous — tiny blossoms pour out a sweet, apricot-like fragrance.",
+      "oxidation": "none · caffeine-free",
+      "ratioNote": "2 g to 200 ml",
+      "rounds": "2 infusions",
+      "steepBasis": "90 °C for 2–3 minutes.",
+      "origin": "Guilin in Guangxi, China is famed for osmanthus; the golden flowers are dried.",
+      "process": "Flowers picked, dried, then steeped in hot water.",
+      "story": "Guilin's very name means 'osmanthus forest'. Unlike osmanthus oolong, where leaves are scented with the flower, this entry is the pure flower tea on its own.",
+      "flavor": "A sweet floral scent like apricot and peach, with a honeyed sweetness.",
+      "pairing": "Glutinous rice cakes and traditional sweets like yakgwa suit it. Its sweet floral scent runs alongside the cakes' gentle sweetness, and the honeyed finish wraps the palate softly. Salty food sits on another track, so keep it for dessert.",
+      "brewTip": "The flowers are tiny — steep them in an infuser for a clean cup.",
+      "keep": "Sealed, cool and dry.",
+      "keywords": "osmanthus tea guihua Guilin flower tea"
+    },
+    "zh-CN": {
+      "name": "桂花茶",
+      "oneLine": "让中国桂林闻名的金桂花——小小的花朵散发出杏子般浓郁的甜香。",
+      "oxidation": "不发酵 · 无咖啡因",
+      "ratioNote": "200毫升配2克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡2~3分钟。",
+      "origin": "中国广西桂林以桂花闻名，金桂花晒干使用。",
+      "process": "采花晒干后用热水冲泡。",
+      "story": "桂林这个地名本身就来自'桂树之林'。与给茶叶窨香的桂花乌龙不同，这一条目是只泡花的纯花茶。",
+      "flavor": "杏子与桃子般的甜花香，带蜜一样的甘甜。",
+      "pairing": "适合糯米糕与药果等传统茶点。甜花香与米糕淡淡的甜同向而行，蜜一样的余韵柔和地包裹口腔。咸味食物与花香不在一条线上，请留到甜点时间。",
+      "brewTip": "花朵细小，放进滤茶网冲泡更干净。",
+      "keep": "密封、阴凉干燥。",
+      "keywords": "桂花茶 金桂 桂花 桂林 花茶"
+    },
+    "zh-TW": {
+      "name": "桂花茶",
+      "oneLine": "讓中國桂林聞名的金桂花——小小的花朵散發出杏子般濃郁的甜香。",
+      "oxidation": "不發酵 · 無咖啡因",
+      "ratioNote": "200毫升配2公克",
+      "rounds": "2泡",
+      "steepBasis": "90度泡2~3分鐘。",
+      "origin": "中國廣西桂林以桂花聞名，金桂花曬乾使用。",
+      "process": "採花曬乾後用熱水沖泡。",
+      "story": "桂林這個地名本身就來自'桂樹之林'。與給茶葉窨香的桂花烏龍不同，這一條目是只泡花的純花茶。",
+      "flavor": "杏子與桃子般的甜花香，帶蜜一樣的甘甜。",
+      "pairing": "適合糯米糕與藥果等傳統茶點。甜花香與米糕淡淡的甜同向而行，蜜一樣的餘韻柔和地包裹口腔。鹹味食物與花香不在一條線上，請留到甜點時間。",
+      "brewTip": "花朵細小，放進濾茶網沖泡更乾淨。",
+      "keep": "密封、陰涼乾燥。",
+      "keywords": "桂花茶 金桂 桂花 桂林 花茶"
+    },
+    "originCountryCode": "cn"
   }
+
 ];
   TEAS = TEAS.concat(EXTRA_TEAS);
 
@@ -25144,7 +25377,6 @@ window.TEAFaiData = (function () {
   "dark-laoqingzhuan": "t-afternoon t-night a-herb a-roast b-full k-grain r-clean s-hot w-gongfu p-meal c-high m-cozy",
   "dark-tianjian": "t-afternoon t-night a-herb a-roast b-full k-sweet r-clean s-hot w-gongfu p-meal c-high m-cozy",
   "blend-guihua": "t-morning t-afternoon a-floral a-fruit b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
-  "blend-rose": "t-afternoon t-night a-floral a-fruit b-medium k-sweet r-clean s-hot w-quick p-dessert c-mid m-calm",
   "blend-lychee": "t-morning t-afternoon a-fruit a-floral b-medium k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
   "blend-thaitea": "t-morning t-afternoon a-malt a-roast b-full k-sweet r-clean s-iced s-milk p-dessert c-high m-energy",
   "blend-moroccan-mint": "t-morning t-afternoon a-herb a-grass b-light k-sweet r-clean s-hot s-iced p-dessert c-mid m-refresh",
@@ -25169,7 +25401,10 @@ window.TEAFaiData = (function () {
   "herb-clove": "t-afternoon a-herb b-medium k-crisp r-clean s-hot w-quick p-meal c-none m-cozy",
   "herb-staranise": "t-afternoon a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
   "herb-saffron": "t-afternoon t-night a-floral b-light k-sweet r-clean s-hot w-quick p-dessert c-none m-calm",
-  "herb-fenugreek": "t-morning t-afternoon a-roast a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy"
+  "herb-fenugreek": "t-morning t-afternoon a-roast a-herb b-medium k-sweet r-clean s-hot w-quick p-meal c-none m-cozy",
+  "herb-rose": "t-afternoon t-night a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-calm",
+  "herb-butterflypea": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-refresh",
+  "herb-osmanthus": "t-afternoon a-floral b-light k-sweet r-clean s-hot s-iced w-quick p-dessert c-none m-calm",
 });
 
   /* ── 162종 실물 사진 (tea_fai_research/tea_photos_map.json) ──
@@ -26896,14 +27131,6 @@ window.TEAFaiData = (function () {
     "lu": "",
     "pg": "https://www.tealife.com.au/products/oolong-osmanthus-tea"
   },
-  "blend-rose": {
-    "f": "blend-rose.jpg",
-    "m": "exact",
-    "cr": "www.51miz.com",
-    "lic": "",
-    "lu": "",
-    "pg": "ippr_z2C$qAzdH3FAzdH3Fooo_z&e3Bc84tz_z&e3Bv54AzdH3Ff5-f7vwtAzdH3Fdb8dmddAzdH3Fr_8AzdH3F"
-  },
   "blend-lychee": {
     "f": "blend-lychee.jpg",
     "m": "family",
@@ -27103,7 +27330,32 @@ window.TEAFaiData = (function () {
     "lic": "CC BY-SA 4.0",
     "lu": "https://creativecommons.org/licenses/by-sa/4.0",
     "pg": "https://commons.wikimedia.org/wiki/File:Fenugreek_Seeds_01.jpg"
+  },
+  "herb-rose": {
+    "f": "herb-rose.jpg",
+    "m": "exact",
+    "cr": "Loppy poppy",
+    "lic": "CC BY 4.0",
+    "lu": "",
+    "pg": "https://commons.wikimedia.org/wiki/File:Cup_of_rosebud_tea_with_dried_pink_rose_buds.jpg"
+  },
+  "herb-butterflypea": {
+    "f": "herb-butterflypea.jpg",
+    "m": "exact",
+    "cr": "Shino jacob koottanad",
+    "lic": "CC BY-SA 4.0",
+    "lu": "",
+    "pg": "https://commons.wikimedia.org/wiki/File:Flower_of_Clitoria_ternatea.jpg"
+  },
+  "herb-osmanthus": {
+    "f": "herb-osmanthus.jpg",
+    "m": "exact",
+    "cr": "Laitr Keiows",
+    "lic": "CC BY-SA 3.0",
+    "lu": "",
+    "pg": "https://commons.wikimedia.org/wiki/File:Osmanthus_fragrans_(orange_flowers).jpg"
   }
+
 };
 
   /* ── 162종 원산지 국가 ── */
@@ -29044,15 +29296,6 @@ window.TEAFaiData = (function () {
     "ja": "中国",
     "code": "cn"
   },
-  "blend-rose": {
-    "ko": "중국",
-    "en": "China",
-    "zh-CN": "中国",
-    "zh-TW": "中國",
-    "yue": "中國",
-    "ja": "中国",
-    "code": "cn"
-  },
   "blend-lychee": {
     "ko": "중국",
     "en": "China",
@@ -29277,7 +29520,35 @@ window.TEAFaiData = (function () {
       "yue": "印度",
       "ja": "インド",
       "code": "in"
+  },
+  "herb-rose": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國",
+      "yue": "中國",
+      "ja": "中国",
+      "code": "cn"
+  },
+  "herb-butterflypea": {
+      "ko": "태국",
+      "en": "Thailand",
+      "zh-CN": "泰国",
+      "zh-TW": "泰國",
+      "yue": "泰國",
+      "ja": "タイ",
+      "code": "th"
+  },
+  "herb-osmanthus": {
+      "ko": "중국",
+      "en": "China",
+      "zh-CN": "中国",
+      "zh-TW": "中國",
+      "yue": "中國",
+      "ja": "中国",
+      "code": "cn"
   }
+
 };
   /* ── END generated: research ── */
 
