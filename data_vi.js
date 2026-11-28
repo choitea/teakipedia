@@ -4887,6 +4887,54 @@ window.TEAFaiDataVi = (function () {
     "brewTip": "Rang trước khi đun sẽ làm mềm vị đắng và làm sâu hương thơm.",
     "keep": "Đóng kín, để nơi mát và khô.",
     "keywords": "cỏ cà ri hạt methi helba fenugreek methi helba seed tea"
+  },
+  "herb-rose": {
+    "brewTip": "Pha trong ấm thủy tinh để ngắm những nụ hoa từ từ nở ra.",
+    "flavor": "Hương hoa hồng đậm, vị ngọt nhẹ và dư vị cánh hoa mềm mại.",
+    "keep": "Đậy kín, để nơi mát và khô.",
+    "keywords": "trà nụ hồng trà hoa hồng Bình Âm trà hoa",
+    "name": "Trà hoa hồng",
+    "oneLine": "Nụ hồng từ Bình Âm, Sơn Đông — pha những nụ hoa khô và hương hồng đậm sẽ nở ra cùng vị ngọt nhẹ.",
+    "origin": "Huyện Bình Âm ở Sơn Đông, Trung Quốc là vùng trồng hồng nổi tiếng; nụ hoa được phơi khô.",
+    "oxidation": "không lên men · không caffeine",
+    "pairing": "Món tráng miệng dâu tây, bánh macaron và bánh nhẹ rất hợp. Hương hoa tươi sáng của nó chảy cùng hướng với các món tráng miệng ngọt, và vị ngọt nhẹ nâng đi sự nặng nề của kem. Món ăn mặn, nặng sẽ che mất hương hồng, nên hãy thưởng thức riêng.",
+    "process": "Nụ hoa được hái, phơi khô, rồi ngâm trong nước nóng.",
+    "ratioNote": "4 g cho 200 ml",
+    "rounds": "2 lần pha",
+    "steepBasis": "90 °C trong 2–3 phút.",
+    "story": "Trung Quốc từ lâu đã phơi khô nụ hồng để làm trà. Hồng Bình Âm, nụ to và hương đậm, được xem là loại thượng hạng nhất."
+  },
+  "herb-butterflypea": {
+    "brewTip": "Vài giọt nước cốt chanh sẽ biến màu xanh thành màu tím. Nước thứ hai sẽ nhạt hơn.",
+    "flavor": "Hương xanh thoảng nhẹ và vị mềm, lặng — màu sắc, không phải hương vị, mới là ngôi sao của loại trà này.",
+    "keep": "Đậy kín, để nơi mát và khô.",
+    "keywords": "trà hoa đậu biếc trà xanh dương trà hoa Thái Lan",
+    "name": "Trà hoa đậu biếc",
+    "oneLine": "Hoa đậu biếc từ Thái Lan và Đông Nam Á — anthocyanin nhuộm tách trà thành màu xanh, và một ít nước chanh sẽ biến nó thành màu tím.",
+    "origin": "Được trồng rộng rãi ở Thái Lan và khắp Đông Nam Á; hoa xanh được phơi khô.",
+    "oxidation": "không lên men · không caffeine",
+    "pairing": "Thêm nước chanh và thưởng thức sự đổi màu, hoặc kết hợp với món tráng miệng dừa và trái cây nhiệt đới. Vị lặng của nó không bao giờ tranh giành với vị ngọt của món tráng miệng, và màu xanh làm bàn ăn thêm sáng. Món ăn đậm vị sẽ che mất niềm vui của màu sắc, nên hãy giữ không khí nhẹ nhàng.",
+    "process": "Hoa được hái, phơi khô, rồi ngâm trong nước nóng.",
+    "ratioNote": "5–6 bông hoa cho 200 ml",
+    "rounds": "2 lần pha",
+    "steepBasis": "95 °C trong khoảng 3 phút.",
+    "story": "Bếp ăn Đông Nam Á từ lâu đã dùng hoa đậu biếc để nhuộm xanh đồ uống, món tráng miệng và cả cơm. Vì màu sắc thay đổi theo độ axit, nó nổi tiếng là thức uống đổi màu khi thêm chanh."
+  },
+  "herb-osmanthus": {
+    "brewTip": "Hoa rất nhỏ — hãy pha trong lưới lọc để tách trà sạch.",
+    "flavor": "Hương hoa ngọt như mơ và đào, với vị ngọt như mật ong.",
+    "keep": "Đậy kín, để nơi mát và khô.",
+    "keywords": "trà hoa mộc quế hoa Quế Lâm trà hoa",
+    "name": "Trà hoa mộc (quế hoa)",
+    "oneLine": "Hoa mộc, bông hoa vàng đã làm Quế Lâm nổi tiếng — những bông hoa nhỏ xíu tỏa ra hương thơm ngọt ngào như quả mơ.",
+    "origin": "Quế Lâm ở Quảng Tây, Trung Quốc nổi tiếng với hoa mộc; hoa vàng được phơi khô.",
+    "oxidation": "không lên men · không caffeine",
+    "pairing": "Bánh gạo nếp và các món ngọt truyền thống như yakgwa rất hợp. Hương hoa ngọt của nó đi cùng vị ngọt nhẹ của bánh, và dư vị như mật ong bao bọc vòm miệng một cách mềm mại. Món mặn đi theo hướng khác, nên hãy để dành cho lúc tráng miệng.",
+    "process": "Hoa được hái, phơi khô, rồi ngâm trong nước nóng.",
+    "ratioNote": "2 g cho 200 ml",
+    "rounds": "2 lần pha",
+    "steepBasis": "90 °C trong 2–3 phút.",
+    "story": "Chính cái tên Quế Lâm có nghĩa là 'rừng hoa mộc'. Khác với ô long quế hoa, nơi lá trà được ướp hương hoa, mục này là trà hoa nguyên chất chỉ có hoa."
   }
 };
 
