@@ -9,7 +9,7 @@
 window.TEAFaiData = (function () {
   "use strict";
 
-  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue", "hi", "th", "vi", "ar", "ind", "tur", "si", "es", "fr", "ne", "ms"];
+  var LANGS = ["ko", "en", "zh-CN", "zh-TW", "ja", "yue", "hi", "th", "vi", "ar", "ind", "tur", "es", "fr", "ms"];
 
   /* 광동어(yue)는 아직 차별 문구를 따로 쓰지 않았습니다. 번체 중국어 문구를 그대로 쓰고,
      없는 항목은 영어까지 내려갑니다(화면이 비지 않게). */
@@ -26,10 +26,8 @@ window.TEAFaiData = (function () {
     ar: ["ar", "en"],
     ind: ["ind", "en"],
     tur: ["tur", "en"],
-    si: ["si", "en"],
     es: ["es", "en"],
     fr: ["fr", "en"],
-    ne: ["ne", "en"],
     ms: ["ms", "en"]
   };
 
@@ -36933,7 +36931,7 @@ window.TEAFaiData = (function () {
     var langName = function (key) {
       return raw && raw[key] && raw[key].name ? raw[key].name : "";
     };
-    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "lk": "si", "ar": "es", "pe": "es", "fr": "fr", "np": "ne", "my": "ms", "mx": "es", "idn": "ms" };
+    var byLang = { "in": "hi", "th": "th", "vn": "vi", "eg": "ar", "sd": "ar", "ma": "ar", "tr": "tur", "ar": "es", "pe": "es", "fr": "fr", "my": "ms", "mx": "es", "idn": "ms" };
     if (byLang[code]) {
       var ln = langName(byLang[code]);
       if (ln) return ln;

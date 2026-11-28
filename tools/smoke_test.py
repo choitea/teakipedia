@@ -161,10 +161,8 @@ CHECK = r"""
   out.arTeas = D.use('ar').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.indTeas = D.use('ind').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.turTeas = D.use('tur').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
-  out.siTeas = D.use('si').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.esTeas = D.use('es').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.frTeas = D.use('fr').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
-  out.neTeas = D.use('ne').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.msTeas = D.use('ms').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.hiGroups = D.use('hi').groups.filter(function (g) { return !!g.name; }).length;
   out.thGroups = D.use('th').groups.filter(function (g) { return !!g.name; }).length;
@@ -248,7 +246,7 @@ def run(plan=None, shops=None):
             "localStorage.setItem('teafai.shops.v1', %r)"
             % json.dumps({"version": shops.get("version"), "shops": shops.get("shops")}, ensure_ascii=False)
         )
-    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_si.js", "data_es.js", "data_fr.js", "data_ne.js", "data_ms.js", "data_ja.js", "app.js", "features.js"]
+    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_es.js", "data_fr.js", "data_ms.js", "data_ja.js", "app.js", "features.js"]
     for f in files:
         src = (HERE / f).read_text(encoding="utf-8")
         try:
@@ -322,10 +320,8 @@ def main():
         and result["arTeas"] == 297
         and result["indTeas"] == 297
         and result["turTeas"] == 297
-        and result["siTeas"] == 297
         and result["esTeas"] == 297
         and result["frTeas"] == 297
-        and result["neTeas"] == 297
         and result["msTeas"] == 297
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
