@@ -6461,6 +6461,15 @@ h3 {
   background: rgba(22, 28, 23, 0.92);
 }
 
+/* 다크 모드에서 배경이 밝은 크림색(--ink)으로 뒤집히는 요소들은 글자를 진한 녹색으로 */
+:root[data-theme="dark"] .topnav .tab.active,
+:root[data-theme="dark"] .topnav .tab.active svg,
+:root[data-theme="dark"] .toast,
+:root[data-theme="dark"] .lens-btn.primary,
+:root[data-theme="dark"] .member-state {
+  color: #243e32;
+}
+
 :root[data-theme="dark"] .qrs-item {
   background: rgba(31, 40, 33, 0.9);
 }
