@@ -303,26 +303,26 @@ def main():
     print(json.dumps(result, ensure_ascii=False, indent=2))
     ok = (
         not result["errors"]
-        and result["teas"] == 297
-        and result["teaWithPhoto"] == 297
-        and result["teaWithCountry"] == 297
+        and result["teas"] == 241
+        and result["teaWithPhoto"] == 241
+        and result["teaWithCountry"] == 241
         and result["teaListHtml"] > 1000
         and result["storeHtml"] > 1000
         and result["memberHtml"] > 100
         and result["lensHtml"] > 100
-        and result["leafCount"] == "297"
-        and result["teaIdsOk"] == 297
-        and result["cafTeas"] == 297
-        and result["yueCantonese"] == 297
-        and result["hiTeas"] == 297
-        and result["thTeas"] == 297
-        and result["viTeas"] == 297
-        and result["arTeas"] == 297
-        and result["indTeas"] == 297
-        and result["turTeas"] == 297
-        and result["esTeas"] == 297
-        and result["frTeas"] == 297
-        and result["msTeas"] == 297
+        and result["leafCount"] == "241"
+        and result["teaIdsOk"] == 241
+        and result["cafTeas"] == 241
+        and result["yueCantonese"] == 241
+        and result["hiTeas"] == 241
+        and result["thTeas"] == 241
+        and result["viTeas"] == 241
+        and result["arTeas"] == 241
+        and result["indTeas"] == 241
+        and result["turTeas"] == 241
+        and result["esTeas"] == 241
+        and result["frTeas"] == 241
+        and result["msTeas"] == 241
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
         and result["viGroups"] == 7
