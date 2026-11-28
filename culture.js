@@ -1,4 +1,4 @@
-/* 차 문화 글 20편 — 나라별 다례 · 다구 입문 · 차 상식 (15개 언어) */
+/* 차 문화 글 20편 — 나라별 다례 · 다구 입문 · 차 상식 (16개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -307,6 +307,24 @@ window.TEAFaiCulture = [
      "h": "Darye harian pada masa kini",
      "p": "Hari ini, darye harian yang dipermudahkan diamalkan secara meluas. Dengan satu teko dan beberapa cawan di rumah atau di kedai teh, orang ramai berkongsi teh sebagai masa untuk ketenangan dan perbualan. Jika anda baru bermula, sekadar mengambil kira suhu air dan masa peresapan sudah cukup untuk menghidangkan secawan teh yang baik."
     }
+   ],
+   "ru": [
+    {
+     "h": "Чарэ — обряд подношения чая",
+     "p": "Корейский обряд почитания предков чарэ (차례) широко объясняют как происходящий от обычая подносить чай предкам. В храмах, при дворе и в домах учёных мужей эпох Корё и Чосон чай тщательно готовили, встречая гостей и почитая предков. Чай никогда не был просто напитком; это был способ передать своё сердце."
+    },
+    {
+     "h": "Основной порядок дарэ",
+     "p": "Сначала вскипятите воду и согрейте чайник и чашки горячей водой. Положите листья в согретый чайник, влейте воду нужной температуры и дайте чаю настояться. При разливании чередуйте небольшие порции между чашками, чтобы в каждой чашке была одинаковая крепость."
+    },
+    {
+     "h": "Дух гостеприимства",
+     "p": "Сердце дарэ — это отношение, а не техника. Хозяин готовит всё до того, как гость сядет, и подносит чашку обеими руками. Пока гость пьёт, хозяин говорит мало и тихо остаётся внимательным, чтобы гость мог сосредоточиться на аромате и вкусе."
+    },
+    {
+     "h": "Повседневное дарэ сегодня",
+     "p": "Сегодня широко практикуется упрощённое повседневное дарэ. С одним чайником и несколькими чашками дома или в чайном доме люди делятся чаем как временем для спокойствия и беседы. Если вы только начинаете, просто следить за температурой воды и временем заваривания достаточно, чтобы подать хорошую чашку."
+    }
    ]
   },
   "cat": "ceremony",
@@ -333,7 +351,8 @@ window.TEAFaiCulture = [
    "es": "En Corea, el té y la etiqueta han sido una sola cosa desde hace mucho tiempo: la palabra para un rito ancestral, charye, significa literalmente «rito del té». Este artículo recorre el flujo del darye cotidiano, desde hervir el agua hasta ofrecer la taza con ambas manos.",
    "fr": "En Corée, le thé et l'étiquette ne font depuis longtemps qu'un : le mot qui désigne un rite ancestral, charye, signifie littéralement « rite du thé ». Cet article vous guide dans le déroulement du darye quotidien, de l'eau que l'on fait bouillir à la tasse offerte à deux mains.",
    "ne": "कोरियामा चिया र शिष्टाचार लामो समयदेखि एउटै हुन्: पुर्खाको संस्कारलाई बुझाउने शब्द 'छार्ये' को शाब्दिक अर्थ नै 'चिया संस्कार' हो। यस लेखले पानी उमाल्नेदेखि दुवै हातले कप अर्पण गर्नेसम्म, दैनिक दार्येको प्रवाहलाई चिनाउँछ।",
-   "ms": "Di Korea, teh dan adab telah lama menjadi satu: perkataan bagi upacara nenek moyang, charye, secara harfiah bermaksud 'upacara teh.' Artikel ini membawa anda melalui aliran darye harian, daripada mendidihkan air hinggalah mempersembahkan cawan dengan kedua-dua tangan."
+   "ms": "Di Korea, teh dan adab telah lama menjadi satu: perkataan bagi upacara nenek moyang, charye, secara harfiah bermaksud 'upacara teh.' Artikel ini membawa anda melalui aliran darye harian, daripada mendidihkan air hinggalah mempersembahkan cawan dengan kedua-dua tangan.",
+   "ru": "В Корее чай и этикет издавна были едины: слово, обозначающее обряд почитания предков, чарэ, буквально означает «чайный обряд». В этой статье рассказывается о порядке повседневного дарэ — от кипячения воды до подношения чашки обеими руками."
   },
   "title": {
    "en": "Korean Darye — The Etiquette of Offering Tea",
@@ -352,7 +371,8 @@ window.TEAFaiCulture = [
    "es": "Darye coreano: la etiqueta de ofrecer té",
    "fr": "Le darye coréen — L'étiquette de l'offrande du thé",
    "ne": "कोरियाली दार्ये — चिया अर्पण गर्ने शिष्टाचार",
-   "ms": "Darye Korea — Adab Mempersembahkan Teh"
+   "ms": "Darye Korea — Adab Mempersembahkan Teh",
+   "ru": "Корейское дарэ — этикет подношения чая"
   }
  },
  {
@@ -594,6 +614,20 @@ window.TEAFaiCulture = [
      "h": "Bekas kecil, teh pekat, banyak pusingan",
      "p": "Pembancuhan gongfu menggunakan teko sebesar tapak tangan atau gaiwan yang diisi daun dengan banyaknya, direndam sebentar dan diulang lima kali atau lebih. Setiap resapan berubah sedikit dari segi aroma dan rasa, dan menikmati perubahan itu pusingan demi pusingan adalah keseronokan gaya ini."
     }
+   ],
+   "ru": [
+    {
+     "h": "Родина чая гунфу",
+     "p": "Чай гунфу (功夫茶) развился в Чаочжоу, провинция Гуандун, и в регионе Миньнань на юге Фуцзяни. Записи эпохи династии Цин уже описывают чаочжоуский чай гунфу, и этот стиль сильно повлиял на чайную практику по всему Китаю и на Тайване."
+    },
+    {
+     "h": "«Гунфу» означает время и заботу",
+     "p": "Здесь гунфу не означает боевые искусства. Это означает посвящать чему-то время и мастерство. Название отражает заботу, вложенную в каждый шаг: выбор хороших листьев, нагревание воды и заваривание короткими, повторяющимися проливами."
+    },
+    {
+     "h": "Маленькие сосуды, крепкий чай, много кругов",
+     "p": "Заваривание гунфу использует чайник размером с ладонь или гайвань, щедро наполненные листьями, завариваемые недолго и повторяемые пять и более раз. Каждый пролив слегка меняется по аромату и вкусу, и пробовать это изменение круг за кругом — удовольствие этого стиля."
+    }
    ]
   },
   "cat": "ceremony",
@@ -620,7 +654,8 @@ window.TEAFaiCulture = [
    "es": "Nacido en Chaozhou y el sur de Fujian, el té gongfu prepara un té fuerte en una tetera diminuta o en un gaiwan y lo comparte en muchas infusiones cortas. Descubre qué hacen la jarra de la equidad y la taza de aroma, y por qué «gongfu» significa tiempo y dedicación.",
    "fr": "Né à Chaozhou et dans le sud du Fujian, le thé gongfu prépare un thé corsé dans une minuscule théière ou un gaiwan et se partage en de nombreuses infusions courtes. Découvrez le rôle du pichet d'équité et de la tasse à parfum, et pourquoi « gongfu » signifie temps et soin.",
    "ne": "छाओझोउ र दक्षिणी फुजियानमा जन्मिएको गोङफु चियाले सानो पात्र वा गाइवाङमा गाढा चिया बनाउँछ र धेरै छोटा भिजाइहरूमा बाँड्छ। फेयरनेस पिचर र अरोमा कपले के गर्छन् र 'गोङफु' भनेको किन समय र हेरचाह हो भनेर जान्नुहोस्।",
-   "ms": "Lahir di Chaozhou dan selatan Fujian, teh gongfu membancuh teh pekat dalam teko kecil atau gaiwan dan berkongsinya melalui banyak resapan pendek. Ketahui fungsi jag keadilan dan cawan aroma, dan mengapa 'gongfu' bermaksud masa dan ketelitian."
+   "ms": "Lahir di Chaozhou dan selatan Fujian, teh gongfu membancuh teh pekat dalam teko kecil atau gaiwan dan berkongsinya melalui banyak resapan pendek. Ketahui fungsi jag keadilan dan cawan aroma, dan mengapa 'gongfu' bermaksud masa dan ketelitian.",
+   "ru": "Родившийся в Чаочжоу и на юге Фуцзяни, чай гунфу заваривает крепкий чай в крошечном чайнике или гайвани и делится им за множество коротких проливов. Узнайте, для чего нужны чаша справедливости и ароматическая чашка, и почему «гунфу» означает время и заботу."
   },
   "title": {
    "en": "Chinese Gongfu Tea — Small Pots, Many Infusions",
@@ -639,7 +674,8 @@ window.TEAFaiCulture = [
    "es": "Té gongfu chino: teteras pequeñas, muchas infusiones",
    "fr": "Le thé gongfu chinois — Petites théières, nombreuses infusions",
    "ne": "चिनियाँ गोङफु चिया — साना पात्र, धेरै पटकको भिजाइ",
-   "ms": "Teh Gongfu Cina — Teko Kecil, Banyak Resapan"
+   "ms": "Teh Gongfu Cina — Teko Kecil, Banyak Resapan",
+   "ru": "Китайский чай гунфу — маленькие чайники, много проливов"
   }
  },
  {
@@ -949,6 +985,24 @@ window.TEAFaiCulture = [
      "h": "Adab asas untuk tetamu",
      "p": "Apabila menerima mangkuk, tetamu tunduk sedikit, kemudian memusingkan mangkuk itu sedikit di atas tapak tangan supaya tidak minum dari bahagian hadapannya yang berhias. Selepas habis, tetamu mengelap bibir mangkuk, mengagumi mangkuk itu, dan mengucapkan terima kasih kepada tuan rumah. Mengetahui aliran ringkas ini sudah lebih daripada cukup untuk pengalaman pertama."
     }
+   ],
+   "ru": [
+    {
+     "h": "Взбивание матча в чаше",
+     "p": "В садо порошковый матча помещают в чайную чашу (тяван), добавляют горячую воду, и чай взбивают бамбуковым венчиком (тясэн) до появления пены. Хозяин готовит чай перед каждым гостем, а сезонная сладость подаётся первой, чтобы уравновесить горечь матча."
+    },
+    {
+     "h": "Сэн-но Рикю и ваби",
+     "p": "Сэн-но Рикю, чайному мастеру XVI века, приписывают совершенствование стиля ваби в чае — нахождение красоты в простоте и несовершенстве. Вместо роскошной утвари он ценил грубые чаши и маленькие чайные комнаты, и садо сформировалось как путь душевной дисциплины."
+    },
+    {
+     "h": "Ити-го ити-э",
+     "p": "Дорогая сердцу фраза ити-го ити-э (一期一會) означает, что эта встреча случится только один раз в жизни. Хозяин вкладывает всю заботу в случай, который никогда не повторится, а гость принимает эту заботу с благодарностью, наслаждаясь единственной чашей."
+    },
+    {
+     "h": "Основные правила для гостей",
+     "p": "Получив чашу, гость слегка кланяется, затем немного поворачивает чашу на ладони, чтобы не пить с её украшенной передней стороны. Закончив, гость вытирает край, любуется чашей и благодарит хозяина. Знания этого простого порядка вполне достаточно для первого опыта."
+    }
    ]
   },
   "cat": "ceremony",
@@ -974,7 +1028,8 @@ window.TEAFaiCulture = [
    "es": "En el sadō japonés, el matcha se bate en un cuenco de té y se sirve a cada invitado. Este artículo presenta la estética wabi de Sen no Rikyū, el espíritu del ichi-go ichi-e y las normas básicas para invitados principiantes.",
    "fr": "Dans le sadō japonais, le matcha est fouetté dans un bol à thé et servi à chaque invité. Cet article présente l'esthétique wabi de Sen no Rikyū, l'esprit de l'ichi-go ichi-e et les bonnes manières de base pour les invités débutants.",
    "ne": "जापानी सादोमा, माचा चिया कचौरामा फेटेर हरेक पाहुनालाई पस्किइन्छ। यस लेखले सेन नो रिक्युको वाबी सौन्दर्य, इचि-गो इचि-एको भावना, र शुरुआतीहरूका लागि आधारभूत पाहुना शिष्टाचार चिनाउँछ।",
-   "ms": "Dalam sadō Jepun, matcha dikacau dalam mangkuk teh dan dihidangkan kepada setiap tetamu. Artikel ini memperkenalkan estetik wabi Sen no Rikyū, semangat ichi-go ichi-e, dan adab asas tetamu untuk pemula."
+   "ms": "Dalam sadō Jepun, matcha dikacau dalam mangkuk teh dan dihidangkan kepada setiap tetamu. Artikel ini memperkenalkan estetik wabi Sen no Rikyū, semangat ichi-go ichi-e, dan adab asas tetamu untuk pemula.",
+   "ru": "В японском садо матча взбивается в чайной чаше и подаётся каждому гостю. В этой статье представлены эстетика ваби Сэн-но Рикю, дух ити-го ити-э и основные правила поведения гостя для начинающих."
   },
   "title": {
    "en": "Japanese Sadō — One Cup, One Meeting",
@@ -993,7 +1048,8 @@ window.TEAFaiCulture = [
    "es": "Sadō japonés: una taza, un encuentro",
    "fr": "Le sadō japonais — Une tasse, une rencontre",
    "ne": "जापानी सादो — एउटा कप, एउटा भेट",
-   "ms": "Sadō Jepun — Satu Cawan, Satu Pertemuan"
+   "ms": "Sadō Jepun — Satu Cawan, Satu Pertemuan",
+   "ru": "Японское садо — одна чашка, одна встреча"
   }
  },
  {
@@ -1303,6 +1359,24 @@ window.TEAFaiCulture = [
      "h": "Teko zisha kecil, tegukan pekat",
      "p": "Kedua-dua laoren cha dan seni teh menggunakan teko tanah liat zisha kecil yang diisi daun dengan banyaknya, dibancuh dalam resapan pendek yang berulang. Cawannya kecil tetapi setiap tegukan pekat, dan berkongsi bagaimana rasa berubah merentasi resapan adalah kegembiraan oolong Taiwan."
     }
+   ],
+   "ru": [
+    {
+     "h": "Лаожэнь ча, чай, которым делятся не спеша",
+     "p": "Лаожэнь ча (老人茶, «чай пожилых людей») был повседневным обычаем пожилых людей собираться под деревьями или навесами, чтобы крепко заваривать улун в маленьком чайнике и медленно делиться им. Слово «пожилые» несёт в себе отношение: чай никогда не пьют в спешке."
+    },
+    {
+     "h": "В дом чайного искусства",
+     "p": "По мере роста экономики Тайваня в 1970-е и 1980-е годы чайные дома, посвящённые чаю, — чаигуань — умножились, и способ лаожэнь ча был усовершенствован в формальное «чайное искусство». Сегодня эти чайные дома — то место, где посетители чаще всего знакомятся с тайваньским улуном."
+    },
+    {
+     "h": "Сначала аромат, с ароматической чашкой",
+     "p": "Тайваньское чайное искусство известно тем, что сначала наслаждаются ароматом, а потом вкусом. Заваренный чай сначала наливают в высокую ароматическую чашку (вэньсянбэй), затем переливают в чашку для питья; затем гость поднимает опустевшую ароматическую чашку и вдыхает оставшийся в ней аромат — приём для полного наслаждения богатым ароматом улуна."
+    },
+    {
+     "h": "Маленький чайник из цзыша, концентрированные глотки",
+     "p": "И лаожэнь ча, и чайное искусство используют маленький глиняный чайник из цзыша, щедро наполненный листьями, завариваемый короткими повторяющимися проливами. Чашки крошечные, но каждый глоток концентрированный, и делиться тем, как меняется вкус от пролива к проливу, — радость тайваньского улуна."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1329,7 +1403,8 @@ window.TEAFaiCulture = [
    "es": "En Taiwán, los mayores solían reunirse para compartir un oolong fuerte en pequeñas teteras de arcilla, una costumbre llamada laoren cha que dio origen a las actuales casas del arte del té. Descubre el ritual de apreciar primero el aroma con la taza de aroma.",
    "fr": "À Taïwan, les anciens se réunissaient autrefois pour partager un oolong corsé préparé dans de minuscules théières en argile — une coutume appelée laoren cha, devenue les maisons d'art du thé d'aujourd'hui. Découvrez le rituel qui met l'arôme à l'honneur grâce à la tasse à parfum.",
    "ne": "ताइवानमा, वृद्धहरू एक समय साना माटाका पात्रहरूबाट गाढा उलोङ बाँड्न भेला हुन्थे — लाओरेन चा भनिने चलन, जुन आजका चिया-कला घरहरूमा विकास भयो। सुगन्ध कप प्रयोग गरेर सुगन्धलाई पहिले राख्ने विधि पत्ता लगाउनुहोस्।",
-   "ms": "Di Taiwan, golongan tua dahulu berkumpul untuk berkongsi oolong pekat daripada teko tanah liat yang kecil — adat yang dipanggil laoren cha yang berkembang menjadi rumah seni teh hari ini. Temui ritual mengutamakan aroma menggunakan cawan haruman."
+   "ms": "Di Taiwan, golongan tua dahulu berkumpul untuk berkongsi oolong pekat daripada teko tanah liat yang kecil — adat yang dipanggil laoren cha yang berkembang menjadi rumah seni teh hari ini. Temui ritual mengutamakan aroma menggunakan cawan haruman.",
+   "ru": "На Тайване пожилые люди когда-то собирались, чтобы делиться крепким улуном из крошечных глиняных чайников — обычай под названием лаожэнь ча, который вырос в сегодняшние дома чайного искусства. Откройте для себя ритуал, где аромат на первом месте, с использованием ароматической чашки."
   },
   "title": {
    "en": "Taiwanese Tea Art — From Laoren Cha to the Teahouse",
@@ -1348,7 +1423,8 @@ window.TEAFaiCulture = [
    "es": "Arte del té taiwanés: del laoren cha a la casa de té",
    "fr": "L'art du thé taïwanais — Du laoren cha à la maison de thé",
    "ne": "ताइवानी चिया कला — लाओरेन चादेखि चियाघरसम्म",
-   "ms": "Seni Teh Taiwan — Daripada Laoren Cha ke Kedai Teh"
+   "ms": "Seni Teh Taiwan — Daripada Laoren Cha ke Kedai Teh",
+   "ru": "Тайваньское чайное искусство — от лаожэнь ча до чайного дома"
   }
  },
  {
@@ -1726,6 +1802,28 @@ window.TEAFaiCulture = [
      "h": "Meja berkongsi dan kesibukan yang ceria",
      "p": "Pada waktu makan tengah hari, berkongsi meja dengan orang yang tidak dikenali — dap toi (搭枱) — adalah perkara biasa. Pesanan diteriakkan dalam singkatan, hidangan tiba dalam beberapa minit, dan tiada siapa yang berlengah lama. Ia mungkin terasa sibuk pada mulanya, tetapi kepantasan dan kebisingan yang ceria itulah sebenarnya pemandangan yang dinikmati penduduk Hong Kong setiap hari."
     }
+   ],
+   "ru": [
+    {
+     "h": "Что такое ча чан тен?",
+     "p": "Ча чан тен — это повседневная закусочная, которую можно найти на каждом углу Гонконга. Она выросла из бин сат (冰室), лавок, продававших холодные напитки и простые западные закуски, и после Второй мировой войны стала местом быстрой, недорогой западной еды, переделанной в гонконгском стиле. Тост и молочный чай на завтрак, жареная лапша на обед — это повседневная жизнь Гонконга, поданная за столом."
+    },
+    {
+     "h": "Молочный чай «шёлковый чулок»",
+     "p": "Лицо ча чан тен — гонконгский молочный чай. Несколько чёрных чаёв смешивают и заваривают крепко, затем снова и снова процеживают через длинный тканевый мешок, похожий на чулок, что делает чай шёлковисто гладким. Сгущённое молоко без сахара или с сахаром придаёт ему плотность и насыщенность, а мешок для процеживания дал ему прозвище «молочный чай шёлковый чулок» (絲襪奶茶)."
+    },
+    {
+     "h": "Юаньян и холодный лимонный чай",
+     "p": "Юаньян (鴛鴦), смесь кофе и молочного чая, названная в честь уток-мандаринок, которые образуют пару на всю жизнь, — другой фирменный напиток закусочной. Холодный лимонный чай (凍檸茶) — чёрный чай со льдом и ломтиками лимона — столь же незаменим. Протыкать лимон соломинкой, чтобы выпустить сок и настроить вкус, — часть гонконгского ритуала."
+    },
+    {
+     "h": "Что есть с чаем",
+     "p": "Ананасовая булочка (菠蘿包) вовсе не содержит ананаса; её трескающаяся корочка просто напоминает его, а поданная с холодным куском масла внутри, она становится любимой бо ло яу. Гонконгский французский тост (西多士), обжаренный во фритюре и обильно политый сиропом, и суп из макарон с ветчиной — завсегдатаи завтрака. Крепкий молочный чай с чем-то сладким и тёплым из печи — классическое сочетание ча чан тен."
+    },
+    {
+     "h": "Общие столы и счастливая суета",
+     "p": "В обеденное время делить стол с незнакомцами — дап той (搭枱) — совершенно нормально. Заказы выкрикивают сокращённо, блюда оказываются на столе за считанные минуты, и никто долго не задерживается. Поначалу это может показаться суетливым, но именно эту скорость и весёлый шум гонконгцы любят каждый день."
+    }
    ]
   },
   "cat": "ceremony",
@@ -1751,7 +1849,8 @@ window.TEAFaiCulture = [
    "es": "Té con leche fuerte, yuanyang de café y té y bollos de piña en los comedores cha chaan teng de Hong Kong: una introducción rápida y animada a la cultura del té de la ciudad.",
    "fr": "Thé au lait corsé, yuanyang café-thé et brioches à l'ananas dans les cha chaan teng de Hong Kong — une introduction rapide et animée à la culture du thé de la ville.",
    "ne": "हङकङका चा चान तेङ भोजनालयहरूमा गाढा दूध चिया, कफी-चिया युआनयाङ र अनानास बनहरू — शहरको चिया संस्कृतिको छिटो, जीवन्त परिचय।",
-   "ms": "Teh susu pekat, yuanyang kopi-teh dan roti nanas di kedai makan cha chaan teng Hong Kong — pengenalan pantas dan meriah kepada budaya teh bandar itu."
+   "ms": "Teh susu pekat, yuanyang kopi-teh dan roti nanas di kedai makan cha chaan teng Hong Kong — pengenalan pantas dan meriah kepada budaya teh bandar itu.",
+   "ru": "Крепкий молочный чай, юаньян из кофе и чая и ананасовые булочки в гонконгских закусочных ча чан тен — быстрое, живое знакомство с чайной культурой города."
   },
   "title": {
    "en": "Hong Kong Cha Chaan Teng and Milk Tea",
@@ -1770,7 +1869,8 @@ window.TEAFaiCulture = [
    "es": "El cha chaan teng de Hong Kong y el té con leche",
    "fr": "Le cha chaan teng de Hong Kong et son thé au lait",
    "ne": "हङकङ चा चान तेङ र दूध चिया",
-   "ms": "Cha Chaan Teng Hong Kong dan Teh Susu"
+   "ms": "Cha Chaan Teng Hong Kong dan Teh Susu",
+   "ru": "Гонконгские ча чан тен и молочный чай"
   }
  },
  {
@@ -2080,6 +2180,24 @@ window.TEAFaiCulture = [
      "h": "Waktu rehat teh harian",
      "p": "Berasingan daripada teh petang formal, waktu rehat teh yang singkat terjalin dalam kehidupan harian British. Memberhentikan kerja untuk secawan mug teh uncang dengan susu adalah isyarat kecil bahawa sudah tiba masanya untuk berehat. Menawarkan secawan teh dahulu kepada pengunjung juga merupakan isyarat asas layanan mesra British."
     }
+   ],
+   "ru": [
+    {
+     "h": "Как начался послеобеденный чай",
+     "p": "В Британии середины XIX века обычай пить чай с лёгкой едой между обедом и поздним ужином распространился в аристократическом обществе, и это, как говорят, стало происхождением послеобеденного чая. Чёрный чай крепко заваривают в чайнике, наливают в чашки и завершают молоком и сахаром по вкусу. Этот молочный, крепкий напиток стал фирменным британским способом пить чай."
+    },
+    {
+     "h": "Три яруса, по порядку",
+     "p": "В отелях и чайных комнатах послеобеденный чай обычно прибывает на трёхъярусной подставке. Обычный порядок — начать с пикантных сэндвичей, таких как с огурцом, на нижнем ярусе, перейти к сконам со взбитыми сливками и джемом в середине и закончить пирожными и маленькой выпечкой наверху. Что идёт на скон первым — сливки или джем — само по себе является дружеским региональным соперничеством."
+    },
+    {
+     "h": "Сначала молоко или сначала чай?",
+     "p": "В Британии идёт давний, добродушный спор о том, следует ли наливать молоко в чашку перед чаем или после него. Говорят, что наливание молока первым защищало нежные фарфоровые чашки от удара горячего чая. Ни один способ не является неправильным; у каждого дома просто есть своя привычка."
+    },
+    {
+     "h": "Повседневный перерыв на чай",
+     "p": "Отдельно от формального послеобеденного чая, короткий перерыв на чай вплетён в повседневную британскую жизнь. Остановить работу ради кружки пакетированного чая с молоком — маленький сигнал, что пора отдохнуть. Предложить посетителю сначала чашку чая — также основной жест британского гостеприимства."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2106,7 +2224,8 @@ window.TEAFaiCulture = [
    "es": "Té negro fuerte preparado en tetera, servido con leche y azúcar, y el ritual de tres pisos de sándwiches, scones y pasteles, además de la pausa cotidiana para el té.",
    "fr": "Un thé noir corsé infusé en théière, servi avec du lait et du sucre, et le rituel des trois étages de sandwichs, scones et gâteaux — sans oublier la pause thé du quotidien.",
    "ne": "पात्रमा गाढा बनाएको कालो चिया, दूध र चिनीसँग पस्किएको, र स्यान्डविच, स्कोन र केकहरूको तीन-तले विधि — साथै दैनिक चिया विश्राम।",
-   "ms": "Teh hitam pekat yang dibancuh dalam teko, dihidangkan dengan susu dan gula, serta ritual tiga tingkat sandwic, skon dan kek — serta waktu rehat teh harian."
+   "ms": "Teh hitam pekat yang dibancuh dalam teko, dihidangkan dengan susu dan gula, serta ritual tiga tingkat sandwic, skon dan kek — serta waktu rehat teh harian.",
+   "ru": "Крепкий чёрный чай, заваренный в чайнике, подаваемый с молоком и сахаром, и трёхъярусный ритуал сэндвичей, сконов и пирожных — плюс повседневный перерыв на чай."
   },
   "title": {
    "en": "British Afternoon Tea",
@@ -2125,7 +2244,8 @@ window.TEAFaiCulture = [
    "es": "El té de la tarde británico",
    "fr": "L'afternoon tea britannique",
    "ne": "ब्रिटिश दिउँसोको चिया",
-   "ms": "Teh Petang British"
+   "ms": "Teh Petang British",
+   "ru": "Британский послеобеденный чай"
   }
  },
  {
@@ -2435,6 +2555,24 @@ window.TEAFaiCulture = [
      "h": "Minuman yang menggerakkan hari",
      "p": "Daripada cawan pertama yang membuka pagi kepada waktu rehat kerja dan menyambut tetamu, chai berada di dalam irama hari. Menawarkan chai kepada seseorang adalah ungkapan layanan mesra yang paling harian di India. Pekat dan manis, satu tegukan menyegarkan anda dan memulakan perbualan — minuman di tengah-tengah kehidupan India."
     }
+   ],
+   "ru": [
+    {
+     "h": "Заваривается кипячением, а не настаиванием",
+     "p": "Масала чай не делают настаиванием листьев в горячей воде. Вместо этого чёрный чай, сахар и специи кипятят вместе в кастрюле с водой и молоком. Пока он кипит на медленном огне, ароматы специй и крепость чая пропитывают молоко, создавая сладкую, насыщенную чашку. У каждого дома и ларька есть своя, слегка отличающаяся смесь специй и свой вкус."
+    },
+    {
+     "h": "Масала: смесь специй",
+     "p": "«Масала» просто означает смесь специй, и те, что чаще всего используют в чае, — это кардамон, имбирь, корица, гвоздика и чёрный перец. Эти согревающие специи встречаются с насыщенным молоком, чтобы дать напиток, который ощущается сытным и утешающим. Многие семьи делают чай с большим количеством имбиря, когда кто-то простужен."
+    },
+    {
+     "h": "Чайвала на улице",
+     "p": "На улицах и на железнодорожных станциях по всей Индии вы найдёте чайвал, кипящих чай в маленьких кастрюлях, куда бы вы ни пошли. Чай подают в маленьких стаканах или одноразовых глиняных чашках, и люди останавливаются, чтобы допить чашку стоя, несколько раз в день. Индийский способ — маленькие порции, часто."
+    },
+    {
+     "h": "Напиток, который управляет днём",
+     "p": "От первой чашки, открывающей утро, до перерывов в работе и встречи гостей, чай находится внутри ритма дня. Предложить кому-то чай — самое повседневное выражение гостеприимства в Индии. Крепкий и сладкий, один глоток будит вас и начинает разговоры — напиток в центре индийской жизни."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2461,7 +2599,8 @@ window.TEAFaiCulture = [
    "es": "La bebida querida de la India: té negro cocido a fuego lento con leche, azúcar y especias como cardamomo y jengibre, servido en tazas pequeñas por los chaiwalas callejeros durante todo el día.",
    "fr": "La boisson bien-aimée de l'Inde : un thé noir mijoté avec du lait, du sucre et des épices comme la cardamome et le gingembre, servi en petites tasses toute la journée par les chaiwalas des rues.",
    "ne": "भारतको प्रिय पेय: अलैंची र अदुवाजस्ता मसलाहरूसँग दूध र चिनीमा उमालिएको कालो चिया, सडकछेउका चायवालाहरूद्वारा दिनभर साना कपहरूमा पस्किइन्छ।",
-   "ms": "Minuman kegemaran India: teh hitam direneh dengan susu, gula dan rempah seperti buah pelaga dan halia, dihidangkan dalam cawan kecil oleh penjual chai tepi jalan sepanjang hari."
+   "ms": "Minuman kegemaran India: teh hitam direneh dengan susu, gula dan rempah seperti buah pelaga dan halia, dihidangkan dalam cawan kecil oleh penjual chai tepi jalan sepanjang hari.",
+   "ru": "Любимый напиток Индии: чёрный чай, сваренный с молоком, сахаром и специями, такими как кардамон и имбирь, подаваемый в маленьких чашках уличными чайвалами весь день."
   },
   "title": {
    "en": "India's Masala Chai",
@@ -2480,7 +2619,8 @@ window.TEAFaiCulture = [
    "es": "El masala chai de la India",
    "fr": "Le masala chai de l'Inde",
    "ne": "भारतको मसाला चाय",
-   "ms": "Masala Chai India"
+   "ms": "Masala Chai India",
+   "ru": "Индийский масала чай"
   }
  },
  {
@@ -2790,6 +2930,24 @@ window.TEAFaiCulture = [
      "h": "Simbol layanan mesra",
      "p": "Sama ada anda membeli sesuatu di kedai, mengunjungi pejabat, atau tiba di rumah seseorang buat kali pertama, segelas teh muncul dahulu. Menawarkan teh adalah sambutan paling asas dan isyarat untuk perbualan bermula — segelas kecil panas yang menghubungkan orang ramai."
     }
+   ],
+   "ru": [
+    {
+     "h": "Чайданлык: чайник в два этажа",
+     "p": "Турецкий чай делают в чайданлыке, составной паре чайников. Вода кипит в нижнем чайнике; часть её смачивает листья в меньшем верхнем чайнике, который затем медленно заваривается на пару в крепкий концентрат. Концентрат наливают в стакан и доливают горячей водой из нижнего чайника, чтобы каждый пьющий мог настроить крепость по вкусу."
+    },
+    {
+     "h": "Стаканы-тюльпаны без ручек",
+     "p": "Чай подают в маленьких стеклянных стаканах без ручек. Их пережатая, похожая на тюльпан форма демонстрирует глубокий красный цвет чая, а тонкое стекло приятно ощущается губами. Сахар обычно подаётся кусочками отдельно, а не размешанным за вас, с блюдцем и маленькой ложкой."
+    },
+    {
+     "h": "Самая жаждущая чая нация в мире",
+     "p": "Турция считается одной из стран с самым высоким потреблением чая на человека в мире. Регион Ризе на побережье Чёрного моря — её самая известная область выращивания и поставляет большую часть чая, который пьют дома. Во многих домах чайник остаётся на плите с завтрака до поздней ночи."
+    },
+    {
+     "h": "Символ гостеприимства",
+     "p": "Покупаете ли вы что-то в магазине, посещаете офис или впервые приходите к кому-то домой, стакан чая появляется первым. Предложить чай — самый основной приём и сигнал к началу разговора — маленький, горячий стакан, который соединяет людей."
+    }
    ]
   },
   "cat": "ceremony",
@@ -2815,7 +2973,8 @@ window.TEAFaiCulture = [
    "es": "Té preparado fuerte en una çaydanlık de dos pisos, ajustado con agua caliente y servido con terrones de azúcar en vasos con forma de tulipán y sin asa: hospitalidad en el país con el mayor consumo de té por persona del mundo.",
    "fr": "Un thé infusé corsé dans un çaydanlık superposé, ajusté à l'eau chaude et servi avec des morceaux de sucre dans des verres tulipe sans anse — l'hospitalité dans le pays où la consommation de thé par habitant est la plus élevée au monde.",
    "ne": "तहबद्ध चायदानलिकमा गाढा बनाएको चिया, तातो पानीले मिलाइएको, र ह्यान्डल नभएका ट्युलिप गिलासहरूमा चिनीका टुक्रासँग पस्किएको — प्रतिव्यक्ति विश्वकै सबैभन्दा बढी चिया खपत हुने देशमा आतिथ्य।",
-   "ms": "Teh dibancuh pekat dalam çaydanlık bertingkat, dilaraskan dengan air panas, dan dihidangkan dengan kiub gula dalam gelas tulip tanpa tangkai — layanan mesra di negara dengan penggunaan teh per kapita tertinggi di dunia."
+   "ms": "Teh dibancuh pekat dalam çaydanlık bertingkat, dilaraskan dengan air panas, dan dihidangkan dengan kiub gula dalam gelas tulip tanpa tangkai — layanan mesra di negara dengan penggunaan teh per kapita tertinggi di dunia.",
+   "ru": "Чай, заваренный крепко в составном чайданлыке, разбавленный горячей водой и подаваемый с кусочками сахара в стаканах-тюльпанах без ручек — гостеприимство в стране с самым высоким потреблением чая на человека в мире."
   },
   "title": {
    "en": "Turkish Çay",
@@ -2834,7 +2993,8 @@ window.TEAFaiCulture = [
    "es": "El çay turco",
    "fr": "Le çay turc",
    "ne": "टर्कीको चाय",
-   "ms": "Çay Turki"
+   "ms": "Çay Turki",
+   "ru": "Турецкий чай"
   }
  },
  {
@@ -3144,6 +3304,24 @@ window.TEAFaiCulture = [
      "h": "Layanan mesra sepanjang hari",
      "p": "Atay muncul bukan sahaja untuk tetamu tetapi pada hidangan keluarga, semasa tawar-menawar di kedai, dan sepanjang perbualan panjang dengan rakan-rakan. Teh biasanya disediakan dan dituang oleh ketua isi rumah atau tuan rumah, kerana membuatnya sendiri adalah tanda hormat. Di Maghribi, seteko teh adalah jemputan untuk masuk dan berehat."
     }
+   ],
+   "ru": [
+    {
+     "h": "Зелёный чай с мятой и сахаром",
+     "p": "Марокканский атай обычно делают с китайским зелёным чаем ганпаудер в качестве основы, завариваемым в чайнике со свежими листьями мяты и щедрым количеством сахара. Вкус — это сочетание прохладного мятного аромата и сильной сладости, его пьют с едой или после неё как освежающий напиток. Его подают в маленьких, украшенных стаканах."
+    },
+    {
+     "h": "Высокий налив и пена",
+     "p": "Атай наливают, держа чайник высоко над стаканом, тонкой струёй. Это вводит воздух в чай, так что сверху оседает мелкая пена, а хорошая пена — признак хорошо приготовленного чайника. Сам высокий налив — маленькое представление для гостя, выражение заботы."
+    },
+    {
+     "h": "Три стакана для гостя",
+     "p": "Марокко известно обычаем предлагать гостю до трёх стаканов чая. Время, проведённое за чаем, — это время, проведённое в приветствии, поэтому допить один стакан и сразу уйти может упустить суть ритуала. Поговорка приписывает трём стаканам значения — нежность, как жизнь, сила, как любовь, горечь, как смерть."
+    },
+    {
+     "h": "Гостеприимство весь день",
+     "p": "Атай появляется не только для гостей, но и на семейных трапезах, во время торга в магазинах и за долгими беседами с друзьями. Чай обычно готовит и наливает глава домохозяйства или хозяин, потому что делать это самому — знак уважения. В Марокко чайник чая — это приглашение войти и отдохнуть."
+    }
    ]
   },
   "cat": "ceremony",
@@ -3169,7 +3347,8 @@ window.TEAFaiCulture = [
    "es": "Té verde con menta fresca y azúcar, servido desde lo alto para levantar espuma: el ritual de bienvenida de Marruecos, famoso por los tres vasos que se ofrecen al invitado.",
    "fr": "Un thé vert à la menthe fraîche et au sucre, versé de haut pour faire naître une mousse — le rituel d'accueil du Maroc, célèbre pour les trois verres offerts à l'invité.",
    "ne": "ताजा पुदिना र चिनीसहितको हरियो चिया, फिँज उठाउन उचाइबाट खन्याइएको — मोरक्कोको स्वागतको विधि, पाहुनालाई दिइने तीन गिलासका लागि प्रसिद्ध।",
-   "ms": "Teh hijau dengan pudina segar dan gula, dituang dari tempat tinggi untuk menaikkan buih — ritual sambutan Maghribi, terkenal dengan tiga gelas yang ditawarkan kepada tetamu."
+   "ms": "Teh hijau dengan pudina segar dan gula, dituang dari tempat tinggi untuk menaikkan buih — ritual sambutan Maghribi, terkenal dengan tiga gelas yang ditawarkan kepada tetamu.",
+   "ru": "Зелёный чай со свежей мятой и сахаром, наливаемый с высоты, чтобы поднять пену, — марокканский ритуал приветствия, знаменитый тремя стаканами, предлагаемыми гостю."
   },
   "title": {
    "en": "Moroccan Atay",
@@ -3188,7 +3367,8 @@ window.TEAFaiCulture = [
    "es": "El atay marroquí",
    "fr": "L'atay marocain",
    "ne": "मोरक्कोको अताय",
-   "ms": "Atay Maghribi"
+   "ms": "Atay Maghribi",
+   "ru": "Марокканский атай"
   }
  },
  {
@@ -3498,6 +3678,24 @@ window.TEAFaiCulture = [
      "h": "Samovar di atas rel",
      "p": "Di negara seluas Rusia, kereta api jarak jauh adalah sebahagian daripada kehidupan, dan teh adalah temannya. Di dalam kereta api, teh dihidangkan dalam gelas yang diletakkan dalam pemegang logam yang dipanggil podstakannik, supaya minuman tidak tumpah ketika gerabak bergoyang — imej yang menjadi ikonik. Hingga hari ini, segelas teh panas menenangkan penumpang dalam perjalanan rel Rusia yang panjang."
     }
+   ],
+   "ru": [
+    {
+     "h": "Самовар: чайник, который кипятит сам себя",
+     "p": "Самовар — это металлический сосуд, который кипятит воду и сохраняет её горячей; само его название несёт русский смысл «сам кипятит». Традиционно его топили дровами или древесным углём; сегодня распространены электрические варианты. Когда самовар стоял в центре стола, семья и гости собирались вокруг него и проводили за чаем долгие часы."
+    },
+    {
+     "h": "Заварка: крепкий концентрат, который разбавляют",
+     "p": "Русский метод начинается с заварки — чайные листья заваривают очень крепко в небольшом чайнике, получая концентрат. При подаче в чашку наливают немного заварки и доливают горячей водой из самовара, регулируя крепость по собственному вкусу. Заварив один раз, многие люди могут часами наслаждаться чаем, каждый — крепостью по своему вкусу."
+    },
+    {
+     "h": "Варенье и сахар вприкуску",
+     "p": "Русские традиционно берут ложку варенья к чаю или размешивают его в чае. Старинный обычай — держать кусочек сахара между зубами и потягивать чай через него, позволяя сладости проникать понемногу. Горькое и сладкое вместе, малыми дозами, — чайная культура, сформированная холодной страной."
+    },
+    {
+     "h": "Самовар на рельсах",
+     "p": "В такой огромной стране, как Россия, поезда дальнего следования были частью жизни, а чай — их спутником. В поездах чай подавали в стаканах, вставленных в металлические подстаканники, чтобы напиток не расплёскивался при покачивании вагона, — образ, ставший культовым. И сегодня горячий стакан чая согревает пассажиров в долгих железнодорожных путешествиях по России."
+    }
    ]
   },
   "cat": "ceremony",
@@ -3523,7 +3721,8 @@ window.TEAFaiCulture = [
    "es": "Agua siempre hirviendo en un samovar, un concentrado fuerte de zavarka que se diluye al gusto: así es el té en Rusia, con mermelada al lado, terrones de azúcar entre los dientes y el samovar como compañero de los largos viajes en tren.",
    "fr": "De l'eau maintenue bouillante dans un samovar, un concentré fort de zavarka dilué selon le goût — la façon russe de boire le thé, avec de la confiture à côté, des morceaux de sucre entre les dents, et le samovar comme compagnon des longs voyages en train.",
    "ne": "समोवारमा उम्लिरहेको पानी, स्वादअनुसार पातलो पारिने बाक्लो जाभार्का सान्द्र — रुसको चिया खाने तरिका, साथमा जाम, दाँतबीच चिनीको टुक्रा, र लामो रेल यात्राको साथी समोवार।",
-   "ms": "Air yang sentiasa mendidih dalam samovar, pati teh zavarka yang pekat dicairkan mengikut citarasa — cara minum teh Rusia, dengan jem di sisi, ketulan gula di celah gigi, dan samovar sebagai teman perjalanan kereta api yang jauh."
+   "ms": "Air yang sentiasa mendidih dalam samovar, pati teh zavarka yang pekat dicairkan mengikut citarasa — cara minum teh Rusia, dengan jem di sisi, ketulan gula di celah gigi, dan samovar sebagai teman perjalanan kereta api yang jauh.",
+   "ru": "Вода, постоянно кипящая в самоваре, крепкий концентрат заварки, разбавленный по вкусу, — русский способ пить чай: с вареньем, с сахаром вприкуску и с самоваром как спутником долгих железнодорожных путешествий."
   },
   "title": {
    "en": "Russia's Samovar",
@@ -3542,7 +3741,8 @@ window.TEAFaiCulture = [
    "es": "El samovar de Rusia",
    "fr": "Le samovar russe",
    "ne": "रुसको समोवार",
-   "ms": "Samovar Rusia"
+   "ms": "Samovar Rusia",
+   "ru": "Русский самовар"
   }
  },
  {
@@ -3566,7 +3766,8 @@ window.TEAFaiCulture = [
    "es": "Cómo usar un gaiwan: preparar té con tapa, cuenco y platillo",
    "fr": "Comment utiliser un gaiwan — infuser avec un couvercle, un bol et une soucoupe",
    "ne": "गाइवान कसरी प्रयोग गर्ने — ढक्कन, कचौरा र थालीसँग चिया बनाउने तरिका",
-   "ms": "Cara Menggunakan Gaiwan — Membancuh dengan Penutup, Mangkuk, dan Piring"
+   "ms": "Cara Menggunakan Gaiwan — Membancuh dengan Penutup, Mangkuk, dan Piring",
+   "ru": "Как пользоваться гайванью — заваривание с крышкой, чашей и блюдцем"
   },
   "summary": {
    "ko": "뚜껑·몸통·받침으로 이루어진 개완은 중국 차의 가장 기본적인 다구입니다. 잡는 법부터 뜨거울 때 대처법까지, 처음 써 보는 사람도 따라 할 수 있게 정리했습니다.",
@@ -3585,7 +3786,8 @@ window.TEAFaiCulture = [
    "es": "El gaiwan —una tapa, un cuenco y un platillo— es el recipiente más básico del té chino. Desde cómo sostenerlo hasta qué hacer cuando se siente demasiado caliente, esta guía acompaña paso a paso a quienes lo usan por primera vez.",
    "fr": "Le gaiwan — un couvercle, un bol et une soucoupe — est le récipient le plus élémentaire du thé chinois. De la façon de le tenir à ce qu'il faut faire quand il semble trop chaud, ce guide accompagne les débutants étape par étape.",
    "ne": "गाइवान — ढक्कन, कचौरा र थाली — चिनियाँ चियाको सबैभन्दा आधारभूत भाँडो हो। यसलाई कसरी समात्ने देखि धेरै तातो लाग्दा के गर्ने सम्म, यो मार्गदर्शिकाले पहिलोपटक प्रयोग गर्नेहरूलाई हरेक चरण बुझाउँछ।",
-   "ms": "Gaiwan — penutup, mangkuk, dan piring — ialah bekas paling asas dalam teh Cina. Dari cara memegangnya hingga apa yang perlu dilakukan apabila terasa terlalu panas, panduan ini membimbing pengguna kali pertama melalui setiap langkah."
+   "ms": "Gaiwan — penutup, mangkuk, dan piring — ialah bekas paling asas dalam teh Cina. Dari cara memegangnya hingga apa yang perlu dilakukan apabila terasa terlalu panas, panduan ini membimbing pengguna kali pertama melalui setiap langkah.",
+   "ru": "Гайвань — крышка, чаша и блюдце — самая базовая посуда в китайском чае. От того, как её держать, до того, что делать, когда слишком горячо, — это руководство шаг за шагом проведёт новичков через каждый этап."
   },
   "body": {
    "ko": [
@@ -3961,6 +4163,28 @@ window.TEAFaiCulture = [
      "h": "Mengapa ia sesuai untuk pemula",
      "p": "Gaiwan mudah dibasuh, dan kerana anda boleh membuka penutupnya, anda boleh melihat daun mengembang semasa ia dibancuh. Anda mengawal masa peresapan dengan bebas, yang memudahkan untuk mencari titik manis setiap teh. Ia juga murah, sebab itulah ia sering disyorkan sebagai peralatan teh pertama."
     }
+   ],
+   "ru": [
+    {
+     "h": "Три части — небо, человек, земля",
+     "p": "Гайвань состоит из трёх частей: крышки, чаши и блюдца. Традиционно крышку сравнивали с небом, блюдце — с землёй, а чашу между ними — с человеком, поэтому её иногда называют «чашей трёх начал». Крышка также удерживает аромат, поэтому поднять её после заваривания и вдохнуть запах с внутренней стороны крышки — одно из маленьких удовольствий использования гайвани."
+    },
+    {
+     "h": "Заваривание шаг за шагом",
+     "p": "Сначала прогрейте гайвань горячей водой, вылейте эту воду и добавьте чайные листья. Залейте свежей водой, накройте крышкой и дайте чаю ненадолго настояться; затем снимите пену с поверхности краем крышки. Количество листьев зависит от чая, но заполнение примерно трети гайвани — хорошая отправная точка."
+    },
+    {
+     "h": "Разливание — щель в крышке — ключ",
+     "p": "Слегка наклоните крышку, чтобы открылась небольшая щель, через которую будет вытекать чай. Держите ободок чаши между большим и средним пальцами, а указательным пальцем мягко прижимайте верх крышки, чтобы удерживать её на месте. Наклоните запястье — и выльется только жидкость, а крышка удержит листья. Если щель слишком широкая, листья тоже выскользнут, поэтому сначала держите её узкой."
+    },
+    {
+     "h": "Когда слишком горячо",
+     "p": "Если гайвань слишком горячая, чтобы держать её в руках, обычно вы наполнили её слишком сильно. Наполняйте только примерно на восемь десятых, а если всё ещё горячо, поднимайте и перемещайте её за блюдце. Гайвань, ободок которой слегка расширяется наружу, остаётся прохладнее там, где касаются пальцы, что делает её удобным выбором для новичков."
+    },
+    {
+     "h": "Почему она подходит новичкам",
+     "p": "Гайвань легко мыть, а поскольку крышку можно открыть, вы можете наблюдать, как листья раскрываются во время заваривания. Вы свободно контролируете время настаивания, что облегчает поиск идеальной точки для каждого чая. Она также недорогая, поэтому её так часто рекомендуют как первый предмет чайной посуды."
+    }
    ]
   },
   "related": [
@@ -3989,7 +4213,8 @@ window.TEAFaiCulture = [
    "es": "Cómo elegir una tetera y tazas: cómo el material cambia el sabor",
    "fr": "Choisir une théière et des tasses — comment le matériau change le goût",
    "ne": "चियादानी र कप छान्ने तरिका — सामग्रीले स्वाद कसरी बदल्छ",
-   "ms": "Memilih Teko dan Cawan — Bagaimana Bahan Mengubah Rasa"
+   "ms": "Memilih Teko dan Cawan — Bagaimana Bahan Mengubah Rasa",
+   "ru": "Выбор чайника и чашек — как материал меняет вкус"
   },
   "summary": {
    "ko": "자기, 유리, 자사, 철 — 다구 재질마다 어울리는 차가 다릅니다. 크기와 모양이 맛에 미치는 영향부터 입문용으로 사기 좋은 첫 조합까지 안내합니다.",
@@ -4008,7 +4233,8 @@ window.TEAFaiCulture = [
    "es": "Porcelana, vidrio, arcilla de Yixing, hierro: cada material para utensilios de té combina con tés diferentes. Esta guía explica cómo el tamaño y la forma afectan el sabor, y sugiere un primer juego sensato para principiantes.",
    "fr": "Porcelaine, verre, argile de Yixing, fer — chaque matériau d'ustensile convient à des thés différents. Ce guide explique comment la taille et la forme influencent la saveur, et propose un premier ensemble raisonnable pour les débutants.",
    "ne": "चिनीमाटो, सिसा, यिसिङ माटो, फलाम — हरेक चिया भाँडाको सामग्री फरक फरक चियाका लागि उपयुक्त हुन्छ। यो मार्गदर्शिकाले आकार र आकृतिले स्वादमा कसरी असर गर्छ भनेर बुझाउँछ, र नयाँ सिक्नेहरूका लागि बुद्धिमानी पहिलो सेट सुझाउँछ।",
-   "ms": "Porselin, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh sesuai dengan teh yang berbeza. Panduan ini menerangkan bagaimana saiz dan bentuk mempengaruhi rasa, dan mencadangkan set pertama yang munasabah untuk pemula."
+   "ms": "Porselin, kaca, tanah liat Yixing, besi — setiap bahan peralatan teh sesuai dengan teh yang berbeza. Panduan ini menerangkan bagaimana saiz dan bentuk mempengaruhi rasa, dan mencadangkan set pertama yang munasabah untuk pemula.",
+   "ru": "Фарфор, стекло, исинская глина, чугун — каждый материал чайной посуды подходит для разных чаёв. В этом руководстве объясняется, как размер и форма влияют на вкус, и предлагается разумный первый набор для новичков."
   },
   "body": {
    "ko": [
@@ -4384,6 +4610,28 @@ window.TEAFaiCulture = [
      "h": "Set pertama yang munasabah",
      "p": "Mulakan dengan gaiwan porselin atau teko porselin kecil kira-kira 100–150 ml dan dua cawan. Bahan yang neutral menunjukkan setiap teh sebagaimana adanya, dan penjagaannya mudah. Apabila minat anda berkembang, menambah teko khusus seperti Yixing untuk satu keluarga teh menjadi sebahagian daripada keseronokan."
     }
+   ],
+   "ru": [
+    {
+     "h": "Материалы, часть первая — фарфор и стекло",
+     "p": "У фарфора гладкая, непористая поверхность, которая не впитывает аромат, поэтому один сосуд может служить для многих разных чаёв, не перенося вкусы. Это делает его самым безопасным выбором для новичков, которые заваривают понемногу всего. Стекло позволяет наблюдать за цветом настоя и раскрытием листьев — прекрасно для зелёных чаёв и цветочных чаёв, — но оно быстро теряет тепло, поэтому чай быстро остывает."
+    },
+    {
+     "h": "Материалы, часть вторая — исинская глина и чугун",
+     "p": "Исинская глина (цзыша) имеет мелкие поры, которые постепенно впитывают аромат чая, и считается, что хорошо используемый чайник со временем округляет вкус одной семьи чаёв. Поскольку она впитывает запах, лучше посвятить один чайник одной семье, например только улунам. Чугунные чайники используют для кипячения воды; они хорошо держат тепло, и их часто хвалят за то, что вода кажется мягче."
+    },
+    {
+     "h": "Как размер и форма влияют на вкус",
+     "p": "Маленький чайник сохраняет высокое соотношение листа к воде и концентрирует аромат, что подходит для множества коротких проливов при заваривании гунфу. Большой чайник заваривает щедрое количество за один раз, чтобы делиться. Также проверьте, что носик льёт и останавливается чисто, а крышка прилегает плотно, — это так же важно, как и материал."
+    },
+    {
+     "h": "Выбор чашек",
+     "p": "Маленькие тонкостенные чашки собирают аромат и позволяют почувствовать температуру каждого глотка. Белый интерьер показывает настоящий цвет чая, что добавляет удовольствия от знакомства с чаем. В наборах гунфу иногда сочетают высокую чашку для аромата с дегустационной чашкой, но для начала достаточно одной чашки."
+    },
+    {
+     "h": "Разумный первый набор",
+     "p": "Начните с фарфоровой гайвани или небольшого фарфорового чайника объёмом около 100–150 мл и двух чашек. Нейтральный материал показывает каждый чай таким, какой он есть, а уход прост. По мере роста интереса добавление специального чайника, например исинского для одной семьи чаёв, становится частью удовольствия."
+    }
    ]
   },
   "related": []
@@ -4409,7 +4657,8 @@ window.TEAFaiCulture = [
    "es": "El juego de té gongfu: nombres y funciones de cada utensilio",
    "fr": "Le service à thé gongfu — noms et rôles de chaque ustensile",
    "ne": "गोङफु चिया सेट — हरेक उपकरणको नाम र भूमिका",
-   "ms": "Set Teh Gongfu — Nama dan Peranan Setiap Alat"
+   "ms": "Set Teh Gongfu — Nama dan Peranan Setiap Alat",
+   "ru": "Чайный набор гунфу — названия и роли каждого инструмента"
   },
   "summary": {
    "ko": "다반, 공도배, 문향배와 품명배, 차하와 차칙까지 — 공부차 상에 오르는 도구들의 이름과 역할을 하나씩 풀어 설명하고, 집에서 간이로 갖추는 법도 소개합니다.",
@@ -4428,7 +4677,8 @@ window.TEAFaiCulture = [
    "es": "Bandeja para té, jarra de la equidad, taza para aroma y taza para degustar, portahojas y aguja para té: esta guía explica cada utensilio de la mesa de té gongfu y muestra cómo armar una versión sencilla en casa.",
    "fr": "Plateau à thé, pichet d'équité, tasse à parfum et tasse de dégustation, présentoir à thé et aiguille à thé — ce guide explique chaque ustensile de la table de gongfu et montre comment composer une version simple à la maison.",
    "ne": "चिया ट्रे, निष्पक्ष जग, सुगन्ध कप र स्वाद कप, चिया होल्डर र चिया सियो — यो मार्गदर्शिकाले गोङफु चिया टेबलका हरेक उपकरण बुझाउँछ र घरमा सरल संस्करण कसरी तयार पार्ने भनेर देखाउँछ।",
-   "ms": "Dulang teh, kendi keadilan, cawan aroma dan cawan merasa, pemegang teh dan jarum teh — panduan ini menerangkan setiap alat di atas meja teh gongfu dan menunjukkan cara menyusun versi yang ringkas di rumah."
+   "ms": "Dulang teh, kendi keadilan, cawan aroma dan cawan merasa, pemegang teh dan jarum teh — panduan ini menerangkan setiap alat di atas meja teh gongfu dan menunjukkan cara menyusun versi yang ringkas di rumah.",
+   "ru": "Чайный поднос, чаша справедливости, чашка для аромата и дегустационная чашка, держатель для чая и чайная игла — это руководство объясняет каждый инструмент на чайном столе гунфу и показывает, как собрать простой вариант дома."
   },
   "body": {
    "ko": [
@@ -4668,6 +4918,20 @@ window.TEAFaiCulture = [
      "h": "Alat untuk mengendalikan daun",
      "p": "Pemegang teh (chahe) ialah pinggan kecil berbentuk sudu untuk mempersembahkan daun kering kepada tetamu dan membimbingnya masuk ke dalam teko, manakala sudu teh (chaze) menyukat dan menggerakkan daun. Jarum teh membersihkan daun yang tersekat dalam muncung, dan penyepit digunakan untuk mengendalikan daun dan cawan panas. Setiap alat kecil, tetapi bersama-sama ia mengekalkan meja kemas dan tidak terburu-buru."
     }
+   ],
+   "ru": [
+    {
+     "h": "Чайный поднос и чаша справедливости",
+     "p": "Чайный поднос (чапань) — это доска, на которой всё стоит, построенная с дренажем, чтобы вода, пролитая на посуду, стекала в резервуар внизу. Это позволяет прогревать и ополаскивать сосуды прямо там, где вы сидите. Чаша справедливости (гундаобэй) — это небольшой кувшинчик, который сначала принимает заваренный чай, выравнивая его крепость перед разделением по чашкам, чтобы первая налитая чашка на вкус была такой же, как последняя."
+    },
+    {
+     "h": "Чашка для аромата и дегустационная чашка",
+     "p": "Чашка для аромата — это высокая узкая чашка: чай сначала наливают в неё, затем переливают в дегустационную чашку, и вы вдыхаете аромат, оставшийся в пустой чашке для аромата. Дегустационная чашка — та, из которой вы на самом деле пьёте. Эта пара, популяризированная на Тайване, — прекрасный способ оценить многослойный аромат улунов."
+    },
+    {
+     "h": "Инструменты для работы с листьями",
+     "p": "Держатель для чая (чахэ) — это небольшое блюдо в форме совка для представления сухих листьев гостям и направления их в чайник, а чайная ложка (чацзэ) отмеряет и перемещает листья. Чайная игла очищает листья, застрявшие в носике, а щипцы используют для работы с листьями и горячими чашками. Каждый инструмент мал, но вместе они сохраняют стол аккуратным и неторопливым."
+    }
    ]
   },
   "related": [
@@ -4695,7 +4959,8 @@ window.TEAFaiCulture = [
    "es": "Los seis tipos de té: una hoja, muchos tés",
    "fr": "Les six types de thé — une feuille, de nombreux thés",
    "ne": "चियाका छ प्रकार — एउटै पात, धेरै चिया",
-   "ms": "Enam Jenis Teh — Satu Daun, Pelbagai Teh"
+   "ms": "Enam Jenis Teh — Satu Daun, Pelbagai Teh",
+   "ru": "Шесть видов чая — один лист, много чаёв"
   },
   "summary": {
    "ko": "녹차부터 흑차까지, 세상의 차는 모두 같은 차나무 잎에서 출발합니다. 산화와 가공 방법의 차이로 여섯 종류로 나뉘는 원리와, 대용차가 '차'가 아닌 이유를 설명합니다.",
@@ -4714,7 +4979,8 @@ window.TEAFaiCulture = [
    "es": "Del té verde al té oscuro, todo té verdadero comienza como una hoja de la misma planta de té. Este artículo explica cómo la oxidación y el procesamiento los dividen en seis tipos, y por qué las infusiones herbales no son, en sentido estricto, té.",
    "fr": "Du thé vert au thé sombre, tout vrai thé commence comme une feuille de la même plante. Cet article explique comment l'oxydation et la transformation les divisent en six types — et pourquoi les infusions de plantes ne sont pas, à proprement parler, du thé.",
    "ne": "हरियो चियादेखि गाढा चियासम्म, हरेक वास्तविक चिया एउटै चिया बोटको पातबाट सुरु हुन्छ। यो लेखले अक्सिडेसन र प्रशोधनले तिनलाई कसरी छ प्रकारमा बाँड्छ — र किन हर्बल काढाहरू कडा अर्थमा चिया होइनन् भनेर बुझाउँछ।",
-   "ms": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun tumbuhan teh yang sama. Artikel ini menerangkan bagaimana pengoksidaan dan pemprosesan membahagikannya kepada enam jenis — dan mengapa bancuhan herba, secara tegasnya, bukan teh."
+   "ms": "Dari teh hijau hingga teh gelap, setiap teh sejati bermula sebagai daun tumbuhan teh yang sama. Artikel ini menerangkan bagaimana pengoksidaan dan pemprosesan membahagikannya kepada enam jenis — dan mengapa bancuhan herba, secara tegasnya, bukan teh.",
+   "ru": "От зелёного чая до тёмного чая — каждый настоящий чай начинается с листа одного и того же чайного растения. В этой статье объясняется, как окисление и обработка делят их на шесть видов — и почему травяные настои, строго говоря, не являются чаем."
   },
   "body": {
    "ko": [
@@ -5923,6 +6189,77 @@ window.TEAFaiCulture = [
       "Pengoksidaan Tiada · bebas kafein · Air 90~100℃ · Daun · air 3g / 200ml · Peresapan pertama 5 min"
      ]
     }
+   ],
+   "ru": [
+    {
+     "h": "Всё с одного растения",
+     "p": "Чаи, которые кажутся совершенно разными, — зелёный чай, чёрный чай, улун — все начинаются в одном месте: с листьев одного вида, Camellia sinensis. Сорт, почва и сезон сбора — всё формирует вкус, но то, каким видом чая станет лист, решает главным образом то, как его обрабатывают после сбора."
+    },
+    {
+     "h": "Окисление — это ключ",
+     "p": "Как только лист сорван, начинается окисление, поскольку соединения внутри него реагируют с воздухом. Зелёный чай останавливает этот процесс рано с помощью пропаривания или обжаривания на сковороде, сохраняя свежий зелёный характер; чёрный чай скручивают и полностью окисляют, что придаёт ему красно-коричневый цвет и более глубокий вкус. Улун останавливается где-то посередине, поэтому его называют частично окисленным."
+    },
+    {
+     "h": "Шесть видов вкратце",
+     "p": "Белый чай обрабатывают меньше всего — молодые почки просто завяливают и сушат, поэтому он окисляется лишь слегка. Жёлтый чай делают во многом как зелёный, но добавляют этап томления влажных листьев, что смягчает вкус. Тёмный чай проходит микробную постферментацию после изготовления, а пуэр — самый известный пример. Вместе шесть видов — это зелёный, белый, жёлтый, улун, чёрный и тёмный чай."
+    },
+    {
+     "h": "Почему травяные напитки — не «чай»",
+     "p": "Многие повседневные напитки, называемые чаем, — ячменный чай, ройбуш, ромашка — вообще не содержат листьев чайного растения. Строго говоря, это травяные настои или тизаны, отдельная категория от настоящего чая. Это не суждение об их вкусе, а просто разница в ингредиентах, и проверка этикетки — хорошая привычка, которая делает мир чая яснее."
+    },
+    {
+     "h": "Каждая семья вкратце",
+     "p": "Справочные значения, которые когда-то показывались в начале каждой семьи в энциклопедии, собранные здесь: окисление, температура воды, соотношение листа к воде и время первого настаивания для каждой семьи."
+    },
+    {
+     "h": "Зелёный чай",
+     "p": [
+      "Всё решается в течение 24 часов после сбора — гонка со временем.",
+      "Окисление 0% · Вода 70~80℃ · Лист · вода 2~3 г / 200 мл · Первое настаивание 1 мин 30 сек"
+     ]
+    },
+    {
+     "h": "Улун",
+     "p": [
+      "Искусство полуокисления: остановка ровно в той точке, которую вы хотите.",
+      "Окисление 15–70% · Вода 90~95℃ · Лист · вода 5~7 г / 200 мл · Первое настаивание 45 сек"
+     ]
+    },
+    {
+     "h": "Чёрный чай",
+     "p": [
+      "Полностью окислен. Красный цвет и крепость, выдерживающая молоко, происходят отсюда.",
+      "Окисление 80–95% · Вода 95~100℃ · Лист · вода 3~5 г / 200 мл · Первое настаивание 3 мин"
+     ]
+    },
+    {
+     "h": "Тёмный чай · Пуэр",
+     "p": [
+      "Время здесь — не срок годности; это ингредиент.",
+      "Окисление Постферментированный · Вода 100℃ · Лист · вода 5 г / 100 мл · Первое настаивание 20 сек"
+     ]
+    },
+    {
+     "h": "Белый чай",
+     "p": [
+      "Завяливание и сушка — это всё, поэтому качество листа проявляется нетронутым.",
+      "Окисление 5–10% · Вода 80~90℃ · Лист · вода 3~4 г / 200 мл · Первое настаивание 2 мин"
+     ]
+    },
+    {
+     "h": "Жёлтый чай",
+     "p": [
+      "Один дополнительный шаг — томление в закрытом виде — даёт самую мягкую сладость из шести чайных семей и самую редкую из них.",
+      "Окисление 10–20% · Вода 80~85℃ · Лист · вода 3 г / 200 мл · Первое настаивание 1 мин 30 сек"
+     ]
+    },
+    {
+     "h": "Повседневный и травяной чай",
+     "p": [
+      "Зерно, корни и фрукты, обжаренные или высушенные вместо чайного куста, и цветы и листья, заваренные как есть, — без кофеина, всегда под рукой.",
+      "Окисление Нет · без кофеина · Вода 90~100℃ · Лист · вода 3 г / 200 мл · Первое настаивание 5 мин"
+     ]
+    }
    ]
   },
   "related": []
@@ -5948,7 +6285,8 @@ window.TEAFaiCulture = [
    "es": "Temperatura del agua y tiempo de infusión: lo básico",
    "fr": "Température de l'eau et temps d'infusion — les bases",
    "ne": "पानीको तापक्रम र भिजाउने समय — आधारभूत कुराहरू",
-   "ms": "Suhu Air dan Masa Peresapan — Asasnya"
+   "ms": "Suhu Air dan Masa Peresapan — Asasnya",
+   "ru": "Температура воды и время настаивания — основы"
   },
   "summary": {
    "ko": "같은 차도 물 온도와 우림 시간에 따라 맛이 완전히 달라집니다. 차 종류별 권장 온도, 너무 뜨거우면 떫어지는 이유, 숙우로 물 식히는 법과 반복 우림의 시간 원칙을 정리했습니다.",
@@ -5967,7 +6305,8 @@ window.TEAFaiCulture = [
    "es": "El mismo té puede saber completamente diferente según la temperatura del agua y el tiempo de infusión. Esta guía cubre las temperaturas recomendadas por tipo de té, por qué el agua demasiado caliente vuelve amargo el té, cómo enfriar el agua con una jarra para enfriar y cómo alargar cada nueva infusión.",
    "fr": "Le même thé peut avoir un goût complètement différent selon la température de l'eau et le temps d'infusion. Ce guide présente les températures recommandées par type de thé, pourquoi une eau trop chaude rend le thé amer, comment refroidir l'eau avec un pichet de refroidissement, et comment allonger chaque réinfusion.",
    "ne": "एउटै चियाको स्वाद पानीको तापक्रम र भिजाउने समयअनुसार पूर्ण रूपमा फरक हुन सक्छ। यो मार्गदर्शिकाले चियाको प्रकारअनुसार सिफारिस गरिएका तापक्रम, धेरै तातो पानीले चियालाई किन तितो बनाउँछ, चिस्याउने जगले पानी कसरी चिस्याउने, र हरेक पुनः भिजाइलाई कसरी लम्ब्याउने भनेर समेट्छ।",
-   "ms": "Teh yang sama boleh berasa benar-benar berbeza bergantung pada suhu air dan masa peresapan. Panduan ini merangkumi suhu yang disyorkan mengikut jenis teh, mengapa air yang terlalu panas menjadikan teh pahit, cara menyejukkan air dengan kendi penyejuk, dan cara memanjangkan setiap bancuhan semula."
+   "ms": "Teh yang sama boleh berasa benar-benar berbeza bergantung pada suhu air dan masa peresapan. Panduan ini merangkumi suhu yang disyorkan mengikut jenis teh, mengapa air yang terlalu panas menjadikan teh pahit, cara menyejukkan air dengan kendi penyejuk, dan cara memanjangkan setiap bancuhan semula.",
+   "ru": "Один и тот же чай может иметь совершенно разный вкус в зависимости от температуры воды и времени настаивания. В этом руководстве рассматриваются рекомендуемые температуры по видам чая, почему слишком горячая вода делает чай горьким, как остудить воду с помощью кувшина для охлаждения и как увеличивать каждое повторное настаивание."
   },
   "body": {
    "ko": [
@@ -6275,6 +6614,24 @@ window.TEAFaiCulture = [
      "h": "Peraturan untuk masa peresapan",
      "p": "Mulakan pendek — mana-mana teh menjadi pahit dan kasar jika direndam terlalu lama. Untuk teh yang dibancuh beberapa kali, setiap bancuhan mengekstrak kurang daripada yang sebelumnya, jadi panjangkan masa sedikit setiap pusingan, kira-kira sepuluh hingga dua puluh saat. Jika cawan berasa terlalu kuat, pendekkan masa; terlalu lemah, panjangkannya, dan anda akan menemui piawai anda sendiri."
     }
+   ],
+   "ru": [
+    {
+     "h": "Почему температура меняет вкус",
+     "p": "Чем горячее вода, тем быстрее и полнее растворяются соединения в листьях. Горькие и вяжущие компоненты, в частности, легко выходят в очень горячей воде, поэтому заливка кипятком чая из молодых листьев выводит горечь вперёд, опережая сладость и умами. У слишком прохладной воды противоположная проблема: аромат и вкус остаются запертыми, и чашка на вкус плоская."
+    },
+    {
+     "h": "Рекомендуемые температуры по видам чая",
+     "p": "Зелёные чаи из молодых листьев обычно заваривают при 70–80°C, а более тонкие зелёные чаи часто требуют ещё более прохладной воды. Белым и жёлтым чаям подходит 80–90°C, а улун лучше всего раскрывается в горячей воде около 90°C и выше. У чёрных и тёмных чаёв листья более жёсткие и более окисленные, и им нужна вода при 95–100°C, только что вскипевшая, чтобы вкус был наилучшим."
+    },
+    {
+     "h": "Охлаждение воды с помощью кувшина",
+     "p": "Переливание только что вскипевшей воды в кувшин для охлаждения или пустой сосуд снижает её температуру примерно на десять градусов при каждом переливании. Без термометра можно регулировать количеством переливаний или просто дать воде постоять с открытой крышкой некоторое время. Для зелёного чая безопасный порядок — сначала остудить воду, затем залить ею листья."
+    },
+    {
+     "h": "Правило времени настаивания",
+     "p": "Начинайте с короткого времени — любой чай становится горьким и резким, если настаивается слишком долго. Для чаёв, завариваемых несколько раз, каждое настаивание извлекает меньше, чем предыдущее, поэтому немного увеличивайте время с каждым раундом, примерно на десять–двадцать секунд. Если чашка на вкус слишком крепкая, сократите время; слишком слабая — увеличьте, и вы найдёте свой собственный стандарт."
+    }
    ]
   },
   "related": []
@@ -6300,7 +6657,8 @@ window.TEAFaiCulture = [
    "es": "Cafeína y teanina: la alerta tranquila del té",
    "fr": "Caféine et théanine — la vigilance calme du thé",
    "ne": "क्याफिन र थियानिन — चियाको शान्त सजगता",
-   "ms": "Kafein dan Teanina — Kewaspadaan Tenang Teh"
+   "ms": "Kafein dan Teanina — Kewaspadaan Tenang Teh",
+   "ru": "Кофеин и теанин — спокойная бодрость чая"
   },
   "summary": {
    "ko": "차에도 카페인이 있지만 커피보다 적은 편이고, 테아닌이 그 작용을 부드럽게 감싸 줍니다. 어떤 차에 카페인이 많은지, 저녁에는 어떤 차가 좋은지, 첫 우림에 대한 오해까지 정리했습니다.",
@@ -6319,7 +6677,8 @@ window.TEAFaiCulture = [
    "es": "El té también contiene cafeína, pero por lo general menos que el café, y el aminoácido teanina suaviza su efecto. Este artículo explica qué tés tienen más cafeína, qué beber por la noche y la verdad sobre la primera infusión.",
    "fr": "Le thé contient aussi de la caféine, mais généralement moins que le café, et l'acide aminé qu'est la théanine adoucit son effet. Cet article explique quels thés contiennent plus de caféine, quoi boire le soir, et la vérité sur la première infusion.",
    "ne": "चियामा पनि क्याफिन हुन्छ, तर सामान्यतया कफीभन्दा कम, र एमिनो एसिड थियानिनले त्यसको असरलाई नरम बनाउँछ। यो लेखले कुन चियामा बढी क्याफिन हुन्छ, साँझ के पिउने, र पहिलो भिजाइबारेको सत्य बुझाउँछ।",
-   "ms": "Teh juga mengandungi kafein, tetapi biasanya kurang daripada kopi, dan asid amino teanina melembutkan kesannya. Artikel ini menerangkan teh mana yang membawa lebih banyak kafein, apa yang sesuai diminum pada waktu petang, dan kebenaran tentang bancuhan pertama."
+   "ms": "Teh juga mengandungi kafein, tetapi biasanya kurang daripada kopi, dan asid amino teanina melembutkan kesannya. Artikel ini menerangkan teh mana yang membawa lebih banyak kafein, apa yang sesuai diminum pada waktu petang, dan kebenaran tentang bancuhan pertama.",
+   "ru": "Чай тоже содержит кофеин, но обычно меньше, чем кофе, а аминокислота теанин смягчает его действие. В этой статье объясняется, в каких чаях больше кофеина, что пить вечером и правда о первом проливе."
   },
   "body": {
    "ko": [
@@ -6695,6 +7054,28 @@ window.TEAFaiCulture = [
      "h": "Mitos bancuhan pertama",
      "p": "Dakwaan bahawa membuang bancuhan pertama menyingkirkan kebanyakan kafein adalah berlebihan. Kafein tidak hilang dalam satu bilasan; ia terus larut merentasi banyak bancuhan. Membilas daun adalah terutamanya untuk membasuh habuk dan mengejutkan daun — bukan cara yang boleh dipercayai untuk menyahkafein teh anda."
     }
+   ],
+   "ru": [
+    {
+     "h": "Да, в чае есть кофеин",
+     "p": "Чай действительно содержит кофеин, хотя в чашке чая его обычно меньше, чем в чашке кофе. Количество сильно варьируется в зависимости от чая и способа заваривания — крепко заваренная чашка и слабо заваренная могут сильно отличаться. Поэтому «в чае нет кофеина» — неточно; «часто мягче, чем кофе» — ближе к правде."
+    },
+    {
+     "h": "Теанин меняет дело",
+     "p": "Чай также содержит аминокислоту под названием теанин, которая смягчает стимулирующее действие кофеина. Вот почему многие люди чувствуют спокойную сосредоточенность после чая, а не резкий толчок, как от кофе. Теанин также является источником пикантного вкуса умами, поэтому богатые теанином чаи — такие как тонкие зелёные чаи, выращенные в тени, — как правило, имеют и более глубокий вкус."
+    },
+    {
+     "h": "В каких чаях больше кофеина",
+     "p": "Кофеина, как правило, больше в молодых почках и молодых листьях, поэтому чаи с большим количеством почек и матча, которую употребляют в виде порошка из цельного листа, дают его относительно больше. Чаи из стеблей или грубых листьев, а также обжаренные чаи, как правило, содержат его меньше. Один и тот же чай также выделяет больше кофеина при более длительном настаивании в более горячей воде."
+    },
+    {
+     "h": "Хороший выбор на вечер",
+     "p": "Если вы чувствительны к кофеину, ходзича — обжаренный чай с меньшим содержанием кофеина — хороший вечерний выбор среди настоящих чаёв. Ячменный чай, ройбуш, ромашка и другие травяные настои вообще не содержат кофеина и являются лёгким выбором на ночь. Если вы всё же хотите настоящий чай, заваривайте его слабо и в небольшом количестве и оставьте несколько часов до сна."
+    },
+    {
+     "h": "Миф о первом проливе",
+     "p": "Утверждение, что отказ от первого пролива удаляет большую часть кофеина, — преувеличение. Кофеин не вымывается за одно ополаскивание; он продолжает растворяться во многих проливах. Ополаскивание листьев в основном нужно для смывания пыли и пробуждения листьев — это не надёжный способ декофеинизировать чай."
+    }
    ]
   },
   "related": [
@@ -6722,7 +7103,8 @@ window.TEAFaiCulture = [
    "es": "Cómo guardar el té: aléjalo de cinco cosas",
    "fr": "Comment conserver le thé — le tenir à l'écart de cinq choses",
    "ne": "चिया कसरी भण्डारण गर्ने — पाँच कुराबाट टाढा राख्नुहोस्",
-   "ms": "Cara Menyimpan Teh — Jauhi Lima Perkara"
+   "ms": "Cara Menyimpan Teh — Jauhi Lima Perkara",
+   "ru": "Как хранить чай — держите подальше от пяти вещей"
   },
   "summary": {
    "ko": "차는 빛, 습기, 공기, 냄새, 열에 약합니다. 다섯 가지를 피하는 기본 원칙과 밀폐 용기 고르는 법, 냉장 보관할 때의 주의점, 차 종류별 보관 기간의 감각을 정리했습니다.",
@@ -6741,7 +7123,8 @@ window.TEAFaiCulture = [
    "es": "El té es frágil ante la luz, la humedad, el aire, los olores y el calor. Esta guía cubre las reglas básicas para mantener fresco el té, cómo elegir un recipiente hermético, qué tener en cuenta con la refrigeración y una idea de cuánto dura cada tipo.",
    "fr": "Le thé est fragile face à la lumière, à l'humidité, à l'air, aux odeurs et à la chaleur. Ce guide présente les règles de base pour garder le thé frais, comment choisir un récipient hermétique, à quoi faire attention avec la réfrigération, et une idée de la durée de conservation de chaque type.",
    "ne": "चिया उज्यालो, ओस, हावा, गन्ध र तापका अगाडि कमजोर हुन्छ। यो मार्गदर्शिकाले चियालाई ताजा राख्ने आधारभूत नियमहरू, हावा नछिर्ने डिब्बा कसरी छान्ने, फ्रिजमा राख्दा के कुरामा ध्यान दिने, र हरेक प्रकार कति समय रहन्छ भन्ने अनुभूति समेट्छ।",
-   "ms": "Teh rapuh berhadapan dengan cahaya, kelembapan, udara, bau, dan haba. Panduan ini merangkumi peraturan asas untuk mengekalkan teh segar, cara memilih bekas kedap udara, apa yang perlu diperhatikan dengan penyejukan, dan gambaran berapa lama setiap jenis boleh disimpan."
+   "ms": "Teh rapuh berhadapan dengan cahaya, kelembapan, udara, bau, dan haba. Panduan ini merangkumi peraturan asas untuk mengekalkan teh segar, cara memilih bekas kedap udara, apa yang perlu diperhatikan dengan penyejukan, dan gambaran berapa lama setiap jenis boleh disimpan.",
+   "ru": "Чай уязвим перед светом, влагой, воздухом, запахами и теплом. В этом руководстве рассматриваются основные правила сохранения свежести чая, как выбрать герметичный контейнер, на что обратить внимание при хранении в холодильнике, и представление о том, как долго хранится каждый вид."
   },
   "body": {
    "ko": [
@@ -7049,6 +7432,24 @@ window.TEAFaiCulture = [
      "h": "Berapa lama setiap jenis boleh disimpan",
      "p": "Teh hijau berubah dengan cepat, jadi sebaiknya dihabiskan dalam masa beberapa bulan selepas dibuka; teh hitam lebih teguh dan kekal elok selama setahun atau dua. Oolong yang lebih dipanggang disimpan lebih lama daripada yang lebih hijau. Teh gelap seperti pu'er adalah pengecualian: ia dinikmati kerana cara ia berubah sepanjang tahun pada suhu bilik dengan sedikit aliran udara, jadi pengudaraan lebih penting daripada penutup kedap udara."
     }
+   ],
+   "ru": [
+    {
+     "h": "Пять вещей, которые чай не любит",
+     "p": "Свет выцветает цвет и аромат чая, а влага способствует появлению плесени и посторонних привкусов. Контакт с воздухом поддерживает окисление и крадёт свежий запах, а сухие листья так легко впитывают окружающие запахи, что хранение чая рядом со специями или кофе испортит его. Высокие температуры также ускоряют угасание аромата."
+    },
+    {
+     "h": "Контейнер и место — основы",
+     "p": "Эмпирическое правило — непрозрачный герметичный контейнер, хранящийся в прохладном сухом месте. Разделение чая на маленькие контейнеры означает, что основной запас открывают реже, поэтому он дольше остаётся ароматным. На кухнях колеблются температура и влажность, и полно запахов еды, поэтому шкаф в другой комнате — лучший дом для вашего чая."
+    },
+    {
+     "h": "Если храните в холодильнике, будьте осторожны",
+     "p": "Зелёные чаи и нежные улуны дольше сохраняют свежесть в холодильнике, если уплотнение действительно герметично. Но если открыть холодный чай сразу, влага из воздуха конденсируется на листьях, поэтому дайте контейнеру вернуться к комнатной температуре перед открытием. После открытия избегайте перемещения чая туда-сюда между холодильником и полкой — держите его в прохладе и выпейте в разумно скором времени."
+    },
+    {
+     "h": "Как долго хранится каждый вид",
+     "p": "Зелёный чай меняется быстро, поэтому его лучше выпить в течение нескольких месяцев после открытия; чёрный чай более стойкий и хорошо хранится год или два. Более сильно обжаренные улуны хранятся дольше, чем более зелёные. Тёмные чаи, такие как пуэр, — исключение: ими наслаждаются за то, как они меняются с годами при комнатной температуре с некоторым притоком воздуха, поэтому вентиляция важнее герметичного уплотнения."
+    }
    ]
   },
   "related": []
@@ -7072,7 +7473,8 @@ window.TEAFaiCulture = [
    "tur": "Çayın Raf Ömrü — Tarihi Geçince Atmak mı Gerekir?",
    "es": "La caducidad del té: ¿hay que tirarlo cuando pasa la fecha?",
    "fr": "La durée de conservation du thé — faut-il le jeter après la date ?",
-   "ms": "Jangka Hayat Teh — Perlu Buang Selepas Tarikh?"
+   "ms": "Jangka Hayat Teh — Perlu Buang Selepas Tarikh?",
+   "ru": "Срок годности чая — стоит ли выбрасывать после даты?"
   },
   "summary": {
    "ko": "포장에 찍힌 날짜가 지났다고 차를 꼭 버릴 필요는 없습니다. 유통기한과 소비기한의 차이, 차 종류별로 맛이 유지되는 기간, 날짜 지난 차를 확인하는 법과 버리기 전에 활용하는 법을 정리했습니다.",
@@ -7089,7 +7491,8 @@ window.TEAFaiCulture = [
    "tur": "Ambalajda yazan tarihin geçmesi, çayın çöpe gitmesi gerektiği anlamına gelmez. Bu yazı, satış tarihi ile tüketim tarihi arasındaki farkı, her çay türünün lezzetini ne kadar koruduğunu, tarihi geçmiş çayı nasıl kontrol edeceğinizi ve eski yaprakları atmadan önce değerlendirmenin yollarını özetliyor.",
    "es": "Que pase la fecha impresa en el paquete no significa que el té tenga que ir a la basura. Este artículo resume la diferencia entre fecha de venta y fecha de consumo, cuánto dura el sabor de cada tipo de té, cómo revisar un té caducado y cómo aprovechar las hojas viejas antes de tirarlas.",
    "fr": "Une date dépassée sur l'emballage ne signifie pas que le thé doit finir à la poubelle. Cet article résume la différence entre date limite de vente et date limite de consommation, combien de temps chaque type de thé garde sa saveur, comment vérifier un thé périmé et comment utiliser de vieilles feuilles avant de les jeter.",
-   "ms": "Tarikh yang tercetak pada bungkusan yang telah berlalu tidak bermakna teh mesti dibuang. Artikel ini merumuskan perbezaan antara tarikh luput jualan dan tarikh luput penggunaan, berapa lama rasa setiap jenis teh bertahan, cara memeriksa teh yang telah melepasi tarikh, dan cara memanfaatkan daun teh lama sebelum dibuang."
+   "ms": "Tarikh yang tercetak pada bungkusan yang telah berlalu tidak bermakna teh mesti dibuang. Artikel ini merumuskan perbezaan antara tarikh luput jualan dan tarikh luput penggunaan, berapa lama rasa setiap jenis teh bertahan, cara memeriksa teh yang telah melepasi tarikh, dan cara memanfaatkan daun teh lama sebelum dibuang.",
+   "ru": "Дата, напечатанная на упаковке, не означает, что чай внутри должен отправиться в мусор. В этой статье объясняется разница между датой продажи и датой употребления, как долго сохраняется вкус каждого вида чая, как проверить чай с истёкшим сроком и способы использовать старые листья, прежде чем выбрасывать их."
   },
   "body": {
    "ko": [
@@ -7360,6 +7763,24 @@ window.TEAFaiCulture = [
     {
      "h": "Sebelum membuang teh lama",
      "p": "Daun teh yang telah hilang aromanya boleh mendapat semula rasa panggang yang harum jika dipanaskan perlahan-lahan dalam kuali kering atas api kecil — hōjicha Jepun dibuat tepat dengan cara ini, iaitu memanggang sencha. Daun yang dipanggang itu boleh terus diminum, dibancuh pekat untuk masakan, atau daun keringnya dimasukkan ke dalam uncang kain kecil sebagai penyahbau dalam almari kasut dan peti sejuk; ia juga boleh direndam dalam air mandian. Tetapi teh yang berkulat tidak boleh digunakan untuk apa-apa pun — buang sahaja terus."
+    }
+   ],
+   "ru": [
+    {
+     "h": "Дата продажи и дата употребления — не одно и то же",
+     "p": "С 2023 года в Корее на продуктах питания указывают дату употребления (потребления) вместо старой даты продажи. Дата продажи отмечала, как долго продукт может оставаться на полке для продажи; дата употребления отмечает, как долго он остаётся безопасным для употребления при хранении в соответствии с указаниями. Чай — сухой продукт с очень малым содержанием влаги, поэтому он не портится в момент истечения даты — для чая напечатанная дата ближе к периоду «наилучшего вкуса», чем к сроку безопасности. Иными словами, дата — это ориентир, когда аромат и вкус наилучшие, а не черта, решающая, выбрасывать чай или нет."
+    },
+    {
+     "h": "Как долго хранится каждый вид?",
+     "p": "Зелёный чай и матча хранятся меньше всего: около шести месяцев — года в закрытом виде, и лучше выпить в течение нескольких месяцев после открытия. Чёрный чай, уже полностью окисленный, хранится дольше — от одного до двух лет. Улун хранится около года, а сильно обжаренные улуны — ещё дольше. Белым чаем и тёмными чаями, такими как пуэр, наслаждаются именно за то, как их вкус меняется с возрастом при хорошем хранении. Травяные и фруктовые смеси легче теряют аромат, поэтому ориентируйтесь примерно на год."
+    },
+    {
+     "h": "Срок истёк — можно ли всё ещё пить?",
+     "p": "Чай с истёкшей напечатанной датой обычно всё ещё можно пить, если нет плесени и странного запаха, хотя аромат будет слабее, а вкус более плоским, чем раньше. С другой стороны, если вы видите плесень на листьях или они пахнут затхлостью и сыростью, выбросьте их, что бы ни говорила дата. Чай, впитавший влагу, также безопаснее выбросить. Перед завариванием возьмите за привычку нюхать сухие листья и проверять их цвет."
+    },
+    {
+     "h": "Прежде чем выбросить старый чай",
+     "p": "Листья, потерявшие аромат, могут вернуть поджаренную глубину, если осторожно прогреть их на сухой сковороде — японская ходзича делается именно так, путём обжаривания сэнтя. Ожившие листья можно пить как есть, заваривать крепко для готовки или класть сухими в маленькие тканевые мешочки как дезодорант для обувных шкафов и холодильника; их также можно заваривать в воду для ванны. Но чай с плесенью никогда не следует использовать ни для чего — выбрасывайте его сразу."
     }
    ]
   },
@@ -7675,6 +8096,24 @@ window.TEAFaiCulture = [
      "h": "Kategori lain, dan majlis yang akan datang",
      "p": "Best of Matcha dimenangi oleh teh serbuk SAMIDORI organik Furukawa Seicha dari Jepun, dan Best of Botanicals oleh teh kuning Orchid Frost dari Seven Teahouse di Amerika Syarikat. Majlis anugerah berlangsung pada 22 Januari 2027 di kedai utama Fortnum & Mason di London, diikuti keesokan harinya dengan sesi merasa teh yang memenangi pingat emas."
     }
+   ],
+   "ru": [
+    {
+     "h": "Что такое The Leafies?",
+     "p": "The Leafies — это международный чайный конкурс, запущенный в 2022 году UK Tea Academy, британской организацией чайного образования. Каждый год подаются сотни чаёв со всего мира, а жюри из профессиональных судей из разных отраслей и культурных сред выбирает победителей в ходе повторных раундов слепой дегустации. Британский магазин деликатесов класса люкс Fortnum & Mason является партнёром премии, и чаи-победители могут получить место на его полках или в его меню послеобеденного чая."
+    },
+    {
+     "h": "Best in Show 2026 — пропаренный зелёный чай из Японии",
+     "p": "Высшая награда этого года, Best in Show, досталась пропаренному зелёному чаю Kodama «Special Edition», произведённому Horiguchi Seicha (Wakoen) из Кагосимы, Япония. Пропаривание — фирменный способ приготовления японского зелёного чая: листья фиксируют паром, а не жаром сковороды, что сохраняет их зелёный аромат и пикантную глубину особенно яркими."
+    },
+    {
+     "h": "Чёрные чаи Тайваня вырываются вперёд",
+     "p": "Награда Best of Black Teas досталась чёрному чаю Mi Ying Black Tea, произведённому тайваньской компанией Fusensen. Основанная в Тайнане в 1985 году, компания создала этот чёрный чай с медовым ароматом из листьев, выращенных в Хуаляне, на востоке Тайваня. Тайваньские чаи также разделили награду Best of Retail Teas, а Тайвань увез домой семь золотых, 22 серебряные и 26 бронзовых медалей на премии этого года. Тайваньский чёрный чай впервые выиграл главный приз этой категории в 2024 году, а в 2025 году тайваньский чай затем получил саму награду Best in Show — серия успехов, которая продолжается."
+    },
+    {
+     "h": "Другие категории и предстоящая церемония",
+     "p": "Награда Best of Matcha досталась органическому порошковому чаю SAMIDORI от Furukawa Seicha из Японии, а Best of Botanicals — жёлтому чаю Orchid Frost от Seven Teahouse из США. Церемония награждения состоится 22 января 2027 года во флагманском магазине Fortnum & Mason в Лондоне, а на следующий день пройдёт дегустация чаёв, завоевавших золотые медали."
+    }
    ]
   },
   "cat": "basics",
@@ -7701,7 +8140,8 @@ window.TEAFaiCulture = [
    "es": "Ya están los resultados de The Leafies 2026, los premios internacionales de té organizados por la UK Tea Academy. El máximo honor fue para un té verde al vapor de Kagoshima, Japón, el premio al té negro para un té negro con aroma a miel de Taiwán, y Taiwán arrasó con 55 medallas en total, incluidas siete de oro.",
    "fr": "Les résultats des Leafies 2026 sont tombés : ce concours international du thé est organisé par la UK Tea Academy. La plus haute distinction est allée à un thé vert étuvé de Kagoshima, au Japon, le prix du thé noir à un thé noir aux notes de miel de Taïwan — et Taïwan a raflé 55 médailles en tout, dont sept en or.",
    "ne": "UK Tea Academy ले सञ्चालन गर्ने अन्तर्राष्ट्रिय चिया पुरस्कार The Leafies 2026 को नतिजा आएको छ। शीर्ष सम्मान जापानको कागोशिमाको बाफमा बनाइएको हरियो चियालाई गयो, कालो चियाको पुरस्कार ताइवानको महको सुगन्ध भएको कालो चियालाई — र ताइवानले सात स्वर्णसहित कुल 55 पदक जित्यो।",
-   "ms": "Keputusan telah diumumkan untuk The Leafies 2026, anugerah teh antarabangsa yang dikendalikan oleh UK Tea Academy. Penghormatan tertinggi dimenangi oleh teh hijau kukus dari Kagoshima, Jepun, hadiah teh hitam oleh teh hitam berperisa madu dari Taiwan — dan Taiwan menyapu 55 pingat kesemuanya, termasuk tujuh emas."
+   "ms": "Keputusan telah diumumkan untuk The Leafies 2026, anugerah teh antarabangsa yang dikendalikan oleh UK Tea Academy. Penghormatan tertinggi dimenangi oleh teh hijau kukus dari Kagoshima, Jepun, hadiah teh hitam oleh teh hitam berperisa madu dari Taiwan — dan Taiwan menyapu 55 pingat kesemuanya, termasuk tujuh emas.",
+   "ru": "Объявлены результаты The Leafies 2026, международной чайной премии, проводимой UK Tea Academy. Высшая награда досталась пропаренному зелёному чаю из Кагосимы, Япония, приз за чёрный чай — чёрному чаю с медовым ароматом с Тайваня, а Тайвань в общей сложности завоевал 55 медалей, включая семь золотых."
   },
   "title": {
    "en": "The Leafies 2026 — The World's Teas of the Year",
@@ -7720,7 +8160,8 @@ window.TEAFaiCulture = [
    "es": "The Leafies 2026 — Los tés del año en el mundo",
    "fr": "The Leafies 2026 — les thés de l'année dans le monde",
    "ne": "The Leafies 2026 — विश्वका वर्षका चियाहरू",
-   "ms": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini"
+   "ms": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini",
+   "ru": "The Leafies 2026 — чаи года в мире"
   }
  },
  {
@@ -7742,7 +8183,8 @@ window.TEAFaiCulture = [
    "tur": "Pu-erh Çayı: Yanlış Bilinenler ve Gerçekler",
    "es": "Té pu-erh: mitos y realidades",
    "fr": "Le thé pu-erh : idées reçues et réalités",
-   "ms": "Teh Pu-erh: Mitos dan Fakta"
+   "ms": "Teh Pu-erh: Mitos dan Fakta",
+   "ru": "Чай пуэр: мифы и факты"
   },
   "summary": {
    "ko": "보이차에는 유난히 소문이 많습니다. 오래될수록 무조건 좋다, 곰팡이 냄새가 나야 진짜다, 다이어트와 해독에 특효다 — 어디까지가 사실일까요. 생차와 숙차의 차이부터 보관 상태를 가르는 법까지, 보이차를 둘러싼 오해를 하나씩 정리했습니다.",
@@ -7759,7 +8201,8 @@ window.TEAFaiCulture = [
    "tur": "Pu-erh kadar hakkında söylenti dolaşan çay azdır. Eskidikçe koşulsuz daha iyi olur, gerçek pu-erh küf kokmalıdır, zayıflama ve detoksta mucizedir — bunların ne kadarı doğru? Bu yazı, çiğ ve olgun pu-erh arasındaki farktan kötü saklanmış çayı tanımaya kadar, yanlış bilinenleri tek tek ele alıyor.",
    "es": "Pocos tés acumulan tantos rumores como el pu-erh. Cuanto más viejo, mejor sin condiciones; el pu-erh auténtico debe oler a moho; es milagroso para adelgazar y desintoxicar — ¿cuánto hay de cierto? Este artículo repasa los mitos uno a uno, desde la diferencia entre pu-erh crudo y maduro hasta cómo reconocer un té mal almacenado.",
    "fr": "Peu de thés traînent autant de rumeurs que le pu-erh. Plus il est vieux, meilleur il serait sans condition ; un vrai pu-erh devrait sentir le moisi ; il serait miraculeux pour maigrir et se détoxifier — qu'en est-il vraiment ? Cet article passe les idées reçues en revue, de la différence entre pu-erh brut et mûr à la façon de reconnaître un thé mal conservé.",
-   "ms": "Hanya sedikit teh yang dikelilingi khabar angin sebanyak pu-erh. Semakin tua semakin baik tanpa syarat, pu-erh asli mesti berbau kulat, mujarab untuk langsing dan detoks — sejauh mana benarnya? Artikel ini menyemak mitos satu demi satu, daripada perbezaan pu-erh mentah dan matang hingga cara mengenal pasti teh yang disimpan dengan buruk."
+   "ms": "Hanya sedikit teh yang dikelilingi khabar angin sebanyak pu-erh. Semakin tua semakin baik tanpa syarat, pu-erh asli mesti berbau kulat, mujarab untuk langsing dan detoks — sejauh mana benarnya? Artikel ini menyemak mitos satu demi satu, daripada perbezaan pu-erh mentah dan matang hingga cara mengenal pasti teh yang disimpan dengan buruk.",
+   "ru": "Пуэр привлекает больше слухов, чем почти любой другой чай. Чем старше, тем всегда лучше, настоящий пуэр должен пахнуть плесенью, он творит чудеса для похудения и детокса — насколько это правда? От разницы между шэн и шу пуэром до выявления плохо хранившегося чая — эта статья разбирает мифы один за другим."
   },
   "body": {
    "ko": [
@@ -8090,6 +8533,28 @@ window.TEAFaiCulture = [
     {
      "h": "Dakwaan langsing dan detoks — sejauh mana boleh dipercayai",
      "p": "Anda mungkin mendengar pu-erh amat berkesan untuk melangsingkan badan atau detoks, tetapi akhirnya ia hanyalah satu lagi teh berkafeina, bukan ubat. Secawan teh hangat selepas makan adalah tabiat yang baik, tetapi jangan mengharapkan secawan teh bertindak seperti ubat. Dan bilasan pertama, yang dipanggil 'mencuci teh', bukan untuk membuang toksin — ia membilas habuk dan mengejutkan daun yang ditekan rapat supaya dapat membuka."
+    }
+   ],
+   "ru": [
+    {
+     "h": "Что такое чай пуэр?",
+     "p": "Пуэр — это тёмный чай, изготавливаемый из крупнолистных чайных растений в китайской провинции Юньнань. Его исходный материал — маоча: листья, обжаренные на сковороде, а затем высушенные на солнце (шайцин), — и чай продолжает меняться после этого за счёт постферментации под действием микробов. Большая его часть прессуется в компактные формы: круглые лепёшки (бинча), кирпичи (чжуаньча) и чашеобразные точа. Сишуанбаньна, Линьцан и регион Пуэр — его самые известные районы производства."
+    },
+    {
+     "h": "Шэн и шу — оба настоящие пуэры",
+     "p": "Пуэр бывает двух видов. Шэн (сырой) пуэр — это маоча, спрессованный или оставленный рассыпным и оставленный медленно меняться в течение многих лет. Шу (готовый) пуэр изготавливается методом водуй, или «влажного скирдования», разработанным около 1973 года на таких фабриках, как Куньминская чайная фабрика: маоча складывают в кучи, сбрызгивают водой и накрывают, чтобы микробная ферментация протекала быстро, вызывая те изменения, на которые шэн пуэру нужны годы. Шу пуэр — не подделка и не низшая копия — это другой вид пуэра, созданный для мягкого глубокого вкуса за более короткое время."
+    },
+    {
+     "h": "Когда «чем старше, тем лучше» действительно работает",
+     "p": "Выдержка имеет значение только тогда, когда отправная точка хороша. Листья изначально должны быть качественными, а чай должен храниться в чистой среде — проветриваемой, но не чрезмерно влажной, — чтобы время превратилось во вкус. Чай, впитавший запах плесени на жарком влажном складе, не станет хорошим чаем, сколько бы лет ему ни было. Судить следует по состоянию листьев и ясности аромата и вкуса в чашке, а не по году, напечатанному на обёртке, или размеру цифры на ценнике."
+    },
+    {
+     "h": "Должен ли настоящий пуэр пахнуть плесенью?",
+     "p": "Хорошо выдержанный пуэр пахнет глубоко и мягко — как ююба или сухофрукты, дерево и нежные лекарственные травы. Резкий, бьющий в нос запах плесени или душный запах сырого подвала — это не характер ферментации; это признак того, что хранение пошло не так. Если вы видите белую или зелёную плесень на листьях, не пейте его — выбросьте. Слегка необычный аромат и испорченный чай — две разные вещи."
+    },
+    {
+     "h": "Утверждения о диете и детоксе — насколько им доверять",
+     "p": "Вы можете услышать, что пуэр особенно эффективен для похудения или детокса, но в конечном счёте это ещё один чай с кофеином, а не лекарство. Тёплая чашка после еды — хорошая привычка, но ни от одной чашки чая не следует ожидать действия, как от лекарства. А первый пролив, называемый «промыванием чая», нужен не для удаления яда — он смывает пыль и пробуждает плотно спрессованные листья, чтобы они могли раскрыться."
     }
    ]
   },

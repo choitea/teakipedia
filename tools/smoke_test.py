@@ -164,6 +164,7 @@ CHECK = r"""
   out.esTeas = D.use('es').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.frTeas = D.use('fr').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.msTeas = D.use('ms').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
+  out.ruTeas = D.use('ru').teas.filter(function (t) { return !!t.name && !!t.oneLine; }).length;
   out.hiGroups = D.use('hi').groups.filter(function (g) { return !!g.name; }).length;
   out.thGroups = D.use('th').groups.filter(function (g) { return !!g.name; }).length;
   out.viGroups = D.use('vi').groups.filter(function (g) { return !!g.name; }).length;
@@ -246,7 +247,7 @@ def run(plan=None, shops=None):
             "localStorage.setItem('teafai.shops.v1', %r)"
             % json.dumps({"version": shops.get("version"), "shops": shops.get("shops")}, ensure_ascii=False)
         )
-    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_es.js", "data_fr.js", "data_ms.js", "data_ja.js", "app.js", "features.js"]
+    files = ["supabase-adapter.js", "i18n.js", "data.js", "data_yue.js", "data_hi.js", "data_th.js", "data_vi.js", "data_ar.js", "data_id.js", "data_tur.js", "data_es.js", "data_fr.js", "data_ms.js", "data_ru.js", "data_ja.js", "app.js", "features.js"]
     for f in files:
         src = (HERE / f).read_text(encoding="utf-8")
         try:
@@ -323,6 +324,7 @@ def main():
         and result["esTeas"] == 243
         and result["frTeas"] == 243
         and result["msTeas"] == 243
+        and result["ruTeas"] == 243
         and result["hiGroups"] == 7
         and result["thGroups"] == 7
         and result["viGroups"] == 7

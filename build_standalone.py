@@ -24,6 +24,7 @@ data_tur_js = (BASE / "data_tur.js").read_text(encoding="utf-8")
 data_es_js = (BASE / "data_es.js").read_text(encoding="utf-8")
 data_fr_js = (BASE / "data_fr.js").read_text(encoding="utf-8")
 data_ms_js = (BASE / "data_ms.js").read_text(encoding="utf-8")
+data_ru_js = (BASE / "data_ru.js").read_text(encoding="utf-8")
 data_ja_js = (BASE / "data_ja.js").read_text(encoding="utf-8")
 culture_js = (BASE / "culture.js").read_text(encoding="utf-8")
 i18n_js = (BASE / "i18n.js").read_text(encoding="utf-8")
@@ -43,13 +44,13 @@ html = html.replace(
 
 # 국기 SVG 는 i18n.js 의 mountSwitcher 가 <img> 로 그리므로 data URI 로 함께 품습니다
 flags = {}
-for code, fname in (("ko", "ko"), ("en", "en"), ("zh-CN", "zh-CN"), ("zh-TW", "zh-TW"), ("ja", "ja"), ("yue", "yue"), ("hi", "hi"), ("th", "th"), ("vi", "vi"), ("ar", "ar"), ("ind", "ind"), ("tur", "tur"), ("es", "es"), ("fr", "fr"), ("ms", "ms")):
+for code, fname in (("ko", "ko"), ("en", "en"), ("zh-CN", "zh-CN"), ("zh-TW", "zh-TW"), ("ja", "ja"), ("yue", "yue"), ("hi", "hi"), ("th", "th"), ("vi", "vi"), ("ar", "ar"), ("ind", "ind"), ("tur", "tur"), ("es", "es"), ("fr", "fr"), ("ms", "ms"), ("ru", "ru")):
     raw = (BASE / "icons" / "flags" / (fname + ".svg")).read_bytes()
     flags[code] = "data:image/svg+xml;base64," + base64.b64encode(raw).decode("ascii")
 flag_js = "<script>window.TEAFaiFlags = " + json.dumps(flags) + ";</script>\n    "
 
 html = html.replace(
-    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="data_hi.js"></script>\n    <script src="data_th.js"></script>\n    <script src="data_vi.js"></script>\n    <script src="data_ar.js"></script>\n    <script src="data_id.js"></script>\n    <script src="data_tur.js"></script>\n    <script src="data_es.js"></script>\n    <script src="data_fr.js"></script>\n    <script src="data_ms.js"></script>\n    <script src="data_ja.js"></script>\n    <script src="culture.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
+    '<script src="supabase-adapter.js"></script>\n    <script src="i18n.js"></script>\n    <script src="data.js"></script>\n    <script src="data_yue.js"></script>\n    <script src="data_hi.js"></script>\n    <script src="data_th.js"></script>\n    <script src="data_vi.js"></script>\n    <script src="data_ar.js"></script>\n    <script src="data_id.js"></script>\n    <script src="data_tur.js"></script>\n    <script src="data_es.js"></script>\n    <script src="data_fr.js"></script>\n    <script src="data_ms.js"></script>\n    <script src="data_ru.js"></script>\n    <script src="data_ja.js"></script>\n    <script src="culture.js"></script>\n    <script src="app.js"></script>\n    <script src="features.js"></script>',
     flag_js
     + "<script>\n"
     + supabase_js
@@ -78,6 +79,7 @@ html = html.replace(
     + "\n</script>\n    <script>\n"
     + data_ms_js
     + "\n</script>\n    <script>\n"
+    + data_ru_js
     + data_ja_js
     + "\n</script>\n    <script>\n"
     + culture_js
