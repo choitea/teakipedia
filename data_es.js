@@ -4867,6 +4867,54 @@ window.TEAFaiDataEs = (function () {
     "brewTip": "Tostar antes de cocer suaviza el amargor y profundiza el aroma.",
     "keep": "Sellado, en lugar fresco y seco.",
     "keywords": "fenogreco alholva methi helba fenugreek seed tea"
+  },
+  "herb-rose": {
+    "brewTip": "Infusiónalo en una tetera de cristal para ver cómo se abren lentamente los capullos.",
+    "flavor": "Un rico aroma a rosa, dulzor ligero y un final suave de pétalos.",
+    "keep": "Sellado, fresco y seco.",
+    "keywords": "té de capullos de rosa té de rosas Pingyin té de flores",
+    "name": "Té de rosas",
+    "oneLine": "Capullos de rosa de Pingyin, Shandong: infusiona los capullos secos y un rico aroma a rosa florece con un dulzor ligero.",
+    "origin": "El condado de Pingyin, en Shandong (China), es una famosa zona de cultivo de rosas; los capullos se secan.",
+    "oxidation": "sin oxidación · sin cafeína",
+    "pairing": "Combina con postres de fresa, macarons y pasteles ligeros. Su brillante aroma floral corre en la misma dirección que los postres dulces, y su ligero dulzor aligera el peso de la crema. La comida salada y pesada entierra el aroma a rosa, así que disfrútalo aparte.",
+    "process": "Los capullos se recogen, se secan y luego se infusionan en agua caliente.",
+    "ratioNote": "4 g por 200 ml",
+    "rounds": "2 infusiones",
+    "steepBasis": "90 °C durante 2–3 minutos.",
+    "story": "China lleva mucho tiempo secando capullos de rosa para el té. Las rosas de Pingyin, de capullos grandes y fragancia profunda, se consideran las mejores."
+  },
+  "herb-butterflypea": {
+    "brewTip": "Unas gotas de zumo de limón convierten el azul en morado. La segunda infusión sale más pálida.",
+    "flavor": "Una nota verde tenue y un sabor suave y tranquilo: el color, no el sabor, es la estrella de este té.",
+    "keep": "Sellado, fresco y seco.",
+    "keywords": "té de flor de clitoria té azul té de flores Tailandia",
+    "name": "Té de flor de clitoria",
+    "oneLine": "Flores de clitoria de Tailandia y el Sudeste Asiático: las antocianinas tiñen la taza de azul, y un chorro de limón la vuelve morada.",
+    "origin": "Se cultiva ampliamente en Tailandia y en todo el Sudeste Asiático; las flores azules se secan.",
+    "oxidation": "sin oxidación · sin cafeína",
+    "pairing": "Añade zumo de limón y disfruta del cambio de color, o acompáñalo con postres de coco y fruta tropical. Su sabor tranquilo nunca choca con el dulzor del postre, y el licor azul ilumina la mesa. La comida de sabor fuerte entierra la gracia del color, así que mantén un ambiente ligero.",
+    "process": "Las flores se recogen, se secan y luego se infusionan en agua caliente.",
+    "ratioNote": "5–6 flores por 200 ml",
+    "rounds": "2 infusiones",
+    "steepBasis": "95 °C durante unos 3 minutos.",
+    "story": "Las cocinas del Sudeste Asiático lo han usado durante mucho tiempo para teñir de azul bebidas, postres e incluso el arroz. Como el color responde a la acidez, es famoso como bebida que cambia de color con limón."
+  },
+  "herb-osmanthus": {
+    "brewTip": "Las flores son diminutas: infusiona con un filtro para una taza limpia.",
+    "flavor": "Un aroma floral dulce como el albaricoque y el melocotón, con un dulzor que recuerda a la miel.",
+    "keep": "Sellado, fresco y seco.",
+    "keywords": "té de osmanto guihua Guilin té de flores",
+    "name": "Té de osmanto",
+    "oneLine": "Osmanto, la flor dorada que hizo famoso a Guilin: sus diminutas flores desprenden una fragancia dulce parecida al albaricoque.",
+    "origin": "Guilin, en Guangxi (China), es famoso por el osmanto; las flores doradas se secan.",
+    "oxidation": "sin oxidación · sin cafeína",
+    "pairing": "Combina con pasteles de arroz glutinoso y dulces tradicionales como el yakgwa. Su dulce aroma floral corre junto al suave dulzor de los pasteles, y el final a miel envuelve el paladar con suavidad. La comida salada va por otro camino, así que resérvalo para el postre.",
+    "process": "Las flores se recogen, se secan y luego se infusionan en agua caliente.",
+    "ratioNote": "2 g por 200 ml",
+    "rounds": "2 infusiones",
+    "steepBasis": "90 °C durante 2–3 minutos.",
+    "story": "El propio nombre de Guilin significa 'bosque de osmantos'. A diferencia del oolong de osmanto, en el que las hojas se perfuman con la flor, esta entrada es el té puro de la flor por sí sola."
   }
 };
 

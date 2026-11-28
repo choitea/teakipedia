@@ -4887,6 +4887,54 @@ window.TEAFaiDataId = (function () {
     "brewTip": "Menyangrai sebelum merebus melembutkan pahit dan memperdalam aroma.",
     "keep": "Simpan tertutup rapat, sejuk dan kering.",
     "keywords": "klabet fenugreek methi helba teh biji"
+  },
+  "herb-rose": {
+    "brewTip": "Seduh dalam teko kaca untuk menyaksikan kuncupnya perlahan membuka.",
+    "flavor": "Aroma mawar yang kaya, rasa manis ringan, dan akhir kelopak yang lembut.",
+    "keep": "Tertutup rapat, sejuk dan kering.",
+    "keywords": "teh kuncup mawar teh mawar Pingyin teh bunga",
+    "name": "Teh Mawar",
+    "oneLine": "Kuncup mawar dari Pingyin, Shandong — seduh kuncup keringnya dan aroma mawar yang kaya mekar dengan rasa manis ringan.",
+    "origin": "Kabupaten Pingyin di Shandong, Tiongkok adalah daerah penanaman mawar yang terkenal; kuncupnya dikeringkan.",
+    "oxidation": "tanpa oksidasi · bebas kafein",
+    "pairing": "Cocok dengan hidangan penutup stroberi, makaron, dan kue ringan. Aroma bunganya yang cerah mengalir searah dengan hidangan penutup yang manis, dan rasa manisnya yang ringan mengangkat beratnya krim. Makanan asin dan berat mengubur aroma mawar, jadi nikmati secara terpisah.",
+    "process": "Kuncup dipetik, dikeringkan, lalu diseduh dalam air panas.",
+    "ratioNote": "4 g untuk 200 ml",
+    "rounds": "2 kali seduh",
+    "steepBasis": "90 °C selama 2–3 menit.",
+    "story": "Tiongkok telah lama mengeringkan kuncup mawar untuk teh. Mawar Pingyin, berkuncup besar dan beraroma dalam, dianggap yang terbaik."
+  },
+  "herb-butterflypea": {
+    "brewTip": "Beberapa tetes jus lemon mengubah warna biru menjadi ungu. Seduhan kedua lebih pucat.",
+    "flavor": "Aroma hijau samar dan rasa lembut yang tenang — warna, bukan rasa, adalah bintang teh ini.",
+    "keep": "Tertutup rapat, sejuk dan kering.",
+    "keywords": "teh bunga telang teh biru teh bunga Thailand",
+    "name": "Teh Bunga Telang",
+    "oneLine": "Bunga telang dari Thailand dan Asia Tenggara — antosianin mewarnai cangkir menjadi biru, dan perasan lemon mengubahnya menjadi ungu.",
+    "origin": "Ditanam luas di Thailand dan di seluruh Asia Tenggara; bunga birunya dikeringkan.",
+    "oxidation": "tanpa oksidasi · bebas kafein",
+    "pairing": "Tambahkan jus lemon dan nikmati perubahan warnanya, atau padukan dengan hidangan penutup kelapa dan buah tropis. Rasanya yang tenang tidak pernah bertabrakan dengan manisnya hidangan penutup, dan warna birunya mencerahkan meja. Makanan beraroma kuat mengubur keseruan warnanya, jadi jaga suasana tetap ringan.",
+    "process": "Bunga dipetik, dikeringkan, lalu diseduh dalam air panas.",
+    "ratioNote": "5–6 bunga untuk 200 ml",
+    "rounds": "2 kali seduh",
+    "steepBasis": "95 °C selama sekitar 3 menit.",
+    "story": "Dapur Asia Tenggara telah lama menggunakan bunga ini untuk mewarnai minuman, hidangan penutup, bahkan nasi menjadi biru. Karena warnanya merespons keasaman, ia terkenal sebagai minuman pengubah warna dengan lemon."
+  },
+  "herb-osmanthus": {
+    "brewTip": "Bunganya kecil — seduh dengan saringan agar cangkir bersih.",
+    "flavor": "Aroma bunga manis seperti aprikot dan persik, dengan rasa manis seperti madu.",
+    "keep": "Tertutup rapat, sejuk dan kering.",
+    "keywords": "teh osmanthus guihua Guilin teh bunga",
+    "name": "Teh Osmanthus",
+    "oneLine": "Osmanthus, bunga emas yang membuat Guilin terkenal — bunga-bunga kecilnya menyebarkan aroma manis seperti aprikot.",
+    "origin": "Guilin di Guangxi, Tiongkok terkenal dengan osmanthus; bunga emasnya dikeringkan.",
+    "oxidation": "tanpa oksidasi · bebas kafein",
+    "pairing": "Cocok dengan kue beras ketan dan manisan tradisional seperti yakgwa. Aroma bunganya yang manis berjalan seiring dengan manis lembut kuenya, dan akhir seperti madu membungkus langit-langit mulut dengan lembut. Makanan asin berjalan ke arah lain, jadi simpan untuk waktu hidangan penutup.",
+    "process": "Bunga dipetik, dikeringkan, lalu diseduh dalam air panas.",
+    "ratioNote": "2 g untuk 200 ml",
+    "rounds": "2 kali seduh",
+    "steepBasis": "90 °C selama 2–3 menit.",
+    "story": "Nama Guilin sendiri berarti 'hutan osmanthus'. Berbeda dengan oolong osmanthus, di mana daunnya diberi aroma bunga, entri ini adalah teh bunga murni itu sendiri."
   }
 };
 

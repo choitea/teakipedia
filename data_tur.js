@@ -4867,6 +4867,54 @@ window.TEAFaiDataTur = (function () {
     "brewTip": "Kaynatmadan önce kavurmak acılığı yumuşatır ve aromayı derinleştirir.",
     "keep": "Ağzı kapalı, serin ve kuru saklayın.",
     "keywords": "çemen otu fenugreek methi helba tohum çayı"
+  },
+  "herb-rose": {
+    "brewTip": "Goncaların yavaşça açılışını izlemek için cam demlikte demleyin.",
+    "flavor": "Zengin bir gül kokusu, hafif tatlılık ve yumuşak bir taç yaprak bitişi.",
+    "keep": "Ağzı kapalı, serin ve kuru yerde saklayın.",
+    "keywords": "gül goncası çayı gül çayı Pingyin çiçek çayı",
+    "name": "Gül Çayı",
+    "oneLine": "Shandong Pingyin'den gül goncaları — kuru goncaları demleyin, zengin gül kokusu hafif bir tatlılıkla açsın.",
+    "origin": "Çin'in Shandong bölgesindeki Pingyin ilçesi ünlü bir gül yetiştirme alanıdır; goncalar kurutulur.",
+    "oxidation": "oksidasyonsuz · kafeinsiz",
+    "pairing": "Çilekli tatlılar, makaronlar ve hafif kekler için uygundur. Parlak çiçek kokusu tatlı tatlılarla aynı yönde akar, hafif tatlılığı kremanın ağırlığını kaldırır. Tuzlu ve ağır yiyecekler gül kokusunu gömer, bu yüzden ayrı tadın.",
+    "process": "Goncalar toplanır, kurutulur, sonra sıcak suda demlenir.",
+    "ratioNote": "200 ml için 4 g",
+    "rounds": "2 demleme",
+    "steepBasis": "90 °C'de 2–3 dakika.",
+    "story": "Çin, çay için gül goncalarını uzun zamandır kurutur. Büyük goncalı ve derin kokulu Pingyin gülleri en iyisi sayılır."
+  },
+  "herb-butterflypea": {
+    "brewTip": "Birkaç damla limon suyu maviyi mora çevirir. İkinci demleme daha soluk olur.",
+    "flavor": "Hafif yeşil bir nota ve yumuşak, sakin bir tat — bu çayın yıldızı lezzeti değil, rengidir.",
+    "keep": "Ağzı kapalı, serin ve kuru yerde saklayın.",
+    "keywords": "kelebek bezelye çayı mavi çay çiçek çayı Tayland",
+    "name": "Kelebek Bezelye Çayı",
+    "oneLine": "Tayland ve Güneydoğu Asya'dan kelebek bezelye çiçekleri — antosiyaninler fincanı maviye boyar, bir sıkım limon onu mora çevirir.",
+    "origin": "Tayland'da ve Güneydoğu Asya genelinde yaygın olarak yetiştirilir; mavi çiçekler kurutulur.",
+    "oxidation": "oksidasyonsuz · kafeinsiz",
+    "pairing": "Limon suyu ekleyip renk değişimini izleyin ya da hindistan cevizli tatlılar ve tropikal meyvelerle eşleştirin. Sakin tadı tatlının tatlılığıyla asla çatışmaz, mavi rengi sofrayı aydınlatır. Güçlü aromalı yiyecekler rengin eğlencesini gömer, bu yüzden ortamı hafif tutun.",
+    "process": "Çiçekler toplanır, kurutulur, sonra sıcak suda demlenir.",
+    "ratioNote": "200 ml için 5–6 çiçek",
+    "rounds": "2 demleme",
+    "steepBasis": "95 °C'de yaklaşık 3 dakika.",
+    "story": "Güneydoğu Asya mutfakları bu çiçeği içecekleri, tatlıları ve hatta pilavı maviye boyamak için uzun zamandır kullanır. Rengi asiditeye tepki verdiği için limonla renk değiştiren içecek olarak ünlüdür."
+  },
+  "herb-osmanthus": {
+    "brewTip": "Çiçekler miniciktir — temiz bir fincan için süzgeçle demleyin.",
+    "flavor": "Kayısı ve şeftaliye benzeyen tatlı bir çiçek kokusu, balı andıran bir tatlılık.",
+    "keep": "Ağzı kapalı, serin ve kuru yerde saklayın.",
+    "keywords": "osmantus çayı guihua Guilin çiçek çayı",
+    "name": "Osmantus Çayı",
+    "oneLine": "Guilin'i ünlendiren altın çiçek osmantus — minik çiçekleri kayısıya benzeyen tatlı bir koku yayar.",
+    "origin": "Çin'in Guangxi bölgesindeki Guilin osmantusuyla ünlüdür; altın çiçekler kurutulur.",
+    "oxidation": "oksidasyonsuz · kafeinsiz",
+    "pairing": "Yapışkan pirinç kekleri ve yakgwa gibi geleneksel tatlılar için uygundur. Tatlı çiçek kokusu keklerin hafif tatlılığıyla aynı yönde akar, balı andıran bitişi damağı yumuşakça sarar. Tuzlu yiyecekler başka bir yöndedir, bu yüzden tatlı zamanına saklayın.",
+    "process": "Çiçekler toplanır, kurutulur, sonra sıcak suda demlenir.",
+    "ratioNote": "200 ml için 2 g",
+    "rounds": "2 demleme",
+    "steepBasis": "90 °C'de 2–3 dakika.",
+    "story": "Guilin'in adı bile 'osmantus ormanı' demektir. Yaprakların çiçekle kokulandırıldığı osmantus oolongundan farklı olarak bu kayıt, çiçeğin tek başına saf çayıdır."
   }
 };
 

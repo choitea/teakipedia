@@ -4867,6 +4867,54 @@ window.TEAFaiDataFr = (function () {
     "rounds": "2 infusions",
     "steepBasis": "Mijoter 5 minutes à 95 °C.",
     "story": "Une épice de base des cuisines indiennes sous le nom de methi, et bue en Égypte comme un thé de graines appelé helba."
+  },
+  "herb-rose": {
+    "brewTip": "Infusez dans une théière en verre pour voir les boutons s'ouvrir lentement.",
+    "flavor": "Un riche parfum de rose, une douceur légère et une finale douce de pétales.",
+    "keep": "Hermétique, au frais et au sec.",
+    "keywords": "thé aux boutons de rose thé de rose Pingyin thé de fleurs",
+    "name": "Thé de rose",
+    "oneLine": "Boutons de rose de Pingyin, dans le Shandong — infusez les boutons séchés et un riche parfum de rose s'épanouit avec une douceur légère.",
+    "origin": "Le comté de Pingyin, dans le Shandong (Chine), est une célèbre région de culture de la rose ; les boutons sont séchés.",
+    "oxidation": "sans oxydation · sans caféine",
+    "pairing": "Il accompagne les desserts à la fraise, les macarons et les gâteaux légers. Son parfum floral lumineux va dans le même sens que les desserts sucrés, et sa légère douceur allège le poids de la crème. Les plats salés et lourds enterrent le parfum de rose, dégustez-le donc à part.",
+    "process": "Les boutons sont cueillis, séchés, puis infusés dans l'eau chaude.",
+    "ratioNote": "4 g pour 200 ml",
+    "rounds": "2 infusions",
+    "steepBasis": "90 °C pendant 2–3 minutes.",
+    "story": "La Chine sèche depuis longtemps les boutons de rose pour le thé. Les roses de Pingyin, aux gros boutons et au parfum profond, sont considérées comme les meilleures."
+  },
+  "herb-butterflypea": {
+    "brewTip": "Quelques gouttes de jus de citron font passer le bleu au violet. La deuxième infusion est plus pâle.",
+    "flavor": "Une note verte ténue et un goût doux et calme — la couleur, et non la saveur, est la vedette de ce thé.",
+    "keep": "Hermétique, au frais et au sec.",
+    "keywords": "thé au pois papillon thé bleu thé de fleurs Thaïlande",
+    "name": "Thé au pois papillon",
+    "oneLine": "Fleurs de pois papillon de Thaïlande et d'Asie du Sud-Est — les anthocyanes teintent la tasse en bleu, et un filet de citron la fait virer au violet.",
+    "origin": "Largement cultivé en Thaïlande et dans toute l'Asie du Sud-Est ; les fleurs bleues sont séchées.",
+    "oxidation": "sans oxydation · sans caféine",
+    "pairing": "Ajoutez du jus de citron et profitez du changement de couleur, ou accompagnez-le de desserts à la noix de coco et de fruits tropicaux. Son goût calme ne heurte jamais la douceur d'un dessert, et la liqueur bleue illumine la table. Les plats aux saveurs fortes enterrent le plaisir de la couleur, gardez donc une ambiance légère.",
+    "process": "Les fleurs sont cueillies, séchées, puis infusées dans l'eau chaude.",
+    "ratioNote": "5–6 fleurs pour 200 ml",
+    "rounds": "2 infusions",
+    "steepBasis": "95 °C pendant environ 3 minutes.",
+    "story": "Les cuisines d'Asie du Sud-Est l'utilisent depuis longtemps pour teinter en bleu boissons, desserts et même le riz. Comme la couleur réagit à l'acidité, elle est célèbre comme boisson changeant de couleur avec le citron."
+  },
+  "herb-osmanthus": {
+    "brewTip": "Les fleurs sont minuscules — infusez-les dans un filtre pour une tasse nette.",
+    "flavor": "Un parfum floral doux comme l'abricot et la pêche, avec une douceur miellée.",
+    "keep": "Hermétique, au frais et au sec.",
+    "keywords": "thé à l'osmanthus guihua Guilin thé de fleurs",
+    "name": "Thé à l'osmanthus",
+    "oneLine": "L'osmanthus, la fleur dorée qui a rendu Guilin célèbre — ses minuscules fleurs répandent un parfum doux qui rappelle l'abricot.",
+    "origin": "Guilin, dans le Guangxi (Chine), est célèbre pour l'osmanthus ; les fleurs dorées sont séchées.",
+    "oxidation": "sans oxydation · sans caféine",
+    "pairing": "Il accompagne les gâteaux de riz gluant et les douceurs traditionnelles comme le yakgwa. Son parfum floral doux chemine avec la douceur délicate des gâteaux, et la finale miellée enveloppe le palais en douceur. Les plats salés suivent une autre voie, réservez-le donc pour le dessert.",
+    "process": "Les fleurs sont cueillies, séchées, puis infusées dans l'eau chaude.",
+    "ratioNote": "2 g pour 200 ml",
+    "rounds": "2 infusions",
+    "steepBasis": "90 °C pendant 2–3 minutes.",
+    "story": "Le nom même de Guilin signifie « forêt d'osmanthus ». Contrairement à l'oolong à l'osmanthus, où les feuilles sont parfumées à la fleur, cette entrée est le thé pur de la fleur seule."
   }
 };
 
