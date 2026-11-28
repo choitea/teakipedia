@@ -1,4 +1,4 @@
-/* 차 문화 글 18편 — 나라별 다례 · 다구 입문 · 차 상식 (17개 언어) */
+/* 차 문화 글 20편 — 나라별 다례 · 다구 입문 · 차 상식 (15개 언어) */
 window.TEAFaiCulture = [
  {
   "body": {
@@ -7054,6 +7054,321 @@ window.TEAFaiCulture = [
   "related": []
  },
  {
+  "id": "basics-shelf-life",
+  "img": "images/culture/basics-shelf-life.jpg",
+  "cat": "basics",
+  "title": {
+   "ko": "차의 유통기한 — 날짜가 지나면 버려야 할까?",
+   "en": "Tea's Shelf Life — Should You Throw It Away After the Date?",
+   "zh-CN": "茶叶的保质期——过了日期就必须扔掉吗？",
+   "zh-TW": "茶葉的保存期限——過了日期就必須丟掉嗎？",
+   "ja": "お茶の賞味期限——期限が過ぎたら捨てるべき？",
+   "yue": "茶葉嘅保存期限——過咗日期係咪一定要掉？",
+   "hi": "चाय की शेल्फ़ लाइफ़ — तारीख़ निकल जाए तो क्या फेंक दें?",
+   "th": "อายุการเก็บรักษาของชา — เลยวันที่แล้วต้องทิ้งไหม?",
+   "vi": "Hạn sử dụng của trà — qua ngày in trên bao bì là phải bỏ sao?",
+   "ar": "مدة صلاحية الشاي — هل يجب رميه بعد التاريخ؟",
+   "ind": "Masa Simpan Teh — Lewat Tanggal Harus Dibuang?",
+   "tur": "Çayın Raf Ömrü — Tarihi Geçince Atmak mı Gerekir?",
+   "es": "La caducidad del té: ¿hay que tirarlo cuando pasa la fecha?",
+   "fr": "La durée de conservation du thé — faut-il le jeter après la date ?",
+   "ms": "Jangka Hayat Teh — Perlu Buang Selepas Tarikh?"
+  },
+  "summary": {
+   "ko": "포장에 찍힌 날짜가 지났다고 차를 꼭 버릴 필요는 없습니다. 유통기한과 소비기한의 차이, 차 종류별로 맛이 유지되는 기간, 날짜 지난 차를 확인하는 법과 버리기 전에 활용하는 법을 정리했습니다.",
+   "en": "A date printed on the package doesn't mean the tea inside has to go in the bin. This article explains the difference between sell-by and use-by dates, how long the flavor of each type of tea lasts, how to check tea that's past its date, and ways to use up older leaves before throwing them away.",
+   "zh-CN": "包装上印的日期过了，茶叶并不一定就得扔掉。本文整理了流通期限与消费期限的区别、各类茶风味能保持多久、过了日期的茶如何判断能不能喝，以及扔掉之前可以怎样利用旧茶。",
+   "zh-TW": "包裝上印的日期過了，茶葉並不一定要丟掉。本文整理了流通期限與消費期限的區別、各類茶風味能保持多久、過了日期的茶如何判斷能不能喝，以及丟掉之前可以怎樣利用舊茶。",
+   "ja": "パッケージに印刷された期限が過ぎても、お茶を捨てる必要はありません。流通期限と消費期限の違い、お茶の種類ごとに風味が保てる期間、期限を過ぎたお茶の見分け方、捨てる前に活用する方法をまとめました。",
+   "yue": "包裝上面印嘅日期過咗，茶葉唔一定要掉。呢篇整理咗流通期限同消費期限嘅分別、各類茶嘅風味可以保持幾耐、過咗日期嘅茶點樣判斷飲唔飲得，同埋掉之前可以點樣善用舊茶。",
+   "hi": "पैकेट पर छपी तारीख़ निकल जाने का मतलब यह नहीं कि चाय फेंकनी ही पड़ेगी। यह लेख बताता है कि सेल-बाय और यूज़-बाय तारीख़ में क्या अंतर है, हर तरह की चाय का स्वाद कितने समय तक बना रहता है, तारीख़ निकली चाय की जाँच कैसे करें, और फेंकने से पहले पुरानी पत्तियों का क्या उपयोग हो सकता है।",
+   "th": "วันที่พิมพ์บนบรรจุภัณฑ์ผ่านไปไม่ได้แปลว่าชาต้องถูกทิ้งเสมอไป บทความนี้รวบรวมความแตกต่างระหว่างวันหมดอายุจำหน่ายกับวันควรบริโภค, ชาแต่ละประเภทคงรสชาติไว้ได้นานแค่ไหน, วิธีตรวจชาที่เลยวันแล้ว และวิธีใช้ใบชาเก่าให้คุ้มก่อนทิ้ง",
+   "vi": "Ngày in trên bao bì đã qua không có nghĩa là phải bỏ trà đi. Bài viết này tổng hợp sự khác nhau giữa hạn bán và hạn dùng, mỗi loại trà giữ được hương vị bao lâu, cách kiểm tra trà đã qua ngày, và cách tận dụng lá trà cũ trước khi bỏ.",
+   "ar": "مرور التاريخ المطبوع على العبوة لا يعني أن الشاي يجب أن يُرمى. يجمع هذا المقال الفرق بين تاريخ انتهاء البيع وتاريخ انتهاء الاستهلاك، ومدة احتفاظ كل نوع من الشاي بنكهته، وكيفية فحص الشاي الذي تجاوز تاريخه، وطرق الاستفادة من الأوراق القديمة قبل رميها.",
+   "ind": "Tanggal yang tercetak pada kemasan lewat bukan berarti teh harus dibuang. Artikel ini merangkum perbedaan tanggal kedaluwarsa penjualan dan tanggal konsumsi, berapa lama rasa setiap jenis teh bertahan, cara memeriksa teh yang sudah lewat tanggal, dan cara memanfaatkan daun teh lama sebelum dibuang.",
+   "tur": "Ambalajda yazan tarihin geçmesi, çayın çöpe gitmesi gerektiği anlamına gelmez. Bu yazı, satış tarihi ile tüketim tarihi arasındaki farkı, her çay türünün lezzetini ne kadar koruduğunu, tarihi geçmiş çayı nasıl kontrol edeceğinizi ve eski yaprakları atmadan önce değerlendirmenin yollarını özetliyor.",
+   "es": "Que pase la fecha impresa en el paquete no significa que el té tenga que ir a la basura. Este artículo resume la diferencia entre fecha de venta y fecha de consumo, cuánto dura el sabor de cada tipo de té, cómo revisar un té caducado y cómo aprovechar las hojas viejas antes de tirarlas.",
+   "fr": "Une date dépassée sur l'emballage ne signifie pas que le thé doit finir à la poubelle. Cet article résume la différence entre date limite de vente et date limite de consommation, combien de temps chaque type de thé garde sa saveur, comment vérifier un thé périmé et comment utiliser de vieilles feuilles avant de les jeter.",
+   "ms": "Tarikh yang tercetak pada bungkusan yang telah berlalu tidak bermakna teh mesti dibuang. Artikel ini merumuskan perbezaan antara tarikh luput jualan dan tarikh luput penggunaan, berapa lama rasa setiap jenis teh bertahan, cara memeriksa teh yang telah melepasi tarikh, dan cara memanfaatkan daun teh lama sebelum dibuang."
+  },
+  "body": {
+   "ko": [
+    {
+     "h": "유통기한과 소비기한은 다르다",
+     "p": "한국에서는 2023년부터 식품 날짜 표시가 '유통기한'에서 '소비기한'으로 바뀌었습니다. 유통기한이 판매할 수 있는 기간을 뜻했다면, 소비기한은 정해진 보관 방법을 지켰을 때 먹어도 안전한 기간을 뜻합니다. 차처럼 수분이 적고 잘 마른 건조식품은 날짜가 지났다고 바로 상하는 음식이 아니어서, 포장에 찍힌 날짜는 안전보다는 '맛이 보장되는 기간'에 가깝습니다. 날짜는 버릴지 말지를 가르는 선이 아니라, 향과 맛이 가장 좋은 시기를 알려 주는 안내에 가깝습니다."
+    },
+    {
+     "h": "종류별로 얼마나 갈까",
+     "p": "가장 짧은 것은 녹차와 말차입니다. 미개봉으로 6개월에서 1년 정도, 개봉하면 수개월 안에 마시는 것이 좋습니다. 홍차는 산화가 이미 끝나 있어 1~2년으로 긴 편이고, 우롱차는 1년 안팎이 기준이지만 볶음이 강한 차는 더 오래 갑니다. 백차와 보이차 같은 흑차는 잘 보관하면 세월과 함께 맛이 변해 가는 것 자체를 즐기는 차입니다. 허브와 과일을 섞은 블렌드는 재료의 향이 빠지기 쉬워 1년 안팎을 기준으로 삼으세요."
+    },
+    {
+     "h": "날짜가 지난 차, 마셔도 될까",
+     "p": "날짜가 지난 차도 곰팡이가 없고 이상한 냄새가 나지 않으면 대개는 마실 수 있습니다. 다만 시간이 지난 만큼 향이 옅어지고 맛이 밋밋해질 수 있습니다. 반대로 잎에 곰팡이가 보이거나 퀴퀴한 곰팡이 냄새, 습한 냄새가 나면 날짜와 상관없이 버리세요. 한 번 습기를 먹은 차도 안전을 위해 버리는 편이 좋습니다. 마시기 전에는 마른 잎의 냄새를 맡고 색을 확인하는 습관이 도움이 됩니다."
+    },
+    {
+     "h": "오래된 차를 버리기 전에",
+     "p": "향이 빠진 잎차는 프라이팬에 약한 불로 살짝 볶으면 고소한 풍미가 살아납니다. 일본의 호지차가 바로 센차를 볶아 만든 차입니다. 볶은 차는 그대로 마셔도 좋고, 진하게 우려 요리에 쓰거나, 마른 잎을 작은 주머니에 담아 신발장과 냉장고의 탈취제로 쓰는 등 생활 속에서 활용할 수 있습니다. 목욕물에 우려 넣는 방법도 있습니다. 단, 곰팡이가 핀 차는 어떤 용도로도 쓰지 말고 그대로 버리세요."
+    }
+   ],
+   "en": [
+    {
+     "h": "Sell-by and use-by are not the same",
+     "p": "Since 2023, Korea has labeled food with a use-by (consumption) date instead of the old sell-by date. The sell-by date marked how long a product could stay on the shelf for sale; the use-by date marks how long it stays safe to eat when stored as directed. Tea is a dry food with very little moisture, so it doesn't spoil the moment the date passes — for tea, the printed date is closer to a 'best flavor' period than a safety deadline. In other words, the date is a guide to when the aroma and taste are at their best, not a line that decides whether to throw the tea away."
+    },
+    {
+     "h": "How long does each type keep?",
+     "p": "Green tea and matcha keep for the shortest time: about six months to a year unopened, and best finished within a few months once opened. Black tea, already fully oxidized, lasts longer at one to two years. Oolong sits around a year, and heavily roasted oolongs keep even longer. White tea and dark teas such as pu-erh are enjoyed precisely for how their flavor changes with age when stored well. Herb and fruit blends lose their fragrance more easily, so aim for about a year."
+    },
+    {
+     "h": "It's past the date — can I still drink it?",
+     "p": "Tea past its printed date can usually still be drunk as long as there is no mold and no strange smell, though the aroma will be weaker and the taste flatter than before. On the other hand, if you can see mold on the leaves, or they smell musty and damp, throw them away whatever the date says. Tea that has absorbed moisture is also safer to discard. Before brewing, make a habit of smelling the dry leaves and checking their color."
+    },
+    {
+     "h": "Before you throw old tea away",
+     "p": "Leaves that have lost their aroma can regain a toasty depth if you warm them gently in a dry frying pan — Japan's hōjicha is made exactly this way, by roasting sencha. The revived leaves can be drunk as they are, brewed strong for cooking, or put dry into small cloth bags as a deodorizer for shoe cabinets and the fridge; you can also steep them into bath water. But tea with mold should never be used for anything — throw it straight away."
+    }
+   ],
+   "zh-CN": [
+    {
+     "h": "流通期限和消费期限不一样",
+     "p": "韩国从2023年起，食品日期标示由'流通期限'改为'消费期限'。流通期限指可以销售的期间，消费期限则指按规定方法保存时可以安全食用的期间。茶叶是水分很少的干燥食品，不会一过日期就变质，包装上的日期与其说是安全界限，不如说更接近'风味保证期'。也就是说，日期不是决定扔不扔的分界线，而是告诉我们香气和滋味最好的时期的指南。"
+    },
+    {
+     "h": "各类茶能放多久",
+     "p": "最短的是绿茶和抹茶：未开封约6个月到1年，开封后最好在几个月内喝完。红茶已经完全氧化，能放1到2年，时间较长。乌龙茶以1年左右为基准，焙火较重的还能放得更久。白茶和普洱等黑茶，只要保存得当，享受的正是风味随岁月变化的过程。花草与水果拼配茶香气容易散失，以1年左右为宜。"
+    },
+    {
+     "h": "过了日期的茶还能喝吗",
+     "p": "过了日期的茶，只要没有发霉、没有异味，一般还是可以喝的，只是香气会变淡，滋味也会平淡一些。反过来，如果叶面能看到霉斑，或者闻起来有发霉、潮湿的味道，不管日期如何都请扔掉。已经受潮的茶为了安全也最好扔掉。冲泡之前，先闻一闻干茶的气味、看一看颜色，是很好的习惯。"
+    },
+    {
+     "h": "扔掉旧茶之前",
+     "p": "香气散失的茶叶，用平底锅小火轻轻焙一焙，焦香就会回来——日本的焙茶正是把煎茶焙制而成的。焙过的茶可以直接喝，也可以浓泡后用于烹饪，或把干叶装进小布袋放进鞋柜、冰箱当除味剂，还可以泡进洗澡水里。不过，发了霉的茶什么用途都不能用，请直接扔掉。"
+    }
+   ],
+   "zh-TW": [
+    {
+     "h": "流通期限和消費期限不一樣",
+     "p": "韓國從2023年起，食品日期標示由「流通期限」改為「消費期限」。流通期限指可以販售的期間，消費期限則指依照規定方法保存時可以安全食用的期間。茶葉是水分很少的乾燥食品，不會一過日期就變質，包裝上的日期與其說是安全界線，不如說更接近「風味保證期」。也就是說，日期不是決定丟不丟的分界線，而是告訴我們香氣和滋味最好的時期的指南。"
+    },
+    {
+     "h": "各類茶能放多久",
+     "p": "最短的是綠茶和抹茶：未開封約6個月到1年，開封後最好在幾個月內喝完。紅茶已經完全氧化，能放1到2年，時間較長。烏龍茶以1年左右為基準，焙火較重的還能放得更久。白茶和普洱等黑茶，只要保存得當，享受的正是風味隨歲月變化的過程。花草與水果拼配茶香氣容易散失，以1年左右為宜。"
+    },
+    {
+     "h": "過了日期的茶還能喝嗎",
+     "p": "過了日期的茶，只要沒有發霉、沒有異味，一般還是可以喝的，只是香氣會變淡，滋味也會平淡一些。反過來，如果葉面能看到霉斑，或者聞起來有發霉、潮濕的味道，不管日期如何都請丟掉。已經受潮的茶為了安全也最好丟掉。沖泡之前，先聞一聞乾茶的氣味、看一看顏色，是很好的習慣。"
+    },
+    {
+     "h": "丟掉舊茶之前",
+     "p": "香氣散失的茶葉，用平底鍋小火輕輕焙一焙，焦香就會回來——日本的焙茶正是把煎茶焙製而成的。焙過的茶可以直接喝，也可以濃泡後用於烹飪，或把乾葉裝進小布袋放進鞋櫃、冰箱當除味劑，還可以泡進洗澡水裡。不過，發了霉的茶什麼用途都不能用，請直接丟掉。"
+    }
+   ],
+   "ja": [
+    {
+     "h": "流通期限と消費期限は違う",
+     "p": "韓国では2023年から、食品の日付表示が「流通期限」から「消費期限」に変わりました。流通期限が販売できる期間を意味したのに対し、消費期限は決められた方法で保存した場合に安全に食べられる期間を意味します。お茶のように水分の少ない乾燥食品は、期限が過ぎたからといってすぐに傷むものではなく、パッケージの日付は安全よりも「おいしさが保証される期間」に近いものです。つまり日付は捨てるかどうかを分ける線ではなく、香りと味が最も良い時期を教えてくれる目安なのです。"
+    },
+    {
+     "h": "種類ごとにどれくらい持つ？",
+     "p": "最も短いのは緑茶と抹茶です。未開封で6か月から1年ほど、開封したら数か月以内に飲み切るのが理想です。紅茶はすでに酸化が終わっているため1〜2年と比較的長く持ちます。烏龍茶は1年前後が目安ですが、焙煎の強いものはさらに長く持ちます。白茶やプーアル茶のような黒茶は、きちんと保存すれば歳月とともに変わっていく味わいそのものを楽しむお茶です。ハーブやフルーツのブレンドは香りが飛びやすいので、1年前後を目安にしてください。"
+    },
+    {
+     "h": "期限を過ぎたお茶、飲んでもいい？",
+     "p": "期限を過ぎたお茶でも、カビがなく変なにおいがしなければ、たいていは飲むことができます。ただ、時間がたった分だけ香りは薄くなり、味もぼんやりしがちです。逆に、葉にカビが見えたり、カビ臭い・湿ったにおいがしたりする場合は、日付にかかわらず捨ててください。一度湿気を吸ったお茶も、安全のため捨てるほうが安心です。淹れる前に乾いた葉のにおいを嗅ぎ、色を確認する習慣が役に立ちます。"
+    },
+    {
+     "h": "古いお茶を捨てる前に",
+     "p": "香りの抜けた茶葉は、フライパンで弱火で軽く炒ると香ばしさがよみがえります。日本のほうじ茶は、まさに煎茶を焙じて作るお茶です。炒った茶葉はそのまま飲んでもよく、濃く淹れて料理に使ったり、乾いた葉を小さな布袋に入れて靴箱や冷蔵庫の消臭剤にしたり、お風呂のお湯に淹れて入れたりと、暮らしの中で活用できます。ただし、カビの生えたお茶はどんな用途にも使わず、そのまま捨ててください。"
+    }
+   ],
+   "yue": [
+    {
+     "h": "流通期限同消費期限唔同",
+     "p": "韓國由2023年開始，食品日期標示由「流通期限」改為「消費期限」。流通期限係指可以賣嘅期間，消費期限就係指跟住規定方法保存嗰陣，可以安全食用嘅期間。茶葉係水分好少嘅乾燥食品，唔會一過日期就變壞，包裝上面嘅日期比起安全界線，更加接近「風味保證期」。即係話，日期唔係決定掉唔掉嘅界線，而係話畀我哋知香氣同味道最好嘅時期嘅指南。"
+    },
+    {
+     "h": "各類茶可以放幾耐",
+     "p": "最短嘅係綠茶同抹茶：未開封大約6個月到1年，開封之後最好喺幾個月內飲晒。紅茶已經完全氧化，可以放1到2年，算係長。烏龍茶以1年左右為基準，焙火重啲嘅仲可以放得耐啲。白茶同普洱呢類黑茶，只要保存得好，享受嘅正正係風味隨住歲月變化嘅過程。花草同水果拼配茶香氣容易走，以1年左右為宜。"
+    },
+    {
+     "h": "過咗日期嘅茶，飲唔飲得？",
+     "p": "過咗日期嘅茶，只要冇發霉、冇怪味，一般都仲飲得，只係香氣會淡啲，味道會平淡一啲。調轉頭，如果葉面見到霉斑，或者聞落有霉味、濕氣味，無論日期係點都唔好要。已經受潮嘅茶，為咗安全都係掉咗佢好啲。沖之前，先聞下乾茶嘅氣味、睇下顏色，係好好嘅習慣。"
+    },
+    {
+     "h": "掉舊茶之前",
+     "p": "香氣走晒嘅茶葉，用鑊細火輕輕炒一炒，焦香就會返嚟——日本嘅焙茶正正係將煎茶焙製而成。炒過嘅茶可以直接飲，又可以濃泡之後用嚟煮食，或者將乾葉入落小布袋，放喺鞋櫃、雪櫃當除味劑，又可以浸入沖涼水入面。不過，發咗霉嘅茶咩用途都唔好用，直接掉咗佢。"
+    }
+   ],
+   "hi": [
+    {
+     "h": "सेल-बाय और यूज़-बाय एक नहीं हैं",
+     "p": "कोरिया में 2023 से खाद्य पदार्थों पर पुरानी सेल-बाय तारीख़ की जगह यूज़-बाय (उपभोग) तारीख़ लिखी जाने लगी है। सेल-बाय तारीख़ का मतलब था वह अवधि जिसमें उत्पाद बेचा जा सकता है, जबकि यूज़-बाय तारीख़ बताती है कि बताए गए तरीके से रखने पर वह कितने समय तक सुरक्षित रूप से खाया जा सकता है। चाय जैसी सूखी चीज़, जिसमें नमी बहुत कम होती है, तारीख़ निकलते ही ख़राब नहीं होती — पैकेट की तारीख़ सुरक्षा से ज़्यादा 'सर्वोत्तम स्वाद की अवधि' के करीब है। यानी तारीख़ फेंकने या रखने का फ़ैसला करने वाली रेखा नहीं, बल्कि यह बताने वाली मार्गदर्शिका है कि ख़ुशबू और स्वाद कब सबसे अच्छे रहते हैं।"
+    },
+    {
+     "h": "हर तरह की चाय कितने समय चलती है",
+     "p": "सबसे कम समय ग्रीन टी और माचा चलती हैं: बिना खोले लगभग 6 महीने से 1 साल, और खोलने के बाद कुछ महीनों में ख़त्म करना बेहतर है। ब्लैक टी पहले से पूरी तरह ऑक्सीकृत होती है, इसलिए 1 से 2 साल तक चलती है। ऊलोंग लगभग 1 साल का मानक है, और ज़्यादा भुनी हुई ऊलोंग इससे भी ज़्यादा चलती है। व्हाइट टी और पुएर जैसी डार्क टी, अगर अच्छी तरह रखी जाएँ, तो समय के साथ बदलते स्वाद का आनंद ही उनका ख़ास मज़ा है। हर्बल और फलों के ब्लेंड की ख़ुशबू जल्दी उड़ती है, इसलिए लगभग 1 साल का लक्ष्य रखें।"
+    },
+    {
+     "h": "तारीख़ निकल गई — क्या पी सकते हैं?",
+     "p": "तारीख़ निकली चाय भी, अगर उसमें फफूंद न हो और कोई अजीब गंध न आए, तो आमतौर पर पी जा सकती है, हाँ ख़ुशबू कमज़ोर और स्वाद फीका पड़ सकता है। इसके उलट, अगर पत्तियों पर फफूंद दिखे या सीलन भरी फफूंद की गंध आए, तो तारीख़ चाहे जो हो, उसे फेंक दें। नमी सोख चुकी चाय को भी सुरक्षा के लिए फेंकना ही बेहतर है। बनाने से पहले सूखी पत्तियों को सूंघना और उनका रंग देखना अच्छी आदत है।"
+    },
+    {
+     "h": "पुरानी चाय फेंकने से पहले",
+     "p": "जिन पत्तियों की ख़ुशबू उड़ गई हो, उन्हें सूखे फ्राइंग पैन में धीमी आंच पर हल्का भूनने से भुनी हुई गहराई लौट आती है — जापान की होजिचा ठीक इसी तरह सेंचा को भूनकर बनाई जाती है। इन पत्तियों को ऐसे ही पिया जा सकता है, गाढ़ा बनाकर खाना पकाने में इस्तेमाल किया जा सकता है, या सूखी पत्तियाँ छोटे कपड़े के थैलों में भरकर जूतों की अलमारी और फ्रिज में दुर्गंध दूर करने के लिए रखी जा सकती हैं; नहाने के पानी में भी इन्हें भिगोया जा सकता है। लेकिन फफूंद लगी चाय किसी भी काम में न लें — उसे सीधे फेंक दें।"
+    }
+   ],
+   "th": [
+    {
+     "h": "วันหมดอายุจำหน่ายกับวันควรบริโภคไม่เหมือนกัน",
+     "p": "ตั้งแต่ปี 2023 เกาหลีเปลี่ยนการแสดงวันที่บนอาหารจาก 'วันหมดอายุจำหน่าย' เป็น 'วันควรบริโภค' วันหมดอายุจำหน่ายหมายถึงช่วงที่วางขายได้ ส่วนวันควรบริโภคหมายถึงช่วงที่ยังรับประทานได้อย่างปลอดภัยเมื่อเก็บตามวิธีที่กำหนด ชาอย่างชาเป็นอาหารแห้งที่มีความชื้นน้อยมาก จึงไม่เสียทันทีเมื่อเลยวันที่ วันที่บนบรรจุภัณฑ์จึงใกล้เคียงกับ 'ช่วงที่รสชาติดีที่สุด' มากกว่าจะเป็นเส้นตายด้านความปลอดภัย พูดอีกอย่างคือ วันที่ไม่ใช่เส้นตัดสินว่าจะทิ้งหรือไม่ แต่เป็นแนวทางบอกว่าช่วงไหนกลิ่นและรสดีที่สุด"
+    },
+    {
+     "h": "ชาแต่ละประเภทเก็บได้นานแค่ไหน",
+     "p": "สั้นที่สุดคือชาเขียวและมัทฉะ ยังไม่เปิดอยู่ได้ประมาณ 6 เดือนถึง 1 ปี เปิดแล้วควรดื่มให้หมดภายในไม่กี่เดือน ชาดำผ่านการออกซิไดซ์เต็มที่แล้ว จึงเก็บได้นาน 1 ถึง 2 ปี ชาอู่หลงอยู่ราว 1 ปีเป็นเกณฑ์ และชนิดที่คั่วเข้มจะเก็บได้นานกว่านั้น ชาขาวและชาดำหมักอย่างผู่เอ๋อร์ หากเก็บดี ๆ ความสนุกอยู่ที่รสชาติที่เปลี่ยนไปตามเวลา ส่วนชาสมุนไพรและผลไม้เบลนด์กลิ่นจางง่าย จึงควรใช้ภายในราว 1 ปี"
+    },
+    {
+     "h": "เลยวันที่แล้วยังดื่มได้ไหม",
+     "p": "ชาที่เลยวันที่แล้ว หากไม่มีเชื้อราและไม่มีกลิ่นแปลก ๆ โดยทั่วไปยังดื่มได้ เพียงแต่กลิ่นจะอ่อนลงและรสจะจืดลงบ้าง ในทางกลับกัน หากเห็นเชื้อราบนใบชา หรือมีกลิ่นอับชื้นและกลิ่นรา ให้ทิ้งทันทีไม่ว่าวันที่จะว่าอย่างไร ชาที่ดูดความชื้นไปแล้วก็ทิ้งเพื่อความปลอดภัยดีกว่า ก่อนชง ลองดมกลิ่นใบชาแห้งและสังเกตสีเป็นนิสัยจะช่วยได้มาก"
+    },
+    {
+     "h": "ก่อนทิ้งชาเก่า",
+     "p": "ใบชาที่กลิ่นจางแล้ว หากนำไปคั่วเบา ๆ ในกระทะแห้งด้วยไฟอ่อน ความหอมกรุ่นจะกลับมา โฮจิฉะของญี่ปุ่นก็ทำด้วยวิธีนี้ คือการคั่วเซ็นฉะนั่นเอง ใบชาที่คั่วแล้วดื่มได้เลย หรือชงเข้ม ๆ ใช้ประกอบอาหาร ใส่ใบชาแห้งในถุงผ้าเล็ก ๆ ไว้ดับกลิ่นในตู้รองเท้าและตู้เย็น หรือแช่ในน้ำอาบก็ได้ แต่ชาที่ขึ้นราห้ามนำไปใช้ทำอะไรทั้งสิ้น ให้ทิ้งไปเลย"
+    }
+   ],
+   "vi": [
+    {
+     "h": "Hạn bán và hạn dùng không giống nhau",
+     "p": "Từ năm 2023, Hàn Quốc chuyển cách ghi ngày trên thực phẩm từ 'hạn bán' sang 'hạn dùng'. Hạn bán chỉ khoảng thời gian sản phẩm được phép bày bán, còn hạn dùng chỉ khoảng thời gian vẫn ăn uống an toàn khi bảo quản đúng cách. Trà là thực phẩm khô với độ ẩm rất thấp, nên không hỏng ngay khi qua ngày in trên bao bì — với trà, ngày đó gần với 'thời gian hương vị ngon nhất' hơn là giới hạn an toàn. Nói cách khác, ngày tháng không phải ranh giới quyết định bỏ hay giữ, mà là chỉ dẫn cho biết khi nào hương và vị đang ở độ ngon nhất."
+    },
+    {
+     "h": "Mỗi loại trà để được bao lâu",
+     "p": "Ngắn nhất là trà xanh và matcha: chưa mở để được khoảng 6 tháng đến 1 năm, đã mở thì nên uống hết trong vài tháng. Hồng trà đã oxy hóa hoàn toàn nên để được lâu hơn, từ 1 đến 2 năm. Trà ô long khoảng 1 năm là chuẩn, loại rang đậm còn để lâu hơn nữa. Bạch trà và các loại hắc trà như phổ nhĩ, nếu bảo quản tốt, thú vị chính ở hương vị thay đổi theo năm tháng. Trà thảo mộc và trà pha trái cây dễ bay hương, nên dùng trong khoảng 1 năm."
+    },
+    {
+     "h": "Trà qua ngày rồi, uống được không?",
+     "p": "Trà đã qua ngày in vẫn thường uống được nếu không có mốc và không có mùi lạ, chỉ là hương sẽ nhạt đi và vị sẽ phẳng hơn trước. Ngược lại, nếu thấy mốc trên lá trà, hoặc ngửi thấy mùi mốc, mùi ẩm, hãy bỏ đi bất kể ngày tháng ghi thế nào. Trà đã hút ẩm cũng nên bỏ để an toàn. Trước khi pha, hãy tập thói quen ngửi lá trà khô và quan sát màu sắc."
+    },
+    {
+     "h": "Trước khi bỏ trà cũ đi",
+     "p": "Lá trà đã bay hương có thể lấy lại vị thơm rang nếu rang nhẹ trên chảo khô với lửa nhỏ — hōjicha của Nhật Bản chính là sencha được rang theo cách này. Lá trà sau khi rang có thể uống ngay, pha đậm để nấu ăn, hoặc cho lá khô vào túi vải nhỏ đặt trong tủ giày, tủ lạnh để khử mùi, cũng có thể ngâm vào nước tắm. Nhưng trà đã mốc thì tuyệt đối không dùng vào việc gì — hãy bỏ thẳng đi."
+    }
+   ],
+   "ar": [
+    {
+     "h": "تاريخ البيع وتاريخ الاستهلاك ليسا شيئًا واحدًا",
+     "p": "منذ عام 2023، غيّرت كوريا طريقة كتابة التاريخ على الأغذية من «تاريخ انتهاء البيع» إلى «تاريخ انتهاء الاستهلاك». كان تاريخ البيع يعني المدة التي يمكن خلالها عرض المنتج للبيع، أما تاريخ الاستهلاك فيعني المدة التي يبقى فيها آمنًا للأكل عند حفظه بالطريقة المحددة. الشاي غذاء جاف ذو رطوبة قليلة جدًا، فلا يفسد فور مرور التاريخ، والتاريخ المطبوع على عبوة الشاي أقرب إلى «فترة أفضل نكهة» منه إلى حدّ أمان. بعبارة أخرى، التاريخ ليس خطًا يقرر الرمي من عدمه، بل دليل يخبرنا متى تكون الرائحة والطعم في أفضل حالاتهما."
+    },
+    {
+     "h": "كم يدوم كل نوع؟",
+     "p": "الأقصر عمرًا هو الشاي الأخضر والماتشا: من 6 أشهر إلى سنة تقريبًا قبل الفتح، ويُفضّل إنهاؤه خلال بضعة أشهر بعد الفتح. الشاي الأسود مؤكسد بالكامل أصلًا، فيدوم أطول، من سنة إلى سنتين. وشاي الأولونغ يدوم نحو سنة، والمحمّص بقوة يدوم أكثر. أما الشاي الأبيض والشاي الداكن مثل بو إير، فإذا حُفظ جيدًا فمتعته في تغيّر نكهته مع مرور السنين. وخلطات الأعشاب والفواكه تفقد عطرها بسهولة، فليكن الهدف نحو سنة واحدة."
+    },
+    {
+     "h": "تجاوز التاريخ — هل يمكن شربه؟",
+     "p": "الشاي الذي تجاوز تاريخه يمكن شربه عادةً ما دام لا يوجد عفن ولا رائحة غريبة، وإن كانت رائحته أضعف وطعمه أخف من قبل. في المقابل، إذا رأيت عفنًا على الأوراق أو شممت رائحة عفن ورطوبة، فارمه مهما كان التاريخ. والشاي الذي امتصّ الرطوبة أيضًا يُفضَّل رميه حفاظًا على السلامة. قبل التحضير، اجعل من عادتك شمّ الأوراق الجافة وملاحظة لونها."
+    },
+    {
+     "h": "قبل أن ترمي الشاي القديم",
+     "p": "الأوراق التي فقدت عطرها يمكن أن تستعيد عمقًا محمّصًا إذا سُخّنت بلطف في مقلاة جافة على نار هادئة — فشاي الهوجيتشا الياباني يُصنع تمامًا بهذه الطريقة، بتحميص السينتشا. يمكن شرب الأوراق المُحياة كما هي، أو نقعها بقوة للطهي، أو وضع الأوراق الجافة في أكياس قماش صغيرة لإزالة الروائح من خزانة الأحذية والثلاجة، كما يمكن نقعها في ماء الاستحمام. أما الشاي المتعفن فلا يُستخدم لأي غرض — ارمه مباشرة."
+    }
+   ],
+   "ind": [
+    {
+     "h": "Tanggal jual dan tanggal konsumsi itu berbeda",
+     "p": "Sejak 2023, Korea mengganti penandaan tanggal pada makanan dari 'tanggal kedaluwarsa penjualan' menjadi 'tanggal kedaluwarsa konsumsi'. Tanggal penjualan berarti masa produk boleh dijual, sedangkan tanggal konsumsi berarti masa produk tetap aman dikonsumsi bila disimpan sesuai ketentuan. Teh adalah makanan kering dengan kadar air sangat rendah, sehingga tidak langsung rusak begitu tanggalnya lewat — tanggal pada kemasan teh lebih dekat artinya dengan 'masa rasa terbaik' daripada batas keamanan. Dengan kata lain, tanggal bukanlah garis penentu dibuang atau tidak, melainkan petunjuk kapan aroma dan rasa sedang berada pada kondisi terbaiknya."
+    },
+    {
+     "h": "Setiap jenis tahan berapa lama?",
+     "p": "Yang paling singkat adalah teh hijau dan matcha: sekitar 6 bulan sampai 1 tahun sebelum dibuka, dan setelah dibuka sebaiknya dihabiskan dalam beberapa bulan. Teh hitam sudah teroksidasi penuh, jadi lebih awet, 1 sampai 2 tahun. Teh oolong standarnya sekitar 1 tahun, dan yang sangrainya kuat bisa lebih lama lagi. Teh putih dan teh gelap seperti pu-erh, bila disimpan dengan baik, justru dinikmati karena rasanya yang berubah seiring waktu. Campuran herbal dan buah lebih mudah kehilangan aroma, jadi targetkan sekitar 1 tahun."
+    },
+    {
+     "h": "Sudah lewat tanggal — masih boleh diminum?",
+     "p": "Teh yang sudah lewat tanggal umumnya masih bisa diminum selama tidak berjamur dan tidak berbau aneh, meski aromanya akan lebih lemah dan rasanya lebih hambar dari sebelumnya. Sebaliknya, jika terlihat jamur pada daunnya, atau tercium bau apek dan lembap, buanglah apa pun tanggalnya. Teh yang sudah menyerap kelembapan juga lebih aman dibuang. Sebelum menyeduh, biasakan mencium aroma daun kering dan memeriksa warnanya."
+    },
+    {
+     "h": "Sebelum membuang teh lama",
+     "p": "Daun teh yang aromanya sudah hilang bisa mendapatkan kembali rasa sangrai yang gurih jika dipanaskan perlahan di wajan kering dengan api kecil — hōjicha dari Jepang dibuat persis dengan cara ini, yaitu menyangrai sencha. Daun yang sudah disangrai bisa langsung diminum, diseduh pekat untuk memasak, atau daun keringnya dimasukkan ke kantong kain kecil sebagai penghilang bau di lemari sepatu dan kulkas; bisa juga direndam dalam air mandi. Namun teh yang berjamur jangan dipakai untuk apa pun — buang saja langsung."
+    }
+   ],
+   "tur": [
+    {
+     "h": "Satış tarihi ile tüketim tarihi aynı şey değildir",
+     "p": "Kore, 2023'ten itibaren gıda tarihlerinde eski satış son tarihinin yerine tüketim son tarihini kullanmaya başladı. Satış tarihi, ürünün satılabileceği süreyi gösterirken; tüketim tarihi, belirtilen şekilde saklandığında güvenle yenebileceği süreyi gösterir. Çay, nemi çok az olan kuru bir gıdadır; tarihi geçti diye hemen bozulmaz — çayda ambalajdaki tarih, bir güvenlik sınırından çok 'en iyi lezzet dönemi'ne yakındır. Yani tarih, atıp atmamaya karar veren bir çizgi değil, aroma ve tadın en iyi olduğu zamanı bildiren bir rehberdir."
+    },
+    {
+     "h": "Her tür ne kadar dayanır?",
+     "p": "En kısa dayananlar yeşil çay ve matcha'dır: açılmadan yaklaşık 6 ay ile 1 yıl, açıldıktan sonra ise birkaç ay içinde bitirmek en iyisidir. Siyah çay zaten tamamen okside olduğu için 1 ila 2 yıl ile daha uzun dayanır. Oolong için ölçü yaklaşık 1 yıldır; güçlü kavrumlu olanlar daha da uzun dayanır. Beyaz çay ile pu-erh gibi koyu çaylar, iyi saklandığında lezzetinin yıllarla değişmesinden keyif alınan çaylardır. Bitki ve meyve harmanları kokusunu daha kolay kaybeder; onlar için yaklaşık 1 yılı hedefleyin."
+    },
+    {
+     "h": "Tarihi geçti — yine de içilebilir mi?",
+     "p": "Tarihi geçmiş çay, küf yoksa ve tuhaf bir koku gelmiyorsa genellikle hâlâ içilebilir; ancak aroması zayıflamış, tadı da eskisine göre yavanlaşmış olur. Buna karşılık, yapraklarda küf görürseniz ya da küflü, nemli bir koku alırsanız, tarih ne olursa olsun atın. Nem çekmiş çayı da güvenlik için atmak daha doğrudur. Demlemeden önce kuru yaprakları koklayıp rengine bakmayı alışkanlık edinin."
+    },
+    {
+     "h": "Eski çayı atmadan önce",
+     "p": "Aromasını kaybetmiş yapraklar, kuru bir tavada kısık ateşte hafifçe ısıtılırsa kavrulmuş lezzetini geri kazanır — Japonya'nın hōjicha'sı tam da böyle, sencha kavrularak yapılır. Canlanan yapraklar olduğu gibi içilebilir, koyu demlenip yemeklerde kullanılabilir ya da kuru yapraklar küçük bez torbalara konup ayakkabılık ve buzdolabında koku giderici olarak kullanılabilir; banyo suyuna demlemek de bir seçenektir. Ancak küflenmiş çay hiçbir amaçla kullanılmamalı — doğrudan atılmalıdır."
+    }
+   ],
+   "es": [
+    {
+     "h": "La fecha de venta y la de consumo no son lo mismo",
+     "p": "Desde 2023, Corea marca los alimentos con fecha de consumo en lugar de la antigua fecha límite de venta. La fecha de venta indicaba cuánto tiempo podía venderse un producto; la fecha de consumo indica cuánto tiempo sigue siendo seguro comerlo si se guarda como se indica. El té es un alimento seco con muy poca humedad, así que no se echa a perder en cuanto pasa la fecha: en el té, la fecha impresa se acerca más a un «periodo de mejor sabor» que a un límite de seguridad. En otras palabras, la fecha no es la línea que decide si se tira o no, sino una guía que indica cuándo el aroma y el sabor están en su mejor momento."
+    },
+    {
+     "h": "¿Cuánto dura cada tipo?",
+     "p": "Los que menos duran son el té verde y el matcha: de 6 meses a 1 año sin abrir, y una vez abiertos conviene terminarlos en pocos meses. El té negro ya está totalmente oxidado, así que dura más, de 1 a 2 años. El oolong ronda 1 año como referencia, y los de tueste fuerte duran aún más. El té blanco y los tés oscuros como el pu-erh, bien guardados, se disfrutan precisamente porque su sabor cambia con los años. Las mezclas de hierbas y frutas pierden su fragancia con más facilidad, así que apunta a alrededor de 1 año."
+    },
+    {
+     "h": "Ya pasó la fecha, ¿se puede tomar?",
+     "p": "El té que pasó su fecha normalmente aún se puede tomar mientras no tenga moho ni un olor extraño, aunque el aroma será más débil y el sabor más plano que antes. En cambio, si ves moho en las hojas o huelen a humedad y a moho, tíralo diga lo que diga la fecha. El té que ha absorbido humedad también es más seguro desecharlo. Antes de prepararlo, acostúmbrate a oler las hojas secas y mirar su color."
+    },
+    {
+     "h": "Antes de tirar el té viejo",
+     "p": "Las hojas que han perdido su aroma pueden recuperar un fondo tostado si las calientas suavemente en una sartén seca a fuego bajo: el hōjicha japonés se hace exactamente así, tostando sencha. Las hojas revividas se pueden tomar tal cual, infusionarlas fuertes para cocinar, o poner hojas secas en bolsitas de tela como desodorizante para el zapatero y la nevera; también puedes infusionarlas en el agua del baño. Pero el té con moho no debe usarse para nada: tíralo directamente."
+    }
+   ],
+   "fr": [
+    {
+     "h": "Date de vente et date de consommation, ce n'est pas pareil",
+     "p": "Depuis 2023, la Corée indique sur les aliments une date limite de consommation plutôt que l'ancienne date limite de vente. La date de vente indiquait la période pendant laquelle un produit pouvait être vendu ; la date de consommation indique la période pendant laquelle il reste sûr à manger s'il est conservé comme indiqué. Le thé est un aliment sec très pauvre en humidité : il ne s'abîme donc pas dès que la date passe — pour le thé, la date imprimée tient davantage d'une « période de meilleure saveur » que d'une limite de sécurité. Autrement dit, la date n'est pas la ligne qui décide si l'on jette ou non, mais un repère qui indique quand l'arôme et le goût sont à leur meilleur."
+    },
+    {
+     "h": "Combien de temps pour chaque type ?",
+     "p": "Les plus courts sont le thé vert et le matcha : environ 6 mois à 1 an non ouverts, et à finir dans les quelques mois une fois ouverts. Le thé noir, déjà entièrement oxydé, dure plus longtemps, de 1 à 2 ans. L'oolong se situe autour d'1 an, et les oolongs fortement torréfiés durent encore plus. Le thé blanc et les thés sombres comme le pu-erh, bien conservés, se dégustent justement pour la façon dont leur saveur évolue avec les années. Les mélanges d'herbes et de fruits perdent leur parfum plus facilement : visez environ 1 an."
+    },
+    {
+     "h": "La date est passée — peut-on encore le boire ?",
+     "p": "Un thé dont la date est passée peut en général encore se boire tant qu'il n'y a ni moisissure ni odeur étrange, même si l'arôme sera plus faible et le goût plus plat qu'avant. En revanche, si vous voyez de la moisissure sur les feuilles ou si elles sentent le moisi et l'humidité, jetez-les quelle que soit la date. Le thé qui a absorbé de l'humidité est lui aussi plus sûr à jeter. Avant d'infuser, prenez l'habitude de sentir les feuilles sèches et d'observer leur couleur."
+    },
+    {
+     "h": "Avant de jeter un vieux thé",
+     "p": "Des feuilles qui ont perdu leur arôme peuvent retrouver une profondeur toastée si vous les chauffez doucement dans une poêle sèche à feu doux — le hōjicha japonais est fabriqué exactement ainsi, en torréfiant du sencha. Les feuilles ravivées peuvent se boire telles quelles, être infusées fortes pour la cuisine, ou, sèches, être mises dans de petits sachets en tissu comme désodorisant pour le meuble à chaussures et le réfrigérateur ; on peut aussi les infuser dans l'eau du bain. Mais un thé moisi ne doit servir à rien : jetez-le directement."
+    }
+   ],
+   "ms": [
+    {
+     "h": "Tarikh jualan dan tarikh penggunaan tidak sama",
+     "p": "Sejak 2023, Korea melabel makanan dengan tarikh luput penggunaan menggantikan tarikh luput jualan yang lama. Tarikh jualan bermaksud tempoh produk boleh dijual, manakala tarikh penggunaan bermaksud tempoh produk kekal selamat dimakan apabila disimpan mengikut cara yang ditetapkan. Teh ialah makanan kering dengan kelembapan yang sangat sedikit, jadi ia tidak rosak sebaik sahaja tarikhnya berlalu — bagi teh, tarikh yang tercetak lebih dekat maksudnya dengan 'tempoh rasa terbaik' berbanding had keselamatan. Dengan kata lain, tarikh bukanlah garis penentu sama ada dibuang atau tidak, tetapi panduan yang memberitahu bila aroma dan rasa berada pada tahap terbaik."
+    },
+    {
+     "h": "Setiap jenis tahan berapa lama?",
+     "p": "Paling singkat ialah teh hijau dan matcha: kira-kira 6 bulan hingga 1 tahun sebelum dibuka, dan selepas dibuka sebaiknya dihabiskan dalam beberapa bulan. Teh hitam sudah teroksida sepenuhnya, jadi tahan lebih lama, 1 hingga 2 tahun. Teh oolong sekitar 1 tahun sebagai penanda aras, dan yang dipanggang kuat tahan lebih lama lagi. Teh putih dan teh gelap seperti pu-erh, jika disimpan dengan baik, memang dinikmati kerana rasanya yang berubah mengikut tahun. Adunan herba dan buah lebih mudah kehilangan harumannya, jadi sasarkan sekitar 1 tahun."
+    },
+    {
+     "h": "Sudah lepas tarikh — masih boleh diminum?",
+     "p": "Teh yang telah melepasi tarikhnya lazimnya masih boleh diminum selagi tiada kulat dan tiada bau pelik, walaupun aromanya lebih lemah dan rasanya lebih tawar daripada sebelumnya. Sebaliknya, jika kelihatan kulat pada daun atau terbau hapak dan lembap, buang sahaja walau apa pun tarikhnya. Teh yang telah menyerap kelembapan juga lebih selamat dibuang. Sebelum membancuh, biasakan menghidu daun kering dan memeriksa warnanya."
+    },
+    {
+     "h": "Sebelum membuang teh lama",
+     "p": "Daun teh yang telah hilang aromanya boleh mendapat semula rasa panggang yang harum jika dipanaskan perlahan-lahan dalam kuali kering atas api kecil — hōjicha Jepun dibuat tepat dengan cara ini, iaitu memanggang sencha. Daun yang dipanggang itu boleh terus diminum, dibancuh pekat untuk masakan, atau daun keringnya dimasukkan ke dalam uncang kain kecil sebagai penyahbau dalam almari kasut dan peti sejuk; ia juga boleh direndam dalam air mandian. Tetapi teh yang berkulat tidak boleh digunakan untuk apa-apa pun — buang sahaja terus."
+    }
+   ]
+  },
+  "related": [
+   "green-sencha",
+   "green-matcha"
+  ]
+ },
+ {
   "body": {
    "en": [
     {
@@ -7407,5 +7722,380 @@ window.TEAFaiCulture = [
    "ne": "The Leafies 2026 — विश्वका वर्षका चियाहरू",
    "ms": "The Leafies 2026 — Teh Terbaik Dunia Tahun Ini"
   }
+ },
+ {
+  "id": "basics-puerh",
+  "img": "images/culture/basics-puerh.jpg",
+  "cat": "basics",
+  "title": {
+   "ko": "보이차에 대한 오해와 진실",
+   "en": "Pu-erh Tea: Myths and Facts",
+   "zh-CN": "关于普洱茶的误解与真相",
+   "zh-TW": "關於普洱茶的誤解與真相",
+   "ja": "プーアル茶への誤解と真実",
+   "yue": "普洱茶嘅誤解同真相",
+   "hi": "पु-एर चाय: मिथक और सच",
+   "th": "ความเข้าใจผิดและความจริงเกี่ยวกับชาผู่เอ๋อร์",
+   "vi": "Những hiểu lầm và sự thật về trà phổ nhĩ",
+   "ar": "شاي بوير: بين الأساطير والحقائق",
+   "ind": "Teh Pu-erh: Mitos dan Fakta",
+   "tur": "Pu-erh Çayı: Yanlış Bilinenler ve Gerçekler",
+   "es": "Té pu-erh: mitos y realidades",
+   "fr": "Le thé pu-erh : idées reçues et réalités",
+   "ms": "Teh Pu-erh: Mitos dan Fakta"
+  },
+  "summary": {
+   "ko": "보이차에는 유난히 소문이 많습니다. 오래될수록 무조건 좋다, 곰팡이 냄새가 나야 진짜다, 다이어트와 해독에 특효다 — 어디까지가 사실일까요. 생차와 숙차의 차이부터 보관 상태를 가르는 법까지, 보이차를 둘러싼 오해를 하나씩 정리했습니다.",
+   "en": "Pu-erh attracts more rumors than almost any other tea. Older is always better, real pu-erh should smell of mold, it works wonders for dieting and detox — how much of that is true? From the difference between raw and ripe pu-erh to spotting badly stored tea, this article sorts through the myths one by one.",
+   "zh-CN": "普洱茶身上的传闻格外多：越陈越好、必须有霉味才是真的、对减肥和排毒有特效——哪些是真的？本文从生茶与熟茶的区别，到如何分辨仓储出了问题的茶，逐一梳理关于普洱茶的误解。",
+   "zh-TW": "普洱茶身上的傳聞特別多：越陳越好、必須有霉味才是真的、對減肥和排毒有特效——哪些是真的？本文從生茶與熟茶的區別，到如何分辨倉儲出了問題的茶，逐一梳理關於普洱茶的誤解。",
+   "ja": "プーアル茶にはとりわけ噂が多くつきまといます。古いほど無条件に良い、カビの匂いがしてこそ本物、ダイエットや解毒に特効——どこまでが本当でしょう。生茶と熟茶の違いから、保管に失敗した茶の見分け方まで、プーアル茶をめぐる誤解を一つずつ整理しました。",
+   "yue": "普洱茶身上特別多傳聞：越耐越好、有霉味先至係真、減肥排毒有特效——到底邊啲係真？呢篇由生茶同熟茶嘅分別講起，到點樣分辨倉存出問題嘅茶，逐一拆解關於普洱茶嘅誤解。",
+   "hi": "पु-एर चाय के बारे में अफ़वाहें सबसे ज़्यादा हैं। जितनी पुरानी, उतनी अच्छी; असली पु-एर में फफूँद की गंध आनी चाहिए; वज़न घटाने और डिटॉक्स का रामबाण — इनमें कितना सच है? कच्ची और पकी पु-एर के फ़र्क़ से लेकर ख़राब ढंग से रखी चाय को पहचानने तक, यह लेख एक-एक करके भ्रम दूर करता है।",
+   "th": "ชาผู่เอ๋อร์เป็นชาที่มีเรื่องเล่าลือมากที่สุด ยิ่งเก่ายิ่งดีเสมอไป มีกลิ่นราถึงจะเป็นของแท้ ช่วยลดน้ำหนักและขับสารพิษได้เป็นพิเศษ — จริงแค่ไหน บทความนี้ไล่เรียงความเข้าใจผิดทีละข้อ ตั้งแต่ความต่างของผู่เอ๋อร์ดิบและผู่เอ๋อร์สุก ไปจนถึงวิธีดูชาที่เก็บมาไม่ดี",
+   "vi": "Phổ nhĩ là loại trà có nhiều tin đồn nhất. Càng để lâu càng tốt, phải có mùi mốc mới là thật, đặc biệt hiệu quả cho giảm cân và giải độc — đâu là sự thật? Bài viết này gỡ từng hiểu lầm, từ khác biệt giữa phổ nhĩ sống và chín đến cách nhận biết trà bảo quản kém.",
+   "ar": "قلّما يحيط بشايٍ ما هذا الكم من الشائعات كما يحيط بالبوير: كلما كان أقدم كان أفضل، ولا يكون أصليًا إلا إذا شممت فيه رائحة العفن، وهو معجزة للتنحيف وإزالة السموم — فما مدى صحة ذلك؟ يفرز هذا المقال الأساطير واحدة تلو الأخرى، من الفرق بين البوير النيء والناضج إلى كيفية تمييز الشاي المخزَّن بشكل سيئ.",
+   "ind": "Pu-erh dikelilingi lebih banyak rumor daripada teh mana pun. Semakin tua semakin baik, pu-erh asli harus berbau apek, mujarab untuk diet dan detoks — seberapa benar semua itu? Artikel ini mengurai mitosnya satu per satu, dari perbedaan pu-erh mentah dan matang hingga cara mengenali teh yang disimpan dengan buruk.",
+   "tur": "Pu-erh kadar hakkında söylenti dolaşan çay azdır. Eskidikçe koşulsuz daha iyi olur, gerçek pu-erh küf kokmalıdır, zayıflama ve detoksta mucizedir — bunların ne kadarı doğru? Bu yazı, çiğ ve olgun pu-erh arasındaki farktan kötü saklanmış çayı tanımaya kadar, yanlış bilinenleri tek tek ele alıyor.",
+   "es": "Pocos tés acumulan tantos rumores como el pu-erh. Cuanto más viejo, mejor sin condiciones; el pu-erh auténtico debe oler a moho; es milagroso para adelgazar y desintoxicar — ¿cuánto hay de cierto? Este artículo repasa los mitos uno a uno, desde la diferencia entre pu-erh crudo y maduro hasta cómo reconocer un té mal almacenado.",
+   "fr": "Peu de thés traînent autant de rumeurs que le pu-erh. Plus il est vieux, meilleur il serait sans condition ; un vrai pu-erh devrait sentir le moisi ; il serait miraculeux pour maigrir et se détoxifier — qu'en est-il vraiment ? Cet article passe les idées reçues en revue, de la différence entre pu-erh brut et mûr à la façon de reconnaître un thé mal conservé.",
+   "ms": "Hanya sedikit teh yang dikelilingi khabar angin sebanyak pu-erh. Semakin tua semakin baik tanpa syarat, pu-erh asli mesti berbau kulat, mujarab untuk langsing dan detoks — sejauh mana benarnya? Artikel ini menyemak mitos satu demi satu, daripada perbezaan pu-erh mentah dan matang hingga cara mengenal pasti teh yang disimpan dengan buruk."
+  },
+  "body": {
+   "ko": [
+    {
+     "h": "보이차란 무엇인가",
+     "p": "보이차는 중국 윈난성의 대엽종 찻잎으로 만드는 흑차입니다. 살청한 잎을 햇볕에 말린 쇄청 모차를 원료로 삼고, 이후 미생물이 관여하는 후발효를 거치며 맛이 계속 변해 갑니다. 둥글게 눌러 만든 병차, 벽돌 모양의 전차, 사발 모양의 타차처럼 단단히 눌러 만든 긴압 형태가 많습니다. 서쌍판납과 임창, 보이(푸얼) 일대가 대표 산지로 꼽힙니다."
+    },
+    {
+     "h": "생차와 숙차, 둘 다 진짜다",
+     "p": "보이차는 생차와 숙차로 나뉩니다. 생차는 모차를 그대로 눌러 두거나 산차로 보관하며 오랜 세월에 걸쳐 천천히 변해 가는 차입니다. 숙차는 1973년 무렵 쿤밍차창 등에서 개발된 '악퇴' 발효로 만든 차로, 모차를 쌓아 물을 뿌리고 덮어 미생물 발효를 빠르게 진행시켜 생차의 긴 변화를 앞당긴 방식입니다. 숙차는 가짜나 저급품이 아니라, 부드럽고 진한 맛을 짧은 시간에 얻으려는 또 하나의 보이차입니다."
+    },
+    {
+     "h": "'오래될수록 좋다'는 말의 조건",
+     "p": "보이차에서 숙성이 의미를 가지려면 출발점이 좋아야 합니다. 원료가 좋은 잎이고, 통풍이 되면서도 지나치게 습하지 않은 건전한 환경에서 보관된 차라야 세월이 맛으로 바뀝니다. 덥고 습한 창고에서 곰팡내가 밴 차는 아무리 오래돼도 좋은 차가 되지 못합니다. 포장에 적힌 연도나 가격표의 숫자보다, 잎의 상태가 깨끗한지, 우렸을 때 향과 맛이 맑은지를 보고 판단하세요."
+    },
+    {
+     "h": "곰팡이 냄새가 나야 진짜일까",
+     "p": "잘 숙성된 보이차에서는 대추나 말린 과일, 나무와 약재를 닮은 깊고 부드러운 향이 납니다. 반대로 코를 찌르는 강한 곰팡내, 지하 창고 같은 퀴퀴한 냄새는 발효의 개성이 아니라 보관 실패의 신호입니다. 잎에 하얗거나 푸른 곰팡이가 눈에 보인다면 마시지 말고 버리세요. 향이 조금 독특하다는 것과 차가 상했다는 것은 다른 이야기입니다."
+    },
+    {
+     "h": "다이어트와 해독, 어디까지 믿을까",
+     "p": "보이차가 다이어트나 해독에 특별한 효과가 있다는 소문이 있지만, 보이차도 결국 카페인이 들어 있는 차 한 종류일 뿐 약이 아닙니다. 식후에 따뜻하게 한잔 마시는 습관은 좋지만, 차 한 잔에 특별한 약효를 기대하기는 어렵습니다. 또 첫 우림을 버리는 '세차'는 독을 빼는 과정이 아니라, 먼지를 헹구고 단단히 뭉친 잎을 풀어 깨우는 준비 과정입니다."
+    }
+   ],
+   "en": [
+    {
+     "h": "What is pu-erh tea?",
+     "p": "Pu-erh is a dark tea made from large-leaf tea plants in China's Yunnan Province. Its base material is maocha — leaves that are pan-fired and then dried in the sun (shaiqing) — and the tea keeps changing afterwards through post-fermentation driven by microbes. Much of it is pressed into compact shapes: round cakes (bingcha), bricks (zhuancha), and bowl-shaped tuocha. Xishuangbanna, Lincang, and the Pu'er region are its best-known producing areas."
+    },
+    {
+     "h": "Raw and ripe — both are real pu-erh",
+     "p": "Pu-erh comes in two kinds. Raw (sheng) pu-erh is maocha pressed or kept loose and left to change slowly over many years. Ripe (shou) pu-erh is made with wodui, or 'wet piling', a method developed around 1973 at factories such as the Kunming Tea Factory: the maocha is piled up, sprinkled with water, and covered so microbial fermentation runs quickly, bringing forward the kind of change raw pu-erh needs years to reach. Ripe pu-erh is not a fake or an inferior copy — it is another kind of pu-erh, made for a smooth, deep flavor in a shorter time."
+    },
+    {
+     "h": "When 'older is better' actually holds",
+     "p": "Aging only means something when the starting point is good. The leaves must be sound to begin with, and the tea must be stored in a clean environment — ventilated, but not excessively damp — for time to turn into flavor. Tea that has picked up a moldy smell in a hot, humid warehouse does not become good tea no matter how old it gets. Judge by the state of the leaves and the clarity of the aroma and taste in the cup, not by the year printed on the wrapper or the size of the number on the price tag."
+    },
+    {
+     "h": "Should real pu-erh smell like mold?",
+     "p": "Well-aged pu-erh smells deep and mellow — like jujube or dried fruit, wood, and gentle medicinal herbs. A sharp, nose-stinging mold smell, or the stuffy odor of a damp cellar, is not fermentation character; it is a sign the storage went wrong. If you can see white or green mold on the leaves, don't drink it — throw it away. A slightly unusual aroma and a spoiled tea are two different things."
+    },
+    {
+     "h": "Diet and detox claims — how far to trust them",
+     "p": "You may hear that pu-erh is especially effective for dieting or detoxing, but in the end it is one more tea with caffeine in it, not a medicine. A warm cup after a meal is a fine habit, but no cup of tea should be expected to work like a drug. And the first rinse, called 'washing the tea', is not about removing poison — it rinses off dust and wakes up tightly pressed leaves so they can open."
+    }
+   ],
+   "zh-CN": [
+    {
+     "h": "什么是普洱茶",
+     "p": "普洱茶是以中国云南大叶种茶树的鲜叶制成的黑茶。原料是杀青后经日光晒干的晒青毛茶，之后在微生物参与下进行后发酵，风味随时间不断变化。它多被压制成紧压形状：圆饼形的饼茶、砖形的砖茶、碗形的沱茶。西双版纳、临沧和普洱一带是最具代表性的产区。"
+    },
+    {
+     "h": "生茶与熟茶，都是真的",
+     "p": "普洱茶分为生茶和熟茶。生茶是把毛茶直接压制或散存，在漫长的岁月里慢慢变化的茶。熟茶则采用1973年前后由昆明茶厂等开发的'渥堆'发酵：把毛茶堆起来、洒水、覆盖，让微生物发酵快速进行，把生茶需要多年才能完成的变化提前。熟茶不是假货，也不是低等品，而是为了在较短时间内得到醇厚口感的另一种普洱茶。"
+    },
+    {
+     "h": "'越陈越香'成立的条件",
+     "p": "对普洱茶来说，存放要有意义，前提是起点要好：原料本身要过关，存放环境要干净——通风但不过分潮湿——时间才能转化成风味。在又热又湿的仓库里染上霉味的茶，放再久也不会变成好茶。与其看包装上的年份或价签上的数字，不如看叶底是否干净、冲泡后香气和滋味是否清爽。"
+    },
+    {
+     "h": "有霉味才是真的吗",
+     "p": "存放得当的普洱茶，会有红枣、干果、木质和药材般深沉柔和的香气。相反，刺鼻的霉味、像地下仓库的闷味，不是发酵的个性，而是仓储失败的信号。如果叶片上能看到白色或绿色的霉，就不要喝，直接扔掉。香气有点特别，和变质了，是两回事。"
+    },
+    {
+     "h": "减肥与排毒的说法，该信几分",
+     "p": "常有人说普洱茶对减肥、排毒特别有效，但普洱茶说到底也只是含咖啡因的一种茶，不是药。饭后喝一杯温热的茶是好习惯，但不要指望一杯茶有药效。另外，冲泡时倒掉第一泡的'洗茶'，不是在排毒，而是冲掉灰尘、让压紧的茶叶舒展开来的准备步骤。"
+    }
+   ],
+   "zh-TW": [
+    {
+     "h": "什麼是普洱茶",
+     "p": "普洱茶是以中國雲南大葉種茶樹的鮮葉製成的黑茶。原料是殺青後經日光曬乾的曬青毛茶，之後在微生物參與下進行後發酵，風味隨時間不斷變化。它多被壓製成緊壓形狀：圓餅形的餅茶、磚形的磚茶、碗形的沱茶。西雙版納、臨滄和普洱一帶是最具代表性的產區。"
+    },
+    {
+     "h": "生茶與熟茶，都是真的",
+     "p": "普洱茶分為生茶和熟茶。生茶是把毛茶直接壓製或散存，在漫長的歲月裡慢慢變化的茶。熟茶則採用1973年前後由昆明茶廠等開發的「渥堆」發酵：把毛茶堆起來、灑水、覆蓋，讓微生物發酵快速進行，把生茶需要多年才能完成的變化提前。熟茶不是假貨，也不是低等品，而是為了在較短時間內得到醇厚口感的另一種普洱茶。"
+    },
+    {
+     "h": "「越陳越香」成立的條件",
+     "p": "對普洱茶來說，存放要有意義，前提是起點要好：原料本身要過關，存放環境要乾淨——通風但不過分潮濕——時間才能轉化成風味。在又熱又濕的倉庫裡染上霉味的茶，放再久也不會變成好茶。與其看包裝上的年份或價籤上的數字，不如看葉底是否乾淨、沖泡後香氣和滋味是否清爽。"
+    },
+    {
+     "h": "有霉味才是真的嗎",
+     "p": "存放得當的普洱茶，會有紅棗、乾果、木質和藥材般深沉柔和的香氣。相反，刺鼻的霉味、像地下倉庫的悶味，不是發酵的個性，而是倉儲失敗的信號。如果葉片上能看到白色或綠色的霉，就不要喝，直接丟掉。香氣有點特別，和變質了，是兩回事。"
+    },
+    {
+     "h": "減肥與排毒的說法，該信幾分",
+     "p": "常有人說普洱茶對減肥、排毒特別有效，但普洱茶說到底也只是含咖啡因的一種茶，不是藥。飯後喝一杯溫熱的茶是好習慣，但不要指望一杯茶有藥效。另外，沖泡時倒掉第一泡的「洗茶」，不是在排毒，而是沖掉灰塵、讓壓緊的茶葉舒展開來的準備步驟。"
+    }
+   ],
+   "ja": [
+    {
+     "h": "プーアル茶とは何か",
+     "p": "プーアル茶は、中国雲南省の大葉種の茶葉から作る黒茶です。殺青した葉を日光で乾かした曬青の毛茶を原料とし、その後、微生物が関わる後発酵を経て味わいが変化し続けます。円盤状の餅茶、レンガ状の磚茶、お椀状の沱茶など、固く圧し固めた緊圧の形が多いのが特徴です。シーサンパンナ、臨滄、普洱（プーアル）一帯が代表的な産地です。"
+    },
+    {
+     "h": "生茶と熟茶、どちらも本物",
+     "p": "プーアル茶は生茶と熟茶に分かれます。生茶は毛茶をそのまま固めるか散茶で保管し、長い年月をかけてゆっくり変化していく茶です。熟茶は1973年ごろ、昆明茶廠などで開発された「渥堆」発酵で作られます。毛茶を積み上げて水を撒き、覆いをかけて微生物発酵を速く進め、生茶が何年もかける変化を前倒しした製法です。熟茶は偽物でも低級品でもなく、まろやかで濃い味わいを短い時間で得るための、もう一つのプーアル茶です。"
+    },
+    {
+     "h": "「古いほど良い」に条件がある",
+     "p": "プーアル茶で熟成に意味があるのは、出発点が良い場合に限ります。原料の葉が良く、風通しはあっても湿りすぎない健全な環境で保管された茶でなければ、歳月は味に変わりません。暑く湿った倉庫でカビ臭がついた茶は、いくら古くても良い茶にはなりません。包装に書かれた年号や値札の数字より、葉の状態がきれいか、淹れたときの香りと味が澄んでいるかで判断しましょう。"
+    },
+    {
+     "h": "カビ臭くなければ本物ではない？",
+     "p": "よく熟成したプーアル茶からは、ナツメやドライフルーツ、木や薬草を思わせる深く柔らかな香りがします。反対に、鼻を刺す強いカビ臭や、地下倉庫のようなこもった匂いは、発酵の個性ではなく保管失敗のサインです。葉に白や緑のカビが見えたら、飲まずに捨ててください。香りが少し独特であることと、傷んでいることは別の話です。"
+    },
+    {
+     "h": "ダイエットと解毒の噂はどこまで",
+     "p": "プーアル茶がダイエットや解毒に特別な効果があるという噂がありますが、プーアル茶も結局はカフェインを含む茶の一種で、薬ではありません。食後に温かく一杯飲む習慣は良いものですが、お茶一杯に特別な薬効を期待するのは難しいことです。また、最初の一煎を捨てる「洗茶」は毒を抜く作業ではなく、ほこりを流し、固く圧し固められた葉をほぐして目覚めさせる準備の工程です。"
+    }
+   ],
+   "yue": [
+    {
+     "h": "普洱茶係乜嘢",
+     "p": "普洱茶係用中國雲南大葉種茶葉做嘅黑茶。原料係殺青之後用陽光曬乾嘅曬青毛茶，之後經過微生物參與嘅後發酵，味道會隨住時間慢慢變。好多普洱茶會壓到實一實：圓餅形嘅餅茶、磚形嘅磚茶、同埋碗形嘅沱茶都係常見嘅緊壓形狀。西雙版納、臨滄同普洱一帶係最出名嘅產區。"
+    },
+    {
+     "h": "生茶同熟茶，兩個都係真",
+     "p": "普洱茶分生茶同熟茶。生茶係將毛茶直接壓起或者散存，喺漫長歲月裡面慢慢變化嘅茶。熟茶就用咗1973年左右由昆明茶廠等開發嘅「渥堆」發酵：將毛茶堆起、灑水、蓋住，令微生物發酵行得快啲，將生茶要用好多年先完成嘅變化提早做到。熟茶唔係假貨，亦都唔係低等品，而係想喺短啲時間入面得到醇厚口感嘅另一種普洱茶。"
+    },
+    {
+     "h": "「越陳越好」係有條件嘅",
+     "p": "普洱茶嘅存放要有意義，前提係起點要好：原料本身要過關，存放環境要乾淨——通風但唔好太潮濕——時間先可以變成風味。喺又熱又濕嘅倉庫入面染咗霉味嘅茶，擺幾耐都唔會變成好茶。唔好淨係睇包裝上面嘅年份或者價錢牌嘅數字，要睇葉底乾唔乾淨、沖出嚟嘅香氣同味道清唔清爽。"
+    },
+    {
+     "h": "有霉味先至係真？",
+     "p": "存放得好嘅普洱茶，會有紅棗、乾果、木同藥材嗰種深沉柔和嘅香氣。相反，攻鼻嘅霉味、好似地下倉庫咁嘅焗味，唔係發酵嘅個性，而係倉存失敗嘅信號。如果葉上面見到白色或者綠色嘅霉，就唔好飲，直接掉咗佢。香氣有少少特別，同變壞咗，係兩回事嚟㗎。"
+    },
+    {
+     "h": "減肥同排毒嘅傳聞，信得幾多",
+     "p": "成日聽人講普洱茶對減肥、排毒特別有效，但普洱茶講到底都係有咖啡因嘅一種茶，唔係藥。食完飯飲杯熱茶係好習慣，但唔好期望一杯茶會有藥效。另外，沖茶嗰陣倒咗第一泡嘅「洗茶」，唔係排毒，而係沖走塵埃、令壓到實一實嘅茶葉鬆開醒返嘅準備工夫。"
+    }
+   ],
+   "hi": [
+    {
+     "h": "पु-एर चाय क्या है",
+     "p": "पु-एर चीन के युन्नान प्रांत की बड़ी पत्तियों वाली चाय से बनने वाली डार्क टी है। इसका कच्चा माल माओचा है — पत्तियाँ जिन्हें कड़ाही में सेंककर धूप में सुखाया जाता है (शाईक़िंग) — और इसके बाद सूक्ष्मजीवों की भूमिका वाला उत्तर-किण्वन होता रहता है, जिससे स्वाद समय के साथ बदलता है। इसे अक्सर दबाकर आकार दिया जाता है: गोल टिक्की जैसी बिंगचा, ईंट जैसी झुआनचा और कटोरी जैसी तुओचा। शीशुआंगबान्ना, लिनकांग और पु-एर इलाका इसके सबसे जाने-माने क्षेत्र हैं।"
+    },
+    {
+     "h": "कच्ची और पकी — दोनों असली पु-एर हैं",
+     "p": "पु-एर दो तरह की होती है। कच्ची (शेंग) पु-एर माओचा को दबाकर या खुला रखकर कई वर्षों में धीरे-धीरे बदलने के लिए छोड़ दी जाती है। पकी (शोउ) पु-एर 'वोदुई' यानी गीले ढेर वाली विधि से बनती है, जो लगभग 1973 में कुनमिंग टी फ़ैक्टरी जैसी जगहों पर विकसित हुई: माओचा का ढेर लगाकर पानी छिड़का और ढक दिया जाता है, ताकि सूक्ष्मजीवीय किण्वन तेज़ी से हो और वह बदलाव जल्दी आ जाए जिसमें कच्ची पु-एर को वर्षों लगते हैं। पकी पु-एर नकली या घटिया नहीं है — यह मुलायम और गहरे स्वाद के लिए बनाई गई दूसरी तरह की पु-एर है।"
+    },
+    {
+     "h": "'जितनी पुरानी उतनी अच्छी' कब सच है",
+     "p": "एजिंग का मतलब तभी है जब शुरुआत अच्छी हो। पत्तियाँ पहले से अच्छी हों और चाय साफ़ माहौल में रखी गई हो — हवादार, लेकिन ज़रूरत से ज़्यादा नम नहीं — तभी समय स्वाद में बदलता है। गर्म, नम गोदाम में फफूँद की गंध पकड़ चुकी चाय कितनी भी पुरानी हो जाए, अच्छी चाय नहीं बनती। रैपर पर छपे साल या कीमत के अंक से नहीं, पत्तियों की हालत और कप में सुगंध व स्वाद की साफ़गोई से परखें।"
+    },
+    {
+     "h": "क्या असली पु-एर में फफूँद की गंध आनी चाहिए?",
+     "p": "अच्छी तरह एज हुई पु-एर में गहरी, मुलायम खुशबू होती है — बेर या सूखे मेवे, लकड़ी और हल्की औषधीय जड़ी-बूटियों जैसी। इसके उलट, नाक में चुभने वाली तेज़ फफूँद की गंध या नम तहख़ाने जैसी घुटी हुई बू किण्वन का चरित्र नहीं, ग़लत भंडारण का संकेत है। अगर पत्तियों पर सफ़ेद या हरी फफूँद दिखे तो उसे न पिएँ — फेंक दें। खुशबू का थोड़ा अलग होना और चाय का ख़राब हो जाना, दो अलग बातें हैं।"
+    },
+    {
+     "h": "वज़न घटाने और डिटॉक्स के दावे — कितना भरोसा करें",
+     "p": "सुनने में आता है कि पु-एर वज़न घटाने या डिटॉक्स के लिए ख़ास तौर पर असरदार है, लेकिन आख़िर में यह भी कैफ़ीन वाली एक चाय ही है, दवा नहीं। खाने के बाद एक कप गरम चाय पीना अच्छी आदत है, पर किसी चाय से दवा जैसा असर उम्मीद करना ठीक नहीं। और पहली धुलाई, जिसे 'चाय धोना' कहते हैं, ज़हर निकालने की प्रक्रिया नहीं है — यह धूल धोने और कसकर दबी पत्तियों को जगाने की तैयारी है।"
+    }
+   ],
+   "th": [
+    {
+     "h": "ชาผู่เอ๋อร์คืออะไร",
+     "p": "ผู่เอ๋อร์คือชาดำที่ทำจากใบชาพันธุ์ใบใหญ่ในมณฑลยูนนานของจีน วัตถุดิบคือ 'เหมาชา' ใบชาที่ผ่านการหยุดการออกซิเดชันแล้วตากแห้งด้วยแสงแดด จากนั้นชาจะเปลี่ยนแปลงต่อไปผ่านการหมักภายหลังที่มีจุลินทรีย์เข้ามาเกี่ยวข้อง ผู่เอ๋อร์จำนวนมากถูกอัดเป็นรูปทรงแน่น ๆ เช่น ปิ่งฉาแผ่นกลม จวนฉาอิฐ และถัวฉาทรงชาม แหล่งผลิตที่รู้จักกันดีที่สุดคือสิบสองปันนา หลินชาง และแถบผู่เอ๋อร์"
+    },
+    {
+     "h": "ชาดิบและชาสุก เป็นผู่เอ๋อร์แท้ทั้งคู่",
+     "p": "ผู่เอ๋อร์มีสองแบบ แบบดิบ (เชิงฉา) คือเหมาชาที่อัดเป็นแผ่นหรือเก็บแบบใบหลวม แล้วปล่อยให้ค่อย ๆ เปลี่ยนไปตามเวลาหลายปี ส่วนแบบสุก (โซ่วฉา) ใช้วิธี 'ว่อตุย' หรือการกองหมักแบบเปียก ซึ่งพัฒนาขึ้นราวปี 1973 ที่โรงงานชาคุนหมิงและที่อื่น ๆ โดยกองเหมาชา พรมน้ำ แล้วคลุมไว้ให้จุลินทรีย์หมักอย่างรวดเร็ว ดึงเอาการเปลี่ยนแปลงที่ชาดิบต้องใช้เวลาหลายปีให้เกิดเร็วขึ้น ผู่เอ๋อร์สุกไม่ใช่ของปลอมหรือของด้อยคุณภาพ แต่เป็นผู่เอ๋อร์อีกแบบที่ทำมาเพื่อให้ได้รสชาติที่นุ่มและเข้มในเวลาที่สั้นกว่า"
+    },
+    {
+     "h": "เงื่อนไขของคำว่า 'ยิ่งเก่ายิ่งดี'",
+     "p": "การบ่มจะมีความหมายก็ต่อเมื่อจุดเริ่มต้นดี ใบชาต้องมีคุณภาพตั้งแต่แรก และต้องเก็บในที่สะอาด อากาศถ่ายเทแต่ไม่ชื้นเกินไป เวลาจึงจะกลายเป็นรสชาติได้ ชาที่ดูดกลิ่นราในโกดังร้อนชื้น ต่อให้เก่าแค่ไหนก็ไม่กลายเป็นชาดี อย่าตัดสินจากปีที่พิมพ์บนห่อหรือตัวเลขบนป้ายราคา ให้ดูสภาพใบชาและความใสของกลิ่นกับรสในถ้วยแทน"
+    },
+    {
+     "h": "ผู่เอ๋อร์แท้ต้องมีกลิ่นราหรือไม่",
+     "p": "ผู่เอ๋อร์ที่บ่มมาอย่างดีจะมีกลิ่นลึกและนุ่มนวล คล้ายพุทราหรือผลไม้แห้ง ไม้ และสมุนไพรอ่อน ๆ ตรงกันข้าม กลิ่นราที่ฉุนแทงจมูก หรือกลิ่นอับแบบห้องใต้ดินชื้น ๆ ไม่ใช่เอกลักษณ์ของการหมัก แต่เป็นสัญญาณว่าการเก็บรักษาผิดพลาด หากเห็นราสีขาวหรือสีเขียวบนใบชา อย่าดื่ม ให้ทิ้งไป กลิ่นที่แปลกเล็กน้อยกับชาที่เสียแล้ว เป็นคนละเรื่องกัน"
+    },
+    {
+     "h": "เรื่องลดน้ำหนักและขับสารพิษ เชื่อได้แค่ไหน",
+     "p": "มักได้ยินว่าผู่เอ๋อร์ช่วยลดน้ำหนักหรือขับสารพิษได้เป็นพิเศษ แต่สุดท้ายผู่เอ๋อร์ก็เป็นชาที่มีคาเฟอีนชนิดหนึ่ง ไม่ใช่ยา การดื่มชาอุ่น ๆ หลังอาหารเป็นนิสัยที่ดี แต่ไม่ควรคาดหวังให้ชาหนึ่งถ้วยออกฤทธิ์เหมือนยา ส่วนการล้างชาครั้งแรกที่เรียกว่า 'ล้างชา' ไม่ใช่การขับพิษ แต่เป็นการล้างฝุ่นและปลุกใบชาที่อัดแน่นให้คลายตัว"
+    }
+   ],
+   "vi": [
+    {
+     "h": "Trà phổ nhĩ là gì?",
+     "p": "Phổ nhĩ là một loại hắc trà làm từ lá trà giống lá to ở tỉnh Vân Nam, Trung Quốc. Nguyên liệu là mao trà — lá trà đã diệt men rồi phơi khô dưới nắng (sái thanh) — sau đó trà tiếp tục thay đổi nhờ quá trình hậu lên men có vi sinh vật tham gia. Phần lớn phổ nhĩ được ép thành các dạng nén chặt: bánh trà hình tròn, gạch trà và đà trà hình bát. Tây Song Bản Nạp, Lâm Thương và vùng Phổ Nhĩ là những vùng sản xuất tiêu biểu nhất."
+    },
+    {
+     "h": "Phổ nhĩ sống và chín — cả hai đều là thật",
+     "p": "Phổ nhĩ có hai loại. Phổ nhĩ sống là mao trà được ép bánh hoặc để rời, thay đổi chậm rãi qua nhiều năm. Phổ nhĩ chín dùng phương pháp 'ốc đôi' (ủ đống ướt) được phát triển khoảng năm 1973 tại các nhà máy như Xưởng trà Côn Minh: mao trà được chất đống, tưới nước và phủ lại để vi sinh vật lên men nhanh, rút ngắn quá trình thay đổi mà phổ nhĩ sống cần nhiều năm mới đạt được. Phổ nhĩ chín không phải hàng giả hay hàng kém chất lượng, mà là một loại phổ nhĩ khác, làm ra để có vị êm và đậm trong thời gian ngắn hơn."
+    },
+    {
+     "h": "Khi nào thì 'càng lâu càng ngon' mới đúng",
+     "p": "Việc ủ lâu chỉ có ý nghĩa khi điểm xuất phát tốt. Lá trà phải có chất lượng ngay từ đầu, và trà phải được bảo quản ở nơi sạch sẽ — thoáng khí nhưng không quá ẩm — thì thời gian mới hóa thành hương vị. Trà đã ám mùi mốc trong nhà kho nóng ẩm thì dù để bao lâu cũng không thành trà ngon. Đừng phán đoán bằng năm in trên bao bì hay con số trên nhãn giá, hãy nhìn tình trạng của lá và độ trong của hương vị trong chén."
+    },
+    {
+     "h": "Phổ nhĩ thật có nhất thiết phải có mùi mốc?",
+     "p": "Phổ nhĩ được ủ tốt có mùi thơm sâu và dịu — như táo tàu hay trái cây khô, gỗ và thảo dược nhẹ. Ngược lại, mùi mốc nồng xộc mũi hay mùi ẩm ngột ngạt như hầm chứa đồ không phải là cá tính của quá trình lên men, mà là dấu hiệu bảo quản sai cách. Nếu thấy mốc trắng hoặc mốc xanh trên lá, đừng uống — hãy bỏ đi. Hương thơm hơi lạ một chút và trà đã hỏng là hai chuyện khác nhau."
+    },
+    {
+     "h": "Giảm cân và giải độc — nên tin đến đâu",
+     "p": "Người ta hay nói phổ nhĩ đặc biệt hiệu quả cho việc giảm cân hay giải độc, nhưng rốt cuộc nó cũng chỉ là một loại trà có caffeine, không phải thuốc. Uống một chén trà ấm sau bữa ăn là thói quen tốt, nhưng đừng kỳ vọng một chén trà có tác dụng như thuốc. Còn lần tráng trà đầu tiên, gọi là 'rửa trà', không phải để loại bỏ độc tố — nó chỉ rửa bụi và đánh thức những lá trà bị ép chặt để chúng nở ra."
+    }
+   ],
+   "ar": [
+    {
+     "h": "ما هو شاي بوير؟",
+     "p": "بوير شاي داكن يُصنع من أوراق شاي كبيرة الورقة في مقاطعة يونان الصينية. مادته الأساسية هي الماوتشا — أوراق تُقلى ثم تُجفَّف تحت الشمس (شايتشينغ) — ثم يستمر الشاي في التغيّر بفضل تخمّر لاحق تشارك فيه الكائنات الدقيقة. ويُضغط معظمه في أشكال مدمجة: أقراص مستديرة (بينغ تشا)، وقوالب كالطوب (تشوان تشا)، وقطع على شكل وعاء (تو تشا). ومن أشهر مناطق إنتاجه شيشوانغبانا ولينتسانغ ومنطقة بوير."
+    },
+    {
+     "h": "النيء والناضج — كلاهما بوير حقيقي",
+     "p": "يأتي البوير في نوعين. البوير النيء (شنغ) هو ماوتشا مضغوطة أو محفوظة سائبة تُترك لتتغيّر ببطء على مدى سنوات طويلة. أما البوير الناضج (شو) فيُصنع بطريقة «وودوي» أي التكديس الرطب، التي طُوّرت حوالي عام 1973 في مصانع مثل مصنع كونمينغ للشاي: تُكدَّس الماوتشا ويُرشّ عليها الماء وتُغطّى لتجري عملية التخمّر الميكروبي بسرعة، فيتحقق في وقت قصير التغيّر الذي يحتاج البوير النيء سنوات لبلوغه. البوير الناضج ليس مزيفًا ولا نسخة أدنى — إنه نوع آخر من البوير، صُنع ليمنح نكهة ناعمة وعميقة في وقت أقصر."
+    },
+    {
+     "h": "متى تصدق مقولة «كلما عتق كان أفضل»",
+     "p": "لا معنى للتعتيق إلا إذا كانت نقطة البداية جيدة. يجب أن تكون الأوراق سليمة من الأصل، وأن يُحفظ الشاي في بيئة نظيفة — جيدة التهوية دون رطوبة مفرطة — حتى يتحوّل الزمن إلى نكهة. أما الشاي الذي التقط رائحة العفن في مستودع حار ورطب فلن يصبح شايًا جيدًا مهما طال عمره. احكم من حالة الأوراق وصفاء الرائحة والطعم في الكوب، لا من السنة المطبوعة على الغلاف ولا من حجم الرقم على بطاقة السعر."
+    },
+    {
+     "h": "هل يجب أن تفوح من البوير الأصلي رائحة العفن؟",
+     "p": "البوير المعتّق جيدًا تفوح منه رائحة عميقة وناعمة — كالعنّاب أو الفاكهة المجففة والخشب والأعشاب الطبية الخفيفة. أما رائحة العفن الحادة التي تخترق الأنف، أو الرائحة الخانقة كرائحة قبو رطب، فليست طابع التخمّر بل علامة على خطأ في التخزين. وإذا رأيت عفنًا أبيض أو أخضر على الأوراق فلا تشربه — تخلّص منه. فالرائحة الغريبة قليلًا شيء، والشاي الفاسد شيء آخر."
+    },
+    {
+     "h": "ادعاءات التنحيف وإزالة السموم — كم نصدّق منها؟",
+     "p": "قد تسمع أن البوير فعّال بشكل خاص في التنحيف أو إزالة السموم، لكنه في النهاية شاي آخر يحتوي على الكافيين، وليس دواء. كوب دافئ بعد الوجبة عادة طيبة، لكن لا ينبغي توقّع أن يعمل أي كوب شاي كالأدوية. أما الشطف الأول، المسمى «غسل الشاي»، فليس لإخراج السموم — إنه يشطف الغبار ويوقظ الأوراق المضغوطة بإحكام لتنفتح."
+    }
+   ],
+   "ind": [
+    {
+     "h": "Apa itu teh pu-erh?",
+     "p": "Pu-erh adalah teh gelap yang dibuat dari tanaman teh berdaun besar di Provinsi Yunnan, Tiongkok. Bahan dasarnya adalah maocha — daun yang disangrai lalu dijemur di bawah matahari (shaiqing) — dan setelah itu teh terus berubah melalui pasca-fermentasi yang melibatkan mikroba. Sebagian besar pu-erh ditekan menjadi bentuk padat: lempengan bundar (bingcha), bata (zhuancha), dan bentuk mangkuk (tuocha). Xishuangbanna, Lincang, dan wilayah Pu'er adalah daerah penghasilnya yang paling terkenal."
+    },
+    {
+     "h": "Mentah dan matang — keduanya pu-erh asli",
+     "p": "Pu-erh ada dua jenis. Pu-erh mentah (sheng) adalah maocha yang ditekan atau disimpan lepas dan dibiarkan berubah perlahan selama bertahun-tahun. Pu-erh matang (shou) dibuat dengan wodui, metode 'penumpukan basah' yang dikembangkan sekitar tahun 1973 di pabrik-pabrik seperti Pabrik Teh Kunming: maocha ditumpuk, diperciki air, dan ditutup agar fermentasi mikroba berjalan cepat, menghadirkan perubahan yang pada pu-erh mentah membutuhkan waktu bertahun-tahun. Pu-erh matang bukanlah tiruan atau barang inferior — ia adalah jenis pu-erh lain, dibuat untuk rasa yang lembut dan dalam dalam waktu lebih singkat."
+    },
+    {
+     "h": "Kapan 'semakin tua semakin baik' benar-benar berlaku",
+     "p": "Penuaan hanya berarti jika titik awalnya baik. Daunnya harus bagus sejak awal, dan teh harus disimpan di lingkungan yang bersih — berventilasi, tetapi tidak terlalu lembap — agar waktu berubah menjadi rasa. Teh yang menyerap bau apek di gudang yang panas dan lembap tidak akan menjadi teh yang baik seberapa tua pun usianya. Nilailah dari keadaan daun serta kejernihan aroma dan rasa di cangkir, bukan dari tahun yang tercetak di bungkus atau besarnya angka di label harga."
+    },
+    {
+     "h": "Haruskah pu-erh asli berbau apek?",
+     "p": "Pu-erh yang menua dengan baik beraroma dalam dan lembut — seperti kurma merah atau buah kering, kayu, dan herba obat yang ringan. Sebaliknya, bau jamur tajam yang menusuk hidung, atau bau pengap seperti gudang bawah tanah yang lembap, bukanlah karakter fermentasi; itu tanda penyimpanannya salah. Jika Anda melihat jamur putih atau hijau pada daunnya, jangan diminum — buang saja. Aroma yang agak unik dan teh yang sudah rusak adalah dua hal yang berbeda."
+    },
+    {
+     "h": "Klaim diet dan detoks — seberapa jauh bisa dipercaya",
+     "p": "Anda mungkin mendengar pu-erh sangat efektif untuk diet atau detoks, tetapi pada akhirnya ia hanyalah satu lagi teh berkafein, bukan obat. Secangkir teh hangat setelah makan adalah kebiasaan yang baik, tetapi jangan berharap secangkir teh bekerja seperti obat. Dan bilasan pertama, yang disebut 'mencuci teh', bukan untuk mengeluarkan racun — bilasan itu membilas debu dan membangunkan daun yang tertekan rapat agar bisa membuka."
+    }
+   ],
+   "tur": [
+    {
+     "h": "Pu-erh çayı nedir?",
+     "p": "Pu-erh, Çin'in Yunnan eyaletindeki iri yapraklı çay bitkilerinden yapılan bir koyu çaydır. Ham maddesi, tavada kavrulup güneşte kurutulan (shaiqing) maocha'dır; çay daha sonra mikropların rol aldığı bir son fermentasyonla değişmeyi sürdürür. Çoğu, sıkıştırılmış biçimlerde satılır: yuvarlak diskler (bingcha), tuğlalar (zhuancha) ve kâse biçimli tuocha. Xishuangbanna, Lincang ve Pu'er yöresi en bilinen üretim bölgeleridir."
+    },
+    {
+     "h": "Çiğ ve olgun — ikisi de gerçek pu-erh",
+     "p": "Pu-erh iki türlüdür. Çiğ (sheng) pu-erh, maocha'nın preslenmiş ya da dökme hâlde saklanıp yıllar içinde yavaş yavaş değişmeye bırakılmasıdır. Olgun (shou) pu-erh ise 1973 dolaylarında Kunming Çay Fabrikası gibi fabrikalarda geliştirilen wodui, yani 'ıslak yığın' yöntemiyle yapılır: maocha yığılır, üzerine su serpilir ve örtülür; böylece mikrobiyal fermentasyon hızla ilerler ve çiğ pu-erh'in yıllar süren değişimi öne çekilir. Olgun pu-erh sahte ya da düşük kaliteli bir kopya değildir — daha kısa sürede yumuşak ve derin bir lezzet için yapılmış, başka bir pu-erh türüdür."
+    },
+    {
+     "h": "'Eskidikçe güzelleşir' sözü ne zaman geçerli?",
+     "p": "Yıllandırmanın anlamı, ancak başlangıç noktası iyiyse vardır. Yapraklar baştan sağlam olmalı, çay havadar ama aşırı nemli olmayan temiz bir ortamda saklanmalıdır ki zaman lezzete dönüşsün. Sıcak ve nemli bir depoda küf kokusu kapmış bir çay, ne kadar eski olursa olsun iyi çaya dönüşmez. Paketin üzerindeki yıla ya da etiketteki rakamın büyüklüğüne değil, yaprakların durumuna ve fincandaki koku ile tadın berraklığına bakarak karar verin."
+    },
+    {
+     "h": "Gerçek pu-erh küf mü kokmalı?",
+     "p": "İyi yıllanmış pu-erh derin ve yumuşak kokar — hünnap ya da kuru meyve, odun ve hafif şifalı bitkiler gibi. Buna karşılık burnu delen keskin bir küf kokusu ya da nemli bir mahzenin basık kokusu, fermentasyon karakteri değil, saklamanın yanlış gittiğinin işaretidir. Yapraklarda beyaz ya da yeşil küf görürseniz içmeyin — atın. Kokunun biraz farklı olması ile çayın bozulmuş olması iki ayrı şeydir."
+    },
+    {
+     "h": "Zayıflama ve detoks iddiaları — ne kadarına inanmalı?",
+     "p": "Pu-erh'in zayıflama ya da detoks için özellikle etkili olduğunu duyabilirsiniz, ama sonuçta o da kafein içeren bir çaydır, ilaç değildir. Yemekten sonra sıcak bir fincan içmek güzel bir alışkanlıktır, ancak bir fincan çayın ilaç gibi çalışması beklenmemelidir. 'Çayı yıkama' denen ilk dem suyunu dökmek de zehir atmak için değildir — tozu durular ve sıkıca preslenmiş yaprakları açılması için uyandırır."
+    }
+   ],
+   "es": [
+    {
+     "h": "¿Qué es el té pu-erh?",
+     "p": "El pu-erh es un té oscuro elaborado con plantas de té de hoja grande de la provincia china de Yunnan. Su materia prima es el maocha — hojas tostadas en sartén y secadas al sol (shaiqing) — y después el té sigue cambiando mediante una posfermentación en la que intervienen microbios. Gran parte se prensa en formas compactas: discos redondos (bingcha), ladrillos (zhuancha) y piezas en forma de cuenco (tuocha). Xishuangbanna, Lincang y la región de Pu'er son sus zonas productoras más conocidas."
+    },
+    {
+     "h": "Crudo y maduro: ambos son pu-erh de verdad",
+     "p": "El pu-erh tiene dos tipos. El crudo (sheng) es maocha prensado o guardado suelto que se deja cambiar lentamente durante años. El maduro (shou) se elabora con wodui, el método de 'apilado húmedo' desarrollado hacia 1973 en fábricas como la de Kunming: el maocha se amontona, se rocía con agua y se cubre para que la fermentación microbiana avance rápido, adelantando el cambio que al pu-erh crudo le lleva años. El pu-erh maduro no es una falsificación ni una copia inferior: es otro tipo de pu-erh, pensado para un sabor suave y profundo en menos tiempo."
+    },
+    {
+     "h": "Cuándo se cumple lo de 'cuanto más viejo, mejor'",
+     "p": "El envejecimiento solo tiene sentido si el punto de partida es bueno. Las hojas deben ser sanas desde el principio y el té debe guardarse en un ambiente limpio — ventilado, pero no excesivamente húmedo — para que el tiempo se convierta en sabor. Un té que ha cogido olor a moho en un almacén caluroso y húmedo no se vuelve buen té por muchos años que pasen. Juzga por el estado de las hojas y la claridad del aroma y el sabor en la taza, no por el año impreso en el envoltorio ni por el tamaño de la cifra en la etiqueta de precio."
+    },
+    {
+     "h": "¿El pu-erh auténtico debe oler a moho?",
+     "p": "Un pu-erh bien envejecido huele profundo y suave: a azufaifo o fruta seca, madera y hierbas medicinales delicadas. En cambio, un olor a moho fuerte que pica en la nariz, o el olor cerrado de un sótano húmedo, no es carácter de la fermentación, sino señal de que el almacenamiento falló. Si ves moho blanco o verde en las hojas, no lo bebas: tíralo. Un aroma un poco peculiar y un té estropeado son dos cosas distintas."
+    },
+    {
+     "h": "Adelgazar y desintoxicar: ¿hasta dónde creerlo?",
+     "p": "Quizá hayas oído que el pu-erh es especialmente eficaz para adelgazar o desintoxicar, pero al final es un té más con cafeína, no un medicamento. Una taza caliente después de comer es una buena costumbre, pero no hay que esperar que una taza de té actúe como un fármaco. Y el primer enjuague, llamado 'lavar el té', no sirve para eliminar toxinas: enjuaga el polvo y despierta las hojas fuertemente prensadas para que puedan abrirse."
+    }
+   ],
+   "fr": [
+    {
+     "h": "Qu'est-ce que le thé pu-erh ?",
+     "p": "Le pu-erh est un thé sombre fabriqué à partir de théiers à grandes feuilles de la province chinoise du Yunnan. Sa matière première est le maocha — des feuilles torréfiées puis séchées au soleil (shaiqing) — et le thé continue ensuite d'évoluer grâce à une post-fermentation où interviennent des microbes. Une grande partie est compressée en formes compactes : galettes rondes (bingcha), briques (zhuancha) et pièces en forme de bol (tuocha). Xishuangbanna, Lincang et la région de Pu'er en sont les zones de production les plus connues."
+    },
+    {
+     "h": "Brut et mûr : deux vrais pu-erh",
+     "p": "Le pu-erh existe sous deux formes. Le pu-erh brut (sheng) est du maocha compressé ou conservé en vrac, que l'on laisse évoluer lentement pendant des années. Le pu-erh mûr (shou) est fabriqué selon le wodui, la méthode d'« entassement humide » mise au point vers 1973 dans des usines comme celle de Kunming : le maocha est entassé, arrosé d'eau et couvert pour que la fermentation microbienne avance vite, anticipant le changement qui prend des années au pu-erh brut. Le pu-erh mûr n'est ni un faux ni une copie de moindre qualité : c'est un autre type de pu-erh, conçu pour une saveur douce et profonde en moins de temps."
+    },
+    {
+     "h": "Quand « plus vieux = meilleur » se vérifie",
+     "p": "Le vieillissement n'a de sens que si le point de départ est bon. Les feuilles doivent être saines dès le début, et le thé doit être conservé dans un environnement propre — ventilé, mais pas excessivement humide — pour que le temps se transforme en saveur. Un thé qui a pris une odeur de moisi dans un entrepôt chaud et humide ne deviendra jamais un bon thé, quel que soit son âge. Jugez d'après l'état des feuilles et la netteté de l'arôme et du goût dans la tasse, plutôt que d'après l'année imprimée sur l'emballage ou le montant sur l'étiquette de prix."
+    },
+    {
+     "h": "Un vrai pu-erh doit-il sentir le moisi ?",
+     "p": "Un pu-erh bien vieilli sent profond et doux : le jujube ou les fruits secs, le bois et de délicates plantes médicinales. En revanche, une forte odeur de moisi qui pique le nez, ou l'odeur renfermée d'une cave humide, n'est pas le caractère de la fermentation, mais le signe d'une conservation ratée. Si vous voyez de la moisissure blanche ou verte sur les feuilles, ne le buvez pas : jetez-le. Un parfum un peu particulier et un thé abîmé sont deux choses différentes."
+    },
+    {
+     "h": "Minceur et détox : jusqu'où y croire ?",
+     "p": "On entend dire que le pu-erh serait particulièrement efficace pour maigrir ou se détoxifier, mais au bout du compte, c'est un thé de plus contenant de la caféine, pas un médicament. Une tasse chaude après le repas est une bonne habitude, mais il ne faut pas attendre d'une tasse de thé qu'elle agisse comme un remède. Et le premier rinçage, appelé « laver le thé », ne sert pas à éliminer des toxines : il rince la poussière et réveille les feuilles fortement compressées pour qu'elles puissent s'ouvrir."
+    }
+   ],
+   "ms": [
+    {
+     "h": "Apakah teh pu-erh?",
+     "p": "Pu-erh ialah teh gelap yang dibuat daripada pokok teh berdaun besar di Wilayah Yunnan, China. Bahan asasnya ialah maocha — daun yang digoreng kering lalu dijemur di bawah matahari (shaiqing) — dan selepas itu teh terus berubah melalui pasca-penapaian yang melibatkan mikrob. Kebanyakannya ditekan menjadi bentuk padat: kepingan bulat (bingcha), bata (zhuancha), dan bentuk mangkuk (tuocha). Xishuangbanna, Lincang, dan kawasan Pu'er adalah kawasan pengeluarnya yang paling terkenal."
+    },
+    {
+     "h": "Mentah dan matang — kedua-duanya pu-erh sebenar",
+     "p": "Pu-erh terbahagi kepada dua jenis. Pu-erh mentah (sheng) ialah maocha yang ditekan atau disimpan lepas dan dibiarkan berubah perlahan-lahan selama bertahun-tahun. Pu-erh matang (shou) dibuat dengan wodui, kaedah 'penimbunan basah' yang dibangunkan sekitar tahun 1973 di kilang seperti Kilang Teh Kunming: maocha ditimbun, direnjis air, dan ditutup supaya penapaian mikrob berjalan pantas, mendahulukan perubahan yang mengambil masa bertahun-tahun pada pu-erh mentah. Pu-erh matang bukan tiruan atau salinan yang lebih rendah mutunya — ia adalah sejenis lagi pu-erh, dibuat untuk rasa yang lembut dan mendalam dalam masa yang lebih singkat."
+    },
+    {
+     "h": "Bilakah 'semakin tua semakin baik' benar-benar berlaku",
+     "p": "Penuaan hanya bermakna jika titik permulaannya baik. Daunnya mestilah elok sejak awal, dan teh mesti disimpan dalam persekitaran yang bersih — berpengudaraan, tetapi tidak terlalu lembap — barulah masa bertukar menjadi rasa. Teh yang menyerap bau kulat di gudang yang panas dan lembap tidak akan menjadi teh yang baik walau berapa lama pun usianya. Nilailah berdasarkan keadaan daun serta kejernihan aroma dan rasa di dalam cawan, bukan tahun yang tercetak pada bungkusan atau besarnya angka pada label harga."
+    },
+    {
+     "h": "Perlukah pu-erh sebenar berbau kulat?",
+     "p": "Pu-erh yang menua dengan baik berbau dalam dan lembut — seperti kurma merah atau buah kering, kayu, dan herba ubat yang ringan. Sebaliknya, bau kulat yang tajam menusuk hidung, atau bau hapak seperti bilik bawah tanah yang lembap, bukanlah sifat penapaian; itu tanda penyimpanan telah gagal. Jika anda nampak kulat putih atau hijau pada daunnya, jangan minum — buang sahaja. Aroma yang agak unik dan teh yang telah rosak adalah dua perkara yang berbeza."
+    },
+    {
+     "h": "Dakwaan langsing dan detoks — sejauh mana boleh dipercayai",
+     "p": "Anda mungkin mendengar pu-erh amat berkesan untuk melangsingkan badan atau detoks, tetapi akhirnya ia hanyalah satu lagi teh berkafeina, bukan ubat. Secawan teh hangat selepas makan adalah tabiat yang baik, tetapi jangan mengharapkan secawan teh bertindak seperti ubat. Dan bilasan pertama, yang dipanggil 'mencuci teh', bukan untuk membuang toksin — ia membilas habuk dan mengejutkan daun yang ditekan rapat supaya dapat membuka."
+    }
+   ]
+  },
+  "related": [
+   "dark-sheng",
+   "dark-shou"
+  ]
  }
 ];
