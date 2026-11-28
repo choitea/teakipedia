@@ -32154,10 +32154,10 @@ window.TEAFaiData = (function () {
   "herb-ginger": {
     "f": "herb-ginger.jpg",
     "m": "exact",
-    "cr": "commons.wikimedia.org",
-    "lic": "",
+    "cr": "Snarkmaster",
+    "lic": "Public domain",
     "lu": "",
-    "pg": ""
+    "pg": "https://commons.wikimedia.org/wiki/File:Ginger-cross-section.jpg"
   },
   "fruit-yuja": {
     "f": "fruit-yuja.jpg",
